@@ -1,5 +1,9 @@
 # Cover Serie TV
 
-Questa cartella contiene i poster e i backdrop delle serie TV, seguendo la stessa convenzione di naming di covers/film:
+Poster e backdrop delle serie TV, con la stessa convenzione di naming di covers/film:
 
-`serie_[slug]_[anno].jpg` e `serie_[slug]_[anno]_backdrop.jpg`
+- Poster principale: `series_[slug]_poster.jpg`
+- Backdrop principale: `series_[slug]_backdrop.jpg`
+- Poster per singola stagione: `series_[slug]_s[N].jpg` (es. `series_breaking_bad_s1.jpg`)
+
+Il campo "slug" è il titolo in minuscolo con underscore al posto degli spazi (es. "Breaking Bad" -> `breaking_bad`).
