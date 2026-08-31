@@ -1,0 +1,8 @@
+{
+  "_readme": "Aggiungi qui un'entry per ogni manga da tracciare. La chiave e' l'id del manga nel file MediaVault (es. m1, m2...). Per trovare id/slug AnimeClick: cerca il titolo su animeclick.it -> scheda manga -> tab 'Volumetti' -> copia dall'URL (es. animeclick.it/manga/9593/gto/edizioni -> id:9593, slug:'gto'). Stesso per mangavariant.com/manga/{slug}/.",
+  "_esempio_m999": {
+    "title": "G.T.O.",
+    "animeclick": { "id": 9593, "slug": "gto" },
+    "mangavariant": { "slug": "gto" }
+  }
+}
