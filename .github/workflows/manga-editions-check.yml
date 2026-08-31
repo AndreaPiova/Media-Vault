@@ -1,0 +1,32 @@
+name: Aggiorna edizioni manga italiane e variant
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Esegui lo scraper
+        run: node scripts/scrape-manga-editions.mjs
+
+      - name: Commit risultati (solo se cambiati)
+        run: |
+          git config user.name "manga-editions-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/manga-editions.json
+          git diff --staged --quiet && echo "Nessuna modifica, salto il commit" || git commit -m "Aggiorna edizioni manga [automatico]"
+          git push
