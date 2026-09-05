@@ -27,6 +27,6 @@ jobs:
         run: |
           git config user.name "manga-editions-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/manga-editions.json data/_debug-mangavariant.json 2>/dev/null || git add data/manga-editions.json
+          git add data/manga-editions.json
           git diff --staged --quiet && echo "Nessuna modifica, salto il commit" || git commit -m "Aggiorna edizioni manga [automatico]"
           git push
