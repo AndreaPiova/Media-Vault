@@ -1,8 +1,330 @@
 {
   "_readme": "Aggiungi qui un'entry per ogni manga da tracciare. La chiave e' l'id del manga nel file MediaVault (es. m1, m2...). Per trovare id/slug AnimeClick: cerca il titolo su animeclick.it -> scheda manga -> tab 'Volumetti' -> copia dall'URL (es. animeclick.it/manga/9593/gto/edizioni -> id:9593, slug:'gto'). Stesso per mangavariant.com/manga/{slug}/.",
-  "_esempio_m999": {
-    "title": "G.T.O.",
+  "m1": {
+    "title": "Slam Dunk",
+    "animeclick": { "id": 9551, "slug": "slam-dunk" }
+  },
+  "m2": {
+    "title": "Solo Leveling",
+    "animeclick": { "id": 27917, "slug": "solo-leveling-ore-dake-level-up-na-ken" }
+  },
+  "m3": {
+    "title": "La ragazza in riva al mare",
+    "animeclick": { "id": 11721, "slug": "umibe-no-onnanoko" }
+  },
+  "m4": {
+    "title": "20th Century Boys",
+    "animeclick": { "id": 9544, "slug": "20th-century-boys" }
+  },
+  "m5": {
+    "title": "Blame",
+    "animeclick": { "id": 9549, "slug": "blame" }
+  },
+  "m6": {
+    "title": "Blue Lock",
+    "animeclick": { "id": 28155, "slug": "blue-lock" }
+  },
+  "m7": {
+    "title": "The Killer Inside",
+    "animeclick": { "id": 28992, "slug": "shinai-naru-boku-e-satsui-wo-komete" }
+  },
+  "m8": {
+    "title": "La fine del mondo e prima dell'alba",
+    "animeclick": { "id": 11201, "slug": "sekai-no-owari-to-yoakemae" }
+  },
+  "m9": {
+    "title": "Il prezzo di una vita",
+    "animeclick": { "id": 21109, "slug": "jumyou-wo-kaitotte-moratta-ichinen-ni-tsuki-ichimanen-de" }
+  },
+  "m10": {
+    "title": "Chainsaw Man",
+    "animeclick": { "id": 26858, "slug": "chainsaw-man" }
+  },
+  "m11": {
+    "title": "Dr. Stone",
+    "animeclick": { "id": 20953, "slug": "dr-stone" }
+  },
+  "m12": {
+    "title": "All You Need Is Kill",
+    "animeclick": { "id": 14628, "slug": "all-you-need-is-kill" }
+  },
+  "m13": {
+    "title": "Made in Abyss",
+    "animeclick": { "id": 17466, "slug": "made-in-abyss" },
+    "mangavariant": { "slug": "made-in-abyss" }
+  },
+  "m14": {
+    "title": "Monster",
+    "animeclick": { "id": 9605, "slug": "monster" }
+  },
+  "m15": {
+    "title": "One Piece",
+    "animeclick": { "id": 9556, "slug": "one-piece" }
+  },
+  "m16": {
+    "title": "One Punch Man",
+    "animeclick": { "id": 12995, "slug": "one-punch-man" },
+    "mangavariant": { "slug": "one-punch-man" }
+  },
+  "m17": {
+    "title": "Planetes",
+    "animeclick": { "id": 10026, "slug": "planetes" }
+  },
+  "m18": {
+    "title": "Shaman King",
+    "animeclick": { "id": 9558, "slug": "shaman-king" }
+  },
+  "m19": {
+    "title": "Attack on Titan",
+    "animeclick": { "id": 11470, "slug": "shingeki-no-kyojin" }
+  },
+  "m20": {
+    "title": "Fire Punch",
+    "animeclick": { "id": 17807, "slug": "fire-punch" }
+  },
+  "m21": {
+    "title": "Tokyo Revengers",
+    "animeclick": { "id": 21077, "slug": "tokyo-revengers" },
+    "mangavariant": { "slug": "tokyo-revengers" }
+  },
+  "m22": {
+    "title": "Vinland Saga",
+    "animeclick": { "id": 9855, "slug": "vinland-saga" }
+  },
+  "m23": {
+    "title": "Alita",
+    "animeclick": { "id": 9575, "slug": "alita" }
+  },
+  "m24": {
+    "title": "Akira",
+    "animeclick": { "id": 9679, "slug": "akira" }
+  },
+  "m25": {
+    "title": "Alice in Borderland",
+    "animeclick": { "id": 13683, "slug": "imawa-no-kuni-no-alice" },
+    "mangavariant": { "slug": "alice-in-borderland" }
+  },
+  "m26": {
+    "title": "Berserk",
+    "animeclick": { "id": 9607, "slug": "berserk" }
+  },
+  "m27": {
+    "title": "Kaijuu no. 8",
+    "animeclick": { "id": 33736, "slug": "kaiju-no.-8" }
+  },
+  "m28": {
+    "title": "Dandadan",
+    "animeclick": { "id": 38190, "slug": "dandadan" }
+  },
+  "m30": {
+    "title": "Ashita no Joe",
+    "animeclick": { "id": 9606, "slug": "rocky-joe" },
+    "mangavariant": { "slug": "rocky-joe" }
+  },
+  "m29": {
+    "title": "Tower of God",
+    "animeclick": { "id": 13329, "slug": "tower-of-god" },
+    "mangavariant": { "slug": "tower-of-god" }
+  },
+  "m31": {
+    "title": "Blue Period",
+    "animeclick": { "id": 26229, "slug": "blue-period" }
+  },
+  "m32": {
+    "title": "Bleach",
+    "animeclick": { "id": 9546, "slug": "bleach" }
+  },
+  "m33": {
+    "title": "Dorohedoro",
+    "animeclick": { "id": 12866, "slug": "dorohedoro" },
+    "mangavariant": { "slug": "dorohedoro" }
+  },
+  "m34": {
+    "title": "Deadman Wonderland",
+    "animeclick": { "id": 10600, "slug": "deadman-wonderland" }
+  },
+  "m35": {
+    "title": "Death Note",
+    "animeclick": { "id": 9724, "slug": "death-note" }
+  },
+  "m36": {
+    "title": "Fullmetal Alchemist",
+    "animeclick": { "id": 9548, "slug": "fullmetal-alchemist" }
+  },
+  "m37": {
+    "title": "GTO",
     "animeclick": { "id": 9593, "slug": "gto" },
     "mangavariant": { "slug": "gto" }
+  },
+  "m38": {
+    "title": "Homunculus",
+    "animeclick": { "id": 9586, "slug": "homunculus" }
+  },
+  "m39": {
+    "title": "Oyasumi Punpun",
+    "animeclick": { "id": 11139, "slug": "oyasumi-punpun" }
+  },
+  "m40": {
+    "title": "Houseki no Kuni",
+    "animeclick": { "id": 14437, "slug": "houseki-no-kuni" }
+  },
+  "m41": {
+    "title": "I Am Hero",
+    "animeclick": { "id": 11263, "slug": "i-am-a-hero" }
+  },
+  "m44": {
+    "title": "Solanin",
+    "animeclick": { "id": 11170, "slug": "solanin" }
+  },
+  "m43": {
+    "title": "Jagaaaaaan",
+    "animeclick": { "id": 20367, "slug": "jagaaaaaan" }
+  },
+  "m45": {
+    "title": "Jujutsu Kaisen",
+    "animeclick": { "id": 24949, "slug": "jujutsu-kaisen" }
+  },
+  "m46": {
+    "title": "Juujika no Rokunin",
+    "animeclick": { "id": 32928, "slug": "juujika-no-rokunin" }
+  },
+  "m47": {
+    "title": "Kingdom",
+    "animeclick": { "id": 11200, "slug": "kingdom" }
+  },
+  "m48": {
+    "title": "Mushishi",
+    "animeclick": { "id": 10555, "slug": "mushishi" }
+  },
+  "m49": {
+    "title": "Real",
+    "animeclick": { "id": 9581, "slug": "real" }
+  },
+  "m51": {
+    "title": "Record of Ragnarok",
+    "animeclick": { "id": 25741, "slug": "shuumatsu-no-walkure" },
+    "mangavariant": { "slug": "record-of-ragnarok" }
+  },
+  "m52": {
+    "title": "Spy x Family",
+    "animeclick": { "id": 28184, "slug": "spy-x-family" },
+    "mangavariant": { "slug": "spy-x-family" }
+  },
+  "m53": {
+    "title": "Sun-Ken Rock",
+    "animeclick": { "id": 10594, "slug": "sun-ken-rock" }
+  },
+  "m54": {
+    "title": "Tegamibachi",
+    "animeclick": { "id": 9931, "slug": "letter-bee" }
+  },
+  "m55": {
+    "title": "The Horizon",
+    "animeclick": { "id": 38518, "slug": "the-horizon" }
+  },
+  "m56": {
+    "title": "The Promised Neverland",
+    "animeclick": { "id": 18277, "slug": "the-promised-neverland" }
+  },
+  "m57": {
+    "title": "Dededemon Dededestruction",
+    "animeclick": { "id": 14986, "slug": "dead-dead-demon-s-dededededestruction" }
+  },
+  "m70": {
+    "title": "MPD Psycho",
+    "animeclick": { "id": 9560, "slug": "mpd-psycho" }
+  },
+  "m58": {
+    "title": "Beastars",
+    "animeclick": { "id": 21227, "slug": "beastars" },
+    "mangavariant": { "slug": "beastars" }
+  },
+  "m59": {
+    "title": "Gantz",
+    "animeclick": { "id": 10174, "slug": "gantz" }
+  },
+  "m60": {
+    "title": "Claymore",
+    "animeclick": { "id": 9621, "slug": "claymore" }
+  },
+  "m61": {
+    "title": "To Your Eternity",
+    "animeclick": { "id": 20716, "slug": "fumetsu-no-anata-e" }
+  },
+  "m62": {
+    "title": "Hanako-kun",
+    "animeclick": { "id": 19348, "slug": "jinbaku-shounen-hanako-kun" }
+  },
+  "m63": {
+    "title": "Hell's Paradise",
+    "animeclick": { "id": 23991, "slug": "jigokuraku" }
+  },
+  "m64": {
+    "title": "Spice & Wolf",
+    "animeclick": { "id": 10309, "slug": "spice-and-wolf" }
+  },
+  "m65": {
+    "title": "Komi-san",
+    "animeclick": { "id": 18458, "slug": "komi-san-wa-komyushou-desu" },
+    "mangavariant": { "slug": "komi-can-t-communicate" }
+  },
+  "m66": {
+    "title": "No Longer Human",
+    "animeclick": { "id": 11407, "slug": "ningen-shikkaku" }
+  },
+  "m67": {
+    "title": "Pandora Hearts",
+    "animeclick": { "id": 10882, "slug": "pandora-hearts" }
+  },
+  "m68": {
+    "title": "Rurouni Kenshin",
+    "animeclick": { "id": 9591, "slug": "rurouni-kenshin" }
+  },
+  "m69": {
+    "title": "Frieren",
+    "animeclick": { "id": 32313, "slug": "sousou-no-frieren" }
+  },
+  "m71": {
+    "title": "Grand Blue",
+    "animeclick": { "id": 15753, "slug": "grand-blue" }
+  },
+  "m73": {
+    "title": "Classroom of the Elite",
+    "animeclick": { "id": 21468, "slug": "classroom-of-the-elite" }
+  },
+  "m94": {
+    "title": "Radiant",
+    "animeclick": { "id": 18698, "slug": "radiant" }
+  },
+  "m99": {
+    "title": "Galaxias",
+    "animeclick": { "id": 58390, "slug": "galaxias" }
+  },
+  "_nota_watchlist": "Le voci sotto (chiave 'watch_*') non hanno ancora una pagina AnimeClick con edizione italiana pubblicata: nessun id da collegare per ora, lo scraper le ignora senza errori. Sono comunque coperte dal controllo generico AniList (aggiornamenti sull'opera originale), che include un link di ricerca manuale nella notifica. Da ricontrollare periodicamente: appena un editore annuncia l'uscita italiana, cercare la nuova pagina su animeclick.it e spostare il titolo sopra con id/slug reali.",
+  "watch_m50": { "title": "Sekai no Owari no Hajimari ni" },
+  "watch_m72": { "title": "Utsuro no Hako to Zero no Maria" },
+  "watch_m74": { "title": "Your Talent Is Mine" },
+  "watch_m75": { "title": "The Beginning After the End" },
+  "watch_m76": { "title": "Leveling Up with the Gods" },
+  "watch_m77": { "title": "Poison Dragon" },
+  "watch_m78": { "title": "Return of the Crazy Demon" },
+  "watch_m79": { "title": "Return of the Unrivaled Spear Knight" },
+  "watch_m80": { "title": "Solo Max-Level Newbie" },
+  "watch_m81": { "title": "A Returner's Magic Should Be Special" },
+  "watch_m82": { "title": "Great Mage Returns After 4000 Years" },
+  "watch_m83": { "title": "Nano Machine" },
+  "watch_m84": { "title": "Legend of the Northern Blade" },
+  "watch_m86": { "title": "Mercenary Enrollment" },
+  "watch_m87": { "title": "God Game" },
+  "watch_m88": { "title": "Her Summon" },
+  "watch_m89": { "title": "Reverend Insanity" },
+  "watch_m90": { "title": "Lord of Mysteries" },
+  "watch_m91": { "title": "Age of Adepts" },
+  "watch_m92": { "title": "House of Horrors" },
+  "watch_m93": { "title": "Warlock of the Magus World" },
+  "watch_m98": { "title": "Birth of the Demonic Sword" },
+  "m85": {
+    "title": "Omniscient Reader's Viewpoint",
+    "animeclick": { "id": 34279, "slug": "omniscient-reader" }
   }
 }
