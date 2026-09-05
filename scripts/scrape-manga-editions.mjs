@@ -7,25 +7,16 @@ const DELAY_MS = 800;
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
-async function fetchText(url, debugTag) {
+async function fetchText(url) {
   try {
     const res = await fetch(url, { headers: {
       'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
       'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
       'Accept-Language': 'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7'
     } });
-    const text = await res.text();
-    if (debugTag) {
-      global.__DEBUG__ = global.__DEBUG__ || {};
-      global.__DEBUG__[debugTag] = { status: res.status, len: text.length, sample: text.slice(0, 300) };
-    }
     if (!res.ok) { console.log(`  [!] ${url} -> HTTP ${res.status}`); return null; }
-    return text;
+    return await res.text();
   } catch (e) {
-    if (debugTag) {
-      global.__DEBUG__ = global.__DEBUG__ || {};
-      global.__DEBUG__[debugTag] = { error: e.message };
-    }
     console.log(`  [!] ${url} -> errore rete: ${e.message}`);
     return null;
   }
@@ -85,7 +76,7 @@ async function main() {
 
     if (cfg.mangavariant && cfg.mangavariant.slug) {
       const url = `https://mangavariant.com/manga/${cfg.mangavariant.slug}/`;
-      const html = await fetchText(url, `mv_${mangaId}`);
+      const html = await fetchText(url);
       const variants = parseMangaVariantList(html, cfg.mangavariant.slug);
       console.log(`  mangavariant.com: trovate ${variants.length} variant`);
       entry.variants = variants;
@@ -98,10 +89,6 @@ async function main() {
 
   writeFileSync(OUTPUT_PATH, JSON.stringify(result, null, 2));
   console.log(`\nScritto ${OUTPUT_PATH} con ${Object.keys(result).length} titoli.`);
-
-  if (global.__DEBUG__) {
-    writeFileSync('data/_debug-mangavariant.json', JSON.stringify(global.__DEBUG__, null, 2));
-  }
 }
 
 main();
