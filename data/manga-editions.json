@@ -52,7 +52,7 @@
         "count": 10
       }
     ],
-    "lastChecked": "2026-09-22T09:42:44.584Z"
+    "lastChecked": "2026-09-23T09:49:55.498Z"
   },
   "m2": {
     "editions": [
@@ -72,7 +72,7 @@
         "count": 2
       }
     ],
-    "lastChecked": "2026-09-22T09:42:45.673Z"
+    "lastChecked": "2026-09-23T09:49:56.639Z"
   },
   "m3": {
     "editions": [
@@ -82,7 +82,7 @@
         "count": 6
       }
     ],
-    "lastChecked": "2026-09-22T09:42:46.640Z"
+    "lastChecked": "2026-09-23T09:49:57.628Z"
   },
   "m4": {
     "editions": [
@@ -102,7 +102,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:42:47.652Z"
+    "lastChecked": "2026-09-23T09:49:58.808Z"
   },
   "m5": {
     "editions": [
@@ -157,7 +157,7 @@
         "count": 6
       }
     ],
-    "lastChecked": "2026-09-22T09:42:48.745Z"
+    "lastChecked": "2026-09-23T09:49:59.949Z"
   },
   "m6": {
     "editions": [
@@ -192,7 +192,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:42:49.835Z"
+    "lastChecked": "2026-09-23T09:50:01.090Z"
   },
   "m7": {
     "editions": [
@@ -202,7 +202,7 @@
         "count": 11
       }
     ],
-    "lastChecked": "2026-09-22T09:42:50.803Z"
+    "lastChecked": "2026-09-23T09:50:02.077Z"
   },
   "m8": {
     "editions": [
@@ -212,7 +212,7 @@
         "count": 4
       }
     ],
-    "lastChecked": "2026-09-22T09:42:51.768Z"
+    "lastChecked": "2026-09-23T09:50:03.074Z"
   },
   "m9": {
     "editions": [
@@ -227,7 +227,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:42:52.740Z"
+    "lastChecked": "2026-09-23T09:50:04.070Z"
   },
   "m10": {
     "editions": [
@@ -265,9 +265,14 @@
         "group": "Chainsaw Man Calendario 2023 con variant&nbsp;",
         "maxVol": 0,
         "count": 1
+      },
+      {
+        "group": "Chainsaw Man Christmas Variant&nbsp;",
+        "maxVol": 1,
+        "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:42:53.821Z"
+    "lastChecked": "2026-09-23T09:50:05.217Z"
   },
   "m11": {
     "editions": [
@@ -287,7 +292,7 @@
         "count": 2
       }
     ],
-    "lastChecked": "2026-09-22T09:42:54.793Z"
+    "lastChecked": "2026-09-23T09:50:06.367Z"
   },
   "m12": {
     "editions": [
@@ -302,12 +307,12 @@
         "count": 2
       }
     ],
-    "lastChecked": "2026-09-22T09:42:55.758Z"
+    "lastChecked": "2026-09-23T09:50:07.357Z"
   },
   "m13": {
     "editions": [],
     "variants": [],
-    "lastChecked": "2026-09-22T09:42:58.313Z"
+    "lastChecked": "2026-09-23T09:50:09.977Z"
   },
   "m14": {
     "editions": [
@@ -322,7 +327,7 @@
         "count": 41
       }
     ],
-    "lastChecked": "2026-09-22T09:42:59.398Z"
+    "lastChecked": "2026-09-23T09:50:11.118Z"
   },
   "m15": {
     "editions": [
@@ -422,14 +427,14 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:43:00.681Z"
+    "lastChecked": "2026-09-23T09:50:12.496Z"
   },
   "m16": {
     "editions": [
       {
         "group": "One-Punch Man&nbsp;",
-        "maxVol": 35,
-        "count": 83
+        "maxVol": 36,
+        "count": 84
       },
       {
         "group": "One-Punch Man Variant FX&nbsp;",
@@ -448,8 +453,8 @@
       },
       {
         "group": "One-Punch Man Variant&nbsp;",
-        "maxVol": 35,
-        "count": 17
+        "maxVol": 36,
+        "count": 18
       },
       {
         "group": "One-Punch Man Instant Variant&nbsp;",
@@ -463,7 +468,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-09-22T09:43:03.286Z"
+    "lastChecked": "2026-09-23T09:50:15.321Z"
   },
   "m17": {
     "editions": [
@@ -483,7 +488,7 @@
         "count": 2
       }
     ],
-    "lastChecked": "2026-09-22T09:43:04.255Z"
+    "lastChecked": "2026-09-23T09:50:16.308Z"
   },
   "m18": {
     "editions": [
@@ -493,7 +498,7 @@
         "count": 40
       }
     ],
-    "lastChecked": "2026-09-22T09:43:05.337Z"
+    "lastChecked": "2026-09-23T09:50:17.456Z"
   },
   "m19": {
     "editions": [
@@ -628,7 +633,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:43:06.470Z"
+    "lastChecked": "2026-09-23T09:50:18.658Z"
   },
   "m20": {
     "editions": [
@@ -648,7 +653,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:43:07.446Z"
+    "lastChecked": "2026-09-23T09:50:19.646Z"
   },
   "m21": {
     "editions": [
@@ -699,7 +704,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-09-22T09:43:10.018Z"
+    "lastChecked": "2026-09-23T09:50:22.353Z"
   },
   "m22": {
     "editions": [
@@ -729,7 +734,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:43:11.131Z"
+    "lastChecked": "2026-09-23T09:50:23.493Z"
   },
   "m23": {
     "editions": [
@@ -769,7 +774,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:43:12.220Z"
+    "lastChecked": "2026-09-23T09:50:24.635Z"
   },
   "m24": {
     "editions": [
@@ -814,7 +819,7 @@
         "count": 6
       }
     ],
-    "lastChecked": "2026-09-22T09:43:13.283Z"
+    "lastChecked": "2026-09-23T09:50:25.802Z"
   },
   "m25": {
     "editions": [
@@ -830,7 +835,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-09-22T09:43:15.703Z"
+    "lastChecked": "2026-09-23T09:50:28.351Z"
   },
   "m26": {
     "editions": [
@@ -940,7 +945,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:43:16.928Z"
+    "lastChecked": "2026-09-23T09:50:29.597Z"
   },
   "m27": {
     "editions": [
@@ -975,7 +980,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:43:18.006Z"
+    "lastChecked": "2026-09-23T09:50:30.590Z"
   },
   "m28": {
     "editions": [
@@ -1010,7 +1015,7 @@
         "count": 2
       }
     ],
-    "lastChecked": "2026-09-22T09:43:19.086Z"
+    "lastChecked": "2026-09-23T09:50:31.728Z"
   },
   "m30": {
     "editions": [
@@ -1031,7 +1036,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-09-22T09:43:21.664Z"
+    "lastChecked": "2026-09-23T09:50:34.524Z"
   },
   "m29": {
     "editions": [
@@ -1047,7 +1052,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-09-22T09:43:23.563Z"
+    "lastChecked": "2026-09-23T09:50:36.476Z"
   },
   "m31": {
     "editions": [
@@ -1072,7 +1077,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:43:24.639Z"
+    "lastChecked": "2026-09-23T09:50:37.625Z"
   },
   "m32": {
     "editions": [
@@ -1132,7 +1137,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:43:25.919Z"
+    "lastChecked": "2026-09-23T09:50:39.017Z"
   },
   "m33": {
     "editions": [
@@ -1143,7 +1148,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-09-22T09:43:28.303Z"
+    "lastChecked": "2026-09-23T09:50:41.627Z"
   },
   "m34": {
     "editions": [
@@ -1153,7 +1158,7 @@
         "count": 30
       }
     ],
-    "lastChecked": "2026-09-22T09:43:29.381Z"
+    "lastChecked": "2026-09-23T09:50:42.784Z"
   },
   "m35": {
     "editions": [
@@ -1213,7 +1218,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:43:30.511Z"
+    "lastChecked": "2026-09-23T09:50:43.976Z"
   },
   "m36": {
     "editions": [
@@ -1283,7 +1288,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:43:31.676Z"
+    "lastChecked": "2026-09-23T09:50:45.173Z"
   },
   "m37": {
     "editions": [
@@ -1329,7 +1334,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-09-22T09:43:34.218Z"
+    "lastChecked": "2026-09-23T09:50:47.999Z"
   },
   "m38": {
     "editions": [
@@ -1339,7 +1344,7 @@
         "count": 55
       }
     ],
-    "lastChecked": "2026-09-22T09:43:35.194Z"
+    "lastChecked": "2026-09-23T09:50:49.151Z"
   },
   "m39": {
     "editions": [
@@ -1354,7 +1359,7 @@
         "count": 7
       }
     ],
-    "lastChecked": "2026-09-22T09:43:36.277Z"
+    "lastChecked": "2026-09-23T09:50:50.288Z"
   },
   "m40": {
     "editions": [
@@ -1369,7 +1374,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:43:37.245Z"
+    "lastChecked": "2026-09-23T09:50:51.282Z"
   },
   "m41": {
     "editions": [
@@ -1394,7 +1399,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:43:38.336Z"
+    "lastChecked": "2026-09-23T09:50:52.426Z"
   },
   "m44": {
     "editions": [
@@ -1409,7 +1414,7 @@
         "count": 2
       }
     ],
-    "lastChecked": "2026-09-22T09:43:39.305Z"
+    "lastChecked": "2026-09-23T09:50:53.415Z"
   },
   "m43": {
     "editions": [
@@ -1424,7 +1429,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:43:40.283Z"
+    "lastChecked": "2026-09-23T09:50:54.510Z"
   },
   "m45": {
     "editions": [
@@ -1504,7 +1509,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:43:41.384Z"
+    "lastChecked": "2026-09-23T09:50:55.669Z"
   },
   "m46": {
     "editions": [
@@ -1514,7 +1519,7 @@
         "count": 15
       }
     ],
-    "lastChecked": "2026-09-22T09:43:42.351Z"
+    "lastChecked": "2026-09-23T09:50:56.658Z"
   },
   "m47": {
     "editions": [
@@ -1524,7 +1529,7 @@
         "count": 76
       }
     ],
-    "lastChecked": "2026-09-22T09:43:43.454Z"
+    "lastChecked": "2026-09-23T09:50:57.821Z"
   },
   "m48": {
     "editions": [
@@ -1534,7 +1539,7 @@
         "count": 10
       }
     ],
-    "lastChecked": "2026-09-22T09:43:44.421Z"
+    "lastChecked": "2026-09-23T09:50:58.805Z"
   },
   "m49": {
     "editions": [
@@ -1544,7 +1549,7 @@
         "count": 39
       }
     ],
-    "lastChecked": "2026-09-22T09:43:45.503Z"
+    "lastChecked": "2026-09-23T09:50:59.943Z"
   },
   "m51": {
     "editions": [
@@ -1570,7 +1575,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-09-22T09:43:48.134Z"
+    "lastChecked": "2026-09-23T09:51:02.573Z"
   },
   "m52": {
     "editions": [
@@ -1581,8 +1586,8 @@
       },
       {
         "group": "Spy X Family&nbsp;",
-        "maxVol": 16,
-        "count": 30
+        "maxVol": 17,
+        "count": 31
       },
       {
         "group": "Spy X Family Variant&nbsp;",
@@ -1616,7 +1621,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-09-22T09:43:50.153Z"
+    "lastChecked": "2026-09-23T09:51:04.681Z"
   },
   "m53": {
     "editions": [
@@ -1636,7 +1641,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:43:51.232Z"
+    "lastChecked": "2026-09-23T09:51:05.824Z"
   },
   "m54": {
     "editions": [
@@ -1646,7 +1651,7 @@
         "count": 22
       }
     ],
-    "lastChecked": "2026-09-22T09:43:52.285Z"
+    "lastChecked": "2026-09-23T09:51:06.959Z"
   },
   "m55": {
     "editions": [
@@ -1661,7 +1666,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:43:53.252Z"
+    "lastChecked": "2026-09-23T09:51:07.944Z"
   },
   "m56": {
     "editions": [
@@ -1701,7 +1706,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:43:54.332Z"
+    "lastChecked": "2026-09-23T09:51:09.093Z"
   },
   "m57": {
     "editions": [
@@ -1711,7 +1716,7 @@
         "count": 19
       }
     ],
-    "lastChecked": "2026-09-22T09:43:55.412Z"
+    "lastChecked": "2026-09-23T09:51:10.114Z"
   },
   "m70": {
     "editions": [
@@ -1726,7 +1731,7 @@
         "count": 39
       }
     ],
-    "lastChecked": "2026-09-22T09:43:56.494Z"
+    "lastChecked": "2026-09-23T09:51:11.253Z"
   },
   "m58": {
     "editions": [
@@ -1742,7 +1747,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-09-22T09:43:58.950Z"
+    "lastChecked": "2026-09-23T09:51:13.784Z"
   },
   "m59": {
     "editions": [
@@ -1757,7 +1762,7 @@
         "count": 42
       }
     ],
-    "lastChecked": "2026-09-22T09:44:00.054Z"
+    "lastChecked": "2026-09-23T09:51:14.804Z"
   },
   "m60": {
     "editions": [
@@ -1772,11 +1777,11 @@
         "count": 27
       }
     ],
-    "lastChecked": "2026-09-22T09:44:01.183Z"
+    "lastChecked": "2026-09-23T09:51:15.951Z"
   },
   "m61": {
     "editions": [],
-    "lastChecked": "2026-09-22T09:44:02.125Z"
+    "lastChecked": "2026-09-23T09:51:16.913Z"
   },
   "m62": {
     "editions": [
@@ -1801,7 +1806,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:44:03.210Z"
+    "lastChecked": "2026-09-23T09:51:18.057Z"
   },
   "m63": {
     "editions": [
@@ -1811,7 +1816,7 @@
         "count": 13
       }
     ],
-    "lastChecked": "2026-09-22T09:44:04.176Z"
+    "lastChecked": "2026-09-23T09:51:19.049Z"
   },
   "m64": {
     "editions": [
@@ -1826,7 +1831,7 @@
         "count": 8
       }
     ],
-    "lastChecked": "2026-09-22T09:44:05.291Z"
+    "lastChecked": "2026-09-23T09:51:20.185Z"
   },
   "m65": {
     "editions": [
@@ -1847,7 +1852,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-09-22T09:44:07.796Z"
+    "lastChecked": "2026-09-23T09:51:22.953Z"
   },
   "m66": {
     "editions": [
@@ -1862,7 +1867,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:44:08.761Z"
+    "lastChecked": "2026-09-23T09:51:23.950Z"
   },
   "m67": {
     "editions": [
@@ -1892,7 +1897,7 @@
         "count": 13
       }
     ],
-    "lastChecked": "2026-09-22T09:44:09.846Z"
+    "lastChecked": "2026-09-23T09:51:24.940Z"
   },
   "m68": {
     "editions": [
@@ -1907,7 +1912,7 @@
         "count": 22
       }
     ],
-    "lastChecked": "2026-09-22T09:44:10.928Z"
+    "lastChecked": "2026-09-23T09:51:26.081Z"
   },
   "m69": {
     "editions": [
@@ -1942,7 +1947,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:44:12.005Z"
+    "lastChecked": "2026-09-23T09:51:27.089Z"
   },
   "m71": {
     "editions": [
@@ -1962,11 +1967,11 @@
         "count": 3
       }
     ],
-    "lastChecked": "2026-09-22T09:44:12.974Z"
+    "lastChecked": "2026-09-23T09:51:28.077Z"
   },
   "m73": {
     "editions": [],
-    "lastChecked": "2026-09-22T09:44:13.935Z"
+    "lastChecked": "2026-09-23T09:51:29.063Z"
   },
   "m94": {
     "editions": [
@@ -1986,86 +1991,86 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-09-22T09:44:15.064Z"
+    "lastChecked": "2026-09-23T09:51:30.200Z"
   },
   "m99": {
     "editions": [],
-    "lastChecked": "2026-09-22T09:44:16.030Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m50": {
-    "lastChecked": "2026-09-22T09:44:16.030Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m72": {
-    "lastChecked": "2026-09-22T09:44:16.030Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m74": {
-    "lastChecked": "2026-09-22T09:44:16.030Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m75": {
-    "lastChecked": "2026-09-22T09:44:16.030Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m76": {
-    "lastChecked": "2026-09-22T09:44:16.030Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m77": {
-    "lastChecked": "2026-09-22T09:44:16.030Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m78": {
-    "lastChecked": "2026-09-22T09:44:16.030Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m79": {
-    "lastChecked": "2026-09-22T09:44:16.030Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m80": {
-    "lastChecked": "2026-09-22T09:44:16.030Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m81": {
-    "lastChecked": "2026-09-22T09:44:16.030Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m82": {
-    "lastChecked": "2026-09-22T09:44:16.030Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m83": {
-    "lastChecked": "2026-09-22T09:44:16.030Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m84": {
-    "lastChecked": "2026-09-22T09:44:16.030Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m86": {
-    "lastChecked": "2026-09-22T09:44:16.030Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m87": {
-    "lastChecked": "2026-09-22T09:44:16.031Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m88": {
-    "lastChecked": "2026-09-22T09:44:16.031Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m89": {
-    "lastChecked": "2026-09-22T09:44:16.031Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m90": {
-    "lastChecked": "2026-09-22T09:44:16.031Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m91": {
-    "lastChecked": "2026-09-22T09:44:16.031Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m92": {
-    "lastChecked": "2026-09-22T09:44:16.031Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m93": {
-    "lastChecked": "2026-09-22T09:44:16.031Z"
+    "lastChecked": "2026-09-23T09:51:31.181Z"
   },
   "watch_m98": {
-    "lastChecked": "2026-09-22T09:44:16.031Z"
+    "lastChecked": "2026-09-23T09:51:31.182Z"
   },
   "m85": {
     "editions": [
       {
         "group": "Omniscient Reader&#039;s Viewpoint&nbsp;",
-        "maxVol": 7,
-        "count": 7
+        "maxVol": 8,
+        "count": 8
       }
     ],
-    "lastChecked": "2026-09-22T09:44:16.997Z"
+    "lastChecked": "2026-09-23T09:51:32.167Z"
   }
 }
