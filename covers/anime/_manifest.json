@@ -82,5 +82,137 @@
    "2": "Jujutsu Kaisen 2nd Season",
    "3": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen"
   }
+ },
+ "a3": {
+  "title": "Hunter x Hunter",
+  "mal": 136,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_hunter_x_hunter_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_hunter_x_hunter_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "HUNTER×HUNTER"
+  }
+ },
+ "a5": {
+  "title": "Your Name",
+  "mal": 32281,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_your_name_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_your_name_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Kimi no Na wa."
+  }
+ },
+ "a7": {
+  "title": "Dr. Stone",
+  "mal": 38691,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dr_stone_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dr_stone_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dr_stone_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Dr. STONE",
+   "2": "Dr. STONE: STONE WARS"
+  }
+ },
+ "a8": {
+  "title": "Vinland Saga",
+  "mal": 37521,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_vinland_saga_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_vinland_saga_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_vinland_saga_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "VINLAND SAGA",
+   "2": "VINLAND SAGA SEASON 2"
+  }
+ },
+ "a9": {
+  "title": "Made in Abyss",
+  "mal": 34599,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_made_in_abyss_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_made_in_abyss_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Made in Abyss"
+  }
+ },
+ "a10": {
+  "title": "Horimiya",
+  "mal": 42897,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_horimiya_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_horimiya_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Horimiya"
+  }
+ },
+ "a11": {
+  "title": "Kuroko no Basket",
+  "mal": 11771,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kuroko_no_basket_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kuroko_no_basket_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kuroko_no_basket_s3.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kuroko_no_basket_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Kuroko no Basket",
+   "2": "Kuroko no Basket 2nd SEASON",
+   "3": "Kuroko no Basket 3rd SEASON"
+  }
+ },
+ "a12": {
+  "title": "Parasyte",
+  "mal": 22535,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_parasyte_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_parasyte_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Kiseijuu: Sei no Kakuritsu"
+  }
  }
 }
