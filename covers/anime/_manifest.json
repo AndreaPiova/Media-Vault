@@ -926,5 +926,125 @@
   "matched": {
    "1": "Howl no Ugoku Shiro"
   }
+ },
+ "a57": {
+  "title": "Sakamoto desu ga",
+  "mal": 32542,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_sakamoto_desu_ga_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_sakamoto_desu_ga_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Sakamoto desu ga?"
+  }
+ },
+ "a58": {
+  "title": "Inuyashiki",
+  "mal": 34542,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_inuyashiki_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_inuyashiki_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Inuyashiki"
+  }
+ },
+ "a59": {
+  "title": "Toradora",
+  "mal": 4224,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_toradora_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_toradora_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Toradora!"
+  }
+ },
+ "a60": {
+  "title": "Odd Taxi",
+  "mal": 46102,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_odd_taxi_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_odd_taxi_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Odd Taxi"
+  }
+ },
+ "a61": {
+  "title": "Wonder Egg Priority",
+  "mal": 43299,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_wonder_egg_priority_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_wonder_egg_priority_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Wonder Egg Priority"
+  }
+ },
+ "a62": {
+  "title": "Death Parade",
+  "mal": 28223,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_death_parade_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_death_parade_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Death Parade"
+  }
+ },
+ "a63": {
+  "title": "Charlotte",
+  "mal": 28999,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_charlotte_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_charlotte_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Charlotte"
+  }
+ },
+ "a64": {
+  "title": "Evangelion",
+  "mal": 30,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_evangelion_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_evangelion_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Shin Seiki Evangelion"
+  }
  }
 }
