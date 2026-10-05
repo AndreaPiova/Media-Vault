@@ -2423,5 +2423,128 @@
   "matched": {
    "1": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
   }
+ },
+ "a147": {
+  "title": "Sen to Chihiro no Kamikakushi",
+  "mal": 199,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_sen_to_chihiro_no_kamikakushi_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_sen_to_chihiro_no_kamikakushi_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Sen to Chihiro no Kamikakushi"
+  }
+ },
+ "a148": {
+  "title": "Shangri-La Frontier",
+  "mal": 52347,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_shangri_la_frontier_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_shangri_la_frontier_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Shangri-La Frontier"
+  }
+ },
+ "a149": {
+  "title": "Shigatsu wa Kimi no Uso",
+  "mal": 23273,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_shigatsu_wa_kimi_no_uso_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_shigatsu_wa_kimi_no_uso_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Shigatsu wa Kimi no Uso"
+  }
+ },
+ "a150": {
+  "title": "Slam Dunk",
+  "mal": 170,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_slam_dunk_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_slam_dunk_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "SLAM DUNK"
+  }
+ },
+ "a151": {
+  "title": "Soul Eater",
+  "mal": 3588,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_soul eater_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_soul eater_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Soul Eater"
+  }
+ },
+ "a152": {
+  "title": "Sousou no Frieren",
+  "mal": 52991,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_sousou_no_frieren_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_sousou_no_frieren_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_sousou_no_frieren_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Sousou no Frieren",
+   "2": "Sousou no Frieren 2nd Season"
+  }
+ },
+ "a153": {
+  "title": "Tenkuu no Shiro Laputa",
+  "mal": 513,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tenkuu_no_shiro_laputa_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tenkuu_no_shiro_laputa_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Tenkuu no Shiro Laputa"
+  }
+ },
+ "a154": {
+  "title": "Tensei shitara Slime Datta Ken",
+  "mal": 37430,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tensei_shitara_slime_datta_ken_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tensei_shitara_slime_datta_ken_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Tensei Shitara Slime Datta Ken"
+  }
  }
 }
