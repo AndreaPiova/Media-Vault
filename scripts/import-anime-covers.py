@@ -64,7 +64,9 @@ def names(m):
 def find_first(it, is_movie):
     d = anilist("query($q:String){Page(perPage:12){media(search:$q,type:ANIME){%s}}}" % FIELDS, {"q": it["title"]})
     want = ("MOVIE",) if is_movie else ("TV",)
-    cands = [m for m in d["Page"]["media"] if m["format"] in want] or ([m for m in d["Page"]["media"] if m["format"] in ("MOVIE", "TV")] if is_movie else [])
+    pool = d["Page"]["media"]
+    cands = [m for m in pool if m["format"] in want] or ([m for m in pool if m["format"] in ("MOVIE", "TV")] if is_movie else [])
+    if not cands: cands = [m for m in pool if m["format"] in ("TV", "ONA", "OVA", "MOVIE", "TV_SHORT", "SPECIAL")]
     if not cands: return None
     n = norm(it["title"])
     def score(m):
