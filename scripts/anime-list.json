@@ -1,0 +1,2826 @@
+[
+{
+"id": "a1",
+"title": "Attack on Titan",
+"totalEps": 94,
+"duration": 24,
+"seasons": [
+{
+"label": "Stagione 1",
+"type": "TV",
+"year": 2013,
+"eps": 25,
+"malId": 16498
+},
+{
+"label": "Stagione 2",
+"type": "TV",
+"year": 2017,
+"eps": 12,
+"malId": 25777
+},
+{
+"label": "Stagione 3 Parte 1",
+"type": "TV",
+"year": 2018,
+"eps": 12,
+"malId": 35760
+},
+{
+"label": "Stagione 3 Parte 2",
+"type": "TV",
+"year": 2019,
+"eps": 10,
+"malId": 38524
+},
+{
+"label": "Stagione Finale Parte 1",
+"type": "TV",
+"year": 2020,
+"eps": 16,
+"malId": 40028
+},
+{
+"label": "Stagione Finale Parte 2",
+"type": "TV",
+"year": 2022,
+"eps": 12,
+"malId": 48583
+},
+{
+"label": "Stagione Finale - Kanketsu-hen (Parte 3)",
+"type": "TV Special",
+"year": 2023,
+"eps": 2,
+"malId": 51535
+}
+]
+},
+{
+"id": "a2",
+"title": "One Piece",
+"totalEps": 1172,
+"duration": 24,
+"seasons": [
+{
+"label": "East Blue",
+"type": "TV",
+"year": 1999,
+"eps": 61,
+"malId": null
+},
+{
+"label": "Whiskey Peak",
+"type": "TV",
+"year": 2001,
+"eps": 8,
+"malId": null
+},
+{
+"label": "Little Garden",
+"type": "TV",
+"year": 2001,
+"eps": 8,
+"malId": null
+},
+{
+"label": "Drum Island",
+"type": "TV",
+"year": 2001,
+"eps": 14,
+"malId": null
+},
+{
+"label": "Alabasta",
+"type": "TV",
+"year": 2001,
+"eps": 44,
+"malId": null
+},
+{
+"label": "Jaya",
+"type": "TV",
+"year": 2003,
+"eps": 17,
+"malId": null
+},
+{
+"label": "Skypiea",
+"type": "TV",
+"year": 2003,
+"eps": 54,
+"malId": null
+},
+{
+"label": "Water Seven",
+"type": "TV",
+"year": 2004,
+"eps": 57,
+"malId": null
+},
+{
+"label": "Enies Lobby",
+"type": "TV",
+"year": 2006,
+"eps": 62,
+"malId": null
+},
+{
+"label": "Thriller Bark",
+"type": "TV",
+"year": 2008,
+"eps": 59,
+"malId": null
+},
+{
+"label": "Sabaody Archipelago",
+"type": "TV",
+"year": 2008,
+"eps": 23,
+"malId": null
+},
+{
+"label": "Amazon Lily",
+"type": "TV",
+"year": 2009,
+"eps": 14,
+"malId": null
+},
+{
+"label": "Impel Down",
+"type": "TV",
+"year": 2009,
+"eps": 35,
+"malId": null
+},
+{
+"label": "Marineford",
+"type": "TV",
+"year": 2010,
+"eps": 60,
+"malId": null
+},
+{
+"label": "Fishman Island",
+"type": "TV",
+"year": 2011,
+"eps": 58,
+"malId": null
+},
+{
+"label": "Punk Hazard",
+"type": "TV",
+"year": 2013,
+"eps": 54,
+"malId": null
+},
+{
+"label": "Dressrosa",
+"type": "TV",
+"year": 2014,
+"eps": 118,
+"malId": null
+},
+{
+"label": "Zou",
+"type": "TV",
+"year": 2016,
+"eps": 36,
+"malId": null
+},
+{
+"label": "Whole Cake Island",
+"type": "TV",
+"year": 2017,
+"eps": 95,
+"malId": null
+},
+{
+"label": "Reverie",
+"type": "TV",
+"year": 2019,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Wano Country",
+"type": "TV",
+"year": 2019,
+"eps": 196,
+"malId": null
+},
+{
+"label": "Egghead",
+"type": "TV",
+"year": 2024,
+"eps": 70,
+"malId": null
+},
+{
+"label": "Elbaf",
+"type": "TV",
+"year": 2026,
+"eps": 17,
+"malId": null
+}
+]
+},
+{
+"id": "a3",
+"title": "Hunter x Hunter",
+"totalEps": 148,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a4",
+"title": "A Silent Voice",
+"totalEps": 1,
+"duration": 130,
+"seasons": []
+},
+{
+"id": "a5",
+"title": "Your Name",
+"totalEps": 1,
+"duration": 106,
+"seasons": []
+},
+{
+"id": "a6",
+"title": "Jujutsu Kaisen",
+"totalEps": 59,
+"duration": 24,
+"seasons": [
+{
+"label": "Jujutsu Kaisen",
+"type": "TV",
+"year": 2020,
+"eps": 24,
+"malId": null
+},
+{
+"label": "Jujutsu Kaisen Season 2",
+"type": "TV",
+"year": 2023,
+"eps": 23,
+"malId": null
+},
+{
+"label": "Jujutsu Kaisen Season 3: The Culling Game Part 1",
+"type": "TV",
+"year": 2026,
+"eps": 12,
+"malId": null
+}
+]
+},
+{
+"id": "a7",
+"title": "Dr. Stone",
+"totalEps": 95,
+"duration": 24,
+"seasons": [
+{
+"label": "Dr. Stone",
+"type": "TV",
+"year": 2019,
+"eps": 24,
+"malId": null
+},
+{
+"label": "Dr. Stone Season 2",
+"type": "TV",
+"year": 2021,
+"eps": 11,
+"malId": null
+},
+{
+"label": "Dr. Stone: Ryusui",
+"type": "TV Special",
+"year": 2022,
+"eps": 1,
+"malId": null
+},
+{
+"label": "Dr. Stone: New World",
+"type": "TV",
+"year": 2023,
+"eps": 11,
+"malId": null
+},
+{
+"label": "Dr. Stone: New World Cour 2",
+"type": "TV",
+"year": 2023,
+"eps": 11,
+"malId": null
+},
+{
+"label": "Dr. Stone: Science Future",
+"type": "TV",
+"year": 2025,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Dr. Stone: Science Future Cour 2",
+"type": "TV",
+"year": 2025,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Dr. Stone: Science Future Cour 3",
+"type": "TV",
+"year": 2026,
+"eps": 13,
+"malId": null
+}
+]
+},
+{
+"id": "a8",
+"title": "Vinland Saga",
+"totalEps": 48,
+"duration": 24,
+"seasons": [
+{
+"label": "Stagione 1",
+"type": "TV",
+"year": 2019,
+"eps": 24,
+"malId": null
+},
+{
+"label": "Stagione 2",
+"type": "TV",
+"year": 2023,
+"eps": 24,
+"malId": null
+}
+]
+},
+{
+"id": "a9",
+"title": "Made in Abyss",
+"totalEps": 25,
+"duration": 25,
+"seasons": [
+{
+"label": "Stagione 1",
+"type": "TV",
+"year": 2017,
+"eps": 13,
+"malId": null
+},
+{
+"label": "Stagione 2",
+"type": "TV",
+"year": 2022,
+"eps": 12,
+"malId": null
+}
+]
+},
+{
+"id": "a10",
+"title": "Horimiya",
+"totalEps": 16,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a11",
+"title": "Kuroko no Basket",
+"totalEps": 75,
+"duration": 24,
+"seasons": [
+{
+"label": "Kuroko's Basketball",
+"type": "TV",
+"year": 2012,
+"eps": 25,
+"malId": null
+},
+{
+"label": "Kuroko's Basketball 2",
+"type": "TV",
+"year": 2013,
+"eps": 25,
+"malId": null
+},
+{
+"label": "Kuroko's Basketball 3",
+"type": "TV",
+"year": 2015,
+"eps": 25,
+"malId": null
+}
+]
+},
+{
+"id": "a12",
+"title": "Parasyte",
+"totalEps": 24,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a13",
+"title": "Erased",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a14",
+"title": "Fullmetal Alchemist Brotherhood",
+"totalEps": 64,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a15",
+"title": "Steins;Gate",
+"totalEps": 24,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a16",
+"title": "Death Note",
+"totalEps": 37,
+"duration": 23,
+"seasons": []
+},
+{
+"id": "a17",
+"title": "Code Geass",
+"totalEps": 50,
+"duration": 24,
+"seasons": [
+{
+"label": "Code Geass: Lelouch of the Rebellion",
+"type": "TV",
+"year": 2006,
+"eps": 25,
+"malId": null
+},
+{
+"label": "Code Geass: Lelouch of the Rebellion R2",
+"type": "TV",
+"year": 2008,
+"eps": 25,
+"malId": null
+}
+]
+},
+{
+"id": "a18",
+"title": "Chainsaw Man",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a19",
+"title": "Gurren Lagann",
+"totalEps": 27,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a20",
+"title": "Cyberpunk: Edgerunners",
+"totalEps": 10,
+"duration": 25,
+"seasons": []
+},
+{
+"id": "a21",
+"title": "Heavenly Delusion",
+"totalEps": 13,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a22",
+"title": "Naruto",
+"totalEps": 720,
+"duration": 23,
+"seasons": [
+{
+"label": "Naruto",
+"type": "TV",
+"year": 2002,
+"eps": 220,
+"malId": null
+},
+{
+"label": "Naruto: Shippuden",
+"type": "TV",
+"year": 2007,
+"eps": 500,
+"malId": null
+}
+]
+},
+{
+"id": "a23",
+"title": "JoJo's Bizarre Adventure",
+"totalEps": 191,
+"duration": 24,
+"seasons": [
+{
+"label": "JoJo's Bizarre Adventure",
+"type": "TV",
+"year": 2012,
+"eps": 26,
+"malId": null
+},
+{
+"label": "JoJo's Bizarre Adventure: Stardust Crusaders",
+"type": "TV",
+"year": 2014,
+"eps": 48,
+"malId": null
+},
+{
+"label": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+"type": "TV",
+"year": 2016,
+"eps": 39,
+"malId": null
+},
+{
+"label": "JoJo's Bizarre Adventure: Golden Wind",
+"type": "TV",
+"year": 2018,
+"eps": 39,
+"malId": null
+},
+{
+"label": "JoJo's Bizarre Adventure: Stone Ocean",
+"type": "TV",
+"year": 2022,
+"eps": 38,
+"malId": null
+},
+{
+"label": "Steel Ball Run: JoJo's Bizarre Adventure",
+"type": "TV",
+"year": 2026,
+"eps": 1,
+"malId": null
+}
+]
+},
+{
+"id": "a24",
+"title": "Love is War",
+"totalEps": 40,
+"duration": 24,
+"seasons": [
+{
+"label": "Kaguya-sama: Love is War",
+"type": "TV",
+"year": 2019,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Kaguya-sama: Love is War?",
+"type": "TV",
+"year": 2020,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Kaguya-sama: Love is War - Ultra Romantic",
+"type": "TV",
+"year": 2022,
+"eps": 13,
+"malId": null
+},
+{
+"label": "Kaguya-sama: Love is War - The First Kiss That Never Ends",
+"type": "Movie",
+"year": 2022,
+"eps": 1,
+"malId": null
+},
+{
+"label": "Kaguya-sama: Love is War - Stairway to Adulthood",
+"type": "TV Special",
+"year": 2026,
+"eps": 2,
+"malId": null
+}
+]
+},
+{
+"id": "a25",
+"title": "Assassination Classroom",
+"totalEps": 47,
+"duration": 24,
+"seasons": [
+{
+"label": "Assassination Classroom",
+"type": "TV",
+"year": 2015,
+"eps": 22,
+"malId": null
+},
+{
+"label": "Assassination Classroom 2nd Season",
+"type": "TV",
+"year": 2016,
+"eps": 25,
+"malId": null
+}
+]
+},
+{
+"id": "a26",
+"title": "My Dress-Up Darling",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a27",
+"title": "Summertime Rendering",
+"totalEps": 25,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a28",
+"title": "Classroom of the Elite",
+"totalEps": 54,
+"duration": 24,
+"seasons": [
+{
+"label": "Classroom of the Elite",
+"type": "TV",
+"year": 2017,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Classroom of the Elite II",
+"type": "TV",
+"year": 2022,
+"eps": 13,
+"malId": null
+},
+{
+"label": "Classroom of the Elite III",
+"type": "TV",
+"year": 2024,
+"eps": 13,
+"malId": null
+},
+{
+"label": "Classroom of the Elite 4th Season: Second Year, First Semester",
+"type": "TV",
+"year": 2026,
+"eps": 16,
+"malId": null
+}
+]
+},
+{
+"id": "a29",
+"title": "Hell's Paradise",
+"totalEps": 13,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a30",
+"title": "Tokyo Revengers",
+"totalEps": 50,
+"duration": 24,
+"seasons": [
+{
+"label": "Tokyo Revengers",
+"type": "TV",
+"year": 2021,
+"eps": 24,
+"malId": null
+},
+{
+"label": "Tokyo Revengers: Seiya Kessen-hen",
+"type": "TV",
+"year": 2023,
+"eps": 13,
+"malId": null
+},
+{
+"label": "Tokyo Revengers: Tenjiku-hen",
+"type": "TV",
+"year": 2023,
+"eps": 13,
+"malId": null
+}
+]
+},
+{
+"id": "a31",
+"title": "Kanata no Astra",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a32",
+"title": "Solo Leveling",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a33",
+"title": "Blue Lock",
+"totalEps": 24,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a34",
+"title": "Terror in Resonance",
+"totalEps": 11,
+"duration": 22,
+"seasons": []
+},
+{
+"id": "a35",
+"title": "Spy x Family",
+"totalEps": 50,
+"duration": 24,
+"seasons": [
+{
+"label": "Spy x Family",
+"type": "TV",
+"year": 2022,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Spy x Family Part 2",
+"type": "TV",
+"year": 2022,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Spy x Family Season 2",
+"type": "TV",
+"year": 2023,
+"eps": 13,
+"malId": null
+},
+{
+"label": "Spy x Family Season 3",
+"type": "TV",
+"year": 2025,
+"eps": 13,
+"malId": null
+}
+]
+},
+{
+"id": "a36",
+"title": "Dororo",
+"totalEps": 24,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a37",
+"title": "Tower of God",
+"totalEps": 13,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a38",
+"title": "Tomodachi Game",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a39",
+"title": "Btooom!",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a40",
+"title": "Grand Blue",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a41",
+"title": "One Punch Man",
+"totalEps": 36,
+"duration": 24,
+"seasons": [
+{
+"label": "One Punch Man",
+"type": "TV",
+"year": 2015,
+"eps": 12,
+"malId": null
+},
+{
+"label": "One Punch Man 2nd Season",
+"type": "TV",
+"year": 2019,
+"eps": 12,
+"malId": null
+},
+{
+"label": "One Punch Man Season 3",
+"type": "TV",
+"year": 2025,
+"eps": 12,
+"malId": null
+}
+]
+},
+{
+"id": "a42",
+"title": "My Hero Academia",
+"totalEps": 171,
+"duration": 24,
+"seasons": [
+{
+"label": "My Hero Academia",
+"type": "TV",
+"year": 2016,
+"eps": 13,
+"malId": null
+},
+{
+"label": "My Hero Academia 2nd Season",
+"type": "TV",
+"year": 2017,
+"eps": 25,
+"malId": null
+},
+{
+"label": "My Hero Academia 3rd Season",
+"type": "TV",
+"year": 2018,
+"eps": 25,
+"malId": null
+},
+{
+"label": "My Hero Academia 4th Season",
+"type": "TV",
+"year": 2019,
+"eps": 25,
+"malId": null
+},
+{
+"label": "My Hero Academia 5th Season",
+"type": "TV",
+"year": 2021,
+"eps": 25,
+"malId": null
+},
+{
+"label": "My Hero Academia 6th Season",
+"type": "TV",
+"year": 2022,
+"eps": 25,
+"malId": null
+},
+{
+"label": "My Hero Academia 7th Season",
+"type": "TV",
+"year": 2024,
+"eps": 21,
+"malId": null
+},
+{
+"label": "My Hero Academia: Final Season",
+"type": "TV",
+"year": 2025,
+"eps": 11,
+"malId": null
+},
+{
+"label": "My Hero Academia: Final Season - Speciale bonus",
+"type": "TV Special",
+"year": 2026,
+"eps": 1,
+"malId": null
+}
+]
+},
+{
+"id": "a43",
+"title": "God Eater",
+"totalEps": 13,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a44",
+"title": "Ao Haru Ride",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a45",
+"title": "The Promised Neverland",
+"totalEps": 23,
+"duration": 24,
+"seasons": [
+{
+"label": "The Promised Neverland",
+"type": "TV",
+"year": 2019,
+"eps": 12,
+"malId": null
+},
+{
+"label": "The Promised Neverland 2nd Season",
+"type": "TV",
+"year": 2021,
+"eps": 11,
+"malId": null
+}
+]
+},
+{
+"id": "a46",
+"title": "Demon Slayer",
+"totalEps": 64,
+"duration": 23,
+"seasons": [
+{
+"label": "Kimetsu no Yaiba",
+"type": "TV",
+"year": 2019,
+"eps": 26,
+"malId": null
+},
+{
+"label": "Kimetsu no Yaiba: Mugen Ressha-hen",
+"type": "TV",
+"year": 2021,
+"eps": 7,
+"malId": null
+},
+{
+"label": "Kimetsu no Yaiba: Yuukaku-hen",
+"type": "TV",
+"year": 2021,
+"eps": 11,
+"malId": null
+},
+{
+"label": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+"type": "TV",
+"year": 2023,
+"eps": 11,
+"malId": null
+},
+{
+"label": "Kimetsu no Yaiba: Hashira Geiko-hen",
+"type": "TV",
+"year": 2024,
+"eps": 8,
+"malId": null
+},
+{
+"label": "Kimetsu no Yaiba: Mugen Jou-hen (Infinity Castle) Parte 1",
+"type": "Movie",
+"year": 2025,
+"eps": 1,
+"malId": null
+}
+]
+},
+{
+"id": "a47",
+"title": "Pluto",
+"totalEps": 8,
+"duration": 45,
+"seasons": []
+},
+{
+"id": "a48",
+"title": "Josee to Tora to Sakana-tachi",
+"totalEps": 1,
+"duration": 98,
+"seasons": []
+},
+{
+"id": "a49",
+"title": "I Want to Eat Your Pancreas",
+"totalEps": 1,
+"duration": 108,
+"seasons": []
+},
+{
+"id": "a50",
+"title": "Mob Psycho 100",
+"totalEps": 37,
+"duration": 24,
+"seasons": [
+{
+"label": "Mob Psycho 100",
+"type": "TV",
+"year": 2016,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Mob Psycho 100 II",
+"type": "TV",
+"year": 2019,
+"eps": 13,
+"malId": null
+},
+{
+"label": "Mob Psycho 100 III",
+"type": "TV",
+"year": 2022,
+"eps": 12,
+"malId": null
+}
+]
+},
+{
+"id": "a51",
+"title": "No Game No Life",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a52",
+"title": "Anohana",
+"totalEps": 11,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a53",
+"title": "Shoujo Shuumatsu Ryokou",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a54",
+"title": "Deca-Dence",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a55",
+"title": "Prison School",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a56",
+"title": "Howl's Moving Castle",
+"totalEps": 1,
+"duration": 119,
+"seasons": []
+},
+{
+"id": "a57",
+"title": "Sakamoto desu ga",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a58",
+"title": "Inuyashiki",
+"totalEps": 11,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a59",
+"title": "Toradora",
+"totalEps": 25,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a60",
+"title": "Odd Taxi",
+"totalEps": 13,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a61",
+"title": "Wonder Egg Priority",
+"totalEps": 13,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a62",
+"title": "Death Parade",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a63",
+"title": "Charlotte",
+"totalEps": 13,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a64",
+"title": "Evangelion",
+"totalEps": 26,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a65",
+"title": "Kakegurui",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a66",
+"title": "Hotarubi no Mori e",
+"totalEps": 1,
+"duration": 44,
+"seasons": []
+},
+{
+"id": "a67",
+"title": "Overlord",
+"totalEps": 53,
+"duration": 24,
+"seasons": [
+{
+"label": "Overlord",
+"type": "TV",
+"year": 2015,
+"eps": 13,
+"malId": null
+},
+{
+"label": "Overlord II",
+"type": "TV",
+"year": 2018,
+"eps": 13,
+"malId": null
+},
+{
+"label": "Overlord III",
+"type": "TV",
+"year": 2018,
+"eps": 13,
+"malId": null
+},
+{
+"label": "Overlord IV",
+"type": "TV",
+"year": 2022,
+"eps": 13,
+"malId": null
+},
+{
+"label": "Overlord: The Sacred Kingdom",
+"type": "Movie",
+"year": 2024,
+"eps": 1,
+"malId": null
+}
+]
+},
+{
+"id": "a68",
+"title": "Garden of Words",
+"totalEps": 1,
+"duration": 46,
+"seasons": []
+},
+{
+"id": "a69",
+"title": "Akame ga Kill",
+"totalEps": 24,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a70",
+"title": "Nanbaka",
+"totalEps": 26,
+"duration": 24,
+"seasons": [
+{
+"label": "Nanbaka",
+"type": "TV",
+"year": 2016,
+"eps": 13,
+"malId": null
+},
+{
+"label": "Nanbaka: Ni-Zamu",
+"type": "TV",
+"year": 2017,
+"eps": 13,
+"malId": null
+}
+]
+},
+{
+"id": "a71",
+"title": "Tokyo Ghoul",
+"totalEps": 48,
+"duration": 24,
+"seasons": [
+{
+"label": "Tokyo Ghoul",
+"type": "TV",
+"year": 2014,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Tokyo Ghoul √A",
+"type": "TV",
+"year": 2015,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Tokyo Ghoul:re",
+"type": "TV",
+"year": 2018,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Tokyo Ghoul:re 2nd Season",
+"type": "TV",
+"year": 2018,
+"eps": 12,
+"malId": null
+}
+]
+},
+{
+"id": "a72",
+"title": "Shinsekai Yori",
+"totalEps": 25,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a73",
+"title": "Angels of Death",
+"totalEps": 16,
+"duration": 23,
+"seasons": []
+},
+{
+"id": "a74",
+"title": "Yu-Gi-Oh ZEXAL",
+"totalEps": 146,
+"duration": 24,
+"seasons": [
+{
+"label": "Yu-Gi-Oh Zexal",
+"type": "TV",
+"year": 2011,
+"eps": 73,
+"malId": null
+},
+{
+"label": "Yu-Gi-Oh Zexal II",
+"type": "TV",
+"year": 2012,
+"eps": 73,
+"malId": null
+}
+]
+},
+{
+"id": "a75",
+"title": "3-gatsu no Lion",
+"totalEps": 44,
+"duration": 23,
+"seasons": [
+{
+"label": "Stagione 1",
+"type": "TV",
+"year": 2016,
+"eps": 22,
+"malId": null
+},
+{
+"label": "Stagione 2",
+"type": "TV",
+"year": 2017,
+"eps": 22,
+"malId": null
+}
+]
+},
+{
+"id": "a76",
+"title": "5-toubun no Hanayome",
+"totalEps": 26,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a77",
+"title": "86",
+"totalEps": 23,
+"duration": 23,
+"seasons": [
+{
+"label": "86",
+"type": "TV",
+"year": 2021,
+"eps": 11,
+"malId": null
+},
+{
+"label": "86 Part 2",
+"type": "TV",
+"year": 2021,
+"eps": 12,
+"malId": null
+}
+]
+},
+{
+"id": "a78",
+"title": "Angel Beats!",
+"totalEps": 13,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a79",
+"title": "Ao Ashi",
+"totalEps": 24,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a80",
+"title": "Ao no Exorcist",
+"totalEps": 73,
+"duration": 24,
+"seasons": [
+{
+"label": "Blue Exorcist",
+"type": "TV",
+"year": 2011,
+"eps": 25,
+"malId": null
+},
+{
+"label": "Blue Exorcist: Kyoto Saga",
+"type": "TV",
+"year": 2017,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Blue Exorcist: Shimane Illuminati Saga",
+"type": "TV",
+"year": 2024,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Blue Exorcist: Beyond the Snow Saga / The Blue Night Saga",
+"type": "TV",
+"year": 2024,
+"eps": 24,
+"malId": null
+}
+]
+},
+{
+"id": "a81",
+"title": "Ao no Hako",
+"totalEps": 25,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a82",
+"title": "Ashita no Joe",
+"totalEps": 126,
+"duration": 24,
+"seasons": [
+{
+"label": "Ashita no Joe",
+"type": "TV",
+"year": 1970,
+"eps": 79,
+"malId": null
+},
+{
+"label": "Ashita no Joe 2",
+"type": "TV",
+"year": 1980,
+"eps": 47,
+"malId": null
+}
+]
+},
+{
+"id": "a83",
+"title": "Baccano!",
+"totalEps": 13,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a84",
+"title": "Bakemonogatari",
+"totalEps": 15,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a85",
+"title": "Banana Fish",
+"totalEps": 24,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a86",
+"title": "Black Clover",
+"totalEps": 170,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a87",
+"title": "Bleach",
+"totalEps": 409,
+"duration": 24,
+"seasons": [
+{
+"label": "Bleach",
+"type": "TV",
+"year": 2004,
+"eps": 366,
+"malId": null
+},
+{
+"label": "Bleach: Thousand-Year Blood War",
+"type": "TV",
+"year": 2022,
+"eps": 13,
+"malId": null
+},
+{
+"label": "Bleach: Thousand-Year Blood War - The Separation",
+"type": "TV",
+"year": 2023,
+"eps": 13,
+"malId": null
+},
+{
+"label": "Bleach: Thousand-Year Blood War - The Conflict",
+"type": "TV",
+"year": 2024,
+"eps": 14,
+"malId": null
+},
+{
+"label": "Bleach: Thousand-Year Blood War - The Calamity",
+"type": "TV",
+"year": 2026,
+"eps": 3,
+"malId": null
+}
+]
+},
+{
+"id": "a88",
+"title": "Boruto",
+"totalEps": 293,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a89",
+"title": "Bungou Stray Dogs",
+"totalEps": 58,
+"duration": 24,
+"seasons": [
+{
+"label": "Bungo Stray Dogs",
+"type": "TV",
+"year": 2016,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Bungo Stray Dogs 2",
+"type": "TV",
+"year": 2016,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Bungo Stray Dogs 3",
+"type": "TV",
+"year": 2019,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Bungo Stray Dogs 4",
+"type": "TV",
+"year": 2023,
+"eps": 11,
+"malId": null
+},
+{
+"label": "Bungo Stray Dogs 5",
+"type": "TV",
+"year": 2023,
+"eps": 11,
+"malId": null
+}
+]
+},
+{
+"id": "a90",
+"title": "5 Centimeters Per Second",
+"totalEps": 1,
+"duration": 63,
+"seasons": []
+},
+{
+"id": "a91",
+"title": "Chi. Chikyuu no Undou ni Tsuite",
+"totalEps": 25,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a92",
+"title": "Clannad",
+"totalEps": 47,
+"duration": 24,
+"seasons": [
+{
+"label": "Clannad",
+"type": "TV",
+"year": 2007,
+"eps": 23,
+"malId": null
+},
+{
+"label": "Clannad: After Story",
+"type": "TV",
+"year": 2008,
+"eps": 24,
+"malId": null
+}
+]
+},
+{
+"id": "a93",
+"title": "Claymore",
+"totalEps": 26,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a94",
+"title": "Cowboy Bebop",
+"totalEps": 26,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a95",
+"title": "D.Gray-man",
+"totalEps": 116,
+"duration": 24,
+"seasons": [
+{
+"label": "D.Gray-man",
+"type": "TV",
+"year": 2006,
+"eps": 103,
+"malId": null
+},
+{
+"label": "D.Gray-man Hallow",
+"type": "TV",
+"year": 2016,
+"eps": 13,
+"malId": null
+}
+]
+},
+{
+"id": "a96",
+"title": "Dandadan",
+"totalEps": 24,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a97",
+"title": "Devilman: Crybaby",
+"totalEps": 10,
+"duration": 30,
+"seasons": []
+},
+{
+"id": "a98",
+"title": "Edens Zero",
+"totalEps": 50,
+"duration": 24,
+"seasons": [
+{
+"label": "Stagione 1",
+"type": "TV",
+"year": 2021,
+"eps": 25,
+"malId": null
+},
+{
+"label": "Stagione 2",
+"type": "TV",
+"year": 2023,
+"eps": 25,
+"malId": null
+}
+]
+},
+{
+"id": "a99",
+"title": "Enen no Shouboutai",
+"totalEps": 73,
+"duration": 24,
+"seasons": [
+{
+"label": "Stagione 1",
+"type": "TV",
+"year": 2019,
+"eps": 24,
+"malId": null
+},
+{
+"label": "Stagione 2",
+"type": "TV",
+"year": 2020,
+"eps": 24,
+"malId": null
+},
+{
+"label": "Stagione 3 Parte 1",
+"type": "TV",
+"year": 2023,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Stagione 3 Parte 2",
+"type": "TV",
+"year": 2023,
+"eps": 13,
+"malId": null
+}
+]
+},
+{
+"id": "a100",
+"title": "Fairy Tail",
+"totalEps": 353,
+"duration": 24,
+"seasons": [
+{
+"label": "Fairy Tail",
+"type": "TV",
+"year": 2009,
+"eps": 175,
+"malId": null
+},
+{
+"label": "Fairy Tail (2014)",
+"type": "TV",
+"year": 2014,
+"eps": 102,
+"malId": null
+},
+{
+"label": "Fairy Tail: Final Season",
+"type": "TV",
+"year": 2018,
+"eps": 51,
+"malId": null
+},
+{
+"label": "Fairy Tail: 100 Years Quest",
+"type": "TV",
+"year": 2024,
+"eps": 25,
+"malId": null
+}
+]
+},
+{
+"id": "a101",
+"title": "Fate/Zero",
+"totalEps": 25,
+"duration": 24,
+"seasons": [
+{
+"label": "Fate/Zero",
+"type": "TV",
+"year": 2011,
+"eps": 13,
+"malId": null
+},
+{
+"label": "Fate/Zero 2nd Season",
+"type": "TV",
+"year": 2012,
+"eps": 12,
+"malId": null
+}
+]
+},
+{
+"id": "a102",
+"title": "Fruits Basket",
+"totalEps": 63,
+"duration": 24,
+"seasons": [
+{
+"label": "Fruits Basket",
+"type": "TV",
+"year": 2019,
+"eps": 25,
+"malId": null
+},
+{
+"label": "Fruits Basket 2nd Season",
+"type": "TV",
+"year": 2020,
+"eps": 25,
+"malId": null
+},
+{
+"label": "Fruits Basket: The Final",
+"type": "TV",
+"year": 2021,
+"eps": 13,
+"malId": null
+}
+]
+},
+{
+"id": "a103",
+"title": "Fumetsu no Anata e",
+"totalEps": 62,
+"duration": 24,
+"seasons": [
+{
+"label": "Stagione 1",
+"type": "TV",
+"year": 2021,
+"eps": 20,
+"malId": null
+},
+{
+"label": "Stagione 2",
+"type": "TV",
+"year": 2022,
+"eps": 20,
+"malId": null
+},
+{
+"label": "Stagione 3",
+"type": "TV",
+"year": 2023,
+"eps": 22,
+"malId": null
+}
+]
+},
+{
+"id": "a104",
+"title": "Gachiakuta",
+"totalEps": 24,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a105",
+"title": "Ginga Eiyuu Densetsu",
+"totalEps": 110,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a106",
+"title": "Gintama",
+"totalEps": 400,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a107",
+"title": "Golden Kamuy",
+"totalEps": 62,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a108",
+"title": "Great Pretender",
+"totalEps": 23,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a109",
+"title": "Great Teacher Onizuka",
+"totalEps": 43,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a110",
+"title": "Kaiji",
+"totalEps": 52,
+"duration": 24,
+"seasons": [
+{
+"label": "Gyakkyou Burai Kaiji: Ultimate Survivor",
+"type": "TV",
+"year": 2007,
+"eps": 26,
+"malId": null
+},
+{
+"label": "Kaiji: Against All Rules",
+"type": "TV",
+"year": 2011,
+"eps": 26,
+"malId": null
+}
+]
+},
+{
+"id": "a111",
+"title": "Haibane Renmei",
+"totalEps": 13,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a112",
+"title": "Haikyuu!!",
+"totalEps": 85,
+"duration": 24,
+"seasons": [
+{
+"label": "Haikyu!!",
+"type": "TV",
+"year": 2014,
+"eps": 25,
+"malId": null
+},
+{
+"label": "Haikyu!! Second Season",
+"type": "TV",
+"year": 2015,
+"eps": 25,
+"malId": null
+},
+{
+"label": "Haikyu!!: Karasuno High School vs Shiratorizawa Academy",
+"type": "TV",
+"year": 2016,
+"eps": 10,
+"malId": null
+},
+{
+"label": "Haikyu!!: To the Top",
+"type": "TV",
+"year": 2020,
+"eps": 13,
+"malId": null
+},
+{
+"label": "Haikyu!!: To the Top Part 2",
+"type": "TV",
+"year": 2020,
+"eps": 12,
+"malId": null
+}
+]
+},
+{
+"id": "a113",
+"title": "Hajime no Ippo",
+"totalEps": 126,
+"duration": 24,
+"seasons": [
+{
+"label": "Hajime no Ippo",
+"type": "TV",
+"year": 2000,
+"eps": 75,
+"malId": null
+},
+{
+"label": "Hajime no Ippo: New Challenger",
+"type": "TV",
+"year": 2009,
+"eps": 26,
+"malId": null
+},
+{
+"label": "Hajime no Ippo: Rising",
+"type": "TV",
+"year": 2013,
+"eps": 25,
+"malId": null
+}
+]
+},
+{
+"id": "a114",
+"title": "Hellsing Ultimate",
+"totalEps": 10,
+"duration": 50,
+"seasons": []
+},
+{
+"id": "a115",
+"title": "Grave of the Fireflies",
+"totalEps": 1,
+"duration": 89,
+"seasons": []
+},
+{
+"id": "a116",
+"title": "Houseki no Kuni",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a117",
+"title": "Hyouka",
+"totalEps": 22,
+"duration": 22,
+"seasons": []
+},
+{
+"id": "a118",
+"title": "Inazuma Eleven",
+"totalEps": 296,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a119",
+"title": "Jibaku Shounen Hanako-kun",
+"totalEps": 44,
+"duration": 24,
+"seasons": [
+{
+"label": "Jibaku Shounen Hanako-kun",
+"type": "TV",
+"year": 2020,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Jibaku Shounen Hanako-kun 2",
+"type": "TV",
+"year": 2025,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Jibaku Shounen Hanako-kun 2 Part 2",
+"type": "TV",
+"year": 2025,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Houkago Shounen Hanako-kun",
+"type": "TV Special",
+"year": 2023,
+"eps": 4,
+"malId": null
+},
+{
+"label": "Houkago Shounen Hanako-kun 2",
+"type": "TV Special",
+"year": 2024,
+"eps": 4,
+"malId": null
+}
+]
+},
+{
+"id": "a120",
+"title": "Kage no Jitsuryokusha",
+"totalEps": 32,
+"duration": 24,
+"seasons": [
+{
+"label": "Stagione 1",
+"type": "TV",
+"year": 2022,
+"eps": 20,
+"malId": null
+},
+{
+"label": "Stagione 2",
+"type": "TV",
+"year": 2023,
+"eps": 12,
+"malId": null
+}
+]
+},
+{
+"id": "a121",
+"title": "Kaijuu 8-gou",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a122",
+"title": "Katekyou Hitman Reborn!",
+"totalEps": 203,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a123",
+"title": "Kingdom",
+"totalEps": 130,
+"duration": 24,
+"seasons": [
+{
+"label": "Stagione 1",
+"type": "TV",
+"year": 2012,
+"eps": 38,
+"malId": null
+},
+{
+"label": "Stagione 2",
+"type": "TV",
+"year": 2013,
+"eps": 39,
+"malId": null
+},
+{
+"label": "Stagione 3",
+"type": "TV",
+"year": 2020,
+"eps": 26,
+"malId": null
+},
+{
+"label": "Stagione 4",
+"type": "TV",
+"year": 2022,
+"eps": 27,
+"malId": null
+}
+]
+},
+{
+"id": "a124",
+"title": "Kino no Tabi",
+"totalEps": 13,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a125",
+"title": "Komi-san",
+"totalEps": 24,
+"duration": 24,
+"seasons": [
+{
+"label": "Stagione 1",
+"type": "TV",
+"year": 2021,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Stagione 2",
+"type": "TV",
+"year": 2022,
+"eps": 12,
+"malId": null
+}
+]
+},
+{
+"id": "a126",
+"title": "Ghost in the Shell",
+"totalEps": 1,
+"duration": 83,
+"seasons": []
+},
+{
+"id": "a174",
+"title": "Innocence: Ghost in the Shell 2",
+"totalEps": 1,
+"duration": 99,
+"seasons": []
+},
+{
+"id": "a127",
+"title": "Koutetsujou no Kabaneri",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a128",
+"title": "Kusuriya no Hitorigoto",
+"totalEps": 48,
+"duration": 24,
+"seasons": [
+{
+"label": "Stagione 1",
+"type": "TV",
+"year": 2023,
+"eps": 24,
+"malId": null
+},
+{
+"label": "Stagione 2",
+"type": "TV",
+"year": 2024,
+"eps": 24,
+"malId": null
+}
+]
+},
+{
+"id": "a129",
+"title": "Log Horizon",
+"totalEps": 62,
+"duration": 24,
+"seasons": [
+{
+"label": "Stagione 1",
+"type": "TV",
+"year": 2013,
+"eps": 25,
+"malId": null
+},
+{
+"label": "Stagione 2",
+"type": "TV",
+"year": 2014,
+"eps": 25,
+"malId": null
+},
+{
+"label": "Entaku Houkai",
+"type": "TV",
+"year": 2021,
+"eps": 12,
+"malId": null
+}
+]
+},
+{
+"id": "a130",
+"title": "Magi",
+"totalEps": 63,
+"duration": 24,
+"seasons": [
+{
+"label": "The Labyrinth of Magic",
+"type": "TV",
+"year": 2012,
+"eps": 25,
+"malId": null
+},
+{
+"label": "The Kingdom of Magic",
+"type": "TV",
+"year": 2013,
+"eps": 25,
+"malId": null
+},
+{
+"label": "Sinbad no Bouken",
+"type": "TV",
+"year": 2016,
+"eps": 13,
+"malId": null
+}
+]
+},
+{
+"id": "a131",
+"title": "Mahou Shoujo Madoka Magica",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a132",
+"title": "Monster",
+"totalEps": 74,
+"duration": 25,
+"seasons": []
+},
+{
+"id": "a133",
+"title": "Mushishi",
+"totalEps": 46,
+"duration": 24,
+"seasons": [
+{
+"label": "Mushishi",
+"type": "TV",
+"year": 2005,
+"eps": 26,
+"malId": null
+},
+{
+"label": "Mushishi Zoku Shou",
+"type": "TV",
+"year": 2014,
+"eps": 20,
+"malId": null
+}
+]
+},
+{
+"id": "a134",
+"title": "Mushoku Tensei",
+"totalEps": 35,
+"duration": 24,
+"seasons": [
+{
+"label": "Stagione 1 Parte 1",
+"type": "TV",
+"year": 2021,
+"eps": 11,
+"malId": null
+},
+{
+"label": "Stagione 1 Parte 2",
+"type": "TV",
+"year": 2021,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Stagione 2 Parte 1",
+"type": "TV",
+"year": 2023,
+"eps": 12,
+"malId": null
+}
+]
+},
+{
+"id": "a135",
+"title": "NHK ni Youkoso!",
+"totalEps": 24,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a136",
+"title": "Nanatsu no Taizai",
+"totalEps": 132,
+"duration": 24,
+"seasons": [
+{
+"label": "Nanatsu no Taizai",
+"type": "TV",
+"year": 2014,
+"eps": 24,
+"malId": null
+},
+{
+"label": "Nanatsu no Taizai: Imashime no Fukkatsu",
+"type": "TV",
+"year": 2018,
+"eps": 24,
+"malId": null
+},
+{
+"label": "Nanatsu no Taizai: Kamigami no Gekirin",
+"type": "TV",
+"year": 2019,
+"eps": 24,
+"malId": null
+},
+{
+"label": "Nanatsu no Taizai: Funnu no Shinpan",
+"type": "TV",
+"year": 2021,
+"eps": 24,
+"malId": null
+},
+{
+"label": "Mokushiroku no Yonkishi",
+"type": "TV",
+"year": 2023,
+"eps": 24,
+"malId": null
+},
+{
+"label": "Mokushiroku no Yonkishi Season 2",
+"type": "TV",
+"year": 2024,
+"eps": 12,
+"malId": null
+}
+]
+},
+{
+"id": "a137",
+"title": "Noragami",
+"totalEps": 25,
+"duration": 24,
+"seasons": [
+{
+"label": "Stagione 1",
+"type": "TV",
+"year": 2014,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Stagione 2",
+"type": "TV",
+"year": 2015,
+"eps": 13,
+"malId": null
+}
+]
+},
+{
+"id": "a138",
+"title": "Oshi no Ko",
+"totalEps": 34,
+"duration": 24,
+"seasons": [
+{
+"label": "Oshi no Ko",
+"type": "TV",
+"year": 2023,
+"eps": 11,
+"malId": null
+},
+{
+"label": "Oshi no Ko Season 2",
+"type": "TV",
+"year": 2024,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Oshi no Ko Season 3",
+"type": "TV",
+"year": 2026,
+"eps": 11,
+"malId": null
+}
+]
+},
+{
+"id": "a139",
+"title": "Ousama Ranking",
+"totalEps": 23,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a140",
+"title": "Perfect Blue",
+"totalEps": 1,
+"duration": 81,
+"seasons": []
+},
+{
+"id": "a141",
+"title": "Plastic Memories",
+"totalEps": 13,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a142",
+"title": "Psycho-Pass",
+"totalEps": 46,
+"duration": 22,
+"seasons": [
+{
+"label": "Psycho-Pass",
+"type": "TV",
+"year": 2012,
+"eps": 22,
+"malId": null
+},
+{
+"label": "Psycho-Pass 2",
+"type": "TV",
+"year": 2014,
+"eps": 11,
+"malId": null
+},
+{
+"label": "Psycho-Pass: Sinners of the System",
+"type": "Movie",
+"year": 2019,
+"eps": 3,
+"malId": null
+},
+{
+"label": "Psycho-Pass 3",
+"type": "TV",
+"year": 2019,
+"eps": 8,
+"malId": null
+},
+{
+"label": "Psycho-Pass 3: First Inspector",
+"type": "Movie",
+"year": 2020,
+"eps": 1,
+"malId": null
+},
+{
+"label": "Psycho-Pass: Providence",
+"type": "Movie",
+"year": 2023,
+"eps": 1,
+"malId": null
+}
+]
+},
+{
+"id": "a143",
+"title": "Rainbow: Nisha Rokubou no Shichinin",
+"totalEps": 26,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a144",
+"title": "Re:Zero",
+"totalEps": 78,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a145",
+"title": "Saiki Kusuo no Psi-nan",
+"totalEps": 144,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a146",
+"title": "Seishun Buta Yarou",
+"totalEps": 14,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a147",
+"title": "Sen to Chihiro no Kamikakushi",
+"totalEps": 1,
+"duration": 125,
+"seasons": []
+},
+{
+"id": "a148",
+"title": "Shangri-La Frontier",
+"totalEps": 25,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a149",
+"title": "Shigatsu wa Kimi no Uso",
+"totalEps": 22,
+"duration": 22,
+"seasons": []
+},
+{
+"id": "a150",
+"title": "Slam Dunk",
+"totalEps": 101,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a151",
+"title": "Soul Eater",
+"totalEps": 51,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a152",
+"title": "Sousou no Frieren",
+"totalEps": 38,
+"duration": 24,
+"seasons": [
+{
+"label": "Stagione 1",
+"type": "TV",
+"year": 2023,
+"eps": 28,
+"malId": null
+},
+{
+"label": "Stagione 2",
+"type": "TV",
+"year": 2026,
+"eps": 10,
+"malId": null
+}
+]
+},
+{
+"id": "a153",
+"title": "Tenkuu no Shiro Laputa",
+"totalEps": 1,
+"duration": 124,
+"seasons": []
+},
+{
+"id": "a154",
+"title": "Tensei shitara Slime Datta Ken",
+"totalEps": 60,
+"duration": 24,
+"seasons": [
+{
+"label": "Stagione 1",
+"type": "TV",
+"year": 2018,
+"eps": 24,
+"malId": null
+},
+{
+"label": "Stagione 2 Parte 1",
+"type": "TV",
+"year": 2021,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Stagione 2 Parte 2",
+"type": "TV",
+"year": 2021,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Stagione 3",
+"type": "TV",
+"year": 2024,
+"eps": 12,
+"malId": null
+}
+]
+},
+{
+"id": "a155",
+"title": "Tonari no Totoro",
+"totalEps": 1,
+"duration": 86,
+"seasons": []
+},
+{
+"id": "a156",
+"title": "Trigun",
+"totalEps": 50,
+"duration": 24,
+"seasons": [
+{
+"label": "Trigun",
+"type": "TV",
+"year": 1998,
+"eps": 26,
+"malId": null
+},
+{
+"label": "Trigun Stampede",
+"type": "TV",
+"year": 2023,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Trigun Stargaze",
+"type": "TV",
+"year": 2026,
+"eps": 12,
+"malId": null
+}
+]
+},
+{
+"id": "a157",
+"title": "Uchuu Kyoudai",
+"totalEps": 99,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a158",
+"title": "Violet Evergarden",
+"totalEps": 13,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a159",
+"title": "Vivy: Fluorite Eye's Song",
+"totalEps": 13,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a160",
+"title": "Wotaku ni Koi wa Muzukashii",
+"totalEps": 11,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a161",
+"title": "Yahari Ore no Seishun Love Comedy",
+"totalEps": 38,
+"duration": 24,
+"seasons": [
+{
+"label": "Stagione 1",
+"type": "TV",
+"year": 2013,
+"eps": 13,
+"malId": null
+},
+{
+"label": "Stagione 2",
+"type": "TV",
+"year": 2015,
+"eps": 13,
+"malId": null
+},
+{
+"label": "Stagione 3",
+"type": "TV",
+"year": 2020,
+"eps": 12,
+"malId": null
+}
+]
+},
+{
+"id": "a162",
+"title": "Yuu☆Yuu☆Hakusho",
+"totalEps": 112,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a163",
+"title": "Zom 100",
+"totalEps": 12,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a164",
+"title": "Shaman King (2021)",
+"totalEps": 52,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a165",
+"title": "Kenpuu Denki Berserk",
+"totalEps": 25,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a166",
+"title": "Usagi Drop",
+"totalEps": 11,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a167",
+"title": "Mononoke Hime",
+"totalEps": 1,
+"duration": 134,
+"seasons": []
+},
+{
+"id": "a168",
+"title": "Tenki no Ko",
+"totalEps": 1,
+"duration": 112,
+"seasons": []
+},
+{
+"id": "a169",
+"title": "Kaoru Hana wa Rin to Saku",
+"totalEps": 13,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a170",
+"title": "Tongari Boushi no Atelier",
+"totalEps": 13,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a171",
+"title": "Dead Dead Demon's Dededede Destruction",
+"totalEps": 2,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a172",
+"title": "Sword Art Online",
+"totalEps": 88,
+"duration": 24,
+"seasons": []
+},
+{
+"id": "a173",
+"title": "Fate/stay night: Unlimited Blade Works",
+"totalEps": 25,
+"duration": 24,
+"seasons": [
+{
+"label": "Stagione 1",
+"type": "TV",
+"year": 2014,
+"eps": 12,
+"malId": null
+},
+{
+"label": "Stagione 2",
+"type": "TV",
+"year": 2015,
+"eps": 13,
+"malId": null
+}
+]
+}
+]
