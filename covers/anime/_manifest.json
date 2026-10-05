@@ -2546,5 +2546,129 @@
   "matched": {
    "1": "Tensei Shitara Slime Datta Ken"
   }
+ },
+ "a155": {
+  "title": "Tonari no Totoro",
+  "mal": 523,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tonari_no_totoro_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tonari_no_totoro_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Tonari no Totoro"
+  }
+ },
+ "a156": {
+  "title": "Trigun",
+  "mal": 6,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_trigun_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_trigun_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "TRIGUN"
+  }
+ },
+ "a157": {
+  "title": "Uchuu Kyoudai",
+  "mal": 12431,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_uchuu_kyoudai_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_uchuu_kyoudai_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Uchuu Kyoudai"
+  }
+ },
+ "a158": {
+  "title": "Violet Evergarden",
+  "mal": 33352,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_violet_evergarden_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_violet_evergarden_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Violet Evergarden"
+  }
+ },
+ "a159": {
+  "title": "Vivy: Fluorite Eye's Song",
+  "mal": 46095,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_vivy_fluorite_eye_s_song_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_vivy_fluorite_eye_s_song_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Vivy: Fluorite Eye’s Song"
+  }
+ },
+ "a160": {
+  "title": "Wotaku ni Koi wa Muzukashii",
+  "mal": 35968,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_wotaku_ni_koi_wa_muzukashii_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_wotaku_ni_koi_wa_muzukashii_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Wotaku ni Koi wa Muzukashii"
+  }
+ },
+ "a161": {
+  "title": "Yahari Ore no Seishun Love Comedy",
+  "error": "non trovato"
+ },
+ "a162": {
+  "title": "Yuu☆Yuu☆Hakusho",
+  "mal": 392,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_yuu_yuu_hakusho_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_yuu_yuu_hakusho_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Yuu☆Yuu☆Hakusho"
+  }
+ },
+ "a163": {
+  "title": "Zom 100",
+  "mal": 54112,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_zom_100_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_zom_100_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto"
+  }
  }
 }
