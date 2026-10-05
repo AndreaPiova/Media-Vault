@@ -800,5 +800,131 @@
   "matched": {
    "1": "Josee to Tora to Sakanatachi"
   }
+ },
+ "a49": {
+  "title": "I Want to Eat Your Pancreas",
+  "mal": 36098,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_i_want_to_eat_your_pancreas_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_i_want_to_eat_your_pancreas_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Kimi no Suizou wo Tabetai"
+  }
+ },
+ "a50": {
+  "title": "Mob Psycho 100",
+  "mal": 32182,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_mob_psycho_100_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_mob_psycho_100_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_mob_psycho_100_s3.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_mob_psycho_100_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Mob Psycho 100",
+   "2": "Mob Psycho 100 II",
+   "3": "Mob Psycho 100 III"
+  }
+ },
+ "a51": {
+  "title": "No Game No Life",
+  "mal": 19815,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_no_game_no_life_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_no_game_no_life_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "No Game No Life"
+  }
+ },
+ "a52": {
+  "title": "Anohana",
+  "mal": 9989,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_anohana_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_anohana_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai."
+  }
+ },
+ "a53": {
+  "title": "Shoujo Shuumatsu Ryokou",
+  "mal": 35838,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_shoujo_shuumatsu_ryokou_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_shoujo_shuumatsu_ryokou_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Shoujo Shuumatsu Ryokou"
+  }
+ },
+ "a54": {
+  "title": "Deca-Dence",
+  "mal": 40056,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_deca_dence_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_deca_dence_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Deca-Dence"
+  }
+ },
+ "a55": {
+  "title": "Prison School",
+  "mal": 30240,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_prison_school_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_prison_school_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Prison School"
+  }
+ },
+ "a56": {
+  "title": "Howl's Moving Castle",
+  "mal": 431,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_howl_s_moving_castle_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_howl_s_moving_castle_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Howl no Ugoku Shiro"
+  }
  }
 }
