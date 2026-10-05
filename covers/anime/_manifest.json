@@ -2670,5 +2670,129 @@
   "matched": {
    "1": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto"
   }
+ },
+ "a164": {
+  "title": "Shaman King (2021)",
+  "mal": 42205,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_shaman_king_2021_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_shaman_king_2021_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "SHAMAN KING (2021)"
+  }
+ },
+ "a165": {
+  "title": "Kenpuu Denki Berserk",
+  "mal": 33,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kenpuu_denki_berserk_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kenpuu_denki_berserk_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Kenpuu Denki Berserk"
+  }
+ },
+ "a166": {
+  "title": "Usagi Drop",
+  "mal": 10162,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_usagi_drop_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_usagi_drop_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Usagi Drop"
+  }
+ },
+ "a167": {
+  "title": "Mononoke Hime",
+  "mal": 164,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_mononoke_hime_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_mononoke_hime_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Mononoke-hime"
+  }
+ },
+ "a168": {
+  "title": "Tenki no Ko",
+  "mal": 38826,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tenki_no_ko_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tenki_no_ko_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Tenki no Ko"
+  }
+ },
+ "a169": {
+  "title": "Kaoru Hana wa Rin to Saku",
+  "mal": 59845,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kaoru_hana_wa_rin_to_saku_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kaoru_hana_wa_rin_to_saku_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Kaoru Hana wa Rin to Saku"
+  }
+ },
+ "a170": {
+  "title": "Tongari Boushi no Atelier",
+  "mal": 64516,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tongari_boushi_no_atelier_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tongari_boushi_no_atelier_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Tongari Boushi no Atelier 2nd Season"
+  }
+ },
+ "a171": {
+  "title": "Dead Dead Demon's Dededede Destruction",
+  "error": "non trovato"
+ },
+ "a172": {
+  "title": "Sword Art Online",
+  "mal": 11757,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_sword_art_online_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_sword_art_online_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Sword Art Online"
+  }
  }
 }
