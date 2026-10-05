@@ -214,5 +214,132 @@
   "matched": {
    "1": "Kiseijuu: Sei no Kakuritsu"
   }
+ },
+ "a13": {
+  "title": "Erased",
+  "mal": 31043,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_erased_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_erased_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Boku dake ga Inai Machi"
+  }
+ },
+ "a14": {
+  "title": "Fullmetal Alchemist Brotherhood",
+  "mal": 5114,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fullmetal_alchemist_brotherhood_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fullmetal_alchemist_brotherhood_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
+  }
+ },
+ "a15": {
+  "title": "Steins;Gate",
+  "mal": 9253,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_steins;gate_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_steins;gate_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Steins;Gate"
+  }
+ },
+ "a16": {
+  "title": "Death Note",
+  "mal": 1535,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_death_note_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_death_note_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "DEATH NOTE"
+  }
+ },
+ "a17": {
+  "title": "Code Geass",
+  "mal": 1575,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_code_geass_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_code_geass_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_code_geass_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Code Geass: Hangyaku no Lelouch",
+   "2": "Code Geass: Hangyaku no Lelouch R2"
+  }
+ },
+ "a18": {
+  "title": "Chainsaw Man",
+  "mal": 44511,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_chainsaw_man_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_chainsaw_man_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Chainsaw Man"
+  }
+ },
+ "a19": {
+  "title": "Gurren Lagann",
+  "mal": 2001,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_gurren_lagann_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_gurren_lagann_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Tengen Toppa Gurren Lagann"
+  }
+ },
+ "a20": {
+  "title": "Cyberpunk: Edgerunners",
+  "error": "non trovato"
+ },
+ "a21": {
+  "title": "Heavenly Delusion",
+  "mal": 53393,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_heavenly_delusion_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_heavenly_delusion_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Tengoku Daimakyou"
+  }
  }
 }
