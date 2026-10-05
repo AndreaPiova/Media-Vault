@@ -1596,5 +1596,155 @@
  "a97": {
   "title": "Devilman: Crybaby",
   "error": "non trovato"
+ },
+ "a98": {
+  "title": "Edens Zero",
+  "mal": 42192,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_edens_zero_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_edens_zero_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_edens_zero_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "EDENS ZERO",
+   "2": "EDENS ZERO 2nd Season"
+  }
+ },
+ "a99": {
+  "title": "Enen no Shouboutai",
+  "mal": 38671,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_enen_no_shouboutai_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_enen_no_shouboutai_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_enen_no_shouboutai_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_enen_no_shouboutai_s4.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_enen_no_shouboutai_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Enen no Shouboutai",
+   "2": "Enen no Shouboutai: Ni no Shou",
+   "3": "Enen no Shouboutai: San no Shou",
+   "4": "Enen no Shouboutai: San no Shou Part 2"
+  }
+ },
+ "a100": {
+  "title": "Fairy Tail",
+  "mal": 6702,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fairy_tail_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fairy_tail_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fairy_tail_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fairy_tail_s4.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fairy_tail_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "FAIRY TAIL",
+   "2": "FAIRY TAIL (2014)",
+   "3": "FAIRY TAIL (2018)",
+   "4": "FAIRY TAIL: 100 YEARS QUEST"
+  }
+ },
+ "a101": {
+  "title": "Fate/Zero",
+  "mal": 10087,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fate_zero_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fate_zero_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fate_zero_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Fate/Zero",
+   "2": "Fate/Zero 2nd Season"
+  }
+ },
+ "a102": {
+  "title": "Fruits Basket",
+  "mal": 120,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fruits_basket_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fruits_basket_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Fruits Basket"
+  }
+ },
+ "a103": {
+  "title": "Fumetsu no Anata e",
+  "mal": 41025,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fumetsu_no_anata_e_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fumetsu_no_anata_e_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fumetsu_no_anata_e_s3.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fumetsu_no_anata_e_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Fumetsu no Anata e",
+   "2": "Fumetsu no Anata e Season 2",
+   "3": "Fumetsu no Anata e Season 3"
+  }
+ },
+ "a104": {
+  "title": "Gachiakuta",
+  "mal": 59062,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_gachiakuta_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_gachiakuta_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Gachiakuta"
+  }
+ },
+ "a105": {
+  "title": "Ginga Eiyuu Densetsu",
+  "mal": 31433,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ginga_eiyuu_densetsu_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ginga_eiyuu_densetsu_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Ginga Eiyuu Densetsu: Die Neue These - Kaikou"
+  }
  }
 }
