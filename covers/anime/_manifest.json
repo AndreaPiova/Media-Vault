@@ -2156,5 +2156,149 @@
    "3": "UQ Holder!: Mahou Sensei Negima! 2",
    "1": "Mahou Sensei Negima!"
   }
+ },
+ "a131": {
+  "title": "Mahou Shoujo Madoka Magica",
+  "mal": 9756,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_mahou_shoujo_madoka_magica_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_mahou_shoujo_madoka_magica_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Mahou Shoujo Madoka☆Magica"
+  }
+ },
+ "a132": {
+  "title": "Monster",
+  "mal": 19,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_monster_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_monster_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "MONSTER"
+  }
+ },
+ "a133": {
+  "title": "Mushishi",
+  "mal": 457,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_mushishi_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_mushishi_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Mushishi"
+  }
+ },
+ "a134": {
+  "title": "Mushoku Tensei",
+  "mal": 39535,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_mushoku_tensei_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_mushoku_tensei_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_mushoku_tensei_s3.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_mushoku_tensei_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+   "2": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+   "3": "Mushoku Tensei II: Isekai Ittara Honki Dasu"
+  }
+ },
+ "a135": {
+  "title": "NHK ni Youkoso!",
+  "mal": 1210,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nhk_ni_youkoso_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nhk_ni_youkoso_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "NHK ni Youkoso!"
+  }
+ },
+ "a136": {
+  "title": "Nanatsu no Taizai",
+  "mal": 23755,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanatsu_no_taizai_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanatsu_no_taizai_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanatsu_no_taizai_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanatsu_no_taizai_s4.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanatsu_no_taizai_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Nanatsu no Taizai",
+   "2": "Nanatsu no Taizai: Imashime no Fukkatsu",
+   "3": "Nanatsu no Taizai: Kamigami no Gekirin",
+   "4": "Nanatsu no Taizai: Funnu no Shinpan"
+  }
+ },
+ "a137": {
+  "title": "Noragami",
+  "mal": 20507,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_noragami_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_noragami_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_noragami_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Noragami",
+   "2": "Noragami ARAGOTO"
+  }
+ },
+ "a138": {
+  "title": "Oshi no Ko",
+  "mal": 52034,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_oshi_no_ko_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_oshi_no_ko_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_oshi_no_ko_s3.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_oshi_no_ko_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "[Oshi no Ko]",
+   "2": "[Oshi no Ko] 2nd Season",
+   "3": "[Oshi no Ko] 3rd Season"
+  }
  }
 }
