@@ -2300,5 +2300,128 @@
    "2": "[Oshi no Ko] 2nd Season",
    "3": "[Oshi no Ko] 3rd Season"
   }
+ },
+ "a139": {
+  "title": "Ousama Ranking",
+  "mal": 40834,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ousama_ranking_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ousama_ranking_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Ousama Ranking"
+  }
+ },
+ "a140": {
+  "title": "Perfect Blue",
+  "mal": 437,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_perfect_blue_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_perfect_blue_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "PERFECT BLUE"
+  }
+ },
+ "a141": {
+  "title": "Plastic Memories",
+  "mal": 27775,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_plastic_memories_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_plastic_memories_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Plastic Memories"
+  }
+ },
+ "a142": {
+  "title": "Psycho-Pass",
+  "mal": 13601,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_psycho_pass_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_psycho_pass_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_psycho_pass_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "PSYCHO-PASS",
+   "2": "PSYCHO-PASS 2"
+  }
+ },
+ "a143": {
+  "title": "Rainbow: Nisha Rokubou no Shichinin",
+  "mal": 6114,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_rainbow_nisha_rokubou_no_shichinin_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_rainbow_nisha_rokubou_no_shichinin_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "RAINBOW: Nisha Rokubou no Shichinin"
+  }
+ },
+ "a144": {
+  "title": "Re:Zero",
+  "mal": 31240,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_re_zero_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_re_zero_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Re:Zero kara Hajimeru Isekai Seikatsu"
+  }
+ },
+ "a145": {
+  "title": "Saiki Kusuo no Psi-nan",
+  "mal": 34612,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_saiki_kusuo_no_psi_nan_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_saiki_kusuo_no_psi_nan_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Saiki Kusuo no Ψ-nan 2"
+  }
+ },
+ "a146": {
+  "title": "Seishun Buta Yarou",
+  "mal": 37450,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_seishun_buta_yarou_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_seishun_buta_yarou_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+  }
  }
 }
