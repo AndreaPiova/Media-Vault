@@ -1,0 +1,86 @@
+{
+ "a1": {
+  "title": "Attack on Titan",
+  "mal": 16498,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_attack_on_titan_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_attack_on_titan_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_attack_on_titan_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_attack_on_titan_s4.jpg",
+   "5": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_attack_on_titan_s5.jpg",
+   "6": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_attack_on_titan_s6.jpg",
+   "7": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_attack_on_titan_s7.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList",
+   "5": "AniList",
+   "6": "AniList",
+   "7": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_attack_on_titan_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Shingeki no Kyojin",
+   "2": "Shingeki no Kyojin Season 2",
+   "3": "Shingeki no Kyojin Season 3",
+   "4": "Shingeki no Kyojin Season 3 Part 2",
+   "5": "Shingeki no Kyojin: The Final Season",
+   "6": "Shingeki no Kyojin: The Final Season Part 2",
+   "7": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen"
+  }
+ },
+ "a2": {
+  "title": "One Piece",
+  "mal": 21,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_one_piece_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_one_piece_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "ONE PIECE"
+  }
+ },
+ "a4": {
+  "title": "A Silent Voice",
+  "mal": 28851,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_a_silent_voice_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_a_silent_voice_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Koe no Katachi"
+  }
+ },
+ "a6": {
+  "title": "Jujutsu Kaisen",
+  "mal": 40748,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jujutsu_kaisen_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jujutsu_kaisen_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jujutsu_kaisen_s3.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jujutsu_kaisen_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Jujutsu Kaisen",
+   "2": "Jujutsu Kaisen 2nd Season",
+   "3": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen"
+  }
+ }
+}
