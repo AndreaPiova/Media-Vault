@@ -1883,5 +1883,143 @@
   "matched": {
    "1": "Hotaru no Haka"
   }
+ },
+ "a116": {
+  "title": "Houseki no Kuni",
+  "mal": 35557,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_houseki_no_kuni_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_houseki_no_kuni_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Houseki no Kuni"
+  }
+ },
+ "a117": {
+  "title": "Hyouka",
+  "mal": 12189,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_hyouka_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_hyouka_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Hyouka"
+  }
+ },
+ "a118": {
+  "title": "Inazuma Eleven",
+  "mal": 5231,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_inazuma_eleven_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_inazuma_eleven_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Inazuma Eleven"
+  }
+ },
+ "a119": {
+  "title": "Jibaku Shounen Hanako-kun",
+  "mal": 39534,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jibaku_shounen_hanako_kun_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jibaku_shounen_hanako_kun_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jibaku_shounen_hanako_kun_s3.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jibaku_shounen_hanako_kun_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Jibaku Shounen Hanako-kun",
+   "2": "Jibaku Shounen Hanako-kun 2",
+   "3": "Jibaku Shounen Hanako-kun 2 Part 2"
+  }
+ },
+ "a120": {
+  "title": "Kage no Jitsuryokusha",
+  "mal": 48316,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kage_no_jitsuryokusha_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kage_no_jitsuryokusha_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kage_no_jitsuryokusha_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Kage no Jitsuryokusha ni Naritakute!",
+   "2": "Kage no Jitsuryokusha ni Naritakute! 2nd season"
+  }
+ },
+ "a121": {
+  "title": "Kaijuu 8-gou",
+  "mal": 52588,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kaijuu_8_gou_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kaijuu_8_gou_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Kaijuu 8-gou"
+  }
+ },
+ "a122": {
+  "title": "Katekyou Hitman Reborn!",
+  "mal": 1604,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_katekyou_hitman_reborn!_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_katekyou_hitman_reborn!_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Katekyou Hitman REBORN!"
+  }
+ },
+ "a123": {
+  "title": "Kingdom",
+  "mal": 12031,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kingdom_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kingdom_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kingdom_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kingdom_s4.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kingdom_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Kingdom",
+   "2": "Kingdom 2nd Season",
+   "3": "Kingdom 3rd Season",
+   "4": "Kingdom 4th Season"
+  }
  }
 }
