@@ -501,5 +501,138 @@
    "2": "Tokyo Revengers: Seiya Kessen-hen",
    "3": "Tokyo Revengers: Tenjiku-hen"
   }
+ },
+ "a31": {
+  "title": "Kanata no Astra",
+  "mal": 39198,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kanata_no_astra_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kanata_no_astra_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Kanata no Astra"
+  }
+ },
+ "a32": {
+  "title": "Solo Leveling",
+  "mal": 52299,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_solo_leveling_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_solo_leveling_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Ore dake Level Up na Ken"
+  }
+ },
+ "a33": {
+  "title": "Blue Lock",
+  "mal": 49596,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_blue_lock_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_blue_lock_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Blue Lock"
+  }
+ },
+ "a34": {
+  "title": "Terror in Resonance",
+  "mal": 23283,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_terror_in_resonance_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_terror_in_resonance_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Zankyou no Terror"
+  }
+ },
+ "a35": {
+  "title": "Spy x Family",
+  "mal": 50265,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_spy_x_family_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_spy_x_family_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_spy_x_family_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_spy_x_family_s4.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_spy_x_family_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "SPY×FAMILY",
+   "2": "SPY×FAMILY Part 2",
+   "3": "SPY×FAMILY Season 2",
+   "4": "SPY×FAMILY Season 3"
+  }
+ },
+ "a36": {
+  "title": "Dororo",
+  "mal": 37520,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dororo_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dororo_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Dororo"
+  }
+ },
+ "a37": {
+  "title": "Tower of God",
+  "mal": 40221,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tower_of_god_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tower_of_god_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Kami no Tou: Tower of God"
+  }
+ },
+ "a38": {
+  "title": "Tomodachi Game",
+  "error": "non trovato"
+ },
+ "a39": {
+  "title": "Btooom!",
+  "mal": 14345,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_btooom!_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_btooom!_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "BTOOOM!"
+  }
  }
 }
