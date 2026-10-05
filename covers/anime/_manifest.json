@@ -2944,5 +2944,20 @@
   "matched": {
    "1": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru"
   }
+ },
+ "a171": {
+  "title": "Dead Dead Demon's Dededede Destruction",
+  "mal": 58883,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dead_dead_demon_s_dededede_destruction_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dead_dead_demon_s_dededede_destruction_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Dead Dead Demon's Dededededestruction"
+  }
  }
 }
