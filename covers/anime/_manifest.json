@@ -1046,5 +1046,143 @@
   "matched": {
    "1": "Shin Seiki Evangelion"
   }
+ },
+ "a65": {
+  "title": "Kakegurui",
+  "mal": 34933,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kakegurui_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kakegurui_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Kakegurui"
+  }
+ },
+ "a66": {
+  "title": "Hotarubi no Mori e",
+  "mal": 10408,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_hotarubi_no_mori_e_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_hotarubi_no_mori_e_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Hotarubi no Mori e"
+  }
+ },
+ "a67": {
+  "title": "Overlord",
+  "mal": 29803,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_overlord_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_overlord_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_overlord_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_overlord_s4.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_overlord_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Overlord",
+   "2": "Overlord II",
+   "3": "Overlord III",
+   "4": "Overlord IV"
+  }
+ },
+ "a68": {
+  "title": "Garden of Words",
+  "mal": 16782,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_garden_of_words_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_garden_of_words_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Kotonoha no Niwa"
+  }
+ },
+ "a69": {
+  "title": "Akame ga Kill",
+  "mal": 22199,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_akame_ga_kill_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_akame_ga_kill_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Akame ga Kill!"
+  }
+ },
+ "a70": {
+  "title": "Nanbaka",
+  "mal": 30016,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanbaka_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanbaka_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Nanbaka"
+  }
+ },
+ "a71": {
+  "title": "Tokyo Ghoul",
+  "mal": 22319,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tokyo_ghoul_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tokyo_ghoul_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tokyo_ghoul_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tokyo_ghoul_s4.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tokyo_ghoul_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Tokyo Ghoul",
+   "2": "Tokyo Ghoul √A",
+   "3": "Tokyo Ghoul:re",
+   "4": "Tokyo Ghoul:re 2"
+  }
+ },
+ "a72": {
+  "title": "Shinsekai Yori",
+  "mal": 13125,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_shinsekai_yori_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_shinsekai_yori_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Shinsekai yori"
+  }
  }
 }
