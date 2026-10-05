@@ -634,5 +634,171 @@
   "matched": {
    "1": "BTOOOM!"
   }
+ },
+ "a40": {
+  "title": "Grand Blue",
+  "mal": 37105,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_grand_blue_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_grand_blue_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Grand Blue"
+  }
+ },
+ "a41": {
+  "title": "One Punch Man",
+  "mal": 30276,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_one_punch_man_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_one_punch_man_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_one_punch_man_s3.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_one_punch_man_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "One Punch Man",
+   "2": "One Punch Man 2",
+   "3": "One Punch Man 3"
+  }
+ },
+ "a42": {
+  "title": "My Hero Academia",
+  "mal": 31964,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_my_hero_academia_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_my_hero_academia_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_my_hero_academia_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_my_hero_academia_s4.jpg",
+   "5": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_my_hero_academia_s5.jpg",
+   "6": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_my_hero_academia_s6.jpg",
+   "7": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_my_hero_academia_s7.jpg",
+   "8": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_my_hero_academia_s8.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList",
+   "5": "AniList",
+   "6": "AniList",
+   "7": "AniList",
+   "8": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_my_hero_academia_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Boku no Hero Academia",
+   "2": "Boku no Hero Academia 2",
+   "3": "Boku no Hero Academia 3",
+   "4": "Boku no Hero Academia 4",
+   "5": "Boku no Hero Academia 5",
+   "6": "Boku no Hero Academia 6",
+   "7": "Boku no Hero Academia 7",
+   "8": "Boku no Hero Academia FINAL SEASON"
+  }
+ },
+ "a43": {
+  "title": "God Eater",
+  "mal": 27631,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_god_eater_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_god_eater_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "GOD EATER"
+  }
+ },
+ "a44": {
+  "title": "Ao Haru Ride",
+  "mal": 21995,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ao_haru_ride_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ao_haru_ride_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Ao Haru Ride"
+  }
+ },
+ "a45": {
+  "title": "The Promised Neverland",
+  "mal": 37779,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_the_promised_neverland_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_the_promised_neverland_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_the_promised_neverland_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Yakusoku no Neverland",
+   "2": "Yakusoku no Neverland 2"
+  }
+ },
+ "a46": {
+  "title": "Demon Slayer",
+  "mal": 38000,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_demon_slayer_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_demon_slayer_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_demon_slayer_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_demon_slayer_s4.jpg",
+   "5": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_demon_slayer_s5.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList",
+   "5": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_demon_slayer_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Kimetsu no Yaiba",
+   "2": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)",
+   "3": "Kimetsu no Yaiba: Yuukaku-hen",
+   "4": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+   "5": "Kimetsu no Yaiba: Hashira Geiko-hen"
+  }
+ },
+ "a47": {
+  "title": "Pluto",
+  "error": "non trovato"
+ },
+ "a48": {
+  "title": "Josee to Tora to Sakana-tachi",
+  "mal": 40787,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_josee_to_tora_to_sakana_tachi_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_josee_to_tora_to_sakana_tachi_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Josee to Tora to Sakanatachi"
+  }
  }
 }
