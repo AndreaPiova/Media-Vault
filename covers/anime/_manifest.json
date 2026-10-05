@@ -2785,5 +2785,164 @@
    "4": "Haikyuu!! TO THE TOP",
    "5": "Haikyuu!! TO THE TOP 2"
   }
+ },
+ "a113": {
+  "title": "Hajime no Ippo",
+  "mal": 263,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_hajime_no_ippo_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_hajime_no_ippo_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_hajime_no_ippo_s3.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_hajime_no_ippo_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Hajime no Ippo: THE FIGHTING!",
+   "2": "Hajime no Ippo: New Challenger",
+   "3": "Hajime no Ippo: Rising"
+  }
+ },
+ "a130": {
+  "title": "Magi",
+  "mal": 157,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_magi_s1.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_magi_s3.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "3": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_magi_poster.jpg",
+  "done": true,
+  "matched": {
+   "3": "UQ Holder!: Mahou Sensei Negima! 2",
+   "1": "Mahou Sensei Negima!"
+  }
+ },
+ "a133": {
+  "title": "Mushishi",
+  "mal": 457,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_mushishi_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_mushishi_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_mushishi_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Mushishi",
+   "2": "Mushishi Zoku Shou"
+  }
+ },
+ "a136": {
+  "title": "Nanatsu no Taizai",
+  "mal": 23755,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanatsu_no_taizai_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanatsu_no_taizai_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanatsu_no_taizai_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanatsu_no_taizai_s4.jpg",
+   "5": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanatsu_no_taizai_s5.jpg",
+   "6": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanatsu_no_taizai_s6.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList",
+   "5": "AniList",
+   "6": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanatsu_no_taizai_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Nanatsu no Taizai",
+   "2": "Nanatsu no Taizai: Imashime no Fukkatsu",
+   "3": "Nanatsu no Taizai: Kamigami no Gekirin",
+   "4": "Nanatsu no Taizai: Funnu no Shinpan",
+   "5": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
+   "6": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season"
+  }
+ },
+ "a142": {
+  "title": "Psycho-Pass",
+  "mal": 13601,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_psycho_pass_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_psycho_pass_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_psycho_pass_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "PSYCHO-PASS",
+   "2": "PSYCHO-PASS 2"
+  }
+ },
+ "a154": {
+  "title": "Tensei shitara Slime Datta Ken",
+  "mal": 37430,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tensei_shitara_slime_datta_ken_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tensei_shitara_slime_datta_ken_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tensei_shitara_slime_datta_ken_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tensei_shitara_slime_datta_ken_s4.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tensei_shitara_slime_datta_ken_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Tensei Shitara Slime Datta Ken",
+   "2": "Tensei Shitara Slime Datta Ken 2nd Season",
+   "3": "Tensei Shitara Slime Datta Ken 2nd Season Part 2",
+   "4": "Tensei Shitara Slime Datta Ken 3rd Season"
+  }
+ },
+ "a156": {
+  "title": "Trigun",
+  "mal": 6,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_trigun_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_trigun_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "TRIGUN"
+  }
+ },
+ "a161": {
+  "title": "Yahari Ore no Seishun Love Comedy",
+  "mal": 33161,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_yahari_ore_no_seishun_love_comedy_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_yahari_ore_no_seishun_love_comedy_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru"
+  }
  }
 }
