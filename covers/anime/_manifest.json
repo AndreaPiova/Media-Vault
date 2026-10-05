@@ -341,5 +341,165 @@
   "matched": {
    "1": "Tengoku Daimakyou"
   }
+ },
+ "a22": {
+  "title": "Naruto",
+  "mal": 20,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_naruto_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_naruto_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_naruto_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "NARUTO",
+   "2": "NARUTO: Shippuuden"
+  }
+ },
+ "a23": {
+  "title": "JoJo's Bizarre Adventure",
+  "mal": 14719,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s4.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "JoJo no Kimyou na Bouken (TV)",
+   "2": "JoJo no Kimyou na Bouken: Stardust Crusaders",
+   "3": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+   "4": "JoJo no Kimyou na Bouken: Ougon no Kaze"
+  }
+ },
+ "a24": {
+  "title": "Love is War",
+  "mal": 37999,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_love_is_war_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_love_is_war_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_love_is_war_s3.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_love_is_war_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+   "2": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+   "3": "Kaguya-sama wa Kokurasetai: Ultra Romantic"
+  }
+ },
+ "a25": {
+  "title": "Assassination Classroom",
+  "mal": 24833,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_assassination_classroom_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_assassination_classroom_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_assassination_classroom_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Ansatsu Kyoushitsu",
+   "2": "Ansatsu Kyoushitsu 2nd Season"
+  }
+ },
+ "a26": {
+  "title": "My Dress-Up Darling",
+  "mal": 48736,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_my_dress_up_darling_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_my_dress_up_darling_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Sono Bisque Doll wa Koi wo Suru"
+  }
+ },
+ "a27": {
+  "title": "Summertime Rendering",
+  "error": "non trovato"
+ },
+ "a28": {
+  "title": "Classroom of the Elite",
+  "mal": 35507,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_classroom_of_the_elite_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_classroom_of_the_elite_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_classroom_of_the_elite_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_classroom_of_the_elite_s4.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_classroom_of_the_elite_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+   "2": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+   "3": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+   "4": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki"
+  }
+ },
+ "a29": {
+  "title": "Hell's Paradise",
+  "mal": 46569,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_hell_s_paradise_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_hell_s_paradise_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Jigokuraku"
+  }
+ },
+ "a30": {
+  "title": "Tokyo Revengers",
+  "mal": 42249,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tokyo_revengers_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tokyo_revengers_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tokyo_revengers_s3.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tokyo_revengers_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Tokyo Revengers",
+   "2": "Tokyo Revengers: Seiya Kessen-hen",
+   "3": "Tokyo Revengers: Tenjiku-hen"
+  }
  }
 }
