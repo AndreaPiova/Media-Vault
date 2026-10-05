@@ -113,24 +113,6 @@
    "1": "Kimi no Na wa."
   }
  },
- "a7": {
-  "title": "Dr. Stone",
-  "mal": 38691,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dr_stone_s1.jpg",
-   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dr_stone_s2.jpg"
-  },
-  "src": {
-   "1": "AniList",
-   "2": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dr_stone_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "Dr. STONE",
-   "2": "Dr. STONE: STONE WARS"
-  }
- },
  "a8": {
   "title": "Vinland Saga",
   "mal": 37521,
@@ -147,21 +129,6 @@
   "matched": {
    "1": "VINLAND SAGA",
    "2": "VINLAND SAGA SEASON 2"
-  }
- },
- "a9": {
-  "title": "Made in Abyss",
-  "mal": 34599,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_made_in_abyss_s1.jpg"
-  },
-  "src": {
-   "1": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_made_in_abyss_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "Made in Abyss"
   }
  },
  "a10": {
@@ -371,30 +338,6 @@
    "2": "NARUTO: Shippuuden"
   }
  },
- "a23": {
-  "title": "JoJo's Bizarre Adventure",
-  "mal": 14719,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s1.jpg",
-   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s2.jpg",
-   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s3.jpg",
-   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s4.jpg"
-  },
-  "src": {
-   "1": "AniList",
-   "2": "AniList",
-   "3": "AniList",
-   "4": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "JoJo no Kimyou na Bouken (TV)",
-   "2": "JoJo no Kimyou na Bouken: Stardust Crusaders",
-   "3": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
-   "4": "JoJo no Kimyou na Bouken: Ougon no Kaze"
-  }
- },
  "a24": {
   "title": "Love is War",
   "mal": 37999,
@@ -448,10 +391,6 @@
   "matched": {
    "1": "Sono Bisque Doll wa Koi wo Suru"
   }
- },
- "a27": {
-  "title": "Summertime Rendering",
-  "error": "non trovato"
  },
  "a28": {
   "title": "Classroom of the Elite",
@@ -1164,21 +1103,6 @@
    "1": "Akame ga Kill!"
   }
  },
- "a70": {
-  "title": "Nanbaka",
-  "mal": 30016,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanbaka_s1.jpg"
-  },
-  "src": {
-   "1": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanbaka_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "Nanbaka"
-  }
- },
  "a71": {
   "title": "Tokyo Ghoul",
   "mal": 22319,
@@ -1491,30 +1415,6 @@
    "1": "BORUTO: NARUTO NEXT GENERATIONS"
   }
  },
- "a89": {
-  "title": "Bungou Stray Dogs",
-  "mal": 31478,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s1.jpg",
-   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s2.jpg",
-   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s3.jpg",
-   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s4.jpg"
-  },
-  "src": {
-   "1": "AniList",
-   "2": "AniList",
-   "3": "AniList",
-   "4": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "Bungou Stray Dogs",
-   "2": "Bungou Stray Dogs 2nd Season",
-   "3": "Bungou Stray Dogs 3rd Season",
-   "4": "Bungou Stray Dogs 5th Season"
-  }
- },
  "a90": {
   "title": "5 Centimeters Per Second",
   "mal": 1689,
@@ -1725,21 +1625,6 @@
    "2": "Fate/Zero 2nd Season"
   }
  },
- "a102": {
-  "title": "Fruits Basket",
-  "mal": 120,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fruits_basket_s1.jpg"
-  },
-  "src": {
-   "1": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fruits_basket_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "Fruits Basket"
-  }
- },
  "a103": {
   "title": "Fumetsu no Anata e",
   "mal": 41025,
@@ -1882,42 +1767,6 @@
   "done": true,
   "matched": {
    "1": "Haibane Renmei"
-  }
- },
- "a112": {
-  "title": "Haikyuu!!",
-  "mal": 20583,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_haikyuu!!_s1.jpg",
-   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_haikyuu!!_s2.jpg",
-   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_haikyuu!!_s3.jpg"
-  },
-  "src": {
-   "1": "AniList",
-   "2": "AniList",
-   "3": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_haikyuu!!_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "Haikyuu!!",
-   "2": "Haikyuu!! 2nd Season",
-   "3": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou"
-  }
- },
- "a113": {
-  "title": "Hajime no Ippo",
-  "mal": 263,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_hajime_no_ippo_s1.jpg"
-  },
-  "src": {
-   "1": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_hajime_no_ippo_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "Hajime no Ippo: THE FIGHTING!"
   }
  },
  "a114": {
@@ -2205,24 +2054,6 @@
    "3": "Log Horizon: Entaku Houkai"
   }
  },
- "a130": {
-  "title": "Magi",
-  "mal": 157,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_magi_s1.jpg",
-   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_magi_s3.jpg"
-  },
-  "src": {
-   "1": "AniList",
-   "3": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_magi_poster.jpg",
-  "done": true,
-  "matched": {
-   "3": "UQ Holder!: Mahou Sensei Negima! 2",
-   "1": "Mahou Sensei Negima!"
-  }
- },
  "a131": {
   "title": "Mahou Shoujo Madoka Magica",
   "mal": 9756,
@@ -2251,21 +2082,6 @@
   "done": true,
   "matched": {
    "1": "MONSTER"
-  }
- },
- "a133": {
-  "title": "Mushishi",
-  "mal": 457,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_mushishi_s1.jpg"
-  },
-  "src": {
-   "1": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_mushishi_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "Mushishi"
   }
  },
  "a134": {
@@ -2302,30 +2118,6 @@
   "done": true,
   "matched": {
    "1": "NHK ni Youkoso!"
-  }
- },
- "a136": {
-  "title": "Nanatsu no Taizai",
-  "mal": 23755,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanatsu_no_taizai_s1.jpg",
-   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanatsu_no_taizai_s2.jpg",
-   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanatsu_no_taizai_s3.jpg",
-   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanatsu_no_taizai_s4.jpg"
-  },
-  "src": {
-   "1": "AniList",
-   "2": "AniList",
-   "3": "AniList",
-   "4": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanatsu_no_taizai_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "Nanatsu no Taizai",
-   "2": "Nanatsu no Taizai: Imashime no Fukkatsu",
-   "3": "Nanatsu no Taizai: Kamigami no Gekirin",
-   "4": "Nanatsu no Taizai: Funnu no Shinpan"
   }
  },
  "a137": {
@@ -2410,24 +2202,6 @@
   "done": true,
   "matched": {
    "1": "Plastic Memories"
-  }
- },
- "a142": {
-  "title": "Psycho-Pass",
-  "mal": 13601,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_psycho_pass_s1.jpg",
-   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_psycho_pass_s2.jpg"
-  },
-  "src": {
-   "1": "AniList",
-   "2": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_psycho_pass_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "PSYCHO-PASS",
-   "2": "PSYCHO-PASS 2"
   }
  },
  "a143": {
@@ -2598,21 +2372,6 @@
    "1": "Tenkuu no Shiro Laputa"
   }
  },
- "a154": {
-  "title": "Tensei shitara Slime Datta Ken",
-  "mal": 37430,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tensei_shitara_slime_datta_ken_s1.jpg"
-  },
-  "src": {
-   "1": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tensei_shitara_slime_datta_ken_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "Tensei Shitara Slime Datta Ken"
-  }
- },
  "a155": {
   "title": "Tonari no Totoro",
   "mal": 523,
@@ -2626,21 +2385,6 @@
   "done": true,
   "matched": {
    "1": "Tonari no Totoro"
-  }
- },
- "a156": {
-  "title": "Trigun",
-  "mal": 6,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_trigun_s1.jpg"
-  },
-  "src": {
-   "1": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_trigun_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "TRIGUN"
   }
  },
  "a157": {
@@ -2701,21 +2445,6 @@
   "done": true,
   "matched": {
    "1": "Wotaku ni Koi wa Muzukashii"
-  }
- },
- "a161": {
-  "title": "Yahari Ore no Seishun Love Comedy",
-  "mal": 33161,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_yahari_ore_no_seishun_love_comedy_s1.jpg"
-  },
-  "src": {
-   "1": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_yahari_ore_no_seishun_love_comedy_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru"
   }
  },
  "a162": {
@@ -2852,10 +2581,6 @@
   "matched": {
    "1": "Tongari Boushi no Atelier 2nd Season"
   }
- },
- "a171": {
-  "title": "Dead Dead Demon's Dededede Destruction",
-  "error": "non trovato"
  },
  "a172": {
   "title": "Sword Art Online",
