@@ -61,8 +61,10 @@ def build_slug_map(items):
 def names(m):
     t = m["title"]; return [t.get("romaji"), t.get("english"), t.get("native")] + (m.get("synonyms") or [])
 
+SEARCH_OV = {"a27": "Summer Time Render", "a171": "Dededede Destruction", "a161": "Yahari Ore no Seishun Love Comedy wa Machigatteiru."}
+
 def find_first(it, is_movie):
-    d = anilist("query($q:String){Page(perPage:12){media(search:$q,type:ANIME){%s}}}" % FIELDS, {"q": it["title"]})
+    d = anilist("query($q:String){Page(perPage:12){media(search:$q,type:ANIME){%s}}}" % FIELDS, {"q": SEARCH_OV.get(it["id"], it["title"])})
     want = ("MOVIE",) if is_movie else ("TV",)
     pool = d["Page"]["media"]
     cands = [m for m in pool if m["format"] in want] or ([m for m in pool if m["format"] in ("MOVIE", "TV")] if is_movie else [])
@@ -77,14 +79,25 @@ def find_first(it, is_movie):
         return sc - (m.get("seasonYear") or 2100) / 10000.0
     return max(cands, key=score)
 
+def next_tv(cur, seen):
+    """Primo sequel TV, anche attraverso film/OVA/ONA intermedi (max 3 salti)."""
+    frontier, hops = [cur], 0
+    while frontier and hops < 3:
+        nxt_front = []
+        for c in frontier:
+            for e in c["relations"]["edges"]:
+                n = e["node"]
+                if e["relationType"] != "SEQUEL" or n["type"] != "ANIME" or n["id"] in seen: continue
+                seen.add(n["id"]); full = al_media(n["id"])
+                if n["format"] == "TV": return full
+                nxt_front.append(full)
+        frontier, hops = nxt_front, hops + 1
+    return None
+
 def chain_from(first, cap):
     chain, cur, seen = [first], first, {first["id"]}
     while len(chain) < cap:
-        nxt = None
-        for e in cur["relations"]["edges"]:
-            n = e["node"]
-            if e["relationType"] == "SEQUEL" and n["type"] == "ANIME" and n["format"] == "TV" and n["id"] not in seen:
-                nxt = al_media(n["id"]); seen.add(n["id"]); break
+        nxt = next_tv(cur, seen)
         if not nxt: break
         chain.append(nxt); cur = nxt
     return chain
