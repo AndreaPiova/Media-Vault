@@ -1184,5 +1184,143 @@
   "matched": {
    "1": "Shinsekai yori"
   }
+ },
+ "a73": {
+  "title": "Angels of Death",
+  "mal": 35994,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_angels_of_death_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_angels_of_death_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Satsuriku no Tenshi"
+  }
+ },
+ "a74": {
+  "title": "Yu-Gi-Oh ZEXAL",
+  "mal": 10015,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_yu_gi_oh_zexal_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_yu_gi_oh_zexal_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_yu_gi_oh_zexal_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Yu☆Gi☆Oh! ZEXAL",
+   "2": "Yu☆Gi☆Oh! ZEXAL II"
+  }
+ },
+ "a75": {
+  "title": "3-gatsu no Lion",
+  "mal": 31646,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_3_gatsu_no_lion_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_3_gatsu_no_lion_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_3_gatsu_no_lion_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "3-gatsu no Lion",
+   "2": "3-gatsu no Lion 2nd Season"
+  }
+ },
+ "a76": {
+  "title": "5-toubun no Hanayome",
+  "mal": 38101,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_5_toubun_no_hanayome_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_5_toubun_no_hanayome_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Go-toubun no Hanayome"
+  }
+ },
+ "a77": {
+  "title": "86",
+  "mal": 41457,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_86_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_86_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_86_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "86: Eighty Six",
+   "2": "86: Eighty Six Part 2"
+  }
+ },
+ "a78": {
+  "title": "Angel Beats!",
+  "mal": 6547,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_angel_beats_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_angel_beats_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Angel Beats!"
+  }
+ },
+ "a79": {
+  "title": "Ao Ashi",
+  "mal": 49052,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ao_ashi_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ao_ashi_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Aoashi"
+  }
+ },
+ "a80": {
+  "title": "Ao no Exorcist",
+  "mal": 9919,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ao_no_exorcist_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ao_no_exorcist_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ao_no_exorcist_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ao_no_exorcist_s4.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ao_no_exorcist_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Ao no Exorcist",
+   "2": "Ao no Exorcist: Kyoto Fujouou-hen",
+   "3": "Ao no Exorcist: Shimane Illuminati-hen",
+   "4": "Ao no Exorcist: Yuki no Hate-hen"
+  }
  }
 }
