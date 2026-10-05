@@ -2021,5 +2021,140 @@
    "3": "Kingdom 3rd Season",
    "4": "Kingdom 4th Season"
   }
+ },
+ "a124": {
+  "title": "Kino no Tabi",
+  "mal": 486,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kino_no_tabi_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kino_no_tabi_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Kino no Tabi: the Beautiful World"
+  }
+ },
+ "a125": {
+  "title": "Komi-san",
+  "mal": 48926,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_komi_san_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_komi_san_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_komi_san_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Komi-san wa, Komyushou desu.",
+   "2": "Komi-san wa, Komyushou desu. 2"
+  }
+ },
+ "a126": {
+  "title": "Ghost in the Shell",
+  "mal": 43,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ghost_in_the_shell_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ghost_in_the_shell_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "GHOST IN THE SHELL: Koukaku Kidoutai"
+  }
+ },
+ "a174": {
+  "title": "Innocence: Ghost in the Shell 2",
+  "mal": 468,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_innocence_ghost_in_the_shell_2_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_innocence_ghost_in_the_shell_2_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Innocence"
+  }
+ },
+ "a127": {
+  "title": "Koutetsujou no Kabaneri",
+  "mal": 28623,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_koutetsujou_no_kabaneri_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_koutetsujou_no_kabaneri_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Koutetsujou no Kabaneri"
+  }
+ },
+ "a128": {
+  "title": "Kusuriya no Hitorigoto",
+  "mal": 54492,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kusuriya_no_hitorigoto_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kusuriya_no_hitorigoto_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kusuriya_no_hitorigoto_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Kusuriya no Hitorigoto",
+   "2": "Kusuriya no Hitorigoto 2nd Season"
+  }
+ },
+ "a129": {
+  "title": "Log Horizon",
+  "mal": 17265,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_log_horizon_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_log_horizon_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_log_horizon_s3.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_log_horizon_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Log Horizon",
+   "2": "Log Horizon 2",
+   "3": "Log Horizon: Entaku Houkai"
+  }
+ },
+ "a130": {
+  "title": "Magi",
+  "mal": 157,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_magi_s1.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_magi_s3.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "3": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_magi_poster.jpg",
+  "done": true,
+  "matched": {
+   "3": "UQ Holder!: Mahou Sensei Negima! 2",
+   "1": "Mahou Sensei Negima!"
+  }
  }
 }
