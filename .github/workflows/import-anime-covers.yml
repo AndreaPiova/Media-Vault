@@ -1,0 +1,25 @@
+name: Import anime covers (MAL)
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "ID anime separati da virgola (vuoto = tutti)"
+        required: false
+        default: ""
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests pillow
+      - run: |
+          git config user.name "mediavault-bot"
+          git config user.email "bot@users.noreply.github.com"
+      - run: python scripts/import-anime-covers.py
+        env:
+          ONLY: ${{ github.event.inputs.only }}
