@@ -1746,5 +1746,142 @@
   "matched": {
    "1": "Ginga Eiyuu Densetsu: Die Neue These - Kaikou"
   }
+ },
+ "a106": {
+  "title": "Gintama",
+  "mal": 918,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_gintama_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_gintama_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Gintama"
+  }
+ },
+ "a107": {
+  "title": "Golden Kamuy",
+  "mal": 36028,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_golden_kamuy_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_golden_kamuy_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Golden Kamuy"
+  }
+ },
+ "a108": {
+  "title": "Great Pretender",
+  "error": "non trovato"
+ },
+ "a109": {
+  "title": "Great Teacher Onizuka",
+  "mal": 245,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_great_teacher_onizuka_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_great_teacher_onizuka_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "GTO"
+  }
+ },
+ "a110": {
+  "title": "Kaiji",
+  "mal": 3002,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kaiji_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kaiji_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_kaiji_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Gyakkyou Burai Kaiji: Ultimate Survivor",
+   "2": "Gyakkyou Burai Kaiji: Hakairoku-hen"
+  }
+ },
+ "a111": {
+  "title": "Haibane Renmei",
+  "mal": 387,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_haibane_renmei_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_haibane_renmei_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Haibane Renmei"
+  }
+ },
+ "a112": {
+  "title": "Haikyuu!!",
+  "mal": 20583,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_haikyuu!!_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_haikyuu!!_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_haikyuu!!_s3.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_haikyuu!!_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Haikyuu!!",
+   "2": "Haikyuu!! 2nd Season",
+   "3": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou"
+  }
+ },
+ "a113": {
+  "title": "Hajime no Ippo",
+  "mal": 263,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_hajime_no_ippo_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_hajime_no_ippo_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Hajime no Ippo: THE FIGHTING!"
+  }
+ },
+ "a114": {
+  "title": "Hellsing Ultimate",
+  "error": "non trovato"
+ },
+ "a115": {
+  "title": "Grave of the Fireflies",
+  "mal": 578,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_grave_of_the_fireflies_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_grave_of_the_fireflies_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Hotaru no Haka"
+  }
  }
 }
