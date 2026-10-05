@@ -64,8 +64,8 @@ def user_list():
     ids = set()
     try:
         p = 1
-        while p < 30:
-            j = jikan("/users/AndreaPiova/animelist?page=%d" % p)
+        while p < 12:
+            log("lista utente pagina %d" % p); j = jikan("/users/AndreaPiova/animelist?page=%d" % p)
             if not j or not j.get("data"): break
             for e in j["data"]: ids.add(e["anime"]["mal_id"])
             if not (j.get("pagination") or {}).get("has_next_page"): break
@@ -136,6 +136,12 @@ def assign(it, chain):
         res[1] = chain[0]
     return res
 
+LOGF = OUT + "/_log.txt"
+def log(msg):
+    print(msg, flush=True)
+    os.makedirs(OUT, exist_ok=True)
+    with open(LOGF, "a", encoding="utf-8") as f: f.write(time.strftime("%H:%M:%S ") + msg + "\n")
+
 def git(*a): return subprocess.run(["git"] + list(a), check=False, capture_output=True, text=True)
 def commit(msg):
     git("add", OUT)
@@ -151,7 +157,7 @@ def main():
     ov = json.load(open("scripts/anime-overrides.json")) if os.path.exists("scripts/anime-overrides.json") else {}
     man = json.load(open(MAN, encoding="utf-8")) if os.path.exists(MAN) else {}
     os.makedirs(OUT, exist_ok=True)
-    mine = user_list(); print("titoli nella lista MAL utente:", len(mine))
+    log("avvio"); mine = user_list(); log("titoli nella lista MAL utente: %d" % len(mine)); commit("log")
     done = 0
     for n, it in enumerate(items, 1):
         if only and it["id"] not in only: continue
@@ -180,12 +186,12 @@ def main():
             if "poster" not in rec: raise RuntimeError("nessun poster S1")
             rec["done"] = True; rec["matched"] = {str(k): a["title"] for k, a in mapping.items()}
             man[it["id"]] = rec; done += 1
-            print("OK  %s %s -> MAL %s, %d stagioni (%.0fs)" % (it["id"], it["title"], first["mal_id"], len(rec["seasons"]), time.time() - t0), flush=True)
+            log("OK  %s %s -> MAL %s, %d stagioni (%.0fs)" % (it["id"], it["title"], first["mal_id"], len(rec["seasons"]), time.time() - t0), flush=True)
         except Exception as e:
             man[it["id"]] = {"title": it["title"], "error": str(e)}
-            print("ERR %s %s: %s" % (it["id"], it["title"], e), flush=True)
+            log("ERR %s %s: %s" % (it["id"], it["title"], e), flush=True)
         json.dump(man, open(MAN, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-        if done and done % 8 == 0: commit("Anime covers import: batch (%d)" % done)
+        if len(only) or n % 5 == 0 or (done and done % 8 == 0): commit("Anime covers import: batch (%d)" % done)
     commit("Anime covers import: fine batch")
     errs = [k for k, v in man.items() if v.get("error")]
     print("COMPLETATI:", sum(1 for v in man.values() if v.get("done")), "ERRORI:", len(errs), errs)
