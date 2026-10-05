@@ -1,0 +1,22 @@
+name: Probe MAL sources
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: probe
+        run: |
+          mkdir -p covers/anime
+          P=covers/anime/_probe.txt; : > $P
+          t(){ echo "== $1" >> $P; curl -sS -m 15 -A "Mozilla/5.0" -o /tmp/o -w "%{http_code} %{time_total}s\n" "$1" >> $P 2>&1; head -c 300 /tmp/o | tr '\n' ' ' >> $P; echo >> $P; }
+          t "https://api.jikan.moe/v4/anime/16498"
+          t "https://myanimelist.net/anime/16498"
+          t "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
+          t "https://api.myanimelist.net/v2/anime/16498"
+          curl -sS -m 20 -X POST https://graphql.anilist.co -H 'Content-Type: application/json' -d '{"query":"{ Media(idMal:16498,type:ANIME){ id idMal title{romaji} coverImage{extraLarge} } }"}' -o /tmp/o -w "anilist %{http_code} %{time_total}s\n" >> $P 2>&1; head -c 300 /tmp/o >> $P; echo >> $P
+          git config user.name bot; git config user.email bot@users.noreply.github.com
+          git add $P; git commit -m probe; git push
