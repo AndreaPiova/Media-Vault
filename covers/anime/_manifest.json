@@ -2614,5 +2614,176 @@
    "1": "Fate/stay night: Unlimited Blade Works",
    "2": "Fate/stay night: Unlimited Blade Works 2nd Season"
   }
+ },
+ "a7": {
+  "title": "Dr. Stone",
+  "mal": 38691,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dr_stone_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dr_stone_s2.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dr_stone_s4.jpg",
+   "5": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dr_stone_s5.jpg",
+   "6": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dr_stone_s6.jpg",
+   "7": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dr_stone_s7.jpg",
+   "8": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dr_stone_s8.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "4": "AniList",
+   "5": "AniList",
+   "6": "AniList",
+   "7": "AniList",
+   "8": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dr_stone_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Dr. STONE",
+   "2": "Dr. STONE: STONE WARS",
+   "4": "Dr. STONE: NEW WORLD",
+   "5": "Dr. STONE: NEW WORLD Part 2",
+   "6": "Dr. STONE: SCIENCE FUTURE",
+   "7": "Dr. STONE: SCIENCE FUTURE Part 2",
+   "8": "Dr. STONE: SCIENCE FUTURE Part 3"
+  }
+ },
+ "a9": {
+  "title": "Made in Abyss",
+  "mal": 34599,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_made_in_abyss_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_made_in_abyss_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_made_in_abyss_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Made in Abyss",
+   "2": "Made in Abyss: Retsujitsu no Ougonkyou"
+  }
+ },
+ "a23": {
+  "title": "JoJo's Bizarre Adventure",
+  "mal": 14719,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s4.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "JoJo no Kimyou na Bouken (TV)",
+   "2": "JoJo no Kimyou na Bouken: Stardust Crusaders",
+   "3": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+   "4": "JoJo no Kimyou na Bouken: Ougon no Kaze"
+  }
+ },
+ "a27": {
+  "title": "Summertime Rendering",
+  "mal": 47194,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_summertime_rendering_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_summertime_rendering_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Summer Time Render"
+  }
+ },
+ "a70": {
+  "title": "Nanbaka",
+  "mal": 30016,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanbaka_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanbaka_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Nanbaka"
+  }
+ },
+ "a89": {
+  "title": "Bungou Stray Dogs",
+  "mal": 31478,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s4.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Bungou Stray Dogs",
+   "2": "Bungou Stray Dogs 2nd Season",
+   "3": "Bungou Stray Dogs 3rd Season",
+   "4": "Bungou Stray Dogs 5th Season"
+  }
+ },
+ "a102": {
+  "title": "Fruits Basket",
+  "mal": 120,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fruits_basket_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fruits_basket_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Fruits Basket"
+  }
+ },
+ "a112": {
+  "title": "Haikyuu!!",
+  "mal": 20583,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_haikyuu!!_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_haikyuu!!_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_haikyuu!!_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_haikyuu!!_s4.jpg",
+   "5": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_haikyuu!!_s5.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList",
+   "5": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_haikyuu!!_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Haikyuu!!",
+   "2": "Haikyuu!! 2nd Season",
+   "3": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+   "4": "Haikyuu!! TO THE TOP",
+   "5": "Haikyuu!! TO THE TOP 2"
+  }
  }
 }
