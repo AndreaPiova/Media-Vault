@@ -325,7 +325,18 @@
  },
  "a20": {
   "title": "Cyberpunk: Edgerunners",
-  "error": "non trovato"
+  "mal": 42310,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_cyberpunk_edgerunners_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_cyberpunk_edgerunners_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Cyberpunk: Edgerunners"
+  }
  },
  "a21": {
   "title": "Heavenly Delusion",
@@ -618,7 +629,18 @@
  },
  "a38": {
   "title": "Tomodachi Game",
-  "error": "non trovato"
+  "mal": 50273,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tomodachi_game_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_tomodachi_game_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Tomodachi Game"
+  }
  },
  "a39": {
   "title": "Btooom!",
@@ -784,7 +806,18 @@
  },
  "a47": {
   "title": "Pluto",
-  "error": "non trovato"
+  "mal": 35737,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_pluto_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_pluto_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "PLUTO"
+  }
  },
  "a48": {
   "title": "Josee to Tora to Sakana-tachi",
@@ -1595,7 +1628,18 @@
  },
  "a97": {
   "title": "Devilman: Crybaby",
-  "error": "non trovato"
+  "mal": 35120,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_devilman_crybaby_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_devilman_crybaby_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "DEVILMAN crybaby"
+  }
  },
  "a98": {
   "title": "Edens Zero",
@@ -1779,7 +1823,18 @@
  },
  "a108": {
   "title": "Great Pretender",
-  "error": "non trovato"
+  "mal": 40052,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_great_pretender_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_great_pretender_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "GREAT PRETENDER"
+  }
  },
  "a109": {
   "title": "Great Teacher Onizuka",
@@ -1867,7 +1922,18 @@
  },
  "a114": {
   "title": "Hellsing Ultimate",
-  "error": "non trovato"
+  "mal": 777,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_hellsing_ultimate_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_hellsing_ultimate_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "HELLSING OVA"
+  }
  },
  "a115": {
   "title": "Grave of the Fireflies",
@@ -2639,7 +2705,18 @@
  },
  "a161": {
   "title": "Yahari Ore no Seishun Love Comedy",
-  "error": "non trovato"
+  "mal": 33161,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_yahari_ore_no_seishun_love_comedy_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_yahari_ore_no_seishun_love_comedy_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru"
+  }
  },
  "a162": {
   "title": "Yuu☆Yuu☆Hakusho",
