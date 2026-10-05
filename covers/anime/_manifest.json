@@ -1322,5 +1322,140 @@
    "3": "Ao no Exorcist: Shimane Illuminati-hen",
    "4": "Ao no Exorcist: Yuki no Hate-hen"
   }
+ },
+ "a81": {
+  "title": "Ao no Hako",
+  "mal": 61323,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ao_no_hako_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ao_no_hako_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Ao no Hako Season 2"
+  }
+ },
+ "a82": {
+  "title": "Ashita no Joe",
+  "mal": 2402,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ashita_no_joe_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ashita_no_joe_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_ashita_no_joe_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Ashita no Joe",
+   "2": "Ashita no Joe 2"
+  }
+ },
+ "a83": {
+  "title": "Baccano!",
+  "mal": 2251,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_baccano!_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_baccano!_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Baccano!"
+  }
+ },
+ "a84": {
+  "title": "Bakemonogatari",
+  "mal": 5081,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bakemonogatari_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bakemonogatari_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Bakemonogatari"
+  }
+ },
+ "a85": {
+  "title": "Banana Fish",
+  "mal": 36649,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_banana_fish_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_banana_fish_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "BANANA FISH"
+  }
+ },
+ "a86": {
+  "title": "Black Clover",
+  "mal": 34572,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_black_clover_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_black_clover_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Black Clover"
+  }
+ },
+ "a87": {
+  "title": "Bleach",
+  "mal": 269,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bleach_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bleach_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bleach_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bleach_s4.jpg",
+   "5": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bleach_s5.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList",
+   "5": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bleach_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "BLEACH",
+   "2": "BLEACH: Sennen Kessen-hen",
+   "3": "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan",
+   "4": "BLEACH: Sennen Kessen-hen - Soukoku-tan",
+   "5": "BLEACH: Sennen Kessen-hen - Kashin-tan"
+  }
+ },
+ "a88": {
+  "title": "Boruto",
+  "mal": 34566,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_boruto_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_boruto_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "BORUTO: NARUTO NEXT GENERATIONS"
+  }
  }
 }
