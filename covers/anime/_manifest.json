@@ -2794,5 +2794,23 @@
   "matched": {
    "1": "Sword Art Online"
   }
+ },
+ "a173": {
+  "title": "Fate/stay night: Unlimited Blade Works",
+  "mal": 22297,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fate_stay_night_unlimited_blade_works_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fate_stay_night_unlimited_blade_works_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fate_stay_night_unlimited_blade_works_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Fate/stay night: Unlimited Blade Works",
+   "2": "Fate/stay night: Unlimited Blade Works 2nd Season"
+  }
  }
 }
