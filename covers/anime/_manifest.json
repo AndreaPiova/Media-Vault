@@ -1457,5 +1457,140 @@
   "matched": {
    "1": "BORUTO: NARUTO NEXT GENERATIONS"
   }
+ },
+ "a89": {
+  "title": "Bungou Stray Dogs",
+  "mal": 31478,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s4.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Bungou Stray Dogs",
+   "2": "Bungou Stray Dogs 2nd Season",
+   "3": "Bungou Stray Dogs 3rd Season",
+   "4": "Bungou Stray Dogs 5th Season"
+  }
+ },
+ "a90": {
+  "title": "5 Centimeters Per Second",
+  "mal": 1689,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_5_centimeters_per_second_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_5_centimeters_per_second_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Byousoku 5 Centimeter"
+  }
+ },
+ "a91": {
+  "title": "Chi. Chikyuu no Undou ni Tsuite",
+  "mal": 52215,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_chi_chikyuu_no_undou_ni_tsuite_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_chi_chikyuu_no_undou_ni_tsuite_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Chi. Chikyuu no Undou ni Tsuite"
+  }
+ },
+ "a92": {
+  "title": "Clannad",
+  "mal": 2167,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_clannad_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_clannad_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_clannad_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "CLANNAD",
+   "2": "CLANNAD: After Story"
+  }
+ },
+ "a93": {
+  "title": "Claymore",
+  "mal": 1818,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_claymore_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_claymore_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "CLAYMORE"
+  }
+ },
+ "a94": {
+  "title": "Cowboy Bebop",
+  "mal": 1,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_cowboy_bebop_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_cowboy_bebop_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Cowboy Bebop"
+  }
+ },
+ "a95": {
+  "title": "D.Gray-man",
+  "mal": 1482,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_d_gray_man_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_d_gray_man_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_d_gray_man_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "D.Gray-man",
+   "2": "D.Gray-man HALLOW"
+  }
+ },
+ "a96": {
+  "title": "Dandadan",
+  "mal": 57334,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dandadan_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_dandadan_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Dandadan"
+  }
  }
 }
