@@ -69,5 +69,10 @@ async function uploadAll(){if(busy)return;busy=true;
    if(sn==='1')await gh(`covers/anime/${a.slug}_poster.jpg`,b64,`Anime poster scelto: ${a.title} (home)`);
    DONE[key]=SEL[key];ok++;save();paint(key)}catch(e){st('⚠ '+a.title+' S'+sn+': '+e.message);console.error(e);if(/token|401|403/.test(e.message))break}}
  busy=false;st(`Fatto: ${ok}/${todo.length} caricati su GitHub.`)}
-fetch('data/anime-poster-candidates.json?t='+Date.now()).then(r=>r.json()).then(j=>{D=j;render()}).catch(e=>{$('app').textContent='Errore caricamento candidati: '+e})
+async function load(){
+ const U=['data/anime-poster-candidates.json','https://raw.githubusercontent.com/'+REPO+'/main/data/anime-poster-candidates.json','https://andreapiova.github.io/Media-Vault/data/anime-poster-candidates.json'];
+ let err=[];
+ for(const u of U){try{const r=await fetch(u+'?t='+Date.now());if(!r.ok){err.push(u.slice(0,40)+' → '+r.status);continue}D=await r.json();render();return}catch(e){err.push(u.slice(0,40)+' → '+e.message)}}
+ $('app').innerHTML='<div style="padding:16px">⚠ Impossibile caricare i candidati.<br><small style="color:#8888aa">'+err.join('<br>')+'</small><br><br><button onclick="load()">Riprova</button></div>'}
+$('app').textContent='Caricamento candidati…';load();
 </script></body></html>
