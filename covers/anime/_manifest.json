@@ -2846,21 +2846,6 @@
    "6": "JoJo no Kimyou na Bouken: Steel Ball Run - 1st STAGE"
   }
  },
- "a70": {
-  "title": "Nanbaka",
-  "mal": 30016,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanbaka_s1.jpg"
-  },
-  "src": {
-   "1": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanbaka_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "Nanbaka"
-  }
- },
  "a89": {
   "title": "Bungou Stray Dogs",
   "mal": 31478,
@@ -2970,24 +2955,6 @@
    "1": "TRIGUN",
    "2": "TRIGUN STAMPEDE",
    "3": "TRIGUN STARGAZE"
-  }
- },
- "a161": {
-  "title": "Yahari Ore no Seishun Love Comedy",
-  "mal": 33161,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_yahari_ore_no_seishun_love_comedy_s1.jpg",
-   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_yahari_ore_no_seishun_love_comedy_s2.jpg"
-  },
-  "src": {
-   "1": "AniList",
-   "2": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_yahari_ore_no_seishun_love_comedy_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru",
-   "2": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru"
   }
  }
 }
