@@ -2815,5 +2815,179 @@
   "matched": {
    "1": "Dead Dead Demon's Dededededestruction"
   }
+ },
+ "a23": {
+  "title": "JoJo's Bizarre Adventure",
+  "mal": 14719,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s4.jpg",
+   "5": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s5.jpg",
+   "6": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s6.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList",
+   "5": "AniList",
+   "6": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "JoJo no Kimyou na Bouken (TV)",
+   "2": "JoJo no Kimyou na Bouken: Stardust Crusaders",
+   "3": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+   "4": "JoJo no Kimyou na Bouken: Ougon no Kaze",
+   "5": "JoJo no Kimyou na Bouken: Stone Ocean",
+   "6": "JoJo no Kimyou na Bouken: Steel Ball Run - 1st STAGE"
+  }
+ },
+ "a70": {
+  "title": "Nanbaka",
+  "mal": 30016,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanbaka_s1.jpg"
+  },
+  "src": {
+   "1": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanbaka_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Nanbaka"
+  }
+ },
+ "a89": {
+  "title": "Bungou Stray Dogs",
+  "mal": 31478,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s3.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s4.jpg",
+   "5": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s5.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList",
+   "4": "AniList",
+   "5": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Bungou Stray Dogs",
+   "2": "Bungou Stray Dogs 2nd Season",
+   "3": "Bungou Stray Dogs 3rd Season",
+   "4": "Bungou Stray Dogs 4th Season",
+   "5": "Bungou Stray Dogs 5th Season"
+  }
+ },
+ "a102": {
+  "title": "Fruits Basket",
+  "mal": 120,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fruits_basket_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fruits_basket_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fruits_basket_s3.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fruits_basket_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Fruits Basket: 1st Season",
+   "2": "Fruits Basket: 2nd Season",
+   "3": "Fruits Basket: The Final"
+  }
+ },
+ "a130": {
+  "title": "Magi",
+  "mal": 157,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_magi_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_magi_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_magi_s3.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_magi_poster.jpg",
+  "done": true,
+  "matched": {
+   "3": "Magi: Sinbad no Bouken",
+   "1": "Magi: The labyrinth of magic",
+   "2": "Magi: The kingdom of magic"
+  }
+ },
+ "a142": {
+  "title": "Psycho-Pass",
+  "mal": 13601,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_psycho_pass_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_psycho_pass_s2.jpg",
+   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_psycho_pass_s4.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "4": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_psycho_pass_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "PSYCHO-PASS",
+   "2": "PSYCHO-PASS 2",
+   "4": "PSYCHO-PASS 3"
+  }
+ },
+ "a156": {
+  "title": "Trigun",
+  "mal": 6,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_trigun_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_trigun_s2.jpg",
+   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_trigun_s3.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList",
+   "3": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_trigun_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "TRIGUN",
+   "2": "TRIGUN STAMPEDE",
+   "3": "TRIGUN STARGAZE"
+  }
+ },
+ "a161": {
+  "title": "Yahari Ore no Seishun Love Comedy",
+  "mal": 33161,
+  "seasons": {
+   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_yahari_ore_no_seishun_love_comedy_s1.jpg",
+   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_yahari_ore_no_seishun_love_comedy_s2.jpg"
+  },
+  "src": {
+   "1": "AniList",
+   "2": "AniList"
+  },
+  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_yahari_ore_no_seishun_love_comedy_poster.jpg",
+  "done": true,
+  "matched": {
+   "1": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru",
+   "2": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru"
+  }
  }
 }
