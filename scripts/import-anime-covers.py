@@ -159,13 +159,13 @@ def poster_for(m):
 
 SEASON_OV = {
  "a23": {5: ["JoJo no Kimyou na Bouken: Stone Ocean", 2022], 6: ["Steel Ball Run", 2026]},
- "a70": {2: ["Nanbaka Ni-Zamu", 2017]},
+ "a70": {2: ["Nanbaka", 2017]},
  "a89": {4: ["Bungou Stray Dogs 4th Season", 2023], 5: ["Bungou Stray Dogs 5th Season", 2023]},
  "a102": {1: ["Fruits Basket", 2019], 2: ["Fruits Basket 2nd Season", 2020], 3: ["Fruits Basket: The Final", 2021]},
  "a130": {1: ["Magi: The Labyrinth of Magic", 2012], 2: ["Magi: The Kingdom of Magic", 2013], 3: ["Magi: Sinbad no Bouken", 2016]},
  "a142": {4: ["Psycho-Pass 3", 2019]},
  "a156": {2: ["Trigun Stampede", 2023], 3: ["Trigun Stargaze", 2026]},
- "a161": {1: ["Yahari Ore no Seishun Love Comedy wa Machigatteiru.", 2013], 2: ["Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku", 2015], 3: ["Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan", 2020]},
+ "a161": {1: ["Yahari Ore no Seishun Love Come wa Machigatteiru.", 2013], 2: ["Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru", 2015], 3: ["Yahari Ore no Seishun Love Come wa Machigatteiru. Kan", 2020]},
 }
 
 def resolve(q, year):
