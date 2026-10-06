@@ -156,6 +156,29 @@ def poster_for(m):
         except Exception: pass
     c = m["coverImage"]; return to_poster(c.get("extraLarge") or c["large"]), "AniList"
 
+
+SEASON_OV = {
+ "a23": {5: ["JoJo no Kimyou na Bouken: Stone Ocean", 2022], 6: ["Steel Ball Run", 2026]},
+ "a70": {2: ["Nanbaka Ni-Zamu", 2017]},
+ "a89": {4: ["Bungou Stray Dogs 4th Season", 2023], 5: ["Bungou Stray Dogs 5th Season", 2023]},
+ "a102": {1: ["Fruits Basket", 2019], 2: ["Fruits Basket 2nd Season", 2020], 3: ["Fruits Basket: The Final", 2021]},
+ "a130": {1: ["Magi: The Labyrinth of Magic", 2012], 2: ["Magi: The Kingdom of Magic", 2013], 3: ["Magi: Sinbad no Bouken", 2016]},
+ "a142": {4: ["Psycho-Pass 3", 2019]},
+ "a156": {2: ["Trigun Stampede", 2023], 3: ["Trigun Stargaze", 2026]},
+ "a161": {1: ["Yahari Ore no Seishun Love Comedy wa Machigatteiru.", 2013], 2: ["Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku", 2015], 3: ["Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan", 2020]},
+}
+
+def resolve(q, year):
+    d = anilist("query($q:String){Page(perPage:15){media(search:$q,type:ANIME){%s}}}" % FIELDS, {"q": q})
+    c = [m for m in d["Page"]["media"] if m["format"] in ("TV", "ONA", "OVA", "MOVIE", "TV_SHORT")]
+    if year: c = [m for m in c if m.get("seasonYear") and abs(m["seasonYear"] - year) <= 1] or []
+    if not c: return None
+    n = norm(q)
+    def sc(m):
+        nm = [norm(x) for x in names(m) if x]
+        return (100 if n in nm else 0) - min(len(x) for x in nm) / 1000.0 - (0 if not year else abs((m.get("seasonYear") or year) - year) * 5)
+    return max(c, key=sc)
+
 def git(*a): return subprocess.run(["git"] + list(a), capture_output=True, text=True)
 def commit(msg):
     git("add", OUT)
@@ -180,6 +203,10 @@ def main():
             if not first: raise RuntimeError("non trovato")
             chain = [first] if is_movie else chain_from(first, min(max(len(it["seasons"]), 1) + 4, 14))
             mapping = assign(it, chain); base = slugs[it["id"]]
+            for kk, (qq, yy) in SEASON_OV.get(it["id"], {}).items():
+                rr = resolve(qq, yy)
+                if rr: mapping[kk] = rr
+                else: log("  override non trovato:", it["id"], kk, qq)
             rec = {"title": it["title"], "mal": first.get("idMal"), "seasons": {}, "src": {}}
             for k, m in sorted(mapping.items()):
                 data, src = poster_for(m)
