@@ -33,11 +33,18 @@
 <div id="app">Caricamento…</div>
 <script>
 const REPO='AndreaPiova/Media-Vault',IMG='https://image.tmdb.org/t/p/';
-let D={},SEL=JSON.parse(localStorage.getItem('mvp_sel')||'{}'),DONE=JSON.parse(localStorage.getItem('mvp_done')||'{}');
+let D={},SEL={},DONE={},TK='';
+const KV={db:null,open(){return new Promise(r=>{try{const q=indexedDB.open('mvp_picker',1);q.onupgradeneeded=()=>q.result.createObjectStore('kv');q.onsuccess=()=>{KV.db=q.result;r()};q.onerror=()=>r()}catch(e){r()}})},
+ get(k){return new Promise(r=>{if(!KV.db)return r(undefined);try{const q=KV.db.transaction('kv').objectStore('kv').get(k);q.onsuccess=()=>r(q.result);q.onerror=()=>r(undefined)}catch(e){r(undefined)}})},
+ set(k,v){try{if(KV.db)KV.db.transaction('kv','readwrite').objectStore('kv').put(v,k)}catch(e){}}};
+function ls(k){try{return localStorage.getItem(k)}catch(e){return null}}
+async function initStore(){await KV.open();
+ SEL=(await KV.get('sel'))||JSON.parse(ls('mvp_sel')||'{}');DONE=(await KV.get('done'))||JSON.parse(ls('mvp_done')||'{}');TK=(await KV.get('tk'))||ls('mvp_tk')||'';
+ if(!KV.db)st('⚠ Archivio del browser non disponibile: le scelte restano solo finché la pagina è aperta.')}
 const $=id=>document.getElementById(id);
-function save(){localStorage.setItem('mvp_sel',JSON.stringify(SEL));localStorage.setItem('mvp_done',JSON.stringify(DONE));$('n').textContent=Object.keys(SEL).filter(k=>!DONE[k]||DONE[k]!==SEL[k]).length}
+function save(){KV.set('sel',SEL);KV.set('done',DONE);$('n').textContent=Object.keys(SEL).filter(k=>!DONE[k]||DONE[k]!==SEL[k]).length}
 function st(t){$('st').textContent=t}
-function setToken(){const t=prompt('Token GitHub (resta solo in questo browser):',localStorage.getItem('mvp_tk')||'');if(t!==null)localStorage.setItem('mvp_tk',t.trim())}
+function setToken(){const t=prompt('Token GitHub (resta solo in questo browser):',TK);if(t!==null){TK=t.trim();KV.set('tk',TK)}}
 function pick(key,p){if(SEL[key]===p)delete SEL[key];else SEL[key]=p;save();paint(key)}
 function paint(key){document.querySelectorAll('[data-k="'+key+'"]').forEach(e=>{e.classList.toggle('sel',SEL[key]===e.dataset.p);e.classList.toggle('done',DONE[key]===e.dataset.p&&SEL[key]===e.dataset.p)})}
 function clearSel(){if(confirm('Svuotare le scelte non ancora caricate?')){for(const k in SEL)if(DONE[k]!==SEL[k])delete SEL[k];save();render()}}
@@ -57,7 +64,7 @@ function render(){
  $('app').innerHTML=h||'Nessun risultato';save()}
 async function blobOf(url){for(const u of [url,'https://images.weserv.nl/?url='+encodeURIComponent(url.replace(/^https?:\/\//,''))+'&output=jpg']){try{const r=await fetch(u);if(r.ok)return await r.blob()}catch(e){}}throw new Error('download immagine fallito')}
 async function toJpg(p){const b=await createImageBitmap(await blobOf(IMG+'w780'+p));const c=document.createElement('canvas');c.width=780;c.height=1170;const x=c.getContext('2d');x.fillStyle='#0a0a1a';x.fillRect(0,0,780,1170);const s=Math.max(780/b.width,1170/b.height),w=b.width*s,h=b.height*s;x.drawImage(b,(780-w)/2,(1170-h)/2,w,h);return c.toDataURL('image/jpeg',.85).split(',')[1]}
-async function api(path,opt){const tk=localStorage.getItem('mvp_tk');if(!tk)throw new Error('manca il token (🔑)');
+async function api(path,opt){const tk=TK;if(!tk)throw new Error('manca il token (🔑)');
  const r=await fetch('https://api.github.com/repos/'+REPO+path,{...opt,headers:{Authorization:'Bearer '+tk,Accept:'application/vnd.github+json'}});
  if(!r.ok)throw new Error('GitHub '+r.status+' '+(await r.text()).slice(0,90));return r.json()}
 let busy=false;
@@ -86,5 +93,5 @@ async function load(){
  let err=[];
  for(const u of U){try{const r=await fetch(u+'?t='+Date.now());if(!r.ok){err.push(u.slice(0,40)+' → '+r.status);continue}D=await r.json();render();return}catch(e){err.push(u.slice(0,40)+' → '+e.message)}}
  $('app').innerHTML='<div style="padding:16px">⚠ Impossibile caricare i candidati.<br><small style="color:#8888aa">'+err.join('<br>')+'</small><br><br><button onclick="load()">Riprova</button></div>'}
-$('app').textContent='Caricamento candidati…';load();
+$('app').textContent='Caricamento candidati…';initStore().then(load);
 </script></body></html>
