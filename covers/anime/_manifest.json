@@ -2666,30 +2666,6 @@
    "2": "Made in Abyss: Retsujitsu no Ougonkyou"
   }
  },
- "a23": {
-  "title": "JoJo's Bizarre Adventure",
-  "mal": 14719,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s1.jpg",
-   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s2.jpg",
-   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s3.jpg",
-   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_s4.jpg"
-  },
-  "src": {
-   "1": "AniList",
-   "2": "AniList",
-   "3": "AniList",
-   "4": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_jojo_s_bizarre_adventure_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "JoJo no Kimyou na Bouken (TV)",
-   "2": "JoJo no Kimyou na Bouken: Stardust Crusaders",
-   "3": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
-   "4": "JoJo no Kimyou na Bouken: Ougon no Kaze"
-  }
- },
  "a27": {
   "title": "Summertime Rendering",
   "mal": 47194,
@@ -2703,60 +2679,6 @@
   "done": true,
   "matched": {
    "1": "Summer Time Render"
-  }
- },
- "a70": {
-  "title": "Nanbaka",
-  "mal": 30016,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanbaka_s1.jpg"
-  },
-  "src": {
-   "1": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_nanbaka_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "Nanbaka"
-  }
- },
- "a89": {
-  "title": "Bungou Stray Dogs",
-  "mal": 31478,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s1.jpg",
-   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s2.jpg",
-   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s3.jpg",
-   "4": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_s4.jpg"
-  },
-  "src": {
-   "1": "AniList",
-   "2": "AniList",
-   "3": "AniList",
-   "4": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_bungou_stray_dogs_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "Bungou Stray Dogs",
-   "2": "Bungou Stray Dogs 2nd Season",
-   "3": "Bungou Stray Dogs 3rd Season",
-   "4": "Bungou Stray Dogs 5th Season"
-  }
- },
- "a102": {
-  "title": "Fruits Basket",
-  "mal": 120,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fruits_basket_s1.jpg"
-  },
-  "src": {
-   "1": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_fruits_basket_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "Fruits Basket"
   }
  },
  "a112": {
@@ -2807,24 +2729,6 @@
    "3": "Hajime no Ippo: Rising"
   }
  },
- "a130": {
-  "title": "Magi",
-  "mal": 157,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_magi_s1.jpg",
-   "3": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_magi_s3.jpg"
-  },
-  "src": {
-   "1": "AniList",
-   "3": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_magi_poster.jpg",
-  "done": true,
-  "matched": {
-   "3": "UQ Holder!: Mahou Sensei Negima! 2",
-   "1": "Mahou Sensei Negima!"
-  }
- },
  "a133": {
   "title": "Mushishi",
   "mal": 457,
@@ -2873,24 +2777,6 @@
    "6": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season"
   }
  },
- "a142": {
-  "title": "Psycho-Pass",
-  "mal": 13601,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_psycho_pass_s1.jpg",
-   "2": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_psycho_pass_s2.jpg"
-  },
-  "src": {
-   "1": "AniList",
-   "2": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_psycho_pass_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "PSYCHO-PASS",
-   "2": "PSYCHO-PASS 2"
-  }
- },
  "a154": {
   "title": "Tensei shitara Slime Datta Ken",
   "mal": 37430,
@@ -2913,36 +2799,6 @@
    "2": "Tensei Shitara Slime Datta Ken 2nd Season",
    "3": "Tensei Shitara Slime Datta Ken 2nd Season Part 2",
    "4": "Tensei Shitara Slime Datta Ken 3rd Season"
-  }
- },
- "a156": {
-  "title": "Trigun",
-  "mal": 6,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_trigun_s1.jpg"
-  },
-  "src": {
-   "1": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_trigun_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "TRIGUN"
-  }
- },
- "a161": {
-  "title": "Yahari Ore no Seishun Love Comedy",
-  "mal": 33161,
-  "seasons": {
-   "1": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_yahari_ore_no_seishun_love_comedy_s1.jpg"
-  },
-  "src": {
-   "1": "AniList"
-  },
-  "poster": "https://raw.githubusercontent.com/AndreaPiova/Media-Vault/main/covers/anime/anime_yahari_ore_no_seishun_love_comedy_poster.jpg",
-  "done": true,
-  "matched": {
-   "1": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru"
   }
  },
  "a171": {
