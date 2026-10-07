@@ -1,0 +1,22 @@
+name: Check film posters
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests pillow
+      - run: python scripts/check-film-posters.py
+        env:
+          TMDB_KEY: 2dca580c2a14b55200e784d157207b4d
+      - run: |
+          git config user.name "mediavault-bot"; git config user.email "bot@users.noreply.github.com"
+          git add data/film-poster-check.json
+          git commit -m "Film poster check" || echo nothing
+          git pull --rebase -X theirs || true
+          git push
