@@ -511,5 +511,32 @@
    15,
    16
   ]
+ },
+ "m39": {
+  "title": "Oyasumi Punpun",
+  "edition": "New edition",
+  "query": "Buonanotte, PunPun - New Edition",
+  "expected": 7,
+  "hires": 6,
+  "kept_low": 1,
+  "missing": []
+ },
+ "m67": {
+  "title": "Pandora Hearts",
+  "edition": "New edition",
+  "query": "Pandora Hearts New Edition",
+  "expected": 13,
+  "hires": 13,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m17": {
+  "title": "Planetes",
+  "edition": "Complete edition",
+  "query": "Planetes",
+  "expected": 1,
+  "hires": 0,
+  "kept_low": 1,
+  "missing": []
  }
 }
