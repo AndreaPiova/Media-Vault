@@ -399,5 +399,32 @@
   "hires": 1,
   "kept_low": 0,
   "missing": []
+ },
+ "m3": {
+  "title": "La ragazza in riva al mare",
+  "edition": "",
+  "query": "La ragazza in riva al mare",
+  "expected": 2,
+  "hires": 2,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m13": {
+  "title": "Made in Abyss",
+  "edition": "",
+  "query": "Made in Abyss",
+  "expected": 14,
+  "hires": 14,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m14": {
+  "title": "Monster",
+  "edition": "Deluxe edition",
+  "query": "Monster Deluxe",
+  "expected": 9,
+  "hires": 8,
+  "kept_low": 1,
+  "missing": []
  }
 }
