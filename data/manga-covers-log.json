@@ -375,5 +375,84 @@
   "ok": 18,
   "missing_vols": [],
   "not_found": []
+ },
+ "m59": {
+  "title": "Gantz",
+  "edition": "New edition",
+  "expected": 37,
+  "groups": {
+   "Gantz": 37,
+   "Gantz - Nuova Edizione": 37
+  },
+  "error": "edizione non trovata"
+ },
+ "m71": {
+  "title": "Grand Blue",
+  "edition": "",
+  "expected": 3,
+  "groups": {
+   "Grand Blue Variant": 1,
+   "Grand Blue Variant Romics": 1,
+   "Grand Blue": 4,
+   "Grand Blue Variant Edition Cut Price": 3
+  },
+  "chosen": "Grand Blue",
+  "ok": 0,
+  "missing_vols": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "not_found": [
+   1,
+   2,
+   3
+  ]
+ },
+ "m37": {
+  "title": "GTO",
+  "edition": "Deluxe black edition",
+  "expected": 13,
+  "groups": {
+   "Big G.T.O.": 13,
+   "Big G.T.O. Box": 4,
+   "Big G.T.O. Deluxe": 13,
+   "G.T.O.": 25,
+   "Big G.T.O. Deluxe Red Metal Variant MangaYo!": 1,
+   "Big G.T.O. Deluxe Black Edition": 13
+  },
+  "chosen": "Big G.T.O. Deluxe Black Edition",
+  "ok": 13,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m62": {
+  "title": "Hanako-kun",
+  "edition": "",
+  "expected": 25,
+  "groups": {
+   "Hanako kun - I sette misteri dell'Accademia Kamome": 26,
+   "Hanako kun - Art Work": 1,
+   "Hanako kun - I sette misteri dell'Accademia Kamome Greatest Hits Cut Price": 1
+  },
+  "chosen": "Hanako kun - I sette misteri dell'Accademia Kamome",
+  "ok": 25,
+  "missing_vols": [
+   26
+  ],
+  "not_found": []
+ },
+ "m63": {
+  "title": "Hell\\'s Paradise",
+  "edition": "",
+  "expected": 13,
+  "groups": {
+   "Hell's Paradise – Jigokuraku": 13
+  },
+  "chosen": "Hell's Paradise – Jigokuraku",
+  "ok": 13,
+  "missing_vols": [],
+  "not_found": []
  }
 }
