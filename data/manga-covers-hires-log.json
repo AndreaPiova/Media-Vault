@@ -604,5 +604,32 @@
   "hires": 11,
   "kept_low": 9,
   "missing": []
+ },
+ "m44": {
+  "title": "Solanin",
+  "edition": "Complete edition",
+  "query": "Solanin",
+  "expected": 1,
+  "hires": 1,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m2": {
+  "title": "Solo Leveling",
+  "edition": "",
+  "query": "Solo Leveling",
+  "expected": 27,
+  "hires": 27,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m64": {
+  "title": "Spice & Wolf",
+  "edition": "Double edition",
+  "query": "Spice and Wolf - Double Edition",
+  "expected": 8,
+  "hires": 7,
+  "kept_low": 1,
+  "missing": []
  }
 }
