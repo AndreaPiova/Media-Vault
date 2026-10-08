@@ -1,34 +1,63 @@
-## contesto immagine
->
-    
-</div>
-
-        <div class="col-12 col-md-3">
-            <a title="Vai alla scheda." href="/manga/9544/20th-century-boys">
-                <img class="img-fluid mx-auto d-block cover-opera cover-no-found" itemprop="image" alt="20th Century Boys Ultimate Deluxe Edition"
-                 src="/immagini/manga/20th_Century_Boys/edizioni/20th Century Boys Ultimate Deluxe Edition-edizione-3089551.jpg"/>
-                </a>
-            <br />
-            <div class="pollici-grafico-div ac-chart ac-chart-compact"
-                 data-tot-promosso="63"
-                 data-tot-rimandato="1"
-                 data-tot-bocciato="0"   ></div>
-        </div>
-        <div class="col-dx col-12 co
-## og/href img
-href="/bundles/accommon/images/ac-touch-icon-iphone.png"
-href="/bundles/accommon/images/ac-touch-icon-ipad.png"
-href="/bundles/accommon/images/ac-touch-icon-iphone4.png"
-href="/bundles/accommon/images/ac-touch-icon-iphone.png"
-href="/bundles/accommon/images/ac-touch-icon-ipad.png"
-href="/bundles/accommon/images/ac-touch-icon-iphone4.png"
-## ISBN
-isbn: None
-== https://www.starcomics.com 200
-== https://www.panini.it 200
-== https://www.jpopmanga.com errore ConnectionError
-== https://www.amazon.it 202
-== https://www.lafeltrinelli.it 200
-== https://www.ibs.it 200
-== https://www.mangaworld.cx errore SSLError
-== https://mangavariant.com 403
+===== IBS 200 534473 https://www.ibs.it/search/?ts=as&query=20th+Century+Boys+Ultimate+Deluxe+Edition+1
+ titles/links:
+    /classifica/libri/1week/sold?defaultPage=1
+    /libri/ultima-settimana
+    /libri/in-prenotazione
+    /libri/saggistica
+    /libri/societa-politica-comunicazione
+    /libri/religione-spiritualita
+    /libri/gialli-thriller-horror
+    /libri/narrativa-italiana
+    /libri/narrativa-straniera
+    /libri/bambini-ragazzi
+    /curatrice-di-libri-antichi-copia-libro-cristina-caboni/e/2000000132709
+    /curatrice-di-libri-antichi-copia-libro-cristina-caboni/e/2000000132709
+ EAN trovati: ['9788828760863', '9788828723714', '9788828725787', '9788828774440', '9788806233341', '9788804802358', '9788829796632', '9791257800277']
+ img:
+    https://www.ibs.it/assets/2026/09/20260924124219-gribaudoblenzuolo2x-.webp
+    https://www.ibs.it/assets/2026/09/20260928024937-mondadoriblenzuolo2x-.webp
+    https://www.ibs.it/images/2000000132709_0_0_0_180_50.jpg
+    https://www.ibs.it/images/2000000132792_0_0_0_180_50.jpg
+    https://www.ibs.it/images/9788806233341_0_0_0_180_50.jpg
+    https://www.ibs.it/assets/2026/09/20260918125115-laterzablenzuolo2x-.webp
+    https://www.ibs.it/assets/2026/09/20260917033715-ilmulinoblenzuolo2x-.webp
+    https://www.ibs.it/images/9788804802358_0_0_0_180_50.jpg
+  IMG 200 89507 B (382, 536) https://img.ibs.it/images/9788828760863_0_0_536_0_75.jpg
+  IMG 200 66860 B (1200, 1200) https://img.ibs.it/images/9788828760863_0_0_1200_0_75.jpg
+  IMG 200 63226 B (536, 752) https://www.lafeltrinelli.it/images/9788828760863_0_0_536_0_75.jpg
+  IMG 200 11338 B (128, 180) https://books.google.com/books/content?vid=ISBN:9788828760863&printsec=frontcover&img=1&zoom=1
+  IMG 404 0 B non immagine https://covers.openlibrary.org/b/isbn/9788828760863-L.jpg?default=false
+===== Feltrinelli 200 747817 https://www.lafeltrinelli.it/search?q=20th+Century+Boys+Ultimate+Deluxe+Edition+1
+ titles/links:
+    /classifica/libri/1week/sold?defaultPage=1
+    /libri/ultima-settimana
+    /libri/in-prenotazione
+    /libri/romance
+    /libri/serie-trope
+    /libri/classici-da-leggere
+    /libri/fumetti-graphic-novels
+    /libri/gialli-thriller-horror
+    /libri/narrativa-straniera
+    /otto-ragazze-copia-autografata-su-libro-aurora-tamigio/e/2000000132792
+    /otto-ragazze-copia-autografata-su-libro-aurora-tamigio/e/2000000132792
+    /otto-ragazze-copia-autografata-su-libro-aurora-tamigio/e/2000000132792
+ EAN trovati: ['9788817174459', '9791259578839', '9788820086626', '9788822796585', '9788806271978', '9788831743006', '9788838949968', '9791259577115']
+ img:
+    https://www.lafeltrinelli.it/assets/2026/09/20260924123117-gribaudoblenzuolo2x-.webp
+    https://www.lafeltrinelli.it/assets/2026/09/20260928032947-ilsaggiatoreblenzuolo2x-.webp
+    https://www.lafeltrinelli.it/images/2000000132792_0_0_0_180_50.jpg
+    https://www.lafeltrinelli.it/images/9788806233341_0_0_0_180_50.jpg
+    https://www.lafeltrinelli.it/images/9788883065071_0_0_0_180_50.jpg
+    https://www.lafeltrinelli.it/assets/2026/09/20260921024039-rokiablenzuolo2x-.webp
+    https://www.lafeltrinelli.it/assets/2026/07/20260722105223-magazzinisalanilenzuolo2x-.webp
+    https://www.lafeltrinelli.it/images/9788820086626_0_0_0_180_50.jpg
+  IMG 200 82936 B (356, 536) https://img.ibs.it/images/9788817174459_0_0_536_0_75.jpg
+  IMG 200 66860 B (1200, 1200) https://img.ibs.it/images/9788817174459_0_0_1200_0_75.jpg
+  IMG 200 79392 B (536, 807) https://www.lafeltrinelli.it/images/9788817174459_0_0_536_0_75.jpg
+  IMG 200 11529 B (128, 193) https://books.google.com/books/content?vid=ISBN:9788817174459&printsec=frontcover&img=1&zoom=1
+  IMG 404 0 B non immagine https://covers.openlibrary.org/b/isbn/9788817174459-L.jpg?default=false
+===== Panini 200 2376 https://www.panini.it/shp_ita_it/catalogsearch/result/?q=20th+Century+Boys+Ultimate+Deluxe+Edition+1
+ titles/links:
+ EAN trovati: []
+ img:
+===== StarComics None 0 https://www.starcomics.com/search?q=slam+dunk+1
