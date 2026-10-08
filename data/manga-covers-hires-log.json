@@ -467,5 +467,49 @@
   "hires": 1,
   "kept_low": 0,
   "missing": []
+ },
+ "m15": {
+  "title": "One Piece",
+  "edition": "New edition",
+  "query": "One Piece New Edition",
+  "expected": 109,
+  "hires": 100,
+  "kept_low": 9,
+  "missing": []
+ },
+ "m16": {
+  "title": "One Punch Man",
+  "edition": "",
+  "query": "One-Punch Man",
+  "expected": 35,
+  "hires": 33,
+  "kept_low": 2,
+  "missing": []
+ },
+ "m96": {
+  "title": "Orfani",
+  "edition": "",
+  "query": "Orfani",
+  "expected": 16,
+  "hires": 0,
+  "kept_low": 0,
+  "missing": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16
+  ]
  }
 }
