@@ -137,5 +137,32 @@
   "hires": 22,
   "kept_low": 0,
   "missing": []
+ },
+ "m60": {
+  "title": "Claymore",
+  "edition": "New edition",
+  "query": "Claymore New Edition",
+  "expected": 27,
+  "hires": 26,
+  "kept_low": 1,
+  "missing": []
+ },
+ "m28": {
+  "title": "Dandadan",
+  "edition": "",
+  "query": "Dandadan",
+  "expected": 18,
+  "hires": 18,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m34": {
+  "title": "Deadman Wonderland",
+  "edition": "",
+  "query": "Deadman Wonderland",
+  "expected": 13,
+  "hires": 13,
+  "kept_low": 0,
+  "missing": []
  }
 }
