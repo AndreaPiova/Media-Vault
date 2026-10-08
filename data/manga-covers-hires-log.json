@@ -83,5 +83,32 @@
   "hires": 21,
   "kept_low": 1,
   "missing": []
+ },
+ "m26": {
+  "title": "Berserk",
+  "edition": "Deluxe edition",
+  "query": "Berserk Deluxe Edition",
+  "expected": 14,
+  "hires": 14,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m5": {
+  "title": "Blame",
+  "edition": "Master edition",
+  "query": "Blame! Master Edition",
+  "expected": 6,
+  "hires": 0,
+  "kept_low": 6,
+  "missing": []
+ },
+ "m32": {
+  "title": "Bleach",
+  "edition": "",
+  "query": "Bleach",
+  "expected": 74,
+  "hires": 60,
+  "kept_low": 14,
+  "missing": []
  }
 }
