@@ -659,5 +659,139 @@
   "ok": 9,
   "missing_vols": [],
   "not_found": []
+ },
+ "m70": {
+  "title": "MPD Psycho",
+  "edition": "",
+  "expected": 24,
+  "groups": {
+   "MPD Psycho": 24
+  },
+  "chosen": "MPD Psycho",
+  "ok": 0,
+  "missing_vols": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24
+  ],
+  "not_found": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24
+  ]
+ },
+ "m48": {
+  "title": "Mushishi",
+  "edition": "",
+  "expected": 10,
+  "groups": {
+   "Mushishi": 10
+  },
+  "chosen": "Mushishi",
+  "ok": 10,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m66": {
+  "title": "No Longer Human",
+  "edition": "Complete edition",
+  "expected": 1,
+  "groups": {
+   "Lo squalificato": 3
+  },
+  "fallback": true,
+  "chosen": "Lo squalificato",
+  "ok": 2,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m15": {
+  "title": "One Piece",
+  "edition": "New edition",
+  "expected": 109,
+  "groups": {
+   "One Piece": 114,
+   "One Piece - Ristampa corretta": 1,
+   "One Piece Celebration Edition": 3,
+   "One Piece Variant": 1,
+   "One Piece Limited Edition": 1,
+   "One Piece New Edition": 112,
+   "One Piece (Gazzetta dello Sport)": 110,
+   "Io sono One Piece": 3,
+   "One Piece Color Walk": 2,
+   "One Piece Quiz Book": 2,
+   "One Piece Gold: Il Film - Anime Comics": 2,
+   "One Piece Strong World: Il Film - Avventura sulle isole volanti - Anime Comics": 2,
+   "One Piece Il Film: Stampede - Anime Comics": 2,
+   "One Piece Z: Il Film - Anime Comics": 2,
+   "One Piece Film: Red - Anime Comics": 2
+  },
+  "chosen": "One Piece New Edition",
+  "ok": 111,
+  "missing_vols": [
+   112
+  ],
+  "not_found": []
+ },
+ "m16": {
+  "title": "One Punch Man",
+  "edition": "",
+  "expected": 35,
+  "groups": {
+   "One-Punch Man": 36,
+   "One-Punch Man Variant FX": 1,
+   "One-Punch Man - Discovery Edition": 1,
+   "One-Punch Man Christmas Variant": 1,
+   "One-Punch Man Variant": 18,
+   "One-Punch Man Instant Variant": 1
+  },
+  "chosen": "One-Punch Man",
+  "ok": 35,
+  "missing_vols": [
+   36
+  ],
+  "not_found": []
  }
 }
