@@ -454,5 +454,57 @@
   "ok": 13,
   "missing_vols": [],
   "not_found": []
+ },
+ "m38": {
+  "title": "Homunculus",
+  "edition": "",
+  "expected": 15,
+  "groups": {
+   "Homunculus": 15
+  },
+  "chosen": "Homunculus",
+  "ok": 15,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m40": {
+  "title": "Houseki no Kuni",
+  "edition": "",
+  "expected": 13,
+  "groups": {
+   "Land of the Lustrous": 13,
+   "Land of the Lustrous Jacket Variant Double-face": 1
+  },
+  "error": "edizione non trovata"
+ },
+ "m41": {
+  "title": "I Am Hero",
+  "edition": "",
+  "expected": 22,
+  "groups": {
+   "I am a hero": 22,
+   "I am a hero Variant": 1,
+   "I am a Hero - Nuova edizione": 22,
+   "I am a Hero - Nuova edizione Variant MangaYo!": 1
+  },
+  "chosen": "I am a hero",
+  "ok": 22,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m9": {
+  "title": "Il prezzo di una vita",
+  "edition": "Box",
+  "expected": 3,
+  "groups": {
+   "Il prezzo di una vita - I sold my life for ten thousand yen per year": 3
+  },
+  "error": "edizione non trovata"
+ },
+ "m42": {
+  "title": "Imawa no Kuni no Alice",
+  "edition": "",
+  "expected": 18,
+  "error": "nessuna fonte animeclick"
  }
 }
