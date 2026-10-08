@@ -299,5 +299,51 @@
   "hires": 19,
   "kept_low": 3,
   "missing": []
+ },
+ "m9": {
+  "title": "Il prezzo di una vita",
+  "edition": "Box",
+  "query": "Il prezzo di una vita - I sold my life for ten thousand yen per year",
+  "expected": 3,
+  "hires": 3,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m42": {
+  "title": "Imawa no Kuni no Alice",
+  "edition": "",
+  "query": "Imawa no Kuni no Alice",
+  "expected": 18,
+  "hires": 0,
+  "kept_low": 0,
+  "missing": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18
+  ]
+ },
+ "m43": {
+  "title": "Jagaaaaaan",
+  "edition": "",
+  "query": "Jagan",
+  "expected": 14,
+  "hires": 14,
+  "kept_low": 0,
+  "missing": []
  }
 }
