@@ -8,6 +8,7 @@ on:
         description: "ID manga separati da virgola (vuoto = tutti)"
         required: false
         default: ""
+concurrency: { group: manga-covers, cancel-in-progress: false }
 permissions:
   contents: write
 jobs:

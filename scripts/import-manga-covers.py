@@ -39,21 +39,28 @@ def load_raw():
             out.append(dict(id=mid, title=title.replace('\\"', '"'), vols=int(vols), ed=ed))
     return sorted(out, key=lambda x: x['title'].lower())
 
-EXTRA = {'deluxe','ultimate','master','perfect','new','complete','box','final','panzer','black','double','variant','limited','cofanetto','planet','illustration','book','starter','pack','collector','special','omnibus','kanzenban','artbook','guide','novel'}
+EXTRA = {'deluxe','ultimate','master','perfect','new','complete','box','final','panzer','black','double','variant','limited','cofanetto','planet','illustration','book','starter','pack','collector','special','omnibus','kanzenban','artbook','guide','novel','bundle','cofanetto','vuoto','colossal','discovery','celebration','start','color','fashion','agenda','anime','jacket'}
+
+SYN = {'new': {'new', 'nuova', 'nuovo'}, 'complete': {'complete', 'completa', 'completo'}, 'final': {'final', 'finale'},
+       'box': {'box', 'cofanetto'}, 'perfect': {'perfect'}, 'black': {'black'}, 'deluxe': {'deluxe'}}
 
 def pick_group(groups, title, ed):
-    """groups: {nome_gruppo: {vol: (edId, edSlug)}}"""
+    """groups: {nome_gruppo: {vol: (edId, edSlug)}} -> (gruppo, fallback)"""
+    def best(c):
+        c = [g for g in c if len(groups[g]) > 0]
+        c.sort(key=lambda g: (-len(groups[g]), len(g)))
+        return c[0] if c else None
+    tn = norm(title)
     if ed:
         need = [w for w in norm(ed) if w != 'edition']
-        cand = [g for g in groups if all(w in norm(g) for w in need)]
+        g = best([g for g in groups if all(set(SYN.get(w, {w})) & set(norm(g)) for w in need)])
+        if g: return g, False
     else:
-        tn = norm(title)
-        cand = [g for g in groups if norm(g) == tn] or \
-               [g for g in groups if not (set(norm(g)) - set(tn)) & EXTRA and set(tn) <= set(norm(g))]
-    cand = [g for g in cand if len(groups[g]) > 0]
-    # preferisci piu' volumi, poi nome piu' corto
-    cand.sort(key=lambda g: (-len(groups[g]), len(g)))
-    return cand[0] if cand else None
+        g = best([g for g in groups if norm(g) == tn])
+        if g: return g, False
+    std = [g for g in groups if not (set(norm(g)) & EXTRA)]
+    g = best(std)
+    return g, True
 
 def process(it, src, log):
     ac = src.get(it['id'], {}).get('animeclick')
@@ -69,7 +76,8 @@ def process(it, src, log):
         if not vm: continue
         g = txt[:vm.start()].strip(); groups.setdefault(g, {})[int(vm.group(1))] = (eid, eslug)
     rec['groups'] = {g: len(v) for g, v in groups.items()}
-    g = pick_group(groups, it['title'], it['ed'])
+    g, fb = pick_group(groups, it['title'], it['ed'])
+    if fb and g: rec['fallback'] = True
     if not g: rec['error'] = 'edizione non trovata'; return 0
     rec['chosen'] = g
     base = 'manga_' + slug(it['title']) + ('_' + slug(it['ed']) if it['ed'] else '')
