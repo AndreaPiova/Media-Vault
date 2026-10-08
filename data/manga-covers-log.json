@@ -317,5 +317,72 @@
   "ok": 12,
   "missing_vols": [],
   "not_found": []
+ },
+ "m33": {
+  "title": "Dorohedoro",
+  "edition": "",
+  "expected": 23,
+  "groups": {},
+  "error": "edizione non trovata"
+ },
+ "m11": {
+  "title": "Dr. Stone",
+  "edition": "",
+  "expected": 27,
+  "groups": {
+   "Dr.Stone": 27,
+   "Dr.Stone Limited Edition": 1,
+   "Dr.Stone Variant Cover Edition": 2
+  },
+  "chosen": "Dr.Stone",
+  "ok": 27,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m20": {
+  "title": "Fire Punch",
+  "edition": "",
+  "expected": 8,
+  "groups": {
+   "Fire Punch": 8
+  },
+  "chosen": "Fire Punch",
+  "ok": 8,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m69": {
+  "title": "Frieren",
+  "edition": "",
+  "expected": 14,
+  "groups": {
+   "Frieren - Oltre la fine del viaggio Variant": 1,
+   "Frieren - Oltre la fine del viaggio Variant Popstore": 1,
+   "Frieren - Oltre la fine del viaggio": 15,
+   "Frieren - Oltre la fine del viaggio - Edizione deluxe": 3,
+   "Frieren - Oltre la fine del viaggio - Art Works": 1
+  },
+  "fallback": true,
+  "chosen": "Frieren - Oltre la fine del viaggio",
+  "ok": 15,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m36": {
+  "title": "Fullmetal Alchemist",
+  "edition": "Ultimate deluxe",
+  "expected": 18,
+  "groups": {
+   "The Art of Fullmetal Alchemist": 1,
+   "Fullmetal Alchemist": 27,
+   "Fullmetal Alchemist + Card Game": 1,
+   "Fullmetal Alchemist Gold": 27,
+   "Fullmetal Alchemist Gold Deluxe": 27,
+   "Fullmetal Alchemist Ultimate Deluxe Edition": 18
+  },
+  "chosen": "Fullmetal Alchemist Ultimate Deluxe Edition",
+  "ok": 18,
+  "missing_vols": [],
+  "not_found": []
  }
 }
