@@ -1,0 +1,34 @@
+## contesto immagine
+>
+    
+</div>
+
+        <div class="col-12 col-md-3">
+            <a title="Vai alla scheda." href="/manga/9544/20th-century-boys">
+                <img class="img-fluid mx-auto d-block cover-opera cover-no-found" itemprop="image" alt="20th Century Boys Ultimate Deluxe Edition"
+                 src="/immagini/manga/20th_Century_Boys/edizioni/20th Century Boys Ultimate Deluxe Edition-edizione-3089551.jpg"/>
+                </a>
+            <br />
+            <div class="pollici-grafico-div ac-chart ac-chart-compact"
+                 data-tot-promosso="63"
+                 data-tot-rimandato="1"
+                 data-tot-bocciato="0"   ></div>
+        </div>
+        <div class="col-dx col-12 co
+## og/href img
+href="/bundles/accommon/images/ac-touch-icon-iphone.png"
+href="/bundles/accommon/images/ac-touch-icon-ipad.png"
+href="/bundles/accommon/images/ac-touch-icon-iphone4.png"
+href="/bundles/accommon/images/ac-touch-icon-iphone.png"
+href="/bundles/accommon/images/ac-touch-icon-ipad.png"
+href="/bundles/accommon/images/ac-touch-icon-iphone4.png"
+## ISBN
+isbn: None
+== https://www.starcomics.com 200
+== https://www.panini.it 200
+== https://www.jpopmanga.com errore ConnectionError
+== https://www.amazon.it 202
+== https://www.lafeltrinelli.it 200
+== https://www.ibs.it 200
+== https://www.mangaworld.cx errore SSLError
+== https://mangavariant.com 403
