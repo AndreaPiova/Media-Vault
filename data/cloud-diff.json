@@ -1,0 +1,837 @@
+{
+ "chiavi_cloud": {
+  "films": 403,
+  "series": 117,
+  "anime": 173,
+  "manga": 99,
+  "manga_variant": 189,
+  "libri": 9,
+  "film_infanzia": 0,
+  "_ts": "int"
+ },
+ "eliminati_nel_cloud": {
+  "films": [
+   [
+    "f479",
+    "The Odyssey"
+   ],
+   [
+    "f480",
+    "The Host"
+   ],
+   [
+    "f481",
+    "Harry Potter and the Philosopher's Stone"
+   ],
+   [
+    "f482",
+    "Disclosure Day"
+   ],
+   [
+    "f459",
+    "Spider-Man: Into the Spider-Verse"
+   ],
+   [
+    "f451",
+    "Avatar: The Way of Water"
+   ],
+   [
+    "f452",
+    "Avatar: Fire and Ash"
+   ],
+   [
+    "f460",
+    "The Lord of the Rings: The Two Towers"
+   ],
+   [
+    "f461",
+    "The Lord of the Rings: The Return of the King"
+   ],
+   [
+    "f453",
+    "The Hobbit: The Desolation of Smaug"
+   ],
+   [
+    "f454",
+    "The Hobbit: The Battle of the Five Armies"
+   ],
+   [
+    "f455",
+    "The Hunger Games: Catching Fire"
+   ],
+   [
+    "f456",
+    "The Hunger Games: Mockingjay - Part 1"
+   ],
+   [
+    "f457",
+    "The Hunger Games: Mockingjay - Part 2"
+   ],
+   [
+    "f458",
+    "The Hunger Games: The Ballad of Songbirds & Snakes"
+   ],
+   [
+    "f426",
+    "The Gentlemen"
+   ],
+   [
+    "f427",
+    "Fury"
+   ],
+   [
+    "f428",
+    "Barry Lyndon"
+   ],
+   [
+    "f429",
+    "The Devil's Advocate"
+   ],
+   [
+    "f430",
+    "Presumed Innocent"
+   ],
+   [
+    "f431",
+    "Stonehearst Asylum"
+   ],
+   [
+    "f432",
+    "The Score"
+   ],
+   [
+    "f419",
+    "Journey to the Mysterious Island"
+   ],
+   [
+    "f438",
+    "Dune: Part Two"
+   ],
+   [
+    "f439",
+    "Dune: Part Three"
+   ],
+   [
+    "f440",
+    "Lost Highway"
+   ],
+   [
+    "f442",
+    "The Secret in Their Eyes"
+   ],
+   [
+    "f443",
+    "Leave the World Behind"
+   ],
+   [
+    "f444",
+    "Le città di pianura"
+   ],
+   [
+    "f445",
+    "Black Swan"
+   ],
+   [
+    "f446",
+    "Better Days"
+   ],
+   [
+    "f447",
+    "Obsession"
+   ],
+   [
+    "f448",
+    "Marty Supreme"
+   ],
+   [
+    "f449",
+    "Life of Pi"
+   ],
+   [
+    "f450",
+    "The Lighthouse"
+   ],
+   [
+    "f462",
+    "Fantastic Beasts: The Crimes of Grindelwald"
+   ],
+   [
+    "f463",
+    "Harry Potter and the Order of the Phoenix"
+   ],
+   [
+    "f464",
+    "Harry Potter and the Half-Blood Prince"
+   ],
+   [
+    "f465",
+    "Harry Potter and the Deathly Hallows: Part 1"
+   ],
+   [
+    "f466",
+    "Fantastic Beasts: The Secrets of Dumbledore"
+   ],
+   [
+    "f467",
+    "Spider-Man 2"
+   ],
+   [
+    "f468",
+    "Spider-Man 3"
+   ],
+   [
+    "f469",
+    "The Amazing Spider-Man"
+   ],
+   [
+    "f470",
+    "The Amazing Spider-Man 2"
+   ],
+   [
+    "f471",
+    "Spider-Man: Homecoming"
+   ],
+   [
+    "f472",
+    "Spider-Man: Far From Home"
+   ],
+   [
+    "f473",
+    "Spider-Man: No Way Home"
+   ],
+   [
+    "f474",
+    "Spider-Man: Brand New Day"
+   ],
+   [
+    "f475",
+    "Harry Potter and the Chamber of Secrets"
+   ],
+   [
+    "f476",
+    "Harry Potter and the Prisoner of Azkaban"
+   ],
+   [
+    "f477",
+    "Harry Potter and the Goblet of Fire"
+   ],
+   [
+    "f478",
+    "Harry Potter and the Deathly Hallows: Part 2"
+   ],
+   [
+    "f484",
+    "The Godfather Part III"
+   ],
+   [
+    "f485",
+    "Star Wars: A New Hope"
+   ],
+   [
+    "f486",
+    "Star Wars: The Empire Strikes Back"
+   ],
+   [
+    "f487",
+    "Star Wars: Return of the Jedi"
+   ],
+   [
+    "f488",
+    "Star Wars: Episode I - The Phantom Menace"
+   ],
+   [
+    "f489",
+    "Star Wars: Episode II – Attack of the Clones"
+   ],
+   [
+    "f490",
+    "Star Wars: Episode III - Revenge of the Sith"
+   ],
+   [
+    "f491",
+    "John Q"
+   ],
+   [
+    "f492",
+    "Star Wars: The Force Awakens"
+   ],
+   [
+    "f493",
+    "Star Wars: The Last Jedi"
+   ],
+   [
+    "f494",
+    "Star Wars: The Rise of Skywalker"
+   ],
+   [
+    "f495",
+    "Rogue One: A Star Wars Story"
+   ],
+   [
+    "f496",
+    "The Mandalorian and Grogu"
+   ]
+  ],
+  "series": [
+   [
+    "s121",
+    "The Penguin"
+   ],
+   [
+    "s122",
+    "1899"
+   ],
+   [
+    "s123",
+    "His Dark Materials"
+   ],
+   [
+    "s124",
+    "Dark Matter"
+   ],
+   [
+    "s125",
+    "Arcane"
+   ],
+   [
+    "s120",
+    "The Mentalist"
+   ],
+   [
+    "s126",
+    "The Mandalorian"
+   ],
+   [
+    "s127",
+    "Star Wars: The Clone Wars"
+   ],
+   [
+    "s128",
+    "And Then There Were None"
+   ]
+  ],
+  "anime": [
+   [
+    "a174",
+    "Innocence: Ghost in the Shell 2"
+   ]
+  ],
+  "manga": [],
+  "manga_variant": [
+   [
+    "mv1783059000001",
+    "One-Punch Man"
+   ],
+   [
+    "mv52",
+    "Chainsaw Man"
+   ],
+   [
+    "mv53",
+    "Chainsaw Man"
+   ],
+   [
+    "mv1780044283908",
+    "Gachiakuta"
+   ],
+   [
+    "mv1780044336044",
+    "Blue Lock"
+   ],
+   [
+    "mv1780044542812",
+    "Blue Lock"
+   ],
+   [
+    "mv1780044563714",
+    "Blue Lock"
+   ],
+   [
+    "mv1780044588107",
+    "Blue Lock"
+   ],
+   [
+    "mv1780044640893",
+    "Blue Lock"
+   ],
+   [
+    "mv1780044709135",
+    "Attack on Titan"
+   ],
+   [
+    "mv1780048461976",
+    "Gachiakuta"
+   ],
+   [
+    "mv1780048483754",
+    "Billy Bat"
+   ],
+   [
+    "mv1780048551620",
+    "One Punch Man"
+   ],
+   [
+    "mv1780048623078",
+    "Gachiakuta"
+   ],
+   [
+    "mv1780048943957",
+    "Blue Lock"
+   ],
+   [
+    "mv1780049106448",
+    "Berserk"
+   ],
+   [
+    "mv1780049190961",
+    "Berserk"
+   ],
+   [
+    "mv1780049268210",
+    "One Punch Man"
+   ],
+   [
+    "mv1780049313507",
+    "One Punch Man"
+   ],
+   [
+    "mv1780050643113",
+    "Berserk"
+   ],
+   [
+    "mv1780050710068",
+    "Berserk"
+   ],
+   [
+    "mv1780493311843",
+    "Vagabond"
+   ],
+   [
+    "mv1780582087258",
+    "Blue Lock"
+   ],
+   [
+    "mv1780582136115",
+    "Blue Lock"
+   ],
+   [
+    "mv1780582174067",
+    "Blue Lock"
+   ],
+   [
+    "mv1780664770581",
+    "20th Century Boys"
+   ],
+   [
+    "mv1780700002",
+    "20th Century Boys"
+   ],
+   [
+    "mv1780700003",
+    "Goodnight PunPun"
+   ],
+   [
+    "mv1780800001",
+    "Berserk"
+   ],
+   [
+    "mv1780800002",
+    "Chainsaw Man"
+   ],
+   [
+    "mv1780800004",
+    "Chainsaw Man"
+   ],
+   [
+    "mv1780640938965",
+    "Blue Lock"
+   ],
+   [
+    "mv1780647488319",
+    "One Piece"
+   ],
+   [
+    "mv_opm33_instant",
+    "One Punch Man"
+   ],
+   [
+    "mv_opm30_cosmic",
+    "One Punch Man"
+   ],
+   [
+    "mv1780640832992",
+    "Berserk"
+   ],
+   [
+    "mv1780641392251",
+    "Attack on Titan"
+   ],
+   [
+    "mv1780641517680",
+    "Blue Lock"
+   ],
+   [
+    "mv1780641701324",
+    "Berserk"
+   ],
+   [
+    "mv1780642057569",
+    "Chainsaw Man"
+   ],
+   [
+    "mv1780642290884",
+    "Chainsaw Man"
+   ],
+   [
+    "mv1780646982328",
+    "One Piece"
+   ],
+   [
+    "mv1780647124929",
+    "Solanin"
+   ],
+   [
+    "mv1780647143929",
+    "Solanin"
+   ],
+   [
+    "mv1780647703731",
+    "20th Century Boys"
+   ],
+   [
+    "mv1780647762164",
+    "Monster"
+   ],
+   [
+    "mv1780648085622",
+    "I Fiori del Male"
+   ],
+   [
+    "mv1780648258649",
+    "Vinland Saga"
+   ],
+   [
+    "mv1780648325825",
+    "Vinland Saga"
+   ],
+   [
+    "mv1780664137597",
+    "Chainsaw Man"
+   ],
+   [
+    "mv1780900001",
+    "The Climber"
+   ],
+   [
+    "mv1782299089413",
+    "Jujutsu Kaisen"
+   ],
+   [
+    "mv1782299216742",
+    "One Piece"
+   ],
+   [
+    "mv1782299278333",
+    "Gachiakuta"
+   ],
+   [
+    "mv1782299330493",
+    "Gachiakuta"
+   ],
+   [
+    "mv1782299377989",
+    "One Piece"
+   ],
+   [
+    "mv1782299423118",
+    "Blue Lock"
+   ],
+   [
+    "mv1782299540110",
+    "One Punch Man"
+   ],
+   [
+    "mv1782369455487",
+    "Vinland Saga"
+   ],
+   [
+    "mv1782470020275",
+    "Chainsaw Man"
+   ],
+   [
+    "mv1783100000001",
+    "Berserk"
+   ],
+   [
+    "mv1783100000002",
+    "Blue Lock"
+   ],
+   [
+    "mv1783100000003",
+    "Blue Lock"
+   ]
+  ],
+  "libri": [
+   [
+    "b10",
+    "Aqualung"
+   ],
+   [
+    "b11",
+    "Orfani"
+   ],
+   [
+    "b12",
+    "Qwest"
+   ]
+  ],
+  "film_infanzia": []
+ },
+ "aggiunti_solo_nel_cloud": {
+  "films": [
+   [
+    "f184",
+    null
+   ],
+   [
+    "f394",
+    null
+   ],
+   [
+    "f383",
+    null
+   ],
+   [
+    "f160",
+    null
+   ],
+   [
+    "f244",
+    null
+   ],
+   [
+    "f385",
+    null
+   ],
+   [
+    "f162",
+    null
+   ],
+   [
+    "f173",
+    null
+   ]
+  ],
+  "series": [
+   [
+    "s115",
+    null
+   ],
+   [
+    "s110",
+    null
+   ]
+  ],
+  "anime": [],
+  "manga": [
+   [
+    "m42",
+    null
+   ]
+  ],
+  "manga_variant": [
+   [
+    "mv128",
+    null
+   ],
+   [
+    "mv107",
+    null
+   ],
+   [
+    "mv130",
+    null
+   ],
+   [
+    "mv121",
+    null
+   ],
+   [
+    "mv115",
+    null
+   ],
+   [
+    "mv119",
+    null
+   ],
+   [
+    "mv108",
+    null
+   ],
+   [
+    "mv145",
+    null
+   ],
+   [
+    "mv111",
+    null
+   ],
+   [
+    "mv125",
+    null
+   ],
+   [
+    "mv140",
+    null
+   ],
+   [
+    "mv141",
+    null
+   ],
+   [
+    "mv122",
+    null
+   ],
+   [
+    "mv142",
+    null
+   ],
+   [
+    "mv126",
+    null
+   ],
+   [
+    "mv123",
+    null
+   ],
+   [
+    "mv112",
+    null
+   ],
+   [
+    "mv120",
+    null
+   ],
+   [
+    "mv124",
+    null
+   ],
+   [
+    "mv146",
+    null
+   ],
+   [
+    "mv143",
+    null
+   ],
+   [
+    "mv133",
+    null
+   ],
+   [
+    "mv127",
+    null
+   ],
+   [
+    "mv138",
+    null
+   ],
+   [
+    "mv134",
+    null
+   ],
+   [
+    "mv109",
+    null
+   ],
+   [
+    "mv136",
+    null
+   ],
+   [
+    "mv110",
+    null
+   ],
+   [
+    "mv113",
+    null
+   ],
+   [
+    "mv131",
+    null
+   ],
+   [
+    "mv132",
+    null
+   ],
+   [
+    "mv137",
+    null
+   ],
+   [
+    "mv117",
+    null
+   ],
+   [
+    "mv139",
+    null
+   ],
+   [
+    "mv116",
+    null
+   ],
+   [
+    "mv147",
+    null
+   ],
+   [
+    "mv129",
+    null
+   ],
+   [
+    "mv135",
+    null
+   ],
+   [
+    "mv118",
+    null
+   ],
+   [
+    "mv144",
+    null
+   ],
+   [
+    "mv114",
+    null
+   ]
+  ],
+  "libri": [
+   [
+    "b8",
+    "Song of Ice and Fire"
+   ],
+   [
+    "b7",
+    "Dark Tower"
+   ],
+   [
+    "b6",
+    "Hyperion"
+   ],
+   [
+    "b5",
+    "Red Rising"
+   ],
+   [
+    "b9",
+    "Padre ricco padre povero"
+   ],
+   [
+    "b4",
+    "I 4 pilastri dell'indipendenza finanziaria"
+   ]
+  ],
+  "film_infanzia": []
+ },
+ "tombstone": null
+}
