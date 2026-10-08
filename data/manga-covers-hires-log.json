@@ -372,5 +372,32 @@
   "hires": 16,
   "kept_low": 0,
   "missing": []
+ },
+ "m47": {
+  "title": "Kingdom",
+  "edition": "",
+  "query": "Kingdom",
+  "expected": 74,
+  "hires": 74,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m65": {
+  "title": "Komi-san",
+  "edition": "",
+  "query": "Komi Can't Communicate",
+  "expected": 37,
+  "hires": 37,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m8": {
+  "title": "La fine del mondo e prima dell'alba",
+  "edition": "",
+  "query": "La fine del mondo e prima dell'alba",
+  "expected": 1,
+  "hires": 1,
+  "kept_low": 0,
+  "missing": []
  }
 }
