@@ -1,0 +1,60 @@
+{
+ "m4": {
+  "title": "20th Century Boys",
+  "edition": "Deluxe edition",
+  "query": "20th Century Boys Ultimate Deluxe Edition",
+  "expected": 12,
+  "hires": 11,
+  "kept_low": 0,
+  "missing": [
+   12
+  ]
+ },
+ "m24": {
+  "title": "Akira",
+  "edition": "New edition",
+  "query": "Akira New Edition",
+  "expected": 6,
+  "hires": 0,
+  "kept_low": 6,
+  "missing": []
+ },
+ "m25": {
+  "title": "Alice in Borderland",
+  "edition": "",
+  "query": "Alice in Borderland",
+  "expected": 10,
+  "hires": 9,
+  "kept_low": 1,
+  "missing": []
+ },
+ "m23": {
+  "title": "Alita",
+  "edition": "Panzer edition",
+  "query": "Alita Panzer Edition",
+  "expected": 3,
+  "hires": 3,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m12": {
+  "title": "All You Need Is Kill",
+  "edition": "",
+  "query": "All You Need is Kill",
+  "expected": 1,
+  "hires": 1,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m95": {
+  "title": "Aqualung",
+  "edition": "",
+  "query": "Aqualung",
+  "expected": 5,
+  "hires": 4,
+  "kept_low": 0,
+  "missing": [
+   5
+  ]
+ }
+}
