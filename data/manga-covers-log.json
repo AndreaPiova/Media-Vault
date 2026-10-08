@@ -529,5 +529,82 @@
   "edition": "",
   "expected": 18,
   "error": "nessuna fonte animeclick"
+ },
+ "m43": {
+  "title": "Jagaaaaaan",
+  "edition": "",
+  "expected": 14,
+  "groups": {
+   "Jagan": 14,
+   "Jagan - Variant cover edition": 1
+  },
+  "fallback": true,
+  "chosen": "Jagan",
+  "ok": 14,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m45": {
+  "title": "Jujutsu Kaisen",
+  "edition": "",
+  "expected": 30,
+  "groups": {
+   "Jujutsu Kaisen - Sorcery Fight - Edizione Early Access": 1,
+   "Jujutsu Kaisen - Sorcery Fight - Variant": 5,
+   "Jujutsu Kaisen - Sorcery Fight - Fashion Variant": 1,
+   "Jujutsu Kaisen Christmas Variant": 1,
+   "Jujutsu Kaisen - Sorcery Fight - Discovery Edition": 1,
+   "Jujutsu Kaisen - Sorcery Fight": 30,
+   "Jujutsu Kaisen - Sorcery Fight - Variant Amazon e Libreria": 2,
+   "Jujutsu Kaisen Calendario": 1,
+   "Jujutsu Kaisen - Guida all'anime: Stagione": 1
+  },
+  "fallback": true,
+  "chosen": "Jujutsu Kaisen - Sorcery Fight",
+  "ok": 30,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m46": {
+  "title": "Juujika no Rokunin",
+  "edition": "",
+  "expected": 14,
+  "groups": {
+   "X6 - Crucisix": 15
+  },
+  "fallback": true,
+  "chosen": "X6 - Crucisix",
+  "ok": 15,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m27": {
+  "title": "Kaijuu no. 8",
+  "edition": "",
+  "expected": 16,
+  "groups": {
+   "Kaiju No. 8 Variant Cover Edition": 2,
+   "Kaiju No. 8 Limited Edition": 1,
+   "Kaiju No. 8 Start Edition": 1,
+   "Kaiju No. 8": 16,
+   "Kaiju No. 8 Celebration Edition": 1
+  },
+  "fallback": true,
+  "chosen": "Kaiju No. 8",
+  "ok": 16,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m47": {
+  "title": "Kingdom",
+  "edition": "",
+  "expected": 74,
+  "groups": {
+   "Kingdom": 76
+  },
+  "chosen": "Kingdom",
+  "ok": 76,
+  "missing_vols": [],
+  "not_found": []
  }
 }
