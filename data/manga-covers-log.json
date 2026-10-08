@@ -606,5 +606,58 @@
   "ok": 76,
   "missing_vols": [],
   "not_found": []
+ },
+ "m65": {
+  "title": "Komi-san",
+  "edition": "",
+  "expected": 37,
+  "groups": {
+   "Komi Can't Communicate": 37,
+   "Komi Can't Communicate Variant Edition Games Academy": 1,
+   "Komi Can't Communicate - Graduation Variant": 1
+  },
+  "fallback": true,
+  "chosen": "Komi Can't Communicate",
+  "ok": 37,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m8": {
+  "title": "La fine del mondo e prima dell\\'alba",
+  "edition": "",
+  "expected": 1,
+  "groups": {},
+  "error": "edizione non trovata"
+ },
+ "m3": {
+  "title": "La ragazza in riva al mare",
+  "edition": "",
+  "expected": 2,
+  "groups": {
+   "La ragazza in riva al mare": 2
+  },
+  "chosen": "La ragazza in riva al mare",
+  "ok": 2,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m13": {
+  "title": "Made in Abyss",
+  "edition": "",
+  "expected": 14,
+  "error": "pagina edizioni non raggiungibile"
+ },
+ "m14": {
+  "title": "Monster",
+  "edition": "Deluxe edition",
+  "expected": 9,
+  "groups": {
+   "Monster": 18,
+   "Monster Deluxe": 9
+  },
+  "chosen": "Monster Deluxe",
+  "ok": 9,
+  "missing_vols": [],
+  "not_found": []
  }
 }
