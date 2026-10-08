@@ -685,5 +685,34 @@
   "hires": 20,
   "kept_low": 0,
   "missing": []
+ },
+ "m61": {
+  "title": "To Your Eternity",
+  "edition": "",
+  "query": "To Your Eternity",
+  "expected": 25,
+  "hires": 25,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m21": {
+  "title": "Tokyo Revengers",
+  "edition": "",
+  "query": "Tokyo Revengers",
+  "expected": 31,
+  "hires": 31,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m22": {
+  "title": "Vinland Saga",
+  "edition": "",
+  "query": "Vinland Saga",
+  "expected": 29,
+  "hires": 28,
+  "kept_low": 0,
+  "missing": [
+   5
+  ]
  }
 }
