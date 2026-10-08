@@ -27,34 +27,5 @@
   "hires": 9,
   "kept_low": 1,
   "missing": []
- },
- "m23": {
-  "title": "Alita",
-  "edition": "Panzer edition",
-  "query": "Alita Panzer Edition",
-  "expected": 3,
-  "hires": 3,
-  "kept_low": 0,
-  "missing": []
- },
- "m12": {
-  "title": "All You Need Is Kill",
-  "edition": "",
-  "query": "All You Need is Kill",
-  "expected": 1,
-  "hires": 1,
-  "kept_low": 0,
-  "missing": []
- },
- "m95": {
-  "title": "Aqualung",
-  "edition": "",
-  "query": "Aqualung",
-  "expected": 5,
-  "hires": 4,
-  "kept_low": 0,
-  "missing": [
-   5
-  ]
  }
 }
