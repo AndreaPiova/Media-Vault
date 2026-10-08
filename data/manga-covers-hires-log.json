@@ -164,5 +164,32 @@
   "hires": 13,
   "kept_low": 0,
   "missing": []
+ },
+ "m35": {
+  "title": "Death Note",
+  "edition": "Black edition",
+  "query": "Death Note Black Edition",
+  "expected": 6,
+  "hires": 6,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m57": {
+  "title": "Dededemon Dededestruction",
+  "edition": "",
+  "query": "Dead Dead Demon’s Dededededestruction",
+  "expected": 10,
+  "hires": 10,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m33": {
+  "title": "Dorohedoro",
+  "edition": "",
+  "query": "Dorohedoro",
+  "expected": 23,
+  "hires": 23,
+  "kept_low": 0,
+  "missing": []
  }
 }
