@@ -793,5 +793,66 @@
    36
   ],
   "not_found": []
+ },
+ "m96": {
+  "title": "Orfani",
+  "edition": "",
+  "expected": 16,
+  "error": "nessuna fonte animeclick"
+ },
+ "m39": {
+  "title": "Oyasumi Punpun",
+  "edition": "New edition",
+  "expected": 7,
+  "groups": {
+   "Buonanotte Punpun": 13,
+   "Buonanotte, PunPun - New Edition": 7
+  },
+  "chosen": "Buonanotte, PunPun - New Edition",
+  "ok": 7,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m67": {
+  "title": "Pandora Hearts",
+  "edition": "New edition",
+  "expected": 13,
+  "groups": {
+   "Pandora Hearts": 24,
+   "Pandora Hearts New Edition": 13
+  },
+  "chosen": "Pandora Hearts New Edition",
+  "ok": 13,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m17": {
+  "title": "Planetes",
+  "edition": "Complete edition",
+  "expected": 1,
+  "groups": {
+   "Planetes": 4,
+   "Planetes Deluxe": 3
+  },
+  "fallback": true,
+  "chosen": "Planetes",
+  "ok": 2,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m94": {
+  "title": "Radiant",
+  "edition": "",
+  "expected": 19,
+  "groups": {
+   "Radiant": 20,
+   "Radiant Variant": 2
+  },
+  "chosen": "Radiant",
+  "ok": 19,
+  "missing_vols": [
+   20
+  ],
+  "not_found": []
  }
 }
