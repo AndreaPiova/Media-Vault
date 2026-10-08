@@ -218,5 +218,32 @@
   "hires": 14,
   "kept_low": 0,
   "missing": []
+ },
+ "m36": {
+  "title": "Fullmetal Alchemist",
+  "edition": "Ultimate deluxe",
+  "query": "Fullmetal Alchemist Ultimate Deluxe Edition",
+  "expected": 18,
+  "hires": 17,
+  "kept_low": 1,
+  "missing": []
+ },
+ "m59": {
+  "title": "Gantz",
+  "edition": "New edition",
+  "query": "Gantz - Nuova Edizione",
+  "expected": 37,
+  "hires": 0,
+  "kept_low": 37,
+  "missing": []
+ },
+ "m71": {
+  "title": "Grand Blue",
+  "edition": "",
+  "query": "Grand Blue",
+  "expected": 3,
+  "hires": 3,
+  "kept_low": 0,
+  "missing": []
  }
 }
