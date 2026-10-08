@@ -540,5 +540,32 @@
   "missing": [
    1
   ]
+ },
+ "m94": {
+  "title": "Radiant",
+  "edition": "",
+  "query": "Radiant",
+  "expected": 19,
+  "hires": 19,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m49": {
+  "title": "Real",
+  "edition": "",
+  "query": "Real",
+  "expected": 16,
+  "hires": 12,
+  "kept_low": 4,
+  "missing": []
+ },
+ "m51": {
+  "title": "Record of Ragnarok",
+  "edition": "",
+  "query": "Record of Ragnarok",
+  "expected": 25,
+  "hires": 25,
+  "kept_low": 0,
+  "missing": []
  }
 }
