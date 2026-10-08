@@ -1,0 +1,57 @@
+https://www.animeclick.it/manga/9544/20th-century-boys/edizioni -> 200 327164
+## link ultimate-deluxe: /edizione/3089551/20th-century-boys-ultimate-deluxe
+https://www.animeclick.it/edizione/3089551/20th-century-boys-ultimate-deluxe -> 200 81459
+20:<link rel="apple-touch-icon" href="/bundles/accommon/images/ac-touch-icon-iphone.png">
+21:<link rel="apple-touch-icon" sizes="72x72" href="/bundles/accommon/images/ac-touch-icon-ipad.png" />
+22:<link rel="apple-touch-icon" sizes="114x114" href="/bundles/accommon/images/ac-touch-icon-iphone4.png" />
+23:<link rel="apple-touch-icon-precomposed" href="/bundles/accommon/images/ac-touch-icon-iphone.png"/>
+24:<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/bundles/accommon/images/ac-touch-icon-ipad.png" />
+25:<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/bundles/accommon/images/ac-touch-icon-iphone4.png"/>
+54:    <img id="logo-img" alt="logo AnimeClick.it" src="/bundles/accommon/images/ac-logoB.jpg" class="img-fluid d-block" style="margin:0"/>
+73:        <img alt="Favicon" src="/bundles/accommon/images/ac-20x20.png" height="20" width="20" />
+307:        <img id="logo-img" alt="logo AnimeClick.it" src="/bundles/accommon/images/logo_gatto.png" />
+348:                 src="/immagini/manga/20th_Century_Boys/edizioni/20th Century Boys Ultimate Deluxe Edition-edizione-3089551.jpg"/>
+402:                    <img width="64" height="64" class="img-thumbnail" src="/immagini/avatar/3481.jpg" alt="shonan-oni">
+429:                    <img width="64" height="64" class="img-thumbnail" src="/immagini/avatar/176115.jpg" alt="SemplicementeAnime!!">
+456:                            <img width="64" height="64" class="img-thumbnail" src="/bundles/accommon/images/utente_non_registrato.png" alt="Utente6010">
+480:                    <img width="64" height="64" class="img-thumbnail" src="/immagini/avatar/48085.jpg" alt="MayuriK">
+507:                    <img width="64" height="64" class="img-thumbnail" src="/immagini/avatar/96162.jpg" alt="KayScarsetta">
+534:                    <img width="64" height="64" class="img-thumbnail" src="/immagini/avatar/47709.jpg" alt="Arwen1990">
+561:                    <img width="64" height="64" class="img-thumbnail" src="/immagini/avatar/56459.jpg" alt="chomp96v2">
+587:                            <img width="64" height="64" class="img-thumbnail" src="/bundles/accommon/images/utente_non_registrato.png" alt="Utente161341">
+611:                    <img width="64" height="64" class="img-thumbnail" src="/immagini/avatar/55324.jpg" alt="TheRealNear">
+638:                    <img width="64" height="64" class="img-thumbnail" src="/immagini/avatar/156551.jpg" alt="Handler01">
+664:                            <img width="64" height="64" class="img-thumbnail" src="/bundles/accommon/images/utente_non_registrato.png" alt="Utente150675">
+688:                    <img width="64" height="64" class="img-thumbnail" src="/immagini/avatar/27582.jpg" alt="Fenar">
+715:                    <img width="64" height="64" class="img-thumbnail" src="/immagini/avatar/8940.jpg" alt="Mei_Chan">
+742:                    <img width="64" height="64" class="img-thumbnail" src="/immagini/avatar/105142.jpg" alt="Fabbrizio_on_the_Road">
+769:                    <img width="64" height="64" class="img-thumbnail" src="/immagini/avatar/67738.jpg" alt="Franky-san">
+## link 20th-century-boys": /edizione/130/20th-century-boys
+https://www.animeclick.it/edizione/130/20th-century-boys -> 200 46911
+20:<link rel="apple-touch-icon" href="/bundles/accommon/images/ac-touch-icon-iphone.png">
+21:<link rel="apple-touch-icon" sizes="72x72" href="/bundles/accommon/images/ac-touch-icon-ipad.png" />
+22:<link rel="apple-touch-icon" sizes="114x114" href="/bundles/accommon/images/ac-touch-icon-iphone4.png" />
+23:<link rel="apple-touch-icon-precomposed" href="/bundles/accommon/images/ac-touch-icon-iphone.png"/>
+24:<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/bundles/accommon/images/ac-touch-icon-ipad.png" />
+25:<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/bundles/accommon/images/ac-touch-icon-iphone4.png"/>
+54:    <img id="logo-img" alt="logo AnimeClick.it" src="/bundles/accommon/images/ac-logoB.jpg" class="img-fluid d-block" style="margin:0"/>
+73:        <img alt="Favicon" src="/bundles/accommon/images/ac-20x20.png" height="20" width="20" />
+307:        <img id="logo-img" alt="logo AnimeClick.it" src="/bundles/accommon/images/logo_gatto.png" />
+348:                 src="/images/Manga_Cover/20TH CENTURY BOYS 1.jpg"/>
+402:                    <img width="64" height="64" class="img-thumbnail" src="/immagini/avatar/44526.jpg" alt="Imperator">
+429:                    <img width="64" height="64" class="img-thumbnail" src="/immagini/avatar/115185.jpeg" alt="filidema">
+456:                    <img width="64" height="64" class="img-thumbnail" src="/immagini/avatar/12052.jpg" alt="Endry">
+500:                         src="/immagini/avatar/100_37448.jpg"
+510:                         src="/immagini/avatar/100_176428.jpeg"
+520:                         src="/bundles/accommon/images/utente_registrato_.png"
+528:                         src="/bundles/accommon/images/utente_registrato_.png"
+536:                         src="/immagini/avatar/100_163048.jpg"
+546:                         src="/immagini/avatar/100_162513.jpg"
+556:                         src="/immagini/avatar/100_162341.jpg"
+564:                         src="/immagini/avatar/100_162293.jpg"
+572:                         src="/immagini/avatar/100_160108.jpg"
+580:                         src="/immagini/avatar/100_158276.jpg"
+590:                         src="/immagini/avatar/100_148268.jpg"
+598:                         src="/immagini/avatar/100_14828.jpg"
+https://www.animeclick.it/images/Manga_Cover/1594414887_Illustration%20book.jpg -> 200 9884
+/tmp/i.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, comment: "CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 80", baseline, precision 8, 150x210, components 3
