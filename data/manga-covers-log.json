@@ -736,5 +736,195 @@
    21,
    22
   ]
+ },
+ "m60": {
+  "title": "Claymore",
+  "edition": "New edition",
+  "expected": 27,
+  "groups": {
+   "Claymore": 27,
+   "Claymore New Edition": 27
+  },
+  "chosen": "Claymore New Edition",
+  "ok": 0,
+  "missing_vols": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27
+  ],
+  "not_found": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27
+  ]
+ },
+ "m28": {
+  "title": "Dandadan",
+  "edition": "",
+  "expected": 18,
+  "groups": {
+   "Dandadan": 23,
+   "Dandadan Variant Edition": 3,
+   "Dandadan Deep Space Variant": 1,
+   "Dandadan Limited Edition": 1,
+   "Dandadan Deluxe Edition": 2
+  },
+  "chosen": "Dandadan",
+  "ok": 0,
+  "missing_vols": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23
+  ],
+  "not_found": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18
+  ]
+ },
+ "m34": {
+  "title": "Deadman Wonderland",
+  "edition": "",
+  "expected": 13,
+  "groups": {
+   "Deadman Wonderland": 13
+  },
+  "chosen": "Deadman Wonderland",
+  "ok": 9,
+  "missing_vols": [
+   1,
+   2,
+   3,
+   5
+  ],
+  "not_found": [
+   1,
+   2,
+   3,
+   5
+  ]
+ },
+ "m35": {
+  "title": "Death Note",
+  "edition": "Black edition",
+  "expected": 6,
+  "groups": {
+   "Death Note": 13,
+   "Death Note Gold": 12,
+   "Death Note Gold Deluxe": 12,
+   "Death Note Black Edition": 6,
+   "Death Note Variant 2023": 1,
+   "Death Note Christmas Variant": 1
+  },
+  "chosen": "Death Note Black Edition",
+  "ok": 0,
+  "missing_vols": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "not_found": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ]
+ },
+ "m57": {
+  "title": "Dededemon Dededestruction",
+  "edition": "",
+  "expected": 10,
+  "groups": {
+   "Dead Dead Demon’s Dededededestruction": 12
+  },
+  "error": "edizione non trovata"
  }
 }
