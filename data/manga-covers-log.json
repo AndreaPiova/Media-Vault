@@ -246,5 +246,635 @@
   "ok": 23,
   "missing_vols": [],
   "not_found": []
+ },
+ "m60": {
+  "title": "Claymore",
+  "edition": "New edition",
+  "expected": 27,
+  "groups": {
+   "Claymore": 27,
+   "Claymore New Edition": 27
+  },
+  "chosen": "Claymore New Edition",
+  "ok": 27,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m28": {
+  "title": "Dandadan",
+  "edition": "",
+  "expected": 18,
+  "groups": {
+   "Dandadan": 23,
+   "Dandadan Variant Edition": 3,
+   "Dandadan Deep Space Variant": 1,
+   "Dandadan Limited Edition": 1,
+   "Dandadan Deluxe Edition": 2
+  },
+  "chosen": "Dandadan",
+  "ok": 23,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m34": {
+  "title": "Deadman Wonderland",
+  "edition": "",
+  "expected": 13,
+  "groups": {
+   "Deadman Wonderland": 13
+  },
+  "chosen": "Deadman Wonderland",
+  "ok": 13,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m35": {
+  "title": "Death Note",
+  "edition": "Black edition",
+  "expected": 6,
+  "groups": {
+   "Death Note": 13,
+   "Death Note Gold": 12,
+   "Death Note Gold Deluxe": 12,
+   "Death Note Black Edition": 6,
+   "Death Note Variant 2023": 1,
+   "Death Note Christmas Variant": 1
+  },
+  "chosen": "Death Note Black Edition",
+  "ok": 6,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m57": {
+  "title": "Dededemon Dededestruction",
+  "edition": "",
+  "expected": 10,
+  "groups": {
+   "Dead Dead Demon’s Dededededestruction": 12
+  },
+  "error": "edizione non trovata"
+ },
+ "m33": {
+  "title": "Dorohedoro",
+  "edition": "",
+  "expected": 23,
+  "groups": {},
+  "error": "edizione non trovata"
+ },
+ "m11": {
+  "title": "Dr. Stone",
+  "edition": "",
+  "expected": 27,
+  "groups": {
+   "Dr.Stone": 27,
+   "Dr.Stone Limited Edition": 1,
+   "Dr.Stone Variant Cover Edition": 2
+  },
+  "chosen": "Dr.Stone",
+  "ok": 27,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m20": {
+  "title": "Fire Punch",
+  "edition": "",
+  "expected": 8,
+  "groups": {
+   "Fire Punch": 8
+  },
+  "chosen": "Fire Punch",
+  "ok": 8,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m69": {
+  "title": "Frieren",
+  "edition": "",
+  "expected": 14,
+  "groups": {
+   "Frieren - Oltre la fine del viaggio Variant": 1,
+   "Frieren - Oltre la fine del viaggio Variant Popstore": 1,
+   "Frieren - Oltre la fine del viaggio": 15,
+   "Frieren - Oltre la fine del viaggio - Edizione deluxe": 3,
+   "Frieren - Oltre la fine del viaggio - Art Works": 1
+  },
+  "chosen": "Frieren - Oltre la fine del viaggio",
+  "ok": 15,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m36": {
+  "title": "Fullmetal Alchemist",
+  "edition": "Ultimate deluxe",
+  "expected": 18,
+  "groups": {
+   "The Art of Fullmetal Alchemist": 1,
+   "Fullmetal Alchemist": 27,
+   "Fullmetal Alchemist + Card Game": 1,
+   "Fullmetal Alchemist Gold": 27,
+   "Fullmetal Alchemist Gold Deluxe": 27,
+   "Fullmetal Alchemist Ultimate Deluxe Edition": 18
+  },
+  "chosen": "Fullmetal Alchemist Ultimate Deluxe Edition",
+  "ok": 18,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m59": {
+  "title": "Gantz",
+  "edition": "New edition",
+  "expected": 37,
+  "groups": {
+   "Gantz": 37,
+   "Gantz - Nuova Edizione": 37
+  },
+  "error": "edizione non trovata"
+ },
+ "m71": {
+  "title": "Grand Blue",
+  "edition": "",
+  "expected": 3,
+  "groups": {
+   "Grand Blue Variant": 1,
+   "Grand Blue Variant Romics": 1,
+   "Grand Blue": 4,
+   "Grand Blue Variant Edition Cut Price": 3
+  },
+  "chosen": "Grand Blue",
+  "ok": 0,
+  "missing_vols": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "not_found": [
+   1,
+   2,
+   3
+  ]
+ },
+ "m37": {
+  "title": "GTO",
+  "edition": "Deluxe black edition",
+  "expected": 13,
+  "groups": {
+   "Big G.T.O.": 13,
+   "Big G.T.O. Box": 4,
+   "Big G.T.O. Deluxe": 13,
+   "G.T.O.": 25,
+   "Big G.T.O. Deluxe Red Metal Variant MangaYo!": 1,
+   "Big G.T.O. Deluxe Black Edition": 13
+  },
+  "chosen": "Big G.T.O. Deluxe Black Edition",
+  "ok": 13,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m62": {
+  "title": "Hanako-kun",
+  "edition": "",
+  "expected": 25,
+  "groups": {
+   "Hanako kun - I sette misteri dell'Accademia Kamome": 26,
+   "Hanako kun - Art Work": 1,
+   "Hanako kun - I sette misteri dell'Accademia Kamome Greatest Hits Cut Price": 1
+  },
+  "chosen": "Hanako kun - I sette misteri dell'Accademia Kamome",
+  "ok": 25,
+  "missing_vols": [
+   26
+  ],
+  "not_found": []
+ },
+ "m63": {
+  "title": "Hell\\'s Paradise",
+  "edition": "",
+  "expected": 13,
+  "groups": {
+   "Hell's Paradise – Jigokuraku": 13
+  },
+  "chosen": "Hell's Paradise – Jigokuraku",
+  "ok": 13,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m38": {
+  "title": "Homunculus",
+  "edition": "",
+  "expected": 15,
+  "groups": {
+   "Homunculus": 15
+  },
+  "chosen": "Homunculus",
+  "ok": 15,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m40": {
+  "title": "Houseki no Kuni",
+  "edition": "",
+  "expected": 13,
+  "groups": {
+   "Land of the Lustrous": 13,
+   "Land of the Lustrous Jacket Variant Double-face": 1
+  },
+  "error": "edizione non trovata"
+ },
+ "m41": {
+  "title": "I Am Hero",
+  "edition": "",
+  "expected": 22,
+  "groups": {
+   "I am a hero": 22,
+   "I am a hero Variant": 1,
+   "I am a Hero - Nuova edizione": 22,
+   "I am a Hero - Nuova edizione Variant MangaYo!": 1
+  },
+  "chosen": "I am a hero",
+  "ok": 22,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m9": {
+  "title": "Il prezzo di una vita",
+  "edition": "Box",
+  "expected": 3,
+  "groups": {
+   "Il prezzo di una vita - I sold my life for ten thousand yen per year": 3
+  },
+  "error": "edizione non trovata"
+ },
+ "m42": {
+  "title": "Imawa no Kuni no Alice",
+  "edition": "",
+  "expected": 18,
+  "error": "nessuna fonte animeclick"
+ },
+ "m43": {
+  "title": "Jagaaaaaan",
+  "edition": "",
+  "expected": 14,
+  "groups": {
+   "Jagan": 14,
+   "Jagan - Variant cover edition": 1
+  },
+  "error": "edizione non trovata"
+ },
+ "m45": {
+  "title": "Jujutsu Kaisen",
+  "edition": "",
+  "expected": 30,
+  "groups": {
+   "Jujutsu Kaisen - Sorcery Fight - Edizione Early Access": 1,
+   "Jujutsu Kaisen - Sorcery Fight - Variant": 5,
+   "Jujutsu Kaisen - Sorcery Fight - Fashion Variant": 1,
+   "Jujutsu Kaisen Christmas Variant": 1,
+   "Jujutsu Kaisen - Sorcery Fight - Discovery Edition": 1,
+   "Jujutsu Kaisen - Sorcery Fight": 30,
+   "Jujutsu Kaisen - Sorcery Fight - Variant Amazon e Libreria": 2,
+   "Jujutsu Kaisen Calendario": 1,
+   "Jujutsu Kaisen - Guida all'anime: Stagione": 1
+  },
+  "chosen": "Jujutsu Kaisen - Sorcery Fight",
+  "ok": 30,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m46": {
+  "title": "Juujika no Rokunin",
+  "edition": "",
+  "expected": 14,
+  "groups": {
+   "X6 - Crucisix": 15
+  },
+  "error": "edizione non trovata"
+ },
+ "m27": {
+  "title": "Kaijuu no. 8",
+  "edition": "",
+  "expected": 16,
+  "groups": {
+   "Kaiju No. 8 Variant Cover Edition": 2,
+   "Kaiju No. 8 Limited Edition": 1,
+   "Kaiju No. 8 Start Edition": 1,
+   "Kaiju No. 8": 16,
+   "Kaiju No. 8 Celebration Edition": 1
+  },
+  "error": "edizione non trovata"
+ },
+ "m47": {
+  "title": "Kingdom",
+  "edition": "",
+  "expected": 74,
+  "groups": {
+   "Kingdom": 76
+  },
+  "chosen": "Kingdom",
+  "ok": 76,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m65": {
+  "title": "Komi-san",
+  "edition": "",
+  "expected": 37,
+  "groups": {
+   "Komi Can't Communicate": 37,
+   "Komi Can't Communicate Variant Edition Games Academy": 1,
+   "Komi Can't Communicate - Graduation Variant": 1
+  },
+  "error": "edizione non trovata"
+ },
+ "m8": {
+  "title": "La fine del mondo e prima dell\\'alba",
+  "edition": "",
+  "expected": 1,
+  "groups": {},
+  "error": "edizione non trovata"
+ },
+ "m3": {
+  "title": "La ragazza in riva al mare",
+  "edition": "",
+  "expected": 2,
+  "groups": {
+   "La ragazza in riva al mare": 2
+  },
+  "chosen": "La ragazza in riva al mare",
+  "ok": 2,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m13": {
+  "title": "Made in Abyss",
+  "edition": "",
+  "expected": 14,
+  "error": "pagina edizioni non raggiungibile"
+ },
+ "m14": {
+  "title": "Monster",
+  "edition": "Deluxe edition",
+  "expected": 9,
+  "groups": {
+   "Monster": 18,
+   "Monster Deluxe": 9
+  },
+  "chosen": "Monster Deluxe",
+  "ok": 9,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m70": {
+  "title": "MPD Psycho",
+  "edition": "",
+  "expected": 24,
+  "groups": {
+   "MPD Psycho": 24
+  },
+  "chosen": "MPD Psycho",
+  "ok": 0,
+  "missing_vols": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24
+  ],
+  "not_found": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24
+  ]
+ },
+ "m48": {
+  "title": "Mushishi",
+  "edition": "",
+  "expected": 10,
+  "groups": {
+   "Mushishi": 10
+  },
+  "chosen": "Mushishi",
+  "ok": 10,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m66": {
+  "title": "No Longer Human",
+  "edition": "Complete edition",
+  "expected": 1,
+  "groups": {
+   "Lo squalificato": 3
+  },
+  "error": "edizione non trovata"
+ },
+ "m15": {
+  "title": "One Piece",
+  "edition": "New edition",
+  "expected": 109,
+  "groups": {
+   "One Piece": 114,
+   "One Piece - Ristampa corretta": 1,
+   "One Piece Celebration Edition": 3,
+   "One Piece Variant": 1,
+   "One Piece Limited Edition": 1,
+   "One Piece New Edition": 112,
+   "One Piece (Gazzetta dello Sport)": 110,
+   "Io sono One Piece": 3,
+   "One Piece Color Walk": 2,
+   "One Piece Quiz Book": 2,
+   "One Piece Gold: Il Film - Anime Comics": 2,
+   "One Piece Strong World: Il Film - Avventura sulle isole volanti - Anime Comics": 2,
+   "One Piece Il Film: Stampede - Anime Comics": 2,
+   "One Piece Z: Il Film - Anime Comics": 2,
+   "One Piece Film: Red - Anime Comics": 2
+  },
+  "chosen": "One Piece New Edition",
+  "ok": 111,
+  "missing_vols": [
+   112
+  ],
+  "not_found": []
+ },
+ "m16": {
+  "title": "One Punch Man",
+  "edition": "",
+  "expected": 35,
+  "groups": {
+   "One-Punch Man": 36,
+   "One-Punch Man Variant FX": 1,
+   "One-Punch Man - Discovery Edition": 1,
+   "One-Punch Man Christmas Variant": 1,
+   "One-Punch Man Variant": 18,
+   "One-Punch Man Instant Variant": 1
+  },
+  "chosen": "One-Punch Man",
+  "ok": 35,
+  "missing_vols": [
+   36
+  ],
+  "not_found": []
+ },
+ "m96": {
+  "title": "Orfani",
+  "edition": "",
+  "expected": 16,
+  "error": "nessuna fonte animeclick"
+ },
+ "m39": {
+  "title": "Oyasumi Punpun",
+  "edition": "New edition",
+  "expected": 7,
+  "groups": {
+   "Buonanotte Punpun": 13,
+   "Buonanotte, PunPun - New Edition": 7
+  },
+  "chosen": "Buonanotte, PunPun - New Edition",
+  "ok": 7,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m67": {
+  "title": "Pandora Hearts",
+  "edition": "New edition",
+  "expected": 13,
+  "groups": {
+   "Pandora Hearts": 24,
+   "Pandora Hearts New Edition": 13
+  },
+  "chosen": "Pandora Hearts New Edition",
+  "ok": 13,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m17": {
+  "title": "Planetes",
+  "edition": "Complete edition",
+  "expected": 1,
+  "groups": {
+   "Planetes": 4,
+   "Planetes Deluxe": 3
+  },
+  "error": "edizione non trovata"
+ },
+ "m94": {
+  "title": "Radiant",
+  "edition": "",
+  "expected": 19,
+  "groups": {
+   "Radiant": 20,
+   "Radiant Variant": 2
+  },
+  "chosen": "Radiant",
+  "ok": 19,
+  "missing_vols": [
+   20
+  ],
+  "not_found": []
+ },
+ "m49": {
+  "title": "Real",
+  "edition": "",
+  "expected": 16,
+  "groups": {
+   "Real": 16
+  },
+  "chosen": "Real",
+  "ok": 16,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m51": {
+  "title": "Record of Ragnarok",
+  "edition": "",
+  "expected": 25,
+  "groups": {
+   "Record of Ragnarok": 26,
+   "Record of Ragnarok Variant": 1,
+   "Record of Ragnarok - Limited Edition": 1
+  },
+  "chosen": "Record of Ragnarok",
+  "ok": 26,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m68": {
+  "title": "Rurouni Kenshin",
+  "edition": "Perfect edition",
+  "expected": 22,
+  "groups": {
+   "Kenshin": 28,
+   "Rurouni Kenshin Perfect Edition": 22
+  },
+  "chosen": "Rurouni Kenshin Perfect Edition",
+  "ok": 22,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m18": {
+  "title": "Shaman King",
+  "edition": "Final edition",
+  "expected": 35,
+  "groups": {
+   "Le bizzarre avventure di JoJo: Steel Ball Run": 24
+  },
+  "error": "edizione non trovata"
+ },
+ "m1": {
+  "title": "Slam Dunk",
+  "edition": "",
+  "expected": 20,
+  "groups": {
+   "Plus/Slam Dunk Illustrations": 1,
+   "Slam Dunk": 24,
+   "Slam Dunk (Planet Manga Ed. 1997)": 62,
+   "Slam Dunk + Figurine Panini Basketball '98-'99": 1,
+   "Slam Dunk Collection": 31,
+   "Slam Dunk Collection + Vhs": 2,
+   "Slam Dunk Deluxe": 10
+  },
+  "chosen": "Slam Dunk",
+  "ok": 24,
+  "missing_vols": [],
+  "not_found": []
  }
 }
