@@ -1,0 +1,33 @@
+name: Probe hires covers
+on:
+  push:
+    paths: ['scripts/probe/hires.trigger']
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install pillow
+      - run: |
+          P=data/probe-hires.txt; : > $P
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+          curl -sS -L -m 25 -A "$UA" -H "Accept-Language: it-IT" -o /tmp/v.html "https://www.animeclick.it/edizione/3089551/20th-century-boys-ultimate-deluxe"
+          echo "## contesto immagine (righe 340-352)" >> $P; sed -n 340,352p /tmp/v.html | cut -c1-300 >> $P
+          echo "## og:image / href immagini" >> $P; grep -o -i -E '(og:image"[^>]*|href="[^"]*\.(jpg|jpeg|png|webp)[^"]*")' /tmp/v.html | head -10 >> $P
+          echo "## ISBN / codici" >> $P; grep -o -i -E '(isbn|ean|codice|barcode)[^<]{0,80}<[^>]*>[^<]{0,60}' /tmp/v.html | head -10 >> $P
+          sed -e 's/<[^>]*>/ /g' /tmp/v.html | grep -i -E 'isbn|ean|9788[0-9]{9}|97888[0-9]{8}' | head -8 | cut -c1-200 >> $P
+          I=$(sed -e 's/<[^>]*>/ /g' /tmp/v.html | grep -o -E '97[89][0-9]{10}' | head -1); echo "isbn trovato: $I" >> $P
+          t(){ curl -sS -L -m 25 -A "$UA" -o /tmp/i.bin -w "%{http_code} %{content_type} %{size_download}B" "$1" >> $P 2>&1; python3 -c "
+from PIL import Image
+try:
+  im=Image.open('/tmp/i.bin'); print(' ->',im.size)
+except Exception as e: print(' -> non immagine')" >> $P; }
+          if [ -n "$I" ]; then
+            for u in "https://covers.openlibrary.org/b/isbn/$I-L.jpg?default=false" "https://books.google.com/books/content?vid=ISBN:$I&printsec=frontcover&img=1&zoom=1" "https://books.google.com/books/content?vid=ISBN:$I&printsec=frontcover&img=1&zoom=3" "https://www.googleapis.com/books/v1/volumes?q=isbn:$I"; do echo "== $u" >> $P; t "$u"; done
+          fi
+          for u in "https://www.starcomics.com" "https://www.panini.it" "https://www.jpopmanga.com" "https://www.amazon.it/dp/8891276421" "https://www.mangaworld.cx" "https://www.fumettologica.it" "https://www.lafeltrinelli.it" "https://www.ibs.it"; do echo "== $u" >> $P; curl -sS -L -m 20 -A "$UA" -o /dev/null -w "%{http_code}\n" "$u" >> $P 2>&1; done
+          git config user.name bot; git config user.email bot@users.noreply.github.com
+          git add $P; git commit -m "probe hires" || true; git pull --rebase -X theirs || true; git push
