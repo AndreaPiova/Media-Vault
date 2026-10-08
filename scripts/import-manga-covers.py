@@ -80,7 +80,7 @@ def process(it, src, log):
         if os.path.exists(fn): ok.append(n); continue
         eid, eslug = groups[g][n]
         pg = get(f'{BASE}/edizione/{eid}/{eslug}')
-        mm = re.search(r'src="(/images/Manga_Cover/[^"]+)"', pg.text) if pg else None
+        mm = (re.search(r'src="(/immagini/manga/[^"]+/edizioni/[^"]+-edizione-\d+\.[a-z]+)"', pg.text) or re.search(r'src="(/images/Manga_Cover/[^"]+)"', pg.text)) if pg else None
         img = get(BASE + requests.utils.quote(html.unescape(mm.group(1)), safe='/')) if mm else None
         try:
             im = Image.open(io.BytesIO(img.content)).convert('RGB')
@@ -103,7 +103,7 @@ def commit(msg):
 def main():
     os.makedirs(OUT, exist_ok=True)
     src = json.load(open('data/manga-sources.json'))
-    log = json.load(open(LOG)) if os.path.exists(LOG) else {}
+    log = {}
     items = [i for i in load_raw() if not ONLY or i['id'] in ONLY]
     print(len(items), 'manga', flush=True); tot = 0
     for k, it in enumerate(items, 1):
