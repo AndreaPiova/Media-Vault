@@ -633,5 +633,32 @@
   "hires": 7,
   "kept_low": 1,
   "missing": []
+ },
+ "m52": {
+  "title": "Spy x Family",
+  "edition": "",
+  "query": "Spy X Family",
+  "expected": 16,
+  "hires": 14,
+  "kept_low": 2,
+  "missing": []
+ },
+ "m53": {
+  "title": "Sun-Ken Rock",
+  "edition": "",
+  "query": "Sun Ken Rock",
+  "expected": 25,
+  "hires": 15,
+  "kept_low": 10,
+  "missing": []
+ },
+ "m54": {
+  "title": "Tegamibachi",
+  "edition": "",
+  "query": "Letter Bee",
+  "expected": 20,
+  "hires": 0,
+  "kept_low": 20,
+  "missing": []
  }
 }
