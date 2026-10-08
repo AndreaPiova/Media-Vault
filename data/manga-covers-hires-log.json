@@ -565,5 +565,44 @@
   "hires": 25,
   "kept_low": 0,
   "missing": []
+ },
+ "m68": {
+  "title": "Rurouni Kenshin",
+  "edition": "Perfect edition",
+  "query": "Rurouni Kenshin Perfect Edition",
+  "expected": 22,
+  "hires": 22,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m18": {
+  "title": "Shaman King",
+  "edition": "Final edition",
+  "query": "Le bizzarre avventure di JoJo: Steel Ball Run",
+  "expected": 35,
+  "hires": 0,
+  "kept_low": 24,
+  "missing": [
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35
+  ]
+ },
+ "m1": {
+  "title": "Slam Dunk",
+  "edition": "",
+  "query": "Slam Dunk",
+  "expected": 20,
+  "hires": 11,
+  "kept_low": 9,
+  "missing": []
  }
 }
