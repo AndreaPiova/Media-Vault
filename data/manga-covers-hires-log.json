@@ -658,5 +658,32 @@
   "hires": 0,
   "kept_low": 20,
   "missing": []
+ },
+ "m55": {
+  "title": "The Horizon",
+  "edition": "Box",
+  "query": "The Horizon",
+  "expected": 3,
+  "hires": 3,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m7": {
+  "title": "The Killer Inside",
+  "edition": "",
+  "query": "The Killer Inside",
+  "expected": 11,
+  "hires": 0,
+  "kept_low": 11,
+  "missing": []
+ },
+ "m56": {
+  "title": "The Promised Neverland",
+  "edition": "",
+  "query": "The Promised Neverland",
+  "expected": 20,
+  "hires": 20,
+  "kept_low": 0,
+  "missing": []
  }
 }
