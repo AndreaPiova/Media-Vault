@@ -164,5 +164,87 @@
   "ok": 14,
   "missing_vols": [],
   "not_found": []
+ },
+ "m5": {
+  "title": "Blame",
+  "edition": "Master edition",
+  "expected": 6,
+  "groups": {
+   "Blame": 10,
+   "Blame! Deluxe": 5,
+   "Blame! Ultimate Deluxe Collection": 1,
+   "Blame! Nuova Edizione": 10,
+   "Blame! Master Edition": 6,
+   "Blame! Master Edition - White": 6
+  },
+  "chosen": "Blame! Master Edition",
+  "ok": 6,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m32": {
+  "title": "Bleach",
+  "edition": "",
+  "expected": 74,
+  "groups": {
+   "Bleach": 74,
+   "Bleach Gold": 74,
+   "Bleach Gold Deluxe": 74,
+   "Bleach Variant Lenticolare": 1,
+   "Bleach (Corriere dello Sport)": 48,
+   "Bleach Christmas Variant": 1,
+   "Bleach (La Gazzetta dello Sport)": 74
+  },
+  "chosen": "Bleach",
+  "ok": 74,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m6": {
+  "title": "Blue Lock",
+  "edition": "",
+  "expected": 32,
+  "groups": {
+   "Blue Lock": 35,
+   "Blue Lock - Variant Panini": 1,
+   "Blue Lock - Variant Anime": 1,
+   "Blue Lock - Variant Inter": 1,
+   "Blue Lock - Variant World Cup Celebration": 1
+  },
+  "chosen": "Blue Lock",
+  "ok": 35,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m31": {
+  "title": "Blue Period",
+  "edition": "",
+  "expected": 17,
+  "groups": {
+   "Blue Period": 18,
+   "Blue Period Variant MangaYo!": 1,
+   "Blue Period Special Edition": 1,
+   "Blue Period Variant con coloring book": 1
+  },
+  "chosen": "Blue Period",
+  "ok": 18,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m10": {
+  "title": "Chainsaw Man",
+  "edition": "",
+  "expected": 22,
+  "groups": {
+   "Chainsaw Man Variant": 2,
+   "Chainsaw Man": 23,
+   "Chainsaw Man - Discovery Edition": 1,
+   "Chainsaw Man Calendario": 1,
+   "Chainsaw Man Christmas Variant": 1
+  },
+  "chosen": "Chainsaw Man",
+  "ok": 23,
+  "missing_vols": [],
+  "not_found": []
  }
 }
