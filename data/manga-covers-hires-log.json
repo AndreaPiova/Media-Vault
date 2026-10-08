@@ -245,5 +245,32 @@
   "hires": 3,
   "kept_low": 0,
   "missing": []
+ },
+ "m37": {
+  "title": "GTO",
+  "edition": "Deluxe black edition",
+  "query": "Big G.T.O. Deluxe Black Edition",
+  "expected": 13,
+  "hires": 13,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m62": {
+  "title": "Hanako-kun",
+  "edition": "",
+  "query": "Hanako kun - I sette misteri dell'Accademia Kamome",
+  "expected": 25,
+  "hires": 25,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m63": {
+  "title": "Hell's Paradise",
+  "edition": "",
+  "query": "Hell's Paradise – Jigokuraku",
+  "expected": 13,
+  "hires": 13,
+  "kept_low": 0,
+  "missing": []
  }
 }
