@@ -345,5 +345,32 @@
   "hires": 14,
   "kept_low": 0,
   "missing": []
+ },
+ "m45": {
+  "title": "Jujutsu Kaisen",
+  "edition": "",
+  "query": "Jujutsu Kaisen - Sorcery Fight",
+  "expected": 30,
+  "hires": 14,
+  "kept_low": 16,
+  "missing": []
+ },
+ "m46": {
+  "title": "Juujika no Rokunin",
+  "edition": "",
+  "query": "X6 - Crucisix",
+  "expected": 14,
+  "hires": 14,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m27": {
+  "title": "Kaijuu no. 8",
+  "edition": "",
+  "query": "Kaiju No. 8",
+  "expected": 16,
+  "hires": 16,
+  "kept_low": 0,
+  "missing": []
  }
 }
