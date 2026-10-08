@@ -854,5 +854,87 @@
    20
   ],
   "not_found": []
+ },
+ "m49": {
+  "title": "Real",
+  "edition": "",
+  "expected": 16,
+  "groups": {
+   "Real": 16
+  },
+  "chosen": "Real",
+  "ok": 16,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m51": {
+  "title": "Record of Ragnarok",
+  "edition": "",
+  "expected": 25,
+  "groups": {
+   "Record of Ragnarok": 26,
+   "Record of Ragnarok Variant": 1,
+   "Record of Ragnarok - Limited Edition": 1
+  },
+  "chosen": "Record of Ragnarok",
+  "ok": 26,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m68": {
+  "title": "Rurouni Kenshin",
+  "edition": "Perfect edition",
+  "expected": 22,
+  "groups": {
+   "Kenshin": 28,
+   "Rurouni Kenshin Perfect Edition": 22
+  },
+  "chosen": "Rurouni Kenshin Perfect Edition",
+  "ok": 22,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m18": {
+  "title": "Shaman King",
+  "edition": "Final edition",
+  "expected": 35,
+  "groups": {
+   "Le bizzarre avventure di JoJo: Steel Ball Run": 24
+  },
+  "fallback": true,
+  "chosen": "Le bizzarre avventure di JoJo: Steel Ball Run",
+  "ok": 24,
+  "missing_vols": [],
+  "not_found": [
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35
+  ]
+ },
+ "m1": {
+  "title": "Slam Dunk",
+  "edition": "",
+  "expected": 20,
+  "groups": {
+   "Plus/Slam Dunk Illustrations": 1,
+   "Slam Dunk": 24,
+   "Slam Dunk (Planet Manga Ed. 1997)": 62,
+   "Slam Dunk + Figurine Panini Basketball '98-'99": 1,
+   "Slam Dunk Collection": 31,
+   "Slam Dunk Collection + Vhs": 2,
+   "Slam Dunk Deluxe": 10
+  },
+  "chosen": "Slam Dunk",
+  "ok": 24,
+  "missing_vols": [],
+  "not_found": []
  }
 }
