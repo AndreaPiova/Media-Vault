@@ -110,5 +110,32 @@
   "hires": 60,
   "kept_low": 14,
   "missing": []
+ },
+ "m6": {
+  "title": "Blue Lock",
+  "edition": "",
+  "query": "Blue Lock",
+  "expected": 32,
+  "hires": 30,
+  "kept_low": 2,
+  "missing": []
+ },
+ "m31": {
+  "title": "Blue Period",
+  "edition": "",
+  "query": "Blue Period",
+  "expected": 17,
+  "hires": 17,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m10": {
+  "title": "Chainsaw Man",
+  "edition": "",
+  "query": "Chainsaw Man",
+  "expected": 22,
+  "hires": 22,
+  "kept_low": 0,
+  "missing": []
  }
 }
