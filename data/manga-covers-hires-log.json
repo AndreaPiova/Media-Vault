@@ -56,5 +56,32 @@
   "missing": [
    5
   ]
+ },
+ "m30": {
+  "title": "Ashita no Joe",
+  "edition": "Perfect edition",
+  "query": "Rocky Joe Perfect Edition",
+  "expected": 13,
+  "hires": 13,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m19": {
+  "title": "Attack on Titan",
+  "edition": "",
+  "query": "L'Attacco dei Giganti",
+  "expected": 34,
+  "hires": 34,
+  "kept_low": 0,
+  "missing": []
+ },
+ "m58": {
+  "title": "Beastars",
+  "edition": "",
+  "query": "Beastars",
+  "expected": 22,
+  "hires": 21,
+  "kept_low": 1,
+  "missing": []
  }
 }
