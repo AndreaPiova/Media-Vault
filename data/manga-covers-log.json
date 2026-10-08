@@ -246,5 +246,76 @@
   "ok": 23,
   "missing_vols": [],
   "not_found": []
+ },
+ "m60": {
+  "title": "Claymore",
+  "edition": "New edition",
+  "expected": 27,
+  "groups": {
+   "Claymore": 27,
+   "Claymore New Edition": 27
+  },
+  "chosen": "Claymore New Edition",
+  "ok": 27,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m28": {
+  "title": "Dandadan",
+  "edition": "",
+  "expected": 18,
+  "groups": {
+   "Dandadan": 23,
+   "Dandadan Variant Edition": 3,
+   "Dandadan Deep Space Variant": 1,
+   "Dandadan Limited Edition": 1,
+   "Dandadan Deluxe Edition": 2
+  },
+  "chosen": "Dandadan",
+  "ok": 23,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m34": {
+  "title": "Deadman Wonderland",
+  "edition": "",
+  "expected": 13,
+  "groups": {
+   "Deadman Wonderland": 13
+  },
+  "chosen": "Deadman Wonderland",
+  "ok": 13,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m35": {
+  "title": "Death Note",
+  "edition": "Black edition",
+  "expected": 6,
+  "groups": {
+   "Death Note": 13,
+   "Death Note Gold": 12,
+   "Death Note Gold Deluxe": 12,
+   "Death Note Black Edition": 6,
+   "Death Note Variant 2023": 1,
+   "Death Note Christmas Variant": 1
+  },
+  "chosen": "Death Note Black Edition",
+  "ok": 6,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m57": {
+  "title": "Dededemon Dededestruction",
+  "edition": "",
+  "expected": 10,
+  "groups": {
+   "Dead Dead Demon’s Dededededestruction": 12
+  },
+  "fallback": true,
+  "chosen": "Dead Dead Demon’s Dededededestruction",
+  "ok": 12,
+  "missing_vols": [],
+  "not_found": []
  }
 }
