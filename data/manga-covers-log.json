@@ -1011,5 +1011,65 @@
   "ok": 25,
   "missing_vols": [],
   "not_found": []
+ },
+ "m54": {
+  "title": "Tegamibachi",
+  "edition": "",
+  "expected": 20,
+  "groups": {
+   "Letter Bee": 20
+  },
+  "fallback": true,
+  "chosen": "Letter Bee",
+  "ok": 20,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m55": {
+  "title": "The Horizon",
+  "edition": "Box",
+  "expected": 3,
+  "groups": {
+   "The Horizon": 3
+  },
+  "fallback": true,
+  "chosen": "The Horizon",
+  "ok": 3,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m7": {
+  "title": "The Killer Inside",
+  "edition": "",
+  "expected": 11,
+  "groups": {
+   "The Killer Inside": 11
+  },
+  "chosen": "The Killer Inside",
+  "ok": 11,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m56": {
+  "title": "The Promised Neverland",
+  "edition": "",
+  "expected": 20,
+  "groups": {
+   "The Promised Neverland": 20,
+   "The Promised Neverland Variant Popstore": 1,
+   "The Promised Neverland - Grace Field Collection Set": 3,
+   "The Promised Neverland Variant Feltrinelli": 1,
+   "The Promised Neverland Greatest Hits Cut Price": 1
+  },
+  "chosen": "The Promised Neverland",
+  "ok": 20,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m61": {
+  "title": "To Your Eternity",
+  "edition": "",
+  "expected": 25,
+  "error": "pagina edizioni non raggiungibile"
  }
 }
