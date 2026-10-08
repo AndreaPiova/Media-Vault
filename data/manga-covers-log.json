@@ -936,5 +936,80 @@
   "ok": 24,
   "missing_vols": [],
   "not_found": []
+ },
+ "m44": {
+  "title": "Solanin",
+  "edition": "Complete edition",
+  "expected": 1,
+  "groups": {
+   "Solanin": 2
+  },
+  "fallback": true,
+  "chosen": "Solanin",
+  "ok": 1,
+  "missing_vols": [
+   1
+  ],
+  "not_found": [
+   1
+  ]
+ },
+ "m2": {
+  "title": "Solo Leveling",
+  "edition": "",
+  "expected": 27,
+  "groups": {
+   "Solo Leveling": 28,
+   "Solo Leveling Limited Edition": 2,
+   "Solo Leveling - Variant Anime": 2
+  },
+  "chosen": "Solo Leveling",
+  "ok": 28,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m64": {
+  "title": "Spice & Wolf",
+  "edition": "Double edition",
+  "expected": 8,
+  "groups": {
+   "Spice and Wolf": 16,
+   "Spice and Wolf - Double Edition": 8
+  },
+  "chosen": "Spice and Wolf - Double Edition",
+  "ok": 8,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m52": {
+  "title": "Spy x Family",
+  "edition": "",
+  "expected": 16,
+  "groups": {
+   "Spy X Family Early Access": 1,
+   "Spy X Family": 17,
+   "Spy X Family Variant": 3,
+   "Spy X Family Christmas Variant": 1,
+   "Spy X Family Calendario": 1
+  },
+  "chosen": "Spy X Family",
+  "ok": 16,
+  "missing_vols": [
+   17
+  ],
+  "not_found": []
+ },
+ "m53": {
+  "title": "Sun-Ken Rock",
+  "edition": "",
+  "expected": 25,
+  "groups": {
+   "Sun Ken Rock": 25,
+   "Sun Ken Rock - 10th Anniversary Celebration Variant": 1
+  },
+  "chosen": "Sun Ken Rock",
+  "ok": 25,
+  "missing_vols": [],
+  "not_found": []
  }
 }
