@@ -1,0 +1,152 @@
+{
+ "m4": {
+  "title": "20th Century Boys",
+  "edition": "Deluxe edition",
+  "expected": 12,
+  "groups": {
+   "20th Century Boys": 22,
+   "20th Century Boys Ultimate Deluxe Edition": 11
+  },
+  "chosen": "20th Century Boys Ultimate Deluxe Edition",
+  "ok": 0,
+  "missing_vols": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "not_found": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ]
+ },
+ "m24": {
+  "title": "Akira",
+  "edition": "New edition",
+  "expected": 6,
+  "groups": {
+   "Akira": 38,
+   "Akira - Raccolta Cartonata": 11,
+   "Akira Anime Comics": 5,
+   "Akira Collection": 6,
+   "Akira New Edition": 6
+  },
+  "chosen": "Akira New Edition",
+  "ok": 0,
+  "missing_vols": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "not_found": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ]
+ },
+ "m25": {
+  "title": "Alice in Borderland",
+  "edition": "",
+  "expected": 10,
+  "groups": {
+   "Alice in Borderland": 18,
+   "Alice in Borderland Variant Popstore": 1
+  },
+  "chosen": "Alice in Borderland",
+  "ok": 2,
+  "missing_vols": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18
+  ],
+  "not_found": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ]
+ },
+ "m23": {
+  "title": "Alita",
+  "edition": "Panzer edition",
+  "expected": 3,
+  "groups": {
+   "Alita Battle Angel": 18,
+   "Alita Collection": 11,
+   "Alita New Edition": 9,
+   "Alita Panzer Edition": 3,
+   "Alita Panzer - Variant 30th": 1
+  },
+  "chosen": "Alita Panzer Edition",
+  "ok": 0,
+  "missing_vols": [
+   1,
+   2,
+   3
+  ],
+  "not_found": [
+   1,
+   2,
+   3
+  ]
+ },
+ "m12": {
+  "title": "All You Need Is Kill",
+  "edition": "",
+  "expected": 1,
+  "groups": {
+   "All You Need is Kill": 2
+  },
+  "chosen": "All You Need is Kill",
+  "ok": 0,
+  "missing_vols": [
+   1,
+   2
+  ],
+  "not_found": [
+   1
+  ]
+ }
+}
