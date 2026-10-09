@@ -345,5 +345,45 @@
    16
   ],
   "missing": []
+ },
+ "m64": {
+  "title": "Spice & Wolf",
+  "edition": "Double edition",
+  "total": 8,
+  "upgraded": [],
+  "still_low": [
+   1
+  ],
+  "missing": []
+ },
+ "m52": {
+  "title": "Spy x Family",
+  "edition": "",
+  "total": 16,
+  "upgraded": [],
+  "still_low": [
+   5,
+   6
+  ],
+  "missing": []
+ },
+ "m53": {
+  "title": "Sun-Ken Rock",
+  "edition": "",
+  "total": 25,
+  "upgraded": [],
+  "still_low": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   7,
+   8,
+   9,
+   16,
+   17
+  ],
+  "missing": []
  }
 }
