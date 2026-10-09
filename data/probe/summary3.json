@@ -1,0 +1,129 @@
+{
+ "jpop_s": {
+  "status": 200,
+  "len": 450457,
+  "final": "https://j-pop.it/?s=real",
+  "forms": [
+   "/search",
+   "/contact#zpk-nlpop-form",
+   "/contact#contact_form",
+   "close"
+  ],
+  "links": [
+   "/blogs/notizie/j-pop-manga-le-uscite-della-settimana-dal-12-all18-ottobre-2026",
+   "/blogs/notizie/j-pop-manga-le-uscite-della-settimana-dal-5-all-11-ottobre-2026",
+   "/blogs/notizie/j-pop-manga-presenta-grand-blue",
+   "/collections/dal-manga-all-anime",
+   "/collections/manga",
+   "https://www.instagram.com/jpopmanga/",
+   "https://www.tiktok.com/@jpopmanga"
+  ],
+  "imgs": []
+ },
+ "star_home": {
+  "status": 200,
+  "len": 86513,
+  "final": "https://www.starcomics.com/",
+  "forms": [
+   "/ricerca-fumetti"
+  ],
+  "links": [
+   "/fumetto/belladonna-s-lover",
+   "/fumetto/demon-slayer-kimetsu-no-yaiba-new-edition-3",
+   "/fumetto/diario-di-una-vita-tranquilla-3",
+   "/fumetto/dragon-ball-sd-12",
+   "/fumetto/gachiakuta-17",
+   "/fumetto/heaven-official-s-blessing-5",
+   "/fumetto/magic-knight-rayearth-2-clamp-premium-collection-2",
+   "/fumetto/manga-bomber-new-edition-7",
+   "/fumetto/my-love-story-with-yamada-kun-at-lv999-9",
+   "/fumetto/one-piece-114",
+   "/fumetto/one-piece-114-limited-edition",
+   "/fumetto/one-piece-campus-6",
+   "/fumetto/one-piece-novel-heroines-colorful",
+   "/fumetto/rave-the-groove-adventure-new-edition-31",
+   "/fumetto/re-living-my-life-with-a-boyfriend-who-doesn-t-remember-me-3",
+   "/fumetto/sin-city-3-ultra-limited-edition",
+   "/fumetto/sin-city-6",
+   "/fumetto/tears-on-a-withered-flower-1",
+   "/fumetto/tears-on-a-withered-flower-1-limited-edition"
+  ],
+  "imgs": []
+ },
+ "star_s": {
+  "status": 404,
+  "len": 20855,
+  "final": "https://www.starcomics.com/search?keyword=gantz",
+  "forms": [
+   "/ricerca-fumetti"
+  ],
+  "links": [],
+  "imgs": []
+ },
+ "planet_cat": {
+  "status": 200,
+  "len": 516452,
+  "final": "https://www.panini.it/shp_ita_it/planet-manga.html",
+  "forms": [
+   "https://www.panini.it/shp_ita_it/customer/account/loginPost/referer/aHR0cHM6Ly93d3cucGFuaW5pLml0L3NocF9pdGFfaXQvcGxhbmV0LW1hbmdhLmh0bWw~/",
+   "https://www.panini.it/shp_ita_it/catalogsearch/result/",
+   "https://www.panini.it/shp_ita_it/checkout/cart/add/uenc/aHR0cHM6Ly93d3cucGFuaW5pLml0L3NocF9pdGFfaXQvcGxhbmV0LW1hbmdhLmh0bWw~/product/340238/",
+   "https://www.panini.it/shp_ita_it/checkout/cart/add/uenc/aHR0cHM6Ly93d3cucGFuaW5pLml0L3NocF9pdGFfaXQvcGxhbmV0LW1hbmdhLmh0bWw~/product/340247/",
+   "https://www.panini.it/shp_ita_it/checkout/cart/add/uenc/aHR0cHM6Ly93d3cucGFuaW5pLml0L3NocF9pdGFfaXQvcGxhbmV0LW1hbmdhLmh0bWw~/product/340262/"
+  ],
+  "links": [
+   "https://www.panini.it/shp_ita_it/figurine-panini/entertainment/cinema-e-serie-tv.html",
+   "https://www.panini.it/shp_ita_it/figurine-panini/entertainment/cinema-e-serie-tv/album-figurine-e-card.html",
+   "https://www.panini.it/shp_ita_it/figurine-panini/entertainment/cinema-e-serie-tv/figurine-e-card-mancanti.html",
+   "https://www.panini.it/shp_ita_it/figurine-panini/entertainment/cinema-e-serie-tv/raccolte-complete.html",
+   "https://www.panini.it/shp_ita_it/fumetti-libri-riviste/planet-manga/genere/azione.html",
+   "https://www.panini.it/shp_ita_it/fumetti-libri-riviste/planet-manga/genere/boy-s-love.html",
+   "https://www.panini.it/shp_ita_it/fumetti-libri-riviste/planet-manga/genere/drammatico.html",
+   "https://www.panini.it/shp_ita_it/fumetti-libri-riviste/planet-manga/genere/horror.html",
+   "https://www.panini.it/shp_ita_it/fumetti-libri-riviste/planet-manga/genere/planet-manga-sportivo.html",
+   "https://www.panini.it/shp_ita_it/fumetti-libri-riviste/planet-manga/genere/romantico.html",
+   "https://www.panini.it/shp_ita_it/fumetti-libri-riviste/planet-manga/genere/sci-fi.html",
+   "https://www.panini.it/shp_ita_it/fumetti-libri-riviste/planet-manga/genere/soprannaturale.html",
+   "https://www.panini.it/shp_ita_it/fumetti-libri-riviste/planet-manga/genere/thriller.html",
+   "https://www.panini.it/shp_ita_it/fumetti-libri-riviste/planet-manga/genere/vita-di-tutti-i-giorni.html",
+   "https://www.panini.it/shp_ita_it/fumetti-libri-riviste/planet-manga/personaggi-planet-manga/akira.html",
+   "https://www.panini.it/shp_ita_it/fumetti-libri-riviste/planet-manga/personaggi-planet-manga/naruto.html",
+   "https://www.panini.it/shp_ita_it/fumetti/dc/cosa-cerco/cinema-videogiochi-e-serie-tv.html",
+   "https://www.panini.it/shp_ita_it/fumetti/dc/tipologia/raccolte-in-volume.html",
+   "https://www.panini.it/shp_ita_it/fumetti/dc/tipologia/serie-regolare.html",
+   "https://www.panini.it/shp_ita_it/fumetti/fumetti-digitali/planet-manga.html",
+   "https://www.panini.it/shp_ita_it/fumetti/in-edicola/planet-manga.html",
+   "https://www.panini.it/shp_ita_it/fumetti/marvel/collane/marvel-masterseries.html",
+   "https://www.panini.it/shp_ita_it/fumetti/marvel/cosa-cerco/cinema-videogiochi-e-serie-tv.html",
+   "https://www.panini.it/shp_ita_it/fumetti/marvel/tipologia/raccolte-in-volume.html",
+   "https://www.panini.it/shp_ita_it/fumetti/marvel/tipologia/serie-regolare.html"
+  ],
+  "imgs": [
+   "https://mcprod.paninistore.com/media/.renditions/wysiwyg/logo-gift-card.png",
+   "https://mcprod.paninistore.com/media/.renditions/wysiwyg/logo-panini-club.png",
+   "https://mcprod.paninistore.com/media/.renditions/wysiwyg/logo-panini-small.png",
+   "https://www.panini.it/media/.renditions/blog/Logo-Panini-club-white-xs-29px.png",
+   "https://www.panini.it/media/.renditions/wysiwyg/logo-panini-small.png",
+   "https://www.panini.it/media/catalog/label/18app.png",
+   "https://www.panini.it/media/catalog/label/Label_Ebook-disponibile.png",
+   "https://www.panini.it/media/catalog/label/new.png",
+   "https://www.panini.it/media/catalog/product/1/w/1wdipl001f_0_gfl6rxzfhnuinfuc.jpg",
+   "https://www.panini.it/media/catalog/product/M/A/MAHER069_0.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=222&amp;width=222&amp;canvas=222:222",
+   "https://www.panini.it/media/catalog/product/M/B/MBLUL034ISBNB_0.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=222&amp;width=222&amp;canvas=222:222",
+   "https://www.panini.it/media/catalog/product/M/C/MCHOI040_0.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=222&amp;width=222&amp;canvas=222:222",
+   "https://www.panini.it/media/catalog/product/M/D/MDRAM003ISBN_0.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=222&amp;width=222&amp;canvas=222:222",
+   "https://www.panini.it/media/catalog/product/M/H/MHUXH038ISBNR_0.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=222&amp;width=222&amp;canvas=222:222",
+   "https://www.panini.it/media/catalog/product/M/I/MICKI001ISBN_0.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=222&amp;width=222&amp;canvas=222:222",
+   "https://www.panini.it/media/catalog/product/M/K/MKENI109_0.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=222&amp;width=222&amp;canvas=222:222",
+   "https://www.panini.it/media/catalog/product/M/K/MKENI110_0.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=222&amp;width=222&amp;canvas=222:222",
+   "https://www.panini.it/media/catalog/product/M/M/MMARZ018ISBN_0.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=222&amp;width=222&amp;canvas=222:222",
+   "https://www.panini.it/media/catalog/product/M/M/MMRUN037_0.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=222&amp;width=222&amp;canvas=222:222",
+   "https://www.panini.it/media/catalog/product/M/O/MOTRF001ISBNV_0.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=222&amp;width=222&amp;canvas=222:222",
+   "https://www.panini.it/media/catalog/product/M/O/MOTRF001ISBN_0.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=222&amp;width=222&amp;canvas=222:222",
+   "https://www.panini.it/media/catalog/product/M/O/MOTRF002ISBN_0.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=222&amp;width=222&amp;canvas=222:222",
+   "https://www.panini.it/media/catalog/product/M/P/MPLUT001ISBNR4_0.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=222&amp;width=222&amp;canvas=222:222",
+   "https://www.panini.it/media/catalog/product/M/P/MPLUT002ISBNR3_0.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=222&amp;width=222&amp;canvas=222:222",
+   "https://www.panini.it/media/catalog/product/M/P/MPLUT003ISBNR4_0.jpg?quality=80&amp;bg-color=255,255,255&amp;fit=bounds&amp;height=222&amp;width=222&amp;canvas=222:222"
+  ]
+ }
+}
