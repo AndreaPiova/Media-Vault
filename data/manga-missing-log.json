@@ -213,5 +213,77 @@
    10
   ],
   "used": null
+ },
+ "m22": {
+  "title": "Vinland Saga",
+  "edition": "",
+  "expected": 29,
+  "found": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29
+  ],
+  "missing": [
+   5
+  ],
+  "used": [
+   [
+    3,
+    "Vinland Saga. Vol. 3"
+   ],
+   [
+    4,
+    "Vinland Saga. Vol. 4"
+   ],
+   [
+    7,
+    "Vinland Saga. Vol. 7"
+   ],
+   [
+    8,
+    "Vinland Saga. Vol. 8"
+   ],
+   [
+    9,
+    "Vinland Saga. Vol. 9"
+   ],
+   [
+    10,
+    "Vinland Saga. Vol. 10"
+   ],
+   [
+    11,
+    "Vinland Saga. Vol. 11"
+   ],
+   [
+    12,
+    "Vinland Saga. Vol. 12"
+   ]
+  ]
  }
 }
