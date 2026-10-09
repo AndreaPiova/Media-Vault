@@ -1,8 +1,8 @@
-name: Probe cdn
+name: ISBN covers
 on:
   push:
-    paths: ['scripts/probecdn.trigger']
-concurrency: { group: probecdn, cancel-in-progress: true }
+    paths: ['scripts/isbn.trigger']
+concurrency: { group: isbn, cancel-in-progress: true }
 permissions:
   contents: write
 jobs:
@@ -17,8 +17,8 @@ jobs:
       - run: |
           git config user.name "mediavault-bot"
           git config user.email "bot@users.noreply.github.com"
-      - run: python scripts/probe-cdn.py
+      - run: python scripts/isbn-covers.py
         continue-on-error: true
       - if: always()
         run: |
-          git add data/probe; git commit -m "Cover editori finale" || true; git pull --rebase -X theirs || true; git push
+          git add covers/manga data; git commit -m "Cover editori finale" || true; git pull --rebase -X theirs || true; git push
