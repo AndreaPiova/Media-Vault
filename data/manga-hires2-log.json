@@ -71,5 +71,36 @@
    36
   ],
   "missing": []
+ },
+ "m6": {
+  "title": "Blue Lock",
+  "edition": "",
+  "total": 32,
+  "upgraded": [],
+  "still_low": [
+   14,
+   16
+  ],
+  "missing": []
+ },
+ "m60": {
+  "title": "Claymore",
+  "edition": "New edition",
+  "total": 27,
+  "upgraded": [],
+  "still_low": [
+   13
+  ],
+  "missing": []
+ },
+ "m28": {
+  "title": "Dandadan",
+  "edition": "",
+  "total": 18,
+  "upgraded": [],
+  "still_low": [
+   4
+  ],
+  "missing": []
  }
 }
