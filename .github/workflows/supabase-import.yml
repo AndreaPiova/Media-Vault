@@ -1,0 +1,25 @@
+name: Supabase import (copia dal cloud)
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests
+      - run: python scripts/sb-import.py
+        env:
+          SB_URL: ${{ secrets.SB_URL }}
+          SB_PUBKEY: ${{ secrets.SB_PUBKEY }}
+          SB_VAULT_KEY: ${{ secrets.SB_VAULT_KEY }}
+          JB_KEY: ${{ secrets.JB_KEY }}
+          BIN_ID: 69e0ca3836566621a8bcf811
+      - run: |
+          git config user.name "mediavault-bot"; git config user.email "bot@users.noreply.github.com"
+          git add data/supabase-import-report.json
+          git commit -m "Supabase import report" || echo nothing
+          git pull --rebase -X theirs || true
+          git push
