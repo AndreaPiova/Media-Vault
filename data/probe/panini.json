@@ -1,0 +1,29 @@
+{
+ "azione": {
+  "status": 200,
+  "len": 2334,
+  "final": "https://panini.queue-it.net/?c=panini&e=paniniitaly&ver=v3-php-3.7.4&cver=28&man=Panini%20Italy%20Action&t=https%3A%2F%2Fwww.panini.it%2Fshp_ita_it%2Ffumetti-libri-riviste%2Fplanet-manga%2Fgenere%2Faz",
+  "n": 0,
+  "prods": [],
+  "pager": [],
+  "sample": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"robots\" content=\"noindex\">\n    <script type='text/javascript'>\n        var cookieEnabled = navigator.cookieEnabled;\n        if (!cookieEnabled) {\n            document.cookie = 'cookietest=1';\n            cookieEnabled = document.cookie.indexOf('cookietes"
+ },
+ "azione2": {
+  "status": 200,
+  "len": 2376,
+  "final": "https://panini.queue-it.net/?c=panini&e=paniniitaly&ver=v3-php-3.7.4&cver=28&man=Panini%20Italy%20Action&t=https%3A%2F%2Fwww.panini.it%2Fshp_ita_it%2Ffumetti-libri-riviste%2Fplanet-manga%2Fgenere%2Faz",
+  "n": 0,
+  "prods": [],
+  "pager": [],
+  "sample": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"robots\" content=\"noindex\">\n    <script type='text/javascript'>\n        var cookieEnabled = navigator.cookieEnabled;\n        if (!cookieEnabled) {\n            document.cookie = 'cookietest=1';\n            cookieEnabled = document.cookie.indexOf('cookietes"
+ },
+ "all": {
+  "status": 200,
+  "len": 2342,
+  "final": "https://panini.queue-it.net/?c=panini&e=paniniitaly&ver=v3-php-3.7.4&cver=28&man=Panini%20Italy%20Action&t=https%3A%2F%2Fwww.panini.it%2Fshp_ita_it%2Ffumetti-libri-riviste%2Fplanet-manga.html%3Fproduc",
+  "n": 0,
+  "prods": [],
+  "pager": [],
+  "sample": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"robots\" content=\"noindex\">\n    <script type='text/javascript'>\n        var cookieEnabled = navigator.cookieEnabled;\n        if (!cookieEnabled) {\n            document.cookie = 'cookietest=1';\n            cookieEnabled = document.cookie.indexOf('cookietes"
+ }
+}
