@@ -1,0 +1,428 @@
+{
+ "m18": {
+  "title": "Shaman King",
+  "edition": "Final edition",
+  "expected": 35,
+  "found": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35
+  ],
+  "missing": [],
+  "used": [
+   [
+    1,
+    "Shaman King. Final edition. Vol. 1"
+   ],
+   [
+    2,
+    "Shaman King. Final edition. Vol. 2"
+   ],
+   [
+    3,
+    "Shaman King. Final edition. Vol. 3"
+   ],
+   [
+    4,
+    "Shaman King. Final edition. Vol. 4"
+   ],
+   [
+    5,
+    "Shaman King. Final edition. Vol. 5"
+   ],
+   [
+    6,
+    "Shaman King. Final edition. Vol. 6"
+   ],
+   [
+    7,
+    "Shaman King. Final edition. Vol. 7"
+   ],
+   [
+    8,
+    "Shaman King. Final edition. Vol. 8"
+   ],
+   [
+    9,
+    "Shaman King. Final edition. Vol. 9"
+   ],
+   [
+    10,
+    "Shaman King. Final edition. Vol. 10"
+   ],
+   [
+    11,
+    "Shaman King. Final edition. Vol. 11"
+   ],
+   [
+    12,
+    "Shaman king. Final edition. Vol. 12"
+   ],
+   [
+    13,
+    "Shaman king. Final edition. Vol. 13"
+   ],
+   [
+    14,
+    "Shaman king. Final edition. Vol. 14"
+   ],
+   [
+    15,
+    "Shaman king. Final edition. Vol. 15"
+   ],
+   [
+    16,
+    "Shaman king. Final edition. Vol. 16"
+   ],
+   [
+    17,
+    "Shaman King. Final edition. Vol. 17"
+   ],
+   [
+    18,
+    "Shaman King. Final edition. Vol. 18"
+   ],
+   [
+    19,
+    "Shaman King. Final edition. Vol. 19"
+   ],
+   [
+    20,
+    "Shaman King. Final edition. Vol. 20"
+   ],
+   [
+    21,
+    "Shaman King. Final edition. Vol. 21"
+   ],
+   [
+    22,
+    "Shaman King. Final edition. Vol. 22"
+   ],
+   [
+    23,
+    "Shaman King. Final edition. Vol. 23"
+   ],
+   [
+    24,
+    "Shaman King. Final edition. Vol. 24"
+   ],
+   [
+    25,
+    "Shaman King. Final edition. Vol. 25"
+   ],
+   [
+    26,
+    "Shaman King. Final edition. Vol. 26"
+   ],
+   [
+    27,
+    "Shaman King. Final edition. Vol. 27"
+   ],
+   [
+    28,
+    "Shaman King. Final edition. Vol. 28"
+   ],
+   [
+    29,
+    "Shaman King. Final edition. Vol. 29"
+   ],
+   [
+    30,
+    "Shaman king. Final edition. Vol. 30"
+   ],
+   [
+    31,
+    "Shaman king. Final edition. Vol. 31"
+   ],
+   [
+    32,
+    "Shaman King. Final edition. Vol. 32"
+   ],
+   [
+    33,
+    "Shaman King. Final edition. Vol. 33"
+   ],
+   [
+    34,
+    "Shaman King. Final edition. Vol. 34"
+   ],
+   [
+    35,
+    "Shaman King. Final edition. Vol. 35"
+   ]
+  ]
+ },
+ "m4": {
+  "title": "20th Century Boys",
+  "edition": "Deluxe edition",
+  "expected": 12,
+  "found": [],
+  "missing": [
+   12
+  ],
+  "used": null
+ },
+ "m25": {
+  "title": "Alice in Borderland",
+  "edition": "",
+  "expected": 10,
+  "found": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "missing": [
+   10
+  ],
+  "used": null
+ },
+ "m22": {
+  "title": "Vinland Saga",
+  "edition": "",
+  "expected": 29,
+  "found": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29
+  ],
+  "missing": [
+   5
+  ],
+  "used": [
+   [
+    3,
+    "Vinland Saga. Vol. 3"
+   ],
+   [
+    4,
+    "Vinland Saga. Vol. 4"
+   ],
+   [
+    7,
+    "Vinland Saga. Vol. 7"
+   ],
+   [
+    8,
+    "Vinland Saga. Vol. 8"
+   ],
+   [
+    9,
+    "Vinland Saga. Vol. 9"
+   ],
+   [
+    10,
+    "Vinland Saga. Vol. 10"
+   ],
+   [
+    11,
+    "Vinland Saga. Vol. 11"
+   ],
+   [
+    12,
+    "Vinland Saga. Vol. 12"
+   ]
+  ]
+ },
+ "m70": {
+  "title": "MPD Psycho",
+  "edition": "",
+  "expected": 24,
+  "found": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "missing": [
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24
+  ],
+  "used": null
+ },
+ "m95": {
+  "title": "Aqualung",
+  "edition": "",
+  "expected": 5,
+  "found": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "missing": [
+   5
+  ],
+  "used": null
+ },
+ "m96": {
+  "title": "Orfani",
+  "edition": "",
+  "expected": 16,
+  "found": [],
+  "missing": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16
+  ],
+  "used": null
+ },
+ "m42": {
+  "title": "Imawa no Kuni no Alice",
+  "edition": "",
+  "expected": 18,
+  "found": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "missing": [
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18
+  ],
+  "used": [
+   [
+    1,
+    "Alice in Borderland. Vol. 1"
+   ],
+   [
+    2,
+    "Alice in borderland. Vol. 2"
+   ],
+   [
+    3,
+    "Alice in borderland. Vol. 3"
+   ],
+   [
+    4,
+    "Alice in borderland. Vol. 4"
+   ],
+   [
+    5,
+    "Alice in borderland. Vol. 5"
+   ],
+   [
+    6,
+    "Alice in borderland. Vol. 6"
+   ],
+   [
+    7,
+    "Alice in borderland. Vol. 7"
+   ],
+   [
+    8,
+    "Alice in borderland. Vol. 8"
+   ],
+   [
+    9,
+    "Alice in borderland. Vol. 9"
+   ]
+  ]
+ }
+}

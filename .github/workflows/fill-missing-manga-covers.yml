@@ -1,0 +1,21 @@
+name: Fill missing manga covers
+on:
+  push:
+    paths: ['scripts/fill-missing.trigger']
+  workflow_dispatch:
+concurrency: { group: manga-fill, cancel-in-progress: false }
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests pillow
+      - run: |
+          git config user.name "mediavault-bot"
+          git config user.email "bot@users.noreply.github.com"
+      - run: python scripts/fill-missing-2.py

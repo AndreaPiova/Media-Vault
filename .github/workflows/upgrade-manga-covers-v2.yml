@@ -1,0 +1,31 @@
+name: Upgrade manga covers v2
+on:
+  push:
+    paths: ['scripts/v2.trigger']
+concurrency: { group: manga-v2, cancel-in-progress: true }
+permissions:
+  contents: write
+jobs:
+  d:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests pillow
+      - run: |
+          git config user.name "mediavault-bot"
+          git config user.email "bot@users.noreply.github.com"
+      - name: Ripristina versioni piccole dei file rimossi (AnimeClick)
+        continue-on-error: true
+        run: |
+          cp data/manga-covers-log.json /tmp/keep.json
+          ONLY="$(cat scripts/redo-ids.txt)" python scripts/import-manga-covers.py
+          cp /tmp/keep.json data/manga-covers-log.json
+          git add covers/manga data; git commit -m "Ripristino copertine piccole" || true
+      - run: python scripts/upgrade-manga-covers-v2.py
+        continue-on-error: true
+      - if: always()
+        run: |
+          git add covers/manga data; git commit -m "v2 finale" || true; git pull --rebase -X theirs || true; git push
