@@ -300,5 +300,50 @@
    30
   ],
   "missing": []
+ },
+ "m96": {
+  "title": "Orfani",
+  "edition": "",
+  "total": 16,
+  "upgraded": [],
+  "still_low": [],
+  "missing": [
+   13,
+   14,
+   15,
+   16
+  ]
+ },
+ "m94": {
+  "title": "Radiant",
+  "edition": "",
+  "total": 19,
+  "upgraded": [],
+  "still_low": [
+   13
+  ],
+  "missing": []
+ },
+ "m49": {
+  "title": "Real",
+  "edition": "",
+  "total": 16,
+  "upgraded": [],
+  "still_low": [
+   3,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16
+  ],
+  "missing": []
  }
 }
