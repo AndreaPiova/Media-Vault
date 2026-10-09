@@ -26,16 +26,14 @@
  "m58": {
   "title": "Beastars",
   "edition": "",
-  "done": [
+  "done": [],
+  "notfound": [
    [
     11,
-    "amazon",
     "9788891295767",
-    "Beastars. Vol. 11",
-    630
+    "Beastars. Vol. 11"
    ]
-  ],
-  "notfound": []
+  ]
  },
  "m5": {
   "title": "Blame",
