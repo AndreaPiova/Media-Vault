@@ -1,0 +1,21 @@
+name: Find series ids
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests
+      - run: python scripts/find-series-ids.py
+        env:
+          TMDB_KEY: 2dca580c2a14b55200e784d157207b4d
+      - run: |
+          git config user.name "mediavault-bot"; git config user.email "bot@users.noreply.github.com"
+          git add data/series-ids-found.json
+          git commit -m "ID TMDB serie trovati" || echo nothing
+          git pull --rebase -X theirs || true
+          git push
