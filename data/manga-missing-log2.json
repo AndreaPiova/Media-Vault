@@ -1,0 +1,85 @@
+{
+ "m96": {
+  "title": "Orfani",
+  "found": [
+   [
+    1,
+    "Piccoli spaventati guerrieri. Orfani. Vol. 1"
+   ],
+   [
+    2,
+    "Non per odio ma per amore.Orfani. Vol. 2"
+   ],
+   [
+    3,
+    "Primo sangue. Orfani. Vol. 3"
+   ],
+   [
+    4,
+    "Spiriti nell'ombra. Orfani. Vol. 4"
+   ],
+   [
+    5,
+    "L' uomo con il fucile. Orfani. Vol. 5"
+   ],
+   [
+    6,
+    "... E rinascerai con dolore. Orfani. Vol. 6"
+   ],
+   [
+    7,
+    "Bugie e pallottole. Orfani. Vol. 7"
+   ],
+   [
+    8,
+    "War pigs. Orfani. Vol. 8"
+   ],
+   [
+    9,
+    "Freddo come lo spazio. Orfani. Vol. 9"
+   ],
+   [
+    10,
+    "Cuori sull'abisso. Orfani. Vol. 10"
+   ],
+   [
+    11,
+    "Tutti giù per terra. Orfani. Vol. 11"
+   ],
+   [
+    12,
+    "Rock 'n' roll. Orfani. Vol. 12"
+   ]
+  ],
+  "missing": [
+   13,
+   14,
+   15,
+   16
+  ]
+ },
+ "m22": {
+  "title": "Vinland Saga",
+  "found": [
+   [
+    5,
+    "Vinland Saga. Vol. 5"
+   ]
+  ],
+  "missing": []
+ },
+ "m25": {
+  "title": "Alice in Borderland",
+  "found": [],
+  "missing": [
+   10
+  ]
+ },
+ "m95": {
+  "title": "Aqualung",
+  "found": [],
+  "missing": [
+   5
+  ]
+ }
+}
