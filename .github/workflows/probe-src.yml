@@ -1,8 +1,8 @@
-name: Probe ibs
+name: Probe src
 on:
   push:
-    paths: ['scripts/probeibs.trigger']
-concurrency: { group: probeibs, cancel-in-progress: true }
+    paths: ['scripts/probesrc.trigger']
+concurrency: { group: probesrc, cancel-in-progress: true }
 permissions:
   contents: write
 jobs:
@@ -17,7 +17,7 @@ jobs:
       - run: |
           git config user.name "mediavault-bot"
           git config user.email "bot@users.noreply.github.com"
-      - run: python scripts/probe-ibs.py
+      - run: python scripts/probe-isbn-src.py
         continue-on-error: true
       - if: always()
         run: |
