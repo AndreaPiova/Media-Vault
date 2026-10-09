@@ -489,13 +489,10 @@
   "title": "Hanako-kun",
   "edition": "",
   "total": 25,
-  "upgraded": [
-   [
-    1,
-    "Hanako-kun. I 7 misteri dell'Accademia Kamome. Vol. 1"
-   ]
+  "upgraded": [],
+  "still_low": [
+   1
   ],
-  "still_low": [],
   "missing": []
  },
  "m38": {
