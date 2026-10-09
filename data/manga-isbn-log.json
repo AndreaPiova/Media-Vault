@@ -470,72 +470,54 @@
  "m15": {
   "title": "One Piece",
   "edition": "New edition",
-  "done": [
+  "done": [],
+  "notfound": [
    [
     1,
-    "amazon",
     "9788864201870",
-    "One piece. New edition. Vol. 1",
-    626
+    "One piece. New edition. Vol. 1"
    ],
    [
     2,
-    "amazon",
     "9788864201887",
-    "One piece. New edition. Vol. 2",
-    621
+    "One piece. New edition. Vol. 2"
    ],
    [
     3,
-    "amazon",
     "9788864201894",
-    "One piece. New edition. Vol. 3",
-    636
+    "One piece. New edition. Vol. 3"
    ],
    [
     4,
-    "amazon",
     "9788864201900",
-    "One piece. New edition. Vol. 4",
-    626
+    "One piece. New edition. Vol. 4"
    ],
    [
     5,
-    "amazon",
     "9788864201917",
-    "One piece. New edition. Vol. 5",
-    614
+    "One piece. New edition. Vol. 5"
    ],
    [
     6,
-    "amazon",
     "9788864201924",
-    "One piece. New edition. Vol. 6",
-    629
+    "One piece. New edition. Vol. 6"
    ],
    [
     7,
-    "amazon",
     "9788864201931",
-    "One piece. New edition. Vol. 7",
-    630
+    "One piece. New edition. Vol. 7"
    ],
    [
     18,
-    "amazon",
     "9788864202044",
-    "One piece. New edition. Vol. 18",
-    619
+    "One piece. New edition. Vol. 18"
    ],
    [
     27,
-    "amazon",
     "9788864202136",
-    "One piece. New edition. Vol. 27",
-    627
+    "One piece. New edition. Vol. 27"
    ]
-  ],
-  "notfound": []
+  ]
  },
  "m16": {
   "title": "One Punch Man",
