@@ -248,5 +248,57 @@
    23,
    24
   ]
+ },
+ "m48": {
+  "title": "Mushishi",
+  "edition": "",
+  "total": 10,
+  "upgraded": [],
+  "still_low": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   7,
+   8,
+   9
+  ],
+  "missing": []
+ },
+ "m15": {
+  "title": "One Piece",
+  "edition": "New edition",
+  "total": 109,
+  "upgraded": [
+   [
+    4,
+    "One piece. New edition. Vol. 4"
+   ],
+   [
+    6,
+    "One piece. New edition. Vol. 6"
+   ]
+  ],
+  "still_low": [
+   1,
+   2,
+   3,
+   5,
+   7,
+   18,
+   27
+  ],
+  "missing": []
+ },
+ "m16": {
+  "title": "One Punch Man",
+  "edition": "",
+  "total": 35,
+  "upgraded": [],
+  "still_low": [
+   30
+  ],
+  "missing": []
  }
 }
