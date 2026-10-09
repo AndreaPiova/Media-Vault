@@ -24,6 +24,7 @@ def parse_vol(t):
     return int(m.group(1)) if m else None
 def ok(cand_title,it,n):
     t=norm(re.sub(r'\bn\.?\s*\d+.*$','',cand_title,flags=re.I)); t=re.sub(r'\s+\d+$','',t)
+    t=re.sub(r'^greatest \d+ ','',t)
     ct=t.split(); st=[w for w in norm(it['title']).split() if w not in ART]
     while ct and ct[0] in ART: ct=ct[1:]
     if ct[:len(st)]!=st: return False
@@ -40,17 +41,19 @@ def star(it,n):
     q=f"{it['title']} {it['ed']} {n}".strip()
     r=get('https://www.starcomics.com/ricerca-fumetti?q='+up.quote(q))
     if not r: return None
-    for m in re.finditer(r'<a href="(/fumetto/[^"]+)" title="([^"]+)">\s*<div class="card-img-top">\s*<figure[^>]*>\s*<img src="([^"]+)"',r.text):
-        href,title,img=m.groups()
+    for m in re.finditer(r'<a\s+href="(/fumetto/[^"]+)"\s+title="([^"]+)"[^>]*>(.*?)</a>',r.text,re.S):
+        href,title,inner=m.groups(); im_=re.search(r'<img[^>]+src="([^"]+)"',inner)
+        if not im_: continue
+        img=im_.group(1)
         if ok(html.unescape(title),it,n): return ('star',up.urljoin('https://www.starcomics.com',img),html.unescape(title))
 def jpop(it,n):
-    q=f"{it['title']} {it['ed']} {n}".strip()
-    r=get('https://j-pop.it/search/suggest.json?resources[type]=product&resources[limit]=10&q='+up.quote(q))
-    if not r: return None
-    try: ps=r.json()['resources']['results']['products']
-    except Exception: return None
-    for p in ps:
-        if ok(p['title'],it,n) and p.get('image'): return ('jpop',re.sub(r'(\?.*)?$','',p['image'])+'',p['title'])
+    for q in (f"{it['title']} {it['ed']} {n}".strip(),f"{it['title']} {it['ed']}".strip()):
+        r=get('https://j-pop.it/search/suggest.json?resources[type]=product&resources[limit]=10&q='+up.quote(q))
+        if not r: continue
+        try: ps=r.json()['resources']['results']['products']
+        except Exception: continue
+        for p in ps:
+            if ok(p['title'],it,n) and p.get('image'): return ('jpop',re.sub(r'(\?.*)?$','',p['image'])+'',p['title'])
 def fetch(u):
     r=get(u)
     if not r: return None
