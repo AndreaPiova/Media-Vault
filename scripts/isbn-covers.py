@@ -38,8 +38,7 @@ def names_ok(cand,series,ed,n,vols):
             if any(not (rest&SYN.get(w,{w})) for w in et): continue
             allowed=set()
             for w in et: allowed|=SYN.get(w,{w})
-            if (rest-allowed)&BLOCK: continue
-            if not et and rest&{'new','nuova','deluxe','master','ultimate','black','double','edition'}: continue
+            if rest-allowed-{'edizione','italiana'}: continue
             return True
     return False
 def search_ean(series,ed,n,vols):
