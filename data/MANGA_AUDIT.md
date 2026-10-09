@@ -1,6 +1,6 @@
 # Audit copertine manga
 
-Volumi totali: 1377 · mancanti: 39 · bassa qualità (<400px): 139
+Volumi totali: 1377 · mancanti: 39 · bassa qualità (<400px): 127
 
 | Manga | Edizione | Vol. | Mancanti | Bassa qualità |
 |---|---|---|---|---|
@@ -13,10 +13,8 @@ Volumi totali: 1377 · mancanti: 39 · bassa qualità (<400px): 139
 | Dededemon Dededestruction |  | 10 |  | 4-10 |
 | Fullmetal Alchemist | Ultimate deluxe | 18 |  | 17 |
 | Gantz | New edition | 37 |  | 1-37 |
-| Hanako-kun |  | 25 |  | 1 |
 | I Am Hero |  | 22 |  | 2, 6, 17 |
 | Imawa no Kuni no Alice |  | 18 | 1-18 |  |
-| Kingdom |  | 74 |  | 67 |
 | Monster | Deluxe edition | 9 |  | 1 |
 | MPD Psycho |  | 24 | 12-24 |  |
 | Mushishi |  | 10 |  | 1-4, 6-9 |
@@ -28,7 +26,6 @@ Volumi totali: 1377 · mancanti: 39 · bassa qualità (<400px): 139
 | Real |  | 16 |  | 3, 5-16 |
 | Spice & Wolf | Double edition | 8 |  | 1 |
 | Spy x Family |  | 16 |  | 5-6 |
-| Sun-Ken Rock |  | 25 |  | 1-5, 7-9, 16-17 |
 | Tegamibachi |  | 20 |  | 1-20 |
 | The Killer Inside |  | 11 |  | 1-11 |
 | Vinland Saga |  | 29 |  | 3-5, 7-12 |
