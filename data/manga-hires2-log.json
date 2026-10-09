@@ -385,5 +385,72 @@
    17
   ],
   "missing": []
+ },
+ "m54": {
+  "title": "Tegamibachi",
+  "edition": "",
+  "total": 20,
+  "upgraded": [],
+  "still_low": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20
+  ],
+  "missing": []
+ },
+ "m7": {
+  "title": "The Killer Inside",
+  "edition": "",
+  "total": 11,
+  "upgraded": [],
+  "still_low": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "missing": []
+ },
+ "m22": {
+  "title": "Vinland Saga",
+  "edition": "",
+  "total": 29,
+  "upgraded": [],
+  "still_low": [
+   3,
+   4,
+   5,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "missing": []
  }
 }
