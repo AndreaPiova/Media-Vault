@@ -1,0 +1,12 @@
+{
+ "senza_chiave_scrittura_bloccata": true,
+ "inserimento": true,
+ "lettura": true,
+ "senza_chiave_lettura_vuota": true,
+ "aggiornamento_rev1": true,
+ "conflitto_rilevato": true,
+ "valore_finale": true,
+ "storico_salvato": true,
+ "kv_scrittura": true,
+ "pulizia": true
+}
