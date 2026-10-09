@@ -468,5 +468,75 @@
     "Mushishi. Vol. 9"
    ]
   ]
+ },
+ "m15": {
+  "title": "One Piece",
+  "edition": "New edition",
+  "done": [
+   [
+    1,
+    "amazon",
+    "9788864201870",
+    "One piece. New edition. Vol. 1",
+    626
+   ],
+   [
+    2,
+    "amazon",
+    "9788864201887",
+    "One piece. New edition. Vol. 2",
+    621
+   ],
+   [
+    3,
+    "amazon",
+    "9788864201894",
+    "One piece. New edition. Vol. 3",
+    636
+   ],
+   [
+    4,
+    "amazon",
+    "9788864201900",
+    "One piece. New edition. Vol. 4",
+    626
+   ],
+   [
+    5,
+    "amazon",
+    "9788864201917",
+    "One piece. New edition. Vol. 5",
+    614
+   ],
+   [
+    6,
+    "amazon",
+    "9788864201924",
+    "One piece. New edition. Vol. 6",
+    629
+   ],
+   [
+    7,
+    "amazon",
+    "9788864201931",
+    "One piece. New edition. Vol. 7",
+    630
+   ],
+   [
+    18,
+    "amazon",
+    "9788864202044",
+    "One piece. New edition. Vol. 18",
+    619
+   ],
+   [
+    27,
+    "amazon",
+    "9788864202136",
+    "One piece. New edition. Vol. 27",
+    627
+   ]
+  ],
+  "notfound": []
  }
 }
