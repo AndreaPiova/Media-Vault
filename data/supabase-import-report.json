@@ -1,0 +1,43 @@
+{
+ "categorie": {
+  "films": {
+   "nel_cloud": 403,
+   "importati": 395,
+   "schede_scheletro_scartate": 8
+  },
+  "series": {
+   "nel_cloud": 117,
+   "importati": 115,
+   "schede_scheletro_scartate": 2
+  },
+  "anime": {
+   "nel_cloud": 173,
+   "importati": 173,
+   "schede_scheletro_scartate": 0
+  },
+  "manga": {
+   "nel_cloud": 99,
+   "importati": 98,
+   "schede_scheletro_scartate": 1
+  },
+  "manga_variant": {
+   "nel_cloud": 189,
+   "importati": 148,
+   "schede_scheletro_scartate": 41
+  },
+  "libri": {
+   "nel_cloud": 9,
+   "importati": 9,
+   "schede_scheletro_scartate": 0
+  },
+  "film_infanzia": {
+   "nel_cloud": 0,
+   "importati": 0,
+   "schede_scheletro_scartate": 0
+  }
+ },
+ "eliminati_registrati": 57,
+ "righe_totali": 994,
+ "righe_nel_database": "0-0/994",
+ "ts_cloud": 1780465287530
+}
