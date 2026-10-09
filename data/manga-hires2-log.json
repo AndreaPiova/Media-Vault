@@ -102,5 +102,41 @@
    4
   ],
   "missing": []
+ },
+ "m35": {
+  "title": "Death Note",
+  "edition": "Black edition",
+  "total": 6,
+  "upgraded": [],
+  "still_low": [
+   4
+  ],
+  "missing": []
+ },
+ "m57": {
+  "title": "Dededemon Dededestruction",
+  "edition": "",
+  "total": 10,
+  "upgraded": [],
+  "still_low": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "missing": []
+ },
+ "m36": {
+  "title": "Fullmetal Alchemist",
+  "edition": "Ultimate deluxe",
+  "total": 18,
+  "upgraded": [],
+  "still_low": [
+   17
+  ],
+  "missing": []
  }
 }
