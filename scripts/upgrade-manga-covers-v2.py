@@ -16,6 +16,9 @@ EXCL = {'new', 'nuova', 'nuovo', 'ediz', 'edition', 'deluxe', 'ultimate', 'maste
         'limited', 'collection', 'color', 'special', 'omnibus', 'anime', 'comics', 'kanzenban', 'artbook', 'collector', 'bundle', 'pack', 'double', 'final', 'complete', 'panzer'}
 SYN = {'new': {'new', 'nuova', 'nuovo'}, 'complete': {'complete', 'completa'}, 'final': {'final', 'finale'}}
 PH_REF = None
+BLOCK = {'account', 'romanzo', 'novel', 'light', 'fanbook', 'guide', 'artbook', 'musume'}
+ART = {'the', 'a', 'il', 'lo', 'la', 'l', 'un', 'una'}
+SUFFIX_OK = {'Orfani'}
 
 def toks(s): return u.norm(s).split()
 def edtoks(ed): return [w for w in toks(ed) if w not in ('edition', 'ediz')]
@@ -38,7 +41,9 @@ def choose(results, aliases, ed, n, total):
         if total == 1 and v not in (None, 1): continue
         for a in aliases:
             S = toks(a)
-            if not contains(t, S): continue
+            ts = t[1:] if t and t[0] in ART else t
+            if set(t) & BLOCK: continue
+            if not (ts[:len(S)] == S or (a in SUFFIX_OK and contains(t, S))): continue
             extra = [w for w in t if w not in S]
             if E:
                 if not all(SYN.get(e, {e}) & set(extra) for e in E): continue
@@ -55,11 +60,10 @@ def fp(im): return list(im.convert('L').resize((24, 32)).getdata())
 def is_ph(im):
     global PH_REF
     if PH_REF is None:
-        r = u.get('https://www.lafeltrinelli.it/images/9788864200873_0_0_536_0_75.jpg', tries=1)
-        try: PH_REF = fp(Image.open(io.BytesIO(r.content)))
+        try: PH_REF = fp(Image.open('scripts/placeholder-ref.jpg'))
         except Exception: PH_REF = []
     if not PH_REF: return False
-    f = fp(im); return sum(abs(a - b) for a, b in zip(PH_REF, f)) / len(f) < 6
+    f = fp(im); return sum(abs(a - b) for a, b in zip(PH_REF, f)) / len(f) < 8
 
 def get_img(ean):
     for url in [f'https://www.lafeltrinelli.it/images/{ean}_0_0_536_0_75.jpg', f'https://img.ibs.it/images/{ean}_0_0_536_0_75.jpg',
