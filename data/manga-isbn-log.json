@@ -865,5 +865,64 @@
     null
    ]
   ]
+ },
+ "m22": {
+  "title": "Vinland Saga",
+  "edition": "",
+  "done": [
+   [
+    5,
+    "amazon",
+    "9788864200873",
+    "Vinland Saga. Vol. 5",
+    640
+   ],
+   [
+    9,
+    "amazon-old",
+    "9788864201481",
+    "Vinland Saga. Vol. 9",
+    500
+   ],
+   [
+    12,
+    "amazon",
+    "9788864205120",
+    "Vinland Saga. Vol. 12",
+    640
+   ]
+  ],
+  "notfound": [
+   [
+    3,
+    "9788864200750",
+    "Vinland Saga. Vol. 3"
+   ],
+   [
+    4,
+    "9788864200859",
+    "Vinland Saga. Vol. 4"
+   ],
+   [
+    7,
+    "9788864201177",
+    "Vinland Saga. Vol. 7"
+   ],
+   [
+    8,
+    "9788864201337",
+    "Vinland Saga. Vol. 8"
+   ],
+   [
+    10,
+    "9788864201757",
+    "Vinland Saga. Vol. 10"
+   ],
+   [
+    11,
+    "9788864203676",
+    "Vinland Saga. Vol. 11"
+   ]
+  ]
  }
 }
