@@ -94,7 +94,7 @@ def main():
             fn=f'{OUT}/{base}_vol{n}.jpg'; old=Image.open(fn).width if os.path.exists(fn) else 0
             e,nm=search_ean(series,it['edition'],n,it['vols'])
             top=best(e) if e else None
-            if top and top[0].width>max(old,399):
+            if top and top[0].width>=300 and top[0].width>old*1.3:
                 im,src=top; im.thumbnail((640,960)); im.save(fn,'JPEG',quality=88); tot+=1
                 rec['done'].append([n,src,e,nm,im.width])
             else: rec['notfound'].append([n,e,nm])
