@@ -183,5 +183,15 @@
     "Shaman King. Final edition. Vol. 35"
    ]
   ]
+ },
+ "m4": {
+  "title": "20th Century Boys",
+  "edition": "Deluxe edition",
+  "expected": 12,
+  "found": [],
+  "missing": [
+   12
+  ],
+  "used": null
  }
 }
