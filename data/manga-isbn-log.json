@@ -663,5 +663,17 @@
     null
    ]
   ]
+ },
+ "m64": {
+  "title": "Spice & Wolf",
+  "edition": "Double edition",
+  "done": [],
+  "notfound": [
+   [
+    1,
+    null,
+    null
+   ]
+  ]
  }
 }
