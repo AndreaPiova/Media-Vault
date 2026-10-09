@@ -1,0 +1,13 @@
+{
+ "righe_da_importare": 1076,
+ "svuotamento": 204,
+ "attive": "0-0/1076",
+ "eliminate": "0-0/57",
+ "per_categoria": {
+  "anime": 174,
+  "manga_variant": 132,
+  "films": 469,
+  "series": 126,
+  "manga": 99
+ }
+}
