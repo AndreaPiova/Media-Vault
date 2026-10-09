@@ -34,5 +34,50 @@
   ],
   "still_low": [],
   "missing": []
+ },
+ "m26": {
+  "title": "Berserk",
+  "edition": "Deluxe edition",
+  "total": 14,
+  "upgraded": [],
+  "still_low": [
+   1
+  ],
+  "missing": []
+ },
+ "m5": {
+  "title": "Blame",
+  "edition": "Master edition",
+  "total": 6,
+  "upgraded": [],
+  "still_low": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "missing": []
+ },
+ "m32": {
+  "title": "Bleach",
+  "edition": "",
+  "total": 74,
+  "upgraded": [
+   [
+    7,
+    "The Bleach. Vol. 7"
+   ]
+  ],
+  "still_low": [
+   1,
+   6,
+   8,
+   33,
+   34,
+   35,
+   36
+  ],
+  "missing": []
  }
 }
