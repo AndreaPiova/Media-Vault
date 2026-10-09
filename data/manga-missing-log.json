@@ -359,5 +359,70 @@
    16
   ],
   "used": null
+ },
+ "m42": {
+  "title": "Imawa no Kuni no Alice",
+  "edition": "",
+  "expected": 18,
+  "found": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "missing": [
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18
+  ],
+  "used": [
+   [
+    1,
+    "Alice in Borderland. Vol. 1"
+   ],
+   [
+    2,
+    "Alice in borderland. Vol. 2"
+   ],
+   [
+    3,
+    "Alice in borderland. Vol. 3"
+   ],
+   [
+    4,
+    "Alice in borderland. Vol. 4"
+   ],
+   [
+    5,
+    "Alice in borderland. Vol. 5"
+   ],
+   [
+    6,
+    "Alice in borderland. Vol. 6"
+   ],
+   [
+    7,
+    "Alice in borderland. Vol. 7"
+   ],
+   [
+    8,
+    "Alice in borderland. Vol. 8"
+   ],
+   [
+    9,
+    "Alice in borderland. Vol. 9"
+   ]
+  ]
  }
 }
