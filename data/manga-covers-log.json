@@ -161,5 +161,37 @@
   "ok": 16,
   "missing_vols": [],
   "not_found": []
+ },
+ "m53": {
+  "title": "Sun-Ken Rock",
+  "edition": "",
+  "expected": 25,
+  "groups": {
+   "Sun Ken Rock": 25,
+   "Sun Ken Rock - 10th Anniversary Celebration Variant": 1
+  },
+  "chosen": "Sun Ken Rock",
+  "ok": 25,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m22": {
+  "title": "Vinland Saga",
+  "edition": "",
+  "expected": 29,
+  "groups": {
+   "Vinland Saga": 29,
+   "Vinland Saga Variant MangaYo!": 1,
+   "Vinland Saga Tribute Variant": 1,
+   "Vinland Saga Celebration Edition": 1
+  },
+  "chosen": "Vinland Saga",
+  "ok": 28,
+  "missing_vols": [
+   5
+  ],
+  "not_found": [
+   5
+  ]
  }
 }
