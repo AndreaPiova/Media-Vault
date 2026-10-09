@@ -80,5 +80,86 @@
    26
   ],
   "not_found": []
+ },
+ "m41": {
+  "title": "I Am Hero",
+  "edition": "",
+  "expected": 22,
+  "groups": {
+   "I am a hero": 22,
+   "I am a hero Variant": 1,
+   "I am a Hero - Nuova edizione": 22,
+   "I am a Hero - Nuova edizione Variant MangaYo!": 1
+  },
+  "fallback": true,
+  "chosen": "I am a hero",
+  "ok": 22,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m14": {
+  "title": "Monster",
+  "edition": "Deluxe edition",
+  "expected": 9,
+  "groups": {
+   "Monster": 18,
+   "Monster Deluxe": 9
+  },
+  "chosen": "Monster Deluxe",
+  "ok": 9,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m48": {
+  "title": "Mushishi",
+  "edition": "",
+  "expected": 10,
+  "groups": {
+   "Mushishi": 10
+  },
+  "chosen": "Mushishi",
+  "ok": 10,
+  "missing_vols": [],
+  "not_found": []
+ },
+ "m15": {
+  "title": "One Piece",
+  "edition": "New edition",
+  "expected": 109,
+  "groups": {
+   "One Piece": 114,
+   "One Piece - Ristampa corretta": 1,
+   "One Piece Celebration Edition": 3,
+   "One Piece Variant": 1,
+   "One Piece Limited Edition": 1,
+   "One Piece New Edition": 112,
+   "One Piece (Gazzetta dello Sport)": 110,
+   "Io sono One Piece": 3,
+   "One Piece Color Walk": 2,
+   "One Piece Quiz Book": 2,
+   "One Piece Gold: Il Film - Anime Comics": 2,
+   "One Piece Strong World: Il Film - Avventura sulle isole volanti - Anime Comics": 2,
+   "One Piece Il Film: Stampede - Anime Comics": 2,
+   "One Piece Z: Il Film - Anime Comics": 2,
+   "One Piece Film: Red - Anime Comics": 2
+  },
+  "chosen": "One Piece New Edition",
+  "ok": 111,
+  "missing_vols": [
+   112
+  ],
+  "not_found": []
+ },
+ "m49": {
+  "title": "Real",
+  "edition": "",
+  "expected": 16,
+  "groups": {
+   "Real": 16
+  },
+  "chosen": "Real",
+  "ok": 16,
+  "missing_vols": [],
+  "not_found": []
  }
 }
