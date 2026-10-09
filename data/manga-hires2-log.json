@@ -398,5 +398,70 @@
    16
   ],
   "missing": []
+ },
+ "m64": {
+  "title": "Spice & Wolf",
+  "edition": "Double edition",
+  "total": 8,
+  "upgraded": [],
+  "still_low": [
+   1
+  ],
+  "missing": []
+ },
+ "m52": {
+  "title": "Spy x Family",
+  "edition": "",
+  "total": 16,
+  "upgraded": [],
+  "still_low": [
+   5,
+   6
+  ],
+  "missing": []
+ },
+ "m53": {
+  "title": "Sun-Ken Rock",
+  "edition": "",
+  "total": 25,
+  "upgraded": [
+   [
+    1,
+    "Sun Ken Rock. Vol. 1"
+   ],
+   [
+    2,
+    "Sun Ken Rock. Vol. 2"
+   ],
+   [
+    3,
+    "Sun Ken Rock. Vol. 3"
+   ],
+   [
+    4,
+    "Sun Ken Rock. Vol. 4"
+   ],
+   [
+    5,
+    "Sun Ken Rock. Vol. 5"
+   ],
+   [
+    7,
+    "Sun Ken Rock. Vol. 7"
+   ],
+   [
+    16,
+    "Sun Ken Rock. Vol. 16"
+   ],
+   [
+    17,
+    "Sun Ken Rock. Vol. 17"
+   ]
+  ],
+  "still_low": [
+   8,
+   9
+  ],
+  "missing": []
  }
 }
