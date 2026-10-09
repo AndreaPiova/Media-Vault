@@ -1,0 +1,787 @@
+<!DOCTYPE html>
+<html lang="it"  class="h-100">
+	<head>
+		<meta charset="utf-8"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<title>Star Comics | Ricerca fumetti</title>
+		<meta name="copyright" content="Starcomics"/>
+		<meta name="format-detection" content="telephone=no"/>
+				<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-icon-180x180.png" />
+<link rel="icon" type="image/png" sizes="192x192"  href="/img/favicon/android-icon-192x192.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="/img/favicon/favicon-96x96.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png" />
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="msapplication-TileImage" content="/img/favicon/ms-icon-144x144.png" />
+<meta name="theme-color" content="#0195db" />
+		<link rel="stylesheet" type="text/css" href="/css/font-awesome/all.min.css?v=2.1.7"/>
+		<link
+		rel="stylesheet" type="text/css" href="/css/app.min.css?v=2.1.7"/>
+		<!--[if lt IE 9]>
+		            <script src="/js/libs/html5shiv/html5shiv.min.js?v=2.1.7"></script>
+		            <script src="/js/libs/respond/respond.min.js?v=2.1.7"></script>
+		        <![endif]-->
+					<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="f89bdd0e-da9e-4882-9358-dce9cade2c5b" data-blockingmode="auto" type="text/javascript"></script>
+							<link rel="stylesheet" type="text/css" href="/css/libs/typeaheadjs/typeahead.min.css?v=2.1.7" />
+<link rel="stylesheet" type="text/css" href="/css/libs/bootstrap4-select/bootstrap-select.min.css?v=2.1.7" />
+<link rel="stylesheet" type="text/css" href="/css/libs/daterangepicker/daterangepicker.min.css?v=2.1.7" />
+<link rel="stylesheet" type="text/css" href="/css/libs/nouislider/nouislider.min.css?v=2.1.7" />
+								<!-- Meta Pixel Code -->
+
+		<script>
+			!function (f, b, e, v, n, t, s) {
+            if (f.fbq) 
+            return;
+
+            n = f.fbq = function () {
+            n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+
+            if (! f._fbq) 
+            f._fbq = n;
+
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+
+            s.parentNode.insertBefore(t, s)
+            }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+            fbq('init', '730595134453239');
+
+            fbq('track', 'PageView');
+		</script>
+
+		<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=730595134453239&ev=PageView&noscript=1"/></noscript>
+
+		<!-- End Meta Pixel Code -->
+	</head>
+	<body class="d-flex flex-column h-100 px-0">
+				<div id="modal-natalizio" class="modal fade px-0" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-xl" role="document">
+        <div class="modal-content bg-transparent border-0">
+            <div class="modal-header border-0">
+                <button type="button" class="close text-white opacity-1" data-dismiss="modal" aria-label="Chiudi">
+                    <span aria-hidden="true">&times;</span>
+                    <span>
+                        <small>Chiudi</small>
+                    </span>
+                </button>
+            </div>
+            <div class="modal-body p-0 text-center">
+                <img src="/img/informativa-disponibilita.jpg" style="max-height: 650px;" title="Informazione Di Servizio Dicembre 2025" alt="Informazione Di Servizio Dicembre 2025" class="img-fluid" />
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    /* @media (max-width: 768px) {
+        .popup_natalizio {
+            width: 100%;
+        }
+    }
+    @media (min-width: 769px) {
+        .popup_natalizio {
+            width: 60%;
+        }
+    } */
+</style>						<header>
+    <div class="bg-gray-200">
+        <div class="container p-0">
+            <ul class="nav justify-content-end">
+                            <li class="nav-item d-none d-sm-block">
+                    <span class="nav-link">Benvenuto <strong>Ospite</strong></span>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark" href="/accedi">Accedi</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark" href="/registrazione">Registrati</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark" href="/iscrizione-newsletter" title="Iscriviti alla newsletter">Newsletter</a>
+                </li>
+                        </ul>
+        </div>
+    </div>
+    <nav class="navbar navbar-expand navbar-light">
+        <div class="container">
+            <a class="navbar-brand" href="/" title="Home">
+                <img src="/img/logo_starcomics_2021.png" alt="Star Comics" title="Star Comics" class="img-fluid" />
+            </a>
+            
+            <ul class="navbar-nav ml-auto d-lg-none">
+                <li class="nav-item d-block">
+                    <button type="button" class="btn btn-link border-0 nav-link" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div id="sub-menu" class="navbar navbar-expand-lg navbar-light bg-primary navbar-mini p-0">
+        <div class="collapse navbar-collapse p-2" id="navbarSupportedContent">
+            <div class="container">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item ">
+                        <a class="nav-link text-white" href="/news" title="News">NEWS</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link text-white" href="/uscite" title="Ultime uscite">ULTIME USCITE</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link text-white" href="/shop-fumetti-online" title="Shop">SHOP</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link text-white" href="/catalogo-fumetti" title="Catalogo">CATALOGO</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link text-white" href="/sfoglia-online" title="Sfoglia online">SFOGLIA ONLINE</a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link text-white" href="/digistar" title="DIGISTAR">DIGISTAR</a>
+                    </li>
+                    <li class="nav-item ml-auto"></li>
+                		
+<li class="nav-item">
+        <a 
+    	href="/?filter=1&r=%2Fricerca-fumetti%3Fq%3Dgantz" 
+    	class="nav-link text-white text-lg-center ilove " 
+    	rel="noindex nofollow">
+        <span>#ILOVEMANGA</span>
+        <span>#STAR</span>
+    </a>
+</li>
+<li class="nav-item">
+        <a  
+    	href="/?filter=2&r=%2Fricerca-fumetti%3Fq%3Dgantz" 
+    	class="nav-link text-white text-lg-center ilove " 
+    	rel="noindex nofollow">
+        <span>#ILOVECOMICS</span>
+        <span>#ASTRA</span>
+    </a>
+</li>
+                    <li class="nav-item">
+                        <button type="button" class="btn btn-link border-0 nav-link text-white" data-toggle="modal" data-target="#search-modal" title="Cerca">
+                            <i class="fa fa-search"></i> <span class="d-lg-none">CERCA</span>
+                        </button>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</header>
+		<main role="main" class="flex-shrink-0">
+			<div class="container pt-4">
+    <div class="row mb-4">
+        <div class="col-12 col-lg-8">
+                		<h1>Ricerca avanzata fumetti</h1>
+            <p>Ricerca tutti i fumetti Starcomics per titolo, categoria, sottocategoria, autore oppure testata.</p>
+                	</div>
+    	<div class="col-12 col-lg-4 d-flex justify-content-between justify-content-lg-end align-items-lg-center">
+    	        		<button type="button" class="btn btn-primary d-lg-none" title="Filtra ricerca" data-toggle="collapse" data-target="#filtri" aria-expanded="false" aria-controls="filtri">
+    			<i class="fa fa-filter"></i> Filtra ricerca
+    		</button>
+    	</div>
+	</div>
+    <div class="row">
+        <div class="col-12 col-lg-4 col-xl-3 mb-3 mb-xl-0">
+        	<div class="collapse d-lg-block" id="filtri">
+                            <div>
+		<div class="chip chip-lg chip-primary pr-1">
+		<span class="chip-label">Fumetto: "gantz"</span>
+		<a href="/ricerca-fumetti?pagina=1" class="btn px-2" title="Rimuovi filtro">
+        	<i class="icon fa fa-times"></i>
+        	<span class="sr-only">Rimuovi filtro</span>
+      	</a>
+    </div>
+		<div class="chip chip-lg chip-primary pr-1">
+		<span class="chip-label">Solo fumetti pubblicati: No</span>
+		<a href="/ricerca-fumetti?q=gantz&pagina=1" class="btn px-2" title="Rimuovi filtro">
+        	<i class="icon fa fa-times"></i>
+        	<span class="sr-only">Rimuovi filtro</span>
+      	</a>
+    </div>
+	</div>            			<form action="/ricerca-fumetti" id="form-ricerca-fumetti" method="GET">    		        				<div class='form-group'>
+                        <label for="titolo">Titolo</label>                        <select id="titolo" name="titolo" class="form-control selectpicker" data-live-search="1" data-size="5">
+	<option value="">- - -</option>
+	<option value="1200">#JUSTKILLING</option>
+	<option value="1168">018 LOVE EIGHTEEN</option>
+	<option value="149">1 OR W</option>
+	<option value="256">1 SEGRETO X 2</option>
+	<option value="1067">1984</option>
+	<option value="626">1F: DIARIO FUKUSHIMA</option>
+	<option value="544">24 UNDERGROUND</option>
+	<option value="1180">300</option>
+	<option value="480">360° MATERIAL</option>
+	<option value="1266">3650 GIORNI SENZA TE</option>
+	<option value="170">3X3 OCCHI</option>
+	<option value="715">4001 A.D.</option>
+	<option value="716">4001 A.D. - OLTRE IL NUOVO GIAPPONE</option>
+	<option value="588">5 CM AL SECONDO</option>
+	<option value="889">&lt;HARMONY/&gt;</option>
+	<option value="906">A CENA CON LA STREGA</option>
+	<option value="455">A CERTAIN MAGICAL INDEX</option>
+	<option value="1114">A COUPLE OF CUCKOOS</option>
+	<option value="1057">A SIGN OF AFFECTION</option>
+	<option value="578">A SILENT VOICE</option>
+	<option value="895">A SILENT VOICE OFFICIAL FANBOOK</option>
+	<option value="707">A SILENT VOICE – COMPLETE BOX</option>
+	<option value="995">A SILENT VOICE – ULTIMATE BOX</option>
+	<option value="1108">A TE CHE CONOSCI L&#039;AZZURRO DEL CIELO – HER BLUE SKY ROMANZO</option>
+	<option value="1024">A TE CHE CONOSCI L’AZZURRO DEL CIELO – HER BLUE SKY</option>
+	<option value="1206">A WHITE ROSE IN BLOOM</option>
+	<option value="799">A+A LE AVVENTURE DI ARCHER E ARMSTRONG</option>
+	<option value="317">A1 BIG IUSSUE</option>
+	<option value="546">AD ASTRA</option>
+	<option value="238">ADORABILE BRUTTINA</option>
+	<option value="1001">ADOU</option>
+	<option value="1245">AFTERLIFT</option>
+	<option value="258">AFTERSCHOOL NIGHTMARE</option>
+	<option value="217">AGENZIA INCANTESIMI</option>
+	<option value="69">AGHARTA</option>
+	<option value="440">AI-ORE!</option>
+	<option value="577">AJIN - DEMI HUMAN</option>
+	<option value="461">AKIRA TORIYAMA MENU A&#039; LA CARTE</option>
+	<option value="231">AKIRA TORIYAMA THE WORLD SPECIAL</option>
+	<option value="307">AKIRA TORIYAMA: SCUOLA DI MANGA</option>
+	<option value="272">ALBERT</option>
+	<option value="287">ALIVE</option>
+	<option value="1041">ALL ABOUT OCEAN BLUE</option>
+	<option value="232">ALPEN ROSE</option>
+	<option value="204">ALTRIMONDI 2006</option>
+	<option value="150">AMERICA</option>
+	<option value="922">AN INVITATION FROM A CRAB</option>
+	<option value="166">ANATOLIA STORY</option>
+	<option value="220">ANGELIC LAYER</option>
+	<option value="983">ANIMALS</option>
+	<option value="453">ANOTHER</option>
+	<option value="1017">ANOTHER COLLECTOR BOX</option>
+	<option value="1004">ANOTHER NEW EDITION</option>
+	<option value="275">AQUA</option>
+	<option value="630">ARCHER &amp; ARMSTRONG</option>
+	<option value="194">ARIA</option>
+	<option value="1165">ARIA THE MASTERPIECE</option>
+	<option value="870">ARIADNE IN THE BLUE SKY</option>
+	<option value="1096">ARIADNE IN THE BLUE SKY STARTER PACK</option>
+	<option value="634">ARMOR HUNTERS</option>
+	<option value="638">ARMOR HUNTERS: BLOODSHOT</option>
+	<option value="639">ARMOR HUNTERS: HARBINGER</option>
+	<option value="469">ARRIVARE A TE</option>
+	<option value="903">ARRIVARE A TE – LA PERSONA DEL DESTINO</option>
+	<option value="538">ARUITO - MOVING FORWARD</option>
+	<option value="545">AS THE GODS WILL</option>
+	<option value="568">AS THE GODS WILL 2</option>
+	<option value="1087">ASSASSIN&#039;S CREED VALHALLA</option>
+	<option value="862">ASTRA LOST IN SPACE</option>
+	<option value="1285">ASTRO ROYALE</option>
+	<option value="1289">ASYL</option>
+	<option value="113">ATTACKER YOU!</option>
+	<option value="1182">AULA ALLA DERIVA</option>
+	<option value="1221">AWARÈ</option>
+	<option value="1298">AYAKA IS IN LOVE WITH HIROKO!</option>
+	<option value="1101">AYAKASHI TRIANGLE</option>
+	<option value="1328">AYASHI NO CERES</option>
+	<option value="184">B.O.D.Y.</option>
+	<option value="779">BABAU</option>
+	<option value="1084">BABAU OMNIBUS</option>
+	<option value="463">BABIL 2 - THE RETURNER</option>
+	<option value="56">BACI RUBATI</option>
+	<option value="973">BACTERIA</option>
+	<option value="845">BAKEMONOGATARI - MONSTER TALE</option>
+	<option value="855">BAOH</option>
+	<option value="86">BAOH OLD</option>
+	<option value="910">BAPTISM</option>
+	<option value="1224">BARNSTORMERS: A BALLAD OF LOVE AND MURDER</option>
+	<option value="892">BARRAGE</option>
+	<option value="1242">BEAT &amp; MOTION</option>
+	<option value="432">BEELZEBUB</option>
+	<option value="1079">BEER REVOLUTION</option>
+	<option value="1321">BELLADONNA’S LOVER</option>
+	<option value="116">BENKEI IN NEW YORK</option>
+	<option value="277">BESTIA - RYUGETSUSHO</option>
+	<option value="1301">BEYBLADE X</option>
+	<option value="589">BIG ORDER</option>
+	<option value="94">BIRDY THE MIGHTY</option>
+	<option value="382">BLACK BIRD</option>
+	<option value="171">BLACK CAT</option>
+	<option value="793">BLACK PARADOX</option>
+	<option value="969">BLACKING OUT</option>
+	<option value="1234">BLASFAMOUS</option>
+	<option value="532">BLAST OF TEMPEST</option>
+	<option value="629">BLOODSHOT</option>
+	<option value="874">BLOODSHOT NUOVA SERIE</option>
+	<option value="670">BLOODSHOT REBORN</option>
+	<option value="869">BLOODSHOT RISING SPIRIT</option>
+	<option value="751">BLOODSHOT SALVATION</option>
+	<option value="867">BLOODSHOT SALVATION COLLECTION</option>
+	<option value="873">BLOODSHOT: LE ORIGINI</option>
+	<option value="388">BLOODY MONDAY</option>
+	<option value="514">BLOODY MONDAY LAST SEASON</option>
+	<option value="471">BLOODY MONDAY SEASON 2 - PANDORA’S BOX</option>
+	<option value="225">BLU HOLE</option>
+	<option value="1113">BLUE BOX</option>
+	<option value="901">BLUE NELLA TERRA DEI SOGNI</option>
+	<option value="931">BLUE SUMMER – BOX</option>
+	<option value="203">BODY BAGS</option>
+	<option value="688">BOOK OF DEATH - IL LIBRO DELLA MORTE</option>
+	<option value="687">BOOK OF DEATH - LA CADUTA DELL&#039;UNIVERSO VALIANT</option>
+	<option value="1238">BOOK OF EVIL</option>
+	<option value="378">BOOKING LIFE</option>
+	<option value="695">BORN TO BE ON AIR!</option>
+	<option value="1055">BOY MEETS MARIA</option>
+	<option value="1064">BOYS RUN THE RIOT</option>
+	<option value="1271">BRAVE BELL</option>
+	<option value="335">BRIT</option>
+	<option value="708">BRITANNIA</option>
+	<option value="675">BUGIE D’APRILE</option>
+	<option value="762">BUGIE D’APRILE CODA</option>
+	<option value="1126">BUNDLE ONE PIECE n. 104  + DETECTIVE CONAN n. 102  + LIBRETTO SPECIALE</option>
+	<option value="1204">BUNDLE RECORD OF RAGNAROK N. 19 + RECORD OF RAGNAROK – LO STRANO CASO DI JACK LO SQUARTATORE N. 1</option>
+	<option value="1029">BUNDLE SWEET PAPRIKA + HOT PAPRIKA + AGENDA</option>
+	<option value="1030">BUNDLE SWEET PAPRIKA + HOT PAPRIKA + TAZZA</option>
+	<option value="1159">BUNDLE THE TUNNEL TO SUMMER, THE EXIT OF GOODBYES (MANGA VOL.4 + ROMANZO)</option>
+	<option value="1217">BUNDLE VERSUS N. 1 + TENKAICHI N. 1</option>
+	<option value="433">BUSTER KEEL!</option>
+	<option value="267">BUTSU ZONE</option>
+	<option value="246">C - THE WILL OF THE CHILD</option>
+	<option value="360">C-BLOSSOM</option>
+	<option value="168">CACTUS</option>
+	<option value="1322">CALENDARIO ONE PIECE 2027</option>
+	<option value="1252">CANARY</option>
+	<option value="329">CANNON HAWKE</option>
+	<option value="351">CAPITAN TSUBASA - TARO MISAKI STORY</option>
+	<option value="281">CAPITAN TSUBASA - WORLD YOUTH</option>
+	<option value="880">CAPITAN TSUBASA COLLECTION</option>
+	<option value="528">CAPITAN TSUBASA NEW EDITION</option>
+	<option value="818">CARD CAPTOR SAKURA CLEAR CARD</option>
+	<option value="437">CARD CAPTOR SAKURA PERFECT EDITION</option>
+	<option value="994">CARDCAPTOR SAKURA COLLECTOR’S EDITION</option>
+	<option value="127">CARO FRATELLO</option>
+	<option value="741">CELLS AT WORK! - LAVORI IN CORPO</option>
+	<option value="241">CESARE</option>
+	<option value="523">CHEF RUBIO: FOOD FIGHTER</option>
+	<option value="193">CHEVALIER</option>
+	<option value="189">CHIHO SAITO PRESENTA</option>
+	<option value="704">CHILDREN OF THE WHALES</option>
+	<option value="290">CHOBITS</option>
+	<option value="1227">CHOKING ON LOVE</option>
+	<option value="612">CHOPPERMAN</option>
+	<option value="565">CHOPPERMAN ALLA RISCOSSA</option>
+	<option value="105">CLAMP ART-BOOK SOUTH SIDE</option>
+	<option value="1326">CLAMP EXHIBITION OFFICIAL ART BOOK - COLOR BLACK</option>
+	<option value="1327">CLAMP EXHIBITION OFFICIAL ART BOOK - COLOR WHITE</option>
+	<option value="172">CLAMP NORTH SIDE</option>
+	<option value="255">CLASSE DI FERRO</option>
+	<option value="1097">CLAYMORE NEW EDITION</option>
+	<option value="1222">CLEAR</option>
+	<option value="55">CLOVER</option>
+	<option value="353">COCONA</option>
+	<option value="802">CODENAME SAILOR V</option>
+	<option value="989">CODENAME SAILOR V ETERNAL EDITION</option>
+	<option value="1303">COLD</option>
+	<option value="334">COLOR PRI + SHIZUME</option>
+	<option value="699">COME DOPO LA PIOGGIA</option>
+	<option value="601">COME UN BALLETTO DI MUSICA ROCK</option>
+	<option value="753">COMIC? ATSUSHI KANEKO EXTRA WORKS</option>
+	<option value="301">COMPILER FINAL</option>
+	<option value="764">CONAN IL CIMMERO</option>
+	<option value="406">CORNELIO MAXI RISTAMPA</option>
+	<option value="410">CORNELIO SPECIALE</option>
+	<option value="555">COSÌ PARLÒ ROHAN KISHIBE</option>
+	<option value="261">COSPLAY ANIMAL</option>
+	<option value="92">COWA</option>
+	<option value="1293">CRATERS THINKS</option>
+	<option value="525">CRAZY FOR YOU</option>
+	<option value="929">CREAMY MAMI – LA PRINCIPESSA CAPRICCIOSA</option>
+	<option value="946">CREAMY MAMI – L’INCANTEVOLE CREAMY NEW EDITION</option>
+	<option value="257">CRIMSON HERO</option>
+	<option value="760">CRUELER THAN DEAD</option>
+	<option value="165">CULDCEPT</option>
+	<option value="1048">CUPID SHOCK BOX</option>
+	<option value="567">D-DAY</option>
+	<option value="530">DARK AIR</option>
+	<option value="243">DARK HAIR CAPTURED</option>
+	<option value="1000">DARLING IN THE FRANXX</option>
+	<option value="1249">DARLING, GIVE ME A BREAK!</option>
+	<option value="389">DARREN SHAN</option>
+	<option value="840">DASH KAPPEI - GIGI LA TROTTOLA</option>
+	<option value="478">DAVVERO</option>
+	<option value="979">DEAD DROP</option>
+	<option value="1277">DEAD ROCK</option>
+	<option value="376">DEATH GOD</option>
+	<option value="604">DEATHCO</option>
+	<option value="1038">DEEP BEYOND</option>
+	<option value="803">DEMON SLAYER - KIMETSU NO YAIBA</option>
+	<option value="1149">DEMON SLAYER - KIMETSU NO YAIBA ANOTHER STORY</option>
+	<option value="1316">DEMON SLAYER - KIMETSU NO YAIBA ILLUSTRATION BOOK: NEL CORSO DEL TEMPO</option>
+	<option value="1127">DEMON SLAYER - KIMETSU NO YAIBA LIBRO DA COLORARE</option>
+	<option value="1315">DEMON SLAYER - KIMETSU NO YAIBA NEW EDITION</option>
+	<option value="1317">DEMON SLAYER - KIMETSU NO YAIBA NEW EDITION - ANNIVERSARY EDITION</option>
+	<option value="1170">DEMON SLAYER - KIMETSU NO YAIBA THE MOVIE: IL TRENO MUGEN - ROMANZO</option>
+	<option value="1188">DEMON SLAYER – CAMPUS KIMETSU!</option>
+	<option value="1018">DEMON SLAYER – KIMETSU NO YAIBA OFFICIAL FANBOOK</option>
+	<option value="1065">DEMON SLAYER – KIMETSU NO YAIBA – I SEGNALI DEL VENTO – ROMANZO</option>
+	<option value="966">DEMON SLAYER – KIMETSU NO YAIBA – IL FIORE DELLA FELICITÀ – ROMANZO</option>
+	<option value="1047">DEMON SLAYER – KIMETSU NO YAIBA – LA FARFALLA CON UN&#039;ALA SOLA – ROMANZO</option>
+	<option value="197">DENSHA OTOKO</option>
+	<option value="120">DETECTIVE CONAN</option>
+	<option value="987">DETECTIVE CONAN NEW EDITION</option>
+	<option value="798">DETECTIVE CONAN SOCCER SELECTION</option>
+	<option value="418">DETECTIVE CONAN SPECIAL CASES</option>
+	<option value="477">DETECTIVE CONAN VS. KAITO KID</option>
+	<option value="690">DETECTIVE CONAN VS. UOMINI IN NERO</option>
+	<option value="1054">DETECTIVE CONAN – WILD POLICE STORY</option>
+	<option value="934">DETECTIVE CONAN – ZERO’S TEA TIME</option>
+	<option value="739">DEVILMAN G - GRIMOIRE</option>
+	<option value="595">DEVILMAN VS HADES</option>
+	<option value="1203">DIABLOMACHIA</option>
+	<option value="1311">DIARIO DI UNA VITA TRANQUILLA</option>
+	<option value="647">DIE WERGELDER</option>
+	<option value="777">DISSOLVING CLASSROOM</option>
+	<option value="645">DIVINITY</option>
+	<option value="694">DIVINITY II</option>
+	<option value="977">DIVINITY III</option>
+	<option value="128">DNA 2</option>
+	<option value="738">DOCTOR MIRAGE</option>
+	<option value="920">DOCTOR MIRAGE OMNIBUS</option>
+	<option value="575">DOCTOR SPEKTOR - MAESTRO DELL&#039;OCCULTO</option>
+	<option value="943">DOCTOR TOMORROW</option>
+	<option value="299">DOLL</option>
+	<option value="945">DOMANI IL PRANZO SEI TU</option>
+	<option value="221">DORAEMON</option>
+	<option value="680">DORAEMON COLOR EDITION</option>
+	<option value="885">DORAEMON: IL FILM - LE AVVENTURE DI NOBITA E DEI CINQUE ESPLORATORI – ANIME COMICS</option>
+	<option value="766">DOTTOR MORGUE</option>
+	<option value="431">DR. MORGUE</option>
+	<option value="470">DR. MORGUE SPECIALE</option>
+	<option value="572">DR. SLUMP PERFECT EDITION</option>
+	<option value="774">DR.STONE</option>
+	<option value="942">DR.STONE REBOOT: BYAKUYA</option>
+	<option value="1232">DRAGON BALL - SUPER ILLUSTRATION BOOK</option>
+	<option value="101">DRAGON BALL BOOK</option>
+	<option value="868">DRAGON BALL COLLECTION</option>
+	<option value="228">DRAGON BALL ENCICLOPEDIA</option>
+	<option value="446">DRAGON BALL EVERGREEN EDITION</option>
+	<option value="371">DRAGON BALL EVOLUTION 1 - LA SCOPERTA</option>
+	<option value="372">DRAGON BALL EVOLUTION 3 - LA BATTAGLIA</option>
+	<option value="733">DRAGON BALL FULL COLOR 1a SERIE - LA SAGA DEL GIOVANE GOKU</option>
+	<option value="759">DRAGON BALL FULL COLOR 2a SERIE - LA SAGA DEL GRAN DEMONE PICCOLO</option>
+	<option value="792">DRAGON BALL FULL COLOR 3a SERIE - LA SAGA DEI SAIYAN</option>
+	<option value="813">DRAGON BALL FULL COLOR 4a SERIE - LA SAGA DI FREEZER</option>
+	<option value="831">DRAGON BALL FULL COLOR 5a SERIE - LA SAGA DEI CYBORG E DI CELL</option>
+	<option value="881">DRAGON BALL FULL COLOR 6a SERIE - LA SAGA DI MAJIN BU</option>
+	<option value="66">DRAGON BALL GT</option>
+	<option value="936">DRAGON BALL GT ANIME COMICS - LA SAGA DEI DRAGHI MALVAGI</option>
+	<option value="99">DRAGON BALL NEW</option>
+	<option value="1283">DRAGON BALL OFFICIAL GUIDE</option>
+	<option value="720">DRAGON BALL QUIZ BOOK</option>
+	<option value="72">DRAGON BALL RISTAMPA</option>
+	<option value="1226">DRAGON BALL SD</option>
+	<option value="805">DRAGON BALL SIDE STORY: VITA DA YAMCHA</option>
+	<option value="684">DRAGON BALL SUPER</option>
+	<option value="1143">DRAGON BALL SUPER - SUPER HERO - ROMANZO</option>
+	<option value="839">DRAGON BALL SUPER: BROLY – ANIME COMICS</option>
+	<option value="879">DRAGON BALL SUPER: BROLY – ROMANZO</option>
+	<option value="1183">DRAGON BALL SUPER: SUPER HERO - ANIME COMICS</option>
+	<option value="1056">DRAGON BALL ULTIMATE EDITION</option>
+	<option value="723">DRAGON BALL X STAR COMICS: CELEBRATION BOOK</option>
+	<option value="64">DRAGON BALL Z</option>
+	<option value="772">DRAGON BALL Z - LA RESURREZIONE DI &quot;F&quot; - ANIME COMICS</option>
+	<option value="118">DRAGON BALL Z RISTAMPA</option>
+	<option value="1021">DRAGON BALL Z THE MOVIE – IL DIABOLICO GUERRIERO DEGLI INFERI – ANIME COMICS</option>
+	<option value="1012">DRAGON BALL Z THE MOVIE – IL SUPER SAIYAN DELLA LEGGENDA – ANIME COMICS</option>
+	<option value="761">DRAGON BALL Z: LA BATTAGLIA DEGLI DEI – ANIME COMICS</option>
+	<option value="73">DRAGON DAI</option>
+	<option value="1010">DRAGON QUEST - THE ADVENTURE OF DAI</option>
+	<option value="787">DRAGON QUEST SAGA - IL RITORNO DELL&#039;EMBLEMA DI ROTO</option>
+	<option value="610">DRAGON QUEST SAGA - L&#039;EMBLEMA DI ROTO PERFECT EDITION</option>
+	<option value="791">DRAGON QUEST SAGA - L’EMBLEMA DI ROTO II - GLI EREDI DELL’EMBLEMA</option>
+	<option value="289">DREAM KISS</option>
+	<option value="556">DREAM POLICE</option>
+	<option value="1150">DREAMS FACTORY</option>
+	<option value="603">DRIFTER</option>
+	<option value="560">DRUG &amp; DROP</option>
+	<option value="1267">DUCK AND COVER</option>
+	<option value="451">DURARARA!!</option>
+	<option value="515">DURARARA!! SAIKA-HEN</option>
+	<option value="548">DUSK MAIDEN OF AMNESIA</option>
+	<option value="362">E&#039;S</option>
+	<option value="342">EASTERN EASTERN</option>
+	<option value="846">ECHOES</option>
+	<option value="814">EDENS ZERO</option>
+	<option value="1178">EDENS ZERO STARTER PACK</option>
+	<option value="123">ELEMENTAL GERAD</option>
+	<option value="263">ELEMENTAL GERAD FLAG OF BLUE SKY</option>
+	<option value="1243">ELETTROSHOCK DAISY</option>
+	<option value="332">EMERALD</option>
+	<option value="1171">ERA DESTINO CHE T’INCONTRASSI</option>
+	<option value="644">ERASED</option>
+	<option value="836">ERNEST &amp; REBECCA</option>
+	<option value="114">ES</option>
+	<option value="775">ETERNITY</option>
+	<option value="698">EX-ARM</option>
+	<option value="864">EXAMEN</option>
+	<option value="145">EXTRA DOMINION CONFLICT ONE</option>
+	<option value="330">EXTRA HEAVY SYRUP</option>
+	<option value="100">F - MOTORI IN PISTA</option>
+	<option value="396">FACTOR-V</option>
+	<option value="804">FAIRY GIRLS</option>
+	<option value="119">FAIRY TAIL</option>
+	<option value="828">FAIRY TAIL 100 YEARS QUEST</option>
+	<option value="887">FAIRY TAIL COLLECTION</option>
+	<option value="615">FAIRY TAIL NEW EDITION</option>
+	<option value="746">FAIRY TAIL S - SHORT STORIES</option>
+	<option value="815">FAIRY TAIL SIDE STORIES</option>
+	<option value="668">FAIRY TAIL ZERO</option>
+	<option value="658">FAITH</option>
+	<option value="826">FAITH: LA ZONA DEL SOGNO</option>
+	<option value="908">FALLEN WORLD</option>
+	<option value="1120">FANGS</option>
+	<option value="498">FANTASIA</option>
+	<option value="1042">FAR CRY</option>
+	<option value="833">FATE FUORI RAMIREZ</option>
+	<option value="346">FATE/STAY NIGHT</option>
+	<option value="981">FATTI ODIARE – KIRAI DE ISASETE</option>
+	<option value="847">FETISH</option>
+	<option value="1095">FINCHÉ MORTE NON CI SEPARI</option>
+	<option value="700">FIRE PUNCH</option>
+	<option value="1019">FIRE PUNCH COMPLETE BOX</option>
+	<option value="173">FIRST GIRL</option>
+	<option value="1157">FISH SOCIETY</option>
+	<option value="303">FLASH</option>
+	<option value="536">FOREVER BITCH</option>
+	<option value="91">FORTIFIED SCHOOL</option>
+	<option value="398">FOSTINE</option>
+	<option value="1040">FOUR KNIGHTS OF THE APOCALYPSE</option>
+	<option value="756">FRAGMENTS OF HORROR</option>
+	<option value="452">FRAME OF &quot;IF&quot;</option>
+	<option value="1297">FRANK MILLER&#039;S PANDORA</option>
+	<option value="632">FREAK ISLAND</option>
+	<option value="188">FREE COLLARS KINGDOM</option>
+	<option value="180">FROG IN A BOTTLE</option>
+	<option value="1107">FROM THE RED FOG</option>
+	<option value="516">FUGURUMA MEMORIES</option>
+	<option value="473">FULL SWING</option>
+	<option value="1122">FUNGUS AND IRON</option>
+	<option value="1276">FUSHIGI YUUGI</option>
+	<option value="1269">FUTARI SWITCH</option>
+	<option value="1164">GACHIAKUTA</option>
+	<option value="421">GAMARAN</option>
+	<option value="133">GAME OVER</option>
+	<option value="654">GATE</option>
+	<option value="488">GE GOOD ENDING</option>
+	<option value="763">GENERATION ZERO</option>
+	<option value="429">GENKAKU PICASSO</option>
+	<option value="740">GENOCIDAL ORGAN</option>
+	<option value="1237">GENSHIN IMPACT ART BOOK</option>
+	<option value="215">GENZO - STORIA D&#039;ORRORE E BURATTINI</option>
+	<option value="129">GEORGIE</option>
+	<option value="160">GET YOU!</option>
+	<option value="1074">GHOST GIRL</option>
+	<option value="296">GHOST IN THE SHELL</option>
+	<option value="445">GHOST IN THE SHELL - STAND ALONE COMPLEX</option>
+	<option value="239">GHOST IN THE SHELL 1.5 - HUMAN ERROR PROCESSER</option>
+	<option value="557">GHOST IN THE SHELL ARISE</option>
+	<option value="843">GHOST IN THE SHELL COMIC TRIBUTE</option>
+	<option value="1134">GIGANTIS</option>
+	<option value="63">GIGI LA TROTTOLA</option>
+	<option value="1190">GINKA &amp; GLÜNA</option>
+	<option value="571">GINTAMA</option>
+	<option value="1314">GLI SHINIGAMI NON UCCIDONO</option>
+	<option value="703">GLORIA VICTIS</option>
+	<option value="185">GO GO HEAVEN</option>
+	<option value="285">GOKU</option>
+	<option value="975">GOLDEN SPARKLE</option>
+	<option value="524">GOMADEN SHUTENDOJI</option>
+	<option value="60">GON</option>
+	<option value="137">GON (A COLORI)</option>
+	<option value="1268">GONE</option>
+	<option value="1133">GOODBYE, ERI</option>
+	<option value="854">GORGEOUS IRENE</option>
+	<option value="76">GORGEOUS IRENE OLD</option>
+	<option value="236">GORGON BLOOD</option>
+	<option value="1286">GUKKEN</option>
+	<option value="59">GUN SMITH CATS</option>
+	<option value="212">GUNDAM - CHAR&#039;S COUNTERATTACK</option>
+	<option value="200">GUNDAM - ECOLE DU CIEL</option>
+	<option value="355">GUNDAM 0080 (LA GUERRA IN TASCA)</option>
+	<option value="605">GUNDAM 0083 - REBELLION</option>
+	<option value="345">GUNDAM 0083: STARDUST MEMORY</option>
+	<option value="271">GUNDAM F91</option>
+	<option value="182">GUNDAM ORIGINI</option>
+	<option value="484">GUNDAM ORIGINI OFFICIAL GUIDEBOOK</option>
+	<option value="531">GUNDAM THUNDERBOLT</option>
+	<option value="320">GUNDAM ZZ</option>
+	<option value="262">GUNDOLLS</option>
+	<option value="163">GURU GURU PON CHAN</option>
+	<option value="1068">GUYABANO HOLIDAY</option>
+	<option value="54">GUYVER</option>
+	<option value="769">GYO - ODORE DI MORTE</option>
+	<option value="68">H2</option>
+	<option value="549">HAIKYU!!</option>
+	<option value="1152">HAIKYU!! CLUB</option>
+	<option value="1059">HAIKYU!! COLLECTION</option>
+	<option value="534">HAPI MARI - HAPPY MARRIAGE?!</option>
+	<option value="162">HAPPY MANIA</option>
+	<option value="624">HARBINGER</option>
+	<option value="767">HARBINGER RENEGADE</option>
+	<option value="691">HARBINGER WARS</option>
+	<option value="786">HARBINGER WARS 2</option>
+	<option value="195">HARU HANA</option>
+	<option value="653">HARU X KIYO</option>
+	<option value="820">HARVEST – FAIRY TAIL ILLUSTRATIONS II</option>
+	<option value="457">HEAT</option>
+	<option value="1295">HEAVEN OFFICIAL’S BLESSING</option>
+	<option value="875">HEAVENLY DELUSION</option>
+	<option value="390">HELL GIRL</option>
+	<option value="295">HELL&#039;S ANGELS</option>
+	<option value="1233">HELLBOY</option>
+	<option value="1287">HELLBOY &amp; B.P.R.D.</option>
+	<option value="583">HELLO KITTY</option>
+	<option value="978">HELLO WORLD – BOX</option>
+	<option value="1175">HERE U ARE</option>
+	<option value="284">HERO</option>
+	<option value="181">HIGH SCHOOL DEBUT</option>
+	<option value="324">HIRO MASHIMA RAVE WORLD</option>
+	<option value="972">HITLER È MORTO</option>
+	<option value="921">HITORIJIME BOYFRIEND</option>
+	<option value="902">HITORIJIME MY HERO</option>
+	<option value="689">HONEY</option>
+	<option value="373">HONEY &amp; HONEY DROPS</option>
+	<option value="1103">HOPELESS</option>
+	<option value="1035">HORROR THEATER</option>
+	<option value="961">HOT PAPRIKA</option>
+	<option value="970">HOT PAPRIKA - DELUST EDITION</option>
+	<option value="297">HOWL&#039;S MOVING CASTLE  MANGA-KA DEL NONKORSO 2: &quot;HOWL BEFORE GHIBLI&quot;</option>
+	<option value="314">HUNGRY HEART</option>
+	<option value="384">HYDE &amp; CLOSER</option>
+	<option value="1141">I AM BLACKPINK</option>
+	<option value="1140">I AM BTS</option>
+	<option value="569">I AM PUSHEEN THE CAT</option>
+	<option value="635">I BAMBINI CHE INSEGUONO LE STELLE: IL RAGAZZO DI AGARTHA</option>
+	<option value="620">I BAMBINI CHE INSEGUONO LE STELLE: VIAGGIO VERSO AGARTHA</option>
+	<option value="111">I CAVALIERI DEL DRAGO DAI, LA GRANDE AVVENTURA</option>
+	<option value="49">I CAVALIERI DELLO ZODIACO</option>
+	<option value="143">I CAVALIERI DELLO ZODIACO - SAINT SEIYA - PERFECT EDITION</option>
+	<option value="1098">I CAVALIERI DELLO ZODIACO - SAINT SEIYA: TIME ODYSSEY</option>
+	<option value="1099">I CAVALIERI DELLO ZODIACO - SAINT SEIYA: TIME ODYSSEY - COLLECTOR EDITION</option>
+	<option value="1089">I CAVALIERI DELLO ZODIACO – SAINT SEIYA FINAL EDITION</option>
+	<option value="801">I DIPINTI MALEDETTI</option>
+	<option value="489">I LOVE YOU, SUZUKI-KUN!!</option>
+	<option value="949">I MARRIED A GIRL TO SHUT MY PARENTS UP</option>
+	<option value="1273">I MITI</option>
+	<option value="1275">I PUFFI</option>
+	<option value="714">I SAPIENTI</option>
+	<option value="573">I VIVI E I MORTI - UN&#039;INDAGINE DEL COMMISSARIO RICCIARDI</option>
+	<option value="1146">I WANT TO BE THE WALL</option>
+	<option value="80">I&#039;&#039;S</option>
+	<option value="1304">ICHI THE WITCH</option>
+	<option value="1093">ICONOCLASTA!</option>
+	<option value="500">IDOL A</option>
+	<option value="856">IL BIZZARRO UNIVERSO DI HIROHIKO ARAKI COMPLETE BOX</option>
+	<option value="196">IL BOUQUET ROSSO</option>
+	<option value="278">IL CANTO DEL CIELO PERDUTO</option>
+	<option value="1247">IL CHIODO FISSO</option>
+	<option value="927">IL DIARIO DI ANNE FRANK</option>
+	<option value="1023">IL DURO LAVORO DI MUSUBU</option>
+	<option value="178">IL FIORE DEL SONNO PROFONDO</option>
+	<option value="829">IL GIARDINO DELL&#039;EDEN</option>
+	<option value="586">IL GIARDINO DELLE PAROLE</option>
+	<option value="191">IL GIGANTE</option>
+	<option value="47">IL GRANDE SOGNO DI MAYA</option>
+	<option value="337">IL LADRO DALLE MILLE FACCE</option>
+	<option value="784">IL MANGA SECONDO HIROHIKO ARAKI</option>
+	<option value="878">IL MURO</option>
+	<option value="1313">IL POTERE DEI SOLDI</option>
+	<option value="783">IL RE DEI RIBALDI</option>
+	<option value="730">IL RICCIO INNAMORATO</option>
+	<option value="151">IL SEGNO DELLA SIRENA</option>
+	<option value="95">IL SIGILLO AZZURRO</option>
+	<option value="1194">IL TESORO DI TAKARA</option>
+	<option value="1014">IL TESORO PERDUTO DI NORA</option>
+	<option value="554">IL VENTAGLIO SCARLATTO</option>
+	<option value="313">ILL CONCEIVED</option>
+	<option value="1011">IMMORTALS FENYX RISING - L&#039;ODISSEA DI FENYX</option>
+	<option value="646">IMPERIUM</option>
+	<option value="915">IN FORNO! IL LIBRO DI RICETTE DI PUSHEEN</option>
+	<option value="1072">IN THE CLEAR MOONLIT DUSK</option>
+	<option value="1106">IN THE FLOW OF TIME BOX</option>
+	<option value="850">INCURSION</option>
+	<option value="1291">INES</option>
+	<option value="52">INU YASHA</option>
+	<option value="109">INU YASHA ANIME COMICS</option>
+	<option value="558">INUBOKU SECRET SERVICE</option>
+	<option value="1009">INUYASHA WIDE EDITION</option>
+	<option value="838">IO SONO SHINGO</option>
+	<option value="749">IVAR, TIMEWALKER</option>
+	<option value="350">IZUMI MATSUMOTO WORLD ORANGE ROAD - EE - APPLES</option>
+	<option value="1179">I’M IN LOVE WITH THE VILLAINESS</option>
+	<option value="937">JACO THE GALACTIC PATROLMAN</option>
+	<option value="765">JAGAN</option>
+	<option value="333">JINBE</option>
+	<option value="213">JINGLE BELL ARMY</option>
+	<option value="1240">JINRUI-SHOKU: BLIGHT OF MAN</option>
+	<option value="89">JIRAISHIN</option>
+	<option value="491">JOJOLION</option>
+	<option value="835">JOJONIUM</option>
+	<option value="183">JONATHAN STEELE</option>
+	<option value="260">JONATHAN STEELE EXTRA</option>
+	<option value="493">JUMBOR</option>
+	<option value="486">JUMBOR SAFETY EDITION</option>
+	<option value="853">JUNJI ITO BEST OF BEST - SHORT STORIES COLLECTION</option>
+	<option value="1292">JUNJI ITO SELECTION - BOX</option>
+	<option value="1184">JUNJI ITO STUDIES - DAI PROFONDI ABISSI DELL&#039;ORRORE</option>
+	<option value="542">K2R WORLD</option>
+	<option value="643">KAGAMI GA KITA - LO SPECCHIO</option>
+	<option value="1250">KAGURABACHI</option>
+	<option value="1331">KAGURABACHI X MY HERO ACADEMIA TRIBUTE BUNDLE</option>
+	<option value="894">KAGUYA-SAMA: LOVE IS WAR</option>
+	<option value="1189">KAIJU GIRL CARAMELISE</option>
+	<option value="1045">KAIJU No. 8</option>
+	<option value="1296">KAIJU NO. 8: B-SIDE</option>
+	<option value="139">KAITO KID</option>
+	<option value="1192">KAITO KID TREASURED EDITION</option>
+	<option value="294">KAMIKAZE</option>
+	<option value="504">KAMISAMA KISS</option>
+	<option value="1077">KAMISAMA KISS NEW EDITION</option>
+	<option value="96">KANON</option>
+	<option value="187">KAPPA ANGELS</option>
+	<option value="883">KAPPA AT WORK</option>
+	<option value="124">KAPPA MAGAZINE 16 1/2 SPECIALE</option>
+	<option value="125">KAPPA MAGAZINE 20 1/2 SPECIALE</option>
+	<option value="126">KAPPA MAGAZINE 28 1/2 SPECIALE</option>
+	<option value="321">KAPPA MAGAZINE DOUBLE FACE</option>
+	<option value="541">KATSURA AKIRA</option>
+	<option value="991">KEEP YOUR HANDS OFF EIZOUKEN!</option>
+	<option value="347">KEEPER COACH</option>
+	<option value="78">KEN 2</option>
+	<option value="62">KENSHIN</option>
+	<option value="448">KEPHER</option>
+	<option value="142">KERORO</option>
+	<option value="57">KHOR</option>
+	<option value="919">KI-6 KILLERS</option>
+	<option value="380">KILARI</option>
+	<option value="1241">KING THE LAND BOX</option>
+	<option value="377">KNIGHTS OF THE APOCALYPSE</option>
+	<option value="383">KOIBANA!</option>
+	<option value="896">KOYOHARU GOTOUGE SHORT STORIES</option>
+	<option value="1300">KRAKEN MARE</opti

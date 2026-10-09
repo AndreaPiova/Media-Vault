@@ -1,0 +1,66 @@
+{
+ "s1": {
+  "status": 200,
+  "len": 171672,
+  "links": [],
+  "og": [],
+  "title": [
+   "Star Comics | Ricerca fumetti"
+  ]
+ },
+ "s2": {
+  "status": 200,
+  "len": 196232,
+  "links": [
+   "/fumetto/greatest-103-one-piece-new-edition-7",
+   "/fumetto/greatest-198-one-piece-new-edition-70",
+   "/fumetto/greatest-201-one-piece-new-edition-71",
+   "/fumetto/greatest-204-one-piece-new-edition-72",
+   "/fumetto/greatest-207-one-piece-new-edition-73",
+   "/fumetto/greatest-211-one-piece-new-edition-74",
+   "/fumetto/greatest-213-one-piece-new-edition-75",
+   "/fumetto/greatest-218-one-piece-new-edition-76",
+   "/fumetto/greatest-222-one-piece-new-edition-77",
+   "/fumetto/greatest-224-one-piece-new-edition-78",
+   "/fumetto/greatest-227-one-piece-new-edition-79"
+  ],
+  "og": [],
+  "title": [
+   "Star Comics | Ricerca fumetti"
+  ]
+ },
+ "p1": {
+  "status": 404,
+  "len": 20915,
+  "links": [],
+  "og": [],
+  "title": [
+   "Star Comics | Star Comics |  Pagina non trovata!"
+  ]
+ },
+ "p2": {
+  "status": 404,
+  "len": 20923,
+  "links": [],
+  "og": [],
+  "title": [
+   "Star Comics | Star Comics |  Pagina non trovata!"
+  ]
+ },
+ "j1": {
+  "status": 200,
+  "len": 41,
+  "links": [],
+  "og": [],
+  "title": []
+ },
+ "j2": {
+  "status": 200,
+  "len": 198674,
+  "links": [],
+  "og": [],
+  "title": [
+   "\n      Ricerca: 0 risultati trovati per &quot;dededemon 7&quot;\n       &ndash; J-POP Manga\n    "
+  ]
+ }
+}
