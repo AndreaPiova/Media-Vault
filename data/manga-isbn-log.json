@@ -308,5 +308,27 @@
     null
    ]
   ]
+ },
+ "m41": {
+  "title": "I Am Hero",
+  "edition": "",
+  "done": [],
+  "notfound": [
+   [
+    2,
+    null,
+    null
+   ],
+   [
+    6,
+    null,
+    null
+   ],
+   [
+    17,
+    null,
+    null
+   ]
+  ]
  }
 }
