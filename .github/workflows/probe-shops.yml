@@ -1,8 +1,8 @@
-name: Probe panini
+name: Probe shops
 on:
   push:
-    paths: ['scripts/probepanini.trigger']
-concurrency: { group: probepanini, cancel-in-progress: true }
+    paths: ['scripts/probeshops.trigger']
+concurrency: { group: probeshops, cancel-in-progress: true }
 permissions:
   contents: write
 jobs:
@@ -17,7 +17,7 @@ jobs:
       - run: |
           git config user.name "mediavault-bot"
           git config user.email "bot@users.noreply.github.com"
-      - run: python scripts/probe-panini.py
+      - run: python scripts/probe-shops.py
         continue-on-error: true
       - if: always()
         run: |
