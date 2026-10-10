@@ -21,7 +21,7 @@
    ],
    [
     "FOTO_CAST",
-    "Tom Holland: foto diversa da TMDB; Zendaya: foto diversa da TMDB"
+    "Tom Holland: foto diversa da TMDB"
    ]
   ],
   "src": {
@@ -370,24 +370,12 @@
   },
   "flags": [
    [
-    "TITOLO",
-    "'Memories of Murder' ≠ TMDB 'Memorie di un assassino' / '살인의 추억'"
-   ],
-   [
-    "REGISTA",
-    "Nostro 'Bong Joon-ho'; TMDB ['봉준호']"
-   ],
-   [
     "CAST",
-    "Non nel cast TMDB (top25): ['Kim Sang-kyung', 'Kim Roi-ha', 'Byun Hee-bong']; TMDB top: ['Song Kang-ho', '김상경', '김뢰하', 'Song Jae-ho', '변희봉', '고서희']"
+    "Non nel cast TMDB (top25): ['Kim Sang-kyung']; TMDB top: ['Song Kang-ho', 'Song Jae-ho']"
    ],
    [
     "FOTO_CAST",
-    "Kim Sang-kyung: non nel cast TMDB; Kim Roi-ha: non nel cast TMDB; Byun Hee-bong: non nel cast TMDB"
-   ],
-   [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 11423 (Memorie di un assassino 2003), distanza 19. Candidati per somiglianza: [(19, 11423, 'Memories of Murder', '2003'), (22, 305603, 'Memories of Murder', '1990'), (25, 852851, 'Memories of a Murderer: The Nilsen Tapes', '2021')]"
+    "Kim Sang-kyung: persona non nel cast TMDB"
    ]
   ],
   "src": {
@@ -467,7 +455,7 @@
      "Vin Diesel"
     ]
    },
-   "poster_dist": 1,
+   "poster_dist": 0,
    "imdb": {
     "year": 2023,
     "end": null,
@@ -683,12 +671,7 @@
    ],
    "tmdb": 629
   },
-  "flags": [
-   [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 629 (I soliti sospetti 1995), distanza 17. Candidati per somiglianza: [(17, 629, 'The Usual Suspects', '1995'), (28, 687408, \"Round Up: Deposing 'The Usual Suspects'\", '2002'), (30, 990589, 'FIP The Usual Suspects', '2005')]"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "I soliti sospetti",
@@ -1210,7 +1193,7 @@
      "Nicky Katt"
     ]
    },
-   "poster_dist": 0,
+   "poster_dist": 1,
    "imdb": {
     "year": 2002,
     "end": null,
@@ -1233,20 +1216,7 @@
    ],
    "tmdb": 488623
   },
-  "flags": [
-   [
-    "REGISTA",
-    "Nostro 'Jang Hang-jun'; TMDB ['장항준']"
-   ],
-   [
-    "CAST",
-    "Non nel cast TMDB (top25): ['Kim Moo-yul', 'Moon Sung-keun', 'Na Young-hee', 'Nam Myung-ryeol']; TMDB top: ['Kang Ha-neul', '김무열', '문성근', '나영희', '남명렬', 'Lee Na-ra']"
-   ],
-   [
-    "FOTO_CAST",
-    "Kim Moo-yul: non nel cast TMDB; Moon Sung-keun: non nel cast TMDB; Na Young-hee: non nel cast TMDB; Nam Myung-ryeol: non nel cast TMDB"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "Forgotten",
@@ -1543,6 +1513,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "4 indizi concordi: l'id TMDB assegnato (1547) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "ANNO",
     "Nostro 2006; TMDB 1987"
    ],
@@ -1560,11 +1534,11 @@
    ],
    [
     "FOTO_CAST",
-    "Edward Norton: non nel cast TMDB; Jessica Biel: non nel cast TMDB; Paul Giamatti: non nel cast TMDB; Rufus Sewell: non nel cast TMDB; Eddie Marsan: non nel cast TMDB"
+    "Edward Norton: persona non nel cast TMDB; Jessica Biel: persona non nel cast TMDB; Paul Giamatti: persona non nel cast TMDB; Rufus Sewell: persona non nel cast TMDB; Eddie Marsan: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 1547 (Ragazzi perduti 1987), distanza 21. Candidati per somiglianza: [(0, 1491, 'The Illusionist', '2006'), (14, 41201, 'The Illusionist', '2010'), (19, 13489, 'Lost Boys: The Tribe', '2008')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a The Illusionist (2006, id 1491, dist 0) che a id assegnato 1547 Ragazzi perduti (1987, dist 21). Candidati: [(0, 1491, 'The Illusionist', '2006'), (14, 41201, 'The Illusionist', '2010'), (19, 13489, 'Lost Boys: The Tribe', '2008')]"
    ],
    [
     "DURATA",
@@ -1674,8 +1648,8 @@
   },
   "flags": [
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 41154 (Men in Black 3 2012), distanza 27. Candidati per somiglianza: [(27, 41154, 'Men in Black 3', '2012')]"
+    "POSTER?",
+    "Copertina poco simile ai poster TMDB id 41154 (Men in Black 3 2012), dist 27: verificare a vista. Candidati: [(27, 41154, 'Men in Black 3', '2012')]"
    ]
   ],
   "src": {
@@ -1771,16 +1745,7 @@
    ],
    "tmdb": 4550
   },
-  "flags": [
-   [
-    "CAST",
-    "Non nel cast TMDB (top25): ['Choi Min-sik', 'Kim Si-hoo', 'Kwon Yea-young', 'Nam Il-woo']; TMDB top: ['이영애', '최민식', '권예영', '김시후', '남일우', '김병옥']"
-   ],
-   [
-    "FOTO_CAST",
-    "Lee Young-ae: foto diversa da TMDB; Choi Min-sik: non nel cast TMDB; Kim Si-hoo: non nel cast TMDB; Kwon Yea-young: non nel cast TMDB; Nam Il-woo: non nel cast TMDB"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "Lady Vendetta",
@@ -2249,7 +2214,7 @@
      "Scatman Crothers"
     ]
    },
-   "poster_dist": 3,
+   "poster_dist": 4,
    "imdb": {
     "year": 1975,
     "end": null,
@@ -2325,8 +2290,8 @@
   },
   "flags": [
    [
-    "TITOLO",
-    "'Così è la vita' ≠ TMDB 'C'est la vie - Prendila come viene' / 'Le Sens de la fête'"
+    "ID_TMDB_SOSPETTO",
+    "3 indizi concordi: l'id TMDB assegnato (432068) potrebbe riferirsi a un altro titolo/omonimo"
    ],
    [
     "ANNO",
@@ -2334,7 +2299,7 @@
    ],
    [
     "REGISTA",
-    "Nostro 'Massimo Venier'; TMDB ['Olivier Nakache', 'Éric Toledano']"
+    "Nostro 'Massimo Venier'; TMDB ['Éric Toledano', 'Olivier Nakache']"
    ],
    [
     "CAST",
@@ -2342,11 +2307,11 @@
    ],
    [
     "FOTO_CAST",
-    "Aldo Baglio: non nel cast TMDB; Giovanni Storti: non nel cast TMDB; Giacomo Poretti: non nel cast TMDB; Marina Massironi: non nel cast TMDB; Antonio Catania: non nel cast TMDB"
+    "Aldo Baglio: persona non nel cast TMDB; Giovanni Storti: persona non nel cast TMDB; Giacomo Poretti: persona non nel cast TMDB; Marina Massironi: persona non nel cast TMDB; Antonio Catania: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 432068 (C'est la vie - Prendila come viene 2017), distanza 27. Candidati per somiglianza: [(0, 38396, \"That's Life\", '1998'), (25, 52961, \"That's Life!\", '1986'), (26, 508540, \"That's Life\", '2018')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a That's Life (1998, id 38396, dist 0) che a id assegnato 432068 C'est la vie - Prendila come viene (2017, dist 27). Candidati: [(0, 38396, \"That's Life\", '1998'), (19, 77672, \"C'est La Vie\", '1990'), (22, 554375, 'Labor Day', '2020')]"
    ],
    [
     "DURATA",
@@ -2361,8 +2326,8 @@
     "runtime": 115,
     "imdb": "tt5699154",
     "directors": [
-     "Olivier Nakache",
-     "Éric Toledano"
+     "Éric Toledano",
+     "Olivier Nakache"
     ],
     "genres": [
      "Commedia"
@@ -2747,12 +2712,7 @@
    ],
    "tmdb": 1371
   },
-  "flags": [
-   [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 1371 (Rocky III 1982), distanza 18. Candidati per somiglianza: [(18, 1371, 'Rocky III', '1982'), (28, 677179, 'Creed III', '2023'), (30, 120501, 'Yo hice a Roque III', '1980')]"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "Rocky III",
@@ -2825,7 +2785,7 @@
      "Ron Vawter"
     ]
    },
-   "poster_dist": 1,
+   "poster_dist": 2,
    "imdb": {
     "year": 1993,
     "end": null,
@@ -3093,12 +3053,16 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "2 indizi concordi: l'id TMDB assegnato (131634) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "ANNO",
     "Nostro 2014; TMDB 2015"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 131634 (Hunger Games: Il canto della rivolta - Parte 2 2015), distanza 19. Candidati per somiglianza: [(1, 131631, 'The Hunger Games: Mockingjay - Part 1', '2014'), (19, 131634, 'The Hunger Games: Mockingjay - Part 2', '2015'), (20, 514231, 'The Mockingjay Lives: The Making of the Hunger Games: Mockingjay Part 1', '2015')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a The Hunger Games: Mockingjay - Part 1 (2014, id 131631, dist 1) che a id assegnato 131634 Hunger Games: Il canto della rivolta - Parte 2 (2015, dist 19). Candidati: [(1, 131631, 'The Hunger Games: Mockingjay - Part 1', '2014'), (19, 131634, 'The Hunger Games: Mockingjay - Part 2', '2015'), (20, 514231, 'The Mockingjay Lives: The Making of the Hunger Games: Mockingjay Part 1', '2015')]"
    ],
    [
     "DURATA",
@@ -3411,6 +3375,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "3 indizi concordi: l'id TMDB assegnato (45269) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'Incendies' ≠ TMDB 'Il discorso del re' / 'The King's Speech'"
    ],
@@ -3424,11 +3392,11 @@
    ],
    [
     "FOTO_CAST",
-    "Lubna Azabal: non nel cast TMDB; Mélissa Désormeaux-Poulin: non nel cast TMDB; Maxim Gaudette: non nel cast TMDB; Rémy Girard: non nel cast TMDB; Allen Altman: non nel cast TMDB"
+    "Lubna Azabal: persona non nel cast TMDB; Mélissa Désormeaux-Poulin: persona non nel cast TMDB; Maxim Gaudette: persona non nel cast TMDB; Rémy Girard: persona non nel cast TMDB; Allen Altman: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 45269 (Il discorso del re 2010), distanza 29. Candidati per somiglianza: [(23, 46738, 'Incendies', '2010'), (29, 45269, \"The King's Speech\", '2010'), (30, 134683, \"King George VI: The Man Behind the King's Speech\", '2011')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Incendies (2010, id 46738, dist 23) che a id assegnato 45269 Il discorso del re (2010, dist 29). Candidati: [(23, 46738, 'Incendies', '2010'), (29, 45269, \"The King's Speech\", '2010'), (30, 134683, \"King George VI: The Man Behind the King's Speech\", '2011')]"
    ],
    [
     "DURATA?",
@@ -3543,10 +3511,6 @@
   },
   "flags": [
    [
-    "TITOLO",
-    "'The Lives of Others' ≠ TMDB 'Le vite degli altri' / 'Das Leben der Anderen'"
-   ],
-   [
     "FOTO_CAST",
     "Ulrich Mühe: foto diversa da TMDB"
    ]
@@ -3599,6 +3563,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "4 indizi concordi: l'id TMDB assegnato (919) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'Eyes Wide Shut' ≠ TMDB 'BLOOD THE LAST VAMPIRE' / 'BLOOD THE LAST VAMPIRE'"
    ],
@@ -3607,12 +3575,8 @@
     "Nostro 1999; TMDB 2000"
    ],
    [
-    "REGISTA",
-    "Nostro 'Stanley Kubrick'; TMDB ['北久保弘之']"
-   ],
-   [
     "CAST",
-    "Non nel cast TMDB (top25): ['Tom Cruise', 'Nicole Kidman', 'Sydney Pollack', 'Marie Richardson', 'Rade Šerbedžija']; TMDB top: ['工藤夕貴', 'Saemi Nakamura', 'Joe Romersa', 'Rebecca Forstadt', 'Tom Fahn', 'Fitz Houston']"
+    "Non nel cast TMDB (top25): ['Tom Cruise', 'Nicole Kidman', 'Sydney Pollack', 'Marie Richardson', 'Rade Šerbedžija']; TMDB top: ['Saemi Nakamura', 'Joe Romersa', 'Rebecca Forstadt', 'Tom Fahn', 'Fitz Houston', 'Paul Carr']"
    ],
    [
     "GENERI",
@@ -3620,11 +3584,11 @@
    ],
    [
     "FOTO_CAST",
-    "Tom Cruise: non nel cast TMDB; Nicole Kidman: non nel cast TMDB; Sydney Pollack: non nel cast TMDB; Marie Richardson: non nel cast TMDB; Rade Šerbedžija: non nel cast TMDB"
+    "Tom Cruise: persona non nel cast TMDB; Nicole Kidman: persona non nel cast TMDB; Sydney Pollack: persona non nel cast TMDB; Marie Richardson: persona non nel cast TMDB; Rade Šerbedžija: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 919 (BLOOD THE LAST VAMPIRE 2000), distanza 21. Candidati per somiglianza: [(0, 345, 'Eyes Wide Shut', '1999'), (21, 919, 'Blood: The Last Vampire', '2000'), (25, 1450, 'Blood: The Last Vampire', '2009')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Eyes Wide Shut (1999, id 345, dist 1) che a id assegnato 919 BLOOD THE LAST VAMPIRE (2000, dist 21). Candidati: [(1, 345, 'Eyes Wide Shut', '1999'), (21, 919, 'Blood: The Last Vampire', '2000'), (25, 1450, 'Blood: The Last Vampire', '2009')]"
    ],
    [
     "DURATA",
@@ -3726,16 +3690,7 @@
    ],
    "tmdb": 27064
   },
-  "flags": [
-   [
-    "CAST",
-    "Non nel cast TMDB (top25): ['Ken Ogata', 'Kenji Sawada', 'Yasosuke Bando']; TMDB top: ['緒形拳', '塩野谷正幸', '三上博史', 'Junya Fukuda', '徳井優', '織本順吉']"
-   ],
-   [
-    "FOTO_CAST",
-    "緒形拳: foto diversa da TMDB; 沢田研二: foto diversa da TMDB; Ken Ogata: non nel cast TMDB; Kenji Sawada: non nel cast TMDB; Bandō Mitsugorō X: non nel cast TMDB; Yasosuke Bando: non nel cast TMDB"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "Mishima: Una vita in quattro capitoli",
@@ -3782,6 +3737,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "3 indizi concordi: l'id TMDB assegnato (581392) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'Another Round' ≠ TMDB 'Peninsula' / '반도'"
    ],
@@ -3791,7 +3750,7 @@
    ],
    [
     "CAST",
-    "Non nel cast TMDB (top25): ['Mads Mikkelsen', 'Thomas Bo Larsen', 'Magnus Millang', 'Lars Ranthe', 'Maria Bonnevie']; TMDB top: ['강동원', '이정현', '이레', '권해효', 'Kim Min-jae', '구교환']"
+    "Non nel cast TMDB (top25): ['Mads Mikkelsen', 'Thomas Bo Larsen', 'Magnus Millang', 'Lars Ranthe', 'Maria Bonnevie']; TMDB top: ['Kim Min-jae', 'Kim Do-yoon', 'Jang So-yeon', 'Joey Albright', 'Pierce Conran', 'John D. Michaels']"
    ],
    [
     "GENERI",
@@ -3799,7 +3758,7 @@
    ],
    [
     "FOTO_CAST",
-    "Mads Mikkelsen: non nel cast TMDB; Thomas Bo Larsen: non nel cast TMDB; Magnus Millang: non nel cast TMDB; Lars Ranthe: non nel cast TMDB; Maria Bonnevie: non nel cast TMDB"
+    "Mads Mikkelsen: persona non nel cast TMDB; Thomas Bo Larsen: persona non nel cast TMDB; Magnus Millang: persona non nel cast TMDB; Lars Ranthe: persona non nel cast TMDB; Maria Bonnevie: persona non nel cast TMDB"
    ]
   ],
   "src": {
@@ -4146,6 +4105,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "5 indizi concordi: l'id TMDB assegnato (664) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'Chinatown' ≠ TMDB 'Twister' / 'Twister'"
    ],
@@ -4167,11 +4130,11 @@
    ],
    [
     "FOTO_CAST",
-    "Jack Nicholson: non nel cast TMDB; Faye Dunaway: non nel cast TMDB; John Huston: non nel cast TMDB; Perry Lopez: non nel cast TMDB; John Hillerman: non nel cast TMDB"
+    "Jack Nicholson: persona non nel cast TMDB; Faye Dunaway: persona non nel cast TMDB; John Huston: persona non nel cast TMDB; Perry Lopez: persona non nel cast TMDB; John Hillerman: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 664 (Twister 1996), distanza 19. Candidati per somiglianza: [(6, 829, 'Chinatown', '1974'), (19, 664, 'Twister', '1996'), (20, 9455, 'The Corruptor', '1999')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Chinatown (1974, id 829, dist 6) che a id assegnato 664 Twister (1996, dist 19). Candidati: [(6, 829, 'Chinatown', '1974'), (17, 24617, 'Atomic Twister', '2002'), (19, 664, 'Twister', '1996')]"
    ],
    [
     "DURATA",
@@ -4325,6 +4288,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "3 indizi concordi: l'id TMDB assegnato (9362) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "ANNO",
     "Nostro 2004; TMDB 1990"
    ],
@@ -4338,11 +4305,11 @@
    ],
    [
     "FOTO_CAST",
-    "Dennis Quaid: non nel cast TMDB; Jake Gyllenhaal: non nel cast TMDB; Emmy Rossum: non nel cast TMDB; Ian Holm: non nel cast TMDB; Sela Ward: non nel cast TMDB"
+    "Dennis Quaid: persona non nel cast TMDB; Jake Gyllenhaal: persona non nel cast TMDB; Emmy Rossum: persona non nel cast TMDB; Ian Holm: persona non nel cast TMDB; Sela Ward: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 9362 (Tremors 1990), distanza 21. Candidati per somiglianza: [(0, 435, 'The Day After Tomorrow', '2004'), (17, 532970, 'The Day after Tomorrow at Midnight', '1981'), (19, 339530, 'Tremors 5: Bloodlines', '2015')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a The Day After Tomorrow (2004, id 435, dist 0) che a id assegnato 9362 Tremors (1990, dist 21). Candidati: [(0, 435, 'The Day After Tomorrow', '2004'), (17, 532970, 'The Day after Tomorrow at Midnight', '1981'), (19, 339530, 'Tremors 5: Bloodlines', '2015')]"
    ],
    [
     "DURATA",
@@ -4444,10 +4411,6 @@
    "tmdb": 18079
   },
   "flags": [
-   [
-    "TITOLO",
-    "'Nine Queens' ≠ TMDB 'Nove regine' / 'Nueve reinas'"
-   ],
    [
     "FOTO_CAST",
     "Ricardo Darín: foto diversa da TMDB"
@@ -4607,6 +4570,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "5 indizi concordi: l'id TMDB assegnato (872) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'JFK' ≠ TMDB 'Cantando sotto la pioggia' / 'Singin' in the Rain'"
    ],
@@ -4628,11 +4595,11 @@
    ],
    [
     "FOTO_CAST",
-    "Kevin Costner: non nel cast TMDB; Gary Oldman: non nel cast TMDB; Tommy Lee Jones: non nel cast TMDB; Sissy Spacek: non nel cast TMDB; Joe Pesci: non nel cast TMDB"
+    "Kevin Costner: persona non nel cast TMDB; Gary Oldman: persona non nel cast TMDB; Tommy Lee Jones: persona non nel cast TMDB; Sissy Spacek: persona non nel cast TMDB; Joe Pesci: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 872 (Cantando sotto la pioggia 1952), distanza 25. Candidati per somiglianza: [(10, 820, 'JFK', '1991'), (25, 872, \"Singin' in the Rain\", '1952'), (27, 345364, 'JFK: The Final Hours', '2013')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a JFK (1991, id 820, dist 10) che a id assegnato 872 Cantando sotto la pioggia (1952, dist 25). Candidati: [(10, 820, 'JFK', '1991'), (25, 872, \"Singin' in the Rain\", '1952'), (26, 1222777, 'JFK Conspiracy', '2022')]"
    ],
    [
     "DURATA",
@@ -4739,6 +4706,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "4 indizi concordi: l'id TMDB assegnato (1187606) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "ANNO",
     "Nostro 2025; TMDB 2002"
    ],
@@ -4756,11 +4727,11 @@
    ],
    [
     "FOTO_CAST",
-    "Daniel Craig: non nel cast TMDB; Josh O'Connor: non nel cast TMDB; Josh Brolin: non nel cast TMDB; Glenn Close: non nel cast TMDB; Cailee Spaeny: non nel cast TMDB"
+    "Daniel Craig: persona non nel cast TMDB; Josh O'Connor: persona non nel cast TMDB; Josh Brolin: persona non nel cast TMDB; Glenn Close: persona non nel cast TMDB; Cailee Spaeny: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 1187606 (Cytolon 2002), distanza 30. Candidati per somiglianza: [(0, 812583, 'Wake Up Dead Man: A Knives Out Mystery', '2025'), (30, 1187606, 'Cytolon', '2002'), (41, 1642331, 'Wake Up, Dead Man!', '')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Wake Up Dead Man: A Knives Out Mystery (2025, id 812583, dist 0) che a id assegnato 1187606 Cytolon (2002, dist 30). Candidati: [(0, 812583, 'Wake Up Dead Man: A Knives Out Mystery', '2025'), (30, 1187606, 'Cytolon', '2002'), (41, 1642331, 'Wake Up, Dead Man!', '')]"
    ],
    [
     "DURATA?",
@@ -4901,7 +4872,7 @@
   "flags": [
    [
     "ID_TMDB_NON_VALIDO",
-    "id 3675 non esiste"
+    "id 3675 non esiste; candidati ricerca: [(132344, 'Before Midnight', '2013')]"
    ]
   ],
   "src": {}
@@ -4921,16 +4892,7 @@
    ],
    "tmdb": 152742
   },
-  "flags": [
-   [
-    "TITOLO",
-    "'The Best Offer' ≠ TMDB 'La migliore offerta' / 'La migliore offerta'"
-   ],
-   [
-    "FOTO_CAST",
-    "Donald Sutherland: foto diversa da TMDB"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "La migliore offerta",
@@ -4978,6 +4940,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "4 indizi concordi: l'id TMDB assegnato (199580) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'Boyhood' ≠ TMDB 'Desserts' / 'Desserts'"
    ],
@@ -4995,11 +4961,11 @@
    ],
    [
     "FOTO_CAST",
-    "Ellar Coltrane: non nel cast TMDB; Patricia Arquette: non nel cast TMDB; Ethan Hawke: non nel cast TMDB; Lorelei Linklater: non nel cast TMDB; Libby Villari: non nel cast TMDB"
+    "Ellar Coltrane: persona non nel cast TMDB; Patricia Arquette: persona non nel cast TMDB; Ethan Hawke: persona non nel cast TMDB; Lorelei Linklater: persona non nel cast TMDB; Libby Villari: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 199580 (Desserts 2000), distanza 28. Candidati per somiglianza: [(17, 85350, 'Boyhood', '2014'), (22, 498819, 'Just Desserts', '2015'), (24, 83745, 'Boyhood Daze', '1957')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Boyhood (2014, id 85350, dist 17) che a id assegnato 199580 Desserts (2000, dist 28). Candidati: [(17, 85350, 'Boyhood', '2014'), (23, 1154070, 'JUST DESSERTS', '2023'), (24, 83745, 'Boyhood Daze', '1957')]"
    ],
    [
     "DURATA",
@@ -5053,7 +5019,7 @@
   "flags": [
    [
     "ID_TMDB_NON_VALIDO",
-    "id 3459 non esiste"
+    "id 3459 non esiste; candidati ricerca: [(6075, \"Carlito's Way\", '1993')]"
    ]
   ],
   "src": {}
@@ -5121,20 +5087,7 @@
    ],
    "tmdb": 36095
   },
-  "flags": [
-   [
-    "REGISTA",
-    "Nostro 'Kiyoshi Kurosawa'; TMDB ['黒沢清']"
-   ],
-   [
-    "CAST",
-    "Non nel cast TMDB (top25): ['Masato Hagiwara', 'Tsuyoshi Ujiki']; TMDB top: ['Koji Yakusho', '萩原聖人', 'うじきつよし', 'Anna Nakagawa', 'Yukijiro Hotaru', '洞口依子']"
-   ],
-   [
-    "FOTO_CAST",
-    "Masato Hagiwara: non nel cast TMDB; Tsuyoshi Ujiki: non nel cast TMDB"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "Cure",
@@ -5183,12 +5136,8 @@
   },
   "flags": [
    [
-    "CAST",
-    "Non nel cast TMDB (top25): ['Alexander Godunov']; TMDB top: ['Bruce Willis', 'Alan Rickman', 'Александр Годунов', 'Bonnie Bedelia', 'Reginald VelJohnson', 'Paul Gleason']"
-   ],
-   [
     "FOTO_CAST",
-    "Bonnie Bedelia: foto diversa da TMDB; Alexander Godunov: non nel cast TMDB; Reginald VelJohnson: foto diversa da TMDB"
+    "Bonnie Bedelia: foto diversa da TMDB; Reginald VelJohnson: foto diversa da TMDB"
    ]
   ],
   "src": {
@@ -5244,7 +5193,7 @@
    ],
    [
     "FOTO_CAST",
-    "Александр Ревва: non nel cast TMDB; Кристина Асмус: non nel cast TMDB; Дмитрий Хрусталев: non nel cast TMDB; Wallace Shawn: foto diversa da TMDB"
+    "Александр Ревва: persona non nel cast TMDB; Кристина Асмус: persona non nel cast TMDB; Дмитрий Хрусталев: persona non nel cast TMDB; Wallace Shawn: foto diversa da TMDB"
    ],
    [
     "ANNO_FONTI",
@@ -5448,7 +5397,7 @@
   "flags": [
    [
     "ID_TMDB_NON_VALIDO",
-    "id 328 non esiste"
+    "id 328 non esiste; candidati ricerca: [(1051, 'Il braccio violento della legge', '1971')]"
    ]
   ],
   "src": {}
@@ -5467,12 +5416,7 @@
    ],
    "tmdb": 600
   },
-  "flags": [
-   [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 600 (Full Metal Jacket 1987), distanza 20. Candidati per somiglianza: [(20, 600, 'Full Metal Jacket', '1987'), (25, 386610, 'Full Metal Jacket: Between Good and Evil', '2007'), (35, 1567612, \"Kubrick's War: The Making of Full Metal Jacket\", '')]"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "Full Metal Jacket",
@@ -5565,12 +5509,7 @@
    ],
    "tmdb": 290098
   },
-  "flags": [
-   [
-    "TITOLO",
-    "'The Handmaiden' ≠ TMDB 'Mademoiselle' / '아가씨'"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "Mademoiselle",
@@ -5871,12 +5810,7 @@
    ],
    "tmdb": 1050035
   },
-  "flags": [
-   [
-    "TITOLO",
-    "'Monster' ≠ TMDB 'L'innocenza' / '怪物'"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "L'innocenza",
@@ -5923,20 +5857,7 @@
    ],
    "tmdb": 50475
   },
-  "flags": [
-   [
-    "TITOLO",
-    "'No Mercy' ≠ TMDB '용서는 없다' / '용서는 없다'"
-   ],
-   [
-    "CAST",
-    "Non nel cast TMDB (top25): ['Sul Kyung-gu', 'Ryoo Seung-bum', 'Han Hye-jin', 'Sung Ji-ru', 'Park Sang-wook']; TMDB top: ['설경구', '류승범', '한혜진', '성지루', '박상욱', '김정학']"
-   ],
-   [
-    "FOTO_CAST",
-    "Sul Kyung-gu: non nel cast TMDB; Ryoo Seung-bum: non nel cast TMDB; Han Hye-jin: non nel cast TMDB; Sung Ji-ru: non nel cast TMDB; Park Sang-wook: non nel cast TMDB"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "용서는 없다",
@@ -5986,6 +5907,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "4 indizi concordi: l'id TMDB assegnato (76757) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'Oblivion' ≠ TMDB 'Jupiter - Il destino dell'universo' / 'Jupiter Ascending'"
    ],
@@ -6003,11 +5928,11 @@
    ],
    [
     "FOTO_CAST",
-    "Tom Cruise: non nel cast TMDB; Olga Kurylenko: non nel cast TMDB; Morgan Freeman: non nel cast TMDB; Andrea Riseborough: non nel cast TMDB; Nikolaj Coster-Waldau: non nel cast TMDB"
+    "Tom Cruise: persona non nel cast TMDB; Olga Kurylenko: persona non nel cast TMDB; Morgan Freeman: persona non nel cast TMDB; Andrea Riseborough: persona non nel cast TMDB; Nikolaj Coster-Waldau: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 76757 (Jupiter - Il destino dell'universo 2015), distanza 20. Candidati per somiglianza: [(2, 75612, 'Oblivion', '2013'), (20, 76757, 'Jupiter Ascending', '2015'), (24, 25334, 'Wondrous Oblivion', '2004')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Oblivion (2013, id 75612, dist 2) che a id assegnato 76757 Jupiter - Il destino dell'universo (2015, dist 20). Candidati: [(2, 75612, 'Oblivion', '2013'), (20, 76757, 'Jupiter Ascending', '2015'), (24, 25334, 'Wondrous Oblivion', '2004')]"
    ]
   ],
   "src": {
@@ -6059,10 +5984,6 @@
    "tmdb": 1417
   },
   "flags": [
-   [
-    "TITOLO",
-    "'Pan's Labyrinth' ≠ TMDB 'Il labirinto del fauno' / 'El laberinto del fauno'"
-   ],
    [
     "FOTO_CAST",
     "Ivana Baquero: foto diversa da TMDB"
@@ -6117,6 +6038,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "5 indizi concordi: l'id TMDB assegnato (358622) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'Personal Shopper' ≠ TMDB 'NO-A' / 'NO-A'"
    ],
@@ -6138,11 +6063,11 @@
    ],
    [
     "FOTO_CAST",
-    "Kristen Stewart: non nel cast TMDB; Lars Eidinger: non nel cast TMDB; Sigrid Bouaziz: non nel cast TMDB; Anders Danielsen Lie: non nel cast TMDB; Ty Olwin: non nel cast TMDB"
+    "Kristen Stewart: persona non nel cast TMDB; Lars Eidinger: persona non nel cast TMDB; Sigrid Bouaziz: persona non nel cast TMDB; Anders Danielsen Lie: persona non nel cast TMDB; Ty Olwin: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 358622 (NO-A 2015), distanza 30. Candidati per somiglianza: [(1, 340676, 'Personal Shopper', '2016'), (22, 306952, \"Naomi and Ely's No Kiss List\", '2015'), (24, 52038, 'A Man of No Importance', '1994')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Personal Shopper (2016, id 340676, dist 1) che a id assegnato 358622 NO-A (2015, dist 30). Candidati: [(1, 340676, 'Personal Shopper', '2016'), (22, 306952, \"Naomi and Ely's No Kiss List\", '2015'), (23, 939899, 'Staring at Strangers', '2022')]"
    ],
    [
     "DURATA",
@@ -6333,6 +6258,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "4 indizi concordi: l'id TMDB assegnato (940721) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'Society of the Snow' ≠ TMDB 'Godzilla Minus One' / 'ゴジラ-1.0'"
    ],
@@ -6342,7 +6271,7 @@
    ],
    [
     "CAST",
-    "Non nel cast TMDB (top25): ['Enzo Vogrincic', 'Agustín Pardella', 'Matías Recalt', 'Esteban Bigliardi', 'Diego Vegezzi']; TMDB top: ['Ryūnosuke Kamiki', '浜辺美波', '山田裕貴', 'Munetaka Aoki', '吉岡秀隆', 'Sakura Ando']"
+    "Non nel cast TMDB (top25): ['Enzo Vogrincic', 'Agustín Pardella', 'Matías Recalt', 'Esteban Bigliardi', 'Diego Vegezzi']; TMDB top: ['Ryūnosuke Kamiki', 'Munetaka Aoki', 'Sakura Ando', 'Kuranosuke Sasaki']"
    ],
    [
     "GENERI",
@@ -6350,11 +6279,11 @@
    ],
    [
     "FOTO_CAST",
-    "Enzo Vogrincic: non nel cast TMDB; Agustín Pardella: non nel cast TMDB; Matías Recalt: non nel cast TMDB; Esteban Bigliardi: non nel cast TMDB; Diego Vegezzi: non nel cast TMDB"
+    "Enzo Vogrincic: persona non nel cast TMDB; Agustín Pardella: persona non nel cast TMDB; Matías Recalt: persona non nel cast TMDB; Esteban Bigliardi: persona non nel cast TMDB; Diego Vegezzi: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 940721 (Godzilla Minus One 2023), distanza 23. Candidati per somiglianza: [(0, 906126, 'Society of the Snow', '2023'), (23, 940721, 'Godzilla Minus One', '2023'), (26, 1232289, 'Society of the Snow: Who Were We on the Mountain?', '2024')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Society of the Snow (2023, id 906126, dist 0) che a id assegnato 940721 Godzilla Minus One (2023, dist 23). Candidati: [(0, 906126, 'Society of the Snow', '2023'), (23, 940721, 'Godzilla Minus One', '2023'), (26, 1232289, 'Society of the Snow: Who Were We on the Mountain?', '2024')]"
    ],
    [
     "DURATA",
@@ -6409,18 +6338,6 @@
    "tmdb": 4689
   },
   "flags": [
-   [
-    "TITOLO",
-    "'Sympathy for Mr. Vengeance' ≠ TMDB 'Mr. Vendetta' / '복수는 나의 것'"
-   ],
-   [
-    "CAST",
-    "Non nel cast TMDB (top25): ['Shin Ha-kyun', 'Bae Doona', 'Im Ji-eun', 'Han Bo-bae']; TMDB top: ['Song Kang-ho', '신하균', '배두나', '임지은', '한보배', '이대연']"
-   ],
-   [
-    "FOTO_CAST",
-    "Shin Ha-kyun: non nel cast TMDB; Bae Doona: non nel cast TMDB; Im Ji-eun: non nel cast TMDB; Han Bo-bae: non nel cast TMDB"
-   ],
    [
     "DURATA",
     "Nostro 121 min; TMDB 129, IMDb 129"
@@ -6521,11 +6438,11 @@
   "flags": [
    [
     "FOTO_CAST",
-    "Gene Hackman: foto diversa da TMDB; Richard Harris: foto diversa da TMDB"
+    "Richard Harris: foto diversa da TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 33 (Gli spietati 1992), distanza 24. Candidati per somiglianza: [(19, 209856, 'WWE Unforgiven 2000', '2000'), (22, 209855, 'WWE Unforgiven 2001', '2001'), (22, 1608445, 'Tarung: Unforgiven', '2026')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a WWE Unforgiven 2002 (2002, id 215921, dist 17) che a id assegnato 33 Gli spietati (1992, dist 24). Candidati: [(17, 215921, 'WWE Unforgiven 2002', '2002'), (22, 209855, 'WWE Unforgiven 2001', '2001'), (22, 1608445, 'Tarung: Unforgiven', '2026')]"
    ]
   ],
   "src": {
@@ -6575,6 +6492,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "4 indizi concordi: l'id TMDB assegnato (325133) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'Wild Tales' ≠ TMDB 'Cattivi vicini 2' / 'Neighbors 2: Sorority Rising'"
    ],
@@ -6596,11 +6517,7 @@
    ],
    [
     "FOTO_CAST",
-    "Ricardo Darín: non nel cast TMDB; Leonardo Sbaraglia: non nel cast TMDB; Érica Rivas: non nel cast TMDB; Oscar Martínez: non nel cast TMDB; Rita Cortese: non nel cast TMDB"
-   ],
-   [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 325133 (Cattivi vicini 2 2016), distanza 20. Candidati per somiglianza: [(20, 325133, 'Neighbors 2: Sorority Rising', '2016'), (22, 265195, 'Wild Tales', '2014'), (30, 435044, 'Wild Tales From The Village', '2016')]"
+    "Ricardo Darín: persona non nel cast TMDB; Leonardo Sbaraglia: persona non nel cast TMDB; Érica Rivas: persona non nel cast TMDB; Oscar Martínez: persona non nel cast TMDB; Rita Cortese: persona non nel cast TMDB"
    ],
    [
     "DURATA",
@@ -6703,16 +6620,12 @@
   },
   "flags": [
    [
-    "REGISTA",
-    "Nostro 'Asghar Farhadi'; TMDB ['اصغر فرهادی']"
-   ],
-   [
     "CAST",
-    "Non nel cast TMDB (top25): ['Leila Hatami', 'Payman Maadi', 'Shahab Hosseini']; TMDB top: ['پیمان معادی', 'لیلا حاتمی', 'شهاب حسینی', 'Sareh Bayat', 'Sarina Farhadi', 'Ali-Asghar Shahbazi']"
+    "Non nel cast TMDB (top25): ['Shahab Hosseini']; TMDB top: ['Sareh Bayat', 'Sarina Farhadi', 'Ali-Asghar Shahbazi', 'Kimia Hosseini', 'Armine Zeytounchian', 'Shirin Yazdanbakhsh']"
    ],
    [
     "FOTO_CAST",
-    "Leila Hatami: non nel cast TMDB; Payman Maadi: non nel cast TMDB; Shahab Hosseini: non nel cast TMDB"
+    "Shahab Hosseini: persona non nel cast TMDB"
    ]
   ],
   "src": {
@@ -6758,20 +6671,7 @@
    ],
    "tmdb": 505192
   },
-  "flags": [
-   [
-    "TITOLO",
-    "'Shoplifters' ≠ TMDB 'Un affare di famiglia' / '万引き家族'"
-   ],
-   [
-    "CAST",
-    "Non nel cast TMDB (top25): ['Lily Franky', 'Kairi Jo', 'Kirin Kiki']; TMDB top: ['リリー・フランキー', 'Sakura Ando', 'Mayu Matsuoka', '城桧吏', '佐々木みゆ', '樹木希林']"
-   ],
-   [
-    "FOTO_CAST",
-    "Lily Franky: non nel cast TMDB; Kairi Jo: non nel cast TMDB; Kirin Kiki: non nel cast TMDB"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "Un affare di famiglia",
@@ -6963,12 +6863,7 @@
    ],
    "tmdb": 8740
   },
-  "flags": [
-   [
-    "TITOLO",
-    "'The Vanishing' ≠ TMDB 'Il mistero della donna scomparsa' / 'Spoorloos'"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "Il mistero della donna scomparsa",
@@ -7063,20 +6958,7 @@
    ],
    "tmdb": 4552
   },
-  "flags": [
-   [
-    "REGISTA",
-    "Nostro 'Kim Jee-woon'; TMDB ['김지운']"
-   ],
-   [
-    "CAST",
-    "Non nel cast TMDB (top25): ['Lim Soo-jung', 'Moon Geun-young', 'Yum Jung-ah', 'Kim Kap-soo', 'Park Mi-hyeon']; TMDB top: ['임수정', '문근영', '염정아', '김갑수', '박미현', '이승비']"
-   ],
-   [
-    "FOTO_CAST",
-    "Lim Soo-jung: non nel cast TMDB; Moon Geun-young: non nel cast TMDB; Yum Jung-ah: non nel cast TMDB; Kim Kap-soo: non nel cast TMDB; Park Mi-hyeon: non nel cast TMDB"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "Two Sisters",
@@ -7224,6 +7106,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "3 indizi concordi: l'id TMDB assegnato (9327) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "ANNO",
     "Nostro 1997; TMDB 1996"
    ],
@@ -7237,11 +7123,11 @@
    ],
    [
     "FOTO_CAST",
-    "Nicole De Boer: non nel cast TMDB; Nicky Guadagni: non nel cast TMDB; Maurice Dean Wint: non nel cast TMDB; David Hewlett: non nel cast TMDB; Andrew Miller: non nel cast TMDB"
+    "Nicole De Boer: persona non nel cast TMDB; Nicky Guadagni: persona non nel cast TMDB; Maurice Dean Wint: persona non nel cast TMDB; David Hewlett: persona non nel cast TMDB; Andrew Miller: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 9327 (Il professore matto 1996), distanza 27. Candidati per somiglianza: [(8, 431, 'Cube', '1998'), (21, 438, 'Cube Zero', '2004'), (24, 12107, 'Nutty Professor II: The Klumps', '2000')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Cube (1998, id 431, dist 8) che a id assegnato 9327 Il professore matto (1996, dist 27). Candidati: [(8, 431, 'Cube', '1998'), (21, 438, 'Cube Zero', '2004'), (24, 12107, 'Nutty Professor II: The Klumps', '2000')]"
    ],
    [
     "DURATA?",
@@ -7403,6 +7289,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "4 indizi concordi: l'id TMDB assegnato (63076) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "ANNO",
     "Nostro 2012; TMDB 1995"
    ],
@@ -7420,11 +7310,11 @@
    ],
    [
     "FOTO_CAST",
-    "Dwayne Johnson: non nel cast TMDB; Josh Hutcherson: non nel cast TMDB; Michael Caine: non nel cast TMDB; Vanessa Hudgens: non nel cast TMDB; Luis Guzmán: non nel cast TMDB"
+    "Dwayne Johnson: persona non nel cast TMDB; Josh Hutcherson: persona non nel cast TMDB; Michael Caine: persona non nel cast TMDB; Vanessa Hudgens: persona non nel cast TMDB; Luis Guzmán: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 63076 (Heidi Fleiss: Hollywood Madam 1995), distanza 27. Candidati per somiglianza: [(1, 72545, 'Journey 2: The Mysterious Island', '2012'), (27, 63076, 'Heidi Fleiss: Hollywood Madam', '1995'), (31, 273945, 'Heidi Fleiss: The Would-be Madam of Crystal', '2008')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Journey 2: The Mysterious Island (2012, id 72545, dist 1) che a id assegnato 63076 Heidi Fleiss: Hollywood Madam (1995, dist 27). Candidati: [(1, 72545, 'Journey 2: The Mysterious Island', '2012'), (27, 63076, 'Heidi Fleiss: Hollywood Madam', '1995'), (31, 273945, 'Heidi Fleiss: The Would-be Madam of Crystal', '2008')]"
    ],
    [
     "DURATA",
@@ -7478,6 +7368,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "3 indizi concordi: l'id TMDB assegnato (1955) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'Lost Highway' ≠ TMDB 'The Elephant Man' / 'The Elephant Man'"
    ],
@@ -7491,11 +7385,11 @@
    ],
    [
     "FOTO_CAST",
-    "Bill Pullman: non nel cast TMDB; Patricia Arquette: non nel cast TMDB; Balthazar Getty: non nel cast TMDB; Robert Blake: non nel cast TMDB; Robert Loggia: non nel cast TMDB"
+    "Bill Pullman: persona non nel cast TMDB; Patricia Arquette: persona non nel cast TMDB; Balthazar Getty: persona non nel cast TMDB; Robert Blake: persona non nel cast TMDB; Robert Loggia: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 1955 (The Elephant Man 1980), distanza 21. Candidati per somiglianza: [(1, 638, 'Lost Highway', '1997'), (21, 1955, 'The Elephant Man', '1980'), (22, 1473844, 'The Elephant Man', '')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Lost Highway (1997, id 638, dist 1) che a id assegnato 1955 The Elephant Man (1980, dist 21). Candidati: [(1, 638, 'Lost Highway', '1997'), (21, 1955, 'The Elephant Man', '1980'), (22, 1473844, 'The Elephant Man', '')]"
    ],
    [
     "DURATA",
@@ -7978,7 +7872,7 @@
      "Joe Mantegna"
     ]
    },
-   "poster_dist": 1,
+   "poster_dist": 0,
    "imdb": {
     "year": 1990,
     "end": null,
