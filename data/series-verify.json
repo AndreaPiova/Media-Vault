@@ -262,56 +262,55 @@
 {
 "id": "s120",
 "title": "The Mentalist",
-"tmdb": 1622,
-"flags": [
-"titolo diverso da TMDB: ID forse sbagliato",
-"anno inizio: file 2008, TMDB 2005",
-"anno fine: file 2015, TMDB 2020",
-"stagioni/episodi: file [23, 23, 24, 24, 22, 22, 13] (151 ep), TMDB [22, 22, 16, 22, 22, 22, 23, 23, 23, 23, 23, 23, 23, 20, 20] (327 ep)"
-],
-"tmdb_title": "Supernatural",
-"tmdb_orig": "Supernatural",
+"tmdb": 5920,
+"flags": [],
+"tmdb_title": "The Mentalist",
+"tmdb_orig": "The Mentalist",
 "tmdb_status": "Ended",
-"tmdb_first": "2005",
-"tmdb_last": "2020",
+"tmdb_first": "2008",
+"tmdb_last": "2015",
 "tmdb_seasons": [
+23,
+23,
+24,
+24,
 22,
 22,
-16,
-22,
-22,
-22,
-23,
-23,
-23,
-23,
-23,
-23,
-23,
-20,
-20
+13
 ],
-"tmdb_total": 327,
-"tmdb_runtime": 45,
+"tmdb_total": 151,
+"tmdb_runtime": 42,
 "cast": [
 {
-"name": "Jared Padalecki",
-"profile": "/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+"name": "Simon Baker",
+"profile": "/oay0Lo2zl0lJdguptxgx1BK9Xq7.jpg"
 },
 {
-"name": "Jensen Ackles",
-"profile": "/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+"name": "Robin Tunney",
+"profile": "/vOmWyYNoVEaPPvoto4IW8dSXn7I.jpg"
 },
 {
-"name": "Misha Collins",
-"profile": "/szigprnenokR4yOpELIB2rj1Er2.jpg"
+"name": "Tim Kang",
+"profile": "/Ae7qMN6fJTut145qpeSn1NOu8yx.jpg"
+},
+{
+"name": "Rockmond Dunbar",
+"profile": "/gim7zIrYkbKWsp2Kod7fp74fWyI.jpg"
+},
+{
+"name": "Joe Adler",
+"profile": "/bsle7zqj6HBs6NYstkwDwQY7EEf.jpg"
+},
+{
+"name": "Josie Loren",
+"profile": "/vZJc51rwheOC0TCdUkA4KM1UfXu.jpg"
 }
 ],
-"trama": "I fratelli Sam e Dean Winchester viaggiano attraverso l'America in una Chevy Impala nera del 1967 indagando e combattendo eventi paranormali e altri eventi inspiegabili, molti dei quali basati su leggende metropolitane americane e folklore, nonché su creature soprannaturali classiche come vampiri, lupi mannari e fantasmi.",
+"trama": "Un mentalist è in grado di manipolare il pensiero e il comportamento degli altri. The Mentalist è Patrick Jane, un famoso sensitivo, la cui moglie e il cui figlio vengono brutalmente assassinati da un inafferrabile serial killer chiamato John il Rosso. Sconvolto, Patrick ammette che le sue facoltà paranormali sono un imbroglio, decide di cambiare vita e di utilizzare le sue straordinarie capacità di osservazione e di analisi - qualità che gli avevano permesso di far credere di possedere doti paranormali - per assicurare i criminali alla giustizia.",
 "genres": [
+"Crime",
 "Dramma",
-"Mistero",
-"Sci-Fi & Fantasy"
+"Mistero"
 ]
 },
 {
@@ -3424,67 +3423,47 @@
 {
 "id": "s58",
 "title": "Fringe",
-"tmdb": 1620,
+"tmdb": 1705,
 "flags": [
-"titolo diverso da TMDB: ID forse sbagliato",
-"anno inizio: file 2008, TMDB 2002",
-"anno fine: file 2013, TMDB 2012",
-"stagioni/episodi: file [20, 22, 22, 22, 13] (99 ep), TMDB [24, 24, 24, 25, 24, 21, 25, 24, 22, 19] (232 ep)"
+"stagioni/episodi: file [20, 22, 22, 22, 13] (99 ep), TMDB [20, 23, 22, 22, 13] (100 ep)"
 ],
-"tmdb_title": "CSI: Miami",
-"tmdb_orig": "CSI: Miami",
+"tmdb_title": "Fringe",
+"tmdb_orig": "Fringe",
 "tmdb_status": "Ended",
-"tmdb_first": "2002",
-"tmdb_last": "2012",
+"tmdb_first": "2008",
+"tmdb_last": "2013",
 "tmdb_seasons": [
-24,
-24,
-24,
-25,
-24,
-21,
-25,
-24,
+20,
+23,
 22,
-19
+22,
+13
 ],
-"tmdb_total": 232,
-"tmdb_runtime": 42,
+"tmdb_total": 100,
+"tmdb_runtime": 43,
 "cast": [
 {
-"name": "David Caruso",
-"profile": "/4aflRWhJW8gvnYIXPY52KcNTzkO.jpg"
+"name": "Anna Torv",
+"profile": "/muZIxj33R2EEJhm28c9hBd0AiRk.jpg"
 },
 {
-"name": "Emily Procter",
-"profile": "/gFK8S0ZgaqDC8IgclgadDuB2eMm.jpg"
+"name": "Joshua Jackson",
+"profile": "/mH2a5YFd8J7upjjWwEzM75vitA2.jpg"
 },
 {
-"name": "Omar Benson Miller",
-"profile": "/adlrkEpxDIcpxF7bpzMGErLxeHP.jpg"
+"name": "Jasika Nicole",
+"profile": "/8Mh5BqATLCqCK1BVcu1icJsRsds.jpg"
 },
 {
-"name": "Jonathan Togo",
-"profile": "/s6SVfTHfn4VLXmsl8l3QjJzpako.jpg"
-},
-{
-"name": "Adam Rodriguez",
-"profile": "/qFSbLvyNPZK40hY9gZXJDvq0qVK.jpg"
-},
-{
-"name": "Rex Linn",
-"profile": "/dY8x6OrmS0dBdogxeF2QALrCvpI.jpg"
-},
-{
-"name": "Eva LaRue",
-"profile": "/q07Ii35UFA3ayPPFBe98ARzbDg8.jpg"
+"name": "John Noble",
+"profile": "/t9dB8uU27sQDaEEFMiQvp5sbrXU.jpg"
 }
 ],
-"trama": "Si tratta del primo spin-off della serie TV CSI - Scena del crimine, le cui vicende ruotano attorno alle indagini della squadra del turno di giorno della polizia scientifica di Miami. Sebbene la serie sia accomunata a CSI - Scena del crimine per quanto riguarda il metodo di indagine e ricerca delle prove, talvolta CSI: Miami si avvicina alle serie poliziesche in senso stretto in quanto è caratterizzata da un ruolo più preponderante dell'azione vera e propria, che in alcuni episodi ruba la scena all'analisi scientifica.",
+"trama": "La Divisione Fringe si occupa di indagare su una serie di eventi inspiegabili, noti come Eventi Fringe, che si stanno verificando in varie parti del mondo. Ne fanno parte lo scienziato Walter Bishop, suo figlio Peter e l'agente dell'FBI Olivia Dunham.",
 "genres": [
+"Sci-Fi & Fantasy",
 "Dramma",
-"Mistero",
-"Crime"
+"Mistero"
 ]
 },
 {
@@ -3908,82 +3887,60 @@
 {
 "id": "s67",
 "title": "Boardwalk Empire",
-"tmdb": 4614,
-"flags": [
-"titolo diverso da TMDB: ID forse sbagliato",
-"anno inizio: file 2010, TMDB 2003",
-"anno fine: file 2014, ultima puntata TMDB 2026",
-"stagioni/episodi: file [12, 12, 12, 12, 8] (56 ep), TMDB [23, 23, 24, 24, 19, 25, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 20, 16, 21, 22, 10, 20, 20, 4] (511 ep)",
-"durata media: file 54 min, TMDB 43 min"
-],
-"tmdb_title": "NCIS",
-"tmdb_orig": "NCIS",
-"tmdb_status": "Returning Series",
-"tmdb_first": "2003",
-"tmdb_last": "2026",
+"tmdb": 1621,
+"flags": [],
+"tmdb_title": "Boardwalk Empire",
+"tmdb_orig": "Boardwalk Empire",
+"tmdb_status": "Ended",
+"tmdb_first": "2010",
+"tmdb_last": "2014",
 "tmdb_seasons": [
-23,
-23,
-24,
-24,
-19,
-25,
-24,
-24,
-24,
-24,
-24,
-24,
-24,
-24,
-24,
-24,
-20,
-16,
-21,
-22,
-10,
-20,
-20,
-4
+12,
+12,
+12,
+12,
+8
 ],
-"tmdb_total": 511,
-"tmdb_runtime": 43,
+"tmdb_total": 56,
+"tmdb_runtime": 60,
 "cast": [
 {
-"name": "Sean Murray",
-"profile": "/1RlMqC3qL5gKlfqyAR2xzgKjWrN.jpg"
+"name": "Steve Buscemi",
+"profile": "/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
 },
 {
-"name": "Wilmer Valderrama",
-"profile": "/uohkEwMGIGCq4k8P2AiomuKQwYv.jpg"
+"name": "Kelly Macdonald",
+"profile": "/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
 },
 {
-"name": "Katrina Law",
-"profile": "/y7LzCN8BaoPPSXDBo0UwPQ4UwSB.jpg"
+"name": "Michael Shannon",
+"profile": "/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
 },
 {
-"name": "Brian Dietzen",
-"profile": "/njOHd9yWWGQrTS7btmp2vbMbQjE.jpg"
+"name": "Shea Whigham",
+"profile": "/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
 },
 {
-"name": "Diona Reasonover",
-"profile": "/eor8QzQjERWozp1iv7Tgw6TYnAG.jpg"
+"name": "Stephen Graham",
+"profile": "/yguEO9zFvuccq87kOJpFLsmUgvs.jpg"
 },
 {
-"name": "Gary Cole",
-"profile": "/uWsqIlfHbyxkmBJLmq2mR93musF.jpg"
+"name": "Vincent Piazza",
+"profile": "/cybUCnpnrvtfmJcF2vC2nBWzmKU.jpg"
 },
 {
-"name": "Michael Weatherly",
-"profile": "/o4UqLl3mx7SvFhr9xrpFv7VLpCS.jpg"
+"name": "Michael Kenneth Williams",
+"profile": "/mafEXtGlT1qYjGmZtbjo7Ep5qK3.jpg"
+},
+{
+"name": "Paul Sparks",
+"profile": "/cQnCJI94lje55gZ7kEQ7YZUQPDb.jpg"
 }
 ],
-"trama": "L'NCIS (Naval Criminal Investigative Service) è un nucleo di agenti investigativi speciali incaricati di indagare su crimini che coinvolgono personale della Marina Militare americana o ai corpi dei Marines. L'agente speciale dell'NCIS Leroy Jethro Gibbs, un ex sergente d'artiglieria dei Marines le cui doti da investigatore sono senza eguali, conduce questa squadra di personalità colorite.",
+"trama": "Atlantic City, 1920. Con l'entrata in vigore del Proibizionismo, Enoch \"Nucky\" Thompson, in parte boss mafioso e in parte politico corrotto, ordisce un piano per rendere ricco lui e i suoi soci vendendo il liquore divenuto illegale. Nel frattempo, Jimmy Darmody, suo ex-protetto, torna a casa dopo aver combattuto nella Grande Guerra e inizia a frequentare un poco più che ventenne Al Capone.",
 "genres": [
 "Crime",
-"Dramma",
-"Action & Adventure"
+"Dramma"
 ]
 },
 {
@@ -4049,101 +4006,125 @@
 {
 "id": "s69",
 "title": "Sons of Anarchy",
-"tmdb": 1534,
+"tmdb": 1409,
 "flags": [
-"titolo diverso da TMDB: ID forse sbagliato",
-"anno inizio: file 2008, TMDB 2005",
-"anno fine: file 2014, TMDB 2008",
-"stagioni/episodi: file [13, 13, 13, 14, 13, 13, 13] (92 ep), TMDB [52, 52, 13, 13] (130 ep)",
-"durata media: file 44 min, TMDB 13 min"
+"durata media: file 44 min, TMDB 77 min"
 ],
-"tmdb_title": "Robotboy",
-"tmdb_orig": "Robotboy",
+"tmdb_title": "Sons of Anarchy",
+"tmdb_orig": "Sons of Anarchy",
 "tmdb_status": "Ended",
-"tmdb_first": "2005",
-"tmdb_last": "2008",
+"tmdb_first": "2008",
+"tmdb_last": "2014",
 "tmdb_seasons": [
-52,
-52,
+13,
+13,
+13,
+14,
+13,
 13,
 13
 ],
-"tmdb_total": 130,
-"tmdb_runtime": 13,
+"tmdb_total": 92,
+"tmdb_runtime": 77,
 "cast": [
 {
-"name": "Rupert Degas",
-"profile": "/fVZ6CWYunUC4oWjYCtyDUfHKr4i.jpg"
+"name": "Charlie Hunnam",
+"profile": "/5WIDrnY25Ps2RYu0zIzHSVuSt5n.jpg"
 },
 {
-"name": "Lorraine Pilkington",
-"profile": "/rZBv6Nz7QCy94VJeSVDqRuYdp86.jpg"
+"name": "Katey Sagal",
+"profile": "/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg"
 },
 {
-"name": "Mark DeCarlo",
-"profile": "/yVStCsncvhol6XK4FVuxkpfx2Ap.jpg"
+"name": "Tommy Flanagan",
+"profile": "/cwLJNAezwtCPHTq5YnWhtb8htLn.jpg"
 },
 {
-"name": "Charlie Schlatter",
-"profile": "/ckUrBtZtBBt7sD3vXxirzWflz5G.jpg"
+"name": "Mark Boone Junior",
+"profile": "/zcYYnZNxOfMOLq7zL0hJheoVM2k.jpg"
 },
 {
-"name": "Tara Strong",
-"profile": "/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg"
+"name": "Kim Coates",
+"profile": "/brhVd2vTTBJNpM2ZrOFc6SnXCAd.jpg"
 },
 {
-"name": "伊川東吾",
-"profile": "/ceEgj3Ezbf07xWvb8CWh0MEhpTg.jpg"
+"name": "Theo Rossi",
+"profile": "/344QE41Jileu4OE41cmYgBxc5BF.jpg"
 },
 {
-"name": "Megan Cavanagh",
-"profile": "/bitalcVxjX8ThYaO6cKN4taodKD.jpg"
+"name": "Dayton Callie",
+"profile": "/miB43H7L4OYY5aRSxhoScjcOxu3.jpg"
+},
+{
+"name": "David Labrava",
+"profile": "/l82Y8mleeVznEG2jQDIS1JuZQBd.jpg"
 }
 ],
-"trama": "Robotboy è l'ultima creazione dello scienziato di fama mondiale, il professor Moshimo. A causa dei timori che Robotboy sarebbe stato rubato dal suo acerrimo nemico Dr. Kamikazi e dal suo principale scagnozzo Costantino per essere usato per conquistare il mondo, il professor Moshimo affida Robotboy al 10enne Tommy Turnbull, il suo più grande fan vivente a San Francisco . Mentre è protetto da Tommy e dai suoi due amici Lola e Gus (o \"G-Man\"), Robotboy impara come comportarsi e comportarsi come se fosse un vero ragazzo mentre ogni tanto combatte il Dr. Kamikazi e Costantino che hanno cercato per catturarlo.",
+"trama": "La serie narra le vicende di un club di motociclisti chiamato Sons of Anarchy ed è ambientata nella città immaginaria di Charming, situata nella Valle di San Joaquin in California.",
 "genres": [
-"Animazione",
-"Commedia",
-"Action & Adventure",
-"Kids",
-"Sci-Fi & Fantasy",
-"Famiglia"
+"Crime",
+"Dramma"
 ]
 },
 {
 "id": "s70",
 "title": "Oz",
-"tmdb": 4353,
-"flags": [
-"titolo diverso da TMDB: ID forse sbagliato",
-"anno inizio: file 1997, TMDB 2006",
-"anno fine: file 2003, TMDB 2009",
-"stagioni/episodi: file [8, 8, 8, 16, 8, 8] (56 ep), TMDB [8, 24, 8, 10, 7] (57 ep)",
-"durata media: file 58 min, TMDB 30 min",
-"TMDB non ha la trama in italiano"
-],
-"tmdb_title": "Trick My Truck",
-"tmdb_orig": "Trick My Truck",
+"tmdb": 3322,
+"flags": [],
+"tmdb_title": "Oz",
+"tmdb_orig": "Oz",
 "tmdb_status": "Ended",
-"tmdb_first": "2006",
-"tmdb_last": "2009",
+"tmdb_first": "1997",
+"tmdb_last": "2003",
 "tmdb_seasons": [
 8,
-24,
 8,
-10,
-7
+8,
+16,
+8,
+8
 ],
-"tmdb_total": 57,
-"tmdb_runtime": 30,
+"tmdb_total": 56,
+"tmdb_runtime": 60,
 "cast": [
 {
-"name": "Ryan Ryno Templeton",
-"profile": null
+"name": "Lee Tergesen",
+"profile": "/qAldK2CeBVzeRZ9sqTd3zU9SiU1.jpg"
+},
+{
+"name": "Harold Perrineau",
+"profile": "/bVSLpGUaislREbujmknOqadrxYM.jpg"
+},
+{
+"name": "Dean Winters",
+"profile": "/zxgOZAYGxa2qmiZkJKGRIhwbGhG.jpg"
+},
+{
+"name": "Eamonn Walker",
+"profile": "/mJ2pENrcO4uRy2TNVUzg5cEI9b3.jpg"
+},
+{
+"name": "Ernie Hudson",
+"profile": "/kgAdQA2ItCDVvKXufeDHc6Omiso.jpg"
+},
+{
+"name": "Terry Kinney",
+"profile": "/2Y6AeUUj1xUd5p7mRM9tFqUCN87.jpg"
+},
+{
+"name": "Rita Moreno",
+"profile": "/zB0M77jr7tmsmWHEr2bWO2Xq66L.jpg"
+},
+{
+"name": "J.K. Simmons",
+"profile": "/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
 }
 ],
-"trama": "",
-"genres": []
+"trama": "Il penitenziario di Oswald, Oz per i detenuti, è un microcosmo narrato dalla voce di Augustus Hill, un detenuto che ci racconta la vita quotidiana nella sezione speciale di Emerald City. La violenza è onnipresente, ma è la routine di una non-vita che uccide lo spirito, che fa più vittime in questo mondo alternativo, fatto di odio e amore, terrore e noia, dominio e disperazione, un mondo che sembra molto diverso dal nostro, ma i cui abitanti sono il prodotto della nostra normalità.",
+"genres": [
+"Crime",
+"Dramma"
+]
 },
 {
 "id": "s71",
@@ -4369,49 +4350,61 @@
 {
 "id": "s76",
 "title": "Six Feet Under",
-"tmdb": 114,
+"tmdb": 1274,
 "flags": [
-"titolo diverso da TMDB: ID forse sbagliato",
-"anno inizio: file 2001, TMDB 2005",
-"stagioni/episodi: file [13, 13, 13, 12, 12] (63 ep), TMDB [6] (6 ep)",
-"durata media: file 55 min, TMDB 148 min",
-"TMDB non ha la trama in italiano"
+"durata media: file 55 min, TMDB 73 min"
 ],
-"tmdb_title": "Nathan Barley",
-"tmdb_orig": "Nathan Barley",
+"tmdb_title": "Six Feet Under",
+"tmdb_orig": "Six Feet Under",
 "tmdb_status": "Ended",
-"tmdb_first": "2005",
+"tmdb_first": "2001",
 "tmdb_last": "2005",
 "tmdb_seasons": [
-6
+13,
+13,
+13,
+12,
+12
 ],
-"tmdb_total": 6,
-"tmdb_runtime": 148,
+"tmdb_total": 63,
+"tmdb_runtime": 73,
 "cast": [
 {
-"name": "Nicholas Burns",
-"profile": "/x8ETzUUeTrmBRuVdvPEaZ23Focf.jpg"
+"name": "Peter Krause",
+"profile": "/vjTIKHUBceaM3cBbtwwDE8mgaKn.jpg"
 },
 {
-"name": "Julian Barratt",
-"profile": "/g5k2zpB1tKqPhPtAHLMeyXTAvYg.jpg"
+"name": "Michael C. Hall",
+"profile": "/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
 },
 {
-"name": "Claire Keelan",
-"profile": "/aKNSxAV4vqXi8tg28vrKjsyKACE.jpg"
+"name": "Frances Conroy",
+"profile": "/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
 },
 {
-"name": "Richard Ayoade",
-"profile": "/qHKoy9kP4bsv4G9EkvU4FMUmYkS.jpg"
+"name": "Lauren Ambrose",
+"profile": "/67oLiPwWKhy0zqdfm6NX9cXD5is.jpg"
 },
 {
-"name": "Spencer Brown",
-"profile": "/kUiMl0natDqjqXaB0K2sg9bHdx1.jpg"
+"name": "Freddy Rodríguez",
+"profile": "/syCMZjteDnmWQa26NqOaVaRdYmj.jpg"
+},
+{
+"name": "Mathew St. Patrick",
+"profile": "/vi5SPtkQEztDkkQEm8cmDzDBDfA.jpg"
+},
+{
+"name": "Rachel Griffiths",
+"profile": "/n7rKwLjZmbkBKWBwhj9SYzsRaF6.jpg"
+},
+{
+"name": "Justina Machado",
+"profile": "/j5FaJXoyhMHlqv1l6TBdt1CH1oO.jpg"
 }
 ],
-"trama": "",
+"trama": "Uno sguardo comico e macabro ai membri di una strampalata famiglia di L.A. che gestisce un'impresa di pompe funebri.\n\nQuando la morte è il tuo lavoro, qual è la tua vita? Per la famiglia Fisher, il mondo all'esterno della loro casa funeraria a conduzione familiare continua ad essere altrettanto impegnativo di quello all'interno, e di gran lunga meno prevedibile.",
 "genres": [
-"Commedia"
+"Dramma"
 ]
 },
 {
@@ -4476,62 +4469,59 @@
 {
 "id": "s78",
 "title": "Banshee",
-"tmdb": 39604,
-"flags": [
-"titolo diverso da TMDB: ID forse sbagliato",
-"anno inizio: file 2013, TMDB 2011",
-"anno fine: file 2016, TMDB 2011",
-"stagioni/episodi: file [10, 10, 10, 8] (38 ep), TMDB [5] (5 ep)",
-"TMDB non ha la trama in italiano"
-],
-"tmdb_title": "Injustice",
-"tmdb_orig": "Injustice",
+"tmdb": 41727,
+"flags": [],
+"tmdb_title": "Banshee",
+"tmdb_orig": "Banshee",
 "tmdb_status": "Ended",
-"tmdb_first": "2011",
-"tmdb_last": "2011",
+"tmdb_first": "2013",
+"tmdb_last": "2016",
 "tmdb_seasons": [
-5
+10,
+10,
+10,
+8
 ],
-"tmdb_total": 5,
-"tmdb_runtime": 45,
+"tmdb_total": 38,
+"tmdb_runtime": 50,
 "cast": [
 {
-"name": "James Purefoy",
-"profile": "/nCNyifrD9wOao27A1nT5n4Soxt1.jpg"
+"name": "Antony Starr",
+"profile": "/xx3As5SWcE8vYOKZgtjDjqmT3jc.jpg"
 },
 {
-"name": "Dervla Kirwan",
-"profile": "/6ZReeKzRaWMDzlfRbJcqelAfPZ6.jpg"
+"name": "Ivana Miličević",
+"profile": "/3bWPeAnqRwuCAoYBDig3E3cFx5m.jpg"
 },
 {
-"name": "Nathaniel Parker",
-"profile": "/mtJ0EXQ7rJaRb3DiAAOPGlFLOzi.jpg"
+"name": "Hoon Lee",
+"profile": "/3Ux4nTEfPySyZg6yBlu1uXR1TyT.jpg"
 },
 {
-"name": "Sasha Behar",
-"profile": "/jAexiEsIiLxbV7q6RZthyCzvRmK.jpg"
+"name": "Frankie Faison",
+"profile": "/3717JOXK2Z8qelfyvScDGimfFBf.jpg"
 },
 {
-"name": "Charlie Creed-Miles",
-"profile": "/aVPpJs7X03oNmbxFtHNaQdsnNod.jpg"
+"name": "Ulrich Thomsen",
+"profile": "/qjXAPbuO8CicunlQs07c1fbFG67.jpg"
 },
 {
-"name": "Obi Abili",
-"profile": "/s53vGPEyzaCZgKKrVNpynG6h9Iz.jpg"
+"name": "Matthew Rauch",
+"profile": "/y2SAw8H4qZGU5cOjazg5LeybiKr.jpg"
 },
 {
-"name": "Lisa Diveney",
-"profile": "/cxIXg4w1suIGimGLbsjAg27Kq8K.jpg"
+"name": "Matt Servitto",
+"profile": "/3wxehP1Dp81D1pXSk8riU2oCLkG.jpg"
 },
 {
-"name": "Kirsty Bushell",
-"profile": null
+"name": "Lili Simmons",
+"profile": "/h1X7C95cwYoDX45Fe4Zk6KzIhCV.jpg"
 }
 ],
-"trama": "",
+"trama": "Lucas Hood, un ex-ladro, uscito di prigione dopo 15 anni, parte alla ricerca della sua ex-amante/partner e la rintraccia a Banshee, un paesino dove la donna si è costruita una nuova identità. Uno strano scherzo del destino gli offrirà l'opportunità di spacciarsi per lo sceriffo della città, il che lo porterà, però, a rimanere invischiato in trame e intrighi imprevedibili.",
 "genres": [
-"Dramma",
-"Crime"
+"Crime",
+"Dramma"
 ]
 },
 {
@@ -4598,63 +4588,60 @@
 {
 "id": "s80",
 "title": "The OA",
-"tmdb": 68716,
+"tmdb": 69061,
 "flags": [
-"titolo diverso da TMDB: ID forse sbagliato",
-"anno inizio: file 2016, TMDB 2017",
-"anno fine: file 2019, TMDB 2017",
-"stagioni/episodi: file [8, 8] (16 ep), TMDB [8] (8 ep)",
-"durata media: file 55 min, TMDB 42 min"
+"durata media: file 55 min, TMDB 43 min"
 ],
-"tmdb_title": "Marvel's Inhumans",
-"tmdb_orig": "Marvel's Inhumans",
+"tmdb_title": "The OA",
+"tmdb_orig": "The OA",
 "tmdb_status": "Canceled",
-"tmdb_first": "2017",
-"tmdb_last": "2017",
+"tmdb_first": "2016",
+"tmdb_last": "2019",
 "tmdb_seasons": [
+8,
 8
 ],
-"tmdb_total": 8,
-"tmdb_runtime": 42,
+"tmdb_total": 16,
+"tmdb_runtime": 43,
 "cast": [
 {
-"name": "Anson Mount",
-"profile": "/A4YBdwnzJKRcZXfodjT4UalHOK9.jpg"
+"name": "Brit Marling",
+"profile": "/38pSHsK7DKdOYmdeBOKqyunA45e.jpg"
 },
 {
-"name": "Serinda Swan",
-"profile": "/mA4qtNZnn0A2oT1s4IIHseO8oiu.jpg"
+"name": "Jason Isaacs",
+"profile": "/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
 },
 {
-"name": "Iwan Rheon",
-"profile": "/xF8bGBL6nUYH9QrXAbah1VQIHU4.jpg"
+"name": "Emory Cohen",
+"profile": "/mtummZcNxmcJQ1JIoQUcV3Fwb3.jpg"
 },
 {
-"name": "Isabelle Cornish",
-"profile": "/4TLBrFQ7NDPuKBE7uk11Ji9l9dx.jpg"
+"name": "Kingsley Ben-Adir",
+"profile": "/yCJNGOQKavWqOZSIEPKvQVlyAwA.jpg"
 },
 {
-"name": "Ken Leung",
-"profile": "/hpatUP6u74gkpDRmn9voNY9V43O.jpg"
+"name": "Phyllis Smith",
+"profile": "/h9w9pQbiderRWAC2mi7spjzuIGz.jpg"
 },
 {
-"name": "Eme Ikwuakor",
-"profile": "/uKuIc0GznLWnavgDO8KUMYwkgyS.jpg"
+"name": "Patrick Gibson",
+"profile": "/1pCUKn2BqJJB5IuktEZGgYw6hbt.jpg"
 },
 {
-"name": "Sonya Balmores",
-"profile": "/knbho01kwkNbm5pEcCEMCcgnRQd.jpg"
+"name": "Brendan Meyer",
+"profile": "/cSIsHQjie1xElTL86pCAvHL4ddB.jpg"
 },
 {
-"name": "Ellen Woglom",
-"profile": "/nL9viX6kRne4DdZLOhLVoG5BRQO.jpg"
+"name": "Brandon Perea",
+"profile": "/hEzljVgsho0Uwd8tg7AGB5Uy3Lr.jpg"
 }
 ],
-"trama": "A causa di un colpo di stato i membri della famiglia reale degli \"Inumani\" si ritrovano dispersi alle Hawaii, dove dovranno salvare se stessi e la razza umana.",
+"trama": "Sette anni dopo la sua improvvisa scomparsa, una donna ritorna con nuovi misteriosi poteri e affida una missione segreta a cinque estranei.",
 "genres": [
-"Dramma",
 "Sci-Fi & Fantasy",
-"Action & Adventure"
+"Mistero",
+"Dramma"
 ]
 },
 {
@@ -4710,95 +4697,121 @@
 {
 "id": "s82",
 "title": "Deadwood",
-"tmdb": 641,
-"flags": [
-"titolo diverso da TMDB: ID forse sbagliato",
-"anno inizio: file 2004, TMDB 1985",
-"anno fine: file 2006, TMDB 1990",
-"stagioni/episodi: file [12, 12, 12] (36 ep), TMDB [7, 7, 7, 7] (28 ep)",
-"durata media: file 55 min, TMDB 30 min",
-"TMDB non ha la trama in italiano"
-],
-"tmdb_title": "Home to Roost",
-"tmdb_orig": "Home to Roost",
-"tmdb_status": "Ended",
-"tmdb_first": "1985",
-"tmdb_last": "1990",
+"tmdb": 1406,
+"flags": [],
+"tmdb_title": "Deadwood",
+"tmdb_orig": "Deadwood",
+"tmdb_status": "Canceled",
+"tmdb_first": "2004",
+"tmdb_last": "2006",
 "tmdb_seasons": [
-7,
-7,
-7,
-7
+12,
+12,
+12
 ],
-"tmdb_total": 28,
-"tmdb_runtime": 30,
+"tmdb_total": 36,
+"tmdb_runtime": 50,
 "cast": [
 {
-"name": "Reece Dinsdale",
-"profile": "/hRqlNSCW6AkF1ezIH8hEsSXPJuu.jpg"
+"name": "Timothy Olyphant",
+"profile": "/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg"
 },
 {
-"name": "John Thaw",
-"profile": "/vow1hjGvrEHK6YjIxcCqUvHPSH3.jpg"
+"name": "Ian McShane",
+"profile": "/rteBJYNgD1yGsHg2HGZAIrYHz1t.jpg"
+},
+{
+"name": "Molly Parker",
+"profile": "/yxDfAinBmVkx8HHzRlJz4KvSnf8.jpg"
+},
+{
+"name": "Jim Beaver",
+"profile": "/mvawGDw5ge5rxgMKhTSggasOyin.jpg"
+},
+{
+"name": "W. Earl Brown",
+"profile": "/oBHcJc65nUmopx6lVc9ZvYYARZz.jpg"
+},
+{
+"name": "Dayton Callie",
+"profile": "/miB43H7L4OYY5aRSxhoScjcOxu3.jpg"
+},
+{
+"name": "Kim Dickens",
+"profile": "/yr6kstI1hdLP6LXz2xyBB4ovduj.jpg"
+},
+{
+"name": "Brad Dourif",
+"profile": "/ex7AmuHM3owhUetYZAyOmN1ehWS.jpg"
 }
 ],
-"trama": "",
+"trama": "La serie inizia nel 1876, due settimane dopo la battaglia del Little Bighorn, dove ebbe luogo la sconfitta del Generale Custer. Deadwood è una città che deve ancora nascere, che vive senza leggi e non riconosciuta dallo Stato, popolata da fuorilegge, prostitute e ogni sorta di criminale. In un luogo dove non vi sono leggi, l'unica legge che vale è quella del più forte, che in questo caso è Al Swearengen, uno dei pionieri fondatori della città, padrone dell'unico saloon dove gestisce i suoi loschi affari. Ma altri personaggi arrivano in città con l'intento di ricominciare una nuova vita: tra loro vi sono Seth Bullock, ex-sceriffo che vuole aprire un'attività commerciale, il cercatore d'oro Wild Bill Hickok assieme agli amici Calamity Jane e Charlie Utter, Alma Garrett, newyorkese che arriva in città per assecondare le voglie avventurose del marito. I destini e le strade di queste persone si incroceranno inevitabilmente.",
 "genres": [
-"Commedia"
+"Western",
+"Crime",
+"Dramma"
 ]
 },
 {
 "id": "s83",
 "title": "The Shield",
-"tmdb": 1085,
-"flags": [
-"titolo diverso da TMDB: ID forse sbagliato",
-"anno inizio: file 2002, TMDB 1999",
-"anno fine: file 2008, TMDB 2001",
-"stagioni/episodi: file [13, 13, 15, 13, 11, 10, 13] (88 ep), TMDB [19, 13] (32 ep)",
-"TMDB non ha la trama in italiano"
-],
-"tmdb_title": "Jack & Jill",
-"tmdb_orig": "Jack & Jill",
+"tmdb": 1414,
+"flags": [],
+"tmdb_title": "The Shield",
+"tmdb_orig": "The Shield",
 "tmdb_status": "Ended",
-"tmdb_first": "1999",
-"tmdb_last": "2001",
+"tmdb_first": "2002",
+"tmdb_last": "2008",
 "tmdb_seasons": [
-19,
+13,
+13,
+15,
+13,
+11,
+10,
 13
 ],
-"tmdb_total": 32,
-"tmdb_runtime": 43,
+"tmdb_total": 88,
+"tmdb_runtime": 45,
 "cast": [
 {
-"name": "Ivan Sergei",
-"profile": "/2UML9oX6NfJqYDALnT6U32kMOnF.jpg"
+"name": "Michael Chiklis",
+"profile": "/pAkKjbzxP6Z6Y5zAGpwmWQo1iji.jpg"
 },
 {
-"name": "Amanda Peet",
-"profile": "/5TfyCj0X9ftKO11FN057P05s78C.jpg"
+"name": "Catherine Dent",
+"profile": "/yA76zSo5uu3X85nYH2iIKKxgan7.jpg"
 },
 {
-"name": "Justin Kirk",
-"profile": "/7zRJN1qkaGPhUoGoIEtZDsDY9e6.jpg"
+"name": "Paula Garcés",
+"profile": "/ukwCVnfSp5qYGbdXHVeCwOXiZyu.jpg"
 },
 {
-"name": "Sarah Paulson",
-"profile": "/tJnhBV516yrekR3hTDUw15UMbxS.jpg"
+"name": "Walton Goggins",
+"profile": "/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
 },
 {
-"name": "Jaime Pressly",
-"profile": "/sST9yap7qQXr6Us9rg6w9GwaFDH.jpg"
+"name": "Michael Jace",
+"profile": "/dTHdnj0qfBx6sXr9cT4Xxu0AcIG.jpg"
 },
 {
-"name": "Simon Rex",
-"profile": "/swlyh3YQoaB4OAgVi6NSdojVeyZ.jpg"
+"name": "Jay Karnes",
+"profile": "/95DfDguAXfFfE7ZOdGQIvk5VheZ.jpg"
+},
+{
+"name": "Benito Martinez",
+"profile": "/3lPxnrPCs31lnliBNEssgxw7Qxg.jpg"
+},
+{
+"name": "David Marciano",
+"profile": "/dqgkHEuY3mgWI3AiBK99YN9srSt.jpg"
 }
 ],
-"trama": "",
+"trama": "I protagonisti sono quattro detective corrotti: Vic, Shane, Lem e Ronnie. Quattro migliori amici dal legame indissolubile che va oltre i normali rapporti lavorativi che si instaurano generalmente tra colleghi. Tutti e quattro si riuniscono sempre in una stanza privata, una sorta di piccola \"tana\" dove a nessuno è concesso entrare, in cui pianificano tutti i sotterfugi da mettere in atto per il proprio tornaconto. Usano la loro posizione per controllare direttamente gli spacciatori e le gang per creare una serie di intrallazzi per arricchirsi. A lungo andare, finiranno per invischiarsi in traffici più grandi e per coprire le loro mosse illegali cominciano a compierne di peggiori tanto da diventare più criminali dei criminali stessi. Le vite dei quattro detective finiscono per scontrarsi con un destino sempre più duro per colpa delle indagini su di loro che diventeranno sempre più reali e pericolose. Tutto ciò farà nascere, tra i quattro, problemi nel loro rapporto che si trasformeranno in qualcosa di più tragico.",
 "genres": [
+"Crime",
 "Dramma",
-"Commedia"
+"Action & Adventure"
 ]
 },
 {
@@ -4863,60 +4876,43 @@
 {
 "id": "s85",
 "title": "Atlanta",
-"tmdb": 61888,
-"flags": [
-"titolo diverso da TMDB: ID forse sbagliato",
-"anno inizio: file 2016, TMDB 2015",
-"anno fine: file 2022, TMDB 2018",
-"stagioni/episodi: file [10, 11, 10, 10] (41 ep), TMDB [13, 18, 18, 18] (67 ep)"
-],
-"tmdb_title": "The Last Man on Earth",
-"tmdb_orig": "The Last Man on Earth",
-"tmdb_status": "Canceled",
-"tmdb_first": "2015",
-"tmdb_last": "2018",
+"tmdb": 65495,
+"flags": [],
+"tmdb_title": "Atlanta",
+"tmdb_orig": "Atlanta",
+"tmdb_status": "Ended",
+"tmdb_first": "2016",
+"tmdb_last": "2022",
 "tmdb_seasons": [
-13,
-18,
-18,
-18
+10,
+11,
+10,
+10
 ],
-"tmdb_total": 67,
-"tmdb_runtime": 22,
+"tmdb_total": 41,
+"tmdb_runtime": 36,
 "cast": [
 {
-"name": "Will Forte",
-"profile": "/4VEzbkL3HwHTUZAPA5PyypFG2U.jpg"
+"name": "Donald Glover",
+"profile": "/jqVkQfeeEmdga1G0jpBwwXXwwSK.jpg"
 },
 {
-"name": "Kristen Schaal",
-"profile": "/s3LSHVTx8gxHP2twYsXEGa8JbLl.jpg"
+"name": "Brian Tyree Henry",
+"profile": "/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
 },
 {
-"name": "Cleopatra Coleman",
-"profile": "/vA0KiqXasmcvjafImY4hwoxYe8d.jpg"
+"name": "LaKeith Stanfield",
+"profile": "/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg"
 },
 {
-"name": "January Jones",
-"profile": "/9HYdabnECNzUPG9QcO9qLnZZG8h.jpg"
-},
-{
-"name": "Mel Rodriguez",
-"profile": "/wwvthcEDo6WHOHumcoh1tT1IaoB.jpg"
-},
-{
-"name": "Keith L. Williams",
-"profile": "/rGNF9ab1a70wbU72x07qBf7C5GO.jpg"
-},
-{
-"name": "Mary Steenburgen",
-"profile": "/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg"
+"name": "Zazie Beetz",
+"profile": "/ijrT4pvALvxU0gphea4YxDnDh6e.jpg"
 }
 ],
-"trama": "Nel 2020, dopo che una pandemia ha ucciso tutti gli abitanti della Terra, Phil Miller vaga per gli Stati Uniti cercando altri sopravvissuti; dopo non aver trovato nessuno fa ritorno nella sua città natale, Tucson, Arizona; Phil capisce di essere l'ultimo uomo sulla Terra, ma poco prima di suicidarsi in preda alla disperazione e al desiderio di incontrare una donna compare Carol, una donna eccentrica e assillante. Su insistenza di Carol i due si sposano in modo da poter ripopolare la Terra, ma il giorno dopo incontrano un'altra donna, Melissa, bionda e attraente, per la quale Phil fatica a tenere a bada i suoi desideri. Phil, Carol e Melissa incontrano poi un altro uomo, Todd, di cui Phil diventa invidioso nel momento in cui comincia una felice relazione con Melissa.",
+"trama": "Una comedy insolita, dark, strana, ambientata nella scena rap di Atlanta. Ce la farà Earl, il protagonista, a diventare il manager di suo cugino Alfred? E, una volta riuscitoci, riuscirà a farlo ragionare e farlo diventare una vera star? Il tutto con un twist di stranezze alla Twin Peaks.",
 "genres": [
-"Dramma",
-"Commedia"
+"Commedia",
+"Dramma"
 ]
 },
 {
@@ -5070,62 +5066,63 @@
 {
 "id": "s89",
 "title": "The Last Kingdom",
-"tmdb": 64127,
+"tmdb": 63333,
 "flags": [
-"titolo diverso da TMDB: ID forse sbagliato",
-"anno fine: file 2022, TMDB 2015",
-"stagioni/episodi: file [8, 8, 10, 10, 10] (46 ep), TMDB [16] (16 ep)",
-"durata media: file 48 min, TMDB 15 min",
-"TMDB non ha la trama in italiano"
+"durata media: file 48 min, TMDB 60 min"
 ],
-"tmdb_title": "EXO Next Door",
-"tmdb_orig": "우리 옆집에 엑소가 산다",
+"tmdb_title": "The Last Kingdom",
+"tmdb_orig": "The Last Kingdom",
 "tmdb_status": "Ended",
 "tmdb_first": "2015",
-"tmdb_last": "2015",
+"tmdb_last": "2022",
 "tmdb_seasons": [
-16
+8,
+8,
+10,
+10,
+10
 ],
-"tmdb_total": 16,
-"tmdb_runtime": 15,
+"tmdb_total": 46,
+"tmdb_runtime": 60,
 "cast": [
 {
-"name": "찬열",
-"profile": "/tr72HVBxNebxJFhB5JbeATC7a4g.jpg"
+"name": "Alexander Dreymon",
+"profile": "/ifI2QhpUlAwiWNwdDsFMRlPovsk.jpg"
 },
 {
-"name": "문가영",
-"profile": "/sHOzgv3dvHZSDi5ijj5vbYYJwZ4.jpg"
+"name": "Eliza Butterworth",
+"profile": "/4Zy6flJGeEQAix9P0DmQT4rPAVM.jpg"
 },
 {
-"name": "도경수",
-"profile": "/fYjYGWxYydmVxPle1h6QoeRk2b0.jpg"
+"name": "Mark Rowley",
+"profile": "/6Yj5fb9kbkQPeOyxZP3gjGdsnDu.jpg"
 },
 {
-"name": "백현",
-"profile": "/iVnWFqH65BfQNbOarzvNG0JA4ER.jpg"
+"name": "Ruby Hartley",
+"profile": "/wBfjSa8WeYqhusjqzLzldoAsHAO.jpg"
 },
 {
-"name": "세훈",
-"profile": "/hgs0LEGNE5aMZ3pYoT0NzPapFaZ.jpg"
+"name": "James Northcote",
+"profile": "/7eON5XLEGFseOWhSXDh7h5JsF9H.jpg"
 },
 {
-"name": "장유상",
-"profile": "/ljYAPcYaEHULhUwVS51mIsNafWd.jpg"
+"name": "Arnas Fedaravičius",
+"profile": "/7WfcGugvkuPqEzu0cUJBeJPt1lD.jpg"
 },
 {
-"name": "전수진",
-"profile": "/6YJ6ytaBdXUrHqcoEq0f7mUW4ZO.jpg"
+"name": "Harry Gilby",
+"profile": "/4rORd6r6Ts4eYWVhbP9iIsE4CEo.jpg"
 },
 {
-"name": "김희정",
-"profile": "/5Rj388i8PVKYRn4DhlDJPgzspSz.jpg"
+"name": "Timothy Innes",
+"profile": "/aUxpcqfSZjgi0BItJdjp156kilF.jpg"
 }
 ],
-"trama": "",
+"trama": "Mentre Alfred il Grande difende il suo regno dagli invasori scandinavi, Uhtred, nato sassone ma allevato dai vichinghi, rivendica il suo diritto di nascita.",
 "genres": [
-"Commedia",
-"Dramma"
+"Action & Adventure",
+"Dramma",
+"War & Politics"
 ]
 },
 {
@@ -5192,63 +5189,61 @@
 {
 "id": "s91",
 "title": "The Sopranos",
-"tmdb": 705,
-"flags": [
-"titolo diverso da TMDB: ID forse sbagliato",
-"anno inizio: file 1999, TMDB 1983",
-"anno fine: file 2007, TMDB 1986",
-"stagioni/episodi: file [13, 13, 13, 13, 13, 21] (86 ep), TMDB [12, 12, 12] (36 ep)",
-"durata media: file 52 min, TMDB 10 min",
-"TMDB non ha la trama in italiano"
-],
-"tmdb_title": "SuperTed",
-"tmdb_orig": "SuperTed",
+"tmdb": 1398,
+"flags": [],
+"tmdb_title": "The Sopranos",
+"tmdb_orig": "The Sopranos",
 "tmdb_status": "Ended",
-"tmdb_first": "1983",
-"tmdb_last": "1986",
+"tmdb_first": "1999",
+"tmdb_last": "2007",
 "tmdb_seasons": [
-12,
-12,
-12
+13,
+13,
+13,
+13,
+13,
+21
 ],
-"tmdb_total": 36,
-"tmdb_runtime": 10,
+"tmdb_total": 86,
+"tmdb_runtime": 61,
 "cast": [
 {
-"name": "Victor Spinetti",
-"profile": "/8b81yihxP4zxGG9Bj0P5EsWZ3w0.jpg"
+"name": "James Gandolfini",
+"profile": "/vhtsFJZcfHdeDkFBoWMDzOS6xrP.jpg"
 },
 {
-"name": "Roy Kinnear",
-"profile": "/cuKguENjdEiNhNArAL5CqIaTEfE.jpg"
+"name": "Edie Falco",
+"profile": "/jS2Hnr5OmntpX0J7EpH70zAG0mz.jpg"
 },
 {
-"name": "Melvyn Hayes",
-"profile": "/6crjZTxQ93TjqVmiNTXHCkkuKyU.jpg"
+"name": "Jamie-Lynn Sigler",
+"profile": "/Aur8H7qOzDUr9cRaqqOsCE5kLJp.jpg"
 },
 {
-"name": "Sheila Steafel",
-"profile": "/neXaOseSEOA2Wr3mSX8OVijzCmA.jpg"
+"name": "Robert Iler",
+"profile": "/vfTbVoV1Bp2fcDVHaGOIiQppk3J.jpg"
 },
 {
-"name": "Jon Pertwee",
-"profile": "/pNsHcGVwp05L0IUWFPjfZQe4wRe.jpg"
+"name": "Lorraine Bracco",
+"profile": "/tAtpCzN4sTOy1RHpMpJj52zTO4S.jpg"
 },
 {
-"name": "Derek Griffiths",
-"profile": "/speZa3hubFyp2M7Ic4GQBMo0VeY.jpg"
+"name": "Michael Imperioli",
+"profile": "/bCDwQGrecRujCibI8rvsxEc91We.jpg"
 },
 {
-"name": "Peter Hawkins",
-"profile": "/xqoiAIJUjYhR26S3rhLgWKQ6poH.jpg"
+"name": "Steven Van Zandt",
+"profile": "/okh4QNQrGG647y5HnGSXAFFoIlp.jpg"
+},
+{
+"name": "Tony Sirico",
+"profile": "/yiTvFhaPlVIWETNObwqB72hgNeI.jpg"
 }
 ],
-"trama": "",
+"trama": "La famiglia Soprano, i cui avi italiani sono originari di Avellino, vanta importanti contatti con le cosche newyorkesi e mantiene relazioni affaristiche con la Camorra napoletana. Il boss è soggetto ad attacchi di panico che lo portano sul lettino di una psicoanalista, alla quale confida ben presto i suoi turbamenti legati alla famiglia, in particolare nel rapporto col terribile personaggio della madre Livia: i suoi guai però passano anche attraverso il complesso legame con la moglie Carmela (connivente ma estranea alle imprese criminali del marito), i figli adolescenti, lo zio (fratello del padre) che non lo considera come boss e lo contrasta in ogni modo. A questi problemi personali si aggiungono quelli \"lavorativi\", in cui Tony deve destreggiarsi fra l'FBI, traditori della sua stessa famiglia e boss in ascesa di famiglie rivali.",
 "genres": [
-"Animazione",
-"Famiglia",
-"Sci-Fi & Fantasy",
-"Kids"
+"Crime",
+"Dramma"
 ]
 },
 {
@@ -5438,53 +5433,50 @@
 {
 "id": "s95",
 "title": "12 Monkeys",
-"tmdb": 62212,
-"flags": [
-"titolo diverso da TMDB: ID forse sbagliato",
-"anno inizio: file 2015, TMDB 1982",
-"anno fine: file 2018, TMDB 1982",
-"stagioni/episodi: file [13, 13, 10, 11] (47 ep), TMDB [10] (10 ep)",
-"durata media: file 44 min, TMDB 25 min",
-"TMDB non ha la trama in italiano"
-],
-"tmdb_title": "Kreisbrandmeister Felix Martin",
-"tmdb_orig": "Kreisbrandmeister Felix Martin",
+"tmdb": 60948,
+"flags": [],
+"tmdb_title": "12 Monkeys",
+"tmdb_orig": "12 Monkeys",
 "tmdb_status": "Ended",
-"tmdb_first": "1982",
-"tmdb_last": "1982",
+"tmdb_first": "2015",
+"tmdb_last": "2018",
 "tmdb_seasons": [
-10
+13,
+13,
+10,
+11
 ],
-"tmdb_total": 10,
-"tmdb_runtime": 25,
+"tmdb_total": 47,
+"tmdb_runtime": 43,
 "cast": [
 {
-"name": "Wolfgang Kieling",
-"profile": "/fWjtjmyMOxXblncNwdqj7Lk1wtV.jpg"
+"name": "Aaron Stanford",
+"profile": "/xt2c0vdTb6UmSFq6fl09iCcIFve.jpg"
 },
 {
-"name": "Monika Gabriel",
-"profile": null
+"name": "Amanda Schull",
+"profile": "/1u0zGqSDaWOQVYmnpUCmEZ50oJP.jpg"
 },
 {
-"name": "Andrea Rau",
-"profile": "/v7sKF3OkRH5ay3VoFa8LWaJWSfe.jpg"
+"name": "Barbara Sukowa",
+"profile": "/lBPD683veT1RYdXqMAdAsldAtvI.jpg"
 },
 {
-"name": "Gernot Endemann",
-"profile": "/nRQnf1ausj9R7WNCL7puQUoijHE.jpg"
+"name": "Emily Hampshire",
+"profile": "/cw5F0VKKSVzRvQB4CMRXhs6WxoH.jpg"
 },
 {
-"name": "Karlheinz Lemken",
-"profile": "/z3M712pJ3ZZPfuF4wklfZszSbfR.jpg"
+"name": "Alisen Richmond-Peck",
+"profile": "/jKf27PDUjzz3rTxbDgC2IGctzik.jpg"
 },
 {
-"name": "Joachim Rake",
-"profile": null
+"name": "Todd Stashwick",
+"profile": "/seKRXV2HMS36ip4SfQq6PLRiLL2.jpg"
 }
 ],
-"trama": "",
+"trama": "La serie narra le avventure di James Cole, un viaggiatore del tempo arrivato nel presente dall'anno 2043 con la missione di trovare e neutralizzare l'origine della diffusione di un virus mortale che, nel suo tempo, è arrivato a contagiare e uccidere il 93,6% della popolazione mondiale. La diffusione del virus rientra nei piani di un'enigmatica organizzazione nota come \"L'Esercito delle Dodici Scimmie\".",
 "genres": [
+"Sci-Fi & Fantasy",
 "Dramma"
 ]
 },
@@ -5730,65 +5722,56 @@
 {
 "id": "s100",
 "title": "The Americans",
-"tmdb": 1409,
+"tmdb": 46533,
 "flags": [
-"titolo diverso da TMDB: ID forse sbagliato",
-"anno inizio: file 2013, TMDB 2008",
-"anno fine: file 2018, TMDB 2014",
-"stagioni/episodi: file [13, 13, 13, 13, 13, 10] (75 ep), TMDB [13, 13, 13, 14, 13, 13, 13] (92 ep)",
-"durata media: file 44 min, TMDB 77 min"
+"durata media: file 44 min, TMDB 71 min"
 ],
-"tmdb_title": "Sons of Anarchy",
-"tmdb_orig": "Sons of Anarchy",
+"tmdb_title": "The Americans",
+"tmdb_orig": "The Americans",
 "tmdb_status": "Ended",
-"tmdb_first": "2008",
-"tmdb_last": "2014",
+"tmdb_first": "2013",
+"tmdb_last": "2018",
 "tmdb_seasons": [
 13,
 13,
 13,
-14,
 13,
 13,
-13
+10
 ],
-"tmdb_total": 92,
-"tmdb_runtime": 77,
+"tmdb_total": 75,
+"tmdb_runtime": 71,
 "cast": [
 {
-"name": "Charlie Hunnam",
-"profile": "/5WIDrnY25Ps2RYu0zIzHSVuSt5n.jpg"
+"name": "Keri Russell",
+"profile": "/4bLtisDjmCOemk3uC65NAlmdIjz.jpg"
 },
 {
-"name": "Katey Sagal",
-"profile": "/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg"
+"name": "Matthew Rhys",
+"profile": "/8uktKexgPn0tsW3dsXVNqkqiNh7.jpg"
 },
 {
-"name": "Tommy Flanagan",
-"profile": "/cwLJNAezwtCPHTq5YnWhtb8htLn.jpg"
+"name": "Holly Taylor",
+"profile": "/4L31T8MryaStQ1UAp1EuBTOKqLk.jpg"
 },
 {
-"name": "Mark Boone Junior",
-"profile": "/zcYYnZNxOfMOLq7zL0hJheoVM2k.jpg"
+"name": "Keidrich Sellati",
+"profile": "/1IET3cOndkF5QDybmbP3kUojY7p.jpg"
 },
 {
-"name": "Kim Coates",
-"profile": "/brhVd2vTTBJNpM2ZrOFc6SnXCAd.jpg"
+"name": "Noah Emmerich",
+"profile": "/qwPPHYWJ3a9yRwFXicbbHsf60Nm.jpg"
 },
 {
-"name": "Theo Rossi",
-"profile": "/344QE41Jileu4OE41cmYgBxc5BF.jpg"
+"name": "Costa Ronin",
+"profile": "/6PjUNZ6HYCT5PlQdXFI1ue2tOls.jpg"
 },
 {
-"name": "Dayton Callie",
-"profile": "/miB43H7L4OYY5aRSxhoScjcOxu3.jpg"
-},
-{
-"name": "David Labrava",
-"profile": "/l82Y8mleeVznEG2jQDIS1JuZQBd.jpg"
+"name": "Margo Martindale",
+"profile": "/6ANuYnZZJTuQLL4bbt8vH1qDYje.jpg"
 }
 ],
-"trama": "La serie narra le vicende di un club di motociclisti chiamato Sons of Anarchy ed è ambientata nella città immaginaria di Charming, situata nella Valle di San Joaquin in California.",
+"trama": "A Washington D.C., nel pieno della Guerra fredda dei primi anni Ottanta, l'agente di viaggio Philip Jennings e sua moglie Elizabeth conducono la normale vita divisa tra il lavoro e i due figli, ma Philip ed Elizabeth sono nati, cresciuti e addestrati in Unione Sovietica, e inviati in incognito negli Stati Uniti quindici anni prima con l’obiettivo di recuperare ogni tipo di informazione segreta da comunicare al KGB.",
 "genres": [
 "Crime",
 "Dramma"
@@ -5830,61 +5813,52 @@
 {
 "id": "s102",
 "title": "Fallout",
-"tmdb": 118357,
+"tmdb": 106379,
 "flags": [
-"titolo diverso da TMDB: ID forse sbagliato",
-"anno inizio: file 2024, TMDB 2021",
-"anno fine: file , TMDB 2022",
-"stagioni/episodi: file [8] (8 ep), TMDB [10] (10 ep)"
+"stagioni/episodi: file [8] (8 ep), TMDB [8, 8] (16 ep)"
 ],
-"tmdb_title": "1883",
-"tmdb_orig": "1883",
-"tmdb_status": "Ended",
-"tmdb_first": "2021",
-"tmdb_last": "2022",
+"tmdb_title": "Fallout",
+"tmdb_orig": "Fallout",
+"tmdb_status": "Returning Series",
+"tmdb_first": "2024",
+"tmdb_last": "2026",
 "tmdb_seasons": [
-10
+8,
+8
 ],
-"tmdb_total": 10,
-"tmdb_runtime": 65,
+"tmdb_total": 16,
+"tmdb_runtime": 57,
 "cast": [
 {
-"name": "Sam Elliott",
-"profile": "/zE1fpXlIUo7fcujlVlGvHdDiCv6.jpg"
+"name": "Ella Purnell",
+"profile": "/jqrYg35GHuMGwGqEVUthqTLQnay.jpg"
 },
 {
-"name": "Tim McGraw",
-"profile": "/gJdDFQHnsptnjI1bepJ2nxzBPkv.jpg"
+"name": "Aaron Moten",
+"profile": "/h2CJjnDEy2nCbCy6dWzXLmZ4p47.jpg"
 },
 {
-"name": "Faith Hill",
-"profile": "/tt9SRUAxjOkN9RSzc1JEKEQF0HS.jpg"
+"name": "Moisés Arias",
+"profile": "/fc7krDmEA4VkIY4KOJjpMXGdsfg.jpg"
 },
 {
-"name": "Isabel May",
-"profile": "/RJ4djIbfvUHXCCgniiAi0ebhED.jpg"
+"name": "Frances Turner",
+"profile": "/ik2MNJFA2CzeuGtdwrpgUJaidef.jpg"
 },
 {
-"name": "LaMonica Garrett",
-"profile": "/yE5TBZ2qC5LAPDduBQAERo7EF3r.jpg"
+"name": "Kyle MacLachlan",
+"profile": "/7gNyx8fYAUdOp2jpCEH3dyFbeV.jpg"
 },
 {
-"name": "Marc Rissmann",
-"profile": "/m3QTVb7rpJ7M4iRe53to7c669v5.jpg"
-},
-{
-"name": "Audie Rick",
-"profile": "/1yHs76UvYpATU4xZ8rvJtmUItpb.jpg"
-},
-{
-"name": "James Landry Hébert",
-"profile": "/1WC4pv2BWJGNqqoo3CnCelXmGEE.jpg"
+"name": "Walton Goggins",
+"profile": "/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
 }
 ],
-"trama": "La famiglia Dutton intraprende un viaggio verso ovest attraverso le Grandi Pianure verso l'ultimo bastione dell'America selvaggia. Una cruda rivisitazione dell'espansione occidentale e uno studio intenso di una famiglia che fugge dalla povertà per cercare un futuro migliore nella terra promessa dell'America: il Montana.",
+"trama": "Basato su una delle serie di videogiochi più grandi di sempre, Fallout è la storia di chi ha e chi non ha, in un mondo in cui non è rimasto quasi più nulla da possedere. 200 anni dopo l'apocalisse, gli abitanti dei lussuosi rifugi antiatomici sono costretti a tornare nell'irradiato paesaggio infernale che i loro antenati si sono lasciati alle spalle, rimanendo sconvolti dalla scoperta di un universo incredibilmente complesso, gioiosamente bizzarro e altamente violento che li attende.",
 "genres": [
-"Dramma",
-"Western"
+"Action & Adventure",
+"Sci-Fi & Fantasy",
+"Dramma"
 ]
 },
 {
@@ -6137,38 +6111,40 @@
 {
 "id": "s108",
 "title": "Over the Garden Wall",
-"tmdb": 61840,
+"tmdb": 61617,
 "flags": [
-"titolo diverso da TMDB: ID forse sbagliato",
-"anno fine: file , TMDB 2016",
-"stagioni/episodi: file [10] (10 ep), TMDB [6, 6, 6] (18 ep)",
-"durata media: file 11 min, TMDB 45 min",
-"TMDB non ha la trama in italiano"
+"anno fine: file , TMDB 2014"
 ],
-"tmdb_title": "50 Ways To Kill Your Mammy",
-"tmdb_orig": "50 Ways To Kill Your Mammy",
+"tmdb_title": "Over the Garden Wall",
+"tmdb_orig": "Over the Garden Wall",
 "tmdb_status": "Ended",
 "tmdb_first": "2014",
-"tmdb_last": "2016",
+"tmdb_last": "2014",
 "tmdb_seasons": [
-6,
-6,
-6
+10
 ],
-"tmdb_total": 18,
-"tmdb_runtime": 45,
+"tmdb_total": 10,
+"tmdb_runtime": 12,
 "cast": [
 {
-"name": "Baz Ashmawy",
-"profile": "/dlDwafjzz32HBaQLHfqYKM0YqW8.jpg"
+"name": "Elijah Wood",
+"profile": "/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
 },
 {
-"name": "Nancy Ashmawy",
-"profile": null
+"name": "Collin Dean",
+"profile": "/zh58W7LjGDh9sF4ZhKspb9tPIlL.jpg"
+},
+{
+"name": "Melanie Lynskey",
+"profile": "/kzrWI1sTgnA0H7TCIKzDOUtOW4n.jpg"
 }
 ],
-"trama": "",
+"trama": "\"Over the Garden Wall - Avventura nella foresta dei misteri\" narra la storia di due fratelli, Wirt e Greg, che si ritrovano sperduti alla deriva del tempo in una strana foresta chiamata Ignoto. Sperando di ritrovare la strada di casa, Wirt e Greg sono costretti a vagare in questo strano luogo, aiutati da un vecchio saggio taglialegna e da Beatrice, un uccellino azzurro dal carattere impossibile.",
 "genres": [
+"Mistero",
+"Sci-Fi & Fantasy",
+"Animazione",
+"Famiglia",
 "Commedia"
 ]
 },
@@ -6419,7 +6395,7 @@
 "cast": [
 {
 "name": "Winona Ryder",
-"profile": "/8RVrlgtua8b53wmK7oZAAkm0N5O.jpg"
+"profile": "/oYjqkpFCflMz2h6urPpl1nA5sh2.jpg"
 },
 {
 "name": "David Harbour",
@@ -6439,7 +6415,7 @@
 },
 {
 "name": "Caleb McLaughlin",
-"profile": "/wWy6kWlTiHc5HfOWsoKtwNFEsIR.jpg"
+"profile": "/4jVS3EziBn7bf97ErxkW7jsdiLM.jpg"
 },
 {
 "name": "Noah Schnapp",
@@ -6447,7 +6423,7 @@
 },
 {
 "name": "Sadie Sink",
-"profile": "/fV0KHJcK3fYX2acMorDUf1Uv9mY.jpg"
+"profile": "/92FddzBfK50XOUbtwjqHPraoGHy.jpg"
 }
 ],
 "trama": "La scomparsa di un ragazzino in una cittadina porta alla luce un mistero in cui si mescolano esperimenti segreti, spaventose forze soprannaturali e una strana bambina.",
@@ -6460,64 +6436,59 @@
 {
 "id": "s117",
 "title": "Black Sails",
-"tmdb": 31711,
-"flags": [
-"titolo diverso da TMDB: ID forse sbagliato",
-"anno inizio: file 2014, TMDB 2003",
-"anno fine: file 2017, TMDB 2004",
-"stagioni/episodi: file [8, 10, 10, 10] (38 ep), TMDB [13, 13] (26 ep)",
-"durata media: file 52 min, TMDB 25 min"
-],
-"tmdb_title": "GODANNAR!!",
-"tmdb_orig": "神魂合体ゴーダンナー！！",
+"tmdb": 47665,
+"flags": [],
+"tmdb_title": "Black Sails",
+"tmdb_orig": "Black Sails",
 "tmdb_status": "Ended",
-"tmdb_first": "2003",
-"tmdb_last": "2004",
+"tmdb_first": "2014",
+"tmdb_last": "2017",
 "tmdb_seasons": [
-13,
-13
+8,
+10,
+10,
+10
 ],
-"tmdb_total": 26,
-"tmdb_runtime": 25,
+"tmdb_total": 38,
+"tmdb_runtime": 60,
 "cast": [
 {
-"name": "Mai Nakahara",
-"profile": "/s8DBmM540SRlRzUplaapMaDo8vV.jpg"
+"name": "Toby Stephens",
+"profile": "/1NCqxC8kMiKABrZ9Xgt4nNHGxaI.jpg"
 },
 {
-"name": "近藤孝行",
-"profile": "/80t01IkasGucNSqHCp5XEImYPY.jpg"
+"name": "Luke Arnold",
+"profile": "/b19aJzhUAfyQXd0mtmDvLAyOth8.jpg"
 },
 {
-"name": "Mamiko Noto",
-"profile": "/wCSD7Umgzc66p8VGXrrMZtSLSuS.jpg"
+"name": "Hannah New",
+"profile": "/4U4xCtzINm0zjuqSrwmEbmUxJso.jpg"
 },
 {
-"name": "皆川純子",
-"profile": "/vylNOlXVmYFW8TJgq3Dvgoq1dy5.jpg"
+"name": "Jessica Parker Kennedy",
+"profile": "/gbRQ22Vg74HPWwXDbAlRkcSOVNR.jpg"
 },
 {
-"name": "Aya Hisakawa",
-"profile": "/5asVy8H7VSDQKVdURubT0QHjsld.jpg"
+"name": "Toby Schmitz",
+"profile": "/z4lW0Ow2VQJS7j0o8fxqIGm2BBn.jpg"
 },
 {
-"name": "清水香里",
-"profile": "/p5A7efRBlhmhtdyfbpmjJgeUkhq.jpg"
+"name": "Tom Hopper",
+"profile": "/4Bx09xFBXIWIhptQ10yJEPbB1HI.jpg"
 },
 {
-"name": "Akeno Watanabe",
-"profile": "/4E05IJxvTGNHb2GSaiyxbCZ5nd8.jpg"
+"name": "Clara Paget",
+"profile": "/8Z3cGEoXy5g1oMCIJfmwPcCXd3H.jpg"
 },
 {
-"name": "かかずゆみ",
-"profile": "/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
+"name": "Ray Stevenson",
+"profile": "/9QCVNDgTgDEbGsa6w3JuECEPuQz.jpg"
 }
 ],
-"trama": "La Terra viene inaspettatamente attaccata da invasori alieni e come sempre sarà il Giappone ad ergersi a sua difesa. Dopo una lunga e sanguinosa guerra gli alieni vengono sconfitti, ma le perdite sono ingenti e lo stesso protagonista perde la sua partner. Poco dopo salva una ragazza che da allora si innamora di lui. Dieci anni dopo la ragazza è cresciuta ed e’ diventata un’abile pilota. Inoltre e’ prossima a sposarsi con il suo salvatore, che da allora non ha più voluto saperne di combattere. Sfortunatamente, un nemico più potente del solito irromperà sul Giappone e sarà costretto a lasciare la cerimonia. La sposa deciderà di seguirlo e proprio quando tutto sempre perduto arriverà in suo soccorso…",
+"trama": "Il Capitano Flint è il pirata più temuto dei sette mari e insieme alla sua ciurma vive nell'isola di New Providence, un paradiso per avventurieri, ladri, prostitute e disperati in cerca di fortuna. Flint prende sotto la sua ala protettrice il nuovo membro del suo equipaggio, un giovane di nome John Silver, in possesso di una mappa che indica l'ubicazione di un tesoro spagnolo su cui Flint vuole mettere le mani.",
 "genres": [
-"Animazione",
-"Commedia",
-"Sci-Fi & Fantasy"
+"Dramma",
+"Action & Adventure"
 ]
 },
 {
@@ -6555,31 +6526,58 @@
 {
 "id": "s119",
 "title": "When They See Us",
-"tmdb": 86831,
+"tmdb": 81355,
 "flags": [
-"titolo diverso da TMDB: ID forse sbagliato",
-"anno fine: file , TMDB 2025",
-"stagioni/episodi: file [4] (4 ep), TMDB [18, 8, 9, 10] (45 ep)",
-"durata media: file 60 min, TMDB 15 min"
+"anno fine: file , TMDB 2019",
+"durata media: file 60 min, TMDB 89 min"
 ],
-"tmdb_title": "Love, Death & Robots",
-"tmdb_orig": "Love, Death & Robots",
-"tmdb_status": "Canceled",
+"tmdb_title": "When They See Us",
+"tmdb_orig": "When They See Us",
+"tmdb_status": "Ended",
 "tmdb_first": "2019",
-"tmdb_last": "2025",
+"tmdb_last": "2019",
 "tmdb_seasons": [
-18,
-8,
-9,
-10
+4
 ],
-"tmdb_total": 45,
-"tmdb_runtime": 15,
-"cast": [],
-"trama": "Creature terrificanti, sorprese sensazionali e commedia noir in questa serie antologica animata riservata a un pubblico adulto e presentata da Tim Miller e David Fincher.",
+"tmdb_total": 4,
+"tmdb_runtime": 89,
+"cast": [
+{
+"name": "Asante Blackk",
+"profile": "/mB0FG4VH5HXvjFuZ3W8aJO1bfVu.jpg"
+},
+{
+"name": "Jharrel Jerome",
+"profile": "/zH840Fv86TixTLVZKzPZJJacphd.jpg"
+},
+{
+"name": "Ethan Herisse",
+"profile": "/a4QSvqAmdBwN0xKlxSBsWaQMPat.jpg"
+},
+{
+"name": "Marquis Rodriguez",
+"profile": "/cRBXdlvdX8f1W5EZGafQv5nXlXv.jpg"
+},
+{
+"name": "Caleel Harris",
+"profile": "/cZi0NxCQsQSEakTuOg75qukIGW6.jpg"
+},
+{
+"name": "Marsha Stephanie Blake",
+"profile": "/rmt9fiHA9i0A3pFuguhtODdXFIH.jpg"
+},
+{
+"name": "Michael Kenneth Williams",
+"profile": "/mafEXtGlT1qYjGmZtbjo7Ep5qK3.jpg"
+},
+{
+"name": "John Leguizamo",
+"profile": "/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+}
+],
+"trama": "Cinque adolescenti di Harlem vivono un incubo quando sono ingiustamente accusati di una brutale aggressione a Central Park.",
 "genres": [
-"Animazione",
-"Sci-Fi & Fantasy"
+"Dramma"
 ]
 },
 {
