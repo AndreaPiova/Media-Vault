@@ -53,7 +53,10 @@ def imdb_load(need,eps=False):
             for row in rd:
                 if row[1] in need: cnt[row[1]]=cnt.get(row[1],0)+1
     return basics,cnt
-GENRE_IT={'Action':'Azione','Adventure':'Avventura','Animation':'Animazione','Comedy':'Commedia','Crime':'Crimine','Documentary':'Documentario','Drama':'Dramma','Family':'Famiglia','Fantasy':'Fantasy','History':'Storia','Horror':'Horror','Music':'Musica','Mystery':'Mistero','Romance':'Romantico','Science Fiction':'Fantascienza','Thriller':'Thriller','War':'Guerra','Western':'Western'}
+def latin(n): return bool(n) and all(ord(c)<0x250 for c in n)
+def trans_titles(d):
+    return [t['data'].get('title') or t['data'].get('name') for t in (d.get('translations') or {}).get('translations',[]) if t.get('iso_639_1') in ('en','it')]
+GENRE_IT={'Sci-Fi & Fantasy':'Fantascienza','Action & Adventure':'Azione','War & Politics':'Guerra','Kids':'Famiglia','Soap':'Dramma','Reality':'Reality','Talk':'Talk','Action':'Azione','Adventure':'Avventura','Animation':'Animazione','Comedy':'Commedia','Crime':'Crimine','Documentary':'Documentario','Drama':'Dramma','Family':'Famiglia','Fantasy':'Fantasy','History':'Storia','Horror':'Horror','Music':'Musica','Mystery':'Mistero','Romance':'Romantico','Science Fiction':'Fantascienza','Thriller':'Thriller','War':'Guerra','Western':'Western'}
 def poster_check(ours_url,tm_imgs):
     """ritorna (min distanza, hash_cover)"""
     if not ours_url: return None,None
@@ -88,33 +91,38 @@ if SEC=='films':
         fid,title,st,rt,dur,year,trama,director,castS,genres=r; ids=D['MANUAL_TMDB_FILM_ID'].get(fid)
         rec=dict(id=fid,title=title,ours=dict(year=year,duration=dur,director=director,cast=castS,genres=genres,tmdb=ids),flags=[],src={})
         if not ids: rec['flags'].append(('NO_ID','Nessun id TMDB assegnato')); out.append(rec); continue
-        d=tm(f'/movie/{ids}',language='it-IT',append_to_response='credits,external_ids,images',include_image_language='it,en,null')
-        if not d: rec['flags'].append(('ID_TMDB_NON_VALIDO',f'id {ids} non esiste')); out.append(rec); continue
+        d=tm(f'/movie/{ids}',language='it-IT',append_to_response='credits,external_ids,images,translations',include_image_language='it,en,null')
+        if not d: sug=[(c['id'],c.get('title'),(c.get('release_date') or '')[:4]) for c in (tm('/search/movie',query=title,language='it-IT',year=year) or tm('/search/movie',query=title,language='it-IT') or {}).get('results',[])[:3]]; rec['flags'].append(('ID_TMDB_NON_VALIDO',f'id {ids} non esiste; candidati ricerca: {sug}')); out.append(rec); continue
         ry=toint((d.get('release_date') or '0')[:4]); cr=d.get('credits') or {}
         directors=[x['name'] for x in cr.get('crew',[]) if x['job']=='Director']; cast=[x['name'] for x in cr.get('cast',[])[:25]]
         rec['src']['tmdb']=dict(title=d.get('title'),orig=d.get('original_title'),year=ry,runtime=d.get('runtime'),imdb=d['external_ids'].get('imdb_id'),directors=directors[:3],genres=[g['name'] for g in d.get('genres',[])],cast5=cast[:6])
-        names=[d.get('title'),d.get('original_title')]+D['ALT_TITLES'].get(fid,[])
+        names=[d.get('title'),d.get('original_title')]+trans_titles(d)+D['ALT_TITLES'].get(fid,[])
         if max(sim(title,n) for n in names if n)<0.6: rec['flags'].append(('TITOLO',f"'{title}' ≠ TMDB '{d.get('title')}' / '{d.get('original_title')}'"))
         if year and ry and abs(toint(year)-ry)>=1: rec['flags'].append(('ANNO',f"Nostro {year}; TMDB {ry}"))
-        if director and directors and not any(sim(x.strip(),y)>=0.8 for x in re.split(r',|&| e ',director) for y in directors): rec['flags'].append(('REGISTA',f"Nostro '{director}'; TMDB {directors[:3]}"))
+        if director and [x for x in directors if latin(x)] and not any(sim(x.strip(),y)>=0.8 for x in re.split(r',|&| e ',director) for y in directors): rec['flags'].append(('REGISTA',f"Nostro '{director}'; TMDB {directors[:3]}"))
         al=D['FILM_CAST_ALIASES'].get(fid,{})
+        allc=cr.get('cast',[]); latn=[x['name'] for x in allc[:25] if latin(x['name'])]; paths={x.get('profile_path') for x in allc[:40] if x.get('profile_path')}
+        photos=D['FILM_CAST_PHOTOS'].get(fid) or {}
+        def ppath(u): 
+            m=re.search(r'/(\w+\.jpg)',u or ''); return '/'+m.group(1) if m else None
         miss=[]
         for n in [x.strip() for x in (castS or '').split(',') if x.strip()]:
-            n2=al.get(n,n); s,m=person_match(n2,cast)
-            if s<0.8: miss.append(n)
-        if miss: rec['flags'].append(('CAST',f"Non nel cast TMDB (top25): {miss}; TMDB top: {cast[:6]}"))
+            n2=al.get(n,n); s_,m_=person_match(n2,latn)
+            if s_<0.8 and ppath(photos.get(n)) not in paths: miss.append(n)
+        if miss: rec['flags'].append(('CAST',f"Non nel cast TMDB (top25): {miss}; TMDB top: {latn[:6]}"))
         tg=[GENRE_IT.get(g['name'],g['name']) for g in d.get('genres',[])]; oursg=[g for g in (genres or [])]
         if oursg and tg and not (set(norm(x) for x in oursg)&set(norm(x) for x in tg)): rec['flags'].append(('GENERI',f"Nostri {oursg}; TMDB {tg}"))
-        # foto cast
-        prof={x['name']:x.get('profile_path') for x in cr.get('cast',[])}
+        prof={x['name']:x.get('profile_path') for x in allc}
         bad=[]
-        for n,u in (D['FILM_CAST_PHOTOS'].get(fid) or {}).items():
-            n2=al.get(n,n); s,m=person_match(n2,list(prof))
-            if s<0.8: bad.append(f"{n}: non nel cast TMDB")
-            else:
-                pp=prof.get(m); 
-                if not pp: continue
-                if pp not in u: bad.append(f"{n}: foto diversa da TMDB")
+        for n,u in photos.items():
+            n2=al.get(n,n); pp=ppath(u)
+            if pp in paths: continue
+            s_,m_=person_match(n2,[x for x in prof if latin(x)])
+            if s_<0.8: bad.append(f"{n}: persona non nel cast TMDB"); continue
+            tp=prof.get(m_)
+            if not tp: continue
+            h1=hash_url(u); h2=hash_url(IMG+tp)
+            if h1 is None or h2 is None or dist(h1,h2)>14: bad.append(f"{n}: foto diversa da TMDB")
         if bad: rec['flags'].append(('FOTO_CAST','; '.join(bad[:6])))
         # poster
         cover=D['MANUAL_COVERS_FILM'].get(fid); back=D['MANUAL_BACKDROPS_FILM'].get(fid)
@@ -122,7 +130,8 @@ if SEC=='films':
         rec['src']['poster_dist']=dm
         if dm is not None and dm>16:
             idn=identify(title,names,year,hc,'movie') if hc is not None else []
-            rec['flags'].append(('POSTER',f"Copertina non corrisponde ai poster TMDB id {ids} ({d.get('title')} {ry}), distanza {dm}. Candidati per somiglianza: {idn}"))
+            if idn and idn[0][1]!=ids and idn[0][0]<=dm-4: rec['flags'].append(('POSTER_ALTRO_TITOLO',f"La copertina assomiglia di più a {idn[0][2]} ({idn[0][3]}, id {idn[0][1]}, dist {idn[0][0]}) che a id assegnato {ids} {d.get('title')} ({ry}, dist {dm}). Candidati: {idn}"))
+            elif dm>24: rec['flags'].append(('POSTER?',f"Copertina poco simile ai poster TMDB id {ids} ({d.get('title')} {ry}), dist {dm}: verificare a vista. Candidati: {idn}"))
         out.append(rec)
     need={r['src']['tmdb']['imdb'] for r in out if r['src'].get('tmdb',{}).get('imdb')}
     basics,_=imdb_load(need)
@@ -145,12 +154,12 @@ elif SEC=='series':
         if st=='completed' and te and ew!=te: rec['flags'].append(('COERENZA',f"Completata ma visti {ew}/{te}"))
         if seasons and te and sum(seasons)!=te: rec['flags'].append(('COERENZA',f"Somma episodi stagioni {sum(seasons)} ≠ totale {te}"))
         if not ids: rec['flags'].append(('NO_ID','Nessun id TMDB')); out.append(rec); continue
-        d=tm(f'/tv/{ids}',language='it-IT',append_to_response='aggregate_credits,external_ids,images',include_image_language='it,en,null')
+        d=tm(f'/tv/{ids}',language='it-IT',append_to_response='aggregate_credits,external_ids,images,translations',include_image_language='it,en,null')
         if not d: rec['flags'].append(('ID_TMDB_NON_VALIDO',f'id {ids}')); out.append(rec); continue
         fy=toint((d.get('first_air_date') or '0')[:4]); ly=toint((d.get('last_air_date') or '0')[:4]); ended=d.get('status') in ('Ended','Canceled')
         sc=[(s['season_number'],s['episode_count']) for s in d.get('seasons',[]) if s['season_number']>0]
-        rec['src']['tmdb']=dict(name=d.get('name'),orig=d.get('original_name'),first=fy,last=ly,status=d.get('status'),eps=d.get('number_of_episodes'),seasons=[c for _,c in sc],creators=[x['name'] for x in d.get('created_by',[])],imdb=d['external_ids'].get('imdb_id'))
-        if max(sim(title,n) for n in (d.get('name'),d.get('original_name')) if n)<0.6: rec['flags'].append(('TITOLO',f"'{title}' ≠ '{d.get('name')}'/'{d.get('original_name')}'"))
+        rec['src']['tmdb']=dict(name=d.get('name'),orig=d.get('original_name'),first=fy,last=ly,status=d.get('status'),eps=d.get('number_of_episodes'),seasons=[c for _,c in sc],creators=[x['name'] for x in d.get('created_by',[]) if latin(x['name'])],imdb=d['external_ids'].get('imdb_id'))
+        if max(sim(title,n) for n in [d.get('name'),d.get('original_name')]+trans_titles(d) if n)<0.6: rec['flags'].append(('TITOLO',f"'{title}' ≠ '{d.get('name')}'/'{d.get('original_name')}'"))
         if y0 and fy and abs(toint(y0)-fy)>=1: rec['flags'].append(('ANNO_INIZIO',f"Nostro {y0}; TMDB {fy}"))
         if y1 and ly and ended and abs(toint(y1)-ly)>=1: rec['flags'].append(('ANNO_FINE',f"Nostro {y1}; TMDB {ly} (serie {d.get('status')})"))
         if seasons and sc and [c for _,c in sc]!=seasons: rec['flags'].append(('EPISODI_STAGIONE',f"Nostro {seasons}; TMDB {[c for _,c in sc]}"+('' if ended else ' (serie in corso)')))
@@ -158,22 +167,29 @@ elif SEC=='series':
         if cred.get('creators') and rec['src']['tmdb']['creators'] and not any(sim(a,b)>=0.8 for a in cred['creators'] for b in rec['src']['tmdb']['creators']): rec['flags'].append(('CREATORI',f"Nostri {cred['creators']}; TMDB {rec['src']['tmdb']['creators']}"))
         tg=[GENRE_IT.get(g['name'],g['name']) for g in d.get('genres',[])]; og=ov.get('genres') or []
         if og and tg and not (set(norm(x) for x in og)&set(norm(x) for x in tg)): rec['flags'].append(('GENERI',f"Nostri {og}; TMDB {tg}"))
-        ac=(d.get('aggregate_credits') or {}).get('cast',[])[:30]; an=[x['name'] for x in ac]; pr={x['name']:x.get('profile_path') for x in ac}
+        ac=(d.get('aggregate_credits') or {}).get('cast',[])[:40]; an=[x['name'] for x in ac if latin(x['name'])]; pr={x['name']:x.get('profile_path') for x in ac}; paths={x.get('profile_path') for x in ac if x.get('profile_path')}
+        def ppath(u):
+            m=re.search(r'/(\w+\.jpg)',u or ''); return '/'+m.group(1) if m else None
         miss=[];badp=[];badc=[]
         for c in ov.get('cast',[]):
-            s,m=person_match(c['name'],an)
-            if s<0.8: miss.append(c['name']); continue
-            pp=pr.get(m)
-            if pp and c.get('img') and pp not in c['img']: badp.append(c['name'])
-            roles=[x['character'] for x in ac if x['name']==m for x in x.get('roles',[])] if False else [rl['character'] for x0 in ac if x0['name']==m for rl in x0.get('roles',[])]
-            if c.get('character') and roles and not any(sim(c['character'],q)>=0.6 or norm(c['character']) in norm(q) or norm(q) in norm(c['character']) for q in roles): badc.append(f"{c['name']}: '{c['character']}' vs {roles[:3]}")
+            pp0=ppath(c.get('img')); s_,m_=person_match(c['name'],an)
+            hit=[x for x in ac if x.get('profile_path')==pp0] if pp0 else []
+            if s_<0.8 and not hit: miss.append(c['name']); continue
+            who=hit[0] if hit else next(x for x in ac if x['name']==m_)
+            tp=who.get('profile_path')
+            if tp and c.get('img') and pp0!=tp:
+                h1=hash_url(c['img']); h2=hash_url(IMG+tp)
+                if h1 is None or h2 is None or dist(h1,h2)>14: badp.append(c['name'])
+            roles=[rl['character'] for rl in who.get('roles',[])]
+            if c.get('character') and roles and latin(roles[0]) and not any(sim(c['character'],q)>=0.6 or norm(c['character']) in norm(q) or norm(q) in norm(c['character']) for q in roles): badc.append(f"{c['name']}: '{c['character']}' vs {roles[:3]}")
         if miss: rec['flags'].append(('CAST',f"Non nel cast TMDB: {miss}; TMDB top: {an[:8]}"))
         if badp: rec['flags'].append(('FOTO_CAST',f"Foto diversa da TMDB: {badp}"))
         if badc: rec['flags'].append(('PERSONAGGIO',f"{badc[:5]}"))
         cover=D['MANUAL_COVERS_SERIE'].get(sid); dm,hc=poster_check(cover,imgs_of(d)); rec['src']['poster_dist']=dm
         if dm is not None and dm>16:
             idn=identify(title,[d.get('name')],y0,hc,'tv') if hc is not None else []
-            rec['flags'].append(('POSTER',f"Copertina non corrisponde ai poster TMDB id {ids} ({d.get('name')} {fy}), distanza {dm}. Candidati: {idn}"))
+            if idn and idn[0][1]!=ids and idn[0][0]<=dm-4: rec['flags'].append(('POSTER_ALTRO_TITOLO',f"La copertina assomiglia di più a {idn[0][2]} ({idn[0][3]}, id {idn[0][1]}, dist {idn[0][0]}) che a id {ids} {d.get('name')} ({fy}, dist {dm})"))
+            elif dm>24: rec['flags'].append(('POSTER?',f"Copertina poco simile (dist {dm}) a id {ids} {d.get('name')} {fy}: verificare a vista. Candidati: {idn}"))
         out.append(rec)
     need={r['src']['tmdb']['imdb'] for r in out if r['src'].get('tmdb',{}).get('imdb')}
     basics,cnt=imdb_load(need,True)
@@ -185,5 +201,8 @@ elif SEC=='series':
         if te and t.get('eps') and c and te!=t['eps'] and te!=c and not any(f[0]=='EPISODI' for f in r['flags']) : r['flags'].append(('EPISODI?',f"Nostro {te}; TMDB {t['eps']}, IMDb {c}"))
         y0=toint(r['ours']['y0'])
         if b and b.get('year') and y0 and abs(b['year']-y0)>=1 and t.get('first') and abs(b['year']-t['first'])>=1: r['flags'].append(('ANNO_FONTI',f"Nostro {y0}; TMDB {t['first']}; IMDb {b['year']}"))
+for r in out:
+    k={f[0] for f in r['flags']}; sc=len(k&{'TITOLO','ANNO','POSTER_ALTRO_TITOLO','ANNO_INIZIO','GENERI','REGISTA','CREATORI'})
+    if sc>=2: r['flags'].insert(0,('ID_TMDB_SOSPETTO',f"{sc} indizi concordi: l'id TMDB assegnato ({r['ours'].get('tmdb')}) potrebbe riferirsi a un altro titolo/omonimo"))
 json.dump(out,open(f'data/verify2/{SEC}_{si}.json','w'),ensure_ascii=False,indent=1,default=list)
 print(SEC,si,len(out),'con flag',sum(1 for r in out if r['flags']))
