@@ -5,6 +5,8 @@ SEC=sys.argv[1]; SH=sys.argv[2] if len(sys.argv)>2 else '0/1'; si,sn=map(int,SH.
 K='2dca580c2a14b55200e784d157207b4d'; TB='https://api.themoviedb.org/3'; IMG='https://image.tmdb.org/t/p/w185'
 D=json.load(open('data/v43.json')); S=requests.Session(); S.headers['User-Agent']='MediaVault-verify2/1.0'
 os.makedirs('data/verify2',exist_ok=True)
+FIX=json.load(open('data/id_fixes_films.json')) if os.path.exists('data/id_fixes_films.json') and os.environ.get('FIXED')=='1' else {}
+ONLYFIX=os.environ.get('FIXED')=='1'
 def norm(s):
     s=unicodedata.normalize('NFKD',html.unescape(s or '')).encode('ascii','ignore').decode().lower()
     s=re.sub(r"\b(the|il|lo|la|le|i|gli|l|un|una|a|an)\b",' ',s)
@@ -86,10 +88,11 @@ def identify(title,alts,year,hc,kind):
     best.sort(); return best[:3]
 out=[]
 if SEC=='films':
-    rows=[r for i,r in enumerate(D['FILMS_RAW']) if i%sn==si]; 
+    rows=[r for i,r in enumerate(D['FILMS_RAW']) if i%sn==si and (not ONLYFIX or r[0] in FIX)]; 
     for r in rows:
-        fid,title,st,rt,dur,year,trama,director,castS,genres=r; ids=D['MANUAL_TMDB_FILM_ID'].get(fid)
+        fid,title,st,rt,dur,year,trama,director,castS,genres=r; ids=FIX.get(fid) or D['MANUAL_TMDB_FILM_ID'].get(fid)
         rec=dict(id=fid,title=title,ours=dict(year=year,duration=dur,director=director,cast=castS,genres=genres,tmdb=ids),flags=[],src={})
+        if fid in FIX: rec['id_corretto']=dict(da=D['MANUAL_TMDB_FILM_ID'].get(fid),a=ids)
         if not ids: rec['flags'].append(('NO_ID','Nessun id TMDB assegnato')); out.append(rec); continue
         d=tm(f'/movie/{ids}',language='it-IT',append_to_response='credits,external_ids,images,translations',include_image_language='it,en,null')
         if not d: sug=[(c['id'],c.get('title'),(c.get('release_date') or '')[:4]) for c in (tm('/search/movie',query=title,language='it-IT',year=year) or tm('/search/movie',query=title,language='it-IT') or {}).get('results',[])[:3]]; rec['flags'].append(('ID_TMDB_NON_VALIDO',f'id {ids} non esiste; candidati ricerca: {sug}')); out.append(rec); continue
@@ -204,5 +207,5 @@ elif SEC=='series':
 for r in out:
     k={f[0] for f in r['flags']}; sc=len(k&{'TITOLO','ANNO','POSTER_ALTRO_TITOLO','ANNO_INIZIO','GENERI','REGISTA','CREATORI'})
     if sc>=2: r['flags'].insert(0,('ID_TMDB_SOSPETTO',f"{sc} indizi concordi: l'id TMDB assegnato ({r['ours'].get('tmdb')}) potrebbe riferirsi a un altro titolo/omonimo"))
-json.dump(out,open(f'data/verify2/{SEC}_{si}.json','w'),ensure_ascii=False,indent=1,default=list)
+json.dump(out,open(f'data/verify2/{SEC}{"_fix" if ONLYFIX else ""}_{si}.json','w'),ensure_ascii=False,indent=1,default=list)
 print(SEC,si,len(out),'con flag',sum(1 for r in out if r['flags']))
