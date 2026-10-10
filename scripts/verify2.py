@@ -50,6 +50,7 @@ Q="""query($m:Int){Media(idMal:$m,type:ANIME){id format status episodes duration
 def anime(x):
     o={"id":x["id"],"title":x["title"],"file_eps":x["totalEps"],"file_dur":x["duration"]}
     if not x.get("mal"): o["err"]="nessun ID MAL"; return o
+    m=None
     for i in range(5):
         try:
             r=S.post("https://graphql.anilist.co",json={"query":Q,"variables":{"m":x["mal"]}},timeout=40)
@@ -60,8 +61,14 @@ def anime(x):
     o.update({"al_format":m["format"],"al_status":m["status"],"al_eps":m["episodes"],"al_dur":m["duration"],"al_year":m["seasonYear"] or (m["startDate"] or {}).get("year"),"al_title":m["title"]["english"] or m["title"]["romaji"]}); time.sleep(0.8)
     return o
 inp=json.load(open("scripts/series-verify-input.json",encoding="utf-8")); v2=json.load(open("scripts/verify2-input.json",encoding="utf-8"))
-with ThreadPoolExecutor(5) as ex: ser=list(ex.map(serie,inp)); fil=list(ex.map(film,v2["films"]))
-ani=[anime(x) for x in v2["anime"]]
+def safe(fn):
+    def w(x):
+        try: return fn(x)
+        except Exception as e: return {"id":x["id"],"title":x["title"],"err":"errore: "+str(e)[:120]}
+    return w
+with ThreadPoolExecutor(5) as pool:
+    ser=list(pool.map(safe(serie),inp)); fil=list(pool.map(safe(film),v2["films"]))
+ani=[safe(anime)(x) for x in v2["anime"]]
 os.makedirs("data",exist_ok=True)
 json.dump({"serie":ser,"film":fil,"anime":ani},open("data/verify2.json","w",encoding="utf-8"),ensure_ascii=False)
 print(len(ser),len(fil),len(ani))
