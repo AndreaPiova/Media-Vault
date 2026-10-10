@@ -17,7 +17,8 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install requests
-      - run: python scripts/verify-data.py ${{ matrix.sec }}
+      - run: |
+          if grep -qw "${{ matrix.sec }}" scripts/verify.sections 2>/dev/null; then python scripts/verify-data.py ${{ matrix.sec }}; else echo skip; fi
       - if: always()
         run: |
           git config user.name "mediavault-bot"; git config user.email "bot@users.noreply.github.com"

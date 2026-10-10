@@ -87,14 +87,19 @@ if SEC=='films':
         base,nth=ordinal_split(title); ym=re.search(r'\((\d{4})\)\s*$',title)
         if ym: y=y or int(ym.group(1)); base=re.sub(r'\s*\(\d{4}\)\s*$','',base)
         chosen=None; note=''
-        if nth and not y:
-            rs=sorted(rank(base,cands_movie(base,None)),key=lambda x:(-(x[0]>=0.85),-x[1]))
-            if rs and rs[0][0]>=0.8:
-                d0=tm(f"/movie/{rs[0][2]['id']}",language='it-IT') or {}
+        if nth:
+            cs=cands_movie(base,None); rs=sorted([x for x in rank(base,cs) if x[0]>=0.8],key=lambda x:-x[1])[:4]
+            for _,_,c0 in rs:
+                d0=tm(f"/movie/{c0['id']}",language='it-IT') or {}
                 col=(d0.get('belongs_to_collection') or {}).get('id')
-                if col:
-                    parts=sorted([x for x in (tm(f'/collection/{col}',language='it-IT') or {}).get('parts',[]) if x.get('release_date')],key=lambda x:x['release_date'])
-                    if len(parts)>=nth: chosen=parts[nth-1]; note=f'{nth}° film della saga'
+                if not col: continue
+                parts=sorted([x for x in (tm(f'/collection/{col}',language='it-IT') or {}).get('parts',[]) if x.get('release_date')],key=lambda x:x['release_date'])
+                if len(parts)>=nth:
+                    cand=parts[nth-1]; cy=toint(cand['release_date'][:4])
+                    if y and cy and abs(cy-y)>1:
+                        ok_=[x for x in parts if abs((toint(x['release_date'][:4]) or 0)-y)<=1]
+                        if ok_: cand=ok_[0]
+                    chosen=cand; note=f'{nth}° film della saga'; break
         if not chosen:
             cs=cands_movie(base,y); rs=rank(base,cs)
             good=[x for x in rs if x[0]>=0.88] or [x for x in rs if x[0]>=0.6][:1]
@@ -208,32 +213,38 @@ elif SEC=='anime':
         out.append(rec); time.sleep(0.6)
 # ---------------- MANGA ----------------
 elif SEC=='manga':
-    clog=json.load(open('data/manga-covers-log.json'))
+    eds=json.load(open('data/manga-editions.json'))
+    AQ="query($s:String){Page(perPage:5){media(search:$s,type:MANGA){id title{romaji english native} volumes chapters startDate{year} status countryOfOrigin format}}}"
+    def anilist(q,v):
+        for _ in range(5):
+            try:
+                r=S.post('https://graphql.anilist.co',json=dict(query=q,variables=v),timeout=40)
+                if r.status_code==200: return r.json()['data']['Page']['media']
+                time.sleep(8 if r.status_code==429 else 3)
+            except Exception: time.sleep(3)
+        return None
     for mid,title,st,rt,note,tv,ppv,vo,vr,ed,vt,sp in RAW['MANGA_RAW']:
         rec=dict(id=mid,title=title,ours=dict(totalVols=tv,volsOwned=vo,volsRead=vr,edition=ed,volType=vt,price=ppv,status=st),flags=[],src={})
         if tv:
             if vo and vo>tv: rec['flags'].append(('COERENZA',f"Posseduti {vo} > totali {tv}"))
             if vr and vr>tv: rec['flags'].append(('COERENZA',f"Letti {vr} > totali {tv}"))
             if st=='completed' and vr is not None and vr!=tv: rec['flags'].append(('COERENZA',f"Completato ma letti {vr}/{tv}"))
-        cl=clog.get(mid)
-        if cl: rec['src']['animeclick']=dict(groups=cl.get('groups'),chosen=cl.get('chosen'),expected=cl.get('expected'))
-        time.sleep(0.4); res=(JK('https://api.jikan.moe/v4/manga',dict(q=title,limit=6)) or {}).get('data',[])
-        sc=best(title,res,lambda c:[c.get('title'),c.get('title_english')]+[t['title'] for t in c.get('titles',[])])
-        if sc and sc[0][0]>=0.75:
-            c=sc[0][1]; rec['src']['jikan']=dict(mal=c['mal_id'],title=c['title'],volumes=c.get('volumes'),chapters=c.get('chapters'),status=c.get('status'),year=(c.get('published',{}).get('prop',{}).get('from',{}) or {}).get('year'))
-        q='''query($s:String){Page(perPage:5){media(search:$s,type:MANGA){id title{romaji english} volumes chapters startDate{year} status}}}'''
-        try:
-            r=S.post('https://graphql.anilist.co',json=dict(query=q,variables=dict(s=title)),timeout=40); ms=r.json()['data']['Page']['media'] if r.status_code==200 else []
-        except Exception: ms=[]
-        sa=best(title,ms,lambda c:[c['title'].get('romaji'),c['title'].get('english')]) if ms else []
+        groups=[(html.unescape(g['group']).replace('\xa0',' ').strip(),g['maxVol'],g['count']) for g in (eds.get(mid) or {}).get('editions',[])]
+        if groups:
+            want=(title+' '+ed).strip()
+            sc=sorted([(sim(want,g[0])+(0.05 if ed and any(w in norm(g[0]) for w in norm(ed).split()) else 0),g) for g in groups],key=lambda x:-x[0])
+            top=sc[0]
+            rec['src']['animeclick']=dict(matched=top[1][0],maxVol=top[1][1],count=top[1][2],score=round(top[0],2),all=[f"{g[0]}: max vol {g[1]}, {g[2]} uscite" for g in groups][:8])
+            if tv and top[0]>=0.8 and top[1][1] and top[1][1]!=tv:
+                rec['flags'].append(('VOLUMI_IT',f"Nostro {tv}; AnimeClick '{top[1][0]}' ultimo volume {top[1][1]} ({top[1][2]} uscite)"))
+            elif top[0]<0.8: rec['flags'].append(('EDIZIONE?',f"Nessun gruppo AnimeClick coincide con '{want}': "+'; '.join(rec['src']['animeclick']['all'][:4])))
+        time.sleep(1.0)
+        ms=anilist(AQ,dict(s=title))
+        sa=best(title,ms or [],lambda c:[c['title'].get('romaji'),c['title'].get('english')]) if ms else []
         if sa and sa[0][0]>=0.75:
-            c=sa[0][1]; rec['src']['anilist']=dict(id=c['id'],title=c['title'].get('romaji'),volumes=c.get('volumes'),chapters=c.get('chapters'),status=c.get('status'),year=(c.get('startDate') or {}).get('year'))
-        j=rec['src'].get('jikan'); a=rec['src'].get('anilist'); ac=rec['src'].get('animeclick')
-        if not j and not a: rec['flags'].append(('NON_TROVATO','Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore'))
-        jv=[v for v in ((j or {}).get('volumes'),(a or {}).get('volumes')) if v]
-        if tv and jv and all(tv!=v for v in jv) and not ed:
-            rec['flags'].append(('VOLUMI',f"Nostro {tv}; Jikan {(j or {}).get('volumes')}, AniList {(a or {}).get('volumes')}"+(f", AnimeClick edizione scelta {ac['expected']}" if ac else '')))
-        if tv and ac and ac.get('expected') and ac['expected']!=tv: rec['flags'].append(('VOLUMI_IT',f"Nostro {tv}; AnimeClick edizione '{ac['chosen']}' indica {ac['expected']}"+(' — verificare' )))
+            c=sa[0][1]; rec['src']['anilist']=dict(id=c['id'],title=c['title'].get('romaji'),volumes=c.get('volumes'),chapters=c.get('chapters'),status=c.get('status'),year=(c.get('startDate') or {}).get('year'),country=c.get('countryOfOrigin'))
+            if tv and c.get('volumes') and tv>c['volumes'] and c.get('status')=='FINISHED': rec['flags'].append(('VOLUMI',f"Nostro {tv} > volumi originali {c['volumes']} (AniList, serie conclusa)"))
+        elif ms is None: rec['flags'].append(('FONTE_NON_RAGGIUNGIBILE','AniList non risponde'))
         out.append(rec)
 json.dump(out,open(f'data/verify/{SEC}.json','w'),ensure_ascii=False,indent=1,default=list)
 print(SEC,len(out),'con flag:',sum(1 for r in out if r['flags']))
