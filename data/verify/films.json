@@ -364,8 +364,8 @@
     ],
     "director": [
      "Aldo Baglio",
-     "Giacomo Poretti",
-     "Massimo Venier"
+     "Massimo Venier",
+     "Giacomo Poretti"
     ]
    },
    "imdb": {
@@ -1256,8 +1256,8 @@
      "Commedia"
     ],
     "director": [
-     "Éric Toledano",
-     "Olivier Nakache"
+     "Olivier Nakache",
+     "Éric Toledano"
     ]
    },
    "imdb": {
@@ -1461,7 +1461,7 @@
     "genres": "Action,Mystery,Sci-Fi"
    }
   },
-  "note": ""
+  "note": "1° film della saga"
  },
  {
   "id": "f42",
@@ -1571,12 +1571,7 @@
     "genres": "Drama,Sport"
    }
   },
-  "alternatives": [
-   "Rocky (1976, 119 min)",
-   "Rocky (1976, 20 min)",
-   "Rocky (2017, 15 min)"
-  ],
-  "note": ""
+  "note": "1° film della saga"
  },
  {
   "id": "f45",
@@ -1873,11 +1868,7 @@
     "genres": "Crime,Mystery,Thriller"
    }
   },
-  "alternatives": [
-   "Now You See Me - I maghi del crimine (2013, 115 min)",
-   "Now You See Me 2 (2016, 129 min)"
-  ],
-  "note": ""
+  "note": "1° film della saga"
  },
  {
   "id": "f53",
@@ -2545,44 +2536,32 @@
    "duration": 91,
    "cover_year": 1985
   },
-  "flags": [
-   [
-    "ANNO",
-    "Anno copertina 1985 ≠ TMDB 1976"
-   ],
-   [
-    "DURATA",
-    "Nostro 91 min; TMDB 119, IMDb 120 → proposta 120"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
-    "id": 1366,
-    "title": "Rocky",
-    "orig": "Rocky",
-    "year": 1976,
-    "runtime": 119,
-    "imdb": "tt0075148",
+    "id": 1374,
+    "title": "Rocky IV",
+    "orig": "Rocky IV",
+    "year": 1985,
+    "runtime": 91,
+    "imdb": "tt0089927",
     "genres": [
-     "Dramma"
+     "Dramma",
+     "Azione"
     ],
     "director": [
-     "John G. Avildsen"
+     "Sylvester Stallone"
     ]
    },
    "imdb": {
-    "id": "tt0075148",
-    "title": "Rocky",
-    "year": 1976,
-    "runtime": 120,
+    "id": "tt0089927",
+    "title": "Rocky IV",
+    "year": 1985,
+    "runtime": 91,
     "genres": "Drama,Sport"
    }
   },
-  "alternatives": [
-   "Rocky (1976, 119 min)",
-   "Rocky (2017, 15 min)"
-  ],
-  "note": ""
+  "note": "4° film della saga"
  },
  {
   "id": "f72",
@@ -3214,13 +3193,7 @@
     "genres": "Action,Adventure,Comedy"
    }
   },
-  "alternatives": [
-   "Men in Black 3 (2012, 106 min)",
-   "Men in Black II (2002, 88 min)",
-   "Men in Black (1997, 98 min)",
-   "Men in Black (1934, 19 min)"
-  ],
-  "note": ""
+  "note": "3° film della saga"
  },
  {
   "id": "f89",
@@ -4113,11 +4086,7 @@
     "genres": "Action,Adventure,Comedy"
    }
   },
-  "alternatives": [
-   "Now You See Me 2 (2016, 129 min)",
-   "Now You See Me - I maghi del crimine (2013, 115 min)"
-  ],
-  "note": ""
+  "note": "2° film della saga"
  },
  {
   "id": "f113",
@@ -4199,13 +4168,7 @@
     "genres": "Action,Adventure,Comedy"
    }
   },
-  "alternatives": [
-   "Men in Black (1997, 98 min)",
-   "Men in Black II (2002, 88 min)",
-   "Men in Black 3 (2012, 106 min)",
-   "Men in Black (1934, 19 min)"
-  ],
-  "note": ""
+  "note": "1° film della saga"
  },
  {
   "id": "f115",
@@ -4272,8 +4235,8 @@
      "Commedia"
     ],
     "director": [
-     "Aldo Baglio",
      "Giovanni Storti",
+     "Aldo Baglio",
      "Giacomo Poretti"
     ]
    },
@@ -4294,28 +4257,19 @@
    "duration": 143,
    "cover_year": 2018
   },
-  "flags": [
-   [
-    "ANNO",
-    "Anno copertina 2018 ≠ TMDB 2014"
-   ],
-   [
-    "DURATA",
-    "Nostro 143 min; TMDB 113, IMDb 113 → proposta 113"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
-    "id": 198663,
-    "title": "Maze Runner - Il labirinto",
-    "orig": "The Maze Runner",
-    "year": 2014,
-    "runtime": 113,
-    "imdb": "tt1790864",
+    "id": 336843,
+    "title": "Maze Runner - La rivelazione",
+    "orig": "Maze Runner: The Death Cure",
+    "year": 2018,
+    "runtime": 141,
+    "imdb": "tt4500922",
     "genres": [
-     "Azione",
-     "Mistero",
      "Fantascienza",
+     "Azione",
+     "Avventura",
      "Thriller"
     ],
     "director": [
@@ -4323,14 +4277,14 @@
     ]
    },
    "imdb": {
-    "id": "tt1790864",
-    "title": "The Maze Runner",
-    "year": 2014,
-    "runtime": 113,
-    "genres": "Action,Mystery,Sci-Fi"
+    "id": "tt4500922",
+    "title": "Maze Runner: The Death Cure",
+    "year": 2018,
+    "runtime": 143,
+    "genres": "Action,Adventure,Sci-Fi"
    }
   },
-  "note": ""
+  "note": "3° film della saga"
  },
  {
   "id": "f118",
@@ -4833,39 +4787,34 @@
    "duration": 131,
    "cover_year": 2015
   },
-  "flags": [
-   [
-    "DURATA",
-    "Nostro 131 min; TMDB 113, IMDb 113 → proposta 113"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
-    "id": 198663,
-    "title": "Maze Runner - Il labirinto",
-    "orig": "The Maze Runner",
-    "year": 2014,
-    "runtime": 113,
-    "imdb": "tt1790864",
+    "id": 294254,
+    "title": "Maze Runner - La fuga",
+    "orig": "Maze Runner: The Scorch Trials",
+    "year": 2015,
+    "runtime": 132,
+    "imdb": "tt4046784",
     "genres": [
-     "Azione",
-     "Mistero",
      "Fantascienza",
-     "Thriller"
+     "Azione",
+     "Thriller",
+     "Avventura"
     ],
     "director": [
      "Wes Ball"
     ]
    },
    "imdb": {
-    "id": "tt1790864",
-    "title": "The Maze Runner",
-    "year": 2014,
-    "runtime": 113,
-    "genres": "Action,Mystery,Sci-Fi"
+    "id": "tt4046784",
+    "title": "Maze Runner: The Scorch Trials",
+    "year": 2015,
+    "runtime": 131,
+    "genres": "Action,Adventure,Sci-Fi"
    }
   },
-  "note": ""
+  "note": "2° film della saga"
  },
  {
   "id": "f132",
@@ -4947,13 +4896,7 @@
     "genres": "Action,Adventure,Comedy"
    }
   },
-  "alternatives": [
-   "Men in Black II (2002, 88 min)",
-   "Men in Black (1997, 98 min)",
-   "Men in Black 3 (2012, 106 min)",
-   "Men in Black (1934, 19 min)"
-  ],
-  "note": ""
+  "note": "2° film della saga"
  },
  {
   "id": "f134",
@@ -5483,40 +5426,32 @@
    "duration": 119,
    "cover_year": 1979
   },
-  "flags": [
-   [
-    "ANNO",
-    "Anno copertina 1979 ≠ TMDB 1976"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
-    "id": 1366,
-    "title": "Rocky",
-    "orig": "Rocky",
-    "year": 1976,
+    "id": 1367,
+    "title": "Rocky II",
+    "orig": "Rocky II",
+    "year": 1979,
     "runtime": 119,
-    "imdb": "tt0075148",
+    "imdb": "tt0079817",
     "genres": [
-     "Dramma"
+     "Dramma",
+     "Azione"
     ],
     "director": [
-     "John G. Avildsen"
+     "Sylvester Stallone"
     ]
    },
    "imdb": {
-    "id": "tt0075148",
-    "title": "Rocky",
-    "year": 1976,
-    "runtime": 120,
+    "id": "tt0079817",
+    "title": "Rocky II",
+    "year": 1979,
+    "runtime": 119,
     "genres": "Drama,Sport"
    }
   },
-  "alternatives": [
-   "Rocky (1976, 119 min)",
-   "Rocky (2017, 15 min)"
-  ],
-  "note": ""
+  "note": "2° film della saga"
  },
  {
   "id": "f149",
@@ -5602,44 +5537,32 @@
    "duration": 99,
    "cover_year": 1982
   },
-  "flags": [
-   [
-    "ANNO",
-    "Anno copertina 1982 ≠ TMDB 1976"
-   ],
-   [
-    "DURATA",
-    "Nostro 99 min; TMDB 119, IMDb 120 → proposta 120"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
-    "id": 1366,
-    "title": "Rocky",
-    "orig": "Rocky",
-    "year": 1976,
-    "runtime": 119,
-    "imdb": "tt0075148",
+    "id": 1371,
+    "title": "Rocky III",
+    "orig": "Rocky III",
+    "year": 1982,
+    "runtime": 99,
+    "imdb": "tt0084602",
     "genres": [
-     "Dramma"
+     "Dramma",
+     "Azione"
     ],
     "director": [
-     "John G. Avildsen"
+     "Sylvester Stallone"
     ]
    },
    "imdb": {
-    "id": "tt0075148",
-    "title": "Rocky",
-    "year": 1976,
-    "runtime": 120,
+    "id": "tt0084602",
+    "title": "Rocky III",
+    "year": 1982,
+    "runtime": 99,
     "genres": "Drama,Sport"
    }
   },
-  "alternatives": [
-   "Rocky (1976, 119 min)",
-   "Rocky (2017, 15 min)"
-  ],
-  "note": ""
+  "note": "3° film della saga"
  },
  {
   "id": "f152",
@@ -6165,8 +6088,8 @@
      "televisione film"
     ],
     "director": [
-     "Arthur Rankin Jr.",
-     "Jules Bass"
+     "Jules Bass",
+     "Arthur Rankin Jr."
     ]
    },
    "imdb": {
@@ -8226,8 +8149,8 @@
      "Thriller"
     ],
     "director": [
-     "J. Mackye Gruber",
-     "Eric Bress"
+     "Eric Bress",
+     "J. Mackye Gruber"
     ]
    },
    "imdb": {
@@ -9630,7 +9553,7 @@
     "director": [
      "Massimo Venier",
      "Aldo Baglio",
-     "Giovanni Storti"
+     "Giacomo Poretti"
     ]
    },
    "imdb": {
@@ -13820,8 +13743,8 @@
      "Fantascienza"
     ],
     "director": [
-     "Justin K. Thompson",
      "Kemp Powers",
+     "Justin K. Thompson",
      "Joaquim Dos Santos"
     ]
    },
