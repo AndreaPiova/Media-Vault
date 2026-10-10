@@ -1,0 +1,1310 @@
+[
+ {
+  "id": "a3",
+  "title": "Hunter x Hunter",
+  "ours": {
+   "totalEps": 148,
+   "epsWatched": 148,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "STUDIO",
+    "Nostri ['Madhouse']; AniList ['Nippon Animation']"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Meruem', 'Biscuit Krueger']. AniList main: ['Killua Zoldyck', 'Kurapika', 'Gon Freecss', 'Leorio Paradinight']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "HUNTER×HUNTER",
+    "eps": 62,
+    "duration": 23,
+    "year": 1999,
+    "status": "FINISHED",
+    "mal": 136
+   }
+  }
+ },
+ {
+  "id": "a7",
+  "title": "Dr. Stone",
+  "ours": {
+   "totalEps": 95,
+   "epsWatched": 53,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Completato ma visti 53/95"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Ryusui Nanami']. AniList main: ['Senkuu Ishigami', 'Kohaku', 'Chrome', 'Tsukasa Shishiou', 'Taiju Ooki', 'Yuzuriha Ogawa']"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Ukyo Saionji']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Dr. STONE",
+    "eps": 24,
+    "duration": 24,
+    "year": 2019,
+    "status": "FINISHED",
+    "mal": 38691
+   },
+   "catena": [
+    "Dr. STONE (TV,2019,24 ep)",
+    "Dr. STONE: STONE WARS (TV,2021,11 ep)",
+    "Dr. STONE: Ryuusui (SPECIAL,2022,1 ep)",
+    "Dr. STONE: NEW WORLD (TV,2023,11 ep)",
+    "Dr. STONE: NEW WORLD Part 2 (TV,2023,11 ep)",
+    "Dr. STONE: SCIENCE FUTURE (TV,2025,12 ep)",
+    "Dr. STONE: SCIENCE FUTURE Part 2 (TV,2025,12 ep)",
+    "Dr. STONE: SCIENCE FUTURE Part 3 (TV,2026,13 ep)",
+    "Dr.STONE: TERRAFORMING (None,None,None ep)"
+   ]
+  }
+ },
+ {
+  "id": "a11",
+  "title": "Kuroko no Basket",
+  "ours": {
+   "totalEps": 75,
+   "epsWatched": 75,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Kuroko no Basket",
+    "eps": 25,
+    "duration": 24,
+    "year": 2012,
+    "status": "FINISHED",
+    "mal": 11771
+   },
+   "catena": [
+    "Kuroko no Basket (TV,2012,25 ep)",
+    "Kuroko no Basket: Tip Off (SPECIAL,2013,1 ep)",
+    "Kuroko no Basket 2nd SEASON (TV,2013,25 ep)",
+    "Kuroko no Basket 3rd SEASON (TV,2015,25 ep)",
+    "Kuroko no Basket: Last Game (MOVIE,2017,1 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a15",
+  "title": "Steins;Gate",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 24,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Steins;Gate",
+    "eps": 24,
+    "duration": 24,
+    "year": 2011,
+    "status": "FINISHED",
+    "mal": 9253
+   }
+  }
+ },
+ {
+  "id": "a19",
+  "title": "Gurren Lagann",
+  "ours": {
+   "totalEps": 27,
+   "epsWatched": 27,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Gimmy', 'Darry']. AniList main: ['Kamina', 'Simon', 'Youko Littner', 'Nia Teppelin']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Tengen Toppa Gurren Lagann",
+    "eps": 27,
+    "duration": 24,
+    "year": 2007,
+    "status": "FINISHED",
+    "mal": 2001
+   }
+  }
+ },
+ {
+  "id": "a23",
+  "title": "JoJo's Bizarre Adventure",
+  "ours": {
+   "totalEps": 191,
+   "epsWatched": 190,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Completato ma visti 190/191"
+   ],
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(2012, 26), (2014, 48), (2016, 39), (2018, 39), (2022, 38), (2026, 1)] (tot 191); AniList catena TV: [(2012, 26), (2014, 24), (2015, 24), (2016, 39), (2018, 39), (2021, 12), (2022, 26), (2026, 1), (2026, 11)] (tot 202)"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Josuke Higashikata', 'Giorno Giovanna', 'Jolyne Cujoh', 'Kakyoin Noriaki', 'Polnareff', 'Iggy', 'Killer Queen (Kira)', 'Bruno Bucciarati']. AniList main: ['Joseph Joestar', 'Dio Brando', 'Jonathan Joestar', 'Caesar Zeppeli']"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Jotaro Kujo']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "JoJo no Kimyou na Bouken (TV)",
+    "eps": 26,
+    "duration": 24,
+    "year": 2012,
+    "status": "FINISHED",
+    "mal": 14719
+   },
+   "catena": [
+    "JoJo no Kimyou na Bouken (TV) (TV,2012,26 ep)",
+    "JoJo no Kimyou na Bouken: Stardust Crusaders (TV,2014,24 ep)",
+    "JoJo no Kimyou na Bouken: Stardust Crusaders - Egypt-hen (TV,2015,24 ep)",
+    "JoJo no Kimyou na Bouken: Diamond wa Kudakenai (TV,2016,39 ep)",
+    "JoJo no Kimyou na Bouken: Ougon no Kaze (TV,2018,39 ep)",
+    "JoJo no Kimyou na Bouken: Stone Ocean (ONA,2021,12 ep)",
+    "JoJo no Kimyou na Bouken: Stone Ocean Part 2 (ONA,2022,26 ep)",
+    "JoJo no Kimyou na Bouken: Steel Ball Run - 1st STAGE (ONA,2026,1 ep)",
+    "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE (ONA,2026,11 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a27",
+  "title": "Summertime Rendering",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 25,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Ryunosuke Ushijima', 'Doi']. AniList main: ['Mio Kofune', 'Shinpei Ajiro', 'Hizuru Minakata', 'Ushio Kofune']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Summer Time Render",
+    "eps": 25,
+    "duration": 24,
+    "year": 2022,
+    "status": "FINISHED",
+    "mal": 47194
+   }
+  }
+ },
+ {
+  "id": "a31",
+  "title": "Kanata no Astra",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "FOTO_PERSONAGGIO",
+    "Yunhua Lu (foto di AniList id 157848, personaggio id 139436)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Kanata no Astra",
+    "eps": 12,
+    "duration": 28,
+    "year": 2019,
+    "status": "FINISHED",
+    "mal": 39198
+   }
+  }
+ },
+ {
+  "id": "a35",
+  "title": "Spy x Family",
+  "ours": {
+   "totalEps": 50,
+   "epsWatched": 37,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Completato ma visti 37/50"
+   ],
+   [
+    "STAGIONE",
+    "'Spy x Family Part 2': nostro 2022/12 ep; AniList 'SPY×FAMILY Part 2' 2022/13 ep"
+   ],
+   [
+    "STAGIONE",
+    "'Spy x Family Season 2': nostro 2023/13 ep; AniList 'SPY×FAMILY Season 2' 2023/12 ep"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Fiona Frost', 'Melinda Desmond']. AniList main: ['Yor Forger', 'Anya Forger', 'Loid Forger']"
+   ],
+   [
+    "FOTO_PERSONAGGIO",
+    "Bond Forger (foto di AniList id 138102, personaggio id 138101)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "SPY×FAMILY",
+    "eps": 12,
+    "duration": 24,
+    "year": 2022,
+    "status": "FINISHED",
+    "mal": 50265
+   },
+   "catena": [
+    "SPY×FAMILY (TV,2022,12 ep)",
+    "SPY×FAMILY Part 2 (TV,2022,13 ep)",
+    "SPY×FAMILY Season 2 (TV,2023,12 ep)",
+    "SPY×FAMILY Season 3 (TV,2025,13 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a39",
+  "title": "Btooom!",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Natsu Kiyomizu', 'Kira', 'Zaji Kira']. AniList main: ['Himiko', 'Ryouta Sakamoto']"
+   ],
+   [
+    "FOTO_PERSONAGGIO",
+    "Himiko Kinoshita (foto di AniList id 52941, personaggio id 74431)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "BTOOOM!",
+    "eps": 12,
+    "duration": 24,
+    "year": 2012,
+    "status": "FINISHED",
+    "mal": 14345
+   }
+  }
+ },
+ {
+  "id": "a43",
+  "title": "God Eater",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 13,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "CREATORI",
+    "Nostri ['Bandai Namco']; AniList staff ['Takayuki Hirao', 'Kentarou Waki', 'Takayuki Hirao', 'Gou Shiina', 'OLDCODEX', 'Masato Nagamori']"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Erina Yumizuru']. AniList main: ['Alisa Ilichina Amiella', 'Lenka Utsugi']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "GOD EATER",
+    "eps": 13,
+    "duration": 24,
+    "year": 2015,
+    "status": "FINISHED",
+    "mal": 27631
+   }
+  }
+ },
+ {
+  "id": "a47",
+  "title": "Pluto",
+  "ours": {
+   "totalEps": 8,
+   "epsWatched": 8,
+   "duration": 45
+  },
+  "flags": [
+   [
+    "DURATA",
+    "Nostro 45; AniList 60"
+   ],
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 34): verificare a vista"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Brau1589']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "PLUTO",
+    "eps": 8,
+    "duration": 60,
+    "year": 2023,
+    "status": "FINISHED",
+    "mal": 35737
+   }
+  }
+ },
+ {
+  "id": "a51",
+  "title": "No Game No Life",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Kurami Zell']. AniList main: ['Shiro', 'Sora', 'Jibril', 'Stephanie Dola']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "No Game No Life",
+    "eps": 12,
+    "duration": 24,
+    "year": 2014,
+    "status": "FINISHED",
+    "mal": 19815
+   }
+  }
+ },
+ {
+  "id": "a55",
+  "title": "Prison School",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Gakuto Sudo']. AniList main: ['Takehito Morokuzu', 'Kiyoshi Fujino', 'Jouji Nezu', 'Reiji Andou', 'Shingo Wakamoto']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Prison School",
+    "eps": 12,
+    "duration": 24,
+    "year": 2015,
+    "status": "FINISHED",
+    "mal": 30240
+   }
+  }
+ },
+ {
+  "id": "a59",
+  "title": "Toradora",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 25,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 27): verificare a vista"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Ryuji Takasu', 'Taiga Aisaka', 'Minori Kushieda', 'Yusaku Kitamura', 'Ami Kawashima']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Toradora!",
+    "eps": 25,
+    "duration": 24,
+    "year": 2008,
+    "status": "FINISHED",
+    "mal": 4224
+   }
+  }
+ },
+ {
+  "id": "a63",
+  "title": "Charlotte",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 13,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 28): verificare a vista"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Jojiro Takajo']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Charlotte",
+    "eps": 13,
+    "duration": 24,
+    "year": 2015,
+    "status": "FINISHED",
+    "mal": 28999
+   }
+  }
+ },
+ {
+  "id": "a67",
+  "title": "Overlord",
+  "ours": {
+   "totalEps": 53,
+   "epsWatched": 52,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Completato ma visti 52/53"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Overlord",
+    "eps": 13,
+    "duration": 24,
+    "year": 2015,
+    "status": "FINISHED",
+    "mal": 29803
+   },
+   "catena": [
+    "Overlord (TV,2015,13 ep)",
+    "Overlord: Shikkoku no Senshi (MOVIE,2017,1 ep)",
+    "Overlord: Fushisha no Ou (MOVIE,2017,1 ep)",
+    "Overlord II (TV,2018,13 ep)",
+    "Overlord III (TV,2018,13 ep)",
+    "Overlord IV (TV,2022,13 ep)",
+    "Overlord: Sei Oukoku-hen (MOVIE,2024,1 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a71",
+  "title": "Tokyo Ghoul",
+  "ours": {
+   "totalEps": 48,
+   "epsWatched": 12,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Tokyo Ghoul",
+    "eps": 12,
+    "duration": 24,
+    "year": 2014,
+    "status": "FINISHED",
+    "mal": 22319
+   },
+   "catena": [
+    "Tokyo Ghoul (TV,2014,12 ep)",
+    "Tokyo Ghoul: [PINTO] (OVA,2015,1 ep)",
+    "Tokyo Ghoul √A (TV,2015,12 ep)",
+    "Tokyo Ghoul: [JACK] (OVA,2015,1 ep)",
+    "Tokyo Ghoul:re (TV,2018,12 ep)",
+    "Tokyo Ghoul:re 2 (TV,2018,12 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a75",
+  "title": "3-gatsu no Lion",
+  "ours": {
+   "totalEps": 44,
+   "epsWatched": 0,
+   "duration": 23
+  },
+  "flags": [
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Kyoko Kubo']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "3-gatsu no Lion",
+    "eps": 22,
+    "duration": 25,
+    "year": 2016,
+    "status": "FINISHED",
+    "mal": 31646
+   },
+   "catena": [
+    "3-gatsu no Lion (TV,2016,22 ep)",
+    "3-gatsu no Lion 2nd Season (TV,2017,22 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a79",
+  "title": "Ao Ashi",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Yu Aoi', 'Gabriel Ichijo', 'Yukichi Otomo']. AniList main: ['Ashito  Aoi']"
+   ],
+   [
+    "FOTO_PERSONAGGIO",
+    "Kuroda Junnosuke (foto di AniList id 253947, personaggio id 280424)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Aoashi",
+    "eps": 24,
+    "duration": 25,
+    "year": 2022,
+    "status": "FINISHED",
+    "mal": 49052
+   }
+  }
+ },
+ {
+  "id": "a83",
+  "title": "Baccano!",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 31): verificare a vista"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Czeslaw Meyer']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Baccano!",
+    "eps": 13,
+    "duration": 25,
+    "year": 2007,
+    "status": "FINISHED",
+    "mal": 2251
+   }
+  }
+ },
+ {
+  "id": "a87",
+  "title": "Bleach",
+  "ours": {
+   "totalEps": 409,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(2004, 366), (2022, 13), (2023, 13), (2024, 14), (2026, 3)] (tot 409); AniList catena TV: [(2004, 366), (2022, 13), (2023, 13), (2024, 14), (2026, 10)] (tot 416)"
+   ],
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 35): verificare a vista"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "BLEACH",
+    "eps": 366,
+    "duration": 24,
+    "year": 2004,
+    "status": "FINISHED",
+    "mal": 269
+   },
+   "catena": [
+    "BLEACH (TV,2004,366 ep)",
+    "BLEACH: Sennen Kessen-hen (TV,2022,13 ep)",
+    "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan (TV,2023,13 ep)",
+    "BLEACH: Sennen Kessen-hen - Soukoku-tan (TV,2024,14 ep)",
+    "BLEACH: Sennen Kessen-hen - Kashin-tan (TV,2026,10 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a91",
+  "title": "Chi. Chikyuu no Undou ni Tsuite",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Fuiba', 'Albert', 'Nastazja']. AniList main: ['Rafał', 'Badeni', 'Nowak', 'Oczy', 'Jolenta', 'Draka', 'Schmitt']"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Yosaf']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Chi. Chikyuu no Undou ni Tsuite",
+    "eps": 25,
+    "duration": 25,
+    "year": 2024,
+    "status": "FINISHED",
+    "mal": 52215
+   }
+  }
+ },
+ {
+  "id": "a95",
+  "title": "D.Gray-man",
+  "ours": {
+   "totalEps": 116,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "D.Gray-man",
+    "eps": 103,
+    "duration": 23,
+    "year": 2006,
+    "status": "FINISHED",
+    "mal": 1482
+   },
+   "catena": [
+    "D.Gray-man (TV,2006,103 ep)",
+    "D.Gray-man HALLOW (TV,2016,13 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a99",
+  "title": "Enen no Shouboutai",
+  "ours": {
+   "totalEps": 73,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "STAGIONE",
+    "'Stagione 3 Parte 1': nostro 2023/12 ep; AniList 'Enen no Shouboutai: San no Shou' 2025/12 ep"
+   ],
+   [
+    "STAGIONE",
+    "'Stagione 3 Parte 2': nostro 2023/13 ep; AniList 'Enen no Shouboutai: San no Shou Part 2' 2026/13 ep"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Shuya Kanamori']. AniList main: ['Iris', 'Shinra Kusakabe', 'Arthur Boyle', 'Maki Oze', 'Tamaki Kotatsu', 'Akitaru Oubi', 'Takehisa Hinawa']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Enen no Shouboutai",
+    "eps": 24,
+    "duration": 24,
+    "year": 2019,
+    "status": "FINISHED",
+    "mal": 38671
+   },
+   "catena": [
+    "Enen no Shouboutai (TV,2019,24 ep)",
+    "Enen no Shouboutai: Ni no Shou (TV,2020,24 ep)",
+    "Enen no Shouboutai: San no Shou (TV,2025,12 ep)",
+    "Enen no Shouboutai: San no Shou Part 2 (TV,2026,13 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a103",
+  "title": "Fumetsu no Anata e",
+  "ours": {
+   "totalEps": 62,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "STAGIONE",
+    "'Stagione 3': nostro 2023/22 ep; AniList 'Fumetsu no Anata e Season 3' 2025/22 ep"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Bon', 'Rean']. AniList main: ['Fushi']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Fumetsu no Anata e",
+    "eps": 20,
+    "duration": 25,
+    "year": 2021,
+    "status": "FINISHED",
+    "mal": 41025
+   },
+   "catena": [
+    "Fumetsu no Anata e (TV,2021,20 ep)",
+    "Fumetsu no Anata e Season 2 (TV,2022,20 ep)",
+    "Fumetsu no Anata e Season 3 (TV,2025,22 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a107",
+  "title": "Golden Kamuy",
+  "ours": {
+   "totalEps": 62,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Otonoshin Koito']. AniList main: ['Saichi Sugimoto', 'Asirpa', 'Yoshitake Shiraishi']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Golden Kamuy",
+    "eps": 12,
+    "duration": 24,
+    "year": 2018,
+    "status": "FINISHED",
+    "mal": 36028
+   }
+  }
+ },
+ {
+  "id": "a111",
+  "title": "Haibane Renmei",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Haibane Renmei",
+    "eps": 13,
+    "duration": 24,
+    "year": 2002,
+    "status": "FINISHED",
+    "mal": 387
+   }
+  }
+ },
+ {
+  "id": "a115",
+  "title": "Grave of the Fireflies",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 0,
+   "duration": 89
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Hotaru no Haka",
+    "eps": 1,
+    "duration": 88,
+    "year": 1988,
+    "status": "FINISHED",
+    "mal": 578
+   }
+  }
+ },
+ {
+  "id": "a119",
+  "title": "Jibaku Shounen Hanako-kun",
+  "ours": {
+   "totalEps": 44,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Jibaku Shounen Hanako-kun",
+    "eps": 12,
+    "duration": 24,
+    "year": 2020,
+    "status": "FINISHED",
+    "mal": 39534
+   },
+   "catena": [
+    "Jibaku Shounen Hanako-kun (TV,2020,12 ep)",
+    "Jibaku Shounen Hanako-kun 2 (TV,2025,12 ep)",
+    "Jibaku Shounen Hanako-kun 2 Part 2 (TV,2025,12 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a123",
+  "title": "Kingdom",
+  "ours": {
+   "totalEps": 130,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(2012, 38), (2013, 39), (2020, 26), (2022, 27)] (tot 130); AniList catena TV: [(2012, 38), (2013, 39), (2020, 26), (2022, 26), (2024, 13), (2025, 13), (None, None)] (tot 155)"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Xin', 'Wang Ben']. AniList main: ['Xin Li', 'Lei Qiang', 'Zheng Ying', 'Liao Diao He']"
+   ],
+   [
+    "FOTO_PERSONAGGIO",
+    "Wang Jian (foto di AniList id 65443, personaggio id 132056)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Kingdom",
+    "eps": 38,
+    "duration": 25,
+    "year": 2012,
+    "status": "FINISHED",
+    "mal": 12031
+   },
+   "catena": [
+    "Kingdom (TV,2012,38 ep)",
+    "Kingdom 2nd Season (TV,2013,39 ep)",
+    "Kingdom 3rd Season (TV,2020,26 ep)",
+    "Kingdom 4th Season (TV,2022,26 ep)",
+    "Kingdom 5th Season (TV,2024,13 ep)",
+    "Kingdom 6th Season (TV,2025,13 ep)",
+    "Kingdom (Zoku-hen) (TV,None,None ep)"
+   ]
+  }
+ },
+ {
+  "id": "a174",
+  "title": "Innocence: Ghost in the Shell 2",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 0,
+   "duration": 99
+  },
+  "flags": [
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 30): verificare a vista"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Innocence",
+    "eps": 1,
+    "duration": 100,
+    "year": 2004,
+    "status": "FINISHED",
+    "mal": 468
+   }
+  }
+ },
+ {
+  "id": "a130",
+  "title": "Magi",
+  "ours": {
+   "totalEps": 63,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Magi' ≠ AniList 'Mahou Sensei Negima!' / 'Negima!' (MAL 157)"
+   ],
+   [
+    "ANNO",
+    "Nostro prima stagione 2012; AniList 2005"
+   ],
+   [
+    "CREATORI",
+    "Nostri ['Shinobu Ohtaka']; AniList staff ['Ken Akamatsu', 'Youta Tsuruoka', 'Shinkichi Mitsumune', 'Hiroaki Sakurai', 'Miku Ooshima', 'Yui Horie']"
+   ],
+   [
+    "STUDIO",
+    "Nostri ['A-1 Pictures', 'LAY-DUCE']; AniList ['Xebec']"
+   ],
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(2012, 25), (2013, 25), (2016, 13)] (tot 63); AniList catena TV: [(2005, 26), (2006, 26), (2017, 12)] (tot 64)"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Alibaba Saluja', 'Aladdin', 'Morgiana', 'Sinbad', \"Ja'far\", 'Kougyoku Ren', 'Judal', 'Hakuryuu Ren']. AniList main: ['Negi Springfield', 'Asuna Kagurazaka', 'Nodoka Miyazaki', 'Yue Ayase', 'Konoka Konoe']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Mahou Sensei Negima!",
+    "eps": 26,
+    "duration": 23,
+    "year": 2005,
+    "status": "FINISHED",
+    "mal": 157
+   },
+   "catena": [
+    "Mahou Sensei Negima! (TV,2005,26 ep)",
+    "Negima!? (TV,2006,26 ep)",
+    "UQ Holder!: Mahou Sensei Negima! 2 (TV,2017,12 ep)",
+    "UQ HOLDER! OVA (OVA,2017,3 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a134",
+  "title": "Mushoku Tensei",
+  "ours": {
+   "totalEps": 35,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(2021, 11), (2021, 12), (2023, 12)] (tot 35); AniList catena TV: [(2021, 11), (2021, 12), (2023, 13), (2024, 12), (2026, 14), (2027, None)] (tot 62)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "eps": 11,
+    "duration": 24,
+    "year": 2021,
+    "status": "FINISHED",
+    "mal": 39535
+   },
+   "catena": [
+    "Mushoku Tensei: Isekai Ittara Honki Dasu (TV,2021,11 ep)",
+    "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 (TV,2021,12 ep)",
+    "Mushoku Tensei II: Isekai Ittara Honki Dasu (TV,2023,13 ep)",
+    "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2 (TV,2024,12 ep)",
+    "Mushoku Tensei III: Isekai Ittara Honki Dasu (TV,2026,14 ep)",
+    "Mushoku Tensei III: Isekai Ittara Honki Dasu Part 2 (TV,2027,None ep)"
+   ]
+  }
+ },
+ {
+  "id": "a138",
+  "title": "Oshi no Ko",
+  "ours": {
+   "totalEps": 34,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(2023, 11), (2024, 12), (2026, 11)] (tot 34); AniList catena TV: [(2023, 11), (2024, 13), (2026, 11), (None, None)] (tot 35)"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Gorou']. AniList main: ['Kana Arima', 'Aquamarine Hoshino', 'Ruby Hoshino']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "[Oshi no Ko]",
+    "eps": 11,
+    "duration": 24,
+    "year": 2023,
+    "status": "FINISHED",
+    "mal": 52034
+   },
+   "catena": [
+    "[Oshi no Ko] (TV,2023,11 ep)",
+    "[Oshi no Ko] 2nd Season (TV,2024,13 ep)",
+    "[Oshi no Ko] 3rd Season (TV,2026,11 ep)",
+    "[Oshi no Ko] Final Season (TV,None,None ep)"
+   ]
+  }
+ },
+ {
+  "id": "a142",
+  "title": "Psycho-Pass",
+  "ours": {
+   "totalEps": 46,
+   "epsWatched": 0,
+   "duration": 22
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(2012, 22), (2014, 11), (2019, 8)] (tot 41); AniList catena TV: [(2012, 22), (2014, 11), (2019, 8), (2020, 3)] (tot 44)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "PSYCHO-PASS",
+    "eps": 22,
+    "duration": 23,
+    "year": 2012,
+    "status": "FINISHED",
+    "mal": 13601
+   },
+   "catena": [
+    "PSYCHO-PASS (TV,2012,22 ep)",
+    "PSYCHO-PASS 2 (TV,2014,11 ep)",
+    "PSYCHO-PASS Movie (MOVIE,2015,1 ep)",
+    "PSYCHO-PASS Sinners of the System Case 2: First Guardian (MOVIE,2019,1 ep)",
+    "PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu (MOVIE,2019,1 ep)",
+    "PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni ____ (MOVIE,2019,1 ep)",
+    "PSYCHO-PASS 3 (TV,2019,8 ep)",
+    "PSYCHO-PASS 3: FIRST INSPECTOR (ONA,2020,3 ep)",
+    "PSYCHO-PASS PROVIDENCE (MOVIE,2023,1 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a146",
+  "title": "Seishun Buta Yarou",
+  "ours": {
+   "totalEps": 14,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Seishun Buta Yarou' ≠ AniList 'Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai' / 'Rascal Does Not Dream of Bunny Girl Senpai' (MAL 37450)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "eps": 13,
+    "duration": 25,
+    "year": 2018,
+    "status": "FINISHED",
+    "mal": 37450
+   }
+  }
+ },
+ {
+  "id": "a150",
+  "title": "Slam Dunk",
+  "ours": {
+   "totalEps": 101,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Eiji Sawakita']. AniList main: ['Hanamichi Sakuragi', 'Ryouta Miyagi', 'Hisashi Mitsui', 'Kaede Rukawa', 'Takenori Akagi']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "SLAM DUNK",
+    "eps": 101,
+    "duration": 23,
+    "year": 1993,
+    "status": "FINISHED",
+    "mal": 170
+   }
+  }
+ },
+ {
+  "id": "a154",
+  "title": "Tensei shitara Slime Datta Ken",
+  "ours": {
+   "totalEps": 60,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "STUDIO",
+    "Nostri ['Eight Bit']; AniList ['8-bit']"
+   ],
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(2018, 24), (2021, 12), (2021, 12), (2024, 12)] (tot 60); AniList catena TV: [(2018, 24), (2021, 12), (2021, 12), (2024, 24), (2026, 24), (2027, None)] (tot 96)"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Hakuro']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Tensei Shitara Slime Datta Ken",
+    "eps": 24,
+    "duration": 24,
+    "year": 2018,
+    "status": "FINISHED",
+    "mal": 37430
+   },
+   "catena": [
+    "Tensei Shitara Slime Datta Ken (TV,2018,24 ep)",
+    "Tensei Shitara Slime Datta Ken 2nd Season (TV,2021,12 ep)",
+    "Tensei Shitara Slime Datta Ken 2nd Season Part 2 (TV,2021,12 ep)",
+    "Tensei Shitara Slime Datta Ken: Coleus no Yume (OVA,2023,3 ep)",
+    "Tensei Shitara Slime Datta Ken 3rd Season (TV,2024,24 ep)",
+    "Tensei Shitara Slime Datta Ken 4th Season Part 1 & 2 (TV,2026,24 ep)",
+    "Tensei Shitara Slime Datta Ken: Soukai no Namida-hen (MOVIE,2026,1 ep)",
+    "Tensei Shitara Slime Datta Ken 4th Season Part 3 (TV,2027,None ep)"
+   ]
+  }
+ },
+ {
+  "id": "a158",
+  "title": "Violet Evergarden",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Violet Evergarden",
+    "eps": 13,
+    "duration": 24,
+    "year": 2018,
+    "status": "FINISHED",
+    "mal": 33352
+   }
+  }
+ },
+ {
+  "id": "a162",
+  "title": "Yuu☆Yuu☆Hakusho",
+  "ours": {
+   "totalEps": 112,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "FOTO_PERSONAGGIO",
+    "Toguro (foto di AniList id 7176, personaggio id 8716)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Yuu☆Yuu☆Hakusho",
+    "eps": 112,
+    "duration": 24,
+    "year": 1992,
+    "status": "FINISHED",
+    "mal": 392
+   }
+  }
+ },
+ {
+  "id": "a166",
+  "title": "Usagi Drop",
+  "ours": {
+   "totalEps": 11,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Daikichi Kawachi', 'Rin Kaga']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Usagi Drop",
+    "eps": 11,
+    "duration": 22,
+    "year": 2011,
+    "status": "FINISHED",
+    "mal": 10162
+   }
+  }
+ },
+ {
+  "id": "a170",
+  "title": "Tongari Boushi no Atelier",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "STUDIO",
+    "Nostri ['Studio non ancora confermato']; AniList ['BUG FILMS']"
+   ],
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 29): verificare a vista"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Agott']. AniList main: ['Qifrey', 'Coco']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Tongari Boushi no Atelier 2nd Season",
+    "eps": null,
+    "duration": null,
+    "year": null,
+    "status": "NOT_YET_RELEASED",
+    "mal": 64516
+   }
+  }
+ }
+]
