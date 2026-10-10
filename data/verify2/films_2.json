@@ -1,0 +1,8149 @@
+[
+ {
+  "id": "f481",
+  "title": "Harry Potter and the Philosopher's Stone",
+  "ours": {
+   "year": "2001",
+   "duration": 152,
+   "director": "Chris Columbus",
+   "cast": "Daniel Radcliffe, Rupert Grint, Emma Watson, Richard Harris, Alan Rickman",
+   "genres": [
+    "Fantasy",
+    "Avventura",
+    "Famiglia"
+   ],
+   "tmdb": 671
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Rupert Grint: foto diversa da TMDB; Emma Watson: foto diversa da TMDB; Richard Harris: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Harry Potter e la pietra filosofale",
+    "orig": "Harry Potter and the Philosopher's Stone",
+    "year": 2001,
+    "runtime": 152,
+    "imdb": "tt0241527",
+    "directors": [
+     "Chris Columbus"
+    ],
+    "genres": [
+     "Avventura",
+     "Fantasy"
+    ],
+    "cast5": [
+     "Daniel Radcliffe",
+     "Rupert Grint",
+     "Emma Watson",
+     "Richard Harris",
+     "Tom Felton",
+     "Alan Rickman"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2001,
+    "end": null,
+    "runtime": 152
+   }
+  }
+ },
+ {
+  "id": "f2",
+  "title": "Prisoners",
+  "ours": {
+   "year": "2013",
+   "duration": 153,
+   "director": "Denis Villeneuve",
+   "cast": "Hugh Jackman, Jake Gyllenhaal, Viola Davis, Paul Dano, Melissa Leo",
+   "genres": [
+    "Thriller",
+    "Dramma",
+    "Crimine"
+   ],
+   "tmdb": 146233
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Hugh Jackman: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Prisoners",
+    "orig": "Prisoners",
+    "year": 2013,
+    "runtime": 153,
+    "imdb": "tt1392214",
+    "directors": [
+     "Denis Villeneuve"
+    ],
+    "genres": [
+     "Dramma",
+     "Thriller",
+     "Crime"
+    ],
+    "cast5": [
+     "Hugh Jackman",
+     "Jake Gyllenhaal",
+     "Viola Davis",
+     "Maria Bello",
+     "Terrence Howard",
+     "Melissa Leo"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2013,
+    "end": null,
+    "runtime": 153
+   }
+  }
+ },
+ {
+  "id": "f5",
+  "title": "Fight Club",
+  "ours": {
+   "year": "1999",
+   "duration": 139,
+   "director": "David Fincher",
+   "cast": "Brad Pitt, Edward Norton, Helena Bonham Carter, Meat Loaf, Jared Leto",
+   "genres": [
+    "Dramma",
+    "Thriller"
+   ],
+   "tmdb": 550
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Fight Club",
+    "orig": "Fight Club",
+    "year": 1999,
+    "runtime": 139,
+    "imdb": "tt0137523",
+    "directors": [
+     "David Fincher"
+    ],
+    "genres": [
+     "Dramma",
+     "Thriller"
+    ],
+    "cast5": [
+     "Edward Norton",
+     "Brad Pitt",
+     "Helena Bonham Carter",
+     "Meat Loaf",
+     "Jared Leto",
+     "Zach Grenier"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 1999,
+    "end": null,
+    "runtime": 139
+   }
+  }
+ },
+ {
+  "id": "f366",
+  "title": "Spider-Man: Across the Spider-Verse",
+  "ours": {
+   "year": "2023",
+   "duration": 140,
+   "director": "Joaquin Dos Santos, Kemp Powers, Justin K. Thompson",
+   "cast": "Shameik Moore, Hailee Steinfeld, Oscar Isaac, Jake Johnson, Issa Rae",
+   "genres": [
+    "Animazione",
+    "Azione",
+    "Avventura",
+    "Fantascienza"
+   ],
+   "tmdb": 569094
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "orig": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "runtime": 140,
+    "imdb": "tt9362722",
+    "directors": [
+     "Kemp Powers",
+     "Justin K. Thompson",
+     "Joaquim Dos Santos"
+    ],
+    "genres": [
+     "Animazione",
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "cast5": [
+     "Shameik Moore",
+     "Hailee Steinfeld",
+     "Brian Tyree Henry",
+     "Luna Lauren Vélez",
+     "Jake Johnson",
+     "Oscar Isaac"
+    ]
+   },
+   "poster_dist": 5,
+   "imdb": {
+    "year": 2023,
+    "end": null,
+    "runtime": 140
+   }
+  }
+ },
+ {
+  "id": "f10",
+  "title": "Tre uomini e una gamba",
+  "ours": {
+   "year": "1997",
+   "duration": 92,
+   "director": "Aldo, Giovanni e Giacomo",
+   "cast": "Aldo Baglio, Giovanni Storti, Giacomo Poretti, Marina Massironi, Carlo Croccolo",
+   "genres": [
+    "Commedia"
+   ],
+   "tmdb": 38286
+  },
+  "flags": [
+   [
+    "REGISTA",
+    "Nostro 'Aldo, Giovanni e Giacomo'; TMDB ['Aldo Baglio', 'Massimo Venier', 'Giacomo Poretti']"
+   ],
+   [
+    "DURATA",
+    "Nostro 92 min; TMDB 98, IMDb 100"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Tre uomini e una gamba",
+    "orig": "Tre uomini e una gamba",
+    "year": 1997,
+    "runtime": 98,
+    "imdb": "tt0135007",
+    "directors": [
+     "Aldo Baglio",
+     "Massimo Venier",
+     "Giacomo Poretti"
+    ],
+    "genres": [
+     "Commedia"
+    ],
+    "cast5": [
+     "Aldo Baglio",
+     "Giovanni Storti",
+     "Giacomo Poretti",
+     "Marina Massironi",
+     "Carlo Croccolo",
+     "Maria Pia Casilio"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 1997,
+    "end": null,
+    "runtime": 100
+   }
+  }
+ },
+ {
+  "id": "f13",
+  "title": "Catch Me If You Can",
+  "ours": {
+   "year": "2002",
+   "duration": 141,
+   "director": "Steven Spielberg",
+   "cast": "Leonardo DiCaprio, Tom Hanks, Christopher Walken, Amy Adams, Martin Sheen",
+   "genres": [
+    "Biografico",
+    "Crimine",
+    "Dramma"
+   ],
+   "tmdb": 640
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Amy Adams: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Prova a prendermi",
+    "orig": "Catch Me If You Can",
+    "year": 2002,
+    "runtime": 141,
+    "imdb": "tt0264464",
+    "directors": [
+     "Steven Spielberg"
+    ],
+    "genres": [
+     "Dramma",
+     "Crime"
+    ],
+    "cast5": [
+     "Leonardo DiCaprio",
+     "Tom Hanks",
+     "Christopher Walken",
+     "Martin Sheen",
+     "Nathalie Baye",
+     "Amy Adams"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2002,
+    "end": null,
+    "runtime": 141
+   }
+  }
+ },
+ {
+  "id": "f16",
+  "title": "Oldboy",
+  "ours": {
+   "year": "2003",
+   "duration": 120,
+   "director": "Park Chan-wook",
+   "cast": "Choi Min-sik, Yoo Ji-tae, Kang Hye-jung, Kim Byeong-ok, Oh Dal-su",
+   "genres": [
+    "Azione",
+    "Mistero",
+    "Thriller"
+   ],
+   "tmdb": 670
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Choi Min-sik', 'Yoo Ji-tae', 'Kang Hye-jung', 'Kim Byeong-ok', 'Oh Dal-su']; TMDB top: ['최민식', '유지태', '강혜정', '김병옥', '지대한', '오달수']"
+   ],
+   [
+    "FOTO_CAST",
+    "Choi Min-sik: non nel cast TMDB; Yoo Ji-tae: non nel cast TMDB; Kang Hye-jung: non nel cast TMDB; Kim Byeong-ok: non nel cast TMDB; Oh Dal-su: non nel cast TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Old Boy",
+    "orig": "올드보이",
+    "year": 2003,
+    "runtime": 119,
+    "imdb": "tt0364569",
+    "directors": [
+     "Park Chan-wook"
+    ],
+    "genres": [
+     "Thriller",
+     "Mistero"
+    ],
+    "cast5": [
+     "최민식",
+     "유지태",
+     "강혜정",
+     "김병옥",
+     "지대한",
+     "오달수"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2003,
+    "end": null,
+    "runtime": 120
+   }
+  }
+ },
+ {
+  "id": "f19",
+  "title": "Groundhog Day",
+  "ours": {
+   "year": "1993",
+   "duration": 101,
+   "director": "Harold Ramis",
+   "cast": "Bill Murray, Andie MacDowell, Chris Elliott, Stephen Tobolowsky, Brian Doyle-Murray",
+   "genres": [
+    "Commedia",
+    "Fantasy",
+    "Romance"
+   ],
+   "tmdb": 137
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Ricomincio da capo",
+    "orig": "Groundhog Day",
+    "year": 1993,
+    "runtime": 102,
+    "imdb": "tt0107048",
+    "directors": [
+     "Harold Ramis"
+    ],
+    "genres": [
+     "Romance",
+     "Fantasy",
+     "Commedia"
+    ],
+    "cast5": [
+     "Bill Murray",
+     "Andie MacDowell",
+     "Chris Elliott",
+     "Stephen Tobolowsky",
+     "Brian Doyle-Murray",
+     "Marita Geraghty"
+    ]
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 1993,
+    "end": null,
+    "runtime": 101
+   }
+  }
+ },
+ {
+  "id": "f22",
+  "title": "A Bronx Tale",
+  "ours": {
+   "year": "1993",
+   "duration": 121,
+   "director": "Robert De Niro",
+   "cast": "Robert De Niro, Chazz Palminteri, Lillo Brancato, Francis Capra, Taral Hicks",
+   "genres": [
+    "Dramma",
+    "Crimine"
+   ],
+   "tmdb": 1607
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Bronx",
+    "orig": "A Bronx Tale",
+    "year": 1993,
+    "runtime": 121,
+    "imdb": "tt0106489",
+    "directors": [
+     "Robert De Niro"
+    ],
+    "genres": [
+     "Dramma",
+     "Crime"
+    ],
+    "cast5": [
+     "Robert De Niro",
+     "Chazz Palminteri",
+     "Lillo Brancato",
+     "Francis Capra",
+     "Taral Hicks",
+     "Kathrine Narducci"
+    ]
+   },
+   "poster_dist": 6,
+   "imdb": {
+    "year": 1993,
+    "end": null,
+    "runtime": 121
+   }
+  }
+ },
+ {
+  "id": "f25",
+  "title": "Arrival",
+  "ours": {
+   "year": "2016",
+   "duration": 116,
+   "director": "Denis Villeneuve",
+   "cast": "Amy Adams, Jeremy Renner, Forest Whitaker, Michael Stuhlbarg, Tzi Ma",
+   "genres": [
+    "Fantascienza",
+    "Dramma",
+    "Mistero"
+   ],
+   "tmdb": 329865
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Tzi Ma']; TMDB top: ['Amy Adams', 'Jeremy Renner', 'Forest Whitaker', 'Michael Stuhlbarg', \"Mark O'Brien\", '馬泰']"
+   ],
+   [
+    "FOTO_CAST",
+    "Amy Adams: foto diversa da TMDB; Tzi Ma: non nel cast TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Arrival",
+    "orig": "Arrival",
+    "year": 2016,
+    "runtime": 116,
+    "imdb": "tt2543164",
+    "directors": [
+     "Denis Villeneuve"
+    ],
+    "genres": [
+     "Dramma",
+     "Fantascienza",
+     "Mistero"
+    ],
+    "cast5": [
+     "Amy Adams",
+     "Jeremy Renner",
+     "Forest Whitaker",
+     "Michael Stuhlbarg",
+     "Mark O'Brien",
+     "馬泰"
+    ]
+   },
+   "poster_dist": 9,
+   "imdb": {
+    "year": 2016,
+    "end": null,
+    "runtime": 116
+   }
+  }
+ },
+ {
+  "id": "f28",
+  "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+  "ours": {
+   "year": "2003",
+   "duration": 143,
+   "director": "Gore Verbinski",
+   "cast": "Johnny Depp, Orlando Bloom, Keira Knightley, Geoffrey Rush, Jack Davenport",
+   "genres": [
+    "Avventura",
+    "Fantasy",
+    "Azione"
+   ],
+   "tmdb": 22
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Keira Knightley: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "La maledizione della prima luna",
+    "orig": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003,
+    "runtime": 135,
+    "imdb": "tt0325980",
+    "directors": [
+     "Gore Verbinski"
+    ],
+    "genres": [
+     "Avventura",
+     "Fantasy",
+     "Azione"
+    ],
+    "cast5": [
+     "Johnny Depp",
+     "Geoffrey Rush",
+     "Orlando Bloom",
+     "Keira Knightley",
+     "Jack Davenport",
+     "Jonathan Pryce"
+    ]
+   },
+   "poster_dist": 12,
+   "imdb": {
+    "year": 2003,
+    "end": null,
+    "runtime": 143
+   }
+  }
+ },
+ {
+  "id": "f31",
+  "title": "The Machinist",
+  "ours": {
+   "year": "2004",
+   "duration": 101,
+   "director": "Brad Anderson",
+   "cast": "Christian Bale, Jennifer Jason Leigh, Aitana Sánchez-Gijón, John Sharian, Michael Ironside",
+   "genres": [
+    "Thriller",
+    "Dramma",
+    "Mistero"
+   ],
+   "tmdb": 4553
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "L'uomo senza sonno",
+    "orig": "The Machinist",
+    "year": 2004,
+    "runtime": 102,
+    "imdb": "tt0361862",
+    "directors": [
+     "Brad Anderson"
+    ],
+    "genres": [
+     "Thriller",
+     "Dramma"
+    ],
+    "cast5": [
+     "Christian Bale",
+     "Jennifer Jason Leigh",
+     "Aitana Sánchez-Gijón",
+     "John Sharian",
+     "Michael Ironside",
+     "Lawrence Gilliard Jr."
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2004,
+    "end": null,
+    "runtime": 101
+   }
+  }
+ },
+ {
+  "id": "f34",
+  "title": "Hacksaw Ridge",
+  "ours": {
+   "year": "2016",
+   "duration": 139,
+   "director": "Mel Gibson",
+   "cast": "Andrew Garfield, Sam Worthington, Vince Vaughn, Teresa Palmer, Luke Bracey",
+   "genres": [
+    "Guerra",
+    "Dramma",
+    "Biografico"
+   ],
+   "tmdb": 324786
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Andrew Garfield: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "La battaglia di Hacksaw Ridge",
+    "orig": "Hacksaw Ridge",
+    "year": 2016,
+    "runtime": 139,
+    "imdb": "tt2119532",
+    "directors": [
+     "Mel Gibson"
+    ],
+    "genres": [
+     "Dramma",
+     "Storia",
+     "Guerra"
+    ],
+    "cast5": [
+     "Andrew Garfield",
+     "Sam Worthington",
+     "Vince Vaughn",
+     "Teresa Palmer",
+     "Luke Bracey",
+     "Hugo Weaving"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2016,
+    "end": null,
+    "runtime": 139
+   }
+  }
+ },
+ {
+  "id": "f37",
+  "title": "Space Jam",
+  "ours": {
+   "year": "1996",
+   "duration": 88,
+   "director": "Joe Pytka",
+   "cast": "Michael Jordan, Wayne Knight, Theresa Randle, Bill Murray, Larry Bird",
+   "genres": [
+    "Commedia",
+    "Fantasy",
+    "Sport",
+    "Animazione"
+   ],
+   "tmdb": 2300
+  },
+  "flags": [
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 2300 (Space Jam 1996), distanza 21. Candidati per somiglianza: [(21, 2300, 'Space Jam', '1996'), (22, 379686, 'Space Jam: A New Legacy', '2021'), (23, 1440773, 'Planet Hunting With The James Webb Space Telescope', '2021')]"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Space Jam",
+    "orig": "Space Jam",
+    "year": 1996,
+    "runtime": 88,
+    "imdb": "tt0117705",
+    "directors": [
+     "Joe Pytka"
+    ],
+    "genres": [
+     "Famiglia",
+     "Fantascienza",
+     "Fantasy",
+     "Commedia",
+     "Animazione"
+    ],
+    "cast5": [
+     "Michael Jordan",
+     "Wayne Knight",
+     "Theresa Randle",
+     "Manner Washington",
+     "Eric Gordon",
+     "Penny Bae Bridges"
+    ]
+   },
+   "poster_dist": 21,
+   "imdb": {
+    "year": 1996,
+    "end": null,
+    "runtime": 88
+   }
+  }
+ },
+ {
+  "id": "f459",
+  "title": "Spider-Man: Into the Spider-Verse",
+  "ours": {
+   "year": "2018",
+   "duration": 117,
+   "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+   "cast": "Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali, Liev Schreiber",
+   "genres": [
+    "Animazione",
+    "Azione",
+    "Avventura",
+    "Fantascienza"
+   ],
+   "tmdb": 324857
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Spider-Man: Un nuovo universo",
+    "orig": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "runtime": 117,
+    "imdb": "tt4633694",
+    "directors": [
+     "Bob Persichetti",
+     "Peter Ramsey",
+     "Rodney Rothman"
+    ],
+    "genres": [
+     "Animazione",
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "cast5": [
+     "Shameik Moore",
+     "Jake Johnson",
+     "Hailee Steinfeld",
+     "Mahershala Ali",
+     "Brian Tyree Henry",
+     "Lily Tomlin"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2018,
+    "end": null,
+    "runtime": 117
+   }
+  }
+ },
+ {
+  "id": "f42",
+  "title": "Goodfellas",
+  "ours": {
+   "year": "1990",
+   "duration": 146,
+   "director": "Martin Scorsese",
+   "cast": "Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco, Paul Sorvino",
+   "genres": [
+    "Crimine",
+    "Dramma",
+    "Biografico"
+   ],
+   "tmdb": 769
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Quei bravi ragazzi",
+    "orig": "GoodFellas",
+    "year": 1990,
+    "runtime": 145,
+    "imdb": "tt0099685",
+    "directors": [
+     "Martin Scorsese"
+    ],
+    "genres": [
+     "Dramma",
+     "Crime"
+    ],
+    "cast5": [
+     "Robert De Niro",
+     "Ray Liotta",
+     "Joe Pesci",
+     "Lorraine Bracco",
+     "Paul Sorvino",
+     "Frank Sivero"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1990,
+    "end": null,
+    "runtime": 145
+   }
+  }
+ },
+ {
+  "id": "f45",
+  "title": "Inside Man",
+  "ours": {
+   "year": "2006",
+   "duration": 129,
+   "director": "Spike Lee",
+   "cast": "Denzel Washington, Clive Owen, Jodie Foster, Christopher Plummer, Willem Dafoe",
+   "genres": [
+    "Thriller",
+    "Crimine"
+   ],
+   "tmdb": 388
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Inside Man",
+    "orig": "Inside Man",
+    "year": 2006,
+    "runtime": 129,
+    "imdb": "tt0454848",
+    "directors": [
+     "Spike Lee"
+    ],
+    "genres": [
+     "Crime",
+     "Dramma",
+     "Thriller"
+    ],
+    "cast5": [
+     "Denzel Washington",
+     "Clive Owen",
+     "Jodie Foster",
+     "Christopher Plummer",
+     "Willem Dafoe",
+     "Chiwetel Ejiofor"
+    ]
+   },
+   "poster_dist": 4,
+   "imdb": {
+    "year": 2006,
+    "end": null,
+    "runtime": 129
+   }
+  }
+ },
+ {
+  "id": "f48",
+  "title": "Forrest Gump",
+  "ours": {
+   "year": "1994",
+   "duration": 142,
+   "director": "Robert Zemeckis",
+   "cast": "Tom Hanks, Robin Wright, Gary Sinise, Sally Field, Mykelti Williamson",
+   "genres": [
+    "Dramma",
+    "Commedia",
+    "Romance"
+   ],
+   "tmdb": 13
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Forrest Gump",
+    "orig": "Forrest Gump",
+    "year": 1994,
+    "runtime": 137,
+    "imdb": "tt0109830",
+    "directors": [
+     "Robert Zemeckis"
+    ],
+    "genres": [
+     "Commedia",
+     "Dramma",
+     "Romance"
+    ],
+    "cast5": [
+     "Tom Hanks",
+     "Robin Wright",
+     "Gary Sinise",
+     "Sally Field",
+     "Mykelti Williamson",
+     "Michael Conner Humphreys"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1994,
+    "end": null,
+    "runtime": 142
+   }
+  }
+ },
+ {
+  "id": "f323",
+  "title": "The Hateful Eight",
+  "ours": {
+   "year": "2015",
+   "duration": 167,
+   "director": "Quentin Tarantino",
+   "cast": "Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins, Tim Roth",
+   "genres": [
+    "Western",
+    "Thriller",
+    "Mistero"
+   ],
+   "tmdb": 273248
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Samuel L. Jackson: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "The Hateful Eight",
+    "orig": "The Hateful Eight",
+    "year": 2015,
+    "runtime": 167,
+    "imdb": "tt3460252",
+    "directors": [
+     "Quentin Tarantino"
+    ],
+    "genres": [
+     "Dramma",
+     "Mistero",
+     "Western"
+    ],
+    "cast5": [
+     "Samuel L. Jackson",
+     "Kurt Russell",
+     "Jennifer Jason Leigh",
+     "Walton Goggins",
+     "Demián Bichir",
+     "Tim Roth"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2015,
+    "end": null,
+    "runtime": 168
+   }
+  }
+ },
+ {
+  "id": "f53",
+  "title": "Snatch",
+  "ours": {
+   "year": "2000",
+   "duration": 102,
+   "director": "Guy Ritchie",
+   "cast": "Jason Statham, Brad Pitt, Benicio del Toro, Vinnie Jones, Alan Ford",
+   "genres": [
+    "Commedia nera",
+    "Crimine"
+   ],
+   "tmdb": 107
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Jason Statham: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Snatch - Lo strappo",
+    "orig": "Snatch",
+    "year": 2000,
+    "runtime": 104,
+    "imdb": "tt0208092",
+    "directors": [
+     "Guy Ritchie"
+    ],
+    "genres": [
+     "Crime",
+     "Commedia"
+    ],
+    "cast5": [
+     "Jason Statham",
+     "Alan Ford",
+     "Stephen Graham",
+     "Brad Pitt",
+     "Dennis Farina",
+     "Robbie Gee"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2000,
+    "end": null,
+    "runtime": 102
+   }
+  }
+ },
+ {
+  "id": "f56",
+  "title": "Detachment",
+  "ours": {
+   "year": "2011",
+   "duration": 97,
+   "director": "Tony Kaye",
+   "cast": "Adrien Brody, Christina Hendricks, Marcia Gay Harden, James Caan, Lucy Liu",
+   "genres": [
+    "Dramma"
+   ],
+   "tmdb": 74308
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Detachment - Il distacco",
+    "orig": "Detachment",
+    "year": 2011,
+    "runtime": 98,
+    "imdb": "tt1683526",
+    "directors": [
+     "Tony Kaye"
+    ],
+    "genres": [
+     "Dramma"
+    ],
+    "cast5": [
+     "Adrien Brody",
+     "Marcia Gay Harden",
+     "James Caan",
+     "Christina Hendricks",
+     "Lucy Liu",
+     "Blythe Danner"
+    ]
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2011,
+    "end": null,
+    "runtime": 98
+   }
+  }
+ },
+ {
+  "id": "f59",
+  "title": "Ocean's Eleven",
+  "ours": {
+   "year": "2001",
+   "duration": 116,
+   "director": "Steven Soderbergh",
+   "cast": "George Clooney, Brad Pitt, Matt Damon, Julia Roberts, Don Cheadle",
+   "genres": [
+    "Crimine",
+    "Commedia"
+   ],
+   "tmdb": 161
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Ocean's Eleven - Fate il vostro gioco",
+    "orig": "Ocean's Eleven",
+    "year": 2001,
+    "runtime": 116,
+    "imdb": "tt0240772",
+    "directors": [
+     "Steven Soderbergh"
+    ],
+    "genres": [
+     "Thriller",
+     "Crime"
+    ],
+    "cast5": [
+     "George Clooney",
+     "Brad Pitt",
+     "Andy Garcia",
+     "Matt Damon",
+     "Julia Roberts",
+     "Casey Affleck"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2001,
+    "end": null,
+    "runtime": 116
+   }
+  }
+ },
+ {
+  "id": "f62",
+  "title": "Primal Fear",
+  "ours": {
+   "year": "1996",
+   "duration": 129,
+   "director": "Gregory Hoblit",
+   "cast": "Richard Gere, Edward Norton, Laura Linney, John Mahoney, Frances McDormand",
+   "genres": [
+    "Thriller",
+    "Crimine",
+    "Dramma"
+   ],
+   "tmdb": 1592
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Schegge di paura",
+    "orig": "Primal Fear",
+    "year": 1996,
+    "runtime": 125,
+    "imdb": "tt0117381",
+    "directors": [
+     "Gregory Hoblit"
+    ],
+    "genres": [
+     "Crime",
+     "Dramma",
+     "Thriller"
+    ],
+    "cast5": [
+     "Richard Gere",
+     "Laura Linney",
+     "Edward Norton",
+     "John Mahoney",
+     "Alfre Woodard",
+     "Frances McDormand"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 1996,
+    "end": null,
+    "runtime": 129
+   }
+  }
+ },
+ {
+  "id": "f64",
+  "title": "The Imitation Game",
+  "ours": {
+   "year": "2014",
+   "duration": 114,
+   "director": "Morten Tyldum",
+   "cast": "Benedict Cumberbatch, Keira Knightley, Matthew Goode, Mark Strong, Charles Dance",
+   "genres": [
+    "Biografico",
+    "Dramma",
+    "Guerra"
+   ],
+   "tmdb": 205596
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Keira Knightley: foto diversa da TMDB; Charles Dance: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "The Imitation Game",
+    "orig": "The Imitation Game",
+    "year": 2014,
+    "runtime": 114,
+    "imdb": "tt2084970",
+    "directors": [
+     "Morten Tyldum"
+    ],
+    "genres": [
+     "Storia",
+     "Dramma",
+     "Thriller",
+     "Guerra"
+    ],
+    "cast5": [
+     "Benedict Cumberbatch",
+     "Keira Knightley",
+     "Matthew Goode",
+     "Rory Kinnear",
+     "Allen Leech",
+     "Matthew Beard"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2014,
+    "end": null,
+    "runtime": 114
+   }
+  }
+ },
+ {
+  "id": "f67",
+  "title": "City of Ember",
+  "ours": {
+   "year": "2008",
+   "duration": 90,
+   "director": "Gil Kenan",
+   "cast": "Saoirse Ronan, Harry Treadaway, Bill Murray, Tim Robbins, Martin Landau",
+   "genres": [
+    "Fantascienza",
+    "Avventura",
+    "Famiglia"
+   ],
+   "tmdb": 13600
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Ember - Il mistero della città di luce",
+    "orig": "City of Ember",
+    "year": 2008,
+    "runtime": 95,
+    "imdb": "tt0970411",
+    "directors": [
+     "Gil Kenan"
+    ],
+    "genres": [
+     "Avventura",
+     "Famiglia",
+     "Fantasy"
+    ],
+    "cast5": [
+     "Saoirse Ronan",
+     "Harry Treadaway",
+     "Bill Murray",
+     "David Ryall",
+     "Tim Robbins",
+     "Mackenzie Crook"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2008,
+    "end": null,
+    "runtime": 90
+   }
+  }
+ },
+ {
+  "id": "f70",
+  "title": "Pirates of the Caribbean: Dead Man's Chest",
+  "ours": {
+   "year": "2006",
+   "duration": 151,
+   "director": "Gore Verbinski",
+   "cast": "Johnny Depp, Orlando Bloom, Keira Knightley, Bill Nighy, Jack Davenport",
+   "genres": [
+    "Avventura",
+    "Azione",
+    "Fantasy"
+   ],
+   "tmdb": 58
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Keira Knightley: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Pirati dei Caraibi - La maledizione del forziere fantasma",
+    "orig": "Pirates of the Caribbean: Dead Man's Chest",
+    "year": 2006,
+    "runtime": 145,
+    "imdb": "tt0383574",
+    "directors": [
+     "Gore Verbinski"
+    ],
+    "genres": [
+     "Avventura",
+     "Fantasy",
+     "Azione"
+    ],
+    "cast5": [
+     "Johnny Depp",
+     "Orlando Bloom",
+     "Keira Knightley",
+     "Jack Davenport",
+     "Bill Nighy",
+     "Jonathan Pryce"
+    ]
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2006,
+    "end": null,
+    "runtime": 151
+   }
+  }
+ },
+ {
+  "id": "f73",
+  "title": "The Notebook",
+  "ours": {
+   "year": "2004",
+   "duration": 123,
+   "director": "Nick Cassavetes",
+   "cast": "Ryan Gosling, Rachel McAdams, James Garner, Gena Rowlands, James Marsden",
+   "genres": [
+    "Romance",
+    "Dramma"
+   ],
+   "tmdb": 11036
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Gena Rowlands: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Le pagine della nostra vita",
+    "orig": "The Notebook",
+    "year": 2004,
+    "runtime": 123,
+    "imdb": "tt0332280",
+    "directors": [
+     "Nick Cassavetes"
+    ],
+    "genres": [
+     "Romance",
+     "Dramma"
+    ],
+    "cast5": [
+     "Ryan Gosling",
+     "Rachel McAdams",
+     "Gena Rowlands",
+     "James Garner",
+     "Joan Allen",
+     "David Thornton"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2004,
+    "end": null,
+    "runtime": 123
+   }
+  }
+ },
+ {
+  "id": "f76",
+  "title": "Maleficent",
+  "ours": {
+   "year": "2014",
+   "duration": 97,
+   "director": "Robert Stromberg",
+   "cast": "Angelina Jolie, Elle Fanning, Sharlto Copley, Imelda Staunton, Sam Riley",
+   "genres": [
+    "Fantasy",
+    "Avventura",
+    "Famiglia"
+   ],
+   "tmdb": 102651
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Maleficent",
+    "orig": "Maleficent",
+    "year": 2014,
+    "runtime": 97,
+    "imdb": "tt1587310",
+    "directors": [
+     "Robert Stromberg"
+    ],
+    "genres": [
+     "Fantasy",
+     "Avventura",
+     "Azione",
+     "Famiglia",
+     "Romance"
+    ],
+    "cast5": [
+     "Angelina Jolie",
+     "Elle Fanning",
+     "Imelda Staunton",
+     "Sharlto Copley",
+     "Lesley Manville",
+     "Juno Temple"
+    ]
+   },
+   "poster_dist": 6,
+   "imdb": {
+    "year": 2014,
+    "end": null,
+    "runtime": 97
+   }
+  }
+ },
+ {
+  "id": "f79",
+  "title": "Back to the Future 2",
+  "ours": {
+   "year": "1989",
+   "duration": 118,
+   "director": "Robert Zemeckis",
+   "cast": "Michael J. Fox, Christopher Lloyd, Lea Thompson, Thomas F. Wilson, Elisabeth Shue",
+   "genres": [
+    "Fantascienza",
+    "Avventura",
+    "Commedia"
+   ],
+   "tmdb": 165
+  },
+  "flags": [
+   [
+    "DURATA",
+    "Nostro 118 min; TMDB 108, IMDb 108"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Ritorno al futuro - Parte II",
+    "orig": "Back to the Future Part II",
+    "year": 1989,
+    "runtime": 108,
+    "imdb": "tt0096874",
+    "directors": [
+     "Robert Zemeckis"
+    ],
+    "genres": [
+     "Avventura",
+     "Commedia",
+     "Fantascienza"
+    ],
+    "cast5": [
+     "Michael J. Fox",
+     "Christopher Lloyd",
+     "Lea Thompson",
+     "Thomas F. Wilson",
+     "Elisabeth Shue",
+     "James Tolkan"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1989,
+    "end": null,
+    "runtime": 108
+   }
+  }
+ },
+ {
+  "id": "f81",
+  "title": "Inglourious Basterds",
+  "ours": {
+   "year": "2009",
+   "duration": 153,
+   "director": "Quentin Tarantino",
+   "cast": "Brad Pitt, Christoph Waltz, Mélanie Laurent, Diane Kruger, Eli Roth",
+   "genres": [
+    "Guerra",
+    "Dramma",
+    "Commedia nera"
+   ],
+   "tmdb": 16869
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Bastardi senza gloria",
+    "orig": "Inglourious Basterds",
+    "year": 2009,
+    "runtime": 153,
+    "imdb": "tt0361748",
+    "directors": [
+     "Quentin Tarantino"
+    ],
+    "genres": [
+     "Dramma",
+     "Thriller",
+     "Guerra"
+    ],
+    "cast5": [
+     "Brad Pitt",
+     "Mélanie Laurent",
+     "Christoph Waltz",
+     "Eli Roth",
+     "Michael Fassbender",
+     "Diane Kruger"
+    ]
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2009,
+    "end": null,
+    "runtime": 153
+   }
+  }
+ },
+ {
+  "id": "f84",
+  "title": "The Big Short",
+  "ours": {
+   "year": "2015",
+   "duration": 130,
+   "director": "Adam McKay",
+   "cast": "Christian Bale, Steve Carell, Ryan Gosling, Brad Pitt, Finn Wittrock",
+   "genres": [
+    "Commedia",
+    "Dramma",
+    "Biografico"
+   ],
+   "tmdb": 318846
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Steve Carell: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "La grande scommessa",
+    "orig": "The Big Short",
+    "year": 2015,
+    "runtime": 130,
+    "imdb": "tt1596363",
+    "directors": [
+     "Adam McKay"
+    ],
+    "genres": [
+     "Commedia",
+     "Dramma"
+    ],
+    "cast5": [
+     "Steve Carell",
+     "Christian Bale",
+     "Ryan Gosling",
+     "Brad Pitt",
+     "Marisa Tomei",
+     "Melissa Leo"
+    ]
+   },
+   "poster_dist": 3,
+   "imdb": {
+    "year": 2015,
+    "end": null,
+    "runtime": 130
+   }
+  }
+ },
+ {
+  "id": "f87",
+  "title": "Blade Runner 2049",
+  "ours": {
+   "year": "2017",
+   "duration": 164,
+   "director": "Denis Villeneuve",
+   "cast": "Ryan Gosling, Harrison Ford, Ana de Armas, Jared Leto, Sylvia Hoeks",
+   "genres": [
+    "Fantascienza",
+    "Thriller",
+    "Dramma"
+   ],
+   "tmdb": 335984
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Ana de Armas: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Blade Runner 2049",
+    "orig": "Blade Runner 2049",
+    "year": 2017,
+    "runtime": 164,
+    "imdb": "tt1856101",
+    "directors": [
+     "Denis Villeneuve"
+    ],
+    "genres": [
+     "Fantascienza",
+     "Dramma"
+    ],
+    "cast5": [
+     "Ryan Gosling",
+     "Harrison Ford",
+     "Ana de Armas",
+     "Dave Bautista",
+     "Robin Wright",
+     "Sylvia Hoeks"
+    ]
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2017,
+    "end": null,
+    "runtime": 164
+   }
+  }
+ },
+ {
+  "id": "f90",
+  "title": "The Untouchables",
+  "ours": {
+   "year": "1987",
+   "duration": 119,
+   "director": "Brian De Palma",
+   "cast": "Kevin Costner, Sean Connery, Robert De Niro, Andy Garcia, Charles Martin Smith",
+   "genres": [
+    "Crimine",
+    "Dramma",
+    "Thriller"
+   ],
+   "tmdb": 754
+  },
+  "flags": [
+   [
+    "ANNO",
+    "Nostro 1987; TMDB 1997"
+   ],
+   [
+    "REGISTA",
+    "Nostro 'Brian De Palma'; TMDB ['John Woo']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Kevin Costner', 'Sean Connery', 'Robert De Niro', 'Andy Garcia', 'Charles Martin Smith']; TMDB top: ['John Travolta', 'Nicolas Cage', 'Joan Allen', 'Alessandro Nivola', 'Gina Gershon', 'Dominique Swain']"
+   ],
+   [
+    "FOTO_CAST",
+    "Kevin Costner: non nel cast TMDB; Sean Connery: non nel cast TMDB; Robert De Niro: non nel cast TMDB; Andy Garcia: non nel cast TMDB; Charles Martin Smith: non nel cast TMDB"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 754 (Face/Off - Due facce di un assassino 1997), distanza 22. Candidati per somiglianza: [(0, 117, 'The Untouchables', '1987'), (25, 754, 'Face/Off', '1997'), (26, 59091, 'Mighty Ducks the Movie: The First Face-Off', '1997')]"
+   ],
+   [
+    "DURATA",
+    "Nostro 119 min; TMDB 137, IMDb 138"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Face/Off - Due facce di un assassino",
+    "orig": "Face/Off",
+    "year": 1997,
+    "runtime": 137,
+    "imdb": "tt0119094",
+    "directors": [
+     "John Woo"
+    ],
+    "genres": [
+     "Azione",
+     "Crime",
+     "Fantascienza"
+    ],
+    "cast5": [
+     "John Travolta",
+     "Nicolas Cage",
+     "Joan Allen",
+     "Alessandro Nivola",
+     "Gina Gershon",
+     "Dominique Swain"
+    ]
+   },
+   "poster_dist": 22,
+   "imdb": {
+    "year": 1997,
+    "end": null,
+    "runtime": 138
+   }
+  }
+ },
+ {
+  "id": "f93",
+  "title": "Real Steel",
+  "ours": {
+   "year": "2011",
+   "duration": 127,
+   "director": "Shawn Levy",
+   "cast": "Hugh Jackman, Dakota Goyo, Evangeline Lilly, Kevin Durand, Anthony Mackie",
+   "genres": [
+    "Fantascienza",
+    "Azione",
+    "Sport",
+    "Famiglia"
+   ],
+   "tmdb": 39254
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Hugh Jackman: foto diversa da TMDB; Evangeline Lilly: foto diversa da TMDB; Anthony Mackie: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Real Steel",
+    "orig": "Real Steel",
+    "year": 2011,
+    "runtime": 126,
+    "imdb": "tt0433035",
+    "directors": [
+     "Shawn Levy"
+    ],
+    "genres": [
+     "Azione",
+     "Fantascienza",
+     "Dramma"
+    ],
+    "cast5": [
+     "Hugh Jackman",
+     "Dakota Goyo",
+     "Evangeline Lilly",
+     "Kevin Durand",
+     "Anthony Mackie",
+     "Hope Davis"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2011,
+    "end": null,
+    "runtime": 127
+   }
+  }
+ },
+ {
+  "id": "f96",
+  "title": "Fractured",
+  "ours": {
+   "year": "2019",
+   "duration": 99,
+   "director": "Brad Anderson",
+   "cast": "Sam Worthington, Lily Rabe, Lucy Capri, Stephen Tobolowsky, Adjoa Andoh",
+   "genres": [
+    "Thriller",
+    "Mistero"
+   ],
+   "tmdb": 568091
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Fractured",
+    "orig": "Fractured",
+    "year": 2019,
+    "runtime": 100,
+    "imdb": "tt4332232",
+    "directors": [
+     "Brad Anderson"
+    ],
+    "genres": [
+     "Thriller",
+     "Dramma"
+    ],
+    "cast5": [
+     "Sam Worthington",
+     "Lily Rabe",
+     "Lucy Capri",
+     "Stephen Tobolowsky",
+     "Lauren Cochrane",
+     "Shane Dean"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2019,
+    "end": null,
+    "runtime": 99
+   }
+  }
+ },
+ {
+  "id": "f99",
+  "title": "The Pursuit of Happyness",
+  "ours": {
+   "year": "2006",
+   "duration": 117,
+   "director": "Gabriele Muccino",
+   "cast": "Will Smith, Jaden Smith, Thandiwe Newton, Brian Howe",
+   "genres": [
+    "Dramma",
+    "Biografico"
+   ],
+   "tmdb": 1402
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "La ricerca della felicità",
+    "orig": "The Pursuit of Happyness",
+    "year": 2006,
+    "runtime": 117,
+    "imdb": "tt0454921",
+    "directors": [
+     "Gabriele Muccino"
+    ],
+    "genres": [
+     "Dramma"
+    ],
+    "cast5": [
+     "Will Smith",
+     "Jaden Smith",
+     "Thandiwe Newton",
+     "Brian Howe",
+     "James Karen",
+     "Dan Castellaneta"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2006,
+    "end": null,
+    "runtime": 117
+   }
+  }
+ },
+ {
+  "id": "f102",
+  "title": "Home Alone 1",
+  "ours": {
+   "year": "1990",
+   "duration": 103,
+   "director": "Chris Columbus",
+   "cast": "Macaulay Culkin, Joe Pesci, Daniel Stern, John Heard, Catherine O'Hara",
+   "genres": [
+    "Commedia",
+    "Famiglia"
+   ],
+   "tmdb": 771
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Macaulay Culkin: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Mamma, ho perso l'aereo",
+    "orig": "Home Alone",
+    "year": 1990,
+    "runtime": 103,
+    "imdb": "tt0099785",
+    "directors": [
+     "Chris Columbus"
+    ],
+    "genres": [
+     "Commedia",
+     "Famiglia"
+    ],
+    "cast5": [
+     "Macaulay Culkin",
+     "Joe Pesci",
+     "Daniel Stern",
+     "John Heard",
+     "Roberts Blossom",
+     "Catherine O'Hara"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 1990,
+    "end": null,
+    "runtime": 103
+   }
+  }
+ },
+ {
+  "id": "f105",
+  "title": "La haine",
+  "ours": {
+   "year": "1995",
+   "duration": 109,
+   "director": "Mathieu Kassovitz",
+   "cast": "Vincent Cassel, Hubert Koundé, Saïd Taghmaoui, Karim Belkhadra",
+   "genres": [
+    "Dramma",
+    "Crimine"
+   ],
+   "tmdb": 406
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Karim Belkhadra']; TMDB top: ['Vincent Cassel', 'Hubert Koundé', 'Saïd Taghmaoui', 'Abdel Ahmed Ghili', 'Solo', 'Joseph Momo']"
+   ],
+   [
+    "DURATA",
+    "Nostro 109 min; TMDB 98, IMDb 98"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "L'odio",
+    "orig": "La Haine",
+    "year": 1995,
+    "runtime": 98,
+    "imdb": "tt0113247",
+    "directors": [
+     "Mathieu Kassovitz"
+    ],
+    "genres": [
+     "Dramma"
+    ],
+    "cast5": [
+     "Vincent Cassel",
+     "Hubert Koundé",
+     "Saïd Taghmaoui",
+     "Abdel Ahmed Ghili",
+     "Solo",
+     "Joseph Momo"
+    ]
+   },
+   "poster_dist": 3,
+   "imdb": {
+    "year": 1995,
+    "end": null,
+    "runtime": 98
+   }
+  }
+ },
+ {
+  "id": "f108",
+  "title": "Coherence",
+  "ours": {
+   "year": "2013",
+   "duration": 88,
+   "director": "James Ward Byrkit",
+   "cast": "Emily Baldoni, Maury Sterling, Nicholas Brendon, Lorene Scafaria, Elizabeth Gracen",
+   "genres": [
+    "Fantascienza",
+    "Thriller",
+    "Mistero"
+   ],
+   "tmdb": 220289
+  },
+  "flags": [
+   [
+    "ANNO",
+    "Nostro 2013; TMDB 2014"
+   ],
+   [
+    "ANNO_FONTI",
+    "TMDB 2014 ≠ IMDb 2013 (nostro 2013)"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Coherence - Oltre lo spazio tempo",
+    "orig": "Coherence",
+    "year": 2014,
+    "runtime": 89,
+    "imdb": "tt2866360",
+    "directors": [
+     "James Ward Byrkit"
+    ],
+    "genres": [
+     "Thriller",
+     "Fantascienza"
+    ],
+    "cast5": [
+     "Emily Baldoni",
+     "Maury Sterling",
+     "Nicholas Brendon",
+     "Lorene Scafaria",
+     "Elizabeth Gracen",
+     "Hugo Armstrong"
+    ]
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2013,
+    "end": null,
+    "runtime": 89
+   }
+  }
+ },
+ {
+  "id": "f111",
+  "title": "Grease",
+  "ours": {
+   "year": "1978",
+   "duration": 110,
+   "director": "Randal Kleiser",
+   "cast": "John Travolta, Olivia Newton-John, Stockard Channing, Jeff Conaway, Didi Conn",
+   "genres": [
+    "Musical",
+    "Romance",
+    "Commedia"
+   ],
+   "tmdb": 621
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Stockard Channing: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Grease - Brillantina",
+    "orig": "Grease",
+    "year": 1978,
+    "runtime": 110,
+    "imdb": "tt0077631",
+    "directors": [
+     "Randal Kleiser"
+    ],
+    "genres": [
+     "Romance",
+     "Commedia"
+    ],
+    "cast5": [
+     "Olivia Newton-John",
+     "John Travolta",
+     "Stockard Channing",
+     "Jeff Conaway",
+     "Barry Pearl",
+     "Michael Tucci"
+    ]
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 1978,
+    "end": null,
+    "runtime": 110
+   }
+  }
+ },
+ {
+  "id": "f114",
+  "title": "Men in Black 1",
+  "ours": {
+   "year": "1997",
+   "duration": 98,
+   "director": "Barry Sonnenfeld",
+   "cast": "Will Smith, Tommy Lee Jones, Linda Fiorentino, Vincent D'Onofrio, Rip Torn",
+   "genres": [
+    "Fantascienza",
+    "Azione",
+    "Commedia"
+   ],
+   "tmdb": 607
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Men in Black",
+    "orig": "Men in Black",
+    "year": 1997,
+    "runtime": 98,
+    "imdb": "tt0119654",
+    "directors": [
+     "Barry Sonnenfeld"
+    ],
+    "genres": [
+     "Azione",
+     "Avventura",
+     "Commedia",
+     "Fantascienza"
+    ],
+    "cast5": [
+     "Tommy Lee Jones",
+     "Will Smith",
+     "Linda Fiorentino",
+     "Vincent D'Onofrio",
+     "Rip Torn",
+     "Tony Shalhoub"
+    ]
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 1997,
+    "end": null,
+    "runtime": 98
+   }
+  }
+ },
+ {
+  "id": "f117",
+  "title": "Maze Runner 3",
+  "ours": {
+   "year": "2018",
+   "duration": 143,
+   "director": "Wes Ball",
+   "cast": "Dylan O'Brien, Kaya Scodelario, Thomas Brodie-Sangster, Rosa Salazar, Giancarlo Esposito",
+   "genres": [
+    "Fantascienza",
+    "Avventura",
+    "Azione"
+   ],
+   "tmdb": 336843
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Kaya Scodelario: foto diversa da TMDB; Giancarlo Esposito: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Maze Runner - La rivelazione",
+    "orig": "Maze Runner: The Death Cure",
+    "year": 2018,
+    "runtime": 141,
+    "imdb": "tt4500922",
+    "directors": [
+     "Wes Ball"
+    ],
+    "genres": [
+     "Fantascienza",
+     "Azione",
+     "Avventura",
+     "Thriller"
+    ],
+    "cast5": [
+     "Dylan O'Brien",
+     "Kaya Scodelario",
+     "Thomas Brodie-Sangster",
+     "Ki Hong Lee",
+     "Dexter Darden",
+     "Rosa Salazar"
+    ]
+   },
+   "poster_dist": 10,
+   "imdb": {
+    "year": 2018,
+    "end": null,
+    "runtime": 143
+   }
+  }
+ },
+ {
+  "id": "f120",
+  "title": "Donnie Darko",
+  "ours": {
+   "year": "2001",
+   "duration": 113,
+   "director": "Richard Kelly",
+   "cast": "Jake Gyllenhaal, Jena Malone, Patrick Swayze, Mary McDonnell, Drew Barrymore",
+   "genres": [
+    "Fantascienza",
+    "Thriller",
+    "Dramma"
+   ],
+   "tmdb": 141
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Drew Barrymore: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Donnie Darko",
+    "orig": "Donnie Darko",
+    "year": 2001,
+    "runtime": 113,
+    "imdb": "tt0246578",
+    "directors": [
+     "Richard Kelly"
+    ],
+    "genres": [
+     "Fantasy",
+     "Dramma",
+     "Mistero"
+    ],
+    "cast5": [
+     "Jake Gyllenhaal",
+     "Jena Malone",
+     "James Duval",
+     "Drew Barrymore",
+     "Beth Grant",
+     "Maggie Gyllenhaal"
+    ]
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2001,
+    "end": null,
+    "runtime": 113
+   }
+  }
+ },
+ {
+  "id": "f123",
+  "title": "The Silence of the Lambs",
+  "ours": {
+   "year": "1991",
+   "duration": 118,
+   "director": "Jonathan Demme",
+   "cast": "Jodie Foster, Anthony Hopkins, Scott Glenn, Ted Levine, Kasi Lemmons",
+   "genres": [
+    "Thriller",
+    "Horror",
+    "Crimine"
+   ],
+   "tmdb": 274
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Anthony Hopkins: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Il silenzio degli innocenti",
+    "orig": "The Silence of the Lambs",
+    "year": 1991,
+    "runtime": 118,
+    "imdb": "tt0102926",
+    "directors": [
+     "Jonathan Demme"
+    ],
+    "genres": [
+     "Crime",
+     "Thriller",
+     "Dramma"
+    ],
+    "cast5": [
+     "Jodie Foster",
+     "Anthony Hopkins",
+     "Scott Glenn",
+     "Ted Levine",
+     "Anthony Heald",
+     "Brooke Smith"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1991,
+    "end": null,
+    "runtime": 118
+   }
+  }
+ },
+ {
+  "id": "f126",
+  "title": "The Discovery",
+  "ours": {
+   "year": "2017",
+   "duration": 100,
+   "director": "Charlie McDowell",
+   "cast": "Jason Segel, Rooney Mara, Robert Redford, Jesse Plemons, Riley Keough",
+   "genres": [
+    "Fantascienza",
+    "Dramma",
+    "Romance"
+   ],
+   "tmdb": 376134
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Robert Redford: foto diversa da TMDB; Riley Keough: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "La scoperta",
+    "orig": "The Discovery",
+    "year": 2017,
+    "runtime": 110,
+    "imdb": "tt5155780",
+    "directors": [
+     "Charlie McDowell"
+    ],
+    "genres": [
+     "Dramma",
+     "Romance",
+     "Fantascienza",
+     "Thriller",
+     "Mistero"
+    ],
+    "cast5": [
+     "Jason Segel",
+     "Rooney Mara",
+     "Robert Redford",
+     "Jesse Plemons",
+     "Riley Keough",
+     "Ron Canada"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2017,
+    "end": null,
+    "runtime": 102
+   }
+  }
+ },
+ {
+  "id": "f129",
+  "title": "Home Alone 2",
+  "ours": {
+   "year": "1992",
+   "duration": 120,
+   "director": "Chris Columbus",
+   "cast": "Macaulay Culkin, Joe Pesci, Daniel Stern, Catherine O'Hara, Tim Curry",
+   "genres": [
+    "Commedia",
+    "Famiglia",
+    "Avventura"
+   ],
+   "tmdb": 772
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Home Alone 2' ≠ TMDB 'Mamma, ho riperso l'aereo - Mi sono smarrito a New York' / 'Home Alone 2: Lost in New York'"
+   ],
+   [
+    "FOTO_CAST",
+    "Macaulay Culkin: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Mamma, ho riperso l'aereo - Mi sono smarrito a New York",
+    "orig": "Home Alone 2: Lost in New York",
+    "year": 1992,
+    "runtime": 120,
+    "imdb": "tt0104431",
+    "directors": [
+     "Chris Columbus"
+    ],
+    "genres": [
+     "Commedia",
+     "Famiglia",
+     "Avventura"
+    ],
+    "cast5": [
+     "Macaulay Culkin",
+     "Joe Pesci",
+     "Daniel Stern",
+     "Catherine O'Hara",
+     "John Heard",
+     "Brenda Fricker"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1992,
+    "end": null,
+    "runtime": 120
+   }
+  }
+ },
+ {
+  "id": "f132",
+  "title": "Journey to the Center of the Earth",
+  "ours": {
+   "year": "2008",
+   "duration": 84,
+   "director": "Eric Brevig",
+   "cast": "Brendan Fraser, Josh Hutcherson, Anita Briem, Jean Michel Paré",
+   "genres": [
+    "Avventura",
+    "Fantascienza",
+    "Famiglia"
+   ],
+   "tmdb": 88751
+  },
+  "flags": [
+   [
+    "DURATA",
+    "Nostro 84 min; TMDB 93, IMDb 93"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Viaggio al centro della Terra",
+    "orig": "Journey to the Center of the Earth",
+    "year": 2008,
+    "runtime": 93,
+    "imdb": "tt0373051",
+    "directors": [
+     "Eric Brevig"
+    ],
+    "genres": [
+     "Azione",
+     "Fantascienza",
+     "Avventura",
+     "Commedia",
+     "Famiglia"
+    ],
+    "cast5": [
+     "Brendan Fraser",
+     "Josh Hutcherson",
+     "Anita Briem",
+     "Seth Meyers",
+     "Jean Michel Paré",
+     "Jane Wheeler"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2008,
+    "end": null,
+    "runtime": 93
+   }
+  }
+ },
+ {
+  "id": "f135",
+  "title": "Pirates of the Caribbean: On Stranger Tides",
+  "ours": {
+   "year": "2011",
+   "duration": 137,
+   "director": "Rob Marshall",
+   "cast": "Johnny Depp, Penélope Cruz, Ian McShane, Geoffrey Rush, Sam Claflin",
+   "genres": [
+    "Avventura",
+    "Fantasy",
+    "Azione"
+   ],
+   "tmdb": 1865
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Pirati dei Caraibi - Oltre i confini del mare",
+    "orig": "Pirates of the Caribbean: On Stranger Tides",
+    "year": 2011,
+    "runtime": 141,
+    "imdb": "tt1298650",
+    "directors": [
+     "Rob Marshall"
+    ],
+    "genres": [
+     "Avventura",
+     "Azione",
+     "Fantasy"
+    ],
+    "cast5": [
+     "Johnny Depp",
+     "Penélope Cruz",
+     "Geoffrey Rush",
+     "Ian McShane",
+     "Kevin McNally",
+     "Sam Claflin"
+    ]
+   },
+   "poster_dist": 9,
+   "imdb": {
+    "year": 2011,
+    "end": null,
+    "runtime": 136
+   }
+  }
+ },
+ {
+  "id": "f138",
+  "title": "The Spiderwick Chronicles",
+  "ours": {
+   "year": "2008",
+   "duration": 96,
+   "director": "Mark Waters",
+   "cast": "Freddie Highmore, Sarah Bolger, Mary-Louise Parker, Nick Nolte, David Strathairn",
+   "genres": [
+    "Fantasy",
+    "Avventura",
+    "Famiglia"
+   ],
+   "tmdb": 8204
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Mary-Louise Parker: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Spiderwick - Le cronache",
+    "orig": "The Spiderwick Chronicles",
+    "year": 2008,
+    "runtime": 96,
+    "imdb": "tt0416236",
+    "directors": [
+     "Mark Waters"
+    ],
+    "genres": [
+     "Famiglia",
+     "Avventura",
+     "Fantasy",
+     "Azione"
+    ],
+    "cast5": [
+     "Freddie Highmore",
+     "Sarah Bolger",
+     "David Strathairn",
+     "Mary-Louise Parker",
+     "Nick Nolte",
+     "Joan Plowright"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2008,
+    "end": null,
+    "runtime": 96
+   }
+  }
+ },
+ {
+  "id": "f141",
+  "title": "Margin Call",
+  "ours": {
+   "year": "2011",
+   "duration": 106,
+   "director": "J.C. Chandor",
+   "cast": "Kevin Spacey, Jeremy Irons, Zachary Quinto, Paul Bettany, Demi Moore",
+   "genres": [
+    "Dramma",
+    "Thriller"
+   ],
+   "tmdb": 50839
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Paul Bettany: foto diversa da TMDB"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 50839 (Margin Call 2011), distanza 22. Candidati per somiglianza: [(22, 50839, 'Margin Call', '2011')]"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Margin Call",
+    "orig": "Margin Call",
+    "year": 2011,
+    "runtime": 107,
+    "imdb": "tt1615147",
+    "directors": [
+     "J.C. Chandor"
+    ],
+    "genres": [
+     "Thriller",
+     "Dramma"
+    ],
+    "cast5": [
+     "Kevin Spacey",
+     "Zachary Quinto",
+     "Paul Bettany",
+     "Jeremy Irons",
+     "Simon Baker",
+     "Penn Badgley"
+    ]
+   },
+   "poster_dist": 22,
+   "imdb": {
+    "year": 2011,
+    "end": null,
+    "runtime": 107
+   }
+  }
+ },
+ {
+  "id": "f144",
+  "title": "Che bella giornata",
+  "ours": {
+   "year": "2011",
+   "duration": 90,
+   "director": "Gennaro Nunziante",
+   "cast": "Checco Zalone, Nabiha Akkari, Rocco Papaleo, Tullio Solenghi, Anna Rita Del Piano",
+   "genres": [
+    "Commedia"
+   ],
+   "tmdb": 53319
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Checco Zalone: foto diversa da TMDB"
+   ],
+   [
+    "DURATA",
+    "Nostro 90 min; TMDB 97, IMDb 97"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Che bella giornata",
+    "orig": "Che bella giornata",
+    "year": 2011,
+    "runtime": 97,
+    "imdb": "tt1808015",
+    "directors": [
+     "Gennaro Nunziante"
+    ],
+    "genres": [
+     "Commedia"
+    ],
+    "cast5": [
+     "Checco Zalone",
+     "Nabiha Akkari",
+     "Rocco Papaleo",
+     "Tullio Solenghi",
+     "Anna Rita Del Piano",
+     "Michele Alhaique"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2011,
+    "end": null,
+    "runtime": 97
+   }
+  }
+ },
+ {
+  "id": "f147",
+  "title": "Mr. Popper's Penguins",
+  "ours": {
+   "year": "2011",
+   "duration": 88,
+   "director": "Mark Waters",
+   "cast": "Jim Carrey, Carla Gugino, Angela Lansbury, Ophelia Lovibond, Madeline Carroll",
+   "genres": [
+    "Commedia",
+    "Famiglia"
+   ],
+   "tmdb": 58224
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Angela Lansbury: foto diversa da TMDB"
+   ],
+   [
+    "DURATA",
+    "Nostro 88 min; TMDB 94, IMDb 94"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "I pinguini di Mr. Popper",
+    "orig": "Mr. Popper's Penguins",
+    "year": 2011,
+    "runtime": 94,
+    "imdb": "tt1396218",
+    "directors": [
+     "Mark Waters"
+    ],
+    "genres": [
+     "Commedia",
+     "Famiglia"
+    ],
+    "cast5": [
+     "Jim Carrey",
+     "Carla Gugino",
+     "Angela Lansbury",
+     "Ophelia Lovibond",
+     "Madeline Carroll",
+     "Clark Gregg"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2011,
+    "end": null,
+    "runtime": 94
+   }
+  }
+ },
+ {
+  "id": "f150",
+  "title": "Home Alone 3",
+  "ours": {
+   "year": "1997",
+   "duration": 95,
+   "director": "Raja Gosnell",
+   "cast": "Alex D. Linz, Olek Krupa, Scarlett Johansson, Kevin Kilner, Rya Kihlstedt",
+   "genres": [
+    "Commedia",
+    "Famiglia"
+   ],
+   "tmdb": 9714
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Scarlett Johansson: foto diversa da TMDB"
+   ],
+   [
+    "DURATA",
+    "Nostro 95 min; TMDB 102, IMDb 102"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Mamma, ho preso il morbillo",
+    "orig": "Home Alone 3",
+    "year": 1997,
+    "runtime": 102,
+    "imdb": "tt0119303",
+    "directors": [
+     "Raja Gosnell"
+    ],
+    "genres": [
+     "Commedia",
+     "Famiglia"
+    ],
+    "cast5": [
+     "Alex D. Linz",
+     "Olek Krupa",
+     "Rya Kihlstedt",
+     "Lenny Von Dohlen",
+     "David Thornton",
+     "Haviland Morris"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1997,
+    "end": null,
+    "runtime": 102
+   }
+  }
+ },
+ {
+  "id": "f153",
+  "title": "Blow Out",
+  "ours": {
+   "year": "1981",
+   "duration": 108,
+   "director": "Brian De Palma",
+   "cast": "John Travolta, Nancy Allen, John Lithgow, Dennis Franz",
+   "genres": [
+    "Thriller",
+    "Crimine",
+    "Mistero"
+   ],
+   "tmdb": 11644
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Blow Out",
+    "orig": "Blow Out",
+    "year": 1981,
+    "runtime": 108,
+    "imdb": "tt0082085",
+    "directors": [
+     "Brian De Palma"
+    ],
+    "genres": [
+     "Crime",
+     "Mistero",
+     "Thriller"
+    ],
+    "cast5": [
+     "John Travolta",
+     "Nancy Allen",
+     "John Lithgow",
+     "Dennis Franz",
+     "Peter Boyden",
+     "John Aquino"
+    ]
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 1981,
+    "end": null,
+    "runtime": 108
+   }
+  }
+ },
+ {
+  "id": "f156",
+  "title": "Taxi Driver",
+  "ours": {
+   "year": "1976",
+   "duration": 114,
+   "director": "Martin Scorsese",
+   "cast": "Robert De Niro, Jodie Foster, Cybill Shepherd, Harvey Keitel, Peter Boyle",
+   "genres": [
+    "Dramma",
+    "Crimine"
+   ],
+   "tmdb": 103
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Taxi Driver",
+    "orig": "Taxi Driver",
+    "year": 1976,
+    "runtime": 113,
+    "imdb": "tt0075314",
+    "directors": [
+     "Martin Scorsese"
+    ],
+    "genres": [
+     "Crime",
+     "Dramma"
+    ],
+    "cast5": [
+     "Robert De Niro",
+     "Jodie Foster",
+     "Cybill Shepherd",
+     "Harvey Keitel",
+     "Peter Boyle",
+     "Leonard Harris"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1976,
+    "end": null,
+    "runtime": 114
+   }
+  }
+ },
+ {
+  "id": "f159",
+  "title": "Everything Everywhere All at Once",
+  "ours": {
+   "year": "2022",
+   "duration": 139,
+   "director": "Daniel Kwan, Daniel Scheinert",
+   "cast": "Michelle Yeoh, Ke Huy Quan, Jamie Lee Curtis, Stephanie Hsu, James Hong",
+   "genres": [
+    "Fantascienza",
+    "Commedia",
+    "Azione",
+    "Dramma"
+   ],
+   "tmdb": 545611
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Everything Everywhere All at Once",
+    "orig": "Everything Everywhere All at Once",
+    "year": 2022,
+    "runtime": 140,
+    "imdb": "tt6710474",
+    "directors": [
+     "Daniel Scheinert",
+     "Daniel Kwan"
+    ],
+    "genres": [
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "cast5": [
+     "Michelle Yeoh",
+     "Stephanie Hsu",
+     "Ke Huy Quan",
+     "James Hong",
+     "Jamie Lee Curtis",
+     "Tallie Medel"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2022,
+    "end": null,
+    "runtime": 139
+   }
+  }
+ },
+ {
+  "id": "f452",
+  "title": "Avatar: Fire and Ash",
+  "ours": {
+   "year": "2025",
+   "duration": 198,
+   "director": "James Cameron",
+   "cast": "Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang, Kate Winslet",
+   "genres": [
+    "Fantascienza",
+    "Avventura",
+    "Azione"
+   ],
+   "tmdb": 83533
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Avatar: Fuoco e cenere",
+    "orig": "Avatar: Fire and Ash",
+    "year": 2025,
+    "runtime": 197,
+    "imdb": "tt1757678",
+    "directors": [
+     "James Cameron"
+    ],
+    "genres": [
+     "Fantascienza",
+     "Avventura",
+     "Fantasy"
+    ],
+    "cast5": [
+     "Sam Worthington",
+     "Zoe Saldaña",
+     "Sigourney Weaver",
+     "Stephen Lang",
+     "Oona Chaplin",
+     "Jack Champion"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2025,
+    "end": null,
+    "runtime": 197
+   }
+  }
+ },
+ {
+  "id": "f460",
+  "title": "The Lord of the Rings: The Two Towers",
+  "ours": {
+   "year": "2002",
+   "duration": 179,
+   "director": "Peter Jackson",
+   "cast": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin, Orlando Bloom",
+   "genres": [
+    "Fantasy",
+    "Avventura",
+    "Azione"
+   ],
+   "tmdb": 121
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Il Signore degli Anelli - Le due torri",
+    "orig": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "runtime": 180,
+    "imdb": "tt0167261",
+    "directors": [
+     "Peter Jackson"
+    ],
+    "genres": [
+     "Avventura",
+     "Fantasy",
+     "Azione"
+    ],
+    "cast5": [
+     "Elijah Wood",
+     "Ian McKellen",
+     "Viggo Mortensen",
+     "Sean Astin",
+     "Andy Serkis",
+     "John Rhys-Davies"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2002,
+    "end": null,
+    "runtime": 179
+   }
+  }
+ },
+ {
+  "id": "f453",
+  "title": "The Hobbit: The Desolation of Smaug",
+  "ours": {
+   "year": "2013",
+   "duration": 161,
+   "director": "Peter Jackson",
+   "cast": "Martin Freeman, Ian McKellen, Richard Armitage, Benedict Cumberbatch, Evangeline Lilly",
+   "genres": [
+    "Fantasy",
+    "Avventura"
+   ],
+   "tmdb": 57158
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Evangeline Lilly: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Lo Hobbit: La desolazione di Smaug",
+    "orig": "The Hobbit: The Desolation of Smaug",
+    "year": 2013,
+    "runtime": 161,
+    "imdb": "tt1170358",
+    "directors": [
+     "Peter Jackson"
+    ],
+    "genres": [
+     "Fantasy",
+     "Avventura",
+     "Azione"
+    ],
+    "cast5": [
+     "Ian McKellen",
+     "Martin Freeman",
+     "Richard Armitage",
+     "Benedict Cumberbatch",
+     "Orlando Bloom",
+     "Evangeline Lilly"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2013,
+    "end": null,
+    "runtime": 161
+   }
+  }
+ },
+ {
+  "id": "f455",
+  "title": "The Hunger Games: Catching Fire",
+  "ours": {
+   "year": "2013",
+   "duration": 146,
+   "director": "Francis Lawrence",
+   "cast": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Philip Seymour Hoffman",
+   "genres": [
+    "Fantascienza",
+    "Avventura",
+    "Azione"
+   ],
+   "tmdb": 101299
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Hunger Games: La ragazza di fuoco",
+    "orig": "The Hunger Games: Catching Fire",
+    "year": 2013,
+    "runtime": 146,
+    "imdb": "tt1951264",
+    "directors": [
+     "Francis Lawrence"
+    ],
+    "genres": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "cast5": [
+     "Jennifer Lawrence",
+     "Josh Hutcherson",
+     "Liam Hemsworth",
+     "Woody Harrelson",
+     "Elizabeth Banks",
+     "Donald Sutherland"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2013,
+    "end": null,
+    "runtime": 146
+   }
+  }
+ },
+ {
+  "id": "f458",
+  "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+  "ours": {
+   "year": "2023",
+   "duration": 157,
+   "director": "Francis Lawrence",
+   "cast": "Tom Blyth, Rachel Zegler, Peter Dinklage, Viola Davis, Hunter Schafer",
+   "genres": [
+    "Fantascienza",
+    "Avventura",
+    "Dramma"
+   ],
+   "tmdb": 695721
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Rachel Zegler: foto diversa da TMDB; Hunter Schafer: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Hunger Games - La ballata dell'usignolo e del serpente",
+    "orig": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "year": 2023,
+    "runtime": 157,
+    "imdb": "tt10545296",
+    "directors": [
+     "Francis Lawrence"
+    ],
+    "genres": [
+     "Fantascienza",
+     "Azione"
+    ],
+    "cast5": [
+     "Tom Blyth",
+     "Rachel Zegler",
+     "Peter Dinklage",
+     "Jason Schwartzman",
+     "Hunter Schafer",
+     "Josh Rivera"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2023,
+    "end": null,
+    "runtime": 157
+   }
+  }
+ },
+ {
+  "id": "f169",
+  "title": "Coach Carter",
+  "ours": {
+   "year": "2005",
+   "duration": 105,
+   "director": "Thomas Carter",
+   "cast": "Samuel L. Jackson, Rob Brown, Channing Tatum, Ashanti, Debbi Morgan",
+   "genres": [
+    "Dramma",
+    "Sport",
+    "Biografico"
+   ],
+   "tmdb": 7214
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Samuel L. Jackson: foto diversa da TMDB"
+   ],
+   [
+    "DURATA",
+    "Nostro 105 min; TMDB 136, IMDb 136"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Coach Carter",
+    "orig": "Coach Carter",
+    "year": 2005,
+    "runtime": 136,
+    "imdb": "tt0393162",
+    "directors": [
+     "Thomas Carter"
+    ],
+    "genres": [
+     "Dramma",
+     "Storia"
+    ],
+    "cast5": [
+     "Samuel L. Jackson",
+     "Rob Brown",
+     "Robert Ri'chard",
+     "Rick Gonzalez",
+     "Nana Gbewonyo",
+     "Antwon Tanner"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2005,
+    "end": null,
+    "runtime": 136
+   }
+  }
+ },
+ {
+  "id": "f174",
+  "title": "Synecdoche, New York",
+  "ours": {
+   "year": "2008",
+   "duration": 124,
+   "director": "Charlie Kaufman",
+   "cast": "Philip Seymour Hoffman, Samantha Morton, Catherine Keener, Michelle Williams, Emily Watson",
+   "genres": [
+    "Dramma",
+    "Commedia nera"
+   ],
+   "tmdb": 4960
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Samantha Morton: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Synecdoche, New York",
+    "orig": "Synecdoche, New York",
+    "year": 2008,
+    "runtime": 124,
+    "imdb": "tt0383028",
+    "directors": [
+     "Charlie Kaufman"
+    ],
+    "genres": [
+     "Dramma"
+    ],
+    "cast5": [
+     "Philip Seymour Hoffman",
+     "Samantha Morton",
+     "Michelle Williams",
+     "Catherine Keener",
+     "Emily Watson",
+     "Dianne Wiest"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2008,
+    "end": null,
+    "runtime": 124
+   }
+  }
+ },
+ {
+  "id": "f177",
+  "title": "The Godfather",
+  "ours": {
+   "year": "1972",
+   "duration": 175,
+   "director": "Francis Ford Coppola",
+   "cast": "Marlon Brando, Al Pacino, James Caan, Robert Duvall, Diane Keaton",
+   "genres": [
+    "Crimine",
+    "Dramma"
+   ],
+   "tmdb": 238
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Il padrino",
+    "orig": "The Godfather",
+    "year": 1972,
+    "runtime": 175,
+    "imdb": "tt0068646",
+    "directors": [
+     "Francis Ford Coppola"
+    ],
+    "genres": [
+     "Dramma",
+     "Crime"
+    ],
+    "cast5": [
+     "Marlon Brando",
+     "Al Pacino",
+     "James Caan",
+     "Robert Duvall",
+     "Richard S. Castellano",
+     "Diane Keaton"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1972,
+    "end": null,
+    "runtime": 175
+   }
+  }
+ },
+ {
+  "id": "f180",
+  "title": "Ten Little Indians",
+  "ours": {
+   "year": "1989",
+   "duration": 100,
+   "director": "Alan Birkinshaw",
+   "cast": "Donald Pleasence, Frank Stallone, Herbert Lom",
+   "genres": [
+    "Mistero",
+    "Thriller"
+   ],
+   "tmdb": 103761
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Dieci Piccoli Indiani",
+    "orig": "Ten Little Indians",
+    "year": 1989,
+    "runtime": 98,
+    "imdb": "tt0098454",
+    "directors": [
+     "Alan Birkinshaw"
+    ],
+    "genres": [
+     "Crime",
+     "Thriller",
+     "Mistero"
+    ],
+    "cast5": [
+     "Donald Pleasence",
+     "Brenda Vaccaro",
+     "Frank Stallone Jr.",
+     "Herbert Lom",
+     "Sarah Maur Thorp",
+     "Warren Berlinger"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 1989,
+    "end": null,
+    "runtime": 100
+   }
+  }
+ },
+ {
+  "id": "f183",
+  "title": "The Age of Adaline",
+  "ours": {
+   "year": "2015",
+   "duration": 109,
+   "director": "Lee Toland Krieger",
+   "cast": "Blake Lively, Michiel Huisman, Harrison Ford, Kathy Baker, Ellen Burstyn",
+   "genres": [
+    "Fantasy",
+    "Romance",
+    "Dramma"
+   ],
+   "tmdb": 308369
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'The Age of Adaline' ≠ TMDB 'Quel fantastico peggior anno della mia vita' / 'Me and Earl and the Dying Girl'"
+   ],
+   [
+    "REGISTA",
+    "Nostro 'Lee Toland Krieger'; TMDB ['Alfonso Gomez-Rejon']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Blake Lively', 'Michiel Huisman', 'Harrison Ford', 'Kathy Baker', 'Ellen Burstyn']; TMDB top: ['Olivia Cooke', 'Thomas Mann', 'RJ Cyler', 'Connie Britton', 'Nick Offerman', 'Molly Shannon']"
+   ],
+   [
+    "FOTO_CAST",
+    "Blake Lively: non nel cast TMDB; Michiel Huisman: non nel cast TMDB; Harrison Ford: non nel cast TMDB; Kathy Baker: non nel cast TMDB; Ellen Burstyn: non nel cast TMDB"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 308369 (Quel fantastico peggior anno della mia vita 2015), distanza 24. Candidati per somiglianza: [(16, 293863, 'The Age of Adaline', '2015'), (24, 308369, 'Me and Earl and the Dying Girl', '2015')]"
+   ],
+   [
+    "DURATA",
+    "Nostro 109 min; TMDB 104, IMDb 105"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Quel fantastico peggior anno della mia vita",
+    "orig": "Me and Earl and the Dying Girl",
+    "year": 2015,
+    "runtime": 104,
+    "imdb": "tt2582496",
+    "directors": [
+     "Alfonso Gomez-Rejon"
+    ],
+    "genres": [
+     "Dramma",
+     "Commedia"
+    ],
+    "cast5": [
+     "Olivia Cooke",
+     "Thomas Mann",
+     "RJ Cyler",
+     "Connie Britton",
+     "Nick Offerman",
+     "Molly Shannon"
+    ]
+   },
+   "poster_dist": 24,
+   "imdb": {
+    "year": 2015,
+    "end": null,
+    "runtime": 105
+   }
+  }
+ },
+ {
+  "id": "f187",
+  "title": "Cape Fear",
+  "ours": {
+   "year": "1991",
+   "duration": 128,
+   "director": "Martin Scorsese",
+   "cast": "Robert De Niro, Nick Nolte, Jessica Lange, Juliette Lewis, Illeana Douglas",
+   "genres": [
+    "Thriller",
+    "Crimine"
+   ],
+   "tmdb": 1598
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Jessica Lange: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Cape Fear - Il promontorio della paura",
+    "orig": "Cape Fear",
+    "year": 1991,
+    "runtime": 128,
+    "imdb": "tt0101540",
+    "directors": [
+     "Martin Scorsese"
+    ],
+    "genres": [
+     "Dramma",
+     "Crime",
+     "Thriller"
+    ],
+    "cast5": [
+     "Nick Nolte",
+     "Robert De Niro",
+     "Jessica Lange",
+     "Juliette Lewis",
+     "Joe Don Baker",
+     "Robert Mitchum"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1991,
+    "end": null,
+    "runtime": 128
+   }
+  }
+ },
+ {
+  "id": "f190",
+  "title": "Apocalypse Now",
+  "ours": {
+   "year": "1979",
+   "duration": 147,
+   "director": "Francis Ford Coppola",
+   "cast": "Martin Sheen, Marlon Brando, Robert Duvall, Dennis Hopper, Frederic Forrest",
+   "genres": [
+    "Guerra",
+    "Dramma"
+   ],
+   "tmdb": 28
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Frederic Forrest: foto diversa da TMDB; Dennis Hopper: foto diversa da TMDB"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 28 (Apocalypse Now 1979), distanza 20. Candidati per somiglianza: [(20, 28, 'Apocalypse Now', '1979'), (24, 473073, 'Apocalypse Now Now', '2017'), (25, 276872, 'Zombie Apocalypse Now: A Zombie Hunter', '2008')]"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Apocalypse Now",
+    "orig": "Apocalypse Now",
+    "year": 1979,
+    "runtime": 150,
+    "imdb": "tt0078788",
+    "directors": [
+     "Francis Ford Coppola"
+    ],
+    "genres": [
+     "Dramma",
+     "Guerra"
+    ],
+    "cast5": [
+     "Martin Sheen",
+     "Marlon Brando",
+     "Frederic Forrest",
+     "Albert Hall",
+     "Laurence Fishburne",
+     "Sam Bottoms"
+    ]
+   },
+   "poster_dist": 20,
+   "imdb": {
+    "year": 1979,
+    "end": null,
+    "runtime": 147
+   }
+  }
+ },
+ {
+  "id": "f193",
+  "title": "Moon",
+  "ours": {
+   "year": "2009",
+   "duration": 97,
+   "director": "Duncan Jones",
+   "cast": "Sam Rockwell, Kevin Spacey, Dominique McElligott, Kaya Scodelario, Benedict Wong",
+   "genres": [
+    "Fantascienza",
+    "Dramma",
+    "Mistero"
+   ],
+   "tmdb": 14574
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Moon' ≠ TMDB 'Il bambino con il pigiama a righe' / 'The Boy in the Striped Pyjamas'"
+   ],
+   [
+    "ANNO",
+    "Nostro 2009; TMDB 2008"
+   ],
+   [
+    "REGISTA",
+    "Nostro 'Duncan Jones'; TMDB ['Mark Herman']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Sam Rockwell', 'Kevin Spacey', 'Dominique McElligott', 'Kaya Scodelario', 'Benedict Wong']; TMDB top: ['Asa Butterfield', 'Vera Farmiga', 'David Thewlis', 'Rupert Friend', 'David Hayman', 'Jack Scanlon']"
+   ],
+   [
+    "FOTO_CAST",
+    "Sam Rockwell: non nel cast TMDB; Kevin Spacey: non nel cast TMDB; Dominique McElligott: non nel cast TMDB; Kaya Scodelario: non nel cast TMDB; Benedict Wong: non nel cast TMDB"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 14574 (Il bambino con il pigiama a righe 2008), distanza 26. Candidati per somiglianza: [(7, 17431, 'Moon', '2009'), (17, 466420, 'Killers of the Flower Moon', '2023'), (19, 10497, 'Bitter Moon', '1992')]"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Il bambino con il pigiama a righe",
+    "orig": "The Boy in the Striped Pyjamas",
+    "year": 2008,
+    "runtime": 94,
+    "imdb": "tt0914798",
+    "directors": [
+     "Mark Herman"
+    ],
+    "genres": [
+     "Dramma",
+     "Guerra",
+     "Storia"
+    ],
+    "cast5": [
+     "Asa Butterfield",
+     "Vera Farmiga",
+     "David Thewlis",
+     "Rupert Friend",
+     "David Hayman",
+     "Jack Scanlon"
+    ]
+   },
+   "poster_dist": 26,
+   "imdb": {
+    "year": 2008,
+    "end": null,
+    "runtime": 94
+   }
+  }
+ },
+ {
+  "id": "f196",
+  "title": "Inside Men",
+  "ours": {
+   "year": "2015",
+   "duration": 130,
+   "director": "Woo Min-ho",
+   "cast": "Lee Byung-hun, Cho Seung-woo, Baek Yoon-sik, Lee Kyung-young, Kim Hong-pa",
+   "genres": [
+    "Azione",
+    "Crimine",
+    "Dramma"
+   ],
+   "tmdb": 293413
+  },
+  "flags": [
+   [
+    "REGISTA",
+    "Nostro 'Woo Min-ho'; TMDB ['우민호']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Cho Seung-woo', 'Baek Yoon-sik', 'Lee Kyung-young', 'Kim Hong-pa']; TMDB top: ['Lee Byung-hun', '조승우', '백윤식', '이경영', '김홍파', '이엘']"
+   ],
+   [
+    "FOTO_CAST",
+    "Lee Byung-hun: foto diversa da TMDB; Cho Seung-woo: non nel cast TMDB; Baek Yoon-sik: non nel cast TMDB; Lee Kyung-young: non nel cast TMDB; Kim Hong-pa: non nel cast TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Inside Men",
+    "orig": "내부자들",
+    "year": 2015,
+    "runtime": 181,
+    "imdb": "tt3779028",
+    "directors": [
+     "우민호"
+    ],
+    "genres": [
+     "Crime",
+     "Dramma"
+    ],
+    "cast5": [
+     "Lee Byung-hun",
+     "조승우",
+     "백윤식",
+     "이경영",
+     "김홍파",
+     "이엘"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2015,
+    "end": null,
+    "runtime": 130
+   }
+  }
+ },
+ {
+  "id": "f199",
+  "title": "The Pianist",
+  "ours": {
+   "year": "2002",
+   "duration": 150,
+   "director": "Roman Polanski",
+   "cast": "Adrien Brody, Thomas Kretschmann, Emilia Fox, Ed Stoppard, Frank Finlay",
+   "genres": [
+    "Guerra",
+    "Dramma",
+    "Biografico"
+   ],
+   "tmdb": 423
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Emilia Fox: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Il pianista",
+    "orig": "The Pianist",
+    "year": 2002,
+    "runtime": 150,
+    "imdb": "tt0253474",
+    "directors": [
+     "Roman Polanski"
+    ],
+    "genres": [
+     "Dramma",
+     "Guerra"
+    ],
+    "cast5": [
+     "Adrien Brody",
+     "Thomas Kretschmann",
+     "Frank Finlay",
+     "Maureen Lipman",
+     "Emilia Fox",
+     "Ed Stoppard"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2002,
+    "end": null,
+    "runtime": 150
+   }
+  }
+ },
+ {
+  "id": "f203",
+  "title": "Internal Affairs",
+  "ours": {
+   "year": "1990",
+   "duration": 116,
+   "director": "Mike Figgis",
+   "cast": "Richard Gere, Andy Garcia, Nancy Travis, William Baldwin, Richard Bradford",
+   "genres": [
+    "Thriller",
+    "Crimine"
+   ],
+   "tmdb": 11060
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Affari sporchi",
+    "orig": "Internal Affairs",
+    "year": 1990,
+    "runtime": 115,
+    "imdb": "tt0099850",
+    "directors": [
+     "Mike Figgis"
+    ],
+    "genres": [
+     "Crime",
+     "Dramma"
+    ],
+    "cast5": [
+     "Richard Gere",
+     "Andy Garcia",
+     "Nancy Travis",
+     "Laurie Metcalf",
+     "Richard Bradford",
+     "William Baldwin"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 1990,
+    "end": null,
+    "runtime": 115
+   }
+  }
+ },
+ {
+  "id": "f208",
+  "title": "King of New York",
+  "ours": {
+   "year": "1990",
+   "duration": 121,
+   "director": "Abel Ferrara",
+   "cast": "Christopher Walken, Laurence Fishburne, David Caruso, Wesley Snipes, Victor Argo",
+   "genres": [
+    "Crimine",
+    "Dramma",
+    "Thriller"
+   ],
+   "tmdb": 9558
+  },
+  "flags": [
+   [
+    "DURATA?",
+    "Nostro 121 min; TMDB 106, IMDb 103"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "King of New York",
+    "orig": "King of New York",
+    "year": 1990,
+    "runtime": 106,
+    "imdb": "tt0099939",
+    "directors": [
+     "Abel Ferrara"
+    ],
+    "genres": [
+     "Thriller",
+     "Crime"
+    ],
+    "cast5": [
+     "Christopher Walken",
+     "David Caruso",
+     "Laurence Fishburne",
+     "Victor Argo",
+     "Wesley Snipes",
+     "Janet Julian"
+    ]
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 1990,
+    "end": null,
+    "runtime": 103
+   }
+  }
+ },
+ {
+  "id": "f213",
+  "title": "Being John Malkovich",
+  "ours": {
+   "year": "1999",
+   "duration": 112,
+   "director": "Spike Jonze",
+   "cast": "John Cusack, Cameron Diaz, Catherine Keener, John Malkovich, Orson Bean",
+   "genres": [
+    "Commedia",
+    "Fantasy",
+    "Dramma"
+   ],
+   "tmdb": 15196
+  },
+  "flags": [
+   [
+    "ANNO",
+    "Nostro 1999; TMDB 1985"
+   ],
+   [
+    "REGISTA",
+    "Nostro 'Spike Jonze'; TMDB ['Jonathan Lynn']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['John Cusack', 'Cameron Diaz', 'Catherine Keener', 'John Malkovich', 'Orson Bean']; TMDB top: ['Tim Curry', 'Eileen Brennan', 'Madeline Kahn', 'Christopher Lloyd', 'Michael McKean', 'Martin Mull']"
+   ],
+   [
+    "FOTO_CAST",
+    "John Cusack: non nel cast TMDB; Cameron Diaz: non nel cast TMDB; Catherine Keener: non nel cast TMDB; John Malkovich: non nel cast TMDB; Orson Bean: non nel cast TMDB"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 15196 (Signori, il delitto è servito 1985), distanza 24. Candidati per somiglianza: [(3, 492, 'Being John Malkovich', '1999'), (22, 251990, 'No Clue', '2014'), (23, 26189, 'Get a Clue', '2002')]"
+   ],
+   [
+    "DURATA",
+    "Nostro 112 min; TMDB 94, IMDb 94"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Signori, il delitto è servito",
+    "orig": "Clue",
+    "year": 1985,
+    "runtime": 94,
+    "imdb": "tt0088930",
+    "directors": [
+     "Jonathan Lynn"
+    ],
+    "genres": [
+     "Commedia",
+     "Crime",
+     "Mistero"
+    ],
+    "cast5": [
+     "Tim Curry",
+     "Eileen Brennan",
+     "Madeline Kahn",
+     "Christopher Lloyd",
+     "Michael McKean",
+     "Martin Mull"
+    ]
+   },
+   "poster_dist": 24,
+   "imdb": {
+    "year": 1985,
+    "end": null,
+    "runtime": 94
+   }
+  }
+ },
+ {
+  "id": "f216",
+  "title": "Cold in July",
+  "ours": {
+   "year": "2014",
+   "duration": 109,
+   "director": "Jim Mickle",
+   "cast": "Michael C. Hall, Sam Shepard, Don Johnson",
+   "genres": [
+    "Thriller",
+    "Crimine"
+   ],
+   "tmdb": 244509
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Don Johnson: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Cold in July - Freddo a luglio",
+    "orig": "Cold in July",
+    "year": 2014,
+    "runtime": 109,
+    "imdb": "tt1179031",
+    "directors": [
+     "Jim Mickle"
+    ],
+    "genres": [
+     "Dramma",
+     "Thriller"
+    ],
+    "cast5": [
+     "Michael C. Hall",
+     "Don Johnson",
+     "Sam Shepard",
+     "Vinessa Shaw",
+     "Nick Damici",
+     "Wyatt Russell"
+    ]
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2014,
+    "end": null,
+    "runtime": 109
+   }
+  }
+ },
+ {
+  "id": "f220",
+  "title": "The Butterfly Effect",
+  "ours": {
+   "year": "2004",
+   "duration": 113,
+   "director": "Eric Bress, J. Mackye Gruber",
+   "cast": "Ashton Kutcher, Amy Smart",
+   "genres": [
+    "Fantascienza",
+    "Thriller",
+    "Dramma"
+   ],
+   "tmdb": 1954
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "The Butterfly Effect",
+    "orig": "The Butterfly Effect",
+    "year": 2004,
+    "runtime": 113,
+    "imdb": "tt0289879",
+    "directors": [
+     "Eric Bress",
+     "J. Mackye Gruber"
+    ],
+    "genres": [
+     "Fantascienza",
+     "Thriller"
+    ],
+    "cast5": [
+     "Ashton Kutcher",
+     "Amy Smart",
+     "Melora Walters",
+     "Elden Henson",
+     "William Lee Scott",
+     "Eric Stoltz"
+    ]
+   },
+   "poster_dist": 6,
+   "imdb": {
+    "year": 2004,
+    "end": null,
+    "runtime": 113
+   }
+  }
+ },
+ {
+  "id": "f224",
+  "title": "Big Fish",
+  "ours": {
+   "year": "2003",
+   "duration": 125,
+   "director": "Tim Burton",
+   "cast": "Ewan McGregor, Albert Finney, Billy Crudup, Jessica Lange, Alison Lohman",
+   "genres": [
+    "Fantasy",
+    "Avventura",
+    "Dramma"
+   ],
+   "tmdb": 576
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Big Fish' ≠ TMDB 'Il mucchio selvaggio' / 'The Wild Bunch'"
+   ],
+   [
+    "ANNO",
+    "Nostro 2003; TMDB 1969"
+   ],
+   [
+    "REGISTA",
+    "Nostro 'Tim Burton'; TMDB ['Sam Peckinpah']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Ewan McGregor', 'Albert Finney', 'Billy Crudup', 'Jessica Lange', 'Alison Lohman']; TMDB top: ['William Holden', 'Ernest Borgnine', 'Robert Ryan', 'Jaime Sánchez', 'Warren Oates', \"Edmond O'Brien\"]"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Fantasy', 'Avventura', 'Dramma']; TMDB ['Western']"
+   ],
+   [
+    "FOTO_CAST",
+    "Ewan McGregor: non nel cast TMDB; Albert Finney: non nel cast TMDB; Billy Crudup: non nel cast TMDB; Jessica Lange: non nel cast TMDB; Alison Lohman: non nel cast TMDB"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 576 (Il mucchio selvaggio 1969), distanza 24. Candidati per somiglianza: [(0, 587, 'Big Fish', '2003'), (24, 576, 'The Wild Bunch', '1969'), (25, 271706, 'Big Fish & Begonia', '2016')]"
+   ],
+   [
+    "DURATA?",
+    "Nostro 125 min; TMDB 145, IMDb 135"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Il mucchio selvaggio",
+    "orig": "The Wild Bunch",
+    "year": 1969,
+    "runtime": 145,
+    "imdb": "tt0065214",
+    "directors": [
+     "Sam Peckinpah"
+    ],
+    "genres": [
+     "Western"
+    ],
+    "cast5": [
+     "William Holden",
+     "Ernest Borgnine",
+     "Robert Ryan",
+     "Jaime Sánchez",
+     "Warren Oates",
+     "Edmond O'Brien"
+    ]
+   },
+   "poster_dist": 24,
+   "imdb": {
+    "year": 1969,
+    "end": null,
+    "runtime": 135
+   }
+  }
+ },
+ {
+  "id": "f227",
+  "title": "Past Lives",
+  "ours": {
+   "year": "2023",
+   "duration": 106,
+   "director": "Celine Song",
+   "cast": "Greta Lee, Teo Yoo, John Magaro",
+   "genres": [
+    "Dramma",
+    "Romance"
+   ],
+   "tmdb": 666277
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Teo Yoo']; TMDB top: ['Greta Lee', '태오', 'John Magaro', '문승아', '임승민', '윤지혜']"
+   ],
+   [
+    "FOTO_CAST",
+    "유태오: foto diversa da TMDB; 문승아: foto diversa da TMDB; Teo Yoo: non nel cast TMDB; Moon Seung-ah: non nel cast TMDB; Leem Seung-min: non nel cast TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Past Lives",
+    "orig": "Past Lives",
+    "year": 2023,
+    "runtime": 106,
+    "imdb": "tt13238346",
+    "directors": [
+     "Celine Song"
+    ],
+    "genres": [
+     "Dramma",
+     "Romance"
+    ],
+    "cast5": [
+     "Greta Lee",
+     "태오",
+     "John Magaro",
+     "문승아",
+     "임승민",
+     "윤지혜"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2023,
+    "end": null,
+    "runtime": 105
+   }
+  }
+ },
+ {
+  "id": "f230",
+  "title": "Dead Man's Shoes",
+  "ours": {
+   "year": "2004",
+   "duration": 90,
+   "director": "Shane Meadows",
+   "cast": "Paddy Considine, Toby Kebbell",
+   "genres": [
+    "Thriller",
+    "Crimine",
+    "Dramma"
+   ],
+   "tmdb": 12877
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Paddy Considine: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Cinque giorni di vendetta",
+    "orig": "Dead Man's Shoes",
+    "year": 2004,
+    "runtime": 90,
+    "imdb": "tt0419677",
+    "directors": [
+     "Shane Meadows"
+    ],
+    "genres": [
+     "Dramma",
+     "Thriller",
+     "Crime"
+    ],
+    "cast5": [
+     "Paddy Considine",
+     "Toby Kebbell",
+     "Gary Stretch",
+     "Stuart Wolfenden",
+     "Neil Bell",
+     "Paul Sadot"
+    ]
+   },
+   "poster_dist": 4,
+   "imdb": {
+    "year": 2004,
+    "end": null,
+    "runtime": 90
+   }
+  }
+ },
+ {
+  "id": "f233",
+  "title": "Mulholland Drive",
+  "ours": {
+   "year": "2001",
+   "duration": 147,
+   "director": "David Lynch",
+   "cast": "Naomi Watts, Laura Harring, Justin Theroux, Ann Miller",
+   "genres": [
+    "Mistero",
+    "Thriller",
+    "Dramma"
+   ],
+   "tmdb": 1018
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Mulholland Drive",
+    "orig": "Mulholland Drive",
+    "year": 2001,
+    "runtime": 145,
+    "imdb": "tt0166924",
+    "directors": [
+     "David Lynch"
+    ],
+    "genres": [
+     "Thriller",
+     "Dramma",
+     "Mistero"
+    ],
+    "cast5": [
+     "Naomi Watts",
+     "Laura Harring",
+     "Justin Theroux",
+     "Ann Miller",
+     "Mark Pellegrino",
+     "Robert Forster"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2001,
+    "end": null,
+    "runtime": 147
+   }
+  }
+ },
+ {
+  "id": "f236",
+  "title": "Pulp Fiction",
+  "ours": {
+   "year": "1994",
+   "duration": 154,
+   "director": "Quentin Tarantino",
+   "cast": "John Travolta, Samuel L. Jackson, Uma Thurman, Bruce Willis, Ving Rhames",
+   "genres": [
+    "Crimine",
+    "Dramma",
+    "Commedia nera"
+   ],
+   "tmdb": 680
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Samuel L. Jackson: foto diversa da TMDB; Uma Thurman: foto diversa da TMDB; Ving Rhames: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Pulp Fiction",
+    "orig": "Pulp Fiction",
+    "year": 1994,
+    "runtime": 154,
+    "imdb": "tt0110912",
+    "directors": [
+     "Quentin Tarantino"
+    ],
+    "genres": [
+     "Thriller",
+     "Crime",
+     "Commedia"
+    ],
+    "cast5": [
+     "John Travolta",
+     "Samuel L. Jackson",
+     "Uma Thurman",
+     "Bruce Willis",
+     "Ving Rhames",
+     "Harvey Keitel"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1994,
+    "end": null,
+    "runtime": 154
+   }
+  }
+ },
+ {
+  "id": "f240",
+  "title": "God's Crooked Lines",
+  "ours": {
+   "year": "2022",
+   "duration": 155,
+   "director": "Oriol Paulo",
+   "cast": "Bárbara Lennie, Eduard Fernández, Loreto Mauleón, Javier Beltrán, Pablo Derqui",
+   "genres": [
+    "Thriller",
+    "Mistero"
+   ],
+   "tmdb": 890980
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'God's Crooked Lines' ≠ TMDB 'Quando Dio imparò a scrivere' / 'Los renglones torcidos de Dios'"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Quando Dio imparò a scrivere",
+    "orig": "Los renglones torcidos de Dios",
+    "year": 2022,
+    "runtime": 155,
+    "imdb": "tt13229894",
+    "directors": [
+     "Oriol Paulo"
+    ],
+    "genres": [
+     "Dramma",
+     "Mistero",
+     "Thriller"
+    ],
+    "cast5": [
+     "Bárbara Lennie",
+     "Eduard Fernández",
+     "Loreto Mauleón",
+     "Javier Beltrán",
+     "Pablo Derqui",
+     "Federico Aguado"
+    ]
+   },
+   "poster_dist": 3,
+   "imdb": {
+    "year": 2022,
+    "end": null,
+    "runtime": 154
+   }
+  }
+ },
+ {
+  "id": "f243",
+  "title": "Dune",
+  "ours": {
+   "year": "2021",
+   "duration": 155,
+   "director": "Denis Villeneuve",
+   "cast": "Timothée Chalamet, Rebecca Ferguson, Oscar Isaac, Josh Brolin, Zendaya",
+   "genres": [
+    "Fantascienza",
+    "Avventura"
+   ],
+   "tmdb": 438631
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Rebecca Ferguson: foto diversa da TMDB; Zendaya: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Dune",
+    "orig": "Dune",
+    "year": 2021,
+    "runtime": 155,
+    "imdb": "tt1160419",
+    "directors": [
+     "Denis Villeneuve"
+    ],
+    "genres": [
+     "Fantascienza",
+     "Avventura"
+    ],
+    "cast5": [
+     "Timothée Chalamet",
+     "Rebecca Ferguson",
+     "Oscar Isaac",
+     "Jason Momoa",
+     "Stellan Skarsgård",
+     "Stephen McKinley Henderson"
+    ]
+   },
+   "poster_dist": 3,
+   "imdb": {
+    "year": 2021,
+    "end": null,
+    "runtime": 155
+   }
+  }
+ },
+ {
+  "id": "f252",
+  "title": "The Martian",
+  "ours": {
+   "year": "2015",
+   "duration": 144,
+   "director": "Ridley Scott",
+   "cast": "Matt Damon, Jessica Chastain, Jeff Daniels, Kristen Wiig, Kate Mara",
+   "genres": [
+    "Fantascienza",
+    "Avventura",
+    "Dramma"
+   ],
+   "tmdb": 286217
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Sopravvissuto - The Martian",
+    "orig": "The Martian",
+    "year": 2015,
+    "runtime": 141,
+    "imdb": "tt3659388",
+    "directors": [
+     "Ridley Scott"
+    ],
+    "genres": [
+     "Fantascienza",
+     "Dramma",
+     "Avventura"
+    ],
+    "cast5": [
+     "Matt Damon",
+     "Jessica Chastain",
+     "Kristen Wiig",
+     "Jeff Daniels",
+     "Michael Peña",
+     "Sean Bean"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2015,
+    "end": null,
+    "runtime": 144
+   }
+  }
+ },
+ {
+  "id": "f256",
+  "title": "The Place Beyond the Pines",
+  "ours": {
+   "year": "2012",
+   "duration": 140,
+   "director": "Derek Cianfrance",
+   "cast": "Ryan Gosling, Bradley Cooper, Eva Mendes, Dane DeHaan, Rose Byrne",
+   "genres": [
+    "Dramma",
+    "Crimine"
+   ],
+   "tmdb": 109410
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'The Place Beyond the Pines' ≠ TMDB '42 - La vera storia di una leggenda americana' / '42'"
+   ],
+   [
+    "ANNO",
+    "Nostro 2012; TMDB 2013"
+   ],
+   [
+    "REGISTA",
+    "Nostro 'Derek Cianfrance'; TMDB ['Brian Helgeland']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Ryan Gosling', 'Bradley Cooper', 'Eva Mendes', 'Dane DeHaan', 'Rose Byrne']; TMDB top: ['Chadwick Boseman', 'Harrison Ford', 'Nicole Beharie', 'Christopher Meloni', 'Ryan Merriman', 'Lucas Black']"
+   ],
+   [
+    "FOTO_CAST",
+    "Ryan Gosling: non nel cast TMDB; Bradley Cooper: non nel cast TMDB; Eva Mendes: non nel cast TMDB; Rose Byrne: non nel cast TMDB; Dane DeHaan: non nel cast TMDB"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 109410 (42 - La vera storia di una leggenda americana 2013), distanza 22. Candidati per somiglianza: [(1, 97367, 'The Place Beyond the Pines', '2013'), (22, 109410, '42', '2013'), (22, 1070319, 'From Hilde, with Love', '2024')]"
+   ],
+   [
+    "DURATA",
+    "Nostro 140 min; TMDB 128, IMDb 128"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "42 - La vera storia di una leggenda americana",
+    "orig": "42",
+    "year": 2013,
+    "runtime": 128,
+    "imdb": "tt0453562",
+    "directors": [
+     "Brian Helgeland"
+    ],
+    "genres": [
+     "Dramma"
+    ],
+    "cast5": [
+     "Chadwick Boseman",
+     "Harrison Ford",
+     "Nicole Beharie",
+     "Christopher Meloni",
+     "Ryan Merriman",
+     "Lucas Black"
+    ]
+   },
+   "poster_dist": 22,
+   "imdb": {
+    "year": 2013,
+    "end": null,
+    "runtime": 128
+   }
+  }
+ },
+ {
+  "id": "f259",
+  "title": "Gravity",
+  "ours": {
+   "year": "2013",
+   "duration": 91,
+   "director": "Alfonso Cuarón",
+   "cast": "Sandra Bullock, George Clooney, Ed Harris, Orto Ignatiussen, Phaldut Sharma",
+   "genres": [
+    "Fantascienza",
+    "Thriller",
+    "Dramma"
+   ],
+   "tmdb": 49047
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Gravity",
+    "orig": "Gravity",
+    "year": 2013,
+    "runtime": 92,
+    "imdb": "tt1454468",
+    "directors": [
+     "Alfonso Cuarón"
+    ],
+    "genres": [
+     "Fantascienza",
+     "Thriller",
+     "Dramma"
+    ],
+    "cast5": [
+     "Sandra Bullock",
+     "George Clooney",
+     "Ed Harris",
+     "Orto Ignatiussen",
+     "Phaldut Sharma",
+     "Amy Warren"
+    ]
+   },
+   "poster_dist": 5,
+   "imdb": {
+    "year": 2013,
+    "end": null,
+    "runtime": 91
+   }
+  }
+ },
+ {
+  "id": "f262",
+  "title": "Independence Day",
+  "ours": {
+   "year": "1996",
+   "duration": 145,
+   "director": "Roland Emmerich",
+   "cast": "Will Smith, Jeff Goldblum, Bill Pullman, Mary McDonnell, Randy Quaid",
+   "genres": [
+    "Fantascienza",
+    "Azione",
+    "Avventura"
+   ],
+   "tmdb": 602
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Randy Quaid: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Independence Day",
+    "orig": "Independence Day",
+    "year": 1996,
+    "runtime": 145,
+    "imdb": "tt0116629",
+    "directors": [
+     "Roland Emmerich"
+    ],
+    "genres": [
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "cast5": [
+     "Will Smith",
+     "Bill Pullman",
+     "Jeff Goldblum",
+     "Mary McDonnell",
+     "Judd Hirsch",
+     "Robert Loggia"
+    ]
+   },
+   "poster_dist": 16,
+   "imdb": {
+    "year": 1996,
+    "end": null,
+    "runtime": 145
+   }
+  }
+ },
+ {
+  "id": "f265",
+  "title": "First Man",
+  "ours": {
+   "year": "2018",
+   "duration": 141,
+   "director": "Damien Chazelle",
+   "cast": "Ryan Gosling, Claire Foy, Jason Clarke, Kyle Chandler, Corey Stoll",
+   "genres": [
+    "Biografico",
+    "Dramma",
+    "Storico"
+   ],
+   "tmdb": 359724
+  },
+  "flags": [
+   [
+    "ANNO",
+    "Nostro 2018; TMDB 2019"
+   ],
+   [
+    "REGISTA",
+    "Nostro 'Damien Chazelle'; TMDB ['James Mangold']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Ryan Gosling', 'Claire Foy', 'Jason Clarke', 'Kyle Chandler', 'Corey Stoll']; TMDB top: ['Matt Damon', 'Christian Bale', 'Jon Bernthal', 'Caitríona Balfe', 'Josh Lucas', 'Noah Jupe']"
+   ],
+   [
+    "FOTO_CAST",
+    "Ryan Gosling: non nel cast TMDB; Claire Foy: non nel cast TMDB; Jason Clarke: non nel cast TMDB; Kyle Chandler: non nel cast TMDB; Corey Stoll: non nel cast TMDB"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 359724 (Le Mans '66 - La grande sfida 2019), distanza 22. Candidati per somiglianza: [(0, 369972, 'First Man', '2018'), (22, 359724, 'Ford v Ferrari', '2019'), (24, 28955, 'First Man into Space', '1959')]"
+   ],
+   [
+    "DURATA",
+    "Nostro 141 min; TMDB 152, IMDb 152"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Le Mans '66 - La grande sfida",
+    "orig": "Ford v Ferrari",
+    "year": 2019,
+    "runtime": 152,
+    "imdb": "tt1950186",
+    "directors": [
+     "James Mangold"
+    ],
+    "genres": [
+     "Dramma",
+     "Storia",
+     "Azione"
+    ],
+    "cast5": [
+     "Matt Damon",
+     "Christian Bale",
+     "Jon Bernthal",
+     "Caitríona Balfe",
+     "Josh Lucas",
+     "Noah Jupe"
+    ]
+   },
+   "poster_dist": 22,
+   "imdb": {
+    "year": 2019,
+    "end": null,
+    "runtime": 152
+   }
+  }
+ },
+ {
+  "id": "f269",
+  "title": "One Battle After Another",
+  "ours": {
+   "year": "2025",
+   "duration": 162,
+   "director": "Paul Thomas Anderson",
+   "cast": "Leonardo DiCaprio, Sean Penn, Benicio del Toro, Teyana Taylor, Regina Hall",
+   "genres": [
+    "Azione",
+    "Commedia nera",
+    "Dramma",
+    "Crimine"
+   ],
+   "tmdb": 1054867
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Una battaglia dopo l’altra",
+    "orig": "One Battle After Another",
+    "year": 2025,
+    "runtime": 162,
+    "imdb": "tt30144839",
+    "directors": [
+     "Paul Thomas Anderson"
+    ],
+    "genres": [
+     "Thriller",
+     "Crime",
+     "Commedia"
+    ],
+    "cast5": [
+     "Leonardo DiCaprio",
+     "Sean Penn",
+     "Chase Infiniti",
+     "Benicio Del Toro",
+     "Regina Hall",
+     "Teyana Taylor"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2025,
+    "end": null,
+    "runtime": 161
+   }
+  }
+ },
+ {
+  "id": "f272",
+  "title": "21 Jump Street",
+  "ours": {
+   "year": "2012",
+   "duration": 109,
+   "director": "Phil Lord, Chris Miller",
+   "cast": "Jonah Hill, Channing Tatum, Brie Larson, Ice Cube, Dave Franco",
+   "genres": [
+    "Commedia",
+    "Azione",
+    "Crimine"
+   ],
+   "tmdb": 60308
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'21 Jump Street' ≠ TMDB 'L'arte di vincere' / 'Moneyball'"
+   ],
+   [
+    "ANNO",
+    "Nostro 2012; TMDB 2011"
+   ],
+   [
+    "REGISTA",
+    "Nostro 'Phil Lord, Chris Miller'; TMDB ['Bennett Miller']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Channing Tatum', 'Brie Larson', 'Ice Cube', 'Dave Franco']; TMDB top: ['Brad Pitt', 'Jonah Hill', 'Philip Seymour Hoffman', 'Robin Wright', 'Chris Pratt', 'Stephen Bishop']"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Commedia', 'Azione', 'Crimine']; TMDB ['Dramma']"
+   ],
+   [
+    "FOTO_CAST",
+    "Channing Tatum: non nel cast TMDB; Brie Larson: non nel cast TMDB; Dave Franco: non nel cast TMDB; Ice Cube: non nel cast TMDB"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 60308 (L'arte di vincere 2011), distanza 18. Candidati per somiglianza: [(0, 64688, '21 Jump Street', '2012'), (29, 60308, 'Moneyball', '2011'), (30, 1599042, 'The Rise: The New MoneyBall', '2025')]"
+   ],
+   [
+    "DURATA?",
+    "Nostro 109 min; TMDB 126, IMDb 133"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "L'arte di vincere",
+    "orig": "Moneyball",
+    "year": 2011,
+    "runtime": 126,
+    "imdb": "tt1210166",
+    "directors": [
+     "Bennett Miller"
+    ],
+    "genres": [
+     "Dramma"
+    ],
+    "cast5": [
+     "Brad Pitt",
+     "Jonah Hill",
+     "Philip Seymour Hoffman",
+     "Robin Wright",
+     "Chris Pratt",
+     "Stephen Bishop"
+    ]
+   },
+   "poster_dist": 18,
+   "imdb": {
+    "year": 2011,
+    "end": null,
+    "runtime": 133
+   }
+  }
+ },
+ {
+  "id": "f275",
+  "title": "All About Lily Chou-Chou",
+  "ours": {
+   "year": "2001",
+   "duration": 146,
+   "director": "Shunji Iwai",
+   "cast": "Hayato Ichihara, Shugo Oshinari, Yu Aoi, Ayumi Ito, Issey Takahashi",
+   "genres": [
+    "Dramma"
+   ],
+   "tmdb": 16664
+  },
+  "flags": [
+   [
+    "REGISTA",
+    "Nostro 'Shunji Iwai'; TMDB ['岩井俊二']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Hayato Ichihara', 'Shugo Oshinari', 'Yu Aoi', 'Ayumi Ito', 'Issey Takahashi']; TMDB top: ['市原隼人', '忍成修吾', '蒼井優', '伊藤歩', '高橋一生', '勝地涼']"
+   ],
+   [
+    "FOTO_CAST",
+    "Hayato Ichihara: non nel cast TMDB; Shugo Oshinari: non nel cast TMDB; Yu Aoi: non nel cast TMDB; Ayumi Ito: non nel cast TMDB; Issey Takahashi: non nel cast TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "All About Lily Chou-Chou",
+    "orig": "リリイ・シュシュのすべて",
+    "year": 2001,
+    "runtime": 146,
+    "imdb": "tt0297721",
+    "directors": [
+     "岩井俊二"
+    ],
+    "genres": [
+     "Dramma",
+     "Crime"
+    ],
+    "cast5": [
+     "市原隼人",
+     "忍成修吾",
+     "蒼井優",
+     "伊藤歩",
+     "高橋一生",
+     "勝地涼"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2001,
+    "end": null,
+    "runtime": 146
+   }
+  }
+ },
+ {
+  "id": "f278",
+  "title": "Battle Royale",
+  "ours": {
+   "year": "2000",
+   "duration": 114,
+   "director": "Kinji Fukasaku",
+   "cast": "Tatsuya Fujiwara, Aki Maeda, Taro Yamamoto, Chiaki Kuriyama, Masanobu Ando",
+   "genres": [
+    "Thriller",
+    "Azione",
+    "Dramma"
+   ],
+   "tmdb": 3176
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Tatsuya Fujiwara', 'Aki Maeda', 'Taro Yamamoto', 'Chiaki Kuriyama']; TMDB top: ['藤原竜也', '前田亜季', 'Takeshi Kitano', '山本太郎', 'Masanobu Ando', '柴咲コウ']"
+   ],
+   [
+    "FOTO_CAST",
+    "Tatsuya Fujiwara: non nel cast TMDB; Aki Maeda: non nel cast TMDB; Taro Yamamoto: non nel cast TMDB; Chiaki Kuriyama: non nel cast TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Battle Royale",
+    "orig": "バトル・ロワイアル",
+    "year": 2000,
+    "runtime": 114,
+    "imdb": "tt0266308",
+    "directors": [
+     "Kinji Fukasaku"
+    ],
+    "genres": [
+     "Dramma",
+     "Thriller",
+     "Azione"
+    ],
+    "cast5": [
+     "藤原竜也",
+     "前田亜季",
+     "Takeshi Kitano",
+     "山本太郎",
+     "Masanobu Ando",
+     "柴咲コウ"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2000,
+    "end": null,
+    "runtime": 114
+   }
+  }
+ },
+ {
+  "id": "f281",
+  "title": "Before Sunset",
+  "ours": {
+   "year": "2004",
+   "duration": 80,
+   "director": "Richard Linklater",
+   "cast": "Ethan Hawke, Julie Delpy, Vernon Dobtcheff, Louise Lemoine Torrès, Rodolphe Pauly",
+   "genres": [
+    "Dramma",
+    "Romance"
+   ],
+   "tmdb": 80
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Before Sunset - Prima del tramonto",
+    "orig": "Before Sunset",
+    "year": 2004,
+    "runtime": 80,
+    "imdb": "tt0381681",
+    "directors": [
+     "Richard Linklater"
+    ],
+    "genres": [
+     "Dramma",
+     "Romance"
+    ],
+    "cast5": [
+     "Ethan Hawke",
+     "Julie Delpy",
+     "Vernon Dobtcheff",
+     "Louise Lemoine Torrès",
+     "Rodolphe Pauly",
+     "Mariane Plasteig"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2004,
+    "end": null,
+    "runtime": 80
+   }
+  }
+ },
+ {
+  "id": "f284",
+  "title": "Blue Velvet",
+  "ours": {
+   "year": "1986",
+   "duration": 120,
+   "director": "David Lynch",
+   "cast": "Kyle MacLachlan, Isabella Rossellini, Dennis Hopper, Laura Dern",
+   "genres": [
+    "Thriller",
+    "Mistero",
+    "Dramma"
+   ],
+   "tmdb": 793
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Dennis Hopper: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Velluto blu",
+    "orig": "Blue Velvet",
+    "year": 1986,
+    "runtime": 120,
+    "imdb": "tt0090756",
+    "directors": [
+     "David Lynch"
+    ],
+    "genres": [
+     "Mistero",
+     "Thriller",
+     "Crime"
+    ],
+    "cast5": [
+     "Isabella Rossellini",
+     "Kyle MacLachlan",
+     "Dennis Hopper",
+     "Laura Dern",
+     "Hope Lange",
+     "Dean Stockwell"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 1986,
+    "end": null,
+    "runtime": 120
+   }
+  }
+ },
+ {
+  "id": "f287",
+  "title": "The Call",
+  "ours": {
+   "year": "2013",
+   "duration": 94,
+   "director": "Brad Anderson",
+   "cast": "Halle Berry, Abigail Breslin, Morris Chestnut, Michael Eklund, Michael Imperioli",
+   "genres": [
+    "Thriller",
+    "Crimine",
+    "Dramma"
+   ],
+   "tmdb": 158011
+  },
+  "flags": [
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 158011 (The Call 2013), distanza 26. Candidati per somiglianza: [(3, 575604, 'The Call', '2020'), (21, 9694, 'One Missed Call', '2003'), (23, 481848, 'The Call of the Wild', '2020')]"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "The Call",
+    "orig": "The Call",
+    "year": 2013,
+    "runtime": 94,
+    "imdb": "tt1911644",
+    "directors": [
+     "Brad Anderson"
+    ],
+    "genres": [
+     "Crime",
+     "Thriller"
+    ],
+    "cast5": [
+     "Halle Berry",
+     "Abigail Breslin",
+     "Morris Chestnut",
+     "Michael Eklund",
+     "David Otunga",
+     "Michael Imperioli"
+    ]
+   },
+   "poster_dist": 26,
+   "imdb": {
+    "year": 2013,
+    "end": null,
+    "runtime": 94
+   }
+  }
+ },
+ {
+  "id": "f290",
+  "title": "The Chaser",
+  "ours": {
+   "year": "2008",
+   "duration": 125,
+   "director": "Na Hong-jin",
+   "cast": "Kim Yun-seok, Ha Jung-woo, Seo Young-hee, Kim You-jung, Jung In-gi",
+   "genres": [
+    "Thriller",
+    "Crimine"
+   ],
+   "tmdb": 13855
+  },
+  "flags": [
+   [
+    "REGISTA",
+    "Nostro 'Na Hong-jin'; TMDB ['나홍진']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Kim Yun-seok', 'Seo Young-hee', 'Kim You-jung', 'Jung In-gi']; TMDB top: ['김윤석', 'Ha Jung-woo', '서영희', '김유정', '정인기', '최정우']"
+   ],
+   [
+    "FOTO_CAST",
+    "Seo Young-hee: non nel cast TMDB; Kim You-jung: non nel cast TMDB; Jung In-gi: non nel cast TMDB; Kim Yun-seok: non nel cast TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "The Chaser",
+    "orig": "추격자",
+    "year": 2008,
+    "runtime": 125,
+    "imdb": "tt1190539",
+    "directors": [
+     "나홍진"
+    ],
+    "genres": [
+     "Crime",
+     "Thriller",
+     "Azione"
+    ],
+    "cast5": [
+     "김윤석",
+     "Ha Jung-woo",
+     "서영희",
+     "김유정",
+     "정인기",
+     "최정우"
+    ]
+   },
+   "poster_dist": 4,
+   "imdb": {
+    "year": 2008,
+    "end": null,
+    "runtime": 125
+   }
+  }
+ },
+ {
+  "id": "f293",
+  "title": "The Creator",
+  "ours": {
+   "year": "2023",
+   "duration": 133,
+   "director": "Gareth Edwards",
+   "cast": "John David Washington, Madeleine Yuna Voyles, Gemma Chan, Allison Janney",
+   "genres": [
+    "Fantascienza",
+    "Azione"
+   ],
+   "tmdb": 670292
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "The Creator",
+    "orig": "The Creator",
+    "year": 2023,
+    "runtime": 134,
+    "imdb": "tt11858890",
+    "directors": [
+     "Gareth Edwards"
+    ],
+    "genres": [
+     "Fantascienza",
+     "Azione",
+     "Avventura"
+    ],
+    "cast5": [
+     "John David Washington",
+     "Madeleine Yuna Voyles",
+     "Gemma Chan",
+     "Allison Janney",
+     "Ken Watanabe",
+     "Sturgill Simpson"
+    ]
+   },
+   "poster_dist": 3,
+   "imdb": {
+    "year": 2023,
+    "end": null,
+    "runtime": 133
+   }
+  }
+ },
+ {
+  "id": "f296",
+  "title": "Dial M for Murder",
+  "ours": {
+   "year": "1954",
+   "duration": 105,
+   "director": "Alfred Hitchcock",
+   "cast": "Ray Milland, Grace Kelly, Robert Cummings, John Williams, Anthony Dawson",
+   "genres": [
+    "Thriller",
+    "Mistero",
+    "Crimine"
+   ],
+   "tmdb": 1030
+  },
+  "flags": [
+   [
+    "ID_TMDB_NON_VALIDO",
+    "id 1030 non esiste"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "f299",
+  "title": "Donnie Brasco",
+  "ours": {
+   "year": "1997",
+   "duration": 127,
+   "director": "Mike Newell",
+   "cast": "Al Pacino, Johnny Depp, Michael Madsen, Anne Heche, Bruno Kirby",
+   "genres": [
+    "Crimine",
+    "Dramma",
+    "Biografico"
+   ],
+   "tmdb": 9366
+  },
+  "flags": [
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 9366 (Donnie Brasco 1997), distanza 17. Candidati per somiglianza: [(17, 9366, 'Donnie Brasco', '1997')]"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Donnie Brasco",
+    "orig": "Donnie Brasco",
+    "year": 1997,
+    "runtime": 122,
+    "imdb": "tt0119008",
+    "directors": [
+     "Mike Newell"
+    ],
+    "genres": [
+     "Crime",
+     "Dramma",
+     "Thriller"
+    ],
+    "cast5": [
+     "Johnny Depp",
+     "Al Pacino",
+     "Michael Madsen",
+     "Bruno Kirby",
+     "James Russo",
+     "Anne Heche"
+    ]
+   },
+   "poster_dist": 17,
+   "imdb": {
+    "year": 1997,
+    "end": null,
+    "runtime": 127
+   }
+  }
+ },
+ {
+  "id": "f302",
+  "title": "Eraserhead",
+  "ours": {
+   "year": "1977",
+   "duration": 89,
+   "director": "David Lynch",
+   "cast": "Jack Nance, Charlotte Stewart, Allen Joseph, Jeanne Bates, Judith Roberts",
+   "genres": [
+    "Horror",
+    "Fantasy",
+    "Sperimentale"
+   ],
+   "tmdb": 985
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Eraserhead - La mente che cancella",
+    "orig": "Eraserhead",
+    "year": 1977,
+    "runtime": 89,
+    "imdb": "tt0074486",
+    "directors": [
+     "David Lynch"
+    ],
+    "genres": [
+     "Horror",
+     "Fantascienza"
+    ],
+    "cast5": [
+     "Jack Nance",
+     "Charlotte Stewart",
+     "Allen Joseph",
+     "Jeanne Bates",
+     "Judith Roberts",
+     "Laurel Near"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1977,
+    "end": null,
+    "runtime": 89
+   }
+  }
+ },
+ {
+  "id": "f305",
+  "title": "Falling Down",
+  "ours": {
+   "year": "1993",
+   "duration": 113,
+   "director": "Joel Schumacher",
+   "cast": "Michael Douglas, Robert Duvall, Barbara Hershey, Rachel Ticotin",
+   "genres": [
+    "Dramma",
+    "Thriller",
+    "Azione"
+   ],
+   "tmdb": 37094
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Tuesday Weld: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Un giorno di ordinaria follia",
+    "orig": "Falling Down",
+    "year": 1993,
+    "runtime": 108,
+    "imdb": "tt0106856",
+    "directors": [
+     "Joel Schumacher"
+    ],
+    "genres": [
+     "Crime",
+     "Dramma",
+     "Thriller"
+    ],
+    "cast5": [
+     "Michael Douglas",
+     "Robert Duvall",
+     "Barbara Hershey",
+     "Rachel Ticotin",
+     "Tuesday Weld",
+     "Frederic Forrest"
+    ]
+   },
+   "poster_dist": 14,
+   "imdb": {
+    "year": 1993,
+    "end": null,
+    "runtime": 113
+   }
+  }
+ },
+ {
+  "id": "f308",
+  "title": "Ferris Bueller's Day Off",
+  "ours": {
+   "year": "1986",
+   "duration": 103,
+   "director": "John Hughes",
+   "cast": "Matthew Broderick, Alan Ruck, Mia Sara, Jeffrey Jones, Jennifer Grey",
+   "genres": [
+    "Commedia"
+   ],
+   "tmdb": 9377
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Una pazza giornata di vacanza",
+    "orig": "Ferris Bueller's Day Off",
+    "year": 1986,
+    "runtime": 98,
+    "imdb": "tt0091042",
+    "directors": [
+     "John Hughes"
+    ],
+    "genres": [
+     "Commedia"
+    ],
+    "cast5": [
+     "Matthew Broderick",
+     "Alan Ruck",
+     "Mia Sara",
+     "Jeffrey Jones",
+     "Jennifer Grey",
+     "Cindy Pickett"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1986,
+    "end": null,
+    "runtime": 103
+   }
+  }
+ },
+ {
+  "id": "f311",
+  "title": "Frailty",
+  "ours": {
+   "year": "2001",
+   "duration": 99,
+   "director": "Bill Paxton",
+   "cast": "Bill Paxton, Matthew McConaughey, Powers Boothe, Jeremy Sumpter, Matt O'Leary",
+   "genres": [
+    "Thriller",
+    "Horror",
+    "Dramma"
+   ],
+   "tmdb": 12149
+  },
+  "flags": [
+   [
+    "ANNO",
+    "Nostro 2001; TMDB 2002"
+   ],
+   [
+    "FOTO_CAST",
+    "Jeremy Sumpter: foto diversa da TMDB"
+   ],
+   [
+    "ANNO_FONTI",
+    "TMDB 2002 ≠ IMDb 2001 (nostro 2001)"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Frailty - Nessuno è al sicuro",
+    "orig": "Frailty",
+    "year": 2002,
+    "runtime": 99,
+    "imdb": "tt0264616",
+    "directors": [
+     "Bill Paxton"
+    ],
+    "genres": [
+     "Dramma",
+     "Thriller",
+     "Crime"
+    ],
+    "cast5": [
+     "Bill Paxton",
+     "Matthew McConaughey",
+     "Powers Boothe",
+     "Matt O'Leary",
+     "Jeremy Sumpter",
+     "Levi Kreis"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2001,
+    "end": null,
+    "runtime": 100
+   }
+  }
+ },
+ {
+  "id": "f314",
+  "title": "The Fugitive",
+  "ours": {
+   "year": "1993",
+   "duration": 130,
+   "director": "Andrew Davis",
+   "cast": "Harrison Ford, Tommy Lee Jones, Julianne Moore, Joe Pantoliano",
+   "genres": [
+    "Thriller",
+    "Azione"
+   ],
+   "tmdb": 5503
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Il fuggitivo",
+    "orig": "The Fugitive",
+    "year": 1993,
+    "runtime": 131,
+    "imdb": "tt0106977",
+    "directors": [
+     "Andrew Davis"
+    ],
+    "genres": [
+     "Azione",
+     "Thriller",
+     "Dramma"
+    ],
+    "cast5": [
+     "Harrison Ford",
+     "Tommy Lee Jones",
+     "Joe Pantoliano",
+     "Jeroen Krabbé",
+     "Daniel Roebuck",
+     "L. Scott Caldwell"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1993,
+    "end": null,
+    "runtime": 130
+   }
+  }
+ },
+ {
+  "id": "f317",
+  "title": "The Girl with the Dragon Tattoo",
+  "ours": {
+   "year": "2011",
+   "duration": 158,
+   "director": "David Fincher",
+   "cast": "Daniel Craig, Rooney Mara, Christopher Plummer, Stellan Skarsgård, Robin Wright",
+   "genres": [
+    "Thriller",
+    "Crimine",
+    "Mistero"
+   ],
+   "tmdb": 65754
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Millennium - Uomini che odiano le donne",
+    "orig": "The Girl with the Dragon Tattoo",
+    "year": 2011,
+    "runtime": 158,
+    "imdb": "tt1568346",
+    "directors": [
+     "David Fincher"
+    ],
+    "genres": [
+     "Thriller",
+     "Crime",
+     "Mistero"
+    ],
+    "cast5": [
+     "Daniel Craig",
+     "Rooney Mara",
+     "Christopher Plummer",
+     "Stellan Skarsgård",
+     "Robin Wright",
+     "Yorick van Wageningen"
+    ]
+   },
+   "poster_dist": 4,
+   "imdb": {
+    "year": 2011,
+    "end": null,
+    "runtime": 158
+   }
+  }
+ },
+ {
+  "id": "f320",
+  "title": "Green Book",
+  "ours": {
+   "year": "2018",
+   "duration": 130,
+   "director": "Peter Farrelly",
+   "cast": "Viggo Mortensen, Mahershala Ali, Linda Cardellini, Sebastian Maniscalco",
+   "genres": [
+    "Dramma",
+    "Commedia",
+    "Biografico"
+   ],
+   "tmdb": 490132
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Green Book",
+    "orig": "Green Book",
+    "year": 2018,
+    "runtime": 130,
+    "imdb": "tt6966692",
+    "directors": [
+     "Peter Farrelly"
+    ],
+    "genres": [
+     "Dramma",
+     "Commedia",
+     "Storia"
+    ],
+    "cast5": [
+     "Viggo Mortensen",
+     "Mahershala Ali",
+     "Linda Cardellini",
+     "Sebastian Maniscalco",
+     "Dimiter D. Marinov",
+     "Mike Hatton"
+    ]
+   },
+   "poster_dist": 3,
+   "imdb": {
+    "year": 2018,
+    "end": null,
+    "runtime": 130
+   }
+  }
+ },
+ {
+  "id": "f324",
+  "title": "Her",
+  "ours": {
+   "year": "2013",
+   "duration": 126,
+   "director": "Spike Jonze",
+   "cast": "Joaquin Phoenix, Scarlett Johansson, Amy Adams, Rooney Mara, Olivia Wilde",
+   "genres": [
+    "Romance",
+    "Dramma",
+    "Fantascienza"
+   ],
+   "tmdb": 113705
+  },
+  "flags": [
+   [
+    "ID_TMDB_NON_VALIDO",
+    "id 113705 non esiste"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "f327",
+  "title": "In the Name of the Father",
+  "ours": {
+   "year": "1993",
+   "duration": 133,
+   "director": "Jim Sheridan",
+   "cast": "Daniel Day-Lewis, Pete Postlethwaite, Emma Thompson, John Lynch, Corin Redgrave",
+   "genres": [
+    "Dramma",
+    "Biografico"
+   ],
+   "tmdb": 7984
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Nel nome del padre",
+    "orig": "In the Name of the Father",
+    "year": 1993,
+    "runtime": 132,
+    "imdb": "tt0107207",
+    "directors": [
+     "Jim Sheridan"
+    ],
+    "genres": [
+     "Dramma"
+    ],
+    "cast5": [
+     "Daniel Day-Lewis",
+     "Pete Postlethwaite",
+     "Emma Thompson",
+     "John Lynch",
+     "Corin Redgrave",
+     "Beatie Edney"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 1993,
+    "end": null,
+    "runtime": 133
+   }
+  }
+ },
+ {
+  "id": "f330",
+  "title": "Into the Wild",
+  "ours": {
+   "year": "2007",
+   "duration": 148,
+   "director": "Sean Penn",
+   "cast": "Emile Hirsch, Marcia Gay Harden, William Hurt, Catherine Keener, Jena Malone",
+   "genres": [
+    "Dramma",
+    "Avventura",
+    "Biografico"
+   ],
+   "tmdb": 1997
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Into the Wild' ≠ TMDB 'Due fratelli' / 'Deux Frères'"
+   ],
+   [
+    "ANNO",
+    "Nostro 2007; TMDB 2004"
+   ],
+   [
+    "REGISTA",
+    "Nostro 'Sean Penn'; TMDB ['Jean-Jacques Annaud']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Emile Hirsch', 'Marcia Gay Harden', 'William Hurt', 'Catherine Keener', 'Jena Malone']; TMDB top: ['Guy Pearce', 'Jean-Claude Dreyfus', 'Freddie Highmore', 'Philippine Leroy-Beaulieu', 'Moussa Maaskri', 'Vincent Scarito']"
+   ],
+   [
+    "FOTO_CAST",
+    "Emile Hirsch: non nel cast TMDB; Marcia Gay Harden: non nel cast TMDB; William Hurt: non nel cast TMDB; Jena Malone: non nel cast TMDB; Catherine Keener: non nel cast TMDB"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 1997 (Due fratelli 2004), distanza 26. Candidati per somiglianza: [(1, 5915, 'Into the Wild', '2007'), (24, 185151, 'Gun Brothers', '1956'), (24, 926889, 'Mother and Son', '2022')]"
+   ],
+   [
+    "DURATA",
+    "Nostro 148 min; TMDB 109, IMDb 109"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Due fratelli",
+    "orig": "Deux Frères",
+    "year": 2004,
+    "runtime": 109,
+    "imdb": "tt0338512",
+    "directors": [
+     "Jean-Jacques Annaud"
+    ],
+    "genres": [
+     "Avventura",
+     "Dramma",
+     "Famiglia"
+    ],
+    "cast5": [
+     "Guy Pearce",
+     "Jean-Claude Dreyfus",
+     "Freddie Highmore",
+     "Philippine Leroy-Beaulieu",
+     "Moussa Maaskri",
+     "Vincent Scarito"
+    ]
+   },
+   "poster_dist": 26,
+   "imdb": {
+    "year": 2004,
+    "end": null,
+    "runtime": 109
+   }
+  }
+ },
+ {
+  "id": "f333",
+  "title": "La La Land",
+  "ours": {
+   "year": "2016",
+   "duration": 128,
+   "director": "Damien Chazelle",
+   "cast": "Ryan Gosling, Emma Stone, John Legend, J.K. Simmons, Rosemarie DeWitt",
+   "genres": [
+    "Musical",
+    "Romance",
+    "Dramma"
+   ],
+   "tmdb": 313369
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Emma Stone: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "La La Land",
+    "orig": "La La Land",
+    "year": 2016,
+    "runtime": 126,
+    "imdb": "tt3783958",
+    "directors": [
+     "Damien Chazelle"
+    ],
+    "genres": [
+     "Commedia",
+     "Dramma",
+     "Romance"
+    ],
+    "cast5": [
+     "Ryan Gosling",
+     "Emma Stone",
+     "John Legend",
+     "Rosemarie DeWitt",
+     "Finn Wittrock",
+     "Callie Hernandez"
+    ]
+   },
+   "poster_dist": 3,
+   "imdb": {
+    "year": 2016,
+    "end": null,
+    "runtime": 128
+   }
+  }
+ },
+ {
+  "id": "f336",
+  "title": "Lost in Translation",
+  "ours": {
+   "year": "2003",
+   "duration": 102,
+   "director": "Sofia Coppola",
+   "cast": "Bill Murray, Scarlett Johansson, Giovanni Ribisi, Anna Faris",
+   "genres": [
+    "Dramma",
+    "Commedia",
+    "Romance"
+   ],
+   "tmdb": 153
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Scarlett Johansson: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Lost in Translation - L'amore tradotto",
+    "orig": "Lost in Translation",
+    "year": 2003,
+    "runtime": 102,
+    "imdb": "tt0335266",
+    "directors": [
+     "Sofia Coppola"
+    ],
+    "genres": [
+     "Dramma",
+     "Commedia",
+     "Romance"
+    ],
+    "cast5": [
+     "Bill Murray",
+     "Scarlett Johansson",
+     "Giovanni Ribisi",
+     "Anna Faris",
+     "Akiko Takeshita",
+     "Kazuyoshi Minamimagoe"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2003,
+    "end": null,
+    "runtime": 102
+   }
+  }
+ },
+ {
+  "id": "f339",
+  "title": "Minari",
+  "ours": {
+   "year": "2020",
+   "duration": 115,
+   "director": "Lee Isaac Chung",
+   "cast": "Steven Yeun, Yeri Han, Youn Yuh-jung, Alan S. Kim, Will Patton",
+   "genres": [
+    "Dramma"
+   ],
+   "tmdb": 615457
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Minari' ≠ TMDB 'Io sono nessuno' / 'Nobody'"
+   ],
+   [
+    "ANNO",
+    "Nostro 2020; TMDB 2021"
+   ],
+   [
+    "REGISTA",
+    "Nostro 'Lee Isaac Chung'; TMDB ['Илья Найшуллер']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Steven Yeun', 'Yeri Han', 'Youn Yuh-jung', 'Alan S. Kim', 'Will Patton']; TMDB top: ['Bob Odenkirk', 'Алексей Серебряков', 'Connie Nielsen', 'Christopher Lloyd', 'Michael Ironside', 'Colin Salmon']"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Dramma']; TMDB ['Azione', 'Thriller']"
+   ],
+   [
+    "FOTO_CAST",
+    "Steven Yeun: non nel cast TMDB; Youn Yuh-jung: non nel cast TMDB; Will Patton: non nel cast TMDB; Alan S. Kim: non nel cast TMDB; Yeri Han: non nel cast TMDB"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 615457 (Io sono nessuno 2021), distanza 22. Candidati per somiglianza: [(2, 615643, 'Minari', '2021'), (19, 1304434, 'Nobody', '2025'), (22, 15575, 'Bleach the Movie: Memories of Nobody', '2006')]"
+   ],
+   [
+    "DURATA",
+    "Nostro 115 min; TMDB 91, IMDb 92"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Io sono nessuno",
+    "orig": "Nobody",
+    "year": 2021,
+    "runtime": 91,
+    "imdb": "tt7888964",
+    "directors": [
+     "Илья Найшуллер"
+    ],
+    "genres": [
+     "Azione",
+     "Thriller"
+    ],
+    "cast5": [
+     "Bob Odenkirk",
+     "Алексей Серебряков",
+     "Connie Nielsen",
+     "Christopher Lloyd",
+     "Michael Ironside",
+     "Colin Salmon"
+    ]
+   },
+   "poster_dist": 22,
+   "imdb": {
+    "year": 2021,
+    "end": null,
+    "runtime": 92
+   }
+  }
+ },
+ {
+  "id": "f342",
+  "title": "The Negotiator",
+  "ours": {
+   "year": "1998",
+   "duration": 140,
+   "director": "F. Gary Gray",
+   "cast": "Samuel L. Jackson, Kevin Spacey, David Morse, J.T. Walsh",
+   "genres": [
+    "Thriller",
+    "Azione",
+    "Crimine"
+   ],
+   "tmdb": 9631
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Samuel L. Jackson: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Il negoziatore",
+    "orig": "The Negotiator",
+    "year": 1998,
+    "runtime": 135,
+    "imdb": "tt0120768",
+    "directors": [
+     "F. Gary Gray"
+    ],
+    "genres": [
+     "Azione",
+     "Crime",
+     "Dramma",
+     "Thriller"
+    ],
+    "cast5": [
+     "Samuel L. Jackson",
+     "Kevin Spacey",
+     "David Morse",
+     "Ron Rifkin",
+     "John Spencer",
+     "J.T. Walsh"
+    ]
+   },
+   "poster_dist": 7,
+   "imdb": {
+    "year": 1998,
+    "end": null,
+    "runtime": 140
+   }
+  }
+ },
+ {
+  "id": "f345",
+  "title": "Nocturnal Animals",
+  "ours": {
+   "year": "2016",
+   "duration": 116,
+   "director": "Tom Ford",
+   "cast": "Amy Adams, Jake Gyllenhaal, Michael Shannon, Isla Fisher",
+   "genres": [
+    "Thriller",
+    "Dramma",
+    "Mistero"
+   ],
+   "tmdb": 340666
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Amy Adams: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Animali notturni",
+    "orig": "Nocturnal Animals",
+    "year": 2016,
+    "runtime": 115,
+    "imdb": "tt4550098",
+    "directors": [
+     "Tom Ford"
+    ],
+    "genres": [
+     "Dramma",
+     "Thriller"
+    ],
+    "cast5": [
+     "Amy Adams",
+     "Jake Gyllenhaal",
+     "Michael Shannon",
+     "Aaron Taylor-Johnson",
+     "Isla Fisher",
+     "Ellie Bamber"
+    ]
+   },
+   "poster_dist": 3,
+   "imdb": {
+    "year": 2016,
+    "end": null,
+    "runtime": 116
+   }
+  }
+ },
+ {
+  "id": "f348",
+  "title": "Once Upon a Time in Hollywood",
+  "ours": {
+   "year": "2019",
+   "duration": 161,
+   "director": "Quentin Tarantino",
+   "cast": "Leonardo DiCaprio, Brad Pitt, Margot Robbie, Emile Hirsch, Al Pacino",
+   "genres": [
+    "Commedia",
+    "Dramma"
+   ],
+   "tmdb": 466272
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "C'era una volta a… Hollywood",
+    "orig": "Once Upon a Time... in Hollywood",
+    "year": 2019,
+    "runtime": 162,
+    "imdb": "tt7131622",
+    "directors": [
+     "Quentin Tarantino"
+    ],
+    "genres": [
+     "Commedia",
+     "Dramma",
+     "Thriller"
+    ],
+    "cast5": [
+     "Leonardo DiCaprio",
+     "Brad Pitt",
+     "Margot Robbie",
+     "Emile Hirsch",
+     "Margaret Qualley",
+     "Timothy Olyphant"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2019,
+    "end": null,
+    "runtime": 161
+   }
+  }
+ },
+ {
+  "id": "f351",
+  "title": "Persona",
+  "ours": {
+   "year": "1966",
+   "duration": 85,
+   "director": "Ingmar Bergman",
+   "cast": "Bibi Andersson, Liv Ullmann, Margaretha Krook, Gunnar Björnstrand, Jörgen Lindström",
+   "genres": [
+    "Dramma",
+    "Sperimentale"
+   ],
+   "tmdb": 234
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Persona' ≠ TMDB 'Il gabinetto del Dr. Caligari' / 'Das Cabinet des Dr. Caligari'"
+   ],
+   [
+    "ANNO",
+    "Nostro 1966; TMDB 1920"
+   ],
+   [
+    "REGISTA",
+    "Nostro 'Ingmar Bergman'; TMDB ['Robert Wiene']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Bibi Andersson', 'Liv Ullmann', 'Margaretha Krook', 'Gunnar Björnstrand', 'Jörgen Lindström']; TMDB top: ['Werner Krauß', 'Conrad Veidt', 'Friedrich Fehér', 'Lil Dagover', 'Hans Heinrich von Twardowski', 'Rudolf Lettinger']"
+   ],
+   [
+    "FOTO_CAST",
+    "Bibi Andersson: non nel cast TMDB; Liv Ullmann: non nel cast TMDB; Margaretha Krook: non nel cast TMDB; Gunnar Björnstrand: non nel cast TMDB; Jörgen Lindström: non nel cast TMDB"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 234 (Il gabinetto del Dr. Caligari 1920), distanza 23. Candidati per somiglianza: [(11, 797, 'Persona', '1966'), (23, 234, 'The Cabinet of Dr. Caligari', '1920'), (23, 109133, 'The Cabinet of Caligari', '1962')]"
+   ],
+   [
+    "DURATA?",
+    "Nostro 85 min; TMDB 78, IMDb 67"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Il gabinetto del Dr. Caligari",
+    "orig": "Das Cabinet des Dr. Caligari",
+    "year": 1920,
+    "runtime": 78,
+    "imdb": "tt0010323",
+    "directors": [
+     "Robert Wiene"
+    ],
+    "genres": [
+     "Dramma",
+     "Horror",
+     "Thriller",
+     "Crime"
+    ],
+    "cast5": [
+     "Werner Krauß",
+     "Conrad Veidt",
+     "Friedrich Fehér",
+     "Lil Dagover",
+     "Hans Heinrich von Twardowski",
+     "Rudolf Lettinger"
+    ]
+   },
+   "poster_dist": 23,
+   "imdb": {
+    "year": 1920,
+    "end": null,
+    "runtime": 67
+   }
+  }
+ },
+ {
+  "id": "f354",
+  "title": "Portrait of a Lady on Fire",
+  "ours": {
+   "year": "2019",
+   "duration": 121,
+   "director": "Céline Sciamma",
+   "cast": "Noémie Merlant, Adèle Haenel, Valeria Golino, Luàna Bajrami",
+   "genres": [
+    "Dramma",
+    "Romance",
+    "Storico"
+   ],
+   "tmdb": 531428
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Portrait of a Lady on Fire' ≠ TMDB 'Ritratto della giovane in fiamme' / 'Portrait de la jeune fille en feu'"
+   ],
+   [
+    "FOTO_CAST",
+    "Luàna Bajrami: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Ritratto della giovane in fiamme",
+    "orig": "Portrait de la jeune fille en feu",
+    "year": 2019,
+    "runtime": 122,
+    "imdb": "tt8613070",
+    "directors": [
+     "Céline Sciamma"
+    ],
+    "genres": [
+     "Dramma",
+     "Romance"
+    ],
+    "cast5": [
+     "Noémie Merlant",
+     "Adèle Haenel",
+     "Luàna Bajrami",
+     "Valeria Golino",
+     "Christel Baras",
+     "Armande Boulanger"
+    ]
+   },
+   "poster_dist": 3,
+   "imdb": {
+    "year": 2019,
+    "end": null,
+    "runtime": 122
+   }
+  }
+ },
+ {
+  "id": "f357",
+  "title": "Rear Window",
+  "ours": {
+   "year": "1954",
+   "duration": 112,
+   "director": "Alfred Hitchcock",
+   "cast": "James Stewart, Grace Kelly, Raymond Burr, Wendell Corey, Thelma Ritter",
+   "genres": [
+    "Thriller",
+    "Mistero"
+   ],
+   "tmdb": 701
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Rear Window' ≠ TMDB 'Accidenti, che ospitalità!' / 'Our Hospitality'"
+   ],
+   [
+    "ANNO",
+    "Nostro 1954; TMDB 1923"
+   ],
+   [
+    "REGISTA",
+    "Nostro 'Alfred Hitchcock'; TMDB ['John G. Blystone', 'Buster Keaton']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['James Stewart', 'Grace Kelly', 'Raymond Burr', 'Wendell Corey', 'Thelma Ritter']; TMDB top: ['Buster Keaton', 'Joe Roberts', 'Natalie Talmadge', 'Francis X. Bushman Jr.', 'Craig Ward', 'Joe Keaton']"
+   ],
+   [
+    "FOTO_CAST",
+    "James Stewart: non nel cast TMDB; Grace Kelly: non nel cast TMDB; Raymond Burr: non nel cast TMDB; Wendell Corey: non nel cast TMDB; Thelma Ritter: non nel cast TMDB"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 701 (Accidenti, che ospitalità! 1923), distanza 22. Candidati per somiglianza: [(0, 567, 'Rear Window', '1954'), (21, 646216, \"Screenwriter John Michael Hayes on 'Rear Window'\", '2001'), (22, 11603, 'Rear Window', '1998')]"
+   ],
+   [
+    "DURATA?",
+    "Nostro 112 min; TMDB 73, IMDb 65"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Accidenti, che ospitalità!",
+    "orig": "Our Hospitality",
+    "year": 1923,
+    "runtime": 73,
+    "imdb": "tt0014341",
+    "directors": [
+     "John G. Blystone",
+     "Buster Keaton"
+    ],
+    "genres": [
+     "Commedia",
+     "Romance",
+     "Thriller"
+    ],
+    "cast5": [
+     "Buster Keaton",
+     "Joe Roberts",
+     "Natalie Talmadge",
+     "Francis X. Bushman Jr.",
+     "Craig Ward",
+     "Joe Keaton"
+    ]
+   },
+   "poster_dist": 22,
+   "imdb": {
+    "year": 1923,
+    "end": null,
+    "runtime": 65
+   }
+  }
+ },
+ {
+  "id": "f360",
+  "title": "Scent of a Woman",
+  "ours": {
+   "year": "1992",
+   "duration": 157,
+   "director": "Martin Brest",
+   "cast": "Al Pacino, Chris O'Donnell, James Rebhorn, Gabrielle Anwar",
+   "genres": [
+    "Dramma"
+   ],
+   "tmdb": 9475
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Scent of a Woman - Profumo di donna",
+    "orig": "Scent of a Woman",
+    "year": 1992,
+    "runtime": 157,
+    "imdb": "tt0105323",
+    "directors": [
+     "Martin Brest"
+    ],
+    "genres": [
+     "Dramma"
+    ],
+    "cast5": [
+     "Al Pacino",
+     "Chris O'Donnell",
+     "James Rebhorn",
+     "Gabrielle Anwar",
+     "Philip Seymour Hoffman",
+     "Richard Venture"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1992,
+    "end": null,
+    "runtime": 156
+   }
+  }
+ },
+ {
+  "id": "f363",
+  "title": "Signs",
+  "ours": {
+   "year": "2002",
+   "duration": 106,
+   "director": "M. Night Shyamalan",
+   "cast": "Mel Gibson, Joaquin Phoenix, Rory Culkin, Abigail Breslin",
+   "genres": [
+    "Fantascienza",
+    "Thriller",
+    "Mistero"
+   ],
+   "tmdb": 8955
+  },
+  "flags": [
+   [
+    "ID_TMDB_NON_VALIDO",
+    "id 8955 non esiste"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "f367",
+  "title": "Stalker",
+  "ours": {
+   "year": "1979",
+   "duration": 162,
+   "director": "Andrei Tarkovsky",
+   "cast": "Alisa Freyndlikh, Aleksandr Kaydanovskiy, Anatoliy Solonitsyn, Mykola Hrynko, Natalya Abramova",
+   "genres": [
+    "Fantascienza",
+    "Dramma"
+   ],
+   "tmdb": 1398
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Alisa Freyndlikh', 'Aleksandr Kaydanovskiy', 'Anatoliy Solonitsyn', 'Mykola Hrynko']; TMDB top: ['Алиса Фрейндлих', 'Александр Кайдановский', 'Анатолий Солоницын', 'Микола Гринько', 'Natalya Abramova', 'Faime Jürno']"
+   ],
+   [
+    "FOTO_CAST",
+    "Alisa Freyndlikh: non nel cast TMDB; Aleksandr Kaydanovskiy: non nel cast TMDB; Anatoliy Solonitsyn: non nel cast TMDB; Mykola Hrynko: non nel cast TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Stalker",
+    "orig": "Сталкер",
+    "year": 1979,
+    "runtime": 177,
+    "imdb": "tt0079944",
+    "directors": [
+     "Andrei Tarkovsky"
+    ],
+    "genres": [
+     "Fantascienza",
+     "Dramma"
+    ],
+    "cast5": [
+     "Алиса Фрейндлих",
+     "Александр Кайдановский",
+     "Анатолий Солоницын",
+     "Микола Гринько",
+     "Natalya Abramova",
+     "Faime Jürno"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1979,
+    "end": null,
+    "runtime": 162
+   }
+  }
+ },
+ {
+  "id": "f371",
+  "title": "The Tree of Life",
+  "ours": {
+   "year": "2011",
+   "duration": 139,
+   "director": "Terrence Malick",
+   "cast": "Brad Pitt, Sean Penn, Jessica Chastain, Hunter McCracken, Fiona Shaw",
+   "genres": [
+    "Dramma",
+    "Fantasy"
+   ],
+   "tmdb": 1858
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'The Tree of Life' ≠ TMDB 'Transformers' / 'Transformers'"
+   ],
+   [
+    "ANNO",
+    "Nostro 2011; TMDB 2007"
+   ],
+   [
+    "REGISTA",
+    "Nostro 'Terrence Malick'; TMDB ['Michael Bay']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Brad Pitt', 'Sean Penn', 'Jessica Chastain', 'Hunter McCracken', 'Fiona Shaw']; TMDB top: ['Shia LaBeouf', 'Megan Fox', 'Mark Ryan', 'Peter Cullen', 'Hugo Weaving', 'Josh Duhamel']"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Dramma', 'Fantasy']; TMDB ['Avventura', 'Fantascienza', 'Azione']"
+   ],
+   [
+    "FOTO_CAST",
+    "Brad Pitt: non nel cast TMDB; Sean Penn: non nel cast TMDB; Jessica Chastain: non nel cast TMDB; Hunter McCracken: non nel cast TMDB; Fiona Shaw: non nel cast TMDB"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 1858 (Transformers 2007), distanza 24. Candidati per somiglianza: [(1, 8967, 'The Tree of Life', '2011'), (21, 335988, 'Transformers: The Last Knight', '2017'), (21, 698687, 'Transformers One', '2024')]"
+   ],
+   [
+    "DURATA",
+    "Nostro 139 min; TMDB 144, IMDb 144"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Transformers",
+    "orig": "Transformers",
+    "year": 2007,
+    "runtime": 144,
+    "imdb": "tt0418279",
+    "directors": [
+     "Michael Bay"
+    ],
+    "genres": [
+     "Avventura",
+     "Fantascienza",
+     "Azione"
+    ],
+    "cast5": [
+     "Shia LaBeouf",
+     "Megan Fox",
+     "Mark Ryan",
+     "Peter Cullen",
+     "Hugo Weaving",
+     "Josh Duhamel"
+    ]
+   },
+   "poster_dist": 24,
+   "imdb": {
+    "year": 2007,
+    "end": null,
+    "runtime": 144
+   }
+  }
+ },
+ {
+  "id": "f374",
+  "title": "Unbreakable",
+  "ours": {
+   "year": "2000",
+   "duration": 106,
+   "director": "M. Night Shyamalan",
+   "cast": "Bruce Willis, Samuel L. Jackson, Robin Wright, Spencer Treat Clark",
+   "genres": [
+    "Thriller",
+    "Dramma",
+    "Fantascienza"
+   ],
+   "tmdb": 2661
+  },
+  "flags": [
+   [
+    "ANNO",
+    "Nostro 2000; TMDB 1966"
+   ],
+   [
+    "REGISTA",
+    "Nostro 'M. Night Shyamalan'; TMDB ['Leslie H. Martinson']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Bruce Willis', 'Samuel L. Jackson', 'Robin Wright', 'Spencer Treat Clark']; TMDB top: ['Adam West', 'Burt Ward', 'Lee Meriwether', 'Cesar Romero', 'Burgess Meredith', 'Frank Gorshin']"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Thriller', 'Dramma', 'Fantascienza']; TMDB ['Azione', 'Commedia', 'Crimine']"
+   ],
+   [
+    "FOTO_CAST",
+    "Bruce Willis: non nel cast TMDB; Samuel L. Jackson: non nel cast TMDB; Robin Wright: non nel cast TMDB; Spencer Treat Clark: non nel cast TMDB; Charlayne Woodard: non nel cast TMDB"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 2661 (Batman - Il Film 1966), distanza 20. Candidati per somiglianza: [(1, 9741, 'Unbreakable', '2000'), (14, 64202, 'Batman Beyond: The Movie', '1999'), (20, 2661, 'Batman', '1966')]"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Batman - Il Film",
+    "orig": "Batman",
+    "year": 1966,
+    "runtime": 105,
+    "imdb": "tt0060153",
+    "directors": [
+     "Leslie H. Martinson"
+    ],
+    "genres": [
+     "Azione",
+     "Commedia",
+     "Crime"
+    ],
+    "cast5": [
+     "Adam West",
+     "Burt Ward",
+     "Lee Meriwether",
+     "Cesar Romero",
+     "Burgess Meredith",
+     "Frank Gorshin"
+    ]
+   },
+   "poster_dist": 20,
+   "imdb": {
+    "year": 1966,
+    "end": null,
+    "runtime": 105
+   }
+  }
+ },
+ {
+  "id": "f377",
+  "title": "Waking Life",
+  "ours": {
+   "year": "2001",
+   "duration": 99,
+   "director": "Richard Linklater",
+   "cast": "Wiley Wiggins",
+   "genres": [
+    "Animazione",
+    "Fantasy",
+    "Dramma"
+   ],
+   "tmdb": 9081
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Waking Life",
+    "orig": "Waking Life",
+    "year": 2001,
+    "runtime": 96,
+    "imdb": "tt0243017",
+    "directors": [
+     "Richard Linklater"
+    ],
+    "genres": [
+     "Animazione",
+     "Dramma",
+     "Fantasy"
+    ],
+    "cast5": [
+     "Ethan Hawke",
+     "Julie Delpy",
+     "Wiley Wiggins",
+     "Bill Wise",
+     "Alex E. Jones",
+     "Steven Soderbergh"
+    ]
+   },
+   "poster_dist": 9,
+   "imdb": {
+    "year": 2001,
+    "end": null,
+    "runtime": 99
+   }
+  }
+ },
+ {
+  "id": "f380",
+  "title": "The Zone of Interest",
+  "ours": {
+   "year": "2023",
+   "duration": 105,
+   "director": "Jonathan Glazer",
+   "cast": "Christian Friedel, Sandra Hüller, Johann Karthaus, Luis Noah Witte, Nele Ahrensmeier",
+   "genres": [
+    "Dramma",
+    "Guerra",
+    "Storico"
+   ],
+   "tmdb": 467244
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Sandra Hüller: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "La zona d'interesse",
+    "orig": "The Zone of Interest",
+    "year": 2023,
+    "runtime": 105,
+    "imdb": "tt7160372",
+    "directors": [
+     "Jonathan Glazer"
+    ],
+    "genres": [
+     "Dramma",
+     "Storia",
+     "Guerra"
+    ],
+    "cast5": [
+     "Christian Friedel",
+     "Sandra Hüller",
+     "Johann Karthaus",
+     "Luis Noah Witte",
+     "Nele Ahrensmeier",
+     "Lilli Falk"
+    ]
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2023,
+    "end": null,
+    "runtime": 105
+   }
+  }
+ },
+ {
+  "id": "f384",
+  "title": "The Invisible Guest",
+  "ours": {
+   "year": "2016",
+   "duration": 107,
+   "director": "Oriol Paulo",
+   "cast": "Mario Casas, Ana Wagener, José Coronado, Bárbara Lennie, Francesc Orella",
+   "genres": [
+    "Thriller",
+    "Mistero",
+    "Crimine"
+   ],
+   "tmdb": 411088
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'The Invisible Guest' ≠ TMDB 'Contrattempo' / 'Contratiempo'"
+   ],
+   [
+    "ANNO",
+    "Nostro 2016; TMDB 2017"
+   ],
+   [
+    "ANNO_FONTI",
+    "TMDB 2017 ≠ IMDb 2016 (nostro 2016)"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Contrattempo",
+    "orig": "Contratiempo",
+    "year": 2017,
+    "runtime": 107,
+    "imdb": "tt4857264",
+    "directors": [
+     "Oriol Paulo"
+    ],
+    "genres": [
+     "Dramma",
+     "Mistero",
+     "Thriller"
+    ],
+    "cast5": [
+     "Mario Casas",
+     "Ana Wagener",
+     "Jose Coronado",
+     "Bárbara Lennie",
+     "Francesc Orella",
+     "Paco Tous"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2016,
+    "end": null,
+    "runtime": 106
+   }
+  }
+ },
+ {
+  "id": "f388",
+  "title": "Twin Peaks",
+  "ours": {
+   "year": "1992",
+   "duration": 135,
+   "director": "David Lynch",
+   "cast": "Sheryl Lee, Ray Wise, Kyle MacLachlan, Mädchen Amick, Chris Isaak",
+   "genres": [
+    "Mistero",
+    "Horror",
+    "Dramma"
+   ],
+   "tmdb": 1923
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Twin Peaks' ≠ TMDB 'Twin Peaks: Fuoco cammina con me' / 'Twin Peaks: Fire Walk with Me'"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 1923 (Twin Peaks: Fuoco cammina con me 1992), distanza 22. Candidati per somiglianza: [(1, 452522, 'Twin Peaks', '1989'), (22, 885200, 'Twin Peaks: Visual Soundtrack', '1992'), (23, 1923, 'Twin Peaks: Fire Walk with Me', '1992')]"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Twin Peaks: Fuoco cammina con me",
+    "orig": "Twin Peaks: Fire Walk with Me",
+    "year": 1992,
+    "runtime": 135,
+    "imdb": "tt0105665",
+    "directors": [
+     "David Lynch"
+    ],
+    "genres": [
+     "Dramma",
+     "Mistero",
+     "Horror"
+    ],
+    "cast5": [
+     "Sheryl Lee",
+     "Ray Wise",
+     "Mädchen Amick",
+     "Dana Ashbrook",
+     "Phoebe Augustine",
+     "David Bowie"
+    ]
+   },
+   "poster_dist": 22,
+   "imdb": {
+    "year": 1992,
+    "end": null,
+    "runtime": 134
+   }
+  }
+ },
+ {
+  "id": "f391",
+  "title": "The Killing of a Sacred Deer",
+  "ours": {
+   "year": "2017",
+   "duration": 121,
+   "director": "Yorgos Lanthimos",
+   "cast": "Colin Farrell, Nicole Kidman, Barry Keoghan, Alicia Silverstone, Sunny Suljic",
+   "genres": [
+    "Dramma",
+    "Horror",
+    "Thriller"
+   ],
+   "tmdb": 399057
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Il sacrificio del cervo sacro",
+    "orig": "The Killing of a Sacred Deer",
+    "year": 2017,
+    "runtime": 121,
+    "imdb": "tt5715874",
+    "directors": [
+     "Yórgos Lánthimos"
+    ],
+    "genres": [
+     "Dramma",
+     "Thriller",
+     "Mistero"
+    ],
+    "cast5": [
+     "Colin Farrell",
+     "Nicole Kidman",
+     "Barry Keoghan",
+     "Raffey Cassidy",
+     "Sunny Suljic",
+     "Bill Camp"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2017,
+    "end": null,
+    "runtime": 121
+   }
+  }
+ },
+ {
+  "id": "f395",
+  "title": "Fallen",
+  "ours": {
+   "year": "1998",
+   "duration": 124,
+   "director": "Gregory Hoblit",
+   "cast": "Denzel Washington, John Goodman, Donald Sutherland, Embeth Davidtz, James Gandolfini",
+   "genres": [
+    "Thriller",
+    "Horror",
+    "Mistero"
+   ],
+   "tmdb": 9411
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Donald Sutherland: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Il tocco del male",
+    "orig": "Fallen",
+    "year": 1998,
+    "runtime": 123,
+    "imdb": "tt0119099",
+    "directors": [
+     "Gregory Hoblit"
+    ],
+    "genres": [
+     "Crime",
+     "Dramma",
+     "Thriller",
+     "Fantasy"
+    ],
+    "cast5": [
+     "Denzel Washington",
+     "John Goodman",
+     "Donald Sutherland",
+     "Embeth Davidtz",
+     "James Gandolfini",
+     "Elias Koteas"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1998,
+    "end": null,
+    "runtime": 124
+   }
+  }
+ },
+ {
+  "id": "f398",
+  "title": "Fruitvale Station",
+  "ours": {
+   "year": "2013",
+   "duration": 85,
+   "director": "Ryan Coogler",
+   "cast": "Michael B. Jordan, Octavia Spencer, Melonie Diaz, Kevin Durand",
+   "genres": [
+    "Dramma",
+    "Biografico"
+   ],
+   "tmdb": 157354
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Prossima fermata: Fruitvale Station",
+    "orig": "Fruitvale Station",
+    "year": 2013,
+    "runtime": 82,
+    "imdb": "tt2334649",
+    "directors": [
+     "Ryan Coogler"
+    ],
+    "genres": [
+     "Dramma"
+    ],
+    "cast5": [
+     "Michael B. Jordan",
+     "Melonie Díaz",
+     "Octavia Spencer",
+     "Kevin Durand",
+     "Chad Michael Murray",
+     "Ahna O'Reilly"
+    ]
+   },
+   "poster_dist": 4,
+   "imdb": {
+    "year": 2013,
+    "end": null,
+    "runtime": 85
+   }
+  }
+ },
+ {
+  "id": "f401",
+  "title": "The Perks of Being a Wallflower",
+  "ours": {
+   "year": "2012",
+   "duration": 103,
+   "director": "Stephen Chbosky",
+   "cast": "Logan Lerman, Emma Watson, Ezra Miller, Mae Whitman, Nina Dobrev",
+   "genres": [
+    "Dramma",
+    "Romance"
+   ],
+   "tmdb": 84892
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Noi siamo infinito",
+    "orig": "The Perks of Being a Wallflower",
+    "year": 2012,
+    "runtime": 103,
+    "imdb": "tt1659337",
+    "directors": [
+     "Stephen Chbosky"
+    ],
+    "genres": [
+     "Dramma"
+    ],
+    "cast5": [
+     "Logan Lerman",
+     "Emma Watson",
+     "Ezra Miller",
+     "Mae Whitman",
+     "Kate Walsh",
+     "Dylan McDermott"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2012,
+    "end": null,
+    "runtime": 103
+   }
+  }
+ },
+ {
+  "id": "f404",
+  "title": "Under the Silver Lake",
+  "ours": {
+   "year": "2018",
+   "duration": 139,
+   "director": "David Robert Mitchell",
+   "cast": "Andrew Garfield, Riley Keough, Topher Grace, Callie Hernandez",
+   "genres": [
+    "Mistero",
+    "Commedia nera",
+    "Thriller"
+   ],
+   "tmdb": 396461
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Andrew Garfield: foto diversa da TMDB; Riley Keough: foto diversa da TMDB; Topher Grace: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Under the Silver Lake",
+    "orig": "Under the Silver Lake",
+    "year": 2018,
+    "runtime": 139,
+    "imdb": "tt5691670",
+    "directors": [
+     "David Robert Mitchell"
+    ],
+    "genres": [
+     "Crime",
+     "Dramma",
+     "Mistero"
+    ],
+    "cast5": [
+     "Andrew Garfield",
+     "Riley Keough",
+     "Topher Grace",
+     "Callie Hernandez",
+     "Don McManus",
+     "Jeremy Bobb"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2018,
+    "end": null,
+    "runtime": 139
+   }
+  }
+ },
+ {
+  "id": "f407",
+  "title": "Vanilla Sky",
+  "ours": {
+   "year": "2001",
+   "duration": 136,
+   "director": "Cameron Crowe",
+   "cast": "Tom Cruise, Penélope Cruz, Cameron Diaz, Kurt Russell, Jason Lee",
+   "genres": [
+    "Fantascienza",
+    "Thriller",
+    "Romance"
+   ],
+   "tmdb": 601
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Vanilla Sky' ≠ TMDB 'E.T. l'extra-terrestre' / 'E.T. the Extra-Terrestrial'"
+   ],
+   [
+    "ANNO",
+    "Nostro 2001; TMDB 1982"
+   ],
+   [
+    "REGISTA",
+    "Nostro 'Cameron Crowe'; TMDB ['Steven Spielberg']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Tom Cruise', 'Penélope Cruz', 'Cameron Diaz', 'Kurt Russell', 'Jason Lee']; TMDB top: ['Henry Thomas', 'Drew Barrymore', 'Robert MacNaughton', 'Peter Coyote', 'Dee Wallace', 'Erika Eleniak']"
+   ],
+   [
+    "FOTO_CAST",
+    "Tom Cruise: non nel cast TMDB; Penélope Cruz: non nel cast TMDB; Cameron Diaz: non nel cast TMDB; Kurt Russell: non nel cast TMDB; Jason Lee: non nel cast TMDB"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 601 (E.T. l'extra-terrestre 1982), distanza 27. Candidati per somiglianza: [(10, 1903, 'Vanilla Sky', '2001'), (24, 819513, 'E.T. the Extra-Terrestrial 20th Anniversary Special', '2002'), (25, 1500088, 'Vanilla Sky Habibi', '2025')]"
+   ],
+   [
+    "DURATA",
+    "Nostro 136 min; TMDB 115, IMDb 115"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "E.T. l'extra-terrestre",
+    "orig": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "runtime": 115,
+    "imdb": "tt0083866",
+    "directors": [
+     "Steven Spielberg"
+    ],
+    "genres": [
+     "Avventura",
+     "Fantascienza",
+     "Famiglia"
+    ],
+    "cast5": [
+     "Henry Thomas",
+     "Drew Barrymore",
+     "Robert MacNaughton",
+     "Peter Coyote",
+     "Dee Wallace",
+     "Erika Eleniak"
+    ]
+   },
+   "poster_dist": 27,
+   "imdb": {
+    "year": 1982,
+    "end": null,
+    "runtime": 115
+   }
+  }
+ },
+ {
+  "id": "f410",
+  "title": "Barton Fink",
+  "ours": {
+   "year": "1991",
+   "duration": 116,
+   "director": "Joel Coen, Ethan Coen",
+   "cast": "John Turturro, John Goodman, Judy Davis, Michael Lerner, John Mahoney",
+   "genres": [
+    "Dramma",
+    "Commedia nera",
+    "Mistero"
+   ],
+   "tmdb": 290
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Barton Fink - È successo a Hollywood",
+    "orig": "Barton Fink",
+    "year": 1991,
+    "runtime": 116,
+    "imdb": "tt0101410",
+    "directors": [
+     "Joel Coen",
+     "Ethan Coen"
+    ],
+    "genres": [
+     "Commedia",
+     "Dramma",
+     "Thriller"
+    ],
+    "cast5": [
+     "John Turturro",
+     "John Goodman",
+     "Judy Davis",
+     "Michael Lerner",
+     "John Mahoney",
+     "Tony Shalhoub"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1991,
+    "end": null,
+    "runtime": 116
+   }
+  }
+ },
+ {
+  "id": "f413",
+  "title": "Wind River",
+  "ours": {
+   "year": "2017",
+   "duration": 107,
+   "director": "Taylor Sheridan",
+   "cast": "Jeremy Renner, Elizabeth Olsen, Gil Birmingham, Jon Bernthal",
+   "genres": [
+    "Thriller",
+    "Crimine",
+    "Dramma"
+   ],
+   "tmdb": 391713
+  },
+  "flags": [
+   [
+    "REGISTA",
+    "Nostro 'Taylor Sheridan'; TMDB ['Greta Gerwig']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Jeremy Renner', 'Elizabeth Olsen', 'Gil Birmingham', 'Jon Bernthal']; TMDB top: ['Saoirse Ronan', 'Laurie Metcalf', 'Tracy Letts', 'Lucas Hedges', 'Timothée Chalamet', 'Beanie Feldstein']"
+   ],
+   [
+    "FOTO_CAST",
+    "Jeremy Renner: non nel cast TMDB; Elizabeth Olsen: non nel cast TMDB; Gil Birmingham: non nel cast TMDB; Jon Bernthal: non nel cast TMDB; Graham Greene: non nel cast TMDB"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 391713 (Lady Bird 2017), distanza 22. Candidati per somiglianza: [(2, 395834, 'Wind River', '2017'), (19, 1232846, 'Bird Lady', '2021'), (22, 391713, 'Lady Bird', '2017')]"
+   ],
+   [
+    "DURATA",
+    "Nostro 107 min; TMDB 93, IMDb 94"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Lady Bird",
+    "orig": "Lady Bird",
+    "year": 2017,
+    "runtime": 93,
+    "imdb": "tt4925292",
+    "directors": [
+     "Greta Gerwig"
+    ],
+    "genres": [
+     "Dramma",
+     "Commedia"
+    ],
+    "cast5": [
+     "Saoirse Ronan",
+     "Laurie Metcalf",
+     "Tracy Letts",
+     "Lucas Hedges",
+     "Timothée Chalamet",
+     "Beanie Feldstein"
+    ]
+   },
+   "poster_dist": 22,
+   "imdb": {
+    "year": 2017,
+    "end": null,
+    "runtime": 94
+   }
+  }
+ },
+ {
+  "id": "f416",
+  "title": "Equilibrium",
+  "ours": {
+   "year": "2002",
+   "duration": 107,
+   "director": "Kurt Wimmer",
+   "cast": "Christian Bale, Emily Watson, Taye Diggs, Sean Bean",
+   "genres": [
+    "Fantascienza",
+    "Azione"
+   ],
+   "tmdb": 9573
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Equilibrium' ≠ TMDB 'Debito di sangue' / 'Blood Work'"
+   ],
+   [
+    "REGISTA",
+    "Nostro 'Kurt Wimmer'; TMDB ['Clint Eastwood']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Christian Bale', 'Emily Watson', 'Taye Diggs', 'Sean Bean']; TMDB top: ['Clint Eastwood', 'Jeff Daniels', 'Anjelica Huston', 'Wanda De Jesus', 'Tina Lifford', 'Paul Rodríguez']"
+   ],
+   [
+    "FOTO_CAST",
+    "Christian Bale: non nel cast TMDB; Emily Watson: non nel cast TMDB; Taye Diggs: non nel cast TMDB; Sean Bean: non nel cast TMDB; Angus Macfadyen: non nel cast TMDB"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 9573 (Debito di sangue 2002), distanza 23. Candidati per somiglianza: [(1, 7299, 'Equilibrium', '2002'), (23, 9573, 'Blood Work', '2002'), (24, 248223, 'Dark World: Equilibrium', '2013')]"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Debito di sangue",
+    "orig": "Blood Work",
+    "year": 2002,
+    "runtime": 110,
+    "imdb": "tt0309377",
+    "directors": [
+     "Clint Eastwood"
+    ],
+    "genres": [
+     "Thriller",
+     "Crime",
+     "Azione",
+     "Mistero",
+     "Dramma"
+    ],
+    "cast5": [
+     "Clint Eastwood",
+     "Jeff Daniels",
+     "Anjelica Huston",
+     "Wanda De Jesus",
+     "Tina Lifford",
+     "Paul Rodríguez"
+    ]
+   },
+   "poster_dist": 23,
+   "imdb": {
+    "year": 2002,
+    "end": null,
+    "runtime": 110
+   }
+  }
+ },
+ {
+  "id": "f426",
+  "title": "The Gentlemen",
+  "ours": {
+   "year": "2019",
+   "duration": 113,
+   "director": "Guy Ritchie",
+   "cast": "Matthew McConaughey, Charlie Hunnam, Henry Golding, Michelle Dockery, Hugh Grant",
+   "genres": [
+    "Commedia nera",
+    "Crimine",
+    "Azione"
+   ],
+   "tmdb": 522627
+  },
+  "flags": [
+   [
+    "ANNO",
+    "Nostro 2019; TMDB 2020"
+   ],
+   [
+    "ANNO_FONTI",
+    "TMDB 2020 ≠ IMDb 2019 (nostro 2019)"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "The Gentlemen",
+    "orig": "The Gentlemen",
+    "year": 2020,
+    "runtime": 113,
+    "imdb": "tt8367814",
+    "directors": [
+     "Guy Ritchie"
+    ],
+    "genres": [
+     "Azione",
+     "Commedia",
+     "Crime"
+    ],
+    "cast5": [
+     "Matthew McConaughey",
+     "Charlie Hunnam",
+     "Michelle Dockery",
+     "Jeremy Strong",
+     "Lyne Renee",
+     "Colin Farrell"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2019,
+    "end": null,
+    "runtime": 113
+   }
+  }
+ },
+ {
+  "id": "f429",
+  "title": "The Devil's Advocate",
+  "ours": {
+   "year": "1997",
+   "duration": 144,
+   "director": "Taylor Hackford",
+   "cast": "Keanu Reeves, Al Pacino, Charlize Theron, Jeffrey Jones, Connie Nielsen",
+   "genres": [
+    "Thriller",
+    "Horror",
+    "Dramma"
+   ],
+   "tmdb": 1813
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "L'avvocato del diavolo",
+    "orig": "The Devil's Advocate",
+    "year": 1997,
+    "runtime": 144,
+    "imdb": "tt0118971",
+    "directors": [
+     "Taylor Hackford"
+    ],
+    "genres": [
+     "Horror",
+     "Dramma",
+     "Mistero"
+    ],
+    "cast5": [
+     "Keanu Reeves",
+     "Al Pacino",
+     "Charlize Theron",
+     "Jeffrey Jones",
+     "Judith Ivey",
+     "Connie Nielsen"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1997,
+    "end": null,
+    "runtime": 144
+   }
+  }
+ },
+ {
+  "id": "f432",
+  "title": "The Score",
+  "ours": {
+   "year": "2001",
+   "duration": 124,
+   "director": "Frank Oz",
+   "cast": "Robert De Niro, Edward Norton, Marlon Brando, Angela Bassett",
+   "genres": [
+    "Crimine",
+    "Thriller"
+   ],
+   "tmdb": 11371
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "The Score",
+    "orig": "The Score",
+    "year": 2001,
+    "runtime": 124,
+    "imdb": "tt0227445",
+    "directors": [
+     "Frank Oz"
+    ],
+    "genres": [
+     "Azione",
+     "Crime",
+     "Thriller",
+     "Mistero",
+     "Dramma"
+    ],
+    "cast5": [
+     "Robert De Niro",
+     "Edward Norton",
+     "Marlon Brando",
+     "Angela Bassett",
+     "Gary Farmer",
+     "Jamie Harrold"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2001,
+    "end": null,
+    "runtime": 124
+   }
+  }
+ },
+ {
+  "id": "f439",
+  "title": "Dune: Part Three",
+  "ours": {
+   "year": "2026",
+   "duration": null,
+   "director": "Denis Villeneuve",
+   "cast": "Timothée Chalamet, Zendaya, Austin Butler, Josh Brolin, Florence Pugh",
+   "genres": [
+    "Fantascienza",
+    "Avventura"
+   ],
+   "tmdb": 1170608
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Austin Butler']; TMDB top: ['Timothée Chalamet', 'Zendaya', 'Jason Momoa', 'Florence Pugh', 'Rebecca Ferguson', 'Isaach de Bankolé']"
+   ],
+   [
+    "FOTO_CAST",
+    "Zendaya: foto diversa da TMDB; Florence Pugh: foto diversa da TMDB; Austin Butler: non nel cast TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Dune - Parte tre",
+    "orig": "Dune: Part Three",
+    "year": 2026,
+    "runtime": 140,
+    "imdb": "tt31378509",
+    "directors": [
+     "Denis Villeneuve"
+    ],
+    "genres": [
+     "Fantascienza",
+     "Avventura"
+    ],
+    "cast5": [
+     "Timothée Chalamet",
+     "Zendaya",
+     "Jason Momoa",
+     "Florence Pugh",
+     "Rebecca Ferguson",
+     "Isaach de Bankolé"
+    ]
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2026,
+    "end": null,
+    "runtime": 140
+   }
+  }
+ },
+ {
+  "id": "f443",
+  "title": "Leave the World Behind",
+  "ours": {
+   "year": "2023",
+   "duration": 141,
+   "director": "Sam Esmail",
+   "cast": "Julia Roberts, Ethan Hawke, Mahershala Ali, Myha'la, Kevin Bacon",
+   "genres": [
+    "Thriller",
+    "Dramma",
+    "Fantascienza"
+   ],
+   "tmdb": 726209
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Il mondo dietro di te",
+    "orig": "Leave the World Behind",
+    "year": 2023,
+    "runtime": 142,
+    "imdb": "tt12747748",
+    "directors": [
+     "Sam Esmail"
+    ],
+    "genres": [
+     "Dramma",
+     "Mistero",
+     "Thriller"
+    ],
+    "cast5": [
+     "Julia Roberts",
+     "Ethan Hawke",
+     "Mahershala Ali",
+     "Myha'la",
+     "Farrah Mackenzie",
+     "Charlie Evans"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2023,
+    "end": null,
+    "runtime": 138
+   }
+  }
+ },
+ {
+  "id": "f446",
+  "title": "Better Days",
+  "ours": {
+   "year": "2019",
+   "duration": 135,
+   "director": "Derek Tsang",
+   "cast": "Zhou Dongyu, Jackson Yee, Yin Fang, Huang Jue, Wu Yue",
+   "genres": [
+    "Dramma",
+    "Crimine"
+   ],
+   "tmdb": 575813
+  },
+  "flags": [
+   [
+    "REGISTA",
+    "Nostro 'Derek Tsang'; TMDB ['曾国祥']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB (top25): ['Zhou Dongyu', 'Jackson Yee', 'Yin Fang', 'Huang Jue', 'Wu Yue']; TMDB top: ['周冬雨', '易烊千玺', '尹昉', '黄觉', '吴越', 'Zhou Ye']"
+   ],
+   [
+    "FOTO_CAST",
+    "Zhou Dongyu: non nel cast TMDB; Jackson Yee: non nel cast TMDB; Yin Fang: non nel cast TMDB; Huang Jue: non nel cast TMDB; Wu Yue: non nel cast TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Better Days",
+    "orig": "少年的你",
+    "year": 2019,
+    "runtime": 135,
+    "imdb": "tt9586294",
+    "directors": [
+     "曾国祥"
+    ],
+    "genres": [
+     "Dramma",
+     "Crime",
+     "Romance"
+    ],
+    "cast5": [
+     "周冬雨",
+     "易烊千玺",
+     "尹昉",
+     "黄觉",
+     "吴越",
+     "Zhou Ye"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2019,
+    "end": null,
+    "runtime": 135
+   }
+  }
+ },
+ {
+  "id": "f449",
+  "title": "Life of Pi",
+  "ours": {
+   "year": "2012",
+   "duration": 127,
+   "director": "Ang Lee",
+   "cast": "Suraj Sharma, Irrfan Khan, Rafe Spall, Gérard Depardieu, Tabu",
+   "genres": [
+    "Avventura",
+    "Dramma",
+    "Fantasy"
+   ],
+   "tmdb": 87827
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Vita di Pi",
+    "orig": "Life of Pi",
+    "year": 2012,
+    "runtime": 127,
+    "imdb": "tt0454876",
+    "directors": [
+     "Ang Lee"
+    ],
+    "genres": [
+     "Avventura",
+     "Dramma"
+    ],
+    "cast5": [
+     "Suraj Sharma",
+     "Irrfan Khan",
+     "Ayush Tandon",
+     "Gautam Belur",
+     "Adil Hussain",
+     "Tabu"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2012,
+    "end": null,
+    "runtime": 127
+   }
+  }
+ },
+ {
+  "id": "f463",
+  "title": "Harry Potter and the Order of the Phoenix",
+  "ours": {
+   "year": "2007",
+   "duration": 138,
+   "director": "David Yates",
+   "cast": "Daniel Radcliffe, Emma Watson, Rupert Grint, Ralph Fiennes, Imelda Staunton",
+   "genres": [
+    "Fantasy",
+    "Avventura",
+    "Famiglia"
+   ],
+   "tmdb": 675
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Rupert Grint: foto diversa da TMDB; Ralph Fiennes: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Harry Potter e l'ordine della fenice",
+    "orig": "Harry Potter and the Order of the Phoenix",
+    "year": 2007,
+    "runtime": 138,
+    "imdb": "tt0373889",
+    "directors": [
+     "David Yates"
+    ],
+    "genres": [
+     "Avventura",
+     "Fantasy"
+    ],
+    "cast5": [
+     "Daniel Radcliffe",
+     "Rupert Grint",
+     "Emma Watson",
+     "Imelda Staunton",
+     "Helena Bonham Carter",
+     "Robbie Coltrane"
+    ]
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2007,
+    "end": null,
+    "runtime": 138
+   }
+  }
+ },
+ {
+  "id": "f466",
+  "title": "Fantastic Beasts: The Secrets of Dumbledore",
+  "ours": {
+   "year": "2022",
+   "duration": 142,
+   "director": "David Yates",
+   "cast": "Eddie Redmayne, Jude Law, Mads Mikkelsen, Ezra Miller, Dan Fogler",
+   "genres": [
+    "Fantasy",
+    "Avventura",
+    "Famiglia"
+   ],
+   "tmdb": 338953
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Animali fantastici - I segreti di Silente",
+    "orig": "Fantastic Beasts: The Secrets of Dumbledore",
+    "year": 2022,
+    "runtime": 142,
+    "imdb": "tt4123432",
+    "directors": [
+     "David Yates"
+    ],
+    "genres": [
+     "Fantasy",
+     "Avventura"
+    ],
+    "cast5": [
+     "Eddie Redmayne",
+     "Jude Law",
+     "Mads Mikkelsen",
+     "Ezra Miller",
+     "Dan Fogler",
+     "Alison Sudol"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2022,
+    "end": null,
+    "runtime": 142
+   }
+  }
+ },
+ {
+  "id": "f469",
+  "title": "The Amazing Spider-Man",
+  "ours": {
+   "year": "2012",
+   "duration": 136,
+   "director": "Marc Webb",
+   "cast": "Andrew Garfield, Emma Stone, Rhys Ifans, Martin Sheen, Sally Field",
+   "genres": [
+    "Azione",
+    "Fantascienza",
+    "Avventura"
+   ],
+   "tmdb": 1930
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Andrew Garfield: foto diversa da TMDB; Emma Stone: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "The Amazing Spider-Man",
+    "orig": "The Amazing Spider-Man",
+    "year": 2012,
+    "runtime": 136,
+    "imdb": "tt0948470",
+    "directors": [
+     "Marc Webb"
+    ],
+    "genres": [
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "cast5": [
+     "Andrew Garfield",
+     "Emma Stone",
+     "Rhys Ifans",
+     "Denis Leary",
+     "Martin Sheen",
+     "Sally Field"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2012,
+    "end": null,
+    "runtime": 136
+   }
+  }
+ },
+ {
+  "id": "f472",
+  "title": "Spider-Man: Far From Home",
+  "ours": {
+   "year": "2019",
+   "duration": 129,
+   "director": "Jon Watts",
+   "cast": "Tom Holland, Jake Gyllenhaal, Samuel L. Jackson, Zendaya, Marisa Tomei",
+   "genres": [
+    "Azione",
+    "Avventura",
+    "Fantascienza"
+   ],
+   "tmdb": 429617
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Tom Holland: foto diversa da TMDB; Samuel L. Jackson: foto diversa da TMDB; Zendaya: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Spider-Man: Far from Home",
+    "orig": "Spider-Man: Far From Home",
+    "year": 2019,
+    "runtime": 129,
+    "imdb": "tt6320628",
+    "directors": [
+     "Jon Watts"
+    ],
+    "genres": [
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "cast5": [
+     "Tom Holland",
+     "Jake Gyllenhaal",
+     "Samuel L. Jackson",
+     "Marisa Tomei",
+     "Jon Favreau",
+     "Zendaya"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2019,
+    "end": null,
+    "runtime": 129
+   }
+  }
+ },
+ {
+  "id": "f475",
+  "title": "Harry Potter and the Chamber of Secrets",
+  "ours": {
+   "year": "2002",
+   "duration": 161,
+   "director": "Chris Columbus",
+   "cast": "Daniel Radcliffe, Rupert Grint, Emma Watson, Kenneth Branagh, Alan Rickman",
+   "genres": [
+    "Fantasy",
+    "Avventura",
+    "Famiglia"
+   ],
+   "tmdb": 672
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Rupert Grint: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Harry Potter e la camera dei segreti",
+    "orig": "Harry Potter and the Chamber of Secrets",
+    "year": 2002,
+    "runtime": 161,
+    "imdb": "tt0295297",
+    "directors": [
+     "Chris Columbus"
+    ],
+    "genres": [
+     "Avventura",
+     "Fantasy"
+    ],
+    "cast5": [
+     "Daniel Radcliffe",
+     "Rupert Grint",
+     "Emma Watson",
+     "Kenneth Branagh",
+     "Toby Jones",
+     "Robbie Coltrane"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2002,
+    "end": null,
+    "runtime": 161
+   }
+  }
+ },
+ {
+  "id": "f478",
+  "title": "Harry Potter and the Deathly Hallows: Part 2",
+  "ours": {
+   "year": "2011",
+   "duration": 130,
+   "director": "David Yates",
+   "cast": "Daniel Radcliffe, Emma Watson, Rupert Grint, Ralph Fiennes, Alan Rickman",
+   "genres": [
+    "Fantasy",
+    "Avventura",
+    "Famiglia"
+   ],
+   "tmdb": 12445
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Rupert Grint: foto diversa da TMDB; Ralph Fiennes: foto diversa da TMDB"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "title": "Harry Potter e i Doni della Morte - Parte 2",
+    "orig": "Harry Potter and the Deathly Hallows: Part 2",
+    "year": 2011,
+    "runtime": 130,
+    "imdb": "tt1201607",
+    "directors": [
+     "David Yates"
+    ],
+    "genres": [
+     "Avventura",
+     "Fantasy"
+    ],
+    "cast5": [
+     "Daniel Radcliffe",
+     "Emma Watson",
+     "Rupert Grint",
+     "Ralph Fiennes",
+     "Alan Rickman",
+     "Michael Gambon"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2011,
+    "end": null,
+    "runtime": 130
+   }
+  }
+ },
+ {
+  "id": "f486",
+  "title": "Star Wars: The Empire Strikes Back",
+  "ours": {
+   "year": "1980",
+   "duration": 124,
+   "director": "Irvin Kershner",
+   "cast": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels",
+   "genres": [
+    "Fantascienza",
+    "Avventura",
+    "Azione"
+   ],
+   "tmdb": 1891
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "L'Impero colpisce ancora",
+    "orig": "The Empire Strikes Back",
+    "year": 1980,
+    "runtime": 124,
+    "imdb": "tt0080684",
+    "directors": [
+     "Irvin Kershner"
+    ],
+    "genres": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "cast5": [
+     "Mark Hamill",
+     "Harrison Ford",
+     "Carrie Fisher",
+     "Billy Dee Williams",
+     "Anthony Daniels",
+     "David Prowse"
+    ]
+   },
+   "poster_dist": 12,
+   "imdb": {
+    "year": 1980,
+    "end": null,
+    "runtime": 124
+   }
+  }
+ },
+ {
+  "id": "f489",
+  "title": "Star Wars: Episode II – Attack of the Clones",
+  "ours": {
+   "year": "2002",
+   "duration": 142,
+   "director": "George Lucas",
+   "cast": "Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid, Christopher Lee",
+   "genres": [
+    "Fantascienza",
+    "Avventura",
+    "Azione"
+   ],
+   "tmdb": 1894
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Star Wars: Episodio II - L'attacco dei cloni",
+    "orig": "Star Wars: Episode II - Attack of the Clones",
+    "year": 2002,
+    "runtime": 142,
+    "imdb": "tt0121765",
+    "directors": [
+     "George Lucas"
+    ],
+    "genres": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "cast5": [
+     "Hayden Christensen",
+     "Ewan McGregor",
+     "Natalie Portman",
+     "Christopher Lee",
+     "Samuel L. Jackson",
+     "Frank Oz"
+    ]
+   },
+   "poster_dist": 5,
+   "imdb": {
+    "year": 2002,
+    "end": null,
+    "runtime": 142
+   }
+  }
+ },
+ {
+  "id": "f492",
+  "title": "Star Wars: The Force Awakens",
+  "ours": {
+   "year": "2015",
+   "duration": 136,
+   "director": "J.J. Abrams",
+   "cast": "Daisy Ridley, John Boyega, Oscar Isaac, Harrison Ford, Carrie Fisher",
+   "genres": [
+    "Fantascienza",
+    "Avventura",
+    "Azione"
+   ],
+   "tmdb": 140607
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Star Wars: Il risveglio della Forza",
+    "orig": "Star Wars: The Force Awakens",
+    "year": 2015,
+    "runtime": 135,
+    "imdb": "tt2488496",
+    "directors": [
+     "J.J. Abrams"
+    ],
+    "genres": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "cast5": [
+     "Daisy Ridley",
+     "John Boyega",
+     "Oscar Isaac",
+     "Adam Driver",
+     "Carrie Fisher",
+     "Harrison Ford"
+    ]
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2015,
+    "end": null,
+    "runtime": 138
+   }
+  }
+ },
+ {
+  "id": "f495",
+  "title": "Rogue One: A Star Wars Story",
+  "ours": {
+   "year": "2016",
+   "duration": 133,
+   "director": "Gareth Edwards",
+   "cast": "Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen, Ben Mendelsohn",
+   "genres": [
+    "Fantascienza",
+    "Avventura",
+    "Azione"
+   ],
+   "tmdb": 330459
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "title": "Rogue One: A Star Wars Story",
+    "orig": "Rogue One: A Star Wars Story",
+    "year": 2016,
+    "runtime": 133,
+    "imdb": "tt3748528",
+    "directors": [
+     "Gareth Edwards"
+    ],
+    "genres": [
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "cast5": [
+     "Felicity Jones",
+     "Diego Luna",
+     "Alan Tudyk",
+     "Donnie Yen",
+     "Jiang Wen",
+     "Ben Mendelsohn"
+    ]
+   },
+   "poster_dist": 6,
+   "imdb": {
+    "year": 2016,
+    "end": null,
+    "runtime": 133
+   }
+  }
+ }
+]
