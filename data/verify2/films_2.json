@@ -96,7 +96,7 @@
      "Melissa Leo"
     ]
    },
-   "poster_dist": 1,
+   "poster_dist": 0,
    "imdb": {
     "year": 2013,
     "end": null,
@@ -194,7 +194,7 @@
      "Oscar Isaac"
     ]
    },
-   "poster_dist": 5,
+   "poster_dist": 6,
    "imdb": {
     "year": 2023,
     "end": null,
@@ -324,16 +324,7 @@
    ],
    "tmdb": 670
   },
-  "flags": [
-   [
-    "CAST",
-    "Non nel cast TMDB (top25): ['Choi Min-sik', 'Yoo Ji-tae', 'Kang Hye-jung', 'Kim Byeong-ok', 'Oh Dal-su']; TMDB top: ['최민식', '유지태', '강혜정', '김병옥', '지대한', '오달수']"
-   ],
-   [
-    "FOTO_CAST",
-    "Choi Min-sik: non nel cast TMDB; Yoo Ji-tae: non nel cast TMDB; Kang Hye-jung: non nel cast TMDB; Kim Byeong-ok: non nel cast TMDB; Oh Dal-su: non nel cast TMDB"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "Old Boy",
@@ -476,12 +467,8 @@
   },
   "flags": [
    [
-    "CAST",
-    "Non nel cast TMDB (top25): ['Tzi Ma']; TMDB top: ['Amy Adams', 'Jeremy Renner', 'Forest Whitaker', 'Michael Stuhlbarg', \"Mark O'Brien\", '馬泰']"
-   ],
-   [
     "FOTO_CAST",
-    "Amy Adams: foto diversa da TMDB; Tzi Ma: non nel cast TMDB"
+    "Amy Adams: foto diversa da TMDB"
    ]
   ],
   "src": {
@@ -685,12 +672,7 @@
    ],
    "tmdb": 2300
   },
-  "flags": [
-   [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 2300 (Space Jam 1996), distanza 21. Candidati per somiglianza: [(21, 2300, 'Space Jam', '1996'), (22, 379686, 'Space Jam: A New Legacy', '2021'), (23, 1440773, 'Planet Hunting With The James Webb Space Telescope', '2021')]"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "Space Jam",
@@ -769,7 +751,7 @@
      "Lily Tomlin"
     ]
    },
-   "poster_dist": 1,
+   "poster_dist": 0,
    "imdb": {
     "year": 2018,
     "end": null,
@@ -934,12 +916,7 @@
    ],
    "tmdb": 273248
   },
-  "flags": [
-   [
-    "FOTO_CAST",
-    "Samuel L. Jackson: foto diversa da TMDB"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "The Hateful Eight",
@@ -1639,6 +1616,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "3 indizi concordi: l'id TMDB assegnato (754) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "ANNO",
     "Nostro 1987; TMDB 1997"
    ],
@@ -1652,11 +1633,11 @@
    ],
    [
     "FOTO_CAST",
-    "Kevin Costner: non nel cast TMDB; Sean Connery: non nel cast TMDB; Robert De Niro: non nel cast TMDB; Andy Garcia: non nel cast TMDB; Charles Martin Smith: non nel cast TMDB"
+    "Kevin Costner: persona non nel cast TMDB; Sean Connery: persona non nel cast TMDB; Robert De Niro: persona non nel cast TMDB; Andy Garcia: persona non nel cast TMDB; Charles Martin Smith: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 754 (Face/Off - Due facce di un assassino 1997), distanza 22. Candidati per somiglianza: [(0, 117, 'The Untouchables', '1987'), (25, 754, 'Face/Off', '1997'), (26, 59091, 'Mighty Ducks the Movie: The First Face-Off', '1997')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a The Untouchables (1987, id 117, dist 0) che a id assegnato 754 Face/Off - Due facce di un assassino (1997, dist 22). Candidati: [(0, 117, 'The Untouchables', '1987'), (25, 754, 'Face/Off', '1997'), (26, 59091, 'Mighty Ducks the Movie: The First Face-Off', '1997')]"
    ],
    [
     "DURATA",
@@ -2549,10 +2530,6 @@
    [
     "FOTO_CAST",
     "Paul Bettany: foto diversa da TMDB"
-   ],
-   [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 50839 (Margin Call 2011), distanza 22. Candidati per somiglianza: [(22, 50839, 'Margin Call', '2011')]"
    ]
   ],
   "src": {
@@ -2981,7 +2958,7 @@
      "John Rhys-Davies"
     ]
    },
-   "poster_dist": 1,
+   "poster_dist": 0,
    "imdb": {
     "year": 2002,
     "end": null,
@@ -3157,10 +3134,6 @@
    "tmdb": 7214
   },
   "flags": [
-   [
-    "FOTO_CAST",
-    "Samuel L. Jackson: foto diversa da TMDB"
-   ],
    [
     "DURATA",
     "Nostro 105 min; TMDB 136, IMDb 136"
@@ -3357,6 +3330,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "3 indizi concordi: l'id TMDB assegnato (308369) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'The Age of Adaline' ≠ TMDB 'Quel fantastico peggior anno della mia vita' / 'Me and Earl and the Dying Girl'"
    ],
@@ -3370,11 +3347,11 @@
    ],
    [
     "FOTO_CAST",
-    "Blake Lively: non nel cast TMDB; Michiel Huisman: non nel cast TMDB; Harrison Ford: non nel cast TMDB; Kathy Baker: non nel cast TMDB; Ellen Burstyn: non nel cast TMDB"
+    "Blake Lively: persona non nel cast TMDB; Michiel Huisman: persona non nel cast TMDB; Harrison Ford: persona non nel cast TMDB; Kathy Baker: persona non nel cast TMDB; Ellen Burstyn: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 308369 (Quel fantastico peggior anno della mia vita 2015), distanza 24. Candidati per somiglianza: [(16, 293863, 'The Age of Adaline', '2015'), (24, 308369, 'Me and Earl and the Dying Girl', '2015')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a The Age of Adaline (2015, id 293863, dist 16) che a id assegnato 308369 Quel fantastico peggior anno della mia vita (2015, dist 24). Candidati: [(16, 293863, 'The Age of Adaline', '2015'), (24, 308369, 'Me and Earl and the Dying Girl', '2015')]"
    ],
    [
     "DURATA",
@@ -3482,10 +3459,6 @@
    [
     "FOTO_CAST",
     "Frederic Forrest: foto diversa da TMDB; Dennis Hopper: foto diversa da TMDB"
-   ],
-   [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 28 (Apocalypse Now 1979), distanza 20. Candidati per somiglianza: [(20, 28, 'Apocalypse Now', '1979'), (24, 473073, 'Apocalypse Now Now', '2017'), (25, 276872, 'Zombie Apocalypse Now: A Zombie Hunter', '2008')]"
    ]
   ],
   "src": {
@@ -3536,6 +3509,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "4 indizi concordi: l'id TMDB assegnato (14574) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'Moon' ≠ TMDB 'Il bambino con il pigiama a righe' / 'The Boy in the Striped Pyjamas'"
    ],
@@ -3553,11 +3530,11 @@
    ],
    [
     "FOTO_CAST",
-    "Sam Rockwell: non nel cast TMDB; Kevin Spacey: non nel cast TMDB; Dominique McElligott: non nel cast TMDB; Kaya Scodelario: non nel cast TMDB; Benedict Wong: non nel cast TMDB"
+    "Sam Rockwell: persona non nel cast TMDB; Kevin Spacey: persona non nel cast TMDB; Dominique McElligott: persona non nel cast TMDB; Kaya Scodelario: persona non nel cast TMDB; Benedict Wong: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 14574 (Il bambino con il pigiama a righe 2008), distanza 26. Candidati per somiglianza: [(7, 17431, 'Moon', '2009'), (17, 466420, 'Killers of the Flower Moon', '2023'), (19, 10497, 'Bitter Moon', '1992')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Moon (2009, id 17431, dist 7) che a id assegnato 14574 Il bambino con il pigiama a righe (2008, dist 26). Candidati: [(7, 17431, 'Moon', '2009'), (17, 466420, 'Killers of the Flower Moon', '2023'), (19, 10497, 'Bitter Moon', '1992')]"
    ]
   ],
   "src": {
@@ -3609,16 +3586,12 @@
   },
   "flags": [
    [
-    "REGISTA",
-    "Nostro 'Woo Min-ho'; TMDB ['우민호']"
-   ],
-   [
     "CAST",
-    "Non nel cast TMDB (top25): ['Cho Seung-woo', 'Baek Yoon-sik', 'Lee Kyung-young', 'Kim Hong-pa']; TMDB top: ['Lee Byung-hun', '조승우', '백윤식', '이경영', '김홍파', '이엘']"
+    "Non nel cast TMDB (top25): ['Baek Yoon-sik']; TMDB top: ['Lee Byung-hun']"
    ],
    [
     "FOTO_CAST",
-    "Lee Byung-hun: foto diversa da TMDB; Cho Seung-woo: non nel cast TMDB; Baek Yoon-sik: non nel cast TMDB; Lee Kyung-young: non nel cast TMDB; Kim Hong-pa: non nel cast TMDB"
+    "Baek Yoon-sik: persona non nel cast TMDB"
    ]
   ],
   "src": {
@@ -3819,6 +3792,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "3 indizi concordi: l'id TMDB assegnato (15196) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "ANNO",
     "Nostro 1999; TMDB 1985"
    ],
@@ -3832,11 +3809,11 @@
    ],
    [
     "FOTO_CAST",
-    "John Cusack: non nel cast TMDB; Cameron Diaz: non nel cast TMDB; Catherine Keener: non nel cast TMDB; John Malkovich: non nel cast TMDB; Orson Bean: non nel cast TMDB"
+    "John Cusack: persona non nel cast TMDB; Cameron Diaz: persona non nel cast TMDB; Catherine Keener: persona non nel cast TMDB; John Malkovich: persona non nel cast TMDB; Orson Bean: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 15196 (Signori, il delitto è servito 1985), distanza 24. Candidati per somiglianza: [(3, 492, 'Being John Malkovich', '1999'), (22, 251990, 'No Clue', '2014'), (23, 26189, 'Get a Clue', '2002')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Being John Malkovich (1999, id 492, dist 3) che a id assegnato 15196 Signori, il delitto è servito (1985, dist 24). Candidati: [(3, 492, 'Being John Malkovich', '1999'), (22, 251990, 'No Clue', '2014'), (23, 26189, 'Get a Clue', '2002')]"
    ],
    [
     "DURATA",
@@ -3991,6 +3968,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "5 indizi concordi: l'id TMDB assegnato (576) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'Big Fish' ≠ TMDB 'Il mucchio selvaggio' / 'The Wild Bunch'"
    ],
@@ -4012,11 +3993,11 @@
    ],
    [
     "FOTO_CAST",
-    "Ewan McGregor: non nel cast TMDB; Albert Finney: non nel cast TMDB; Billy Crudup: non nel cast TMDB; Jessica Lange: non nel cast TMDB; Alison Lohman: non nel cast TMDB"
+    "Ewan McGregor: persona non nel cast TMDB; Albert Finney: persona non nel cast TMDB; Billy Crudup: persona non nel cast TMDB; Jessica Lange: persona non nel cast TMDB; Alison Lohman: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 576 (Il mucchio selvaggio 1969), distanza 24. Candidati per somiglianza: [(0, 587, 'Big Fish', '2003'), (24, 576, 'The Wild Bunch', '1969'), (25, 271706, 'Big Fish & Begonia', '2016')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Big Fish (2003, id 587, dist 0) che a id assegnato 576 Il mucchio selvaggio (1969, dist 24). Candidati: [(0, 587, 'Big Fish', '2003'), (24, 576, 'The Wild Bunch', '1969'), (25, 271706, 'Big Fish & Begonia', '2016')]"
    ],
    [
     "DURATA?",
@@ -4067,16 +4048,7 @@
    ],
    "tmdb": 666277
   },
-  "flags": [
-   [
-    "CAST",
-    "Non nel cast TMDB (top25): ['Teo Yoo']; TMDB top: ['Greta Lee', '태오', 'John Magaro', '문승아', '임승민', '윤지혜']"
-   ],
-   [
-    "FOTO_CAST",
-    "유태오: foto diversa da TMDB; 문승아: foto diversa da TMDB; Teo Yoo: non nel cast TMDB; Moon Seung-ah: non nel cast TMDB; Leem Seung-min: non nel cast TMDB"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "Past Lives",
@@ -4227,7 +4199,7 @@
   "flags": [
    [
     "FOTO_CAST",
-    "Samuel L. Jackson: foto diversa da TMDB; Uma Thurman: foto diversa da TMDB; Ving Rhames: foto diversa da TMDB"
+    "Uma Thurman: foto diversa da TMDB; Ving Rhames: foto diversa da TMDB"
    ]
   ],
   "src": {
@@ -4276,12 +4248,7 @@
    ],
    "tmdb": 890980
   },
-  "flags": [
-   [
-    "TITOLO",
-    "'God's Crooked Lines' ≠ TMDB 'Quando Dio imparò a scrivere' / 'Los renglones torcidos de Dios'"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "Quando Dio imparò a scrivere",
@@ -4331,7 +4298,7 @@
   "flags": [
    [
     "FOTO_CAST",
-    "Rebecca Ferguson: foto diversa da TMDB; Zendaya: foto diversa da TMDB"
+    "Rebecca Ferguson: foto diversa da TMDB"
    ]
   ],
   "src": {
@@ -4429,6 +4396,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "4 indizi concordi: l'id TMDB assegnato (109410) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'The Place Beyond the Pines' ≠ TMDB '42 - La vera storia di una leggenda americana' / '42'"
    ],
@@ -4446,11 +4417,11 @@
    ],
    [
     "FOTO_CAST",
-    "Ryan Gosling: non nel cast TMDB; Bradley Cooper: non nel cast TMDB; Eva Mendes: non nel cast TMDB; Rose Byrne: non nel cast TMDB; Dane DeHaan: non nel cast TMDB"
+    "Ryan Gosling: persona non nel cast TMDB; Bradley Cooper: persona non nel cast TMDB; Eva Mendes: persona non nel cast TMDB; Rose Byrne: persona non nel cast TMDB; Dane DeHaan: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 109410 (42 - La vera storia di una leggenda americana 2013), distanza 22. Candidati per somiglianza: [(1, 97367, 'The Place Beyond the Pines', '2013'), (22, 109410, '42', '2013'), (22, 1070319, 'From Hilde, with Love', '2024')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a The Place Beyond the Pines (2013, id 97367, dist 1) che a id assegnato 109410 42 - La vera storia di una leggenda americana (2013, dist 22). Candidati: [(1, 97367, 'The Place Beyond the Pines', '2013'), (22, 109410, '42', '2013'), (22, 1070319, 'From Hilde, with Love', '2024')]"
    ],
    [
     "DURATA",
@@ -4605,6 +4576,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "3 indizi concordi: l'id TMDB assegnato (359724) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "ANNO",
     "Nostro 2018; TMDB 2019"
    ],
@@ -4618,11 +4593,11 @@
    ],
    [
     "FOTO_CAST",
-    "Ryan Gosling: non nel cast TMDB; Claire Foy: non nel cast TMDB; Jason Clarke: non nel cast TMDB; Kyle Chandler: non nel cast TMDB; Corey Stoll: non nel cast TMDB"
+    "Ryan Gosling: persona non nel cast TMDB; Claire Foy: persona non nel cast TMDB; Jason Clarke: persona non nel cast TMDB; Kyle Chandler: persona non nel cast TMDB; Corey Stoll: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 359724 (Le Mans '66 - La grande sfida 2019), distanza 22. Candidati per somiglianza: [(0, 369972, 'First Man', '2018'), (22, 359724, 'Ford v Ferrari', '2019'), (24, 28955, 'First Man into Space', '1959')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a First Man (2018, id 369972, dist 2) che a id assegnato 359724 Le Mans '66 - La grande sfida (2019, dist 22). Candidati: [(2, 369972, 'First Man', '2018'), (22, 359724, 'Ford v Ferrari', '2019'), (24, 28955, 'First Man into Space', '1959')]"
    ],
    [
     "DURATA",
@@ -4727,6 +4702,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "5 indizi concordi: l'id TMDB assegnato (60308) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'21 Jump Street' ≠ TMDB 'L'arte di vincere' / 'Moneyball'"
    ],
@@ -4748,11 +4727,11 @@
    ],
    [
     "FOTO_CAST",
-    "Channing Tatum: non nel cast TMDB; Brie Larson: non nel cast TMDB; Dave Franco: non nel cast TMDB; Ice Cube: non nel cast TMDB"
+    "Channing Tatum: persona non nel cast TMDB; Brie Larson: persona non nel cast TMDB; Dave Franco: persona non nel cast TMDB; Ice Cube: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 60308 (L'arte di vincere 2011), distanza 18. Candidati per somiglianza: [(0, 64688, '21 Jump Street', '2012'), (29, 60308, 'Moneyball', '2011'), (30, 1599042, 'The Rise: The New MoneyBall', '2025')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a 21 Jump Street (2012, id 64688, dist 0) che a id assegnato 60308 L'arte di vincere (2011, dist 18). Candidati: [(0, 64688, '21 Jump Street', '2012'), (29, 60308, 'Moneyball', '2011'), (30, 1599042, 'The Rise: The New MoneyBall', '2025')]"
    ],
    [
     "DURATA?",
@@ -4802,20 +4781,7 @@
    ],
    "tmdb": 16664
   },
-  "flags": [
-   [
-    "REGISTA",
-    "Nostro 'Shunji Iwai'; TMDB ['岩井俊二']"
-   ],
-   [
-    "CAST",
-    "Non nel cast TMDB (top25): ['Hayato Ichihara', 'Shugo Oshinari', 'Yu Aoi', 'Ayumi Ito', 'Issey Takahashi']; TMDB top: ['市原隼人', '忍成修吾', '蒼井優', '伊藤歩', '高橋一生', '勝地涼']"
-   ],
-   [
-    "FOTO_CAST",
-    "Hayato Ichihara: non nel cast TMDB; Shugo Oshinari: non nel cast TMDB; Yu Aoi: non nel cast TMDB; Ayumi Ito: non nel cast TMDB; Issey Takahashi: non nel cast TMDB"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "All About Lily Chou-Chou",
@@ -4865,11 +4831,11 @@
   "flags": [
    [
     "CAST",
-    "Non nel cast TMDB (top25): ['Tatsuya Fujiwara', 'Aki Maeda', 'Taro Yamamoto', 'Chiaki Kuriyama']; TMDB top: ['藤原竜也', '前田亜季', 'Takeshi Kitano', '山本太郎', 'Masanobu Ando', '柴咲コウ']"
+    "Non nel cast TMDB (top25): ['Tatsuya Fujiwara']; TMDB top: ['Takeshi Kitano', 'Masanobu Ando', 'Hirohito Honda', 'Ryou Nitta', 'Sayaka Ikeda', 'Yukari Kanasawa']"
    ],
    [
     "FOTO_CAST",
-    "Tatsuya Fujiwara: non nel cast TMDB; Aki Maeda: non nel cast TMDB; Taro Yamamoto: non nel cast TMDB; Chiaki Kuriyama: non nel cast TMDB"
+    "Tatsuya Fujiwara: persona non nel cast TMDB"
    ]
   ],
   "src": {
@@ -5020,8 +4986,8 @@
   },
   "flags": [
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 158011 (The Call 2013), distanza 26. Candidati per somiglianza: [(3, 575604, 'The Call', '2020'), (21, 9694, 'One Missed Call', '2003'), (23, 481848, 'The Call of the Wild', '2020')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a The Call (2020, id 575604, dist 3) che a id assegnato 158011 The Call (2013, dist 26). Candidati: [(3, 575604, 'The Call', '2020'), (19, 20981, 'The Call of Cthulhu', '2006'), (21, 9694, 'One Missed Call', '2003')]"
    ]
   ],
   "src": {
@@ -5069,20 +5035,7 @@
    ],
    "tmdb": 13855
   },
-  "flags": [
-   [
-    "REGISTA",
-    "Nostro 'Na Hong-jin'; TMDB ['나홍진']"
-   ],
-   [
-    "CAST",
-    "Non nel cast TMDB (top25): ['Kim Yun-seok', 'Seo Young-hee', 'Kim You-jung', 'Jung In-gi']; TMDB top: ['김윤석', 'Ha Jung-woo', '서영희', '김유정', '정인기', '최정우']"
-   ],
-   [
-    "FOTO_CAST",
-    "Seo Young-hee: non nel cast TMDB; Kim You-jung: non nel cast TMDB; Jung In-gi: non nel cast TMDB; Kim Yun-seok: non nel cast TMDB"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "The Chaser",
@@ -5180,7 +5133,7 @@
   "flags": [
    [
     "ID_TMDB_NON_VALIDO",
-    "id 1030 non esiste"
+    "id 1030 non esiste; candidati ricerca: [(521, 'Il delitto perfetto', '1954')]"
    ]
   ],
   "src": {}
@@ -5200,12 +5153,7 @@
    ],
    "tmdb": 9366
   },
-  "flags": [
-   [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 9366 (Donnie Brasco 1997), distanza 17. Candidati per somiglianza: [(17, 9366, 'Donnie Brasco', '1997')]"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "Donnie Brasco",
@@ -5604,7 +5552,7 @@
   "flags": [
    [
     "ID_TMDB_NON_VALIDO",
-    "id 113705 non esiste"
+    "id 113705 non esiste; candidati ricerca: [(152601, 'Lei', '2013'), (227200, 'Barbie e il cavallo leggendario', '2013'), (66113, 'In Her Skin', '2009')]"
    ]
   ],
   "src": {}
@@ -5671,6 +5619,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "4 indizi concordi: l'id TMDB assegnato (1997) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'Into the Wild' ≠ TMDB 'Due fratelli' / 'Deux Frères'"
    ],
@@ -5688,11 +5640,11 @@
    ],
    [
     "FOTO_CAST",
-    "Emile Hirsch: non nel cast TMDB; Marcia Gay Harden: non nel cast TMDB; William Hurt: non nel cast TMDB; Jena Malone: non nel cast TMDB; Catherine Keener: non nel cast TMDB"
+    "Emile Hirsch: persona non nel cast TMDB; Marcia Gay Harden: persona non nel cast TMDB; William Hurt: persona non nel cast TMDB; Jena Malone: persona non nel cast TMDB; Catherine Keener: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 1997 (Due fratelli 2004), distanza 26. Candidati per somiglianza: [(1, 5915, 'Into the Wild', '2007'), (24, 185151, 'Gun Brothers', '1956'), (24, 926889, 'Mother and Son', '2022')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Into the Wild (2007, id 5915, dist 1) che a id assegnato 1997 Due fratelli (2004, dist 26). Candidati: [(1, 5915, 'Into the Wild', '2007'), (24, 15060, 'Futurama: Into the Wild Green Yonder', '2009'), (24, 185151, 'Gun Brothers', '1956')]"
    ],
    [
     "DURATA",
@@ -5852,6 +5804,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "4 indizi concordi: l'id TMDB assegnato (615457) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'Minari' ≠ TMDB 'Io sono nessuno' / 'Nobody'"
    ],
@@ -5860,12 +5816,8 @@
     "Nostro 2020; TMDB 2021"
    ],
    [
-    "REGISTA",
-    "Nostro 'Lee Isaac Chung'; TMDB ['Илья Найшуллер']"
-   ],
-   [
     "CAST",
-    "Non nel cast TMDB (top25): ['Steven Yeun', 'Yeri Han', 'Youn Yuh-jung', 'Alan S. Kim', 'Will Patton']; TMDB top: ['Bob Odenkirk', 'Алексей Серебряков', 'Connie Nielsen', 'Christopher Lloyd', 'Michael Ironside', 'Colin Salmon']"
+    "Non nel cast TMDB (top25): ['Steven Yeun', 'Yeri Han', 'Youn Yuh-jung', 'Alan S. Kim', 'Will Patton']; TMDB top: ['Bob Odenkirk', 'Connie Nielsen', 'Christopher Lloyd', 'Michael Ironside', 'Colin Salmon', 'RZA']"
    ],
    [
     "GENERI",
@@ -5873,11 +5825,11 @@
    ],
    [
     "FOTO_CAST",
-    "Steven Yeun: non nel cast TMDB; Youn Yuh-jung: non nel cast TMDB; Will Patton: non nel cast TMDB; Alan S. Kim: non nel cast TMDB; Yeri Han: non nel cast TMDB"
+    "Steven Yeun: persona non nel cast TMDB; Youn Yuh-jung: persona non nel cast TMDB; Will Patton: persona non nel cast TMDB; Alan S. Kim: persona non nel cast TMDB; Yeri Han: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 615457 (Io sono nessuno 2021), distanza 22. Candidati per somiglianza: [(2, 615643, 'Minari', '2021'), (19, 1304434, 'Nobody', '2025'), (22, 15575, 'Bleach the Movie: Memories of Nobody', '2006')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Minari (2021, id 615643, dist 2) che a id assegnato 615457 Io sono nessuno (2021, dist 22). Candidati: [(2, 615643, 'Minari', '2021'), (19, 1304434, 'Nobody', '2025'), (22, 31011, 'Mr. Nobody', '2009')]"
    ],
    [
     "DURATA",
@@ -5930,12 +5882,7 @@
    ],
    "tmdb": 9631
   },
-  "flags": [
-   [
-    "FOTO_CAST",
-    "Samuel L. Jackson: foto diversa da TMDB"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "Il negoziatore",
@@ -6084,6 +6031,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "4 indizi concordi: l'id TMDB assegnato (234) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'Persona' ≠ TMDB 'Il gabinetto del Dr. Caligari' / 'Das Cabinet des Dr. Caligari'"
    ],
@@ -6101,11 +6052,11 @@
    ],
    [
     "FOTO_CAST",
-    "Bibi Andersson: non nel cast TMDB; Liv Ullmann: non nel cast TMDB; Margaretha Krook: non nel cast TMDB; Gunnar Björnstrand: non nel cast TMDB; Jörgen Lindström: non nel cast TMDB"
+    "Bibi Andersson: persona non nel cast TMDB; Liv Ullmann: persona non nel cast TMDB; Margaretha Krook: persona non nel cast TMDB; Gunnar Björnstrand: persona non nel cast TMDB; Jörgen Lindström: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 234 (Il gabinetto del Dr. Caligari 1920), distanza 23. Candidati per somiglianza: [(11, 797, 'Persona', '1966'), (23, 234, 'The Cabinet of Dr. Caligari', '1920'), (23, 109133, 'The Cabinet of Caligari', '1962')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Persona (1966, id 797, dist 11) che a id assegnato 234 Il gabinetto del Dr. Caligari (1920, dist 23). Candidati: [(11, 797, 'Persona', '1966'), (23, 234, 'The Cabinet of Dr. Caligari', '1920'), (23, 109133, 'The Cabinet of Caligari', '1962')]"
    ],
    [
     "DURATA?",
@@ -6162,10 +6113,6 @@
   },
   "flags": [
    [
-    "TITOLO",
-    "'Portrait of a Lady on Fire' ≠ TMDB 'Ritratto della giovane in fiamme' / 'Portrait de la jeune fille en feu'"
-   ],
-   [
     "FOTO_CAST",
     "Luàna Bajrami: foto diversa da TMDB"
    ]
@@ -6217,6 +6164,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "4 indizi concordi: l'id TMDB assegnato (701) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'Rear Window' ≠ TMDB 'Accidenti, che ospitalità!' / 'Our Hospitality'"
    ],
@@ -6234,11 +6185,11 @@
    ],
    [
     "FOTO_CAST",
-    "James Stewart: non nel cast TMDB; Grace Kelly: non nel cast TMDB; Raymond Burr: non nel cast TMDB; Wendell Corey: non nel cast TMDB; Thelma Ritter: non nel cast TMDB"
+    "James Stewart: persona non nel cast TMDB; Grace Kelly: persona non nel cast TMDB; Raymond Burr: persona non nel cast TMDB; Wendell Corey: persona non nel cast TMDB; Thelma Ritter: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 701 (Accidenti, che ospitalità! 1923), distanza 22. Candidati per somiglianza: [(0, 567, 'Rear Window', '1954'), (21, 646216, \"Screenwriter John Michael Hayes on 'Rear Window'\", '2001'), (22, 11603, 'Rear Window', '1998')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Rear Window (1954, id 567, dist 0) che a id assegnato 701 Accidenti, che ospitalità! (1923, dist 22). Candidati: [(0, 567, 'Rear Window', '1954'), (21, 646216, \"Screenwriter John Michael Hayes on 'Rear Window'\", '2001'), (22, 11603, 'Rear Window', '1998')]"
    ],
    [
     "DURATA?",
@@ -6340,7 +6291,7 @@
   "flags": [
    [
     "ID_TMDB_NON_VALIDO",
-    "id 8955 non esiste"
+    "id 8955 non esiste; candidati ricerca: [(2675, 'Signs', '2002'), (143365, 'Signs - A Warning', '2002'), (276914, 'Ultimate Crop Circles: Signs from Space', '2002')]"
    ]
   ],
   "src": {}
@@ -6359,16 +6310,7 @@
    ],
    "tmdb": 1398
   },
-  "flags": [
-   [
-    "CAST",
-    "Non nel cast TMDB (top25): ['Alisa Freyndlikh', 'Aleksandr Kaydanovskiy', 'Anatoliy Solonitsyn', 'Mykola Hrynko']; TMDB top: ['Алиса Фрейндлих', 'Александр Кайдановский', 'Анатолий Солоницын', 'Микола Гринько', 'Natalya Abramova', 'Faime Jürno']"
-   ],
-   [
-    "FOTO_CAST",
-    "Alisa Freyndlikh: non nel cast TMDB; Aleksandr Kaydanovskiy: non nel cast TMDB; Anatoliy Solonitsyn: non nel cast TMDB; Mykola Hrynko: non nel cast TMDB"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "Stalker",
@@ -6416,6 +6358,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "5 indizi concordi: l'id TMDB assegnato (1858) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'The Tree of Life' ≠ TMDB 'Transformers' / 'Transformers'"
    ],
@@ -6437,11 +6383,11 @@
    ],
    [
     "FOTO_CAST",
-    "Brad Pitt: non nel cast TMDB; Sean Penn: non nel cast TMDB; Jessica Chastain: non nel cast TMDB; Hunter McCracken: non nel cast TMDB; Fiona Shaw: non nel cast TMDB"
+    "Brad Pitt: persona non nel cast TMDB; Sean Penn: persona non nel cast TMDB; Jessica Chastain: persona non nel cast TMDB; Hunter McCracken: persona non nel cast TMDB; Fiona Shaw: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 1858 (Transformers 2007), distanza 24. Candidati per somiglianza: [(1, 8967, 'The Tree of Life', '2011'), (21, 335988, 'Transformers: The Last Knight', '2017'), (21, 698687, 'Transformers One', '2024')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a The Tree of Life (2011, id 8967, dist 1) che a id assegnato 1858 Transformers (2007, dist 24). Candidati: [(1, 8967, 'The Tree of Life', '2011'), (21, 335988, 'Transformers: The Last Knight', '2017'), (21, 698687, 'Transformers One', '2024')]"
    ],
    [
     "DURATA",
@@ -6497,6 +6443,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "4 indizi concordi: l'id TMDB assegnato (2661) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "ANNO",
     "Nostro 2000; TMDB 1966"
    ],
@@ -6514,11 +6464,11 @@
    ],
    [
     "FOTO_CAST",
-    "Bruce Willis: non nel cast TMDB; Samuel L. Jackson: non nel cast TMDB; Robin Wright: non nel cast TMDB; Spencer Treat Clark: non nel cast TMDB; Charlayne Woodard: non nel cast TMDB"
+    "Bruce Willis: persona non nel cast TMDB; Samuel L. Jackson: persona non nel cast TMDB; Robin Wright: persona non nel cast TMDB; Spencer Treat Clark: persona non nel cast TMDB; Charlayne Woodard: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 2661 (Batman - Il Film 1966), distanza 20. Candidati per somiglianza: [(1, 9741, 'Unbreakable', '2000'), (14, 64202, 'Batman Beyond: The Movie', '1999'), (20, 2661, 'Batman', '1966')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Unbreakable (2000, id 9741, dist 1) che a id assegnato 2661 Batman - Il Film (1966, dist 20). Candidati: [(1, 9741, 'Unbreakable', '2000'), (14, 64202, 'Batman Beyond: The Movie', '1999'), (20, 2661, 'Batman', '1966')]"
    ]
   ],
   "src": {
@@ -6671,10 +6621,6 @@
   },
   "flags": [
    [
-    "TITOLO",
-    "'The Invisible Guest' ≠ TMDB 'Contrattempo' / 'Contratiempo'"
-   ],
-   [
     "ANNO",
     "Nostro 2016; TMDB 2017"
    ],
@@ -6707,7 +6653,7 @@
      "Paco Tous"
     ]
    },
-   "poster_dist": 1,
+   "poster_dist": 2,
    "imdb": {
     "year": 2016,
     "end": null,
@@ -6732,12 +6678,16 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "2 indizi concordi: l'id TMDB assegnato (1923) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'Twin Peaks' ≠ TMDB 'Twin Peaks: Fuoco cammina con me' / 'Twin Peaks: Fire Walk with Me'"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 1923 (Twin Peaks: Fuoco cammina con me 1992), distanza 22. Candidati per somiglianza: [(1, 452522, 'Twin Peaks', '1989'), (22, 885200, 'Twin Peaks: Visual Soundtrack', '1992'), (23, 1923, 'Twin Peaks: Fire Walk with Me', '1992')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Twin Peaks (1989, id 452522, dist 1) che a id assegnato 1923 Twin Peaks: Fuoco cammina con me (1992, dist 22). Candidati: [(1, 452522, 'Twin Peaks', '1989'), (23, 1923, 'Twin Peaks: Fire Walk with Me', '1992'), (23, 569865, \"Return to 'Twin Peaks'\", '2007')]"
    ]
   ],
   "src": {
@@ -6835,12 +6785,7 @@
    ],
    "tmdb": 9411
   },
-  "flags": [
-   [
-    "FOTO_CAST",
-    "Donald Sutherland: foto diversa da TMDB"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "Il tocco del male",
@@ -6911,7 +6856,7 @@
      "Ahna O'Reilly"
     ]
    },
-   "poster_dist": 4,
+   "poster_dist": 2,
    "imdb": {
     "year": 2013,
     "end": null,
@@ -6956,7 +6901,7 @@
      "Dylan McDermott"
     ]
    },
-   "poster_dist": 1,
+   "poster_dist": 0,
    "imdb": {
     "year": 2012,
     "end": null,
@@ -7009,7 +6954,7 @@
      "Jeremy Bobb"
     ]
    },
-   "poster_dist": 1,
+   "poster_dist": 0,
    "imdb": {
     "year": 2018,
     "end": null,
@@ -7034,6 +6979,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "4 indizi concordi: l'id TMDB assegnato (601) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'Vanilla Sky' ≠ TMDB 'E.T. l'extra-terrestre' / 'E.T. the Extra-Terrestrial'"
    ],
@@ -7051,11 +7000,11 @@
    ],
    [
     "FOTO_CAST",
-    "Tom Cruise: non nel cast TMDB; Penélope Cruz: non nel cast TMDB; Cameron Diaz: non nel cast TMDB; Kurt Russell: non nel cast TMDB; Jason Lee: non nel cast TMDB"
+    "Tom Cruise: persona non nel cast TMDB; Penélope Cruz: persona non nel cast TMDB; Cameron Diaz: persona non nel cast TMDB; Kurt Russell: persona non nel cast TMDB; Jason Lee: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 601 (E.T. l'extra-terrestre 1982), distanza 27. Candidati per somiglianza: [(10, 1903, 'Vanilla Sky', '2001'), (24, 819513, 'E.T. the Extra-Terrestrial 20th Anniversary Special', '2002'), (25, 1500088, 'Vanilla Sky Habibi', '2025')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Vanilla Sky (2001, id 1903, dist 10) che a id assegnato 601 E.T. l'extra-terrestre (1982, dist 27). Candidati: [(10, 1903, 'Vanilla Sky', '2001'), (24, 819513, 'E.T. the Extra-Terrestrial 20th Anniversary Special', '2002'), (25, 1500088, 'Vanilla Sky Habibi', '2025')]"
    ],
    [
     "DURATA",
@@ -7160,6 +7109,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "2 indizi concordi: l'id TMDB assegnato (391713) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "REGISTA",
     "Nostro 'Taylor Sheridan'; TMDB ['Greta Gerwig']"
    ],
@@ -7169,11 +7122,11 @@
    ],
    [
     "FOTO_CAST",
-    "Jeremy Renner: non nel cast TMDB; Elizabeth Olsen: non nel cast TMDB; Gil Birmingham: non nel cast TMDB; Jon Bernthal: non nel cast TMDB; Graham Greene: non nel cast TMDB"
+    "Jeremy Renner: persona non nel cast TMDB; Elizabeth Olsen: persona non nel cast TMDB; Gil Birmingham: persona non nel cast TMDB; Jon Bernthal: persona non nel cast TMDB; Graham Greene: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 391713 (Lady Bird 2017), distanza 22. Candidati per somiglianza: [(2, 395834, 'Wind River', '2017'), (19, 1232846, 'Bird Lady', '2021'), (22, 391713, 'Lady Bird', '2017')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Wind River (2017, id 395834, dist 2) che a id assegnato 391713 Lady Bird (2017, dist 22). Candidati: [(2, 395834, 'Wind River', '2017'), (19, 1232846, 'Bird Lady', '2021'), (22, 391713, 'Lady Bird', '2017')]"
    ],
    [
     "DURATA",
@@ -7227,6 +7180,10 @@
   },
   "flags": [
    [
+    "ID_TMDB_SOSPETTO",
+    "3 indizi concordi: l'id TMDB assegnato (9573) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
     "TITOLO",
     "'Equilibrium' ≠ TMDB 'Debito di sangue' / 'Blood Work'"
    ],
@@ -7240,11 +7197,11 @@
    ],
    [
     "FOTO_CAST",
-    "Christian Bale: non nel cast TMDB; Emily Watson: non nel cast TMDB; Taye Diggs: non nel cast TMDB; Sean Bean: non nel cast TMDB; Angus Macfadyen: non nel cast TMDB"
+    "Christian Bale: persona non nel cast TMDB; Emily Watson: persona non nel cast TMDB; Taye Diggs: persona non nel cast TMDB; Sean Bean: persona non nel cast TMDB; Angus Macfadyen: persona non nel cast TMDB"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 9573 (Debito di sangue 2002), distanza 23. Candidati per somiglianza: [(1, 7299, 'Equilibrium', '2002'), (23, 9573, 'Blood Work', '2002'), (24, 248223, 'Dark World: Equilibrium', '2013')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Equilibrium (2002, id 7299, dist 1) che a id assegnato 9573 Debito di sangue (2002, dist 23). Candidati: [(1, 7299, 'Equilibrium', '2002'), (23, 9573, 'Blood Work', '2002'), (24, 256740, 'Wicked Blood', '2014')]"
    ]
   ],
   "src": {
@@ -7456,7 +7413,7 @@
    ],
    [
     "FOTO_CAST",
-    "Zendaya: foto diversa da TMDB; Florence Pugh: foto diversa da TMDB; Austin Butler: non nel cast TMDB"
+    "Zendaya: foto diversa da TMDB; Florence Pugh: foto diversa da TMDB; Austin Butler: persona non nel cast TMDB"
    ]
   ],
   "src": {
@@ -7552,20 +7509,7 @@
    ],
    "tmdb": 575813
   },
-  "flags": [
-   [
-    "REGISTA",
-    "Nostro 'Derek Tsang'; TMDB ['曾国祥']"
-   ],
-   [
-    "CAST",
-    "Non nel cast TMDB (top25): ['Zhou Dongyu', 'Jackson Yee', 'Yin Fang', 'Huang Jue', 'Wu Yue']; TMDB top: ['周冬雨', '易烊千玺', '尹昉', '黄觉', '吴越', 'Zhou Ye']"
-   ],
-   [
-    "FOTO_CAST",
-    "Zhou Dongyu: non nel cast TMDB; Jackson Yee: non nel cast TMDB; Yin Fang: non nel cast TMDB; Huang Jue: non nel cast TMDB; Wu Yue: non nel cast TMDB"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "title": "Better Days",
@@ -7815,7 +7759,7 @@
   "flags": [
    [
     "FOTO_CAST",
-    "Tom Holland: foto diversa da TMDB; Samuel L. Jackson: foto diversa da TMDB; Zendaya: foto diversa da TMDB"
+    "Tom Holland: foto diversa da TMDB; Zendaya: foto diversa da TMDB"
    ]
   ],
   "src": {
@@ -7994,7 +7938,7 @@
      "David Prowse"
     ]
    },
-   "poster_dist": 12,
+   "poster_dist": 13,
    "imdb": {
     "year": 1980,
     "end": null,
