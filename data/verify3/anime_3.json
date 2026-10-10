@@ -1,0 +1,1175 @@
+[
+ {
+  "id": "a4",
+  "title": "A Silent Voice",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 1,
+   "duration": 130
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Koe no Katachi",
+    "eps": 1,
+    "duration": 130,
+    "year": 2016,
+    "status": "FINISHED",
+    "mal": 28851
+   }
+  }
+ },
+ {
+  "id": "a8",
+  "title": "Vinland Saga",
+  "ours": {
+   "totalEps": 48,
+   "epsWatched": 48,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Thorfinn', 'Arnheid', 'Gudrid', 'Sverkel']. AniList main: ['Thorfinn Karlsefni', 'Askeladd', 'Canute Svenson']"
+   ],
+   [
+    "FOTO_PERSONAGGIO",
+    "Thors (foto di AniList id 13021, personaggio id 10138)"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Einar']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "VINLAND SAGA",
+    "eps": 24,
+    "duration": 24,
+    "year": 2019,
+    "status": "FINISHED",
+    "mal": 37521
+   },
+   "catena": [
+    "VINLAND SAGA (TV,2019,24 ep)",
+    "VINLAND SAGA SEASON 2 (TV,2023,24 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a12",
+  "title": "Parasyte",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 24,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: [\"Shinichi's madre\"]. AniList main: ['Shinichi Izumi', 'Migi']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Kiseijuu: Sei no Kakuritsu",
+    "eps": 24,
+    "duration": 24,
+    "year": 2014,
+    "status": "FINISHED",
+    "mal": 22535
+   }
+  }
+ },
+ {
+  "id": "a16",
+  "title": "Death Note",
+  "ours": {
+   "totalEps": 37,
+   "epsWatched": 37,
+   "duration": 23
+  },
+  "flags": [
+   [
+    "FOTO_PERSONAGGIO",
+    "L (foto di AniList id 71, personaggio id 36309); Soichiro Yagami (foto di AniList id 80, personaggio id 1927)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "DEATH NOTE",
+    "eps": 37,
+    "duration": 23,
+    "year": 2006,
+    "status": "FINISHED",
+    "mal": 1535
+   }
+  }
+ },
+ {
+  "id": "a20",
+  "title": "Cyberpunk: Edgerunners",
+  "ours": {
+   "totalEps": 10,
+   "epsWatched": 10,
+   "duration": 25
+  },
+  "flags": [
+   [
+    "STUDIO",
+    "Nostri ['Studio Trigger']; AniList ['TRIGGER']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Cyberpunk: Edgerunners",
+    "eps": 10,
+    "duration": 24,
+    "year": 2022,
+    "status": "FINISHED",
+    "mal": 42310
+   }
+  }
+ },
+ {
+  "id": "a24",
+  "title": "Love is War",
+  "ours": {
+   "totalEps": 40,
+   "epsWatched": 37,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Completato ma visti 37/40"
+   ],
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(2019, 12), (2020, 12), (2022, 13)] (tot 37); AniList catena TV: [(2019, 12), (2020, 12), (2022, 13), (2023, 4)] (tot 41)"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Nagisa Kaguya (madre)']. AniList main: ['Kaguya Shinomiya', 'Chika Fujiwara', 'Yuu Ishigami', 'Miyuki Shirogane']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+    "eps": 12,
+    "duration": 24,
+    "year": 2019,
+    "status": "FINISHED",
+    "mal": 37999
+   },
+   "catena": [
+    "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen (TV,2019,12 ep)",
+    "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen (TV,2020,12 ep)",
+    "Kaguya-sama wa Kokurasetai: Ultra Romantic (TV,2022,13 ep)",
+    "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai (TV,2023,4 ep)",
+    "Kaguya-sama wa Kokurasetai: Otona e no Kaidan (SPECIAL,2025,2 ep)",
+    "Kaguya-sama wa Kokurasetai: Kanketsu-hen (MOVIE,None,1 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a28",
+  "title": "Classroom of the Elite",
+  "ours": {
+   "totalEps": 54,
+   "epsWatched": 24,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Completato ma visti 24/54"
+   ],
+   [
+    "NUMERO_STAGIONI",
+    "Nostre 4 stagioni TV; AniList 5: [(2017, 12), (2022, 13), (2024, 13), (2026, 16), (None, None)]"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+    "eps": 12,
+    "duration": 24,
+    "year": 2017,
+    "status": "FINISHED",
+    "mal": 35507
+   },
+   "catena": [
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV,2017,12 ep)",
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season (TV,2022,13 ep)",
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season (TV,2024,13 ep)",
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki (TV,2026,16 ep)",
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season (TV,None,None ep)"
+   ]
+  }
+ },
+ {
+  "id": "a32",
+  "title": "Solo Leveling",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Thomas Andre', 'Liu Zhigang', 'Christopher Reed', 'Beru']. AniList main: ['Jin-U Seong']"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Sung Jinwoo', 'Go Gunhee', 'Woo Jinchul', 'Yoo Jinho', 'Baek Yoonho', 'Sung Jinah', 'Sung Il-Hwan']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Ore dake Level Up na Ken",
+    "eps": 12,
+    "duration": 24,
+    "year": 2024,
+    "status": "FINISHED",
+    "mal": 52299
+   }
+  }
+ },
+ {
+  "id": "a36",
+  "title": "Dororo",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 24,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Tahomaru']. AniList main: ['Hyakkimaru', 'Dororo']"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Nui no Kata', 'Itachi']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Dororo",
+    "eps": 24,
+    "duration": 24,
+    "year": 2019,
+    "status": "FINISHED",
+    "mal": 37520
+   }
+  }
+ },
+ {
+  "id": "a40",
+  "title": "Grand Blue",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Motoharu Kotobuki']. AniList main: ['Chisa Kotegawa', 'Iori Kitahara', 'Kouhei Imamura', 'Aina Yoshiwara']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Grand Blue",
+    "eps": 12,
+    "duration": 24,
+    "year": 2018,
+    "status": "FINISHED",
+    "mal": 37105
+   }
+  }
+ },
+ {
+  "id": "a44",
+  "title": "Ao Haru Ride",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Aya Murao']. AniList main: ['Kou Mabuchi', 'Futaba Yoshioka']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Ao Haru Ride",
+    "eps": 12,
+    "duration": 23,
+    "year": 2014,
+    "status": "FINISHED",
+    "mal": 21995
+   }
+  }
+ },
+ {
+  "id": "a48",
+  "title": "Josee to Tora to Sakana-tachi",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 1,
+   "duration": 98
+  },
+  "flags": [
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 33): verificare a vista"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Mai']. AniList main: ['Josee', 'Tsuneo Suzukawa']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Josee to Tora to Sakanatachi",
+    "eps": 1,
+    "duration": 98,
+    "year": 2020,
+    "status": "FINISHED",
+    "mal": 40787
+   }
+  }
+ },
+ {
+  "id": "a52",
+  "title": "Anohana",
+  "ours": {
+   "totalEps": 11,
+   "epsWatched": 11,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Anohana' ≠ AniList 'Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.' / 'Anohana: The Flower We Saw That Day' (MAL 9989)"
+   ],
+   [
+    "CREATORI",
+    "Nostri ['Mari Okada']; AniList staff ['Chouheiwa Busters', 'Tatsuyuki Nagai', 'Masayoshi Tanaka', 'Yukie Hiyamizu', 'Kaori Kuroki', 'Takayoshi Fukushima']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+    "eps": 11,
+    "duration": 22,
+    "year": 2011,
+    "status": "FINISHED",
+    "mal": 9989
+   }
+  }
+ },
+ {
+  "id": "a56",
+  "title": "Howl's Moving Castle",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 1,
+   "duration": 119
+  },
+  "flags": [
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 32): verificare a vista"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Strega delle Lande', 'Principe Justin']. AniList main: ['Howl', 'Sophie Hatter']"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Sophie Hatter', 'Howl', 'Calcifer', 'Markl', 'Madame Suliman']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Howl no Ugoku Shiro",
+    "eps": 1,
+    "duration": 119,
+    "year": 2004,
+    "status": "FINISHED",
+    "mal": 431
+   }
+  }
+ },
+ {
+  "id": "a60",
+  "title": "Odd Taxi",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 13,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Odokawa']. AniList main: ['Hiroshi Odokawa']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Odd Taxi",
+    "eps": 13,
+    "duration": 24,
+    "year": 2021,
+    "status": "FINISHED",
+    "mal": 46102
+   }
+  }
+ },
+ {
+  "id": "a64",
+  "title": "Evangelion",
+  "ours": {
+   "totalEps": 26,
+   "epsWatched": 26,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 34): verificare a vista"
+   ],
+   [
+    "FOTO_PERSONAGGIO",
+    "Gendo Ikari (foto di AniList id 89, personaggio id 1257)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Shin Seiki Evangelion",
+    "eps": 26,
+    "duration": 24,
+    "year": 1995,
+    "status": "FINISHED",
+    "mal": 30
+   }
+  }
+ },
+ {
+  "id": "a68",
+  "title": "Garden of Words",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 1,
+   "duration": 46
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Kotonoha no Niwa",
+    "eps": 1,
+    "duration": 46,
+    "year": 2013,
+    "status": "FINISHED",
+    "mal": 16782
+   }
+  }
+ },
+ {
+  "id": "a72",
+  "title": "Shinsekai Yori",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 8,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Shinsekai yori",
+    "eps": 25,
+    "duration": 23,
+    "year": 2012,
+    "status": "FINISHED",
+    "mal": 13125
+   }
+  }
+ },
+ {
+  "id": "a76",
+  "title": "5-toubun no Hanayome",
+  "ours": {
+   "totalEps": 26,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Go-toubun no Hanayome",
+    "eps": 12,
+    "duration": 24,
+    "year": 2019,
+    "status": "FINISHED",
+    "mal": 38101
+   }
+  }
+ },
+ {
+  "id": "a80",
+  "title": "Ao no Exorcist",
+  "ours": {
+   "totalEps": 73,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "NUMERO_STAGIONI",
+    "Nostre 4 stagioni TV; AniList 5: [(2011, 25), (2017, 12), (2024, 12), (2024, 12), (2025, 12)]"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Ao no Exorcist",
+    "eps": 25,
+    "duration": 24,
+    "year": 2011,
+    "status": "FINISHED",
+    "mal": 9919
+   },
+   "catena": [
+    "Ao no Exorcist (TV,2011,25 ep)",
+    "Ao no Exorcist: Kyoto Fujouou-hen (TV,2017,12 ep)",
+    "Ao no Exorcist: Shimane Illuminati-hen (TV,2024,12 ep)",
+    "Ao no Exorcist: Yuki no Hate-hen (TV,2024,12 ep)",
+    "Ao no Exorcist: Yosuga-hen (TV,2025,12 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a84",
+  "title": "Bakemonogatari",
+  "ours": {
+   "totalEps": 15,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Bakemonogatari",
+    "eps": 15,
+    "duration": 24,
+    "year": 2009,
+    "status": "FINISHED",
+    "mal": 5081
+   }
+  }
+ },
+ {
+  "id": "a88",
+  "title": "Boruto",
+  "ours": {
+   "totalEps": 293,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Boruto' ≠ AniList 'BORUTO: NARUTO NEXT GENERATIONS' / 'Boruto: Naruto Next Generations' (MAL 34566)"
+   ],
+   [
+    "CREATORI",
+    "Nostri ['Masashi Kishimoto']; AniList staff ['Ukyou Kodachi', 'Mikio Ikemoto', 'Noriyuki Abe', 'Hiroyuki Yamashita', 'Toshirou Fujii', 'Masayuki Kouda']"
+   ],
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 31): verificare a vista"
+   ],
+   [
+    "FOTO_PERSONAGGIO",
+    "Shikadai Nara (foto di AniList id 2007, personaggio id 121442)"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Konohamaru Sarutobi', 'Sumire Kakei', 'Delta', 'Jigen']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "BORUTO: NARUTO NEXT GENERATIONS",
+    "eps": 293,
+    "duration": 24,
+    "year": 2017,
+    "status": "FINISHED",
+    "mal": 34566
+   }
+  }
+ },
+ {
+  "id": "a92",
+  "title": "Clannad",
+  "ours": {
+   "totalEps": 47,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Ushio Okazaki']. AniList main: ['Tomoya Okazaki', 'Nagisa Furukawa', 'Tomoyo Sakagami', 'Fuuko Ibuki', 'Kyou Fujibayashi', 'Kotomi Ichinose', 'Youhei Sunohara', 'Ryou Fujibayashi']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "CLANNAD",
+    "eps": 23,
+    "duration": 24,
+    "year": 2007,
+    "status": "FINISHED",
+    "mal": 2167
+   },
+   "catena": [
+    "CLANNAD (TV,2007,23 ep)",
+    "CLANNAD: After Story (TV,2008,24 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a96",
+  "title": "Dandadan",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 28): verificare a vista"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Dandadan",
+    "eps": 12,
+    "duration": 24,
+    "year": 2024,
+    "status": "FINISHED",
+    "mal": 57334
+   }
+  }
+ },
+ {
+  "id": "a100",
+  "title": "Fairy Tail",
+  "ours": {
+   "totalEps": 353,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Zeref Dragneel']. AniList main: ['Erza Scarlet', 'Natsu Dragneel', 'Lucy Heartfilia', 'Gray Fullbuster', 'Happy', 'Wendy Marvell', 'Charlés']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "FAIRY TAIL",
+    "eps": 175,
+    "duration": 24,
+    "year": 2009,
+    "status": "FINISHED",
+    "mal": 6702
+   },
+   "catena": [
+    "FAIRY TAIL (TV,2009,175 ep)",
+    "FAIRY TAIL (2014) (TV,2014,102 ep)",
+    "FAIRY TAIL (2018) (TV,2018,51 ep)",
+    "FAIRY TAIL: 100 YEARS QUEST (TV,2024,25 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a104",
+  "title": "Gachiakuta",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "STUDIO",
+    "Nostri ['Bones']; AniList ['bones film']"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Zanka', 'Guy']. AniList main: ['Enjin', 'Rudo', 'Riyou Reaper', 'Zanka Nijiku']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Gachiakuta",
+    "eps": 24,
+    "duration": 24,
+    "year": 2025,
+    "status": "FINISHED",
+    "mal": 59062
+   }
+  }
+ },
+ {
+  "id": "a108",
+  "title": "Great Pretender",
+  "ours": {
+   "totalEps": 23,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "CREATORI",
+    "Nostri ['Hirotaka Adachi']; AniList staff ['Hiro Kaburagi', 'Ryouji Masuyama', 'Ryouta Kosawa', 'Yoshiyuki Sadamoto', 'Hirotaka Katou', 'Keita Shimizu']"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Dorothy MacKaren']. AniList main: ['Laurent Thierry', 'Abigail Jones', 'Makoto Edamura', 'Cynthia Moore']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "GREAT PRETENDER",
+    "eps": 23,
+    "duration": 23,
+    "year": 2020,
+    "status": "FINISHED",
+    "mal": 40052
+   }
+  }
+ },
+ {
+  "id": "a112",
+  "title": "Haikyuu!!",
+  "ours": {
+   "totalEps": 85,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Kotaro Bokuto']. AniList main: ['Shouyou Hinata', 'Tobio Kageyama']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Haikyuu!!",
+    "eps": 25,
+    "duration": 24,
+    "year": 2014,
+    "status": "FINISHED",
+    "mal": 20583
+   },
+   "catena": [
+    "Haikyuu!! (TV,2014,25 ep)",
+    "Haikyuu!! 2nd Season (TV,2015,25 ep)",
+    "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou (TV,2016,10 ep)",
+    "Haikyuu!! Riku VS Kuu (OVA,2020,2 ep)",
+    "Haikyuu!! TO THE TOP (TV,2020,13 ep)",
+    "Haikyuu!! TO THE TOP 2 (TV,2020,12 ep)",
+    "Haikyuu!!: Gomi Suteba no Kessen (MOVIE,2024,1 ep)",
+    "Haikyuu!!: VS Chiisana Kyojin (MOVIE,2027,1 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a116",
+  "title": "Houseki no Kuni",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Kongo Sensei']. AniList main: ['Phosphophyllite']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Houseki no Kuni",
+    "eps": 12,
+    "duration": 24,
+    "year": 2017,
+    "status": "FINISHED",
+    "mal": 35557
+   }
+  }
+ },
+ {
+  "id": "a120",
+  "title": "Kage no Jitsuryokusha",
+  "ours": {
+   "totalEps": 32,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Kage no Jitsuryokusha ni Naritakute!",
+    "eps": 20,
+    "duration": 24,
+    "year": 2022,
+    "status": "FINISHED",
+    "mal": 48316
+   },
+   "catena": [
+    "Kage no Jitsuryokusha ni Naritakute! (TV,2022,20 ep)",
+    "Kage no Jitsuryokusha ni Naritakute! 2nd season (TV,2023,12 ep)",
+    "Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen (MOVIE,2027,1 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a124",
+  "title": "Kino no Tabi",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Kino no Tabi: the Beautiful World",
+    "eps": 13,
+    "duration": 25,
+    "year": 2003,
+    "status": "FINISHED",
+    "mal": 486
+   }
+  }
+ },
+ {
+  "id": "a127",
+  "title": "Koutetsujou no Kabaneri",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Ayame']. AniList main: ['Mumei', 'Ikoma']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Koutetsujou no Kabaneri",
+    "eps": 12,
+    "duration": 23,
+    "year": 2016,
+    "status": "FINISHED",
+    "mal": 28623
+   }
+  }
+ },
+ {
+  "id": "a131",
+  "title": "Mahou Shoujo Madoka Magica",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Kyubey']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Mahou Shoujo Madoka☆Magica",
+    "eps": 12,
+    "duration": 24,
+    "year": 2011,
+    "status": "FINISHED",
+    "mal": 9756
+   }
+  }
+ },
+ {
+  "id": "a135",
+  "title": "NHK ni Youkoso!",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "NHK ni Youkoso!",
+    "eps": 24,
+    "duration": 24,
+    "year": 2006,
+    "status": "FINISHED",
+    "mal": 1210
+   }
+  }
+ },
+ {
+  "id": "a139",
+  "title": "Ousama Ranking",
+  "ours": {
+   "totalEps": 23,
+   "epsWatched": 23,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Ousama Ranking",
+    "eps": 23,
+    "duration": 23,
+    "year": 2021,
+    "status": "FINISHED",
+    "mal": 40834
+   }
+  }
+ },
+ {
+  "id": "a143",
+  "title": "Rainbow: Nisha Rokubou no Shichinin",
+  "ours": {
+   "totalEps": 26,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Kunihiro Ishihara', 'Mario Anjou', 'Joe Wakabayashi', 'Heitai Suzuki', 'Ryuji Hyodo', 'Denkichi Maeda']. AniList main: ['Rokurouta Sakuragi', 'Mario Minakami', 'Jou Yokosuka', 'Noboru Maeda', 'Tadayoshi Tooyama', 'Ryuuji Nomoto', 'Mansaku Matsuura']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "RAINBOW: Nisha Rokubou no Shichinin",
+    "eps": 26,
+    "duration": 23,
+    "year": 2010,
+    "status": "FINISHED",
+    "mal": 6114
+   }
+  }
+ },
+ {
+  "id": "a147",
+  "title": "Sen to Chihiro no Kamikakushi",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 0,
+   "duration": 125
+  },
+  "flags": [
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 31): verificare a vista"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Kamaji']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Sen to Chihiro no Kamikakushi",
+    "eps": 1,
+    "duration": 125,
+    "year": 2001,
+    "status": "FINISHED",
+    "mal": 199
+   }
+  }
+ },
+ {
+  "id": "a151",
+  "title": "Soul Eater",
+  "ours": {
+   "totalEps": 51,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Medusa']. AniList main: ['Death the Kid', 'Maka Albarn', 'Soul Eater Evans', 'Black☆Star', 'Tsubaki Nakatsukasa', 'Patricia Thompson', 'Elizabeth Thompson']"
+   ],
+   [
+    "FOTO_PERSONAGGIO",
+    "Liz Thompson (foto di AniList id 8444, personaggio id 8445)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Soul Eater",
+    "eps": 51,
+    "duration": 24,
+    "year": 2008,
+    "status": "FINISHED",
+    "mal": 3588
+   }
+  }
+ },
+ {
+  "id": "a155",
+  "title": "Tonari no Totoro",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 0,
+   "duration": 86
+  },
+  "flags": [
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Nekobus']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Tonari no Totoro",
+    "eps": 1,
+    "duration": 86,
+    "year": 1988,
+    "status": "FINISHED",
+    "mal": 523
+   }
+  }
+ },
+ {
+  "id": "a159",
+  "title": "Vivy: Fluorite Eye's Song",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "CREATORI",
+    "Nostri ['Wit Studio']; AniList staff ['Tappei Nagatsuki', 'Eiji Umehara', 'loundraw', 'Shinpei Ezaki', 'Yuusuke Kubo', 'Eiji Umehara']"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Momoka']. AniList main: ['Vivy', 'Matsumoto']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Vivy: Fluorite Eye’s Song",
+    "eps": 13,
+    "duration": 23,
+    "year": 2021,
+    "status": "FINISHED",
+    "mal": 46095
+   }
+  }
+ },
+ {
+  "id": "a163",
+  "title": "Zom 100",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Zom 100' ≠ AniList 'Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto' / 'Zom 100: Bucket List of the Dead' (MAL 54112)"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Himeko Souya', 'Kencho Yamada']. AniList main: ['Shizuka Mikazuki', 'Akira Tendou', 'Beatrix Amerhauser', 'Kenichirou Ryuuzaki']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto",
+    "eps": 12,
+    "duration": 24,
+    "year": 2023,
+    "status": "FINISHED",
+    "mal": 54112
+   }
+  }
+ },
+ {
+  "id": "a167",
+  "title": "Mononoke Hime",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 0,
+   "duration": 134
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Moro']. AniList main: ['San', 'Ashitaka']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Mononoke-hime",
+    "eps": 1,
+    "duration": 134,
+    "year": 1997,
+    "status": "FINISHED",
+    "mal": 164
+   }
+  }
+ },
+ {
+  "id": "a171",
+  "title": "Dead Dead Demon's Dededede Destruction",
+  "ours": {
+   "totalEps": 2,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "STUDIO",
+    "Nostri ['Science SARU']; AniList ['Production +h']"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Kaname Furube']. AniList main: ['Ouran Nakagawa', 'Kadode Koyama', 'Keita Ooba']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Dead Dead Demon's Dededededestruction",
+    "eps": 18,
+    "duration": 24,
+    "year": 2024,
+    "status": "FINISHED",
+    "mal": 58883
+   }
+  }
+ }
+]
