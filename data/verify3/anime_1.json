@@ -1,0 +1,1320 @@
+[
+ {
+  "id": "a2",
+  "title": "One Piece",
+  "ours": {
+   "totalEps": 1172,
+   "epsWatched": 1100,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Completato ma visti 1100/1172"
+   ],
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(1999, 61), (2001, 8), (2001, 8), (2001, 14), (2001, 44), (2003, 17), (2003, 54), (2004, 57), (2006, 62), (2008, 59), (2008, 23), (2009, 14), (2009, 35), (2010, 60), (2011, 58), (2013, 54), (2014, 118), (2016, 36), (2017, 95), (2019, 12), (2019, 196), (2024, 70), (2026, 17)] (tot 1172); AniList catena TV: [(1999, None), (2024, 1)] (tot 1)"
+   ],
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 28): verificare a vista"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "ONE PIECE",
+    "eps": null,
+    "duration": 24,
+    "year": 1999,
+    "status": "RELEASING",
+    "mal": 21
+   },
+   "catena": [
+    "ONE PIECE (TV,1999,None ep)",
+    "MONSTERS: Ippaku Sanjou Hiryuu Jigoku (ONA,2024,1 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a6",
+  "title": "Jujutsu Kaisen",
+  "ours": {
+   "totalEps": 59,
+   "epsWatched": 47,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Completato ma visti 47/59"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Yuta Okkotsu']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Jujutsu Kaisen",
+    "eps": 24,
+    "duration": 24,
+    "year": 2020,
+    "status": "FINISHED",
+    "mal": 40748
+   },
+   "catena": [
+    "Jujutsu Kaisen (TV,2020,24 ep)",
+    "Jujutsu Kaisen 0 (MOVIE,2021,1 ep)",
+    "Jujutsu Kaisen 2nd Season (TV,2023,23 ep)",
+    "Jujutsu Kaisen: Shibuya Jihen Tokubetsu Henshuu-ban × Shimetsu Kaiyuu Senkou Jouei (MOVIE,2025,1 ep)",
+    "Jujutsu Kaisen: Kaigyoku・Gyokusetsu (MOVIE,2025,1 ep)",
+    "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen (TV,2026,12 ep)",
+    "Jujutsu Kaisen: Shimetsu Kaiyuu - Kouhen (None,None,None ep)"
+   ]
+  }
+ },
+ {
+  "id": "a10",
+  "title": "Horimiya",
+  "ours": {
+   "totalEps": 16,
+   "epsWatched": 16,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 27): verificare a vista"
+   ],
+   [
+    "FOTO_PERSONAGGIO",
+    "Sota Hori (foto di AniList id 66171, personaggio id 66969)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Horimiya",
+    "eps": 13,
+    "duration": 24,
+    "year": 2021,
+    "status": "FINISHED",
+    "mal": 42897
+   }
+  }
+ },
+ {
+  "id": "a14",
+  "title": "Fullmetal Alchemist Brotherhood",
+  "ours": {
+   "totalEps": 64,
+   "epsWatched": 64,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Father']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+    "eps": 64,
+    "duration": 25,
+    "year": 2009,
+    "status": "FINISHED",
+    "mal": 5114
+   }
+  }
+ },
+ {
+  "id": "a18",
+  "title": "Chainsaw Man",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Quanxi', 'Nayuta']. AniList main: ['Makima', 'Denji', 'Power', 'Aki Hayakawa']"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Reze']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Chainsaw Man",
+    "eps": 12,
+    "duration": 25,
+    "year": 2022,
+    "status": "FINISHED",
+    "mal": 44511
+   }
+  }
+ },
+ {
+  "id": "a22",
+  "title": "Naruto",
+  "ours": {
+   "totalEps": 720,
+   "epsWatched": 720,
+   "duration": 23
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(2002, 220), (2007, 500)] (tot 720); AniList catena TV: [(2002, 220), (2007, 500), (2017, 293), (None, None)] (tot 1013)"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Tsunade', 'Minato Namikaze']. AniList main: ['Kakashi Hatake', 'Naruto Uzumaki', 'Sasuke Uchiha', 'Sakura Haruno']"
+   ],
+   [
+    "FOTO_PERSONAGGIO",
+    "Obito Uchiha (foto di AniList id 13, personaggio id 21122)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "NARUTO",
+    "eps": 220,
+    "duration": 23,
+    "year": 2002,
+    "status": "FINISHED",
+    "mal": 20
+   },
+   "catena": [
+    "NARUTO (TV,2002,220 ep)",
+    "NARUTO: Shippuuden (TV,2007,500 ep)",
+    "BORUTO: NARUTO THE MOVIE (MOVIE,2015,1 ep)",
+    "BORUTO: NARUTO THE MOVIE - Naruto ga Hokage ni Natta Hi (SPECIAL,2016,1 ep)",
+    "BORUTO: NARUTO NEXT GENERATIONS (TV,2017,293 ep)",
+    "BORUTO: NARUTO NEXT GENERATIONS Part 2 (TV,None,None ep)"
+   ]
+  }
+ },
+ {
+  "id": "a26",
+  "title": "My Dress-Up Darling",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Kaoruko Iikawa']. AniList main: ['Marin Kitagawa', 'Wakana Gojou']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Sono Bisque Doll wa Koi wo Suru",
+    "eps": 12,
+    "duration": 24,
+    "year": 2022,
+    "status": "FINISHED",
+    "mal": 48736
+   }
+  }
+ },
+ {
+  "id": "a30",
+  "title": "Tokyo Revengers",
+  "ours": {
+   "totalEps": 50,
+   "epsWatched": 37,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Completato ma visti 37/50"
+   ],
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(2021, 24), (2023, 13), (2023, 13)] (tot 50); AniList catena TV: [(2021, 24), (2023, 13), (2023, 13), (2026, 13)] (tot 63)"
+   ],
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 27): verificare a vista"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Manjiro Sano (Mikey)', 'Ken Ryuguji (Draken)']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Tokyo Revengers",
+    "eps": 24,
+    "duration": 24,
+    "year": 2021,
+    "status": "FINISHED",
+    "mal": 42249
+   },
+   "catena": [
+    "Tokyo Revengers (TV,2021,24 ep)",
+    "Tokyo Revengers: Seiya Kessen-hen (TV,2023,13 ep)",
+    "Tokyo Revengers: Tenjiku-hen (TV,2023,13 ep)",
+    "Tokyo Revengers: Santen Sensou-hen (TV,2026,13 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a34",
+  "title": "Terror in Resonance",
+  "ours": {
+   "totalEps": 11,
+   "epsWatched": 11,
+   "duration": 22
+  },
+  "flags": [
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 30): verificare a vista"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Shibazaki']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Zankyou no Terror",
+    "eps": 11,
+    "duration": 23,
+    "year": 2014,
+    "status": "FINISHED",
+    "mal": 23283
+   }
+  }
+ },
+ {
+  "id": "a38",
+  "title": "Tomodachi Game",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "STUDIO",
+    "Nostri ['LIDENFILMS']; AniList ['Okuruto Noboru']"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Tenji Sanada', 'Chidubem Michael Ichinose', 'Manabu Yamamoto', 'Reko Kirifuda']. AniList main: ['Yuuichi Katagiri', 'Shiho Sawaragi', 'Tenji Mikasa', 'Yutori Kokorogi', 'Makoto Shibe']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Tomodachi Game",
+    "eps": 12,
+    "duration": 23,
+    "year": 2022,
+    "status": "FINISHED",
+    "mal": 50273
+   }
+  }
+ },
+ {
+  "id": "a42",
+  "title": "My Hero Academia",
+  "ours": {
+   "totalEps": 171,
+   "epsWatched": 138,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Completato ma visti 138/171"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Boku no Hero Academia",
+    "eps": 13,
+    "duration": 24,
+    "year": 2016,
+    "status": "FINISHED",
+    "mal": 31964
+   },
+   "catena": [
+    "Boku no Hero Academia (TV,2016,13 ep)",
+    "Boku no Hero Academia 2 (TV,2017,25 ep)",
+    "Boku no Hero Academia 3 (TV,2018,25 ep)",
+    "Boku no Hero Academia 4 (TV,2019,25 ep)",
+    "Boku no Hero Academia 5 (TV,2021,25 ep)",
+    "Boku no Hero Academia 6 (TV,2022,25 ep)",
+    "Boku no Hero Academia 7 (TV,2024,21 ep)",
+    "Boku no Hero Academia FINAL SEASON (TV,2025,11 ep)",
+    "Boku no Hero Academia No. 170+1: More (SPECIAL,2026,1 ep)",
+    "Boku no Hero Academia: I am a hero too (SPECIAL,2026,1 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a46",
+  "title": "Demon Slayer",
+  "ours": {
+   "totalEps": 64,
+   "epsWatched": 55,
+   "duration": 23
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Completato ma visti 55/64"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Akaza']. AniList main: ['Tanjirou Kamado', 'Nezuko Kamado', 'Inosuke Hashibira', 'Zenitsu Agatsuma']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Kimetsu no Yaiba",
+    "eps": 26,
+    "duration": 24,
+    "year": 2019,
+    "status": "FINISHED",
+    "mal": 38000
+   },
+   "catena": [
+    "Kimetsu no Yaiba (TV,2019,26 ep)",
+    "Kimetsu no Yaiba: Mugen Ressha-hen (MOVIE,2020,1 ep)",
+    "Kimetsu no Yaiba: Mugen Ressha-hen (TV) (TV,2021,7 ep)",
+    "Kimetsu no Yaiba: Yuukaku-hen (TV,2021,11 ep)",
+    "Kimetsu no Yaiba: Katanakaji no Sato-hen (TV,2023,11 ep)",
+    "Kimetsu no Yaiba: Hashira Geiko-hen (TV,2024,8 ep)",
+    "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai (MOVIE,2025,1 ep)",
+    "Kimetsu no Yaiba: Mugenjou-hen Movie 2 (MOVIE,None,1 ep)",
+    "Kimetsu no Yaiba: Mugenjou-hen Movie 3 (MOVIE,None,1 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a50",
+  "title": "Mob Psycho 100",
+  "ours": {
+   "totalEps": 37,
+   "epsWatched": 37,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 28): verificare a vista"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Mob Psycho 100",
+    "eps": 12,
+    "duration": 24,
+    "year": 2016,
+    "status": "FINISHED",
+    "mal": 32182
+   },
+   "catena": [
+    "Mob Psycho 100 (TV,2016,12 ep)",
+    "Mob Psycho 100 II (TV,2019,13 ep)",
+    "Mob Psycho 100 III (TV,2022,12 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a54",
+  "title": "Deca-Dence",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Fara', 'Minato Bell']. AniList main: ['Natsume', 'Kaburagi']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Deca-Dence",
+    "eps": 12,
+    "duration": 24,
+    "year": 2020,
+    "status": "FINISHED",
+    "mal": 40056
+   }
+  }
+ },
+ {
+  "id": "a58",
+  "title": "Inuyashiki",
+  "ours": {
+   "totalEps": 11,
+   "epsWatched": 11,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Ichiro Inuyashiki', 'Hiro Shishigami', 'Shion Watanabe', 'Andou']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Inuyashiki",
+    "eps": 11,
+    "duration": 23,
+    "year": 2017,
+    "status": "FINISHED",
+    "mal": 34542
+   }
+  }
+ },
+ {
+  "id": "a62",
+  "title": "Death Parade",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Chiyuki']. AniList main: ['Decim', 'Kurokami no Onna', 'Nona', 'Ginti']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Death Parade",
+    "eps": 12,
+    "duration": 23,
+    "year": 2015,
+    "status": "FINISHED",
+    "mal": 28223
+   }
+  }
+ },
+ {
+  "id": "a66",
+  "title": "Hotarubi no Mori e",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 1,
+   "duration": 44
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Hotarubi no Mori e",
+    "eps": 1,
+    "duration": 45,
+    "year": 2011,
+    "status": "FINISHED",
+    "mal": 10408
+   }
+  }
+ },
+ {
+  "id": "a70",
+  "title": "Nanbaka",
+  "ours": {
+   "totalEps": 26,
+   "epsWatched": 13,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "CREATORI",
+    "Nostri ['Yokkaichi']; AniList staff ['Shou Futamata', 'Shinji Takamatsu', 'Mitsutaka Hirota', 'Takayuki Noguchi', 'Tomokazu Seki', 'Tetsuya Kakihara']"
+   ],
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(2016, 13), (2017, 13)] (tot 26); AniList catena TV: [(2016, 13), (2017, 12)] (tot 25)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Nanbaka",
+    "eps": 13,
+    "duration": 23,
+    "year": 2016,
+    "status": "FINISHED",
+    "mal": 30016
+   },
+   "catena": [
+    "Nanbaka (TV,2016,13 ep)",
+    "Nanbaka 2 (ONA,2017,12 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a74",
+  "title": "Yu-Gi-Oh ZEXAL",
+  "ours": {
+   "totalEps": 146,
+   "epsWatched": 80,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "STUDIO",
+    "Nostri ['Gallop']; AniList ['Studio Gallop']"
+   ],
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 28): verificare a vista"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Dr. Faker']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Yu☆Gi☆Oh! ZEXAL",
+    "eps": 73,
+    "duration": 25,
+    "year": 2011,
+    "status": "FINISHED",
+    "mal": 10015
+   },
+   "catena": [
+    "Yu☆Gi☆Oh! ZEXAL (TV,2011,73 ep)",
+    "Yu☆Gi☆Oh! ZEXAL II (TV,2012,73 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a78",
+  "title": "Angel Beats!",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Iwasawa', 'Yui']. AniList main: ['Kanade Tachibana', 'Yuri Nakamura', 'Yui Yoshioka', 'Yuzuru Otonashi', 'Hideki Hinata', 'Ayato Naoi']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Angel Beats!",
+    "eps": 13,
+    "duration": 24,
+    "year": 2010,
+    "status": "FINISHED",
+    "mal": 6547
+   }
+  }
+ },
+ {
+  "id": "a82",
+  "title": "Ashita no Joe",
+  "ours": {
+   "totalEps": 126,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Jose Mendoza']. AniList main: ['Joe Yabuki', 'Tooru Rikiishi', 'Danpei Tange', 'Youko Shiraki']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Ashita no Joe",
+    "eps": 79,
+    "duration": 25,
+    "year": 1970,
+    "status": "FINISHED",
+    "mal": 2402
+   },
+   "catena": [
+    "Ashita no Joe (TV,1970,79 ep)",
+    "Ashita no Joe 2 (TV,1980,47 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a86",
+  "title": "Black Clover",
+  "ours": {
+   "totalEps": 170,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "STUDIO",
+    "Nostri ['Pierrot']; AniList ['Studio Pierrot']"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Klaus Lunettes']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Black Clover",
+    "eps": 170,
+    "duration": 24,
+    "year": 2017,
+    "status": "FINISHED",
+    "mal": 34572
+   }
+  }
+ },
+ {
+  "id": "a90",
+  "title": "5 Centimeters Per Second",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 0,
+   "duration": 63
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 1; AniList 3"
+   ],
+   [
+    "DURATA",
+    "Nostro 63; AniList 22"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Byousoku 5 Centimeter",
+    "eps": 3,
+    "duration": 22,
+    "year": 2007,
+    "status": "FINISHED",
+    "mal": 1689
+   }
+  }
+ },
+ {
+  "id": "a94",
+  "title": "Cowboy Bebop",
+  "ours": {
+   "totalEps": 26,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Cowboy Bebop",
+    "eps": 26,
+    "duration": 24,
+    "year": 1998,
+    "status": "FINISHED",
+    "mal": 1
+   }
+  }
+ },
+ {
+  "id": "a98",
+  "title": "Edens Zero",
+  "ours": {
+   "totalEps": 50,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Pino']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "EDENS ZERO",
+    "eps": 25,
+    "duration": 23,
+    "year": 2021,
+    "status": "FINISHED",
+    "mal": 42192
+   },
+   "catena": [
+    "EDENS ZERO (TV,2021,25 ep)",
+    "EDENS ZERO 2nd Season (TV,2023,25 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a102",
+  "title": "Fruits Basket",
+  "ours": {
+   "totalEps": 63,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "ANNO",
+    "Nostro prima stagione 2019; AniList 2001"
+   ],
+   [
+    "STUDIO",
+    "Nostri ['TMS Entertainment']; AniList ['Studio DEEN']"
+   ],
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(2019, 25), (2020, 25), (2021, 13)] (tot 63); AniList catena TV: [(2001, 26)] (tot 26)"
+   ],
+   [
+    "FOTO_PERSONAGGIO",
+    "Yuki Sohma (foto di AniList id 209, personaggio id 208); Shigure Sohma (foto di AniList id 209, personaggio id 206); Kagura Sohma (foto di AniList id 209, personaggio id 366); Hatsuharu Sohma (foto di AniList id 209, personaggio id 369); Momiji Sohma (foto di AniList id 209, personaggio id 367); Hatori Sohma (foto di AniList id 209, personaggio id 368)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Fruits Basket",
+    "eps": 26,
+    "duration": 24,
+    "year": 2001,
+    "status": "FINISHED",
+    "mal": 120
+   },
+   "catena": [
+    "Fruits Basket (TV,2001,26 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a106",
+  "title": "Gintama",
+  "ours": {
+   "totalEps": 400,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "FOTO_PERSONAGGIO",
+    "Otae Shimura (foto di AniList id 673, personaggio id 2944)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Gintama",
+    "eps": 201,
+    "duration": 25,
+    "year": 2006,
+    "status": "FINISHED",
+    "mal": 918
+   }
+  }
+ },
+ {
+  "id": "a110",
+  "title": "Kaiji",
+  "ours": {
+   "totalEps": 52,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Kaiji' ≠ AniList 'Gyakkyou Burai Kaiji: Ultimate Survivor' / 'Kaiji - Ultimate Survivor' (MAL 3002)"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Sakazaki', 'Endo']. AniList main: ['Kaiji Itou']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Gyakkyou Burai Kaiji: Ultimate Survivor",
+    "eps": 26,
+    "duration": 23,
+    "year": 2007,
+    "status": "FINISHED",
+    "mal": 3002
+   },
+   "catena": [
+    "Gyakkyou Burai Kaiji: Ultimate Survivor (TV,2007,26 ep)",
+    "Gyakkyou Burai Kaiji: Hakairoku-hen (TV,2011,26 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a114",
+  "title": "Hellsing Ultimate",
+  "ours": {
+   "totalEps": 10,
+   "epsWatched": 0,
+   "duration": 50
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Integra Hellsing']. AniList main: ['Alucard', 'Seras Victoria', 'Integra Fairbrook Wingates Hellsing']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "HELLSING OVA",
+    "eps": 10,
+    "duration": 50,
+    "year": 2006,
+    "status": "FINISHED",
+    "mal": 777
+   }
+  }
+ },
+ {
+  "id": "a118",
+  "title": "Inazuma Eleven",
+  "ours": {
+   "totalEps": 296,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "CREATORI",
+    "Nostri ['Level-5']; AniList staff ['Akihiro Hino', 'Takuzou Nagano', 'Katsuhito Akiyama', 'Atsuhiro Tomioka', 'Yuuji Ikeda', 'Masafumi Mima']"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Judou Domon']. AniList main: ['Mamoru Endou', 'Shuuya Gouenji', 'Yuuto Kidou']"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Ryugo Someoka']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Inazuma Eleven",
+    "eps": 127,
+    "duration": 25,
+    "year": 2008,
+    "status": "FINISHED",
+    "mal": 5231
+   }
+  }
+ },
+ {
+  "id": "a122",
+  "title": "Katekyou Hitman Reborn!",
+  "ours": {
+   "totalEps": 203,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "FOTO_PERSONAGGIO",
+    "Kyoko Sasagawa (foto di AniList id 1861, personaggio id 1857)"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Basil']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Katekyou Hitman REBORN!",
+    "eps": 203,
+    "duration": 24,
+    "year": 2006,
+    "status": "FINISHED",
+    "mal": 1604
+   }
+  }
+ },
+ {
+  "id": "a126",
+  "title": "Ghost in the Shell",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 0,
+   "duration": 83
+  },
+  "flags": [
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 30): verificare a vista"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Saito']. AniList main: ['Motoko Kusanagi', 'Batou', 'Togusa']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "GHOST IN THE SHELL: Koukaku Kidoutai",
+    "eps": 1,
+    "duration": 83,
+    "year": 1995,
+    "status": "FINISHED",
+    "mal": 43
+   }
+  }
+ },
+ {
+  "id": "a129",
+  "title": "Log Horizon",
+  "ours": {
+   "totalEps": 62,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Log Horizon",
+    "eps": 25,
+    "duration": 25,
+    "year": 2013,
+    "status": "FINISHED",
+    "mal": 17265
+   },
+   "catena": [
+    "Log Horizon (TV,2013,25 ep)",
+    "Log Horizon 2 (TV,2014,25 ep)",
+    "Log Horizon: Entaku Houkai (TV,2021,12 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a133",
+  "title": "Mushishi",
+  "ours": {
+   "totalEps": 46,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "NUMERO_STAGIONI",
+    "Nostre 2 stagioni TV; AniList 3: [(2005, 26), (2014, 10), (2014, 10)]"
+   ],
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 31): verificare a vista"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Mushishi",
+    "eps": 26,
+    "duration": 25,
+    "year": 2005,
+    "status": "FINISHED",
+    "mal": 457
+   },
+   "catena": [
+    "Mushishi (TV,2005,26 ep)",
+    "Mushishi: Hihamukage (SPECIAL,2014,1 ep)",
+    "Mushishi Zoku Shou (TV,2014,10 ep)",
+    "Mushishi Zoku Shou: Odoro no Michi (SPECIAL,2014,1 ep)",
+    "Mushishi Zoku Shou 2 (TV,2014,10 ep)",
+    "Mushishi Tokubetsu-hen: Suzu no Shizuku (MOVIE,2015,1 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a137",
+  "title": "Noragami",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Kofuku']. AniList main: ['Yato', 'Hiyori Iki', 'Yukine']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Noragami",
+    "eps": 12,
+    "duration": 24,
+    "year": 2014,
+    "status": "FINISHED",
+    "mal": 20507
+   },
+   "catena": [
+    "Noragami (TV,2014,12 ep)",
+    "Noragami ARAGOTO (TV,2015,13 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a141",
+  "title": "Plastic Memories",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Michiru', 'Kazuki']. AniList main: ['Isla', 'Tsukasa Mizugaki']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Plastic Memories",
+    "eps": 13,
+    "duration": 24,
+    "year": 2015,
+    "status": "FINISHED",
+    "mal": 27775
+   }
+  }
+ },
+ {
+  "id": "a145",
+  "title": "Saiki Kusuo no Psi-nan",
+  "ours": {
+   "totalEps": 144,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 30): verificare a vista"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Saiki Kusuo no Ψ-nan 2",
+    "eps": 24,
+    "duration": 24,
+    "year": 2018,
+    "status": "FINISHED",
+    "mal": 34612
+   }
+  }
+ },
+ {
+  "id": "a149",
+  "title": "Shigatsu wa Kimi no Uso",
+  "ours": {
+   "totalEps": 22,
+   "epsWatched": 0,
+   "duration": 22
+  },
+  "flags": [
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 33): verificare a vista"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Shigatsu wa Kimi no Uso",
+    "eps": 22,
+    "duration": 23,
+    "year": 2014,
+    "status": "FINISHED",
+    "mal": 23273
+   }
+  }
+ },
+ {
+  "id": "a153",
+  "title": "Tenkuu no Shiro Laputa",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 0,
+   "duration": 124
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Zio Pom']. AniList main: ['Pazu', 'Sheeta', 'Dola', 'Muska']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Tenkuu no Shiro Laputa",
+    "eps": 1,
+    "duration": 125,
+    "year": 1986,
+    "status": "FINISHED",
+    "mal": 513
+   }
+  }
+ },
+ {
+  "id": "a157",
+  "title": "Uchuu Kyoudai",
+  "ours": {
+   "totalEps": 99,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Kenji Matsuo']. AniList main: ['Mutta Nanba', 'Hibito Nanba']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Uchuu Kyoudai",
+    "eps": 99,
+    "duration": 24,
+    "year": 2012,
+    "status": "FINISHED",
+    "mal": 12431
+   }
+  }
+ },
+ {
+  "id": "a161",
+  "title": "Yahari Ore no Seishun Love Comedy",
+  "ours": {
+   "totalEps": 38,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Yahari Ore no Seishun Love Comedy' ≠ AniList 'Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru' / 'My Teen Romantic Comedy SNAFU TOO! OVA' (MAL 33161)"
+   ],
+   [
+    "ANNO",
+    "Nostro prima stagione 2013; AniList 2016"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Saika Totsuka']. AniList main: ['Hachiman Hikigaya', 'Iroha Isshiki']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru",
+    "eps": 1,
+    "duration": 24,
+    "year": 2016,
+    "status": "FINISHED",
+    "mal": 33161
+   },
+   "catena": [
+    "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru (OVA,2016,1 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a165",
+  "title": "Kenpuu Denki Berserk",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Femto']. AniList main: ['Guts', 'Griffith', 'Casca']"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Guts', 'Griffith', 'Casca', 'Judeau', 'Pippin', 'Corkus', 'Rickert']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Kenpuu Denki Berserk",
+    "eps": 25,
+    "duration": 25,
+    "year": 1997,
+    "status": "FINISHED",
+    "mal": 33
+   }
+  }
+ },
+ {
+  "id": "a169",
+  "title": "Kaoru Hana wa Rin to Saku",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "STUDIO",
+    "Nostri ['Bibury Animation Studio']; AniList ['CloverWorks']"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Wako Uehara', 'Kotaro Kanetsugu', 'Rui Kishi']. AniList main: ['Kaoruko Waguri', 'Rintarou Tsumugi']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Kaoru Hana wa Rin to Saku",
+    "eps": 13,
+    "duration": 24,
+    "year": 2025,
+    "status": "FINISHED",
+    "mal": 59845
+   }
+  }
+ },
+ {
+  "id": "a173",
+  "title": "Fate/stay night: Unlimited Blade Works",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(2014, 12), (2015, 13)] (tot 25); AniList catena TV: [(2006, 24), (2011, 13), (2012, 12), (2014, 13), (2015, 13)] (tot 75)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Fate/stay night: Unlimited Blade Works",
+    "eps": 13,
+    "duration": 24,
+    "year": 2014,
+    "status": "FINISHED",
+    "mal": 22297
+   },
+   "catena": [
+    "Fate/stay night (TV,2006,24 ep)",
+    "Fate/stay night Movie: UNLIMITED BLADE WORKS (MOVIE,2010,1 ep)",
+    "Fate/Zero (TV,2011,13 ep)",
+    "Fate/Zero 2nd Season (TV,2012,12 ep)",
+    "Fate/stay night: Unlimited Blade Works (TV,2014,13 ep)",
+    "Fate/stay night: Unlimited Blade Works 2nd Season (TV,2015,13 ep)",
+    "Fate/stay night [Heaven's Feel] I. presage flower (MOVIE,2017,1 ep)",
+    "Fate/stay night [Heaven's Feel] II. lost butterfly (MOVIE,2019,1 ep)",
+    "Fate/stay night [Heaven's Feel] III. spring song (MOVIE,2020,1 ep)"
+   ]
+  }
+ }
+]
