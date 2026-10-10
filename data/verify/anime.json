@@ -1,0 +1,4091 @@
+[
+ {
+  "id": "a1",
+  "title": "Attack on Titan",
+  "ours": {
+   "totalEps": 94,
+   "epsWatched": 94,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 94; Jikan None, AniList 25 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 16498,
+    "title": "Shingeki no Kyojin",
+    "eps": 25,
+    "duration": 24,
+    "year": 2013,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a2",
+  "title": "One Piece",
+  "ours": {
+   "totalEps": 1100,
+   "epsWatched": 1100,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 21,
+    "title": "ONE PIECE",
+    "eps": null,
+    "duration": 24,
+    "year": 1999,
+    "format": "TV",
+    "status": "RELEASING"
+   }
+  }
+ },
+ {
+  "id": "a3",
+  "title": "Hunter x Hunter",
+  "ours": {
+   "totalEps": 148,
+   "epsWatched": 148,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 148; Jikan None, AniList 62 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 136,
+    "title": "HUNTER×HUNTER",
+    "eps": 62,
+    "duration": 23,
+    "year": 1999,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a4",
+  "title": "A Silent Voice",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 1,
+   "duration": 130,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 20954,
+    "title": "Koe no Katachi",
+    "eps": 1,
+    "duration": 130,
+    "year": 2016,
+    "format": "MOVIE",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a5",
+  "title": "Your Name",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 1,
+   "duration": 106,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 21519,
+    "title": "Kimi no Na wa.",
+    "eps": 1,
+    "duration": 107,
+    "year": 2016,
+    "format": "MOVIE",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a6",
+  "title": "Jujutsu Kaisen",
+  "ours": {
+   "totalEps": 47,
+   "epsWatched": 47,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 47; Jikan None, AniList 24 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 113415,
+    "title": "Jujutsu Kaisen",
+    "eps": 24,
+    "duration": 24,
+    "year": 2020,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a7",
+  "title": "Dr. Stone",
+  "ours": {
+   "totalEps": 53,
+   "epsWatched": 53,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 53; Jikan None, AniList 24 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 105333,
+    "title": "Dr. STONE",
+    "eps": 24,
+    "duration": 24,
+    "year": 2019,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a8",
+  "title": "Vinland Saga",
+  "ours": {
+   "totalEps": 48,
+   "epsWatched": 48,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 48; Jikan None, AniList 24 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 101348,
+    "title": "VINLAND SAGA",
+    "eps": 24,
+    "duration": 24,
+    "year": 2019,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a9",
+  "title": "Made in Abyss",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 25,
+   "duration": 25,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 25; Jikan None, AniList 13 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 97986,
+    "title": "Made in Abyss",
+    "eps": 13,
+    "duration": 25,
+    "year": 2017,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a10",
+  "title": "Horimiya",
+  "ours": {
+   "totalEps": 16,
+   "epsWatched": 16,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 16; Jikan None, AniList 13 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 124080,
+    "title": "Horimiya",
+    "eps": 13,
+    "duration": 24,
+    "year": 2021,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a11",
+  "title": "Kuroko no Basket",
+  "ours": {
+   "totalEps": 75,
+   "epsWatched": 75,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 75; Jikan None, AniList 25 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 11771,
+    "title": "Kuroko no Basket",
+    "eps": 25,
+    "duration": 24,
+    "year": 2012,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a12",
+  "title": "Parasyte",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 24,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 20623,
+    "title": "Kiseijuu: Sei no Kakuritsu",
+    "eps": 24,
+    "duration": 24,
+    "year": 2014,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a13",
+  "title": "Erased",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 21234,
+    "title": "Boku dake ga Inai Machi",
+    "eps": 12,
+    "duration": 23,
+    "year": 2016,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a14",
+  "title": "Fullmetal Alchemist Brotherhood",
+  "ours": {
+   "totalEps": 64,
+   "epsWatched": 64,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 5114,
+    "title": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+    "eps": 64,
+    "duration": 25,
+    "year": 2009,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a15",
+  "title": "Steins;Gate",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 24,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 9253,
+    "title": "Steins;Gate",
+    "eps": 24,
+    "duration": 24,
+    "year": 2011,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a16",
+  "title": "Death Note",
+  "ours": {
+   "totalEps": 37,
+   "epsWatched": 37,
+   "duration": 23,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 1535,
+    "title": "DEATH NOTE",
+    "eps": 37,
+    "duration": 23,
+    "year": 2006,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a17",
+  "title": "Code Geass",
+  "ours": {
+   "totalEps": 50,
+   "epsWatched": 50,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 50; Jikan None, AniList 25 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 1575,
+    "title": "Code Geass: Hangyaku no Lelouch",
+    "eps": 25,
+    "duration": 24,
+    "year": 2006,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a18",
+  "title": "Chainsaw Man",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 127230,
+    "title": "Chainsaw Man",
+    "eps": 12,
+    "duration": 25,
+    "year": 2022,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a19",
+  "title": "Gurren Lagann",
+  "ours": {
+   "totalEps": 27,
+   "epsWatched": 27,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 2001,
+    "title": "Tengen Toppa Gurren Lagann",
+    "eps": 27,
+    "duration": 24,
+    "year": 2007,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a20",
+  "title": "Cyberpunk: Edgerunners",
+  "ours": {
+   "totalEps": 10,
+   "epsWatched": 10,
+   "duration": 25,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 120377,
+    "title": "Cyberpunk: Edgerunners",
+    "eps": 10,
+    "duration": 24,
+    "year": 2022,
+    "format": "ONA",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a21",
+  "title": "Heavenly Delusion",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 13,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 155783,
+    "title": "Tengoku Daimakyou",
+    "eps": 13,
+    "duration": 24,
+    "year": 2023,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a22",
+  "title": "Naruto",
+  "ours": {
+   "totalEps": 720,
+   "epsWatched": 720,
+   "duration": 23,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 720; Jikan None, AniList 220 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 20,
+    "title": "NARUTO",
+    "eps": 220,
+    "duration": 23,
+    "year": 2002,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a23",
+  "title": "JoJo's Bizarre Adventure",
+  "ours": {
+   "totalEps": 190,
+   "epsWatched": 190,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 190; Jikan None, AniList 26 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 14719,
+    "title": "JoJo no Kimyou na Bouken (TV)",
+    "eps": 26,
+    "duration": 24,
+    "year": 2012,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a24",
+  "title": "Love is War",
+  "ours": {
+   "totalEps": 37,
+   "epsWatched": 37,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 37; Jikan None, AniList 12 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 101921,
+    "title": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+    "eps": 12,
+    "duration": 24,
+    "year": 2019,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a25",
+  "title": "Assassination Classroom",
+  "ours": {
+   "totalEps": 47,
+   "epsWatched": 47,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 47; Jikan None, AniList 22 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 20755,
+    "title": "Ansatsu Kyoushitsu",
+    "eps": 22,
+    "duration": 23,
+    "year": 2015,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a26",
+  "title": "My Dress-Up Darling",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 132405,
+    "title": "Sono Bisque Doll wa Koi wo Suru",
+    "eps": 12,
+    "duration": 24,
+    "year": 2022,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a27",
+  "title": "Summertime Rendering",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 25,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 129201,
+    "title": "Summer Time Render",
+    "eps": 25,
+    "duration": 24,
+    "year": 2022,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a28",
+  "title": "Classroom of the Elite",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 24,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 24; Jikan None, AniList 12 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 98659,
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+    "eps": 12,
+    "duration": 24,
+    "year": 2017,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a29",
+  "title": "Hell's Paradise",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 13,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 128893,
+    "title": "Jigokuraku",
+    "eps": 13,
+    "duration": 24,
+    "year": 2023,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a30",
+  "title": "Tokyo Revengers",
+  "ours": {
+   "totalEps": 37,
+   "epsWatched": 37,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 37; Jikan None, AniList 24 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 120120,
+    "title": "Tokyo Revengers",
+    "eps": 24,
+    "duration": 24,
+    "year": 2021,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a31",
+  "title": "Kanata no Astra",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 107663,
+    "title": "Kanata no Astra",
+    "eps": 12,
+    "duration": 28,
+    "year": 2019,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a32",
+  "title": "Solo Leveling",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 151807,
+    "title": "Ore dake Level Up na Ken",
+    "eps": 12,
+    "duration": 24,
+    "year": 2024,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a33",
+  "title": "Blue Lock",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 24,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 137822,
+    "title": "Blue Lock",
+    "eps": 24,
+    "duration": 25,
+    "year": 2022,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a34",
+  "title": "Terror in Resonance",
+  "ours": {
+   "totalEps": 11,
+   "epsWatched": 11,
+   "duration": 22,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 20661,
+    "title": "Zankyou no Terror",
+    "eps": 11,
+    "duration": 23,
+    "year": 2014,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a35",
+  "title": "Spy x Family",
+  "ours": {
+   "totalEps": 37,
+   "epsWatched": 37,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "a36",
+  "title": "Dororo",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 24,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 101347,
+    "title": "Dororo",
+    "eps": 24,
+    "duration": 24,
+    "year": 2019,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a37",
+  "title": "Tower of God",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 13,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 115230,
+    "title": "Kami no Tou: Tower of God",
+    "eps": 13,
+    "duration": 25,
+    "year": 2020,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a38",
+  "title": "Tomodachi Game",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 141014,
+    "title": "Tomodachi Game",
+    "eps": 12,
+    "duration": 23,
+    "year": 2022,
+    "format": "ONA",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a39",
+  "title": "Btooom!",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 14345,
+    "title": "BTOOOM!",
+    "eps": 12,
+    "duration": 24,
+    "year": 2012,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a40",
+  "title": "Grand Blue",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 100922,
+    "title": "Grand Blue",
+    "eps": 12,
+    "duration": 24,
+    "year": 2018,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a41",
+  "title": "One Punch Man",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 24,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 24; Jikan None, AniList 12 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 21087,
+    "title": "One Punch Man",
+    "eps": 12,
+    "duration": 24,
+    "year": 2015,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a42",
+  "title": "My Hero Academia",
+  "ours": {
+   "totalEps": 138,
+   "epsWatched": 138,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 138; Jikan None, AniList 13 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 21459,
+    "title": "Boku no Hero Academia",
+    "eps": 13,
+    "duration": 24,
+    "year": 2016,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a43",
+  "title": "God Eater",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 13,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 20849,
+    "title": "GOD EATER",
+    "eps": 13,
+    "duration": 24,
+    "year": 2015,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a44",
+  "title": "Ao Haru Ride",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 20596,
+    "title": "Ao Haru Ride",
+    "eps": 12,
+    "duration": 23,
+    "year": 2014,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a45",
+  "title": "The Promised Neverland",
+  "ours": {
+   "totalEps": 23,
+   "epsWatched": 23,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 23; Jikan None, AniList 12 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 101759,
+    "title": "Yakusoku no Neverland",
+    "eps": 12,
+    "duration": 23,
+    "year": 2019,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a46",
+  "title": "Demon Slayer",
+  "ours": {
+   "totalEps": 55,
+   "epsWatched": 55,
+   "duration": 23,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 55; Jikan None, AniList 26 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 101922,
+    "title": "Kimetsu no Yaiba",
+    "eps": 26,
+    "duration": 24,
+    "year": 2019,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a47",
+  "title": "Pluto",
+  "ours": {
+   "totalEps": 8,
+   "epsWatched": 8,
+   "duration": 45,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "DURATA",
+    "Nostro 45 min; Jikan None, AniList 60"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 99088,
+    "title": "PLUTO",
+    "eps": 8,
+    "duration": 60,
+    "year": 2023,
+    "format": "ONA",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a48",
+  "title": "Josee to Tora to Sakana-tachi",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 1,
+   "duration": 98,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 113596,
+    "title": "Josee to Tora to Sakanatachi",
+    "eps": 1,
+    "duration": 98,
+    "year": 2020,
+    "format": "MOVIE",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a49",
+  "title": "I Want to Eat Your Pancreas",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 1,
+   "duration": 108,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 99750,
+    "title": "Kimi no Suizou wo Tabetai",
+    "eps": 1,
+    "duration": 108,
+    "year": 2018,
+    "format": "MOVIE",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a50",
+  "title": "Mob Psycho 100",
+  "ours": {
+   "totalEps": 37,
+   "epsWatched": 37,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 37; Jikan None, AniList 12 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 21507,
+    "title": "Mob Psycho 100",
+    "eps": 12,
+    "duration": 24,
+    "year": 2016,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a51",
+  "title": "No Game No Life",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 19815,
+    "title": "No Game No Life",
+    "eps": 12,
+    "duration": 24,
+    "year": 2014,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a52",
+  "title": "Anohana",
+  "ours": {
+   "totalEps": 11,
+   "epsWatched": 11,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 9989,
+    "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+    "eps": 11,
+    "duration": 22,
+    "year": 2011,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a53",
+  "title": "Shoujo Shuumatsu Ryokou",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 99420,
+    "title": "Shoujo Shuumatsu Ryokou",
+    "eps": 12,
+    "duration": 24,
+    "year": 2017,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a54",
+  "title": "Deca-Dence",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 110353,
+    "title": "Deca-Dence",
+    "eps": 12,
+    "duration": 24,
+    "year": 2020,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a55",
+  "title": "Prison School",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 20807,
+    "title": "Prison School",
+    "eps": 12,
+    "duration": 24,
+    "year": 2015,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a56",
+  "title": "Howl's Moving Castle",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 1,
+   "duration": 119,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 431,
+    "title": "Howl no Ugoku Shiro",
+    "eps": 1,
+    "duration": 119,
+    "year": 2004,
+    "format": "MOVIE",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a57",
+  "title": "Sakamoto desu ga",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 21595,
+    "title": "Sakamoto desu ga?",
+    "eps": 12,
+    "duration": 24,
+    "year": 2016,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a58",
+  "title": "Inuyashiki",
+  "ours": {
+   "totalEps": 11,
+   "epsWatched": 11,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 97922,
+    "title": "Inuyashiki",
+    "eps": 11,
+    "duration": 23,
+    "year": 2017,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a59",
+  "title": "Toradora",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 25,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 4224,
+    "title": "Toradora!",
+    "eps": 25,
+    "duration": 24,
+    "year": 2008,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a60",
+  "title": "Odd Taxi",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 13,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 128547,
+    "title": "Odd Taxi",
+    "eps": 13,
+    "duration": 24,
+    "year": 2021,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a61",
+  "title": "Wonder Egg Priority",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 13,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 13; Jikan None, AniList 12 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 124845,
+    "title": "Wonder Egg Priority",
+    "eps": 12,
+    "duration": 23,
+    "year": 2021,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a62",
+  "title": "Death Parade",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "a63",
+  "title": "Charlotte",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 13,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "a64",
+  "title": "Evangelion",
+  "ours": {
+   "totalEps": 26,
+   "epsWatched": 26,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "a65",
+  "title": "Kakegurui",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "a66",
+  "title": "Hotarubi no Mori e",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 1,
+   "duration": 44,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 10408,
+    "title": "Hotarubi no Mori e",
+    "eps": 1,
+    "duration": 45,
+    "year": 2011,
+    "format": "MOVIE",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a67",
+  "title": "Overlord",
+  "ours": {
+   "totalEps": 52,
+   "epsWatched": 52,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 52; Jikan None, AniList 13 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 20832,
+    "title": "Overlord",
+    "eps": 13,
+    "duration": 24,
+    "year": 2015,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a68",
+  "title": "Garden of Words",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 1,
+   "duration": 46,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 16782,
+    "title": "Kotonoha no Niwa",
+    "eps": 1,
+    "duration": 46,
+    "year": 2013,
+    "format": "MOVIE",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a69",
+  "title": "Akame ga Kill",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 24,
+   "duration": 24,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 20613,
+    "title": "Akame ga Kill!",
+    "eps": 24,
+    "duration": 24,
+    "year": 2014,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a70",
+  "title": "Nanbaka",
+  "ours": {
+   "totalEps": 26,
+   "epsWatched": 13,
+   "duration": 24,
+   "status": "dropped"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 26; Jikan None, AniList 13 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 21051,
+    "title": "Nanbaka",
+    "eps": 13,
+    "duration": 23,
+    "year": 2016,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a71",
+  "title": "Tokyo Ghoul",
+  "ours": {
+   "totalEps": 48,
+   "epsWatched": 12,
+   "duration": 24,
+   "status": "dropped"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 48; Jikan None, AniList 12 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 20605,
+    "title": "Tokyo Ghoul",
+    "eps": 12,
+    "duration": 24,
+    "year": 2014,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a72",
+  "title": "Shinsekai Yori",
+  "ours": {
+   "totalEps": 8,
+   "epsWatched": 8,
+   "duration": 24,
+   "status": "dropped"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 8; Jikan None, AniList 25 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 13125,
+    "title": "Shinsekai yori",
+    "eps": 25,
+    "duration": 23,
+    "year": 2012,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a73",
+  "title": "Angels of Death",
+  "ours": {
+   "totalEps": 16,
+   "epsWatched": 3,
+   "duration": 23,
+   "status": "dropped"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 16; Jikan None, AniList 12 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 99629,
+    "title": "Satsuriku no Tenshi",
+    "eps": 12,
+    "duration": 24,
+    "year": 2018,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a74",
+  "title": "Yu-Gi-Oh ZEXAL",
+  "ours": {
+   "totalEps": 146,
+   "epsWatched": 80,
+   "duration": 24,
+   "status": "in_progress"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 146; Jikan None, AniList 73 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 10015,
+    "title": "Yu☆Gi☆Oh! ZEXAL",
+    "eps": 73,
+    "duration": 25,
+    "year": 2011,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a75",
+  "title": "3-gatsu no Lion",
+  "ours": {
+   "totalEps": 44,
+   "epsWatched": 0,
+   "duration": 23,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 44; Jikan None, AniList 22 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 21366,
+    "title": "3-gatsu no Lion",
+    "eps": 22,
+    "duration": 25,
+    "year": 2016,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a76",
+  "title": "5-toubun no Hanayome",
+  "ours": {
+   "totalEps": 26,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 26; Jikan None, AniList 12 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 103572,
+    "title": "Go-toubun no Hanayome",
+    "eps": 12,
+    "duration": 24,
+    "year": 2019,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a77",
+  "title": "86",
+  "ours": {
+   "totalEps": 23,
+   "epsWatched": 0,
+   "duration": 23,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 23; Jikan None, AniList 11 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 116589,
+    "title": "86: Eighty Six",
+    "eps": 11,
+    "duration": 24,
+    "year": 2021,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a78",
+  "title": "Angel Beats!",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 6547,
+    "title": "Angel Beats!",
+    "eps": 13,
+    "duration": 24,
+    "year": 2010,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a79",
+  "title": "Ao Ashi",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 134732,
+    "title": "Aoashi",
+    "eps": 24,
+    "duration": 25,
+    "year": 2022,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a80",
+  "title": "Ao no Exorcist",
+  "ours": {
+   "totalEps": 37,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 37; Jikan None, AniList 25 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 9919,
+    "title": "Ao no Exorcist",
+    "eps": 25,
+    "duration": 24,
+    "year": 2011,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a81",
+  "title": "Ao no Hako",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 25; Jikan None, AniList 12 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 189123,
+    "title": "Ao no Hako Season 2",
+    "eps": 12,
+    "duration": 24,
+    "year": 2026,
+    "format": "TV",
+    "status": "RELEASING"
+   }
+  }
+ },
+ {
+  "id": "a82",
+  "title": "Ashita no Joe",
+  "ours": {
+   "totalEps": 126,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 126; Jikan None, AniList 79 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 2402,
+    "title": "Ashita no Joe",
+    "eps": 79,
+    "duration": 25,
+    "year": 1970,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a83",
+  "title": "Baccano!",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 2251,
+    "title": "Baccano!",
+    "eps": 13,
+    "duration": 25,
+    "year": 2007,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a84",
+  "title": "Bakemonogatari",
+  "ours": {
+   "totalEps": 15,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 5081,
+    "title": "Bakemonogatari",
+    "eps": 15,
+    "duration": 24,
+    "year": 2009,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a85",
+  "title": "Banana Fish",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 100388,
+    "title": "BANANA FISH",
+    "eps": 24,
+    "duration": 23,
+    "year": 2018,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a86",
+  "title": "Black Clover",
+  "ours": {
+   "totalEps": 170,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 97940,
+    "title": "Black Clover",
+    "eps": 170,
+    "duration": 24,
+    "year": 2017,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a87",
+  "title": "Bleach",
+  "ours": {
+   "totalEps": 392,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 392; Jikan None, AniList 366 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 269,
+    "title": "BLEACH",
+    "eps": 366,
+    "duration": 24,
+    "year": 2004,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a88",
+  "title": "Boruto",
+  "ours": {
+   "totalEps": 293,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 97938,
+    "title": "BORUTO: NARUTO NEXT GENERATIONS",
+    "eps": 293,
+    "duration": 24,
+    "year": 2017,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a89",
+  "title": "Bungou Stray Dogs",
+  "ours": {
+   "totalEps": 47,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 47; Jikan None, AniList 12 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 21311,
+    "title": "Bungou Stray Dogs",
+    "eps": 12,
+    "duration": 24,
+    "year": 2016,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a90",
+  "title": "5 Centimeters Per Second",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 0,
+   "duration": 63,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 1; Jikan None, AniList 3 (può essere voce franchise/più stagioni)"
+   ],
+   [
+    "DURATA",
+    "Nostro 63 min; Jikan None, AniList 22"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 1689,
+    "title": "Byousoku 5 Centimeter",
+    "eps": 3,
+    "duration": 22,
+    "year": 2007,
+    "format": "MOVIE",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a91",
+  "title": "Chi. Chikyuu no Undou ni Tsuite",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 151514,
+    "title": "Chi. Chikyuu no Undou ni Tsuite",
+    "eps": 25,
+    "duration": 25,
+    "year": 2024,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a92",
+  "title": "Clannad",
+  "ours": {
+   "totalEps": 47,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 47; Jikan None, AniList 23 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 2167,
+    "title": "CLANNAD",
+    "eps": 23,
+    "duration": 24,
+    "year": 2007,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a93",
+  "title": "Claymore",
+  "ours": {
+   "totalEps": 26,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 1818,
+    "title": "CLAYMORE",
+    "eps": 26,
+    "duration": 23,
+    "year": 2007,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a94",
+  "title": "Cowboy Bebop",
+  "ours": {
+   "totalEps": 26,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 1,
+    "title": "Cowboy Bebop",
+    "eps": 26,
+    "duration": 24,
+    "year": 1998,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a95",
+  "title": "D.Gray-man",
+  "ours": {
+   "totalEps": 116,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 116; Jikan None, AniList 103 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 1482,
+    "title": "D.Gray-man",
+    "eps": 103,
+    "duration": 23,
+    "year": 2006,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a96",
+  "title": "Dandadan",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "a97",
+  "title": "Devilman: Crybaby",
+  "ours": {
+   "totalEps": 10,
+   "epsWatched": 0,
+   "duration": 30,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "DURATA",
+    "Nostro 30 min; Jikan None, AniList 25"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 98460,
+    "title": "DEVILMAN crybaby",
+    "eps": 10,
+    "duration": 25,
+    "year": 2018,
+    "format": "ONA",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a98",
+  "title": "Edens Zero",
+  "ours": {
+   "totalEps": 50,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 50; Jikan None, AniList 25 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 119683,
+    "title": "EDENS ZERO",
+    "eps": 25,
+    "duration": 23,
+    "year": 2021,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a99",
+  "title": "Enen no Shouboutai",
+  "ours": {
+   "totalEps": 73,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 73; Jikan None, AniList 24 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 105310,
+    "title": "Enen no Shouboutai",
+    "eps": 24,
+    "duration": 24,
+    "year": 2019,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a100",
+  "title": "Fairy Tail",
+  "ours": {
+   "totalEps": 328,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 328; Jikan None, AniList 175 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 6702,
+    "title": "FAIRY TAIL",
+    "eps": 175,
+    "duration": 24,
+    "year": 2009,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a101",
+  "title": "Fate/Zero",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 25; Jikan None, AniList 13 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 10087,
+    "title": "Fate/Zero",
+    "eps": 13,
+    "duration": 24,
+    "year": 2011,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a102",
+  "title": "Fruits Basket",
+  "ours": {
+   "totalEps": 63,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "a103",
+  "title": "Fumetsu no Anata e",
+  "ours": {
+   "totalEps": 62,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "a104",
+  "title": "Gachiakuta",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "a105",
+  "title": "Ginga Eiyuu Densetsu",
+  "ours": {
+   "totalEps": 110,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "a106",
+  "title": "Gintama",
+  "ours": {
+   "totalEps": 400,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 400; Jikan None, AniList 201 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 918,
+    "title": "Gintama",
+    "eps": 201,
+    "duration": 25,
+    "year": 2006,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a107",
+  "title": "Golden Kamuy",
+  "ours": {
+   "totalEps": 62,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 62; Jikan None, AniList 12 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 99699,
+    "title": "Golden Kamuy",
+    "eps": 12,
+    "duration": 24,
+    "year": 2018,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a108",
+  "title": "Great Pretender",
+  "ours": {
+   "totalEps": 23,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 110349,
+    "title": "GREAT PRETENDER",
+    "eps": 23,
+    "duration": 23,
+    "year": 2020,
+    "format": "ONA",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a109",
+  "title": "Great Teacher Onizuka",
+  "ours": {
+   "totalEps": 43,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 245,
+    "title": "GTO",
+    "eps": 43,
+    "duration": 25,
+    "year": 1999,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a110",
+  "title": "Kaiji",
+  "ours": {
+   "totalEps": 52,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 52; Jikan None, AniList 26 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 3002,
+    "title": "Gyakkyou Burai Kaiji: Ultimate Survivor",
+    "eps": 26,
+    "duration": 23,
+    "year": 2007,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a111",
+  "title": "Haibane Renmei",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 387,
+    "title": "Haibane Renmei",
+    "eps": 13,
+    "duration": 24,
+    "year": 2002,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a112",
+  "title": "Haikyuu!!",
+  "ours": {
+   "totalEps": 85,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 85; Jikan None, AniList 25 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 20464,
+    "title": "Haikyuu!!",
+    "eps": 25,
+    "duration": 24,
+    "year": 2014,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a113",
+  "title": "Hajime no Ippo",
+  "ours": {
+   "totalEps": 126,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 126; Jikan None, AniList 75 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 263,
+    "title": "Hajime no Ippo: THE FIGHTING!",
+    "eps": 75,
+    "duration": 23,
+    "year": 2000,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a114",
+  "title": "Hellsing Ultimate",
+  "ours": {
+   "totalEps": 10,
+   "epsWatched": 0,
+   "duration": 50,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 777,
+    "title": "HELLSING OVA",
+    "eps": 10,
+    "duration": 50,
+    "year": 2006,
+    "format": "OVA",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a115",
+  "title": "Grave of the Fireflies",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 0,
+   "duration": 89,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 578,
+    "title": "Hotaru no Haka",
+    "eps": 1,
+    "duration": 88,
+    "year": 1988,
+    "format": "MOVIE",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a116",
+  "title": "Houseki no Kuni",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 98707,
+    "title": "Houseki no Kuni",
+    "eps": 12,
+    "duration": 24,
+    "year": 2017,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a117",
+  "title": "Hyouka",
+  "ours": {
+   "totalEps": 22,
+   "epsWatched": 0,
+   "duration": 22,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 12189,
+    "title": "Hyouka",
+    "eps": 22,
+    "duration": 26,
+    "year": 2012,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a118",
+  "title": "Inazuma Eleven",
+  "ours": {
+   "totalEps": 296,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 296; Jikan None, AniList 127 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 5231,
+    "title": "Inazuma Eleven",
+    "eps": 127,
+    "duration": 25,
+    "year": 2008,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a119",
+  "title": "Jibaku Shounen Hanako-kun",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 24; Jikan None, AniList 12 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 108463,
+    "title": "Jibaku Shounen Hanako-kun",
+    "eps": 12,
+    "duration": 24,
+    "year": 2020,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a120",
+  "title": "Kage no Jitsuryokusha",
+  "ours": {
+   "totalEps": 32,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 32; Jikan None, AniList 20 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 130298,
+    "title": "Kage no Jitsuryokusha ni Naritakute!",
+    "eps": 20,
+    "duration": 24,
+    "year": 2022,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a121",
+  "title": "Kaijuu 8-gou",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 153288,
+    "title": "Kaijuu 8-gou",
+    "eps": 12,
+    "duration": 24,
+    "year": 2024,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a122",
+  "title": "Katekyou Hitman Reborn!",
+  "ours": {
+   "totalEps": 203,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 1604,
+    "title": "Katekyou Hitman REBORN!",
+    "eps": 203,
+    "duration": 24,
+    "year": 2006,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a123",
+  "title": "Kingdom",
+  "ours": {
+   "totalEps": 130,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 130; Jikan None, AniList 38 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 12031,
+    "title": "Kingdom",
+    "eps": 38,
+    "duration": 25,
+    "year": 2012,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a124",
+  "title": "Kino no Tabi",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 486,
+    "title": "Kino no Tabi: the Beautiful World",
+    "eps": 13,
+    "duration": 25,
+    "year": 2003,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a125",
+  "title": "Komi-san",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 24; Jikan None, AniList 12 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 133965,
+    "title": "Komi-san wa, Komyushou desu.",
+    "eps": 12,
+    "duration": 24,
+    "year": 2021,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a126",
+  "title": "Ghost in the Shell",
+  "ours": {
+   "totalEps": 28,
+   "epsWatched": 0,
+   "duration": 25,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 28; Jikan None, AniList 1 (può essere voce franchise/più stagioni)"
+   ],
+   [
+    "DURATA",
+    "Nostro 25 min; Jikan None, AniList 83"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 43,
+    "title": "GHOST IN THE SHELL: Koukaku Kidoutai",
+    "eps": 1,
+    "duration": 83,
+    "year": 1995,
+    "format": "MOVIE",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a127",
+  "title": "Koutetsujou no Kabaneri",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 21196,
+    "title": "Koutetsujou no Kabaneri",
+    "eps": 12,
+    "duration": 23,
+    "year": 2016,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a128",
+  "title": "Kusuriya no Hitorigoto",
+  "ours": {
+   "totalEps": 48,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 48; Jikan None, AniList 24 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 161645,
+    "title": "Kusuriya no Hitorigoto",
+    "eps": 24,
+    "duration": 23,
+    "year": 2023,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a129",
+  "title": "Log Horizon",
+  "ours": {
+   "totalEps": 62,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 62; Jikan None, AniList 25 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 17265,
+    "title": "Log Horizon",
+    "eps": 25,
+    "duration": 25,
+    "year": 2013,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a130",
+  "title": "Magi",
+  "ours": {
+   "totalEps": 63,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 63; Jikan None, AniList 26 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 157,
+    "title": "Mahou Sensei Negima!",
+    "eps": 26,
+    "duration": 23,
+    "year": 2005,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a131",
+  "title": "Mahou Shoujo Madoka Magica",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 9756,
+    "title": "Mahou Shoujo Madoka☆Magica",
+    "eps": 12,
+    "duration": 24,
+    "year": 2011,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a132",
+  "title": "Monster",
+  "ours": {
+   "totalEps": 74,
+   "epsWatched": 12,
+   "duration": 25,
+   "status": "in_progress"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 19,
+    "title": "MONSTER",
+    "eps": 74,
+    "duration": 24,
+    "year": 2004,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a133",
+  "title": "Mushishi",
+  "ours": {
+   "totalEps": 46,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 46; Jikan None, AniList 26 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 457,
+    "title": "Mushishi",
+    "eps": 26,
+    "duration": 25,
+    "year": 2005,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a134",
+  "title": "Mushoku Tensei",
+  "ours": {
+   "totalEps": 35,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 35; Jikan None, AniList 11 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 108465,
+    "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "eps": 11,
+    "duration": 24,
+    "year": 2021,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a135",
+  "title": "NHK ni Youkoso!",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 1210,
+    "title": "NHK ni Youkoso!",
+    "eps": 24,
+    "duration": 24,
+    "year": 2006,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a136",
+  "title": "Nanatsu no Taizai",
+  "ours": {
+   "totalEps": 96,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 96; Jikan None, AniList 24 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 20789,
+    "title": "Nanatsu no Taizai",
+    "eps": 24,
+    "duration": 25,
+    "year": 2014,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a137",
+  "title": "Noragami",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "a138",
+  "title": "Oshi no Ko",
+  "ours": {
+   "totalEps": 23,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "a139",
+  "title": "Ousama Ranking",
+  "ours": {
+   "totalEps": 23,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "a140",
+  "title": "Perfect Blue",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 0,
+   "duration": 81,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "a141",
+  "title": "Plastic Memories",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "a142",
+  "title": "Psycho-Pass",
+  "ours": {
+   "totalEps": 41,
+   "epsWatched": 0,
+   "duration": 22,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 41; Jikan None, AniList 22 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 13601,
+    "title": "PSYCHO-PASS",
+    "eps": 22,
+    "duration": 23,
+    "year": 2012,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a143",
+  "title": "Rainbow: Nisha Rokubou no Shichinin",
+  "ours": {
+   "totalEps": 26,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 6114,
+    "title": "RAINBOW: Nisha Rokubou no Shichinin",
+    "eps": 26,
+    "duration": 23,
+    "year": 2010,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a144",
+  "title": "Re:Zero",
+  "ours": {
+   "totalEps": 78,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 78; Jikan None, AniList 25 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 21355,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "eps": 25,
+    "duration": 25,
+    "year": 2016,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a145",
+  "title": "Saiki Kusuo no Psi-nan",
+  "ours": {
+   "totalEps": 144,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 144; Jikan None, AniList 24 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 98034,
+    "title": "Saiki Kusuo no Ψ-nan 2",
+    "eps": 24,
+    "duration": 24,
+    "year": 2018,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a146",
+  "title": "Seishun Buta Yarou",
+  "ours": {
+   "totalEps": 14,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 14; Jikan None, AniList 13 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 101291,
+    "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "eps": 13,
+    "duration": 25,
+    "year": 2018,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a147",
+  "title": "Sen to Chihiro no Kamikakushi",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 0,
+   "duration": 125,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 199,
+    "title": "Sen to Chihiro no Kamikakushi",
+    "eps": 1,
+    "duration": 125,
+    "year": 2001,
+    "format": "MOVIE",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a148",
+  "title": "Shangri-La Frontier",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 151970,
+    "title": "Shangri-La Frontier",
+    "eps": 25,
+    "duration": 26,
+    "year": 2023,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a149",
+  "title": "Shigatsu wa Kimi no Uso",
+  "ours": {
+   "totalEps": 22,
+   "epsWatched": 0,
+   "duration": 22,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 20665,
+    "title": "Shigatsu wa Kimi no Uso",
+    "eps": 22,
+    "duration": 23,
+    "year": 2014,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a150",
+  "title": "Slam Dunk",
+  "ours": {
+   "totalEps": 101,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 170,
+    "title": "SLAM DUNK",
+    "eps": 101,
+    "duration": 23,
+    "year": 1993,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a151",
+  "title": "Soul Eater",
+  "ours": {
+   "totalEps": 51,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 3588,
+    "title": "Soul Eater",
+    "eps": 51,
+    "duration": 24,
+    "year": 2008,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a152",
+  "title": "Sousou no Frieren",
+  "ours": {
+   "totalEps": 38,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 38; Jikan None, AniList 28 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 154587,
+    "title": "Sousou no Frieren",
+    "eps": 28,
+    "duration": 24,
+    "year": 2023,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a153",
+  "title": "Tenkuu no Shiro Laputa",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 0,
+   "duration": 124,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 513,
+    "title": "Tenkuu no Shiro Laputa",
+    "eps": 1,
+    "duration": 125,
+    "year": 1986,
+    "format": "MOVIE",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a154",
+  "title": "Tensei shitara Slime Datta Ken",
+  "ours": {
+   "totalEps": 60,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 60; Jikan None, AniList 24 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 101280,
+    "title": "Tensei Shitara Slime Datta Ken",
+    "eps": 24,
+    "duration": 24,
+    "year": 2018,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a155",
+  "title": "Tonari no Totoro",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 0,
+   "duration": 86,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 523,
+    "title": "Tonari no Totoro",
+    "eps": 1,
+    "duration": 86,
+    "year": 1988,
+    "format": "MOVIE",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a156",
+  "title": "Trigun",
+  "ours": {
+   "totalEps": 38,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 38; Jikan None, AniList 26 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 6,
+    "title": "TRIGUN",
+    "eps": 26,
+    "duration": 24,
+    "year": 1998,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a157",
+  "title": "Uchuu Kyoudai",
+  "ours": {
+   "totalEps": 99,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 12431,
+    "title": "Uchuu Kyoudai",
+    "eps": 99,
+    "duration": 24,
+    "year": 2012,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a158",
+  "title": "Violet Evergarden",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 21827,
+    "title": "Violet Evergarden",
+    "eps": 13,
+    "duration": 24,
+    "year": 2018,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a159",
+  "title": "Vivy: Fluorite Eye's Song",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 128546,
+    "title": "Vivy: Fluorite Eye’s Song",
+    "eps": 13,
+    "duration": 23,
+    "year": 2021,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a160",
+  "title": "Wotaku ni Koi wa Muzukashii",
+  "ours": {
+   "totalEps": 11,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 99578,
+    "title": "Wotaku ni Koi wa Muzukashii",
+    "eps": 11,
+    "duration": 23,
+    "year": 2018,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a161",
+  "title": "Yahari Ore no Seishun Love Comedy",
+  "ours": {
+   "totalEps": 38,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 38; Jikan None, AniList 1 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 21769,
+    "title": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru",
+    "eps": 1,
+    "duration": 24,
+    "year": 2016,
+    "format": "OVA",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a162",
+  "title": "Yuu☆Yuu☆Hakusho",
+  "ours": {
+   "totalEps": 112,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 392,
+    "title": "Yuu☆Yuu☆Hakusho",
+    "eps": 112,
+    "duration": 24,
+    "year": 1992,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a163",
+  "title": "Zom 100",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 159831,
+    "title": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto",
+    "eps": 12,
+    "duration": 24,
+    "year": 2023,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a164",
+  "title": "Shaman King (2021)",
+  "ours": {
+   "totalEps": 52,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 119675,
+    "title": "SHAMAN KING (2021)",
+    "eps": 52,
+    "duration": 24,
+    "year": 2021,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a165",
+  "title": "Kenpuu Denki Berserk",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 33,
+    "title": "Kenpuu Denki Berserk",
+    "eps": 25,
+    "duration": 25,
+    "year": 1997,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a166",
+  "title": "Usagi Drop",
+  "ours": {
+   "totalEps": 11,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 10162,
+    "title": "Usagi Drop",
+    "eps": 11,
+    "duration": 22,
+    "year": 2011,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a167",
+  "title": "Mononoke Hime",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 0,
+   "duration": 134,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 164,
+    "title": "Mononoke-hime",
+    "eps": 1,
+    "duration": 134,
+    "year": 1997,
+    "format": "MOVIE",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a168",
+  "title": "Tenki no Ko",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 0,
+   "duration": 112,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 106286,
+    "title": "Tenki no Ko",
+    "eps": 1,
+    "duration": 115,
+    "year": 2019,
+    "format": "MOVIE",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a169",
+  "title": "Kaoru Hana wa Rin to Saku",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 181444,
+    "title": "Kaoru Hana wa Rin to Saku",
+    "eps": 13,
+    "duration": 24,
+    "year": 2025,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a170",
+  "title": "Tongari Boushi no Atelier",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 213702,
+    "title": "Tongari Boushi no Atelier 2nd Season",
+    "eps": null,
+    "duration": null,
+    "year": null,
+    "format": "TV",
+    "status": "NOT_YET_RELEASED"
+   }
+  }
+ },
+ {
+  "id": "a171",
+  "title": "Dead Dead Demon's Dededede Destruction",
+  "ours": {
+   "totalEps": 2,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 2; Jikan None, AniList 18 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 177697,
+    "title": "Dead Dead Demon's Dededededestruction",
+    "eps": 18,
+    "duration": 24,
+    "year": 2024,
+    "format": "ONA",
+    "status": "FINISHED"
+   }
+  }
+ },
+ {
+  "id": "a172",
+  "title": "Sword Art Online",
+  "ours": {
+   "totalEps": 88,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "a173",
+  "title": "Fate/stay night: Unlimited Blade Works",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 0,
+   "duration": 24,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EPISODI",
+    "Nostro 25; Jikan None, AniList 13 (può essere voce franchise/più stagioni)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "id": 19603,
+    "title": "Fate/stay night: Unlimited Blade Works",
+    "eps": 13,
+    "duration": 24,
+    "year": 2014,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
+ }
+]
