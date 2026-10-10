@@ -32,7 +32,7 @@
     "genres": "Adventure,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f2",
@@ -67,7 +67,13 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Prisoners (2013, 153 min)",
+   "Prisoners (1975, 88 min)",
+   "Prisoners (1971, 50 min)",
+   "Prisoners (1929, 87 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f3",
@@ -102,7 +108,7 @@
     "genres": "Mystery,Thriller"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f4",
@@ -137,7 +143,7 @@
     "genres": "Action,Adventure,Mystery"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f5",
@@ -171,7 +177,11 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Fight Club (1999, 139 min)",
+   "Fight Club (2023, 135 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f6",
@@ -206,7 +216,12 @@
     "genres": "Biography,Comedy,Crime"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "The Wolf of Wall Street (2013, 180 min)",
+   "The Real Wolf of Wall Street (2026, 0 min)",
+   "Lo sparviero di Wall Street (1929, 90 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f7",
@@ -241,7 +256,7 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f8",
@@ -276,7 +291,12 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "The Departed - Il bene e il male (2006, 149 min)",
+   "The Departed 2 (, 4 min)",
+   "رفته گان (, 7 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f9",
@@ -285,12 +305,7 @@
    "duration": 138,
    "cover_year": null
   },
-  "flags": [
-   [
-    "AMBIGUO",
-    "Più film con lo stesso titolo: L.A. Confidential (1997), L.A. Confidential (2003), L.A. Confidential (2013)"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "id": 2118,
@@ -316,7 +331,12 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.0
+  "alternatives": [
+   "L.A. Confidential (1997, 138 min)",
+   "L.A. Confidential (2003, 47 min)",
+   "L.A. Confidential (2013, 6 min)"
+  ],
+  "note": "anno dedotto dalla durata più vicina tra omonimi"
  },
  {
   "id": "f10",
@@ -356,7 +376,7 @@
     "genres": "Adventure,Comedy"
    }
   },
-  "match_score": 0.88
+  "note": ""
  },
  {
   "id": "f11",
@@ -405,7 +425,12 @@
     "genres": "Comedy,Drama,Romance"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "La vita è bella (1997, 116 min)",
+   "La vita è bella (1979, 101 min)",
+   "La vita è bella (1943, 76 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f13",
@@ -439,7 +464,13 @@
     "genres": "Biography,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Prova a prendermi (2002, 141 min)",
+   "Catch Me If You Can (1998, 120 min)",
+   "Scommesse al college (1989, 106 min)",
+   "Catch Me If You Can! (1959, 85 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f14",
@@ -474,7 +505,7 @@
     "genres": "Action,Adventure,Mystery"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f15",
@@ -509,7 +540,7 @@
     "genres": "Drama,Mystery,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f16",
@@ -543,7 +574,13 @@
     "genres": "Action,Drama,Mystery"
    }
   },
-  "match_score": 1.07
+  "alternatives": [
+   "Old Boy (2003, 119 min)",
+   "Oldboys (2009, 100 min)",
+   "Oldboy (2013, 104 min)",
+   "올드보이 (2026, 68 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f17",
@@ -578,7 +615,12 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 0.62
+  "alternatives": [
+   "Memorie di un assassino (2003, 129 min)",
+   "Omicidio nell'ombra (1990, 104 min)",
+   "No Memories of Murder (, 0 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f18",
@@ -612,7 +654,7 @@
     "genres": "Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f19",
@@ -647,7 +689,7 @@
     "genres": "Comedy,Drama,Fantasy"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f20",
@@ -697,7 +739,13 @@
     "genres": "Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Parasite (2019, 132 min)",
+   "Parasite (2006, 22 min)",
+   "Parasite (2004, 93 min)",
+   "Mutanti (1982, 85 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f22",
@@ -731,7 +779,7 @@
     "genres": "Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f23",
@@ -766,7 +814,7 @@
     "genres": "Adventure,Comedy,Sci-Fi"
    }
   },
-  "match_score": 0.94
+  "note": "1° film della saga"
  },
  {
   "id": "f24",
@@ -802,7 +850,7 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f25",
@@ -837,7 +885,13 @@
     "genres": "Drama,Mystery,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Arrival (2016, 116 min)",
+   "Arrival (2016, 22 min)",
+   "The Arrival (1996, 115 min)",
+   "The Arrival (1991, 103 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f26",
@@ -872,7 +926,13 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Zodiac (2007, 157 min)",
+   "The Zodiac (2005, 92 min)",
+   "Zodiac: il segno dell'apocalisse (2014, 89 min)",
+   "Zodiac (2024, 15 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f27",
@@ -896,13 +956,33 @@
    "duration": 143,
    "cover_year": null
   },
-  "flags": [
-   [
-    "NON_TROVATO",
-    "Nessun film TMDB corrisponde al titolo"
-   ]
-  ],
-  "src": {}
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "id": 1865,
+    "title": "Pirati dei Caraibi - Oltre i confini del mare",
+    "orig": "Pirates of the Caribbean: On Stranger Tides",
+    "year": 2011,
+    "runtime": 141,
+    "imdb": "tt1298650",
+    "genres": [
+     "Avventura",
+     "Azione",
+     "Fantasy"
+    ],
+    "director": [
+     "Rob Marshall"
+    ]
+   },
+   "imdb": {
+    "id": "tt1298650",
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "year": 2011,
+    "runtime": 136,
+    "genres": "Action,Adventure,Fantasy"
+   }
+  },
+  "note": ""
  },
  {
   "id": "f29",
@@ -935,7 +1015,7 @@
     "genres": "Biography,Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f30",
@@ -970,7 +1050,11 @@
     "genres": "Adventure,Sci-Fi,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Inception (2010, 148 min)",
+   "Эхлэл (1980, 77 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f31",
@@ -1004,7 +1088,7 @@
     "genres": "Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f32",
@@ -1039,7 +1123,13 @@
     "genres": "Action,Drama,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Predestination (2014, 97 min)",
+   "Predestination (2013, 7 min)",
+   "Predestination (2021, 7 min)",
+   "探清水河：重生 (2025, 0 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f33",
@@ -1073,7 +1163,7 @@
     "genres": "Comedy,Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f34",
@@ -1108,7 +1198,7 @@
     "genres": "Biography,Drama,History"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f35",
@@ -1143,7 +1233,7 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f36",
@@ -1178,7 +1268,7 @@
     "genres": "Comedy,Drama"
    }
   },
-  "match_score": 0.78
+  "note": ""
  },
  {
   "id": "f37",
@@ -1215,7 +1305,7 @@
     "genres": "Adventure,Animation,Comedy"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f38",
@@ -1249,7 +1339,13 @@
     "genres": "Mystery,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Memento (2000, 113 min)",
+   "35米厘：兇心人 (2002, 84 min)",
+   "Memento (1997, 44 min)",
+   "Memento (1966, 16 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f39",
@@ -1284,7 +1380,12 @@
     "genres": "Comedy,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Cena con delitto - Knives Out (2019, 130 min)",
+   "Knives out (2016, 90 min)",
+   "Knives Out (2024, 4 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f40",
@@ -1319,7 +1420,12 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Training Day (2001, 123 min)",
+   "Training Day (2010, 30 min)",
+   "Training Day (2026, 9 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f41",
@@ -1355,7 +1461,7 @@
     "genres": "Action,Mystery,Sci-Fi"
    }
   },
-  "match_score": 1.07
+  "note": ""
  },
  {
   "id": "f42",
@@ -1389,7 +1495,11 @@
     "genres": "Biography,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Quei bravi ragazzi (1990, 145 min)",
+   "رفقای خوب (2016, 99 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f43",
@@ -1424,7 +1534,11 @@
     "genres": "Action,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Matrix (1999, 136 min)",
+   "The Matrix (2004, 4 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f44",
@@ -1433,13 +1547,36 @@
    "duration": 119,
    "cover_year": 1976
   },
-  "flags": [
-   [
-    "NON_TROVATO",
-    "Nessun film TMDB corrisponde al titolo"
-   ]
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "id": 1366,
+    "title": "Rocky",
+    "orig": "Rocky",
+    "year": 1976,
+    "runtime": 119,
+    "imdb": "tt0075148",
+    "genres": [
+     "Dramma"
+    ],
+    "director": [
+     "John G. Avildsen"
+    ]
+   },
+   "imdb": {
+    "id": "tt0075148",
+    "title": "Rocky",
+    "year": 1976,
+    "runtime": 120,
+    "genres": "Drama,Sport"
+   }
+  },
+  "alternatives": [
+   "Rocky (1976, 119 min)",
+   "Rocky (1976, 20 min)",
+   "Rocky (2017, 15 min)"
   ],
-  "src": {}
+  "note": ""
  },
  {
   "id": "f45",
@@ -1474,7 +1611,13 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Inside Man (2006, 129 min)",
+   "Gemini Lounge (2023, 87 min)",
+   "The Inside Man (2023, 46 min)",
+   "La talpa (1984, 95 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f46",
@@ -1509,7 +1652,7 @@
     "genres": "Adventure,Comedy,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f47",
@@ -1544,7 +1687,7 @@
     "genres": "Drama,Mystery,Thriller"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f48",
@@ -1579,7 +1722,7 @@
     "genres": "Drama,Romance"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f49",
@@ -1613,7 +1756,12 @@
     "genres": "Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Casinò (1995, 178 min)",
+   "濠江風雲 (1998, 92 min)",
+   "Casino (1980, 96 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f50",
@@ -1648,7 +1796,11 @@
     "genres": "Drama,Mystery,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "L'amore bugiardo - Gone Girl (2014, 149 min)",
+   "Gone Girl (2025, 5 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f51",
@@ -1683,7 +1835,11 @@
     "genres": "Action,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Drive (2011, 100 min)",
+   "Drive - Prendetelo vivo (1997, 100 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f52",
@@ -1717,7 +1873,11 @@
     "genres": "Crime,Mystery,Thriller"
    }
   },
-  "match_score": 1.08
+  "alternatives": [
+   "Now You See Me - I maghi del crimine (2013, 115 min)",
+   "Now You See Me 2 (2016, 129 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f53",
@@ -1751,7 +1911,12 @@
     "genres": "Comedy,Crime"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Snatch - Lo strappo (2000, 104 min)",
+   "Snatch (2023, 16 min)",
+   "Snatch (, 40 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f54",
@@ -1785,7 +1950,13 @@
     "genres": "Mystery,Sci-Fi,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Segnali dal futuro (2009, 121 min)",
+   "Knowing (2013, 5 min)",
+   "The Knowing (2023, 17 min)",
+   "The Knowing (2024, 25 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f55",
@@ -1825,7 +1996,7 @@
     "genres": "Drama,Family,Fantasy"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f56",
@@ -1858,7 +2029,12 @@
     "genres": "Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Detachment - Il distacco (2011, 98 min)",
+   "해체 (2023, 38 min)",
+   "Detachment (2025, 0 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f57",
@@ -1891,7 +2067,7 @@
     "genres": "Drama,Romance"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f58",
@@ -1926,7 +2102,7 @@
     "genres": "Action,Drama,Sci-Fi"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f59",
@@ -1935,12 +2111,7 @@
    "duration": 116,
    "cover_year": null
   },
-  "flags": [
-   [
-    "AMBIGUO",
-    "Più film con lo stesso titolo: Ocean's Eleven - Fate il vostro gioco (2001), Colpo grosso (1960), 'Ocean's Eleven': The Look of the Con (2002)"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "id": 161,
@@ -1965,7 +2136,11 @@
     "genres": "Crime,Thriller"
    }
   },
-  "match_score": 1.0
+  "alternatives": [
+   "Ocean's Eleven - Fate il vostro gioco (2001, 116 min)",
+   "Colpo grosso (1960, 127 min)"
+  ],
+  "note": "anno dedotto dalla durata più vicina tra omonimi"
  },
  {
   "id": "f60",
@@ -1999,7 +2174,7 @@
     "genres": "Mystery,Thriller"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f61",
@@ -2008,33 +2183,13 @@
    "duration": 101,
    "cover_year": 2005
   },
-  "flags": [],
-  "src": {
-   "tmdb": {
-    "id": 6795,
-    "title": "Zathura - Un'avventura spaziale",
-    "orig": "Zathura: A Space Adventure",
-    "year": 2005,
-    "runtime": 113,
-    "imdb": "tt0406375",
-    "genres": [
-     "Fantascienza",
-     "Avventura",
-     "Famiglia"
-    ],
-    "director": [
-     "Jon Favreau"
-    ]
-   },
-   "imdb": {
-    "id": "tt0406375",
-    "title": "Zathura: A Space Adventure",
-    "year": 2005,
-    "runtime": 101,
-    "genres": "Action,Adventure,Comedy"
-   }
-  },
-  "match_score": 0.62
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessun film TMDB corrisponde al titolo"
+   ]
+  ],
+  "src": {}
  },
  {
   "id": "f62",
@@ -2069,7 +2224,11 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Schegge di paura (1996, 125 min)",
+   "Primal Fear (2008, 89 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f63",
@@ -2104,7 +2263,13 @@
     "genres": "Drama,Mystery,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Insomnia (2002, 118 min)",
+   "Insomnia (1999, 13 min)",
+   "Insomnia (1997, 96 min)",
+   "Insomnia (1994, 85 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f64",
@@ -2140,7 +2305,11 @@
     "genres": "Biography,Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "The Imitation Game (2014, 114 min)",
+   "The Imitation Game (1980, 75 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f65",
@@ -2175,7 +2344,13 @@
     "genres": "Crime,Mystery,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Forgotten (2017, 109 min)",
+   "Forgotten (2022, 107 min)",
+   "The Forgotten (2004, 96 min)",
+   "Forgotten (1933, 65 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f66",
@@ -2210,7 +2385,13 @@
     "genres": "Action,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Léon (1994, 110 min)",
+   "León (2013, 108 min)",
+   "Leon (2023, 81 min)",
+   "León (2024, 80 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f67",
@@ -2245,7 +2426,7 @@
     "genres": "Adventure,Drama,Family"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f68",
@@ -2279,7 +2460,7 @@
     "genres": "Action,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f69",
@@ -2315,7 +2496,7 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f70",
@@ -2326,11 +2507,36 @@
   },
   "flags": [
    [
-    "NON_TROVATO",
-    "Nessun film TMDB corrisponde al titolo"
+    "DURATA?",
+    "Nostro 151 min; TMDB 141, IMDb 136 → proposta 141"
    ]
   ],
-  "src": {}
+  "src": {
+   "tmdb": {
+    "id": 1865,
+    "title": "Pirati dei Caraibi - Oltre i confini del mare",
+    "orig": "Pirates of the Caribbean: On Stranger Tides",
+    "year": 2011,
+    "runtime": 141,
+    "imdb": "tt1298650",
+    "genres": [
+     "Avventura",
+     "Azione",
+     "Fantasy"
+    ],
+    "director": [
+     "Rob Marshall"
+    ]
+   },
+   "imdb": {
+    "id": "tt1298650",
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "year": 2011,
+    "runtime": 136,
+    "genres": "Action,Adventure,Fantasy"
+   }
+  },
+  "note": ""
  },
  {
   "id": "f71",
@@ -2339,32 +2545,44 @@
    "duration": 91,
    "cover_year": 1985
   },
-  "flags": [],
+  "flags": [
+   [
+    "ANNO",
+    "Anno copertina 1985 ≠ TMDB 1976"
+   ],
+   [
+    "DURATA",
+    "Nostro 91 min; TMDB 119, IMDb 120 → proposta 120"
+   ]
+  ],
   "src": {
    "tmdb": {
-    "id": 1374,
-    "title": "Rocky IV",
-    "orig": "Rocky IV",
-    "year": 1985,
-    "runtime": 91,
-    "imdb": "tt0089927",
+    "id": 1366,
+    "title": "Rocky",
+    "orig": "Rocky",
+    "year": 1976,
+    "runtime": 119,
+    "imdb": "tt0075148",
     "genres": [
-     "Dramma",
-     "Azione"
+     "Dramma"
     ],
     "director": [
-     "Sylvester Stallone"
+     "John G. Avildsen"
     ]
    },
    "imdb": {
-    "id": "tt0089927",
-    "title": "Rocky IV",
-    "year": 1985,
-    "runtime": 91,
+    "id": "tt0075148",
+    "title": "Rocky",
+    "year": 1976,
+    "runtime": 120,
     "genres": "Drama,Sport"
    }
   },
-  "match_score": 0.95
+  "alternatives": [
+   "Rocky (1976, 119 min)",
+   "Rocky (2017, 15 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f72",
@@ -2399,7 +2617,7 @@
     "genres": "Adventure,Comedy,Family"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f73",
@@ -2433,7 +2651,12 @@
     "genres": "Drama,Romance"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Le pagine della nostra vita (2004, 123 min)",
+   "Il grande quaderno (2013, 112 min)",
+   "The Notebook (2014, 2 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f74",
@@ -2468,7 +2691,11 @@
     "genres": "Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Lord of War (2005, 122 min)",
+   "Lords of War (, 0 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f75",
@@ -2502,7 +2729,7 @@
     "genres": "Comedy,Crime"
    }
   },
-  "match_score": 1.02
+  "note": ""
  },
  {
   "id": "f76",
@@ -2539,7 +2766,7 @@
     "genres": "Adventure,Drama,Family"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f77",
@@ -2579,7 +2806,7 @@
     "genres": "Action,Adventure,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f78",
@@ -2614,7 +2841,7 @@
     "genres": "Adventure,Comedy,Family"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f79",
@@ -2626,7 +2853,7 @@
   "flags": [
    [
     "DURATA",
-    "Nostro 118 min; TMDB 108, IMDb 108 → proposta 108"
+    "Nostro 118 min; TMDB 108, IMDb 108 → proposta 108 [2° film della saga]"
    ]
   ],
   "src": {
@@ -2654,7 +2881,7 @@
     "genres": "Adventure,Comedy,Sci-Fi"
    }
   },
-  "match_score": 0.8
+  "note": "2° film della saga"
  },
  {
   "id": "f80",
@@ -2665,7 +2892,7 @@
   },
   "flags": [
    [
-    "DURATA",
+    "DURATA?",
     "Nostro 169 min; TMDB 141, IMDb 136 → proposta 141"
    ]
   ],
@@ -2694,7 +2921,7 @@
     "genres": "Action,Adventure,Fantasy"
    }
   },
-  "match_score": 0.62
+  "note": ""
  },
  {
   "id": "f81",
@@ -2729,7 +2956,7 @@
     "genres": "Drama,War"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f82",
@@ -2765,7 +2992,13 @@
     "genres": "Drama,Fantasy,Mystery"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "The Illusionist - L'illusionista (2006, 110 min)",
+   "The Illusionist (2009, 2 min)",
+   "L'illusionista (2010, 80 min)",
+   "De illusionist (1983, 90 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f83",
@@ -2800,7 +3033,12 @@
     "genres": "Comedy,Family,Fantasy"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Mary Poppins (1964, 140 min)",
+   "Мэри Поппинс (1979, 0 min)",
+   "مری پاپینز (2019, 84 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f84",
@@ -2834,7 +3072,7 @@
     "genres": "Biography,Comedy,Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f85",
@@ -2843,12 +3081,7 @@
    "duration": 115,
    "cover_year": null
   },
-  "flags": [
-   [
-    "AMBIGUO",
-    "Più film con lo stesso titolo: La fabbrica di cioccolato (2005), la fabbrica di cioccolato (), Mr. Moll e la fabbrica di cioccolato (2017)"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "id": 118,
@@ -2875,7 +3108,11 @@
     "genres": "Adventure,Comedy,Family"
    }
   },
-  "match_score": 1.0
+  "alternatives": [
+   "La fabbrica di cioccolato (2005, 106 min)",
+   "la fabbrica di cioccolato (, 0 min)"
+  ],
+  "note": "anno dedotto dalla durata più vicina tra omonimi"
  },
  {
   "id": "f86",
@@ -2908,7 +3145,7 @@
     "genres": "Comedy"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f87",
@@ -2942,7 +3179,7 @@
     "genres": "Action,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f88",
@@ -2977,7 +3214,13 @@
     "genres": "Action,Adventure,Comedy"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Men in Black 3 (2012, 106 min)",
+   "Men in Black II (2002, 88 min)",
+   "Men in Black (1997, 98 min)",
+   "Men in Black (1934, 19 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f89",
@@ -3012,7 +3255,7 @@
     "genres": "Adventure,Comedy,Sci-Fi"
    }
   },
-  "match_score": 0.78
+  "note": "3° film della saga"
  },
  {
   "id": "f90",
@@ -3047,7 +3290,7 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f91",
@@ -3081,7 +3324,11 @@
     "genres": "Crime,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Le iene (1992, 99 min)",
+   "Reservoir Dogs (1991, 12 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f92",
@@ -3119,7 +3366,7 @@
     "genres": "Comedy,Drama,Romance"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f93",
@@ -3154,7 +3401,7 @@
     "genres": "Action,Drama,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f94",
@@ -3193,7 +3440,11 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 0.89
+  "alternatives": [
+   "Lady Vendetta (2005, 112 min)",
+   "Lady of Vengeance (1957, 73 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f95",
@@ -3228,7 +3479,13 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Lo sciacallo - Nightcrawler (2014, 117 min)",
+   "The Nightcrawlers (2019, 40 min)",
+   "Nightcrawlers (2019, 75 min)",
+   "Nightcrawlers (2019, 20 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f96",
@@ -3262,7 +3519,13 @@
     "genres": "Drama,Mystery,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Fractured (2019, 100 min)",
+   "Fractured (2018, 80 min)",
+   "Fractured (2015, 89 min)",
+   "Fractured (2013, 91 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f97",
@@ -3296,7 +3559,7 @@
     "genres": "Action,Mystery,Sci-Fi"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f98",
@@ -3331,7 +3594,7 @@
     "genres": "Action,Sci-Fi,Thriller"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f99",
@@ -3364,7 +3627,11 @@
     "genres": "Biography,Drama"
    }
   },
-  "match_score": 1.0
+  "alternatives": [
+   "La ricerca della felicità (2006, 117 min)",
+   "Alla ricerca della felicità (1986, 81 min)"
+  ],
+  "note": "anno dedotto dalla durata più vicina tra omonimi"
  },
  {
   "id": "f100",
@@ -3397,7 +3664,7 @@
     "genres": "Documentary,History,Sport"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f101",
@@ -3430,7 +3697,7 @@
     "genres": "Comedy,Drama"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f102",
@@ -3464,7 +3731,7 @@
     "genres": "Comedy,Family"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f103",
@@ -3473,12 +3740,7 @@
    "duration": 114,
    "cover_year": null
   },
-  "flags": [
-   [
-    "AMBIGUO",
-    "Più film con lo stesso titolo: Assassinio sull'Orient Express (2017), Assassinio sull'Orient Express (1974), Assassinio sull'Orient Express (2001)"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "id": 392044,
@@ -3504,7 +3766,12 @@
     "genres": "Comedy,Crime,Drama"
    }
   },
-  "match_score": 1.0
+  "alternatives": [
+   "Assassinio sull'Orient Express (2017, 114 min)",
+   "Assassinio sull'Orient Express (1974, 128 min)",
+   "Assassinio sull'Orient Express (2001, 100 min)"
+  ],
+  "note": "anno dedotto dalla durata più vicina tra omonimi"
  },
  {
   "id": "f104",
@@ -3542,7 +3809,7 @@
     "genres": "Comedy,Mystery,Romance"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f105",
@@ -3580,7 +3847,11 @@
     "genres": "Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "L'odio (1995, 98 min)",
+   "La Haine (2021, 0 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f106",
@@ -3615,7 +3886,7 @@
     "genres": "Drama,Romance,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f107",
@@ -3650,7 +3921,11 @@
     "genres": "Comedy,Drama,Family"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Mrs. Doubtfire - Mammo per sempre (1993, 125 min)",
+   "Mrs DOUBTFIRE - Μάρκος Σεφερλής (2010, 0 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f108",
@@ -3684,7 +3959,11 @@
     "genres": "Mystery,Sci-Fi,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Coherence - Oltre lo spazio tempo (2014, 89 min)",
+   "Coherence (, 26 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f109",
@@ -3717,7 +3996,12 @@
     "genres": "Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "La parola ai giurati (1957, 96 min)",
+   "La parola ai giurati (1997, 117 min)",
+   "12 Angry Men (2026, 47 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f110",
@@ -3726,12 +4010,7 @@
    "duration": 105,
    "cover_year": null
   },
-  "flags": [
-   [
-    "AMBIGUO",
-    "Più film con lo stesso titolo: Il matrimonio del mio migliore amico (1997), My Best Friend's Wedding (2018), My Best Friend’s Wedding (2016)"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "id": 8874,
@@ -3756,7 +4035,13 @@
     "genres": "Comedy,Drama,Romance"
    }
   },
-  "match_score": 1.0
+  "alternatives": [
+   "Il matrimonio del mio migliore amico (1997, 105 min)",
+   "My Best Friend's Wedding (2018, 108 min)",
+   "La boda de mi mejor amigo (2019, 109 min)",
+   "My Best Friend’s Wedding (2016, 91 min)"
+  ],
+  "note": "anno dedotto dalla durata più vicina tra omonimi"
  },
  {
   "id": "f111",
@@ -3790,7 +4075,11 @@
     "genres": "Comedy,Musical,Romance"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Grease - Brillantina (1978, 110 min)",
+   "Grease (1974, 47 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f112",
@@ -3824,7 +4113,11 @@
     "genres": "Action,Adventure,Comedy"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Now You See Me 2 (2016, 129 min)",
+   "Now You See Me - I maghi del crimine (2013, 115 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f113",
@@ -3864,7 +4157,13 @@
     "genres": "Action,Adventure,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Superman (2025, 129 min)",
+   "Superman (2025, 1 min)",
+   "সুপারম্যান (1997, 131 min)",
+   "Superman (1978, 151 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f114",
@@ -3900,7 +4199,13 @@
     "genres": "Action,Adventure,Comedy"
    }
   },
-  "match_score": 1.07
+  "alternatives": [
+   "Men in Black (1997, 98 min)",
+   "Men in Black II (2002, 88 min)",
+   "Men in Black 3 (2012, 106 min)",
+   "Men in Black (1934, 19 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f115",
@@ -3940,7 +4245,7 @@
     "genres": "Adventure,Comedy,Drama"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f116",
@@ -3980,7 +4285,7 @@
     "genres": "Comedy,Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f117",
@@ -3989,19 +4294,28 @@
    "duration": 143,
    "cover_year": 2018
   },
-  "flags": [],
+  "flags": [
+   [
+    "ANNO",
+    "Anno copertina 2018 ≠ TMDB 2014"
+   ],
+   [
+    "DURATA",
+    "Nostro 143 min; TMDB 113, IMDb 113 → proposta 113"
+   ]
+  ],
   "src": {
    "tmdb": {
-    "id": 336843,
-    "title": "Maze Runner - La rivelazione",
-    "orig": "Maze Runner: The Death Cure",
-    "year": 2018,
-    "runtime": 141,
-    "imdb": "tt4500922",
+    "id": 198663,
+    "title": "Maze Runner - Il labirinto",
+    "orig": "The Maze Runner",
+    "year": 2014,
+    "runtime": 113,
+    "imdb": "tt1790864",
     "genres": [
-     "Fantascienza",
      "Azione",
-     "Avventura",
+     "Mistero",
+     "Fantascienza",
      "Thriller"
     ],
     "director": [
@@ -4009,14 +4323,14 @@
     ]
    },
    "imdb": {
-    "id": "tt4500922",
-    "title": "Maze Runner: The Death Cure",
-    "year": 2018,
-    "runtime": 143,
-    "genres": "Action,Adventure,Sci-Fi"
+    "id": "tt1790864",
+    "title": "The Maze Runner",
+    "year": 2014,
+    "runtime": 113,
+    "genres": "Action,Mystery,Sci-Fi"
    }
   },
-  "match_score": 0.84
+  "note": ""
  },
  {
   "id": "f118",
@@ -4052,7 +4366,11 @@
     "genres": "Adventure,Comedy,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "I sogni segreti di Walter Mitty (2013, 114 min)",
+   "Sogni proibiti (1947, 110 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f119",
@@ -4086,7 +4404,7 @@
     "genres": "Comedy,Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f120",
@@ -4121,7 +4439,7 @@
     "genres": "Drama,Mystery,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f121",
@@ -4154,7 +4472,7 @@
     "genres": "Drama"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f122",
@@ -4189,7 +4507,13 @@
     "genres": "Action,Adventure,Fantasy"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Suicide Squad (2016, 137 min)",
+   "The Suicide Squad - Missione suicida (2021, 132 min)",
+   "Escuadrón suicida (1991, 0 min)",
+   "Suicide Squad (1935, 56 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f123",
@@ -4224,7 +4548,11 @@
     "genres": "Crime,Drama,Horror"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Il silenzio degli innocenti (1991, 118 min)",
+   "양들의 침묵 (2022, 64 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f124",
@@ -4259,7 +4587,7 @@
     "genres": "Adventure,Family,Fantasy"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f125",
@@ -4294,7 +4622,7 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 0.7
+  "note": ""
  },
  {
   "id": "f126",
@@ -4331,7 +4659,13 @@
     "genres": "Drama,Romance,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "La scoperta (2017, 110 min)",
+   "The Discovery (2021, 5 min)",
+   "The Discovery (2008, 5 min)",
+   "Die Entdeckung (1984, 18 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f127",
@@ -4371,7 +4705,12 @@
     "genres": "Adventure,Comedy"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Così è la vita (1998, 108 min)",
+   "Così è la vita (1986, 102 min)",
+   "Così è la vita (2011, 100 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f128",
@@ -4380,32 +4719,37 @@
    "duration": 91,
    "cover_year": 2013
   },
-  "flags": [],
+  "flags": [
+   [
+    "DURATA?",
+    "Nostro 91 min; TMDB 130, IMDb None → proposta 130"
+   ]
+  ],
   "src": {
    "tmdb": {
-    "id": 181886,
-    "title": "Enemy",
-    "orig": "Enemy",
-    "year": 2014,
-    "runtime": 91,
-    "imdb": "tt2316411",
-    "genres": [
-     "Thriller",
-     "Mistero"
-    ],
-    "director": [
-     "Denis Villeneuve"
-    ]
+    "id": 522815,
+    "title": "Shatru",
+    "orig": "Shatru",
+    "year": 2013,
+    "runtime": 130,
+    "imdb": "tt3148392",
+    "genres": [],
+    "director": []
    },
    "imdb": {
-    "id": "tt2316411",
-    "title": "Enemy",
+    "id": "tt3148392",
+    "title": "Shatru",
     "year": 2013,
-    "runtime": 91,
-    "genres": "Drama,Mystery,Thriller"
+    "runtime": null,
+    "genres": "Action,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Shatru (2013, 130 min)",
+   "Enemy (2014, 91 min)",
+   "The Enemy (2004, 100 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f129",
@@ -4440,7 +4784,7 @@
     "genres": "Adventure,Comedy,Crime"
    }
   },
-  "match_score": 0.63
+  "note": ""
  },
  {
   "id": "f130",
@@ -4474,7 +4818,13 @@
     "genres": "Action,Comedy"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Prendimi! - La storia vera più assurda di sempre (2018, 101 min)",
+   "Real Oni Gokko - Tag (2015, 85 min)",
+   "Tag (2015, 91 min)",
+   "تاج (2023, 106 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f131",
@@ -4483,34 +4833,39 @@
    "duration": 131,
    "cover_year": 2015
   },
-  "flags": [],
+  "flags": [
+   [
+    "DURATA",
+    "Nostro 131 min; TMDB 113, IMDb 113 → proposta 113"
+   ]
+  ],
   "src": {
    "tmdb": {
-    "id": 294254,
-    "title": "Maze Runner - La fuga",
-    "orig": "Maze Runner: The Scorch Trials",
-    "year": 2015,
-    "runtime": 132,
-    "imdb": "tt4046784",
+    "id": 198663,
+    "title": "Maze Runner - Il labirinto",
+    "orig": "The Maze Runner",
+    "year": 2014,
+    "runtime": 113,
+    "imdb": "tt1790864",
     "genres": [
-     "Fantascienza",
      "Azione",
-     "Thriller",
-     "Avventura"
+     "Mistero",
+     "Fantascienza",
+     "Thriller"
     ],
     "director": [
      "Wes Ball"
     ]
    },
    "imdb": {
-    "id": "tt4046784",
-    "title": "Maze Runner: The Scorch Trials",
-    "year": 2015,
-    "runtime": 131,
-    "genres": "Action,Adventure,Sci-Fi"
+    "id": "tt1790864",
+    "title": "The Maze Runner",
+    "year": 2014,
+    "runtime": 113,
+    "genres": "Action,Mystery,Sci-Fi"
    }
   },
-  "match_score": 0.98
+  "note": ""
  },
  {
   "id": "f132",
@@ -4521,42 +4876,43 @@
   },
   "flags": [
    [
-    "AMBIGUO",
-    "Più film con lo stesso titolo: Viaggio al centro della Terra (2008), Viaggio al centro della Terra (1959), Viaggio al centro della Terra (1993)"
-   ],
-   [
     "DURATA",
-    "Nostro 84 min; TMDB 93, IMDb 93 → proposta 93"
+    "Nostro 84 min; TMDB 90, IMDb 90 → proposta 90 [anno dedotto dalla durata più vicina tra omonimi]"
    ]
   ],
   "src": {
    "tmdb": {
-    "id": 88751,
+    "id": 257001,
     "title": "Viaggio al centro della Terra",
     "orig": "Journey to the Center of the Earth",
-    "year": 2008,
-    "runtime": 93,
-    "imdb": "tt0373051",
+    "year": 1993,
+    "runtime": 90,
+    "imdb": "tt0107279",
     "genres": [
-     "Azione",
-     "Fantascienza",
      "Avventura",
-     "Commedia",
-     "Famiglia"
+     "televisione film",
+     "Fantasy",
+     "Fantascienza"
     ],
     "director": [
-     "Eric Brevig"
+     "William Dear"
     ]
    },
    "imdb": {
-    "id": "tt0373051",
+    "id": "tt0107279",
     "title": "Journey to the Center of the Earth",
-    "year": 2008,
-    "runtime": 93,
-    "genres": "Action,Adventure,Family"
+    "year": 1993,
+    "runtime": 90,
+    "genres": "Adventure,Sci-Fi"
    }
   },
-  "match_score": 1.0
+  "alternatives": [
+   "Viaggio al centro della Terra (1993, 90 min)",
+   "Viaggio al centro della Terra (2008, 93 min)",
+   "Viaggio al centro della terra (1977, 60 min)",
+   "Viaggio al centro della Terra (1959, 132 min)"
+  ],
+  "note": "anno dedotto dalla durata più vicina tra omonimi"
  },
  {
   "id": "f133",
@@ -4591,7 +4947,13 @@
     "genres": "Action,Adventure,Comedy"
    }
   },
-  "match_score": 1.05
+  "alternatives": [
+   "Men in Black II (2002, 88 min)",
+   "Men in Black (1997, 98 min)",
+   "Men in Black 3 (2012, 106 min)",
+   "Men in Black (1934, 19 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f134",
@@ -4626,7 +4988,7 @@
     "genres": "Action,Adventure,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f135",
@@ -4661,7 +5023,7 @@
     "genres": "Action,Adventure,Fantasy"
    }
   },
-  "match_score": 0.62
+  "note": ""
  },
  {
   "id": "f136",
@@ -4696,7 +5058,7 @@
     "genres": "Comedy,Crime,Drama"
    }
   },
-  "match_score": 0.82
+  "note": ""
  },
  {
   "id": "f137",
@@ -4730,7 +5092,13 @@
     "genres": "Adventure,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Stand by Me - Ricordo di un'estate (1986, 89 min)",
+   "Doraemon - Il film (2014, 95 min)",
+   "Doraemon - Il film 2 (2020, 97 min)",
+   "野孩子 (2024, 127 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f138",
@@ -4766,7 +5134,7 @@
     "genres": "Action,Adventure,Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f139",
@@ -4804,7 +5172,7 @@
     "genres": "Comedy"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f140",
@@ -4815,11 +5183,36 @@
   },
   "flags": [
    [
-    "NON_TROVATO",
-    "Nessun film TMDB corrisponde al titolo"
+    "DURATA?",
+    "Nostro 129 min; TMDB 141, IMDb 136 → proposta 141"
    ]
   ],
-  "src": {}
+  "src": {
+   "tmdb": {
+    "id": 1865,
+    "title": "Pirati dei Caraibi - Oltre i confini del mare",
+    "orig": "Pirates of the Caribbean: On Stranger Tides",
+    "year": 2011,
+    "runtime": 141,
+    "imdb": "tt1298650",
+    "genres": [
+     "Avventura",
+     "Azione",
+     "Fantasy"
+    ],
+    "director": [
+     "Rob Marshall"
+    ]
+   },
+   "imdb": {
+    "id": "tt1298650",
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "year": 2011,
+    "runtime": 136,
+    "genres": "Action,Adventure,Fantasy"
+   }
+  },
+  "note": ""
  },
  {
   "id": "f141",
@@ -4853,7 +5246,7 @@
     "genres": "Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f142",
@@ -4886,7 +5279,12 @@
     "genres": "Comedy"
    }
   },
-  "match_score": 1.0
+  "alternatives": [
+   "Una notte da leoni (2009, 100 min)",
+   "Una notte da leoni 3 (2013, 100 min)",
+   "Una notte da leoni 2 (2011, 102 min)"
+  ],
+  "note": "anno dedotto dalla durata più vicina tra omonimi"
  },
  {
   "id": "f143",
@@ -4924,7 +5322,7 @@
     "genres": "Comedy"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f144",
@@ -4962,7 +5360,7 @@
     "genres": "Comedy"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f145",
@@ -5000,7 +5398,7 @@
     "genres": "Comedy"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f146",
@@ -5037,7 +5435,7 @@
     "genres": "Adventure,Comedy,Family"
    }
   },
-  "match_score": 0.86
+  "note": "2° film della saga"
  },
  {
   "id": "f147",
@@ -5076,7 +5474,7 @@
     "genres": "Comedy,Family,Fantasy"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f148",
@@ -5085,32 +5483,40 @@
    "duration": 119,
    "cover_year": 1979
   },
-  "flags": [],
+  "flags": [
+   [
+    "ANNO",
+    "Anno copertina 1979 ≠ TMDB 1976"
+   ]
+  ],
   "src": {
    "tmdb": {
-    "id": 1367,
-    "title": "Rocky II",
-    "orig": "Rocky II",
-    "year": 1979,
+    "id": 1366,
+    "title": "Rocky",
+    "orig": "Rocky",
+    "year": 1976,
     "runtime": 119,
-    "imdb": "tt0079817",
+    "imdb": "tt0075148",
     "genres": [
-     "Dramma",
-     "Azione"
+     "Dramma"
     ],
     "director": [
-     "Sylvester Stallone"
+     "John G. Avildsen"
     ]
    },
    "imdb": {
-    "id": "tt0079817",
-    "title": "Rocky II",
-    "year": 1979,
-    "runtime": 119,
+    "id": "tt0075148",
+    "title": "Rocky",
+    "year": 1976,
+    "runtime": 120,
     "genres": "Drama,Sport"
    }
   },
-  "match_score": 0.95
+  "alternatives": [
+   "Rocky (1976, 119 min)",
+   "Rocky (2017, 15 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f149",
@@ -5144,7 +5550,11 @@
     "genres": "Comedy,Family,Music"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Sister Act - Una svitata in abito da suora (1992, 102 min)",
+   "Sister Act 3 (, 0 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f150",
@@ -5183,7 +5593,7 @@
     "genres": "Action,Comedy,Crime"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f151",
@@ -5192,32 +5602,44 @@
    "duration": 99,
    "cover_year": 1982
   },
-  "flags": [],
+  "flags": [
+   [
+    "ANNO",
+    "Anno copertina 1982 ≠ TMDB 1976"
+   ],
+   [
+    "DURATA",
+    "Nostro 99 min; TMDB 119, IMDb 120 → proposta 120"
+   ]
+  ],
   "src": {
    "tmdb": {
-    "id": 1371,
-    "title": "Rocky III",
-    "orig": "Rocky III",
-    "year": 1982,
-    "runtime": 99,
-    "imdb": "tt0084602",
+    "id": 1366,
+    "title": "Rocky",
+    "orig": "Rocky",
+    "year": 1976,
+    "runtime": 119,
+    "imdb": "tt0075148",
     "genres": [
-     "Dramma",
-     "Azione"
+     "Dramma"
     ],
     "director": [
-     "Sylvester Stallone"
+     "John G. Avildsen"
     ]
    },
    "imdb": {
-    "id": "tt0084602",
-    "title": "Rocky III",
-    "year": 1982,
-    "runtime": 99,
+    "id": "tt0075148",
+    "title": "Rocky",
+    "year": 1976,
+    "runtime": 120,
     "genres": "Drama,Sport"
    }
   },
-  "match_score": 0.9
+  "alternatives": [
+   "Rocky (1976, 119 min)",
+   "Rocky (2017, 15 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f152",
@@ -5250,7 +5672,13 @@
     "genres": "Comedy,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Project X - Una festa che spacca (2012, 88 min)",
+   "Project X (2016, 10 min)",
+   "Fuga dal futuro - Danger Zone (1987, 108 min)",
+   "Anno 2118 - Progetto X (1968, 97 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f153",
@@ -5285,7 +5713,13 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Blow Out (1981, 108 min)",
+   "Blow Out (2019, 0 min)",
+   "Blow Out (2024, 71 min)",
+   "The Blow Out (1936, 7 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f154",
@@ -5318,7 +5752,7 @@
     "genres": "Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f155",
@@ -5352,7 +5786,11 @@
     "genres": "Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Trainspotting (1996, 94 min)",
+   "T2 Trainspotting (2017, 118 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f156",
@@ -5386,7 +5824,13 @@
     "genres": "Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Taxi Driver (1976, 113 min)",
+   "Taksi Şoförü (1976, 78 min)",
+   "Taxi Driver (1954, 133 min)",
+   "A Taxi Driver (2017, 137 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f157",
@@ -5421,7 +5865,7 @@
     "genres": "Adventure,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f158",
@@ -5455,7 +5899,7 @@
     "genres": "Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f159",
@@ -5491,7 +5935,7 @@
     "genres": "Action,Adventure,Comedy"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f160",
@@ -5531,7 +5975,11 @@
     "genres": "Action,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "The Avengers (2012, 143 min)",
+   "The Avengers - Agenti speciali (1998, 88 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f161",
@@ -5566,7 +6014,13 @@
     "genres": "Action,Adventure,Fantasy"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Avatar (2009, 162 min)",
+   "アバター (2011, 93 min)",
+   "Avatar (2006, 15 min)",
+   "Avatar (1916, 50 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f162",
@@ -5606,7 +6060,7 @@
     "genres": "Action,Adventure,Fantasy"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f163",
@@ -5640,7 +6094,7 @@
     "genres": "Adventure,Family,Fantasy"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f164",
@@ -5680,7 +6134,7 @@
     "genres": "Adventure,Animation,Fantasy"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f165",
@@ -5723,7 +6177,7 @@
     "genres": "Adventure,Animation,Family"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f166",
@@ -5759,7 +6213,7 @@
     "genres": "Action,Adventure,Sci-Fi"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f167",
@@ -5794,7 +6248,13 @@
     "genres": "Crime,Drama,Horror"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "American Psycho (2000, 102 min)",
+   "American Psycho II (2002, 88 min)",
+   "American Psychopath (2025, 61 min)",
+   "American Psycho (, 0 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f168",
@@ -5828,7 +6288,13 @@
     "genres": "Drama,Mystery,Romance"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Espiazione (2007, 123 min)",
+   "셋 (2021, 65 min)",
+   "Święty (2023, 110 min)",
+   "阿龍 (2025, 96 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f169",
@@ -5867,7 +6333,7 @@
     "genres": "Biography,Drama,Sport"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f170",
@@ -5903,7 +6369,7 @@
     "genres": "Biography,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f171",
@@ -5912,12 +6378,7 @@
    "duration": 119,
    "cover_year": null
   },
-  "flags": [
-   [
-    "AMBIGUO",
-    "Più film con lo stesso titolo: Bad Boys (1995), Bad Boys (1983), Bad Boys (2014)"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "id": 9737,
@@ -5944,7 +6405,13 @@
     "genres": "Action,Comedy,Crime"
    }
   },
-  "match_score": 1.0
+  "alternatives": [
+   "Bad Boys (1995, 118 min)",
+   "Bad Boys (1983, 123 min)",
+   "Bad Boys (2014, 102 min)",
+   "不良少年 (1961, 89 min)"
+  ],
+  "note": "anno dedotto dalla durata più vicina tra omonimi"
  },
  {
   "id": "f172",
@@ -5979,7 +6446,13 @@
     "genres": "Horror,Mystery,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Scappa - Get Out (2017, 104 min)",
+   "Get Out (2010, 7 min)",
+   "La vendetta perfetta - Bear Country (2026, 111 min)",
+   "Get Out! (1992, 40 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f173",
@@ -5990,12 +6463,8 @@
   },
   "flags": [
    [
-    "AMBIGUO",
-    "Più film con lo stesso titolo: Waiting... (2005), Waiting (1995), I Am Waiting (1957)"
-   ],
-   [
     "DURATA",
-    "Nostro 103 min; TMDB 94, IMDb 94 → proposta 94"
+    "Nostro 103 min; TMDB 94, IMDb 94 → proposta 94 [anno dedotto dalla durata più vicina tra omonimi]"
    ]
   ],
   "src": {
@@ -6021,7 +6490,12 @@
     "genres": "Comedy"
    }
   },
-  "match_score": 1.0
+  "alternatives": [
+   "Waiting... (2005, 94 min)",
+   "Waiting (1990, 42 min)",
+   "Waiting (1995, 30 min)"
+  ],
+  "note": "anno dedotto dalla durata più vicina tra omonimi"
  },
  {
   "id": "f174",
@@ -6030,30 +6504,31 @@
    "duration": 124,
    "cover_year": null
   },
-  "flags": [
-   [
-    "DURATA",
-    "Nostro 124 min; TMDB 25, IMDb None → proposta 25"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
-    "id": 797639,
-    "title": "Synecdoche Turin",
-    "orig": "Synecdoche Turin",
-    "year": 2020,
-    "runtime": 25,
-    "imdb": null,
+    "id": 4960,
+    "title": "Synecdoche, New York",
+    "orig": "Synecdoche, New York",
+    "year": 2008,
+    "runtime": 124,
+    "imdb": "tt0383028",
     "genres": [
-     "Musica"
+     "Dramma"
     ],
     "director": [
-     "Sara Ferro",
-     "Chris Weil"
+     "Charlie Kaufman"
     ]
+   },
+   "imdb": {
+    "id": "tt0383028",
+    "title": "Synecdoche, New York",
+    "year": 2008,
+    "runtime": 124,
+    "genres": "Drama"
    }
   },
-  "match_score": 0.77
+  "note": ""
  },
  {
   "id": "f175",
@@ -6088,7 +6563,11 @@
     "genres": "Action,Sci-Fi,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Next (2007, 96 min)",
+   "Kamen Rider - The Next (2007, 103 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f176",
@@ -6122,7 +6601,7 @@
     "genres": "Drama,Western"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f177",
@@ -6131,12 +6610,7 @@
    "duration": 175,
    "cover_year": null
   },
-  "flags": [
-   [
-    "AMBIGUO",
-    "Più film con lo stesso titolo: Il padrino (1972), Il Padrino (), Il padrino - Parte II (1974)"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "id": 238,
@@ -6161,7 +6635,11 @@
     "genres": "Crime,Drama"
    }
   },
-  "match_score": 1.0
+  "alternatives": [
+   "Il padrino (1972, 175 min)",
+   "Il Padrino (, 14 min)"
+  ],
+  "note": "anno dedotto dalla durata più vicina tra omonimi"
  },
  {
   "id": "f178",
@@ -6196,7 +6674,7 @@
     "genres": "Biography,Drama,History"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f179",
@@ -6208,35 +6686,39 @@
   "flags": [
    [
     "DURATA",
-    "Nostro 105 min; TMDB 110, IMDb 74 → proposta 110"
+    "Nostro 105 min; TMDB 115, IMDb 115 → proposta 115"
    ]
   ],
   "src": {
    "tmdb": {
-    "id": 152578,
-    "title": "The Hunt",
-    "orig": "The Hunt",
-    "year": 2011,
-    "runtime": 110,
-    "imdb": "tt2640570",
+    "id": 103663,
+    "title": "Il sospetto",
+    "orig": "Jagten",
+    "year": 2012,
+    "runtime": 115,
+    "imdb": "tt2106476",
     "genres": [
-     "Azione",
-     "Horror",
-     "Thriller"
+     "Dramma"
     ],
     "director": [
-     "Thomas Szczepanski"
+     "Thomas Vinterberg"
     ]
    },
    "imdb": {
-    "id": "tt2640570",
+    "id": "tt2106476",
     "title": "The Hunt",
     "year": 2012,
-    "runtime": 74,
-    "genres": "Action,Horror,Thriller"
+    "runtime": 115,
+    "genres": "Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Il sospetto (2012, 115 min)",
+   "The Hunt (2011, 110 min)",
+   "The Hunt (2013, 8 min)",
+   "The Hunt (2020, 90 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f180",
@@ -6245,13 +6727,33 @@
    "duration": 100,
    "cover_year": null
   },
-  "flags": [
-   [
-    "NON_TROVATO",
-    "Nessun film TMDB corrisponde al titolo"
-   ]
-  ],
-  "src": {}
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "id": 103761,
+    "title": "Dieci Piccoli Indiani",
+    "orig": "Ten Little Indians",
+    "year": 1989,
+    "runtime": 98,
+    "imdb": "tt0098454",
+    "genres": [
+     "Crime",
+     "Thriller",
+     "Mistero"
+    ],
+    "director": [
+     "Alan Birkinshaw"
+    ]
+   },
+   "imdb": {
+    "id": "tt0098454",
+    "title": "Ten Little Indians",
+    "year": 1989,
+    "runtime": 100,
+    "genres": "Crime,Mystery,Thriller"
+   }
+  },
+  "note": ""
  },
  {
   "id": "f181",
@@ -6284,7 +6786,11 @@
     "genres": "Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Rain Man - L'uomo della pioggia (1988, 133 min)",
+   "Rain Man (2020, 4 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f182",
@@ -6318,7 +6824,11 @@
     "genres": "Action,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "I Saw the Devil (2010, 141 min)",
+   "I Saw the Devil (, 0 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f183",
@@ -6353,7 +6863,7 @@
     "genres": "Drama,Fantasy,Romance"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f184",
@@ -6364,8 +6874,8 @@
   },
   "flags": [
    [
-    "DURATA",
-    "Nostro 120 min; TMDB 4, IMDb 4 → proposta 4"
+    "DURATA?",
+    "Nostro 120 min; TMDB 4, IMDb 4 → proposta 4 (possibile film sbagliato/cortometraggio: controllare)"
    ]
   ],
   "src": {
@@ -6391,7 +6901,7 @@
     "genres": "Animation,Sci-Fi,Short"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f185",
@@ -6426,7 +6936,11 @@
     "genres": "Drama,Mystery,War"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "La donna che canta (2010, 131 min)",
+   "Incêndios (2014, 122 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f186",
@@ -6466,7 +6980,7 @@
     "genres": "Drama,Thriller"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f187",
@@ -6501,7 +7015,11 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Cape Fear - Il promontorio della paura (1991, 128 min)",
+   "Il promontorio della paura (1962, 105 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f188",
@@ -6536,7 +7054,7 @@
     "genres": "Drama,Fantasy,Horror"
    }
   },
-  "match_score": 0.94
+  "note": ""
  },
  {
   "id": "f189",
@@ -6570,7 +7088,7 @@
     "genres": "Drama,Mystery,Thriller"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f190",
@@ -6604,7 +7122,7 @@
     "genres": "Drama,Mystery,War"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f191",
@@ -6613,13 +7131,37 @@
    "duration": 137,
    "cover_year": 2006
   },
-  "flags": [
-   [
-    "NON_TROVATO",
-    "Nessun film TMDB corrisponde al titolo"
-   ]
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "id": 582,
+    "title": "Le vite degli altri",
+    "orig": "Das Leben der Anderen",
+    "year": 2006,
+    "runtime": 137,
+    "imdb": "tt0405094",
+    "genres": [
+     "Dramma",
+     "Thriller"
+    ],
+    "director": [
+     "Florian Henckel von Donnersmarck"
+    ]
+   },
+   "imdb": {
+    "id": "tt0405094",
+    "title": "The Lives of Others",
+    "year": 2006,
+    "runtime": 137,
+    "genres": "Drama,Mystery,Thriller"
+   }
+  },
+  "alternatives": [
+   "Le vite degli altri (2006, 137 min)",
+   "حياة الآخرين (2013, 90 min)",
+   "For The Lives of Others (2025, 80 min)"
   ],
-  "src": {}
+  "note": ""
  },
  {
   "id": "f192",
@@ -6653,7 +7195,13 @@
     "genres": "Drama,Mystery,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "I Am Mother (2019, 113 min)",
+   "من مادرم (1965, 89 min)",
+   "من مادرم (, 95 min)",
+   "من مادرم (, 0 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f193",
@@ -6687,7 +7235,7 @@
     "genres": "Drama,Mystery,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f194",
@@ -6722,7 +7270,7 @@
     "genres": "Drama,Mystery,Thriller"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f195",
@@ -6757,7 +7305,13 @@
     "genres": "Drama,Fantasy,Romance"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Mr. Nobody (2009, 141 min)",
+   "Janob Hech Kim (2009, 0 min)",
+   "Господин Никой (1969, 107 min)",
+   "L'uomo fantasma (1936, 90 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f196",
@@ -6768,7 +7322,7 @@
   },
   "flags": [
    [
-    "DURATA",
+    "DURATA?",
     "Nostro 115 min; TMDB 181, IMDb 130 → proposta 181"
    ]
   ],
@@ -6796,7 +7350,7 @@
     "genres": "Action,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f197",
@@ -6832,7 +7386,7 @@
     "genres": "Crime,Mystery,Thriller"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f198",
@@ -6865,7 +7419,13 @@
     "genres": "Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "American Beauty (1999, 117 min)",
+   "American Beauty Ltd. (1989, 85 min)",
+   "La bella americana (1961, 104 min)",
+   "American Beauty (1927, 70 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f199",
@@ -6899,7 +7459,13 @@
     "genres": "Biography,Drama,Music"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Il pianista (2002, 150 min)",
+   "La Pianista (2001, 123 min)",
+   "El pianista (1998, 90 min)",
+   "The Pianist (1991, 112 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f200",
@@ -6932,7 +7498,7 @@
     "genres": "Biography,Drama"
    }
   },
-  "match_score": 0.91
+  "note": ""
  },
  {
   "id": "f201",
@@ -6967,7 +7533,13 @@
     "genres": "Drama,Music"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Whiplash (2014, 107 min)",
+   "Whiplash (2013, 18 min)",
+   "虎辮子 (1974, 90 min)",
+   "Gong fatale (1948, 91 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f202",
@@ -7008,7 +7580,13 @@
     "genres": "Action,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Il tocco del male (1998, 123 min)",
+   "Fallen (2004, 180 min)",
+   "Fallen-angeli caduti (2006, 84 min)",
+   "Fallen (2016, 91 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f203",
@@ -7042,7 +7620,12 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Affari sporchi (1990, 115 min)",
+   "Internal Affairs (1988, 180 min)",
+   "Internal Affairs (2020, 3 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f204",
@@ -7077,7 +7660,7 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f205",
@@ -7086,12 +7669,7 @@
    "duration": 130,
    "cover_year": null
   },
-  "flags": [
-   [
-    "AMBIGUO",
-    "Più film con lo stesso titolo: Il fuggitivo (1993), Il fuggitivo (1948), Il piccolo fuggitivo (1953)"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "id": 5503,
@@ -7117,7 +7695,11 @@
     "genres": "Action,Crime,Drama"
    }
   },
-  "match_score": 1.0
+  "alternatives": [
+   "Il fuggitivo (1993, 131 min)",
+   "Il fuggitivo (1948, 78 min)"
+  ],
+  "note": "anno dedotto dalla durata più vicina tra omonimi"
  },
  {
   "id": "f206",
@@ -7126,13 +7708,36 @@
    "duration": 117,
    "cover_year": 2020
   },
-  "flags": [
-   [
-    "NON_TROVATO",
-    "Nessun film TMDB corrisponde al titolo"
-   ]
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "id": 580175,
+    "title": "Un altro giro",
+    "orig": "Druk",
+    "year": 2020,
+    "runtime": 115,
+    "imdb": "tt10288566",
+    "genres": [
+     "Dramma"
+    ],
+    "director": [
+     "Thomas Vinterberg"
+    ]
+   },
+   "imdb": {
+    "id": "tt10288566",
+    "title": "Another Round",
+    "year": 2020,
+    "runtime": 117,
+    "genres": "Comedy,Drama"
+   }
+  },
+  "alternatives": [
+   "Un altro giro (2020, 115 min)",
+   "Another Round (2018, 14 min)",
+   "Another Round (2025, 0 min)"
   ],
-  "src": {}
+  "note": ""
  },
  {
   "id": "f207",
@@ -7166,7 +7771,7 @@
     "genres": "Drama,Fantasy,Horror"
    }
   },
-  "match_score": 0.68
+  "note": ""
  },
  {
   "id": "f208",
@@ -7205,7 +7810,7 @@
     "genres": "Crime,Thriller"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f209",
@@ -7238,7 +7843,11 @@
     "genres": "Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Il petroliere (2007, 158 min)",
+   "Es Wird Kein Blut Geben (2020, 10 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f210",
@@ -7273,7 +7882,12 @@
     "genres": "Action,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Heat - La sfida (1995, 170 min)",
+   "Corpi da reato (2013, 117 min)",
+   "Heat (2026, 86 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f211",
@@ -7307,7 +7921,7 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f212",
@@ -7341,7 +7955,7 @@
     "genres": "Comedy"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f213",
@@ -7376,7 +7990,7 @@
     "genres": "Comedy,Drama,Fantasy"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f214",
@@ -7410,7 +8024,11 @@
     "genres": "Biography,Drama,History"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Oppenheimer (2023, 189 min)",
+   "Oppenheimer (2024, 0 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f215",
@@ -7444,7 +8062,13 @@
     "genres": "Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "City of God (2002, 130 min)",
+   "Ciudad de Dios (1997, 87 min)",
+   "സിറ്റി ഓഫ് ഗോഡ് (2011, 147 min)",
+   "The City of God (, 90 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f216",
@@ -7478,7 +8102,7 @@
     "genres": "Crime,Thriller"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f217",
@@ -7489,26 +8113,27 @@
   },
   "flags": [
    [
-    "AMBIGUO",
-    "Più film con lo stesso titolo: The Arcane Arts (), The Arcane Brew (2019), Arcane Bloom (2022)"
+    "DURATA?",
+    "Nostro 81 min; TMDB 15, IMDb None → proposta 15 (possibile film sbagliato/cortometraggio: controllare)"
    ]
   ],
   "src": {
    "tmdb": {
-    "id": 1600999,
-    "title": "The Arcane Arts",
-    "orig": "The Arcane Arts",
-    "year": 0,
-    "runtime": 0,
+    "id": 925115,
+    "title": "Arcane Bloom",
+    "orig": "Arcane Bloom",
+    "year": 2022,
+    "runtime": 15,
     "imdb": null,
     "genres": [
-     "Thriller",
-     "Fantasy"
+     "Documentario"
     ],
-    "director": []
+    "director": [
+     "Hans Lawrence Pettersen"
+    ]
    }
   },
-  "match_score": 0.71
+  "note": ""
  },
  {
   "id": "f218",
@@ -7543,7 +8168,7 @@
     "genres": "Crime,Drama,History"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f219",
@@ -7578,7 +8203,7 @@
     "genres": "Action,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f220",
@@ -7613,7 +8238,13 @@
     "genres": "Drama,Sci-Fi,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "The Butterfly Effect (2004, 113 min)",
+   "The Butterfly Effect 2 (2006, 92 min)",
+   "El efecto mariposa (1995, 110 min)",
+   "The Butterfly Effect (2020, 11 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f221",
@@ -7624,8 +8255,8 @@
   },
   "flags": [
    [
-    "DURATA",
-    "Nostro 90 min; TMDB 15, IMDb 15 → proposta 15"
+    "DURATA?",
+    "Nostro 90 min; TMDB 15, IMDb 15 → proposta 15 (possibile film sbagliato/cortometraggio: controllare)"
    ]
   ],
   "src": {
@@ -7653,7 +8284,7 @@
     "genres": "Drama,Sci-Fi,Short"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f222",
@@ -7687,7 +8318,12 @@
     "genres": "Mystery,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Identità (2003, 96 min)",
+   "Identity (2024, 6 min)",
+   "ഐഡന്റിറ്റി (2025, 156 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f223",
@@ -7722,7 +8358,7 @@
     "genres": "Drama,Mystery,Thriller"
    }
   },
-  "match_score": 0.65
+  "note": ""
  },
  {
   "id": "f224",
@@ -7757,7 +8393,13 @@
     "genres": "Adventure,Drama,Fantasy"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Big Fish - Le storie di una vita incredibile (2003, 125 min)",
+   "Big Fish (1997, 109 min)",
+   "Big Fish (2026, 9 min)",
+   "Big Fish (, 5 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f225",
@@ -7791,7 +8433,12 @@
     "genres": "Drama,Sci-Fi,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Ex Machina (2015, 108 min)",
+   "Ex Machina (2012, 0 min)",
+   "EX MACHINA (2023, 36 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f226",
@@ -7826,7 +8473,13 @@
     "genres": "Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Joker (2019, 122 min)",
+   "Joker (2016, 135 min)",
+   "Joker (2012, 104 min)",
+   "Joker (1991, 108 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f227",
@@ -7860,7 +8513,13 @@
     "genres": "Drama,Romance"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Past Lives (2023, 106 min)",
+   "Nagligad nga Kinabuhi (2023, 15 min)",
+   "Past Lives (2022, 1 min)",
+   "Past Lives (, 2 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f228",
@@ -7894,7 +8553,13 @@
     "genres": "Biography,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Il caso Spotlight (2015, 128 min)",
+   "Spotlight (2018, 5 min)",
+   "Spotlight (2010, 25 min)",
+   "スポットライトを当ててくれ！ (2022, 110 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f229",
@@ -7929,7 +8594,11 @@
     "genres": "Horror,Mystery,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "La cosa (1982, 104 min)",
+   "La cosa (2011, 103 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f230",
@@ -7964,7 +8633,11 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Cinque giorni di vendetta (2004, 90 min)",
+   "Dead Man's Shoes (1940, 70 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f231",
@@ -7999,7 +8672,12 @@
     "genres": "Drama,Mystery,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Chinatown (1974, 130 min)",
+   "Chinatown (2016, 15 min)",
+   "Chinatown (2024, 25 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f232",
@@ -8032,7 +8710,7 @@
     "genres": "Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f233",
@@ -8067,7 +8745,7 @@
     "genres": "Drama,Mystery,Thriller"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f234",
@@ -8102,7 +8780,13 @@
     "genres": "Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Scarface (1983, 170 min)",
+   "Scarface (2001, 12 min)",
+   "Scarface - Lo sfregiato (1932, 93 min)",
+   "Scarface (, 0 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f235",
@@ -8137,7 +8821,11 @@
     "genres": "Action,Comedy,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Bullet Train (2022, 126 min)",
+   "新幹線大爆破 (1975, 152 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f236",
@@ -8172,7 +8860,7 @@
     "genres": "Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f237",
@@ -8206,7 +8894,7 @@
     "genres": "Biography,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f238",
@@ -8241,7 +8929,7 @@
     "genres": "Crime,Drama,Fantasy"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f239",
@@ -8276,7 +8964,12 @@
     "genres": "Action,Drama,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Looper - In fuga dal passato (2012, 119 min)",
+   "Looper (2025, 5 min)",
+   "LOOPER (, 5 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f240",
@@ -8287,11 +8980,39 @@
   },
   "flags": [
    [
-    "NON_TROVATO",
-    "Nessun film TMDB corrisponde al titolo"
+    "DURATA",
+    "Nostro 113 min; TMDB 103, IMDb 103 → proposta 103 [anno dedotto dalla durata più vicina tra omonimi]"
    ]
   ],
-  "src": {}
+  "src": {
+   "tmdb": {
+    "id": 393673,
+    "title": "Los renglones torcidos de Dios",
+    "orig": "Los renglones torcidos de Dios",
+    "year": 1983,
+    "runtime": 103,
+    "imdb": "tt0224005",
+    "genres": [
+     "Dramma",
+     "Thriller"
+    ],
+    "director": [
+     "Tulio Demicheli"
+    ]
+   },
+   "imdb": {
+    "id": "tt0224005",
+    "title": "God's Crooked Lines",
+    "year": 1983,
+    "runtime": 103,
+    "genres": "Drama,Mystery"
+   }
+  },
+  "alternatives": [
+   "Los renglones torcidos de Dios (1983, 103 min)",
+   "Quando Dio imparò a scrivere (2022, 155 min)"
+  ],
+  "note": "anno dedotto dalla durata più vicina tra omonimi"
  },
  {
   "id": "f241",
@@ -8326,7 +9047,11 @@
     "genres": "Action,Adventure,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "The Day After Tomorrow - L'alba del giorno dopo (2004, 125 min)",
+   "Diena po rytojaus (2016, 44 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f242",
@@ -8361,7 +9086,11 @@
     "genres": "Action,Drama,History"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Dunkirk (2017, 106 min)",
+   "Dunkerque (1958, 134 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f243",
@@ -8395,7 +9124,13 @@
     "genres": "Action,Adventure,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Dune (2021, 155 min)",
+   "Dűne (2020, 4 min)",
+   "La dune (2014, 86 min)",
+   "Dune (1984, 137 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f244",
@@ -8430,7 +9165,11 @@
     "genres": "Action,Adventure,Drama"
    }
   },
-  "match_score": 1.0
+  "alternatives": [
+   "Divergent (2014, 139 min)",
+   "Divergente (2023, 0 min)"
+  ],
+  "note": "anno dedotto dalla durata più vicina tra omonimi"
  },
  {
   "id": "f245",
@@ -8465,7 +9204,7 @@
     "genres": "Action,Adventure,Drama"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f246",
@@ -8500,7 +9239,7 @@
     "genres": "Comedy,Drama,Romance"
    }
   },
-  "match_score": 1.04
+  "note": ""
  },
  {
   "id": "f247",
@@ -8533,7 +9272,7 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f248",
@@ -8542,12 +9281,7 @@
    "duration": 106,
    "cover_year": null
   },
-  "flags": [
-   [
-    "AMBIGUO",
-    "Più film con lo stesso titolo: Contrattempo (2017), Contratiempo (2011), Contratiempo (2003)"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "id": 411088,
@@ -8573,7 +9307,13 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.0
+  "alternatives": [
+   "Contrattempo (2017, 107 min)",
+   "A contratiempo (1982, 107 min)",
+   "Contratiempo (2011, 90 min)",
+   "Contratiempo (2003, 0 min)"
+  ],
+  "note": "anno dedotto dalla durata più vicina tra omonimi"
  },
  {
   "id": "f249",
@@ -8607,7 +9347,7 @@
     "genres": "Crime,Drama"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f250",
@@ -8642,7 +9382,7 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f251",
@@ -8677,7 +9417,13 @@
     "genres": "Comedy,Drama,Fantasy"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Questione di tempo (2013, 123 min)",
+   "About Time (2013, 19 min)",
+   "About Time (1985, 57 min)",
+   "About Time (1962, 53 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f252",
@@ -8712,7 +9458,7 @@
     "genres": "Adventure,Drama,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f253",
@@ -8751,7 +9497,7 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f254",
@@ -8760,13 +9506,33 @@
    "duration": 115,
    "cover_year": 2000
   },
-  "flags": [
-   [
-    "NON_TROVATO",
-    "Nessun film TMDB corrisponde al titolo"
-   ]
-  ],
-  "src": {}
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "id": 18079,
+    "title": "Nove regine",
+    "orig": "Nueve reinas",
+    "year": 2000,
+    "runtime": 114,
+    "imdb": "tt0247586",
+    "genres": [
+     "Crime",
+     "Thriller",
+     "Dramma"
+    ],
+    "director": [
+     "Fabián Bielinsky"
+    ]
+   },
+   "imdb": {
+    "id": "tt0247586",
+    "title": "Nine Queens",
+    "year": 2000,
+    "runtime": 114,
+    "genres": "Crime,Drama,Thriller"
+   }
+  },
+  "note": ""
  },
  {
   "id": "f255",
@@ -8800,7 +9566,7 @@
     "genres": "Biography,Drama,Romance"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f256",
@@ -8834,7 +9600,7 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f257",
@@ -8875,7 +9641,7 @@
     "genres": "Comedy,Crime"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f258",
@@ -8910,7 +9676,11 @@
     "genres": "Drama,Sci-Fi,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Chronicle (2012, 84 min)",
+   "Letopis (2025, 71 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f259",
@@ -8945,7 +9715,13 @@
     "genres": "Drama,Sci-Fi,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Gravity (2013, 92 min)",
+   "Gravity (2018, 20 min)",
+   "Gravity (2019, 3 min)",
+   "Gravity (1976, 8 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f260",
@@ -8957,7 +9733,7 @@
   "flags": [
    [
     "DURATA",
-    "Nostro 120 min; TMDB 89, IMDb 88 → proposta 88"
+    "Nostro 120 min; TMDB 89, IMDb 88 → proposta 88 [anno dedotto dalla durata più vicina tra omonimi]"
    ]
   ],
   "src": {
@@ -8985,7 +9761,11 @@
     "genres": "Action,Adventure,Sci-Fi"
    }
   },
-  "match_score": 1.0
+  "alternatives": [
+   "Interceptor (1979, 89 min)",
+   "狂蒲之路 (2016, 0 min)"
+  ],
+  "note": "anno dedotto dalla durata più vicina tra omonimi"
  },
  {
   "id": "f261",
@@ -9019,7 +9799,11 @@
     "genres": "Action,Adventure,Sci-Fi"
    }
   },
-  "match_score": 1.0
+  "alternatives": [
+   "Spider-Man (2002, 121 min)",
+   "Spider-Man 3 (2007, 139 min)"
+  ],
+  "note": "anno dedotto dalla durata più vicina tra omonimi"
  },
  {
   "id": "f262",
@@ -9054,7 +9838,13 @@
     "genres": "Action,Adventure,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Independence Day (1996, 145 min)",
+   "Independence Day (1983, 110 min)",
+   "Independence Day (2012, 4 min)",
+   "Independence Day (1976, 87 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f263",
@@ -9089,7 +9879,11 @@
     "genres": "Drama,History,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "JFK - Un caso ancora aperto (1991, 206 min)",
+   "JFK (2013, 224 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f264",
@@ -9125,7 +9919,7 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f265",
@@ -9159,7 +9953,13 @@
     "genres": "Biography,Drama,History"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "First Man - Il primo uomo (2018, 141 min)",
+   "Il primo uomo (2011, 101 min)",
+   "The First Man (1996, 83 min)",
+   "The First Man (, 145 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f266",
@@ -9193,7 +9993,13 @@
     "genres": "Sci-Fi,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Sunshine (2007, 108 min)",
+   "Sunshine (1999, 181 min)",
+   "Sunshine (2025, 92 min)",
+   "Sunshine (1973, 121 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f267",
@@ -9228,7 +10034,12 @@
     "genres": "Action,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Collateral (2004, 120 min)",
+   "Collatéral (2023, 0 min)",
+   "كولاترال! (2025, 20 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f268",
@@ -9237,13 +10048,39 @@
    "duration": 130,
    "cover_year": null
   },
-  "flags": [
-   [
-    "NON_TROVATO",
-    "Nessun film TMDB corrisponde al titolo"
-   ]
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "id": 1061474,
+    "title": "Superman",
+    "orig": "Superman",
+    "year": 2025,
+    "runtime": 129,
+    "imdb": "tt5950044",
+    "genres": [
+     "Fantascienza",
+     "Avventura",
+     "Azione"
+    ],
+    "director": [
+     "James Gunn"
+    ]
+   },
+   "imdb": {
+    "id": "tt5950044",
+    "title": "Superman",
+    "year": 2025,
+    "runtime": 129,
+    "genres": "Action,Adventure,Sci-Fi"
+   }
+  },
+  "alternatives": [
+   "Superman (2025, 129 min)",
+   "Superman (2025, 1 min)",
+   "সুপারম্যান (1997, 131 min)",
+   "Superman (1978, 151 min)"
   ],
-  "src": {}
+  "note": ""
  },
  {
   "id": "f269",
@@ -9278,7 +10115,7 @@
     "genres": "Crime,Thriller"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f270",
@@ -9287,33 +10124,27 @@
    "duration": 145,
    "cover_year": 2025
   },
-  "flags": [],
+  "flags": [
+   [
+    "DURATA?",
+    "Nostro 145 min; TMDB 97, IMDb None → proposta 97"
+   ]
+  ],
   "src": {
    "tmdb": {
-    "id": 812583,
-    "title": "Wake Up Dead Man - Knives Out",
-    "orig": "Wake Up Dead Man: A Knives Out Mystery",
-    "year": 2025,
-    "runtime": 145,
-    "imdb": "tt14364480",
-    "genres": [
-     "Thriller",
-     "Mistero",
-     "Commedia"
-    ],
+    "id": 1642331,
+    "title": "Acorde, Homenzinho!",
+    "orig": "Acorde, Homenzinho!",
+    "year": 0,
+    "runtime": 97,
+    "imdb": null,
+    "genres": [],
     "director": [
-     "Rian Johnson"
+     "Will Mascaro"
     ]
-   },
-   "imdb": {
-    "id": "tt14364480",
-    "title": "Wake Up Dead Man",
-    "year": 2025,
-    "runtime": 144,
-    "genres": "Comedy,Crime,Drama"
    }
   },
-  "match_score": 0.89
+  "note": ""
  },
  {
   "id": "f271",
@@ -9351,7 +10182,7 @@
     "genres": "Documentary"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f272",
@@ -9387,7 +10218,7 @@
     "genres": "Action,Comedy,Crime"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f273",
@@ -9423,7 +10254,7 @@
     "genres": "Action,Comedy,Crime"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f274",
@@ -9456,7 +10287,13 @@
     "genres": "Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Aftersun (2022, 101 min)",
+   "Aftersun (2022, 70 min)",
+   "Aftersun (2024, 2 min)",
+   "Aftersun (2006, 60 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f275",
@@ -9490,7 +10327,7 @@
     "genres": "Crime,Drama,Music"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f276",
@@ -9523,7 +10360,11 @@
     "genres": "Drama,Music,Musical"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "All That Jazz - Lo spettacolo comincia (1979, 123 min)",
+   "All That Jazz (, 10 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f277",
@@ -9556,7 +10397,13 @@
     "genres": "Biography,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Risvegli (1990, 121 min)",
+   "Awakenings (1974, 41 min)",
+   "Awakenings (2015, 14 min)",
+   "Prebujanja (2017, 82 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f278",
@@ -9591,7 +10438,11 @@
     "genres": "Action,Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Battle Royale (2000, 114 min)",
+   "The Battle Royale (2025, 87 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f279",
@@ -9625,7 +10476,12 @@
     "genres": "Drama,Romance"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Before Midnight (2013, 108 min)",
+   "Avant minuit (1986, 53 min)",
+   "Before Midnight (1933, 63 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f280",
@@ -9659,7 +10515,13 @@
     "genres": "Comedy,Drama,Romance"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Prima dell'alba (1995, 101 min)",
+   "飛越危情 (1999, 0 min)",
+   "Before Sunrise (2005, 6 min)",
+   "Şafakla Dönenler (2014, 75 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f281",
@@ -9693,7 +10555,13 @@
     "genres": "Drama,Romance"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Before Sunset - Prima del tramonto (2004, 80 min)",
+   "Prima del tramonto (1999, 95 min)",
+   "二十歳に還りたい。 (2023, 119 min)",
+   "Before The Sunset (, 5 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f282",
@@ -9728,7 +10596,7 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 0.69
+  "note": ""
  },
  {
   "id": "f283",
@@ -9763,7 +10631,7 @@
     "genres": "Comedy,Crime"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f284",
@@ -9798,7 +10666,11 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Velluto blu (1986, 120 min)",
+   "Blue Velvet (1970, 57 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f285",
@@ -9831,7 +10703,12 @@
     "genres": "Comedy,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Boyhood (2014, 165 min)",
+   "少年期 (1951, 110 min)",
+   "Boyhood (1935, 8 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f286",
@@ -9840,34 +10717,39 @@
    "duration": 148,
    "cover_year": 2018
   },
-  "flags": [
-   [
-    "DURATA",
-    "Nostro 148 min; TMDB 18, IMDb 18 → proposta 18"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
-    "id": 813106,
-    "title": "Burning",
-    "orig": "Burning",
+    "id": 491584,
+    "title": "Burning - L'amore brucia",
+    "orig": "버닝",
     "year": 2018,
-    "runtime": 18,
-    "imdb": "tt9071180",
-    "genres": [],
+    "runtime": 148,
+    "imdb": "tt7282468",
+    "genres": [
+     "Mistero",
+     "Dramma",
+     "Thriller"
+    ],
     "director": [
-     "VS Sanoj"
+     "Lee Chang-dong"
     ]
    },
    "imdb": {
-    "id": "tt9071180",
+    "id": "tt7282468",
     "title": "Burning",
     "year": 2018,
-    "runtime": 18,
-    "genres": "Drama,Short"
+    "runtime": 148,
+    "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Burning - L'amore brucia (2018, 148 min)",
+   "Burning (2018, 18 min)",
+   "Borning - Corsa senza regole (2014, 89 min)",
+   "The Burning (1981, 91 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f287",
@@ -9907,7 +10789,13 @@
     "genres": "Crime,Horror,Mystery"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "The call (2020, 112 min)",
+   "The Call (2020, 97 min)",
+   "The Call (2013, 94 min)",
+   "The Call (2004, 28 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f288",
@@ -9942,7 +10830,7 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f289",
@@ -9976,7 +10864,11 @@
     "genres": "Adventure,Drama,Romance"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Cast Away (2000, 143 min)",
+   "Cast Away (2017, 90 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f290",
@@ -9985,12 +10877,7 @@
    "duration": 125,
    "cover_year": null
   },
-  "flags": [
-   [
-    "AMBIGUO",
-    "Più film con lo stesso titolo: The Chaser (2008), Chaser (2026), Chaser (2013)"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "id": 13855,
@@ -10016,7 +10903,13 @@
     "genres": "Action,Crime,Drama"
    }
   },
-  "match_score": 1.0
+  "alternatives": [
+   "The Chaser (2008, 125 min)",
+   "The Chaser (1938, 76 min)",
+   "Chaser (2013, 15 min)",
+   "Chaser (2026, 10 min)"
+  ],
+  "note": "anno dedotto dalla durata più vicina tra omonimi"
  },
  {
   "id": "f291",
@@ -10051,7 +10944,7 @@
     "genres": "Drama,Sci-Fi,Thriller"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f292",
@@ -10086,7 +10979,7 @@
     "genres": "Comedy,Crime,Drama"
    }
   },
-  "match_score": 0.97
+  "note": ""
  },
  {
   "id": "f293",
@@ -10121,7 +11014,13 @@
     "genres": "Action,Adventure,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "The Creator (2023, 134 min)",
+   "The Creators (2023, 5 min)",
+   "The Creator (2020, 5 min)",
+   "The Creator (, 0 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f294",
@@ -10156,7 +11055,13 @@
     "genres": "Crime,Horror,Mystery"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Cure (1997, 111 min)",
+   "Amici per sempre (1995, 99 min)",
+   "The Cure (2020, 37 min)",
+   "The Cure (2026, 91 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f295",
@@ -10190,7 +11095,13 @@
     "genres": "Adventure,Horror,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "The Descent - Discesa nelle tenebre (2005, 103 min)",
+   "The Descent (2024, 75 min)",
+   "The Descent (, 5 min)",
+   "The Descent (, 8 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f296",
@@ -10225,7 +11136,13 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Il delitto perfetto (1954, 105 min)",
+   "Dial M for Murder (1962, 0 min)",
+   "Dial M for Murder (1967, 120 min)",
+   "Dial M for Murder (1981, 98 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f297",
@@ -10259,7 +11176,13 @@
     "genres": "Action,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Trappola di cristallo (1988, 131 min)",
+   "58 minuti per morire - Die Harder (1990, 124 min)",
+   "Крепкий орешек (1996, 2 min)",
+   "جان سخت (1971, 90 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f298",
@@ -10294,7 +11217,7 @@
     "genres": "Biography,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f299",
@@ -10329,7 +11252,7 @@
     "genres": "Biography,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f300",
@@ -10338,32 +11261,42 @@
    "duration": 93,
    "cover_year": 2013
   },
-  "flags": [],
+  "flags": [
+   [
+    "DURATA",
+    "Nostro 93 min; TMDB 85, IMDb 83 → proposta 83"
+   ]
+  ],
   "src": {
    "tmdb": {
-    "id": 146015,
-    "title": "Il sosia - The Double",
-    "orig": "The Double",
-    "year": 2014,
-    "runtime": 93,
-    "imdb": "tt1825157",
+    "id": 164502,
+    "title": "Дублёр",
+    "orig": "Дублёр",
+    "year": 2013,
+    "runtime": 85,
+    "imdb": "tt2593290",
     "genres": [
-     "Thriller",
-     "Dramma"
+     "Commedia"
     ],
     "director": [
-     "Richard Ayoade"
+     "Evgeniy Abyzov"
     ]
    },
    "imdb": {
-    "id": "tt1825157",
-    "title": "The Double",
+    "id": "tt2593290",
+    "title": "Double",
     "year": 2013,
-    "runtime": 93,
-    "genres": "Comedy,Drama,Mystery"
+    "runtime": 83,
+    "genres": "Comedy"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Дублёр (2013, 85 min)",
+   "Il sosia - The Double (2014, 93 min)",
+   "The Double (2011, 95 min)",
+   "Der Doppelgänger (1934, 88 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f301",
@@ -10397,7 +11330,12 @@
     "genres": "Biography,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "The Elephant Man (1980, 124 min)",
+   "The Elephant Man (1982, 90 min)",
+   "The Elephant Man (, 0 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f302",
@@ -10431,7 +11369,11 @@
     "genres": "Fantasy,Horror"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Eraserhead - La mente che cancella (1977, 89 min)",
+   "Eraserhead в плетена торба за пазар (2025, 19 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f303",
@@ -10466,7 +11408,13 @@
     "genres": "Horror,Sci-Fi,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Punto di non ritorno (1997, 96 min)",
+   "The Event Horizon (2015, 17 min)",
+   "Horizonte de eventos (2016, 15 min)",
+   "Event Horizon (2017, 0 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f304",
@@ -10510,7 +11458,12 @@
     "genres": "Adventure,Drama,Fantasy"
    }
   },
-  "match_score": 1.0
+  "alternatives": [
+   "The Fall (2008, 117 min)",
+   "The Fall (2009, 110 min)",
+   "The Fall (2019, 7 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f305",
@@ -10545,7 +11498,11 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Un giorno di ordinaria follia (1993, 108 min)",
+   "Falling Down (1993, 9 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f306",
@@ -10580,7 +11537,12 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Fargo (1996, 98 min)",
+   "Fargo (2003, 60 min)",
+   "Fargo - La valle dei desperados (1952, 69 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f307",
@@ -10613,7 +11575,13 @@
     "genres": "Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "The Father - Nulla è come sembra (2020, 97 min)",
+   "Бащата (2019, 87 min)",
+   "The Father (1999, 91 min)",
+   "The Father (1969, 31 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f308",
@@ -10646,7 +11614,7 @@
     "genres": "Comedy"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f309",
@@ -10681,7 +11649,7 @@
     "genres": "Action,Adventure,Sci-Fi"
    }
   },
-  "match_score": 0.86
+  "note": ""
  },
  {
   "id": "f310",
@@ -10717,7 +11685,13 @@
     "genres": "Drama,Mystery,Romance"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "L'albero della vita - The Fountain (2006, 96 min)",
+   "The Fountain (2007, 6 min)",
+   "Фонтан (1988, 104 min)",
+   "The Fountain (1934, 83 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f311",
@@ -10752,7 +11726,11 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Frailty - Nessuno è al sicuro (2002, 99 min)",
+   "Frailty (2012, 0 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f312",
@@ -10787,7 +11765,11 @@
     "genres": "Action,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Il braccio violento della legge (1971, 103 min)",
+   "ROH: The French Connection (2008, 158 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f313",
@@ -10822,7 +11804,13 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Frequency - Il futuro è in ascolto (2000, 118 min)",
+   "FREQUENCY (2020, 14 min)",
+   "Frequency (2020, 2 min)",
+   "Frequency (2026, 15 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f314",
@@ -10857,7 +11845,13 @@
     "genres": "Action,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Il fuggitivo (1993, 131 min)",
+   "亡命徒 (1972, 77 min)",
+   "La croce di fuoco (1947, 104 min)",
+   "The Fugitive (1910, 16 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f315",
@@ -10891,7 +11885,7 @@
     "genres": "Drama,War"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f316",
@@ -10927,7 +11921,13 @@
     "genres": "Action,Adventure,Comedy"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Game Night - Indovina chi muore stasera? (2018, 93 min)",
+   "Game Night (2019, 5 min)",
+   "Game Night (2020, 10 min)",
+   "Game Night (2026, 3 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f317",
@@ -10962,7 +11962,11 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Millennium - Uomini che odiano le donne (2011, 158 min)",
+   "Uomini che odiano le donne (2009, 146 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f318",
@@ -10996,7 +12000,11 @@
     "genres": "Crime,Drama"
    }
   },
-  "match_score": 1.0
+  "alternatives": [
+   "Il padrino - Parte II (1974, 200 min)",
+   "Il padrino - Parte III (1990, 162 min)"
+  ],
+  "note": "anno dedotto dalla durata più vicina tra omonimi"
  },
  {
   "id": "f319",
@@ -11005,25 +12013,31 @@
    "duration": 142,
    "cover_year": null
   },
-  "flags": [
-   [
-    "DURATA",
-    "Nostro 142 min; TMDB 4, IMDb None → proposta 4"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
-    "id": 421635,
-    "title": "The Great Beauty: Colombia",
-    "orig": "The Great Beauty: Colombia",
-    "year": 0,
-    "runtime": 4,
-    "imdb": "",
-    "genres": [],
-    "director": []
+    "id": 179144,
+    "title": "La grande bellezza",
+    "orig": "La grande bellezza",
+    "year": 2013,
+    "runtime": 142,
+    "imdb": "tt2358891",
+    "genres": [
+     "Dramma"
+    ],
+    "director": [
+     "Paolo Sorrentino"
+    ]
+   },
+   "imdb": {
+    "id": "tt2358891",
+    "title": "The Great Beauty",
+    "year": 2013,
+    "runtime": 141,
+    "genres": "Drama"
    }
   },
-  "match_score": 0.73
+  "note": ""
  },
  {
   "id": "f320",
@@ -11058,7 +12072,7 @@
     "genres": "Biography,Comedy,Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f321",
@@ -11067,13 +12081,33 @@
    "duration": 145,
    "cover_year": 2016
   },
-  "flags": [
-   [
-    "NON_TROVATO",
-    "Nessun film TMDB corrisponde al titolo"
-   ]
-  ],
-  "src": {}
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "id": 290098,
+    "title": "Mademoiselle",
+    "orig": "아가씨",
+    "year": 2016,
+    "runtime": 144,
+    "imdb": "tt4016934",
+    "genres": [
+     "Thriller",
+     "Dramma",
+     "Romance"
+    ],
+    "director": [
+     "Park Chan-wook"
+    ]
+   },
+   "imdb": {
+    "id": "tt4016934",
+    "title": "The Handmaiden",
+    "year": 2016,
+    "runtime": 145,
+    "genres": "Drama,Romance,Thriller"
+   }
+  },
+  "note": ""
  },
  {
   "id": "f322",
@@ -11109,7 +12143,11 @@
     "genres": "Action,Crime,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "A Hard Day (2014, 111 min)",
+   "A Hard Day (2021, 117 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f323",
@@ -11144,7 +12182,7 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f324",
@@ -11179,7 +12217,7 @@
     "genres": "Drama,Romance,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f325",
@@ -11214,7 +12252,13 @@
     "genres": "Comedy,Romance"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Hitch - Lui si che capisce le donne (2005, 118 min)",
+   "Hitch (2000, 18 min)",
+   "The Hitch (2014, 82 min)",
+   "The Hitch (, 15 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f326",
@@ -11248,7 +12292,13 @@
     "genres": "Drama,Romance"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "In the Mood for Love (2000, 98 min)",
+   "@ in the mood for love (2001, 98 min)",
+   "I'm in the Mood for Love (2010, 7 min)",
+   "In the Mood for Love (2015, 31 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f327",
@@ -11281,7 +12331,13 @@
     "genres": "Biography,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Nel nome del padre (1993, 132 min)",
+   "Em Nome do Pai (2002, 17 min)",
+   "به نام پدر (2006, 96 min)",
+   "Nel nome del padre (1971, 109 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f328",
@@ -11316,7 +12372,11 @@
     "genres": "Drama,Fantasy,Mystery"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Inland Empire - L'impero della mente (2006, 180 min)",
+   "Inland Empire (2021, 8 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f329",
@@ -11350,7 +12410,12 @@
     "genres": "Biography,Drama,History"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Insider - Dietro la verità (1999, 151 min)",
+   "İçerdekiler (2018, 115 min)",
+   "The Insider (2018, 6 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f330",
@@ -11384,7 +12449,13 @@
     "genres": "Adventure,Biography,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Into the Wild - Nelle terre selvagge (2007, 148 min)",
+   "Into the Wild (2020, 5 min)",
+   "Into the Wild (2023, 27 min)",
+   "Into the Wild (2023, 20 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f331",
@@ -11419,7 +12490,11 @@
     "genres": "Biography,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "The Irishman (2019, 209 min)",
+   "The Irishman (1978, 108 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f332",
@@ -11454,7 +12529,7 @@
     "genres": "Drama,Mystery,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f333",
@@ -11489,7 +12564,12 @@
     "genres": "Comedy,Drama,Music"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "La La Land (2016, 126 min)",
+   "LA LA Land (2008, 26 min)",
+   "La La Land (, 8 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f334",
@@ -11524,7 +12604,12 @@
     "genres": "Action,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "L'ultimo samurai (2003, 154 min)",
+   "The Last Samurai (1990, 90 min)",
+   "狼よ落日を斬れ (1974, 159 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f335",
@@ -11558,7 +12643,7 @@
     "genres": "Drama,War"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f336",
@@ -11593,7 +12678,12 @@
     "genres": "Comedy,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Lost in Translation - L'amore tradotto (2003, 102 min)",
+   "Lost in Translation (2018, 18 min)",
+   "Lost in translation (, 5 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f337",
@@ -11628,7 +12718,7 @@
     "genres": "Comedy,Drama,Romance"
    }
   },
-  "match_score": 1.0
+  "note": ""
  },
  {
   "id": "f338",
@@ -11661,7 +12751,12 @@
     "genres": "Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "The Master (2012, 137 min)",
+   "The Master (2011, 0 min)",
+   "The Master (1992, 92 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f339",
@@ -11694,7 +12789,7 @@
     "genres": "Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f340",
@@ -11706,34 +12801,41 @@
   "flags": [
    [
     "DURATA",
-    "Nostro 109 min; TMDB 84, IMDb 86 → proposta 86"
+    "Nostro 109 min; TMDB 125, IMDb 127 → proposta 127"
    ]
   ],
   "src": {
    "tmdb": {
-    "id": 1203484,
-    "title": "Monster",
-    "orig": "Monster",
+    "id": 1050035,
+    "title": "L'innocenza",
+    "orig": "怪物",
     "year": 2023,
-    "runtime": 84,
-    "imdb": "tt29941084",
+    "runtime": 125,
+    "imdb": "tt23736044",
     "genres": [
+     "Mistero",
      "Thriller",
-     "Horror"
+     "Dramma"
     ],
     "director": [
-     "Rako Prijanto"
+     "Hirokazu Kore-eda"
     ]
    },
    "imdb": {
-    "id": "tt29941084",
+    "id": "tt23736044",
     "title": "Monster",
     "year": 2023,
-    "runtime": 86,
-    "genres": "Horror,Mystery,Thriller"
+    "runtime": 127,
+    "genres": "Drama,Mystery,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "L'innocenza (2023, 125 min)",
+   "Monster (2023, 84 min)",
+   "The Monster (2016, 90 min)",
+   "Monster (2003, 104 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f341",
@@ -11742,29 +12844,39 @@
    "duration": 129,
    "cover_year": 2009
   },
-  "flags": [
-   [
-    "DURATA",
-    "Nostro 129 min; TMDB 20, IMDb None → proposta 20"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
-    "id": 698885,
-    "title": "Mother",
-    "orig": "Mother",
+    "id": 30018,
+    "title": "Madre",
+    "orig": "마더",
     "year": 2009,
-    "runtime": 20,
-    "imdb": null,
+    "runtime": 128,
+    "imdb": "tt1216496",
     "genres": [
-     "Documentario"
+     "Crime",
+     "Dramma",
+     "Mistero"
     ],
     "director": [
-     "Tracey Moffatt"
+     "봉준호"
     ]
+   },
+   "imdb": {
+    "id": "tt1216496",
+    "title": "Mother",
+    "year": 2009,
+    "runtime": 129,
+    "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Madre (2009, 128 min)",
+   "Madre! (2017, 115 min)",
+   "Mother (2020, 127 min)",
+   "The Mother (2023, 115 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f342",
@@ -11800,7 +12912,13 @@
     "genres": "Action,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Il negoziatore (1998, 135 min)",
+   "The Negotiator (1994, 83 min)",
+   "Negotiator (2003, 107 min)",
+   "Il Nibbio (2025, 108 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f343",
@@ -11811,11 +12929,42 @@
   },
   "flags": [
    [
-    "NON_TROVATO",
-    "Nessun film TMDB corrisponde al titolo"
+    "DURATA",
+    "Nostro 106 min; TMDB 125, IMDb 123 → proposta 123"
    ]
   ],
-  "src": {}
+  "src": {
+   "tmdb": {
+    "id": 50475,
+    "title": "용서는 없다",
+    "orig": "용서는 없다",
+    "year": 2010,
+    "runtime": 125,
+    "imdb": "tt1662557",
+    "genres": [
+     "Crime",
+     "Thriller",
+     "Azione"
+    ],
+    "director": [
+     "Kim Hyoung-jun"
+    ]
+   },
+   "imdb": {
+    "id": "tt1662557",
+    "title": "No Mercy",
+    "year": 2010,
+    "runtime": 123,
+    "genres": "Action,Crime,Thriller"
+   }
+  },
+  "alternatives": [
+   "용서는 없다 (2010, 125 min)",
+   "Sin misericordia (2008, 90 min)",
+   "언니 (2019, 93 min)",
+   "Nessuna pietà (1986, 107 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f344",
@@ -11824,37 +12973,37 @@
    "duration": 141,
    "cover_year": 2004
   },
-  "flags": [
-   [
-    "DURATA",
-    "Nostro 141 min; TMDB 88, IMDb 88 → proposta 88"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
-    "id": 80346,
-    "title": "Nobody Knows Anything! - Nessuno sa nulla",
-    "orig": "Nobody Knows Anything!",
+    "id": 2517,
+    "title": "Nobody Knows - Come si diventa adulti",
+    "orig": "誰も知らない",
     "year": 2004,
-    "runtime": 88,
-    "imdb": "tt0142634",
+    "runtime": 141,
+    "imdb": "tt0408664",
     "genres": [
-     "Commedia",
      "Dramma"
     ],
     "director": [
-     "William Tannen"
+     "Hirokazu Kore-eda"
     ]
    },
    "imdb": {
-    "id": "tt0142634",
-    "title": "Nobody Knows Anything!",
-    "year": 2003,
-    "runtime": 88,
-    "genres": "Comedy"
+    "id": "tt0408664",
+    "title": "Nobody Knows",
+    "year": 2004,
+    "runtime": 141,
+    "genres": "Drama"
    }
   },
-  "match_score": 0.88
+  "alternatives": [
+   "Nobody Knows - Come si diventa adulti (2004, 141 min)",
+   "Nobody Knows (2018, 20 min)",
+   "Nobody Knows Me (2026, 1 min)",
+   "아무도 모를꺼야 (1977, 94 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f345",
@@ -11888,7 +13037,12 @@
     "genres": "Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Animali notturni (2016, 115 min)",
+   "Animais Noturnos (2024, 11 min)",
+   "Nocturnal Animals (2025, 5 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f346",
@@ -11924,7 +13078,13 @@
     "genres": "Action,Adventure,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Oblivion (2013, 124 min)",
+   "Oblivion (2013, 6 min)",
+   "Oblivion (1994, 94 min)",
+   "Oblivion (1969, 6 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f347",
@@ -11958,7 +13118,11 @@
     "genres": "Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "C'era una volta in America (1984, 229 min)",
+   "Once Upon a Time in America (2020, 165 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f348",
@@ -11993,7 +13157,7 @@
     "genres": "Comedy,Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f349",
@@ -12002,13 +13166,33 @@
    "duration": 118,
    "cover_year": null
   },
-  "flags": [
-   [
-    "NON_TROVATO",
-    "Nessun film TMDB corrisponde al titolo"
-   ]
-  ],
-  "src": {}
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "id": 1417,
+    "title": "Il labirinto del fauno",
+    "orig": "El laberinto del fauno",
+    "year": 2006,
+    "runtime": 112,
+    "imdb": "tt0457430",
+    "genres": [
+     "Fantasy",
+     "Dramma",
+     "Guerra"
+    ],
+    "director": [
+     "Guillermo del Toro"
+    ]
+   },
+   "imdb": {
+    "id": "tt0457430",
+    "title": "Pan's Labyrinth",
+    "year": 2006,
+    "runtime": 118,
+    "genres": "Drama,Fantasy,War"
+   }
+  },
+  "note": ""
  },
  {
   "id": "f350",
@@ -12041,7 +13225,11 @@
     "genres": "Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Paris, Texas (1984, 147 min)",
+   "Paris is Texas (2025, 19 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f351",
@@ -12074,7 +13262,13 @@
     "genres": "Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Persona (1966, 85 min)",
+   "仮面学園 (2000, 90 min)",
+   "ペルソナ (2008, 84 min)",
+   "Persona (2024, 101 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f352",
@@ -12109,7 +13303,7 @@
     "genres": "Drama,Mystery,Thriller"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f353",
@@ -12144,7 +13338,11 @@
     "genres": "Drama,Horror,Mystery"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "π: Il teorema del delirio (1998, 84 min)",
+   "PI (2025, 0 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f354",
@@ -12178,7 +13376,11 @@
     "genres": "Drama,Romance"
    }
   },
-  "match_score": 0.71
+  "alternatives": [
+   "Ritratto della giovane in fiamme (2019, 122 min)",
+   "Portrait of a Cat Lady on Fire (2023, 10 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f355",
@@ -12213,7 +13415,12 @@
     "genres": "Drama,Sci-Fi,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Primer (2004, 77 min)",
+   "Primer (2019, 8 min)",
+   "Elementarz (1978, 10 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f356",
@@ -12248,7 +13455,13 @@
     "genres": "Biography,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Nemico pubblico (2009, 143 min)",
+   "Die Spiegel-Affäre (2014, 100 min)",
+   "Ricercati vivi o morti (1996, 95 min)",
+   "Public Enemies (1948, 10 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f357",
@@ -12283,7 +13496,13 @@
     "genres": "Drama,Mystery,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "La finestra sul cortile (1954, 112 min)",
+   "Вікно навпроти (1991, 84 min)",
+   "Rear Window (1991, 10 min)",
+   "La finestra sul cortile (1998, 89 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f358",
@@ -12317,7 +13536,7 @@
     "genres": "Crime,Horror,Mystery"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f359",
@@ -12351,7 +13570,7 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f360",
@@ -12384,7 +13603,11 @@
     "genres": "Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Scent of a Woman - Profumo di donna (1992, 157 min)",
+   "Profumo di donna (1974, 103 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f361",
@@ -12417,7 +13640,7 @@
     "genres": "Drama,Mystery,Thriller"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f362",
@@ -12452,7 +13675,12 @@
     "genres": "Action,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Sicario (2015, 121 min)",
+   "Sicario (1994, 105 min)",
+   "Il sicario (1961, 108 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f363",
@@ -12487,7 +13715,12 @@
     "genres": "Drama,Mystery,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Signs (2002, 106 min)",
+   "Signs (2008, 12 min)",
+   "Signs (2025, 6 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f364",
@@ -12521,7 +13754,7 @@
     "genres": "Adventure,Biography,Drama"
    }
   },
-  "match_score": 0.7
+  "note": ""
  },
  {
   "id": "f365",
@@ -12556,7 +13789,13 @@
     "genres": "Adventure,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Solaris (1972, 167 min)",
+   "Solaris (2002, 99 min)",
+   "Solaris (2007, 90 min)",
+   "Солярис (2019, 142 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f366",
@@ -12594,7 +13833,7 @@
     "genres": "Action,Adventure,Animation"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f367",
@@ -12628,7 +13867,13 @@
     "genres": "Drama,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Stalker (1979, 177 min)",
+   "Stalker (2014, 25 min)",
+   "Stalker - Prigioniera dell'incubo (2023, 93 min)",
+   "Stalker (2025, 3 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f368",
@@ -12639,11 +13884,36 @@
   },
   "flags": [
    [
-    "NON_TROVATO",
-    "Nessun film TMDB corrisponde al titolo"
+    "DURATA",
+    "Nostro 121 min; TMDB 129, IMDb 129 → proposta 129"
    ]
   ],
-  "src": {}
+  "src": {
+   "tmdb": {
+    "id": 4689,
+    "title": "Mr. Vendetta",
+    "orig": "복수는 나의 것",
+    "year": 2002,
+    "runtime": 129,
+    "imdb": "tt0310775",
+    "genres": [
+     "Azione",
+     "Dramma",
+     "Thriller"
+    ],
+    "director": [
+     "Park Chan-wook"
+    ]
+   },
+   "imdb": {
+    "id": "tt0310775",
+    "title": "Sympathy for Mr. Vengeance",
+    "year": 2002,
+    "runtime": 129,
+    "genres": "Crime,Drama,Thriller"
+   }
+  },
+  "note": ""
  },
  {
   "id": "f369",
@@ -12678,7 +13948,11 @@
     "genres": "Action,Drama,History"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "A Taxi Driver (2017, 137 min)",
+   "暴好人 (2018, 25 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f370",
@@ -12713,7 +13987,12 @@
     "genres": "Action,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Strade violente (1981, 122 min)",
+   "The Thief (2019, 3 min)",
+   "Воровка (2023, 90 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f371",
@@ -12747,7 +14026,13 @@
     "genres": "Drama,Fantasy"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "The Tree of Life (2011, 138 min)",
+   "The Tree of Life (2005, 70 min)",
+   "Derakht-e-jan (1998, 70 min)",
+   "Geedka nolosha (1988, 23 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f372",
@@ -12780,7 +14065,13 @@
     "genres": "Fantasy,Mystery,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Triangle (2009, 99 min)",
+   "鐵三角 (2007, 93 min)",
+   "The Triangle (2016, 94 min)",
+   "Mistero alle Bermuda (2001, 92 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f373",
@@ -12819,7 +14110,7 @@
     "genres": "Crime,Drama,Mystery"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f374",
@@ -12854,7 +14145,13 @@
     "genres": "Drama,Mystery,Sci-Fi"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Unbreakable - Il predestinato (2000, 106 min)",
+   "Unbreakable (2019, 119 min)",
+   "Unbreakable (2019, 59 min)",
+   "Unbreakable (2025, 30 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f375",
@@ -12887,7 +14184,13 @@
     "genres": "Drama,Western"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Gli spietati (1992, 130 min)",
+   "許されざる者 (2013, 135 min)",
+   "Непрощенный (2018, 110 min)",
+   "Gli inesorabili (1960, 125 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f376",
@@ -12896,34 +14199,36 @@
    "duration": 156,
    "cover_year": 2016
   },
-  "flags": [
-   [
-    "DURATA",
-    "Nostro 156 min; TMDB 21, IMDb 21 → proposta 21"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
-    "id": 1413713,
-    "title": "Goksung (The Wailing)",
-    "orig": "Goksung (The Wailing)",
+    "id": 293670,
+    "title": "Goksung - La presenza del diavolo",
+    "orig": "곡성",
     "year": 2016,
-    "runtime": 21,
-    "imdb": "tt13950614",
-    "genres": [],
+    "runtime": 156,
+    "imdb": "tt5215952",
+    "genres": [
+     "Horror",
+     "Mistero"
+    ],
     "director": [
-     "Pablo Álvarez"
+     "나홍진"
     ]
    },
    "imdb": {
-    "id": "tt13950614",
-    "title": "El extraño",
+    "id": "tt5215952",
+    "title": "The Wailing",
     "year": 2016,
-    "runtime": 21,
-    "genres": "Crime,Drama,Short"
+    "runtime": 156,
+    "genres": "Drama,Horror"
    }
   },
-  "match_score": 0.79
+  "alternatives": [
+   "Goksung - La presenza del diavolo (2016, 156 min)",
+   "The Wailing (2024, 107 min)"
+  ],
+  "note": ""
  },
  {
   "id": "f377",
@@ -12958,7 +14263,7 @@
     "genres": "Animation,Drama,Fantasy"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f378",
@@ -12993,7 +14298,7 @@
     "genres": "Comedy,Drama,Thriller"
    }
   },
-  "match_score": 0.61
+  "note": ""
  },
  {
   "id": "f379",
@@ -13028,7 +14333,7 @@
     "genres": "Biography,Crime,Drama"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f380",
@@ -13063,7 +14368,7 @@
     "genres": "Drama,History,War"
    }
   },
-  "match_score": 1.15
+  "note": ""
  },
  {
   "id": "f381",
@@ -13096,6 +14401,12 @@
     "genres": "Crime,Drama,Thriller"
    }
   },
-  "match_score": 1.15
+  "alternatives": [
+   "Il caso Thomas Crawford (2007, 113 min)",
+   "Fracture (2010, 115 min)",
+   "Fracture (2004, 99 min)",
+   "Parigi, tutto in una notte (2021, 98 min)"
+  ],
+  "note": ""
  }
 ]
