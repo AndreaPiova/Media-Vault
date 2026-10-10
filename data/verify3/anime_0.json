@@ -1,0 +1,1193 @@
+[
+ {
+  "id": "a1",
+  "title": "Attack on Titan",
+  "ours": {
+   "totalEps": 94,
+   "epsWatched": 94,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Somma episodi stagioni 89 ≠ totale 94"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Levi Ackerman', 'Historia Reiss']. AniList main: ['Eren Yeager', 'Mikasa Ackerman', 'Armin Arlert']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Shingeki no Kyojin",
+    "eps": 25,
+    "duration": 24,
+    "year": 2013,
+    "status": "FINISHED",
+    "mal": 16498
+   },
+   "catena": [
+    "Shingeki no Kyojin (TV,2013,25 ep)",
+    "Shingeki no Kyojin Gaiden: Kuinaki Sentaku (OVA,2014,2 ep)",
+    "Shingeki no Kyojin Season 2 (TV,2017,12 ep)",
+    "Shingeki no Kyojin Season 3 (TV,2018,12 ep)",
+    "Shingeki no Kyojin Season 3 Part 2 (TV,2019,10 ep)",
+    "Shingeki no Kyojin: The Final Season (TV,2020,16 ep)",
+    "Shingeki no Kyojin: The Final Season Part 2 (TV,2022,12 ep)",
+    "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen (SPECIAL,2023,1 ep)",
+    "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen (SPECIAL,2023,1 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a5",
+  "title": "Your Name",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 1,
+   "duration": 106
+  },
+  "flags": [
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 29): verificare a vista"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Kimi no Na wa.",
+    "eps": 1,
+    "duration": 107,
+    "year": 2016,
+    "status": "FINISHED",
+    "mal": 32281
+   }
+  }
+ },
+ {
+  "id": "a9",
+  "title": "Made in Abyss",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 25,
+   "duration": 25
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Prushka', 'Vueko']. AniList main: ['Reg', 'Riko']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Made in Abyss",
+    "eps": 13,
+    "duration": 25,
+    "year": 2017,
+    "status": "FINISHED",
+    "mal": 34599
+   },
+   "catena": [
+    "Made in Abyss (TV,2017,13 ep)",
+    "Made in Abyss: Hourou Suru Tasogare (MOVIE,2019,1 ep)",
+    "Made in Abyss: Tabidachi no Yoake (MOVIE,2019,1 ep)",
+    "Made in Abyss: Fukaki Tamashii no Reimei (MOVIE,2020,1 ep)",
+    "Made in Abyss: Retsujitsu no Ougonkyou (TV,2022,12 ep)",
+    "Made in Abyss: Mezameru Shinpi (MOVIE,2026,1 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a13",
+  "title": "Erased",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Boku dake ga Inai Machi",
+    "eps": 12,
+    "duration": 23,
+    "year": 2016,
+    "status": "FINISHED",
+    "mal": 31043
+   }
+  }
+ },
+ {
+  "id": "a17",
+  "title": "Code Geass",
+  "ours": {
+   "totalEps": 50,
+   "epsWatched": 50,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Code Geass: Hangyaku no Lelouch",
+    "eps": 25,
+    "duration": 24,
+    "year": 2006,
+    "status": "FINISHED",
+    "mal": 1575
+   },
+   "catena": [
+    "Code Geass: Hangyaku no Lelouch (TV,2006,25 ep)",
+    "Code Geass: Hangyaku no Lelouch R2 (TV,2008,25 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a21",
+  "title": "Heavenly Delusion",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 13,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Heavenly Delusion' ≠ AniList 'Tengoku Daimakyou' / 'Tengoku Daimakyo' (MAL 53393)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Tengoku Daimakyou",
+    "eps": 13,
+    "duration": 24,
+    "year": 2023,
+    "status": "FINISHED",
+    "mal": 53393
+   }
+  }
+ },
+ {
+  "id": "a25",
+  "title": "Assassination Classroom",
+  "ours": {
+   "totalEps": 47,
+   "epsWatched": 47,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Karasuma', \"Nagisa's madre\"]. AniList main: ['Koro-sensei', 'Nagisa Shiota']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Ansatsu Kyoushitsu",
+    "eps": 22,
+    "duration": 23,
+    "year": 2015,
+    "status": "FINISHED",
+    "mal": 24833
+   },
+   "catena": [
+    "Ansatsu Kyoushitsu (TV,2015,22 ep)",
+    "Ansatsu Kyoushitsu 2nd Season (TV,2016,25 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a29",
+  "title": "Hell's Paradise",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 13,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Toma Sagiri']. AniList main: ['Gabimaru', 'Sagiri']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Jigokuraku",
+    "eps": 13,
+    "duration": 24,
+    "year": 2023,
+    "status": "FINISHED",
+    "mal": 46569
+   }
+  }
+ },
+ {
+  "id": "a33",
+  "title": "Blue Lock",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 24,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "STUDIO",
+    "Nostri ['Eightbit']; AniList ['8-bit']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Blue Lock",
+    "eps": 24,
+    "duration": 25,
+    "year": 2022,
+    "status": "FINISHED",
+    "mal": 49596
+   }
+  }
+ },
+ {
+  "id": "a37",
+  "title": "Tower of God",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 13,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Evankhell', 'Prince Hansung Yu', 'Novick']. AniList main: ['Aguero Agnis Khun', 'Twenty-Fifth Baam', 'Rak Wraithraiser', 'Rachel']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Kami no Tou: Tower of God",
+    "eps": 13,
+    "duration": 25,
+    "year": 2020,
+    "status": "FINISHED",
+    "mal": 40221
+   }
+  }
+ },
+ {
+  "id": "a41",
+  "title": "One Punch Man",
+  "ours": {
+   "totalEps": 36,
+   "epsWatched": 24,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Completato ma visti 24/36"
+   ],
+   [
+    "NUMERO_STAGIONI",
+    "Nostre 3 stagioni TV; AniList 4: [(2015, 12), (2019, 12), (2025, 12), (2027, None)]"
+   ],
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 28): verificare a vista"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Garou']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "One Punch Man",
+    "eps": 12,
+    "duration": 24,
+    "year": 2015,
+    "status": "FINISHED",
+    "mal": 30276
+   },
+   "catena": [
+    "One Punch Man (TV,2015,12 ep)",
+    "One Punch Man: Road to Hero (OVA,2015,1 ep)",
+    "One Punch Man 2 (TV,2019,12 ep)",
+    "One Punch Man 3 (TV,2025,12 ep)",
+    "One Punch Man 3 Part 2 (TV,2027,None ep)"
+   ]
+  }
+ },
+ {
+  "id": "a45",
+  "title": "The Promised Neverland",
+  "ours": {
+   "totalEps": 23,
+   "epsWatched": 23,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Mujika', 'Sonju', 'Peter Ratri']. AniList main: ['Ray', 'Norman', 'Emma']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Yakusoku no Neverland",
+    "eps": 12,
+    "duration": 23,
+    "year": 2019,
+    "status": "FINISHED",
+    "mal": 37779
+   },
+   "catena": [
+    "Yakusoku no Neverland (TV,2019,12 ep)",
+    "Yakusoku no Neverland 2 (TV,2021,11 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a49",
+  "title": "I Want to Eat Your Pancreas",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 1,
+   "duration": 108
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Kyoko Yamauchi']. AniList main: ['Sakura Yamauchi', 'Haruki Shiga']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Kimi no Suizou wo Tabetai",
+    "eps": 1,
+    "duration": 108,
+    "year": 2018,
+    "status": "FINISHED",
+    "mal": 36098
+   }
+  }
+ },
+ {
+  "id": "a53",
+  "title": "Shoujo Shuumatsu Ryokou",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Shoujo Shuumatsu Ryokou",
+    "eps": 12,
+    "duration": 24,
+    "year": 2017,
+    "status": "FINISHED",
+    "mal": 35838
+   }
+  }
+ },
+ {
+  "id": "a57",
+  "title": "Sakamoto desu ga",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Kubota', 'Fumihiko Hayabusa', 'Souma Aoyama']. AniList main: ['Sakamoto']"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Sakamoto']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Sakamoto desu ga?",
+    "eps": 12,
+    "duration": 24,
+    "year": 2016,
+    "status": "FINISHED",
+    "mal": 32542
+   }
+  }
+ },
+ {
+  "id": "a61",
+  "title": "Wonder Egg Priority",
+  "ours": {
+   "totalEps": 13,
+   "epsWatched": 13,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Kaoru', 'Fuku']. AniList main: ['Ai Ooto', 'Rika Kawai', 'Momoe Sawaki', 'Neiru Aonuma']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Wonder Egg Priority",
+    "eps": 12,
+    "duration": 23,
+    "year": 2021,
+    "status": "FINISHED",
+    "mal": 43299
+   }
+  }
+ },
+ {
+  "id": "a65",
+  "title": "Kakegurui",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 12,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Kakegurui",
+    "eps": 12,
+    "duration": 25,
+    "year": 2017,
+    "status": "FINISHED",
+    "mal": 34933
+   }
+  }
+ },
+ {
+  "id": "a69",
+  "title": "Akame ga Kill",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 24,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Akame ga Kill!",
+    "eps": 24,
+    "duration": 24,
+    "year": 2014,
+    "status": "FINISHED",
+    "mal": 22199
+   }
+  }
+ },
+ {
+  "id": "a73",
+  "title": "Angels of Death",
+  "ours": {
+   "totalEps": 16,
+   "epsWatched": 3,
+   "duration": 23
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Satsuriku no Tenshi",
+    "eps": 12,
+    "duration": 24,
+    "year": 2018,
+    "status": "FINISHED",
+    "mal": 35994
+   }
+  }
+ },
+ {
+  "id": "a77",
+  "title": "86",
+  "ours": {
+   "totalEps": 23,
+   "epsWatched": 0,
+   "duration": 23
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'86' ≠ AniList '86: Eighty Six' / '86 EIGHTY-SIX' (MAL 41457)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "86: Eighty Six",
+    "eps": 11,
+    "duration": 24,
+    "year": 2021,
+    "status": "FINISHED",
+    "mal": 41457
+   },
+   "catena": [
+    "86: Eighty Six (TV,2021,11 ep)",
+    "86: Eighty Six Part 2 (TV,2021,12 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a81",
+  "title": "Ao no Hako",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "STUDIO",
+    "Nostri ['TMS Entertainment']; AniList ['Electric Circus']"
+   ],
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 33): verificare a vista"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Haruka Ninomiya']. AniList main: ['Chinatsu Kano', 'Taiki Inomata']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Ao no Hako Season 2",
+    "eps": 12,
+    "duration": 24,
+    "year": 2026,
+    "status": "RELEASING",
+    "mal": 61323
+   }
+  }
+ },
+ {
+  "id": "a85",
+  "title": "Banana Fish",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Ibe']. AniList main: ['Ash Lynx', 'Eiji Okumura']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "BANANA FISH",
+    "eps": 24,
+    "duration": 23,
+    "year": 2018,
+    "status": "FINISHED",
+    "mal": 36649
+   }
+  }
+ },
+ {
+  "id": "a89",
+  "title": "Bungou Stray Dogs",
+  "ours": {
+   "totalEps": 58,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(2016, 12), (2016, 12), (2019, 12), (2023, 11), (2023, 11)] (tot 58); AniList catena TV: [(2016, 12), (2016, 12), (2019, 12), (2023, 13), (2023, 11)] (tot 60)"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Odasaku', 'Fyodor Dostoevsky']. AniList main: ['Osamu Dazai', 'Ryuunosuke Akutagawa', 'Atsushi Nakajima', 'Doppo Kunikida']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Bungou Stray Dogs",
+    "eps": 12,
+    "duration": 24,
+    "year": 2016,
+    "status": "FINISHED",
+    "mal": 31478
+   },
+   "catena": [
+    "Bungou Stray Dogs (TV,2016,12 ep)",
+    "Bungou Stray Dogs 2nd Season (TV,2016,12 ep)",
+    "Bungou Stray Dogs 3rd Season (TV,2019,12 ep)",
+    "Bungou Stray Dogs 4th Season (TV,2023,13 ep)",
+    "Bungou Stray Dogs 5th Season (TV,2023,11 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a93",
+  "title": "Claymore",
+  "ours": {
+   "totalEps": 26,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 29): verificare a vista"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "CLAYMORE",
+    "eps": 26,
+    "duration": 23,
+    "year": 2007,
+    "status": "FINISHED",
+    "mal": 1818
+   }
+  }
+ },
+ {
+  "id": "a97",
+  "title": "Devilman: Crybaby",
+  "ours": {
+   "totalEps": 10,
+   "epsWatched": 0,
+   "duration": 30
+  },
+  "flags": [
+   [
+    "DURATA",
+    "Nostro 30; AniList 25"
+   ],
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 29): verificare a vista"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "DEVILMAN crybaby",
+    "eps": 10,
+    "duration": 25,
+    "year": 2018,
+    "status": "FINISHED",
+    "mal": 35120
+   }
+  }
+ },
+ {
+  "id": "a101",
+  "title": "Fate/Zero",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(2011, 13), (2012, 12)] (tot 25); AniList catena TV: [(2006, 24), (2011, 13), (2012, 12), (2014, 13), (2015, 13)] (tot 75)"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Cu Chulainn']. AniList main: ['Artoria Pendragon', 'Gilgamesh', 'Kiritsugu Emiya', 'Iskandar', 'Kirei Kotomine', 'Waver Velvet', 'Irisviel von Einzbern', 'Diarmuid  Ua Duibhne']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Fate/Zero",
+    "eps": 13,
+    "duration": 24,
+    "year": 2011,
+    "status": "FINISHED",
+    "mal": 10087
+   },
+   "catena": [
+    "Fate/stay night (TV,2006,24 ep)",
+    "Fate/stay night Movie: UNLIMITED BLADE WORKS (MOVIE,2010,1 ep)",
+    "Fate/Zero (TV,2011,13 ep)",
+    "Fate/Zero 2nd Season (TV,2012,12 ep)",
+    "Fate/stay night: Unlimited Blade Works (TV,2014,13 ep)",
+    "Fate/stay night: Unlimited Blade Works 2nd Season (TV,2015,13 ep)",
+    "Fate/stay night [Heaven's Feel] I. presage flower (MOVIE,2017,1 ep)",
+    "Fate/stay night [Heaven's Feel] II. lost butterfly (MOVIE,2019,1 ep)",
+    "Fate/stay night [Heaven's Feel] III. spring song (MOVIE,2020,1 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a105",
+  "title": "Ginga Eiyuu Densetsu",
+  "ours": {
+   "totalEps": 110,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "STUDIO",
+    "Nostri ['Artland']; AniList ['Production I.G']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Ginga Eiyuu Densetsu: Die Neue These - Kaikou",
+    "eps": 12,
+    "duration": 25,
+    "year": 2018,
+    "status": "FINISHED",
+    "mal": 31433
+   }
+  }
+ },
+ {
+  "id": "a109",
+  "title": "Great Teacher Onizuka",
+  "ours": {
+   "totalEps": 43,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "GTO",
+    "eps": 43,
+    "duration": 25,
+    "year": 1999,
+    "status": "FINISHED",
+    "mal": 245
+   }
+  }
+ },
+ {
+  "id": "a113",
+  "title": "Hajime no Ippo",
+  "ours": {
+   "totalEps": 126,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Yuusuke Kimura']. AniList main: ['Ippo Makunouchi', 'Mamoru Takamura', 'Ichirou Miyata', 'Genji Kamogawa', 'Tatsuya Kimura', 'Masaru Aoki']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Hajime no Ippo: THE FIGHTING!",
+    "eps": 75,
+    "duration": 23,
+    "year": 2000,
+    "status": "FINISHED",
+    "mal": 263
+   },
+   "catena": [
+    "Hajime no Ippo: THE FIGHTING! (TV,2000,75 ep)",
+    "Hajime no Ippo: Champion Road (SPECIAL,2003,1 ep)",
+    "Hajime no Ippo: Mashiba vs Kimura - Shikei Shikkou (OVA,2003,1 ep)",
+    "Hajime no Ippo: New Challenger (TV,2009,26 ep)",
+    "Hajime no Ippo: Rising (TV,2013,25 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a117",
+  "title": "Hyouka",
+  "ours": {
+   "totalEps": 22,
+   "epsWatched": 0,
+   "duration": 22
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Hyouka",
+    "eps": 22,
+    "duration": 26,
+    "year": 2012,
+    "status": "FINISHED",
+    "mal": 12189
+   }
+  }
+ },
+ {
+  "id": "a121",
+  "title": "Kaijuu 8-gou",
+  "ours": {
+   "totalEps": 12,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Kaijuu 8-gou",
+    "eps": 12,
+    "duration": 24,
+    "year": 2024,
+    "status": "FINISHED",
+    "mal": 52588
+   }
+  }
+ },
+ {
+  "id": "a125",
+  "title": "Komi-san",
+  "ours": {
+   "totalEps": 24,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Komi-san' ≠ AniList 'Komi-san wa, Komyushou desu.' / 'Komi Can’t Communicate' (MAL 48926)"
+   ],
+   [
+    "FOTO_PERSONAGGIO",
+    "Makeru Yamai (foto di AniList id 130874, personaggio id 130871)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Komi-san wa, Komyushou desu.",
+    "eps": 12,
+    "duration": 24,
+    "year": 2021,
+    "status": "FINISHED",
+    "mal": 48926
+   },
+   "catena": [
+    "Komi-san wa, Komyushou desu. (TV,2021,12 ep)",
+    "Komi-san wa, Komyushou desu. 2 (TV,2022,12 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a128",
+  "title": "Kusuriya no Hitorigoto",
+  "ours": {
+   "totalEps": 48,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(2023, 24), (2024, 24)] (tot 48); AniList catena TV: [(2023, 24), (2025, 24), (2026, 12), (2027, 12)] (tot 72)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Kusuriya no Hitorigoto",
+    "eps": 24,
+    "duration": 23,
+    "year": 2023,
+    "status": "FINISHED",
+    "mal": 54492
+   },
+   "catena": [
+    "Kusuriya no Hitorigoto (TV,2023,24 ep)",
+    "Kusuriya no Hitorigoto 2nd Season (TV,2025,24 ep)",
+    "Kusuriya no Hitorigoto 3rd Season (TV,2026,12 ep)",
+    "Kusuriya no Hitorigoto 3rd Season Part 2 (TV,2027,12 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a132",
+  "title": "Monster",
+  "ours": {
+   "totalEps": 74,
+   "epsWatched": 74,
+   "duration": 25
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Inspector Lunge', 'Milch']. AniList main: ['Johan Liebert', 'Kenzou Tenma', 'Heinrich Runge', 'Anna Liebert', 'Eva Heinemann']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "MONSTER",
+    "eps": 74,
+    "duration": 24,
+    "year": 2004,
+    "status": "FINISHED",
+    "mal": 19
+   }
+  }
+ },
+ {
+  "id": "a136",
+  "title": "Nanatsu no Taizai",
+  "ours": {
+   "totalEps": 132,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(2014, 24), (2018, 24), (2019, 24), (2021, 24), (2023, 24), (2024, 12)] (tot 132); AniList catena TV: [(2014, 24), (2016, 4), (2018, 24), (2019, 24), (2021, 24), (2023, 24), (2024, 12)] (tot 136)"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Escanor', 'Zeldris', 'Estarossa']. AniList main: ['Ban', 'Meliodas', 'King', 'Diane', 'Elizabeth Liones', 'Gowther', 'Hawk']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Nanatsu no Taizai",
+    "eps": 24,
+    "duration": 25,
+    "year": 2014,
+    "status": "FINISHED",
+    "mal": 23755
+   },
+   "catena": [
+    "Nanatsu no Taizai (TV,2014,24 ep)",
+    "Nanatsu no Taizai: Seisen no Shirushi (TV,2016,4 ep)",
+    "Nanatsu no Taizai: Imashime no Fukkatsu (TV,2018,24 ep)",
+    "Nanatsu no Taizai: Kamigami no Gekirin (TV,2019,24 ep)",
+    "Nanatsu no Taizai: Funnu no Shinpan (TV,2021,24 ep)",
+    "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi (MOVIE,2021,1 ep)",
+    "Nanatsu no Taizai: Mokushiroku no Yonkishi (TV,2023,24 ep)",
+    "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season (TV,2024,12 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a140",
+  "title": "Perfect Blue",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 0,
+   "duration": 81
+  },
+  "flags": [
+   [
+    "POSTER?",
+    "Copertina poco simile a AniList (dist 34): verificare a vista"
+   ],
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Rei Todoroki']. AniList main: ['Mima Kirigoe']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "PERFECT BLUE",
+    "eps": 1,
+    "duration": 82,
+    "year": 1998,
+    "status": "FINISHED",
+    "mal": 437
+   }
+  }
+ },
+ {
+  "id": "a144",
+  "title": "Re:Zero",
+  "ours": {
+   "totalEps": 78,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Re:Zero' ≠ AniList 'Re:Zero kara Hajimeru Isekai Seikatsu' / 'Re:ZERO -Starting Life in Another World-' (MAL 31240)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "eps": 25,
+    "duration": 25,
+    "year": 2016,
+    "status": "FINISHED",
+    "mal": 31240
+   }
+  }
+ },
+ {
+  "id": "a148",
+  "title": "Shangri-La Frontier",
+  "ours": {
+   "totalEps": 25,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Kyouka Uto', 'Bella Wilhelmina Nono', 'Shiden Kunai', 'Elru']. AniList main: ['Rakurou Hizutome']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Shangri-La Frontier",
+    "eps": 25,
+    "duration": 26,
+    "year": 2023,
+    "status": "FINISHED",
+    "mal": 52347
+   }
+  }
+ },
+ {
+  "id": "a152",
+  "title": "Sousou no Frieren",
+  "ours": {
+   "totalEps": 38,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "NUMERO_STAGIONI",
+    "Nostre 2 stagioni TV; AniList 3: [(2023, 28), (2026, 10), (2027, None)]"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Sousou no Frieren",
+    "eps": 28,
+    "duration": 24,
+    "year": 2023,
+    "status": "FINISHED",
+    "mal": 52991
+   },
+   "catena": [
+    "Sousou no Frieren (TV,2023,28 ep)",
+    "Sousou no Frieren 2nd Season (TV,2026,10 ep)",
+    "Sousou no Frieren 3rd Season (TV,2027,None ep)"
+   ]
+  }
+ },
+ {
+  "id": "a156",
+  "title": "Trigun",
+  "ours": {
+   "totalEps": 50,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONI",
+    "Nostre stagioni TV: [(1998, 26), (2023, 12), (2026, 12)] (tot 50); AniList catena TV: [(1998, 26)] (tot 26)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "TRIGUN",
+    "eps": 26,
+    "duration": 24,
+    "year": 1998,
+    "status": "FINISHED",
+    "mal": 6
+   },
+   "catena": [
+    "TRIGUN (TV,1998,26 ep)"
+   ]
+  }
+ },
+ {
+  "id": "a160",
+  "title": "Wotaku ni Koi wa Muzukashii",
+  "ours": {
+   "totalEps": 11,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Wotaku ni Koi wa Muzukashii",
+    "eps": 11,
+    "duration": 23,
+    "year": 2018,
+    "status": "FINISHED",
+    "mal": 35968
+   }
+  }
+ },
+ {
+  "id": "a164",
+  "title": "Shaman King (2021)",
+  "ours": {
+   "totalEps": 52,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "SHAMAN KING (2021)",
+    "eps": 52,
+    "duration": 24,
+    "year": 2021,
+    "status": "FINISHED",
+    "mal": 42205
+   }
+  }
+ },
+ {
+  "id": "a168",
+  "title": "Tenki no Ko",
+  "ours": {
+   "totalEps": 1,
+   "epsWatched": 0,
+   "duration": 112
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Tenki no Ko",
+    "eps": 1,
+    "duration": 115,
+    "year": 2019,
+    "status": "FINISHED",
+    "mal": 38826
+   }
+  }
+ },
+ {
+  "id": "a172",
+  "title": "Sword Art Online",
+  "ours": {
+   "totalEps": 88,
+   "epsWatched": 0,
+   "duration": 24
+  },
+  "flags": [
+   [
+    "PERSONAGGI",
+    "Non trovati su AniList: ['Sinon', 'Heathcliff', 'Alice Synthesis Thirty']. AniList main: ['Asuna Yuuki', 'Kazuto Kirigaya', 'Suguha Kirigaya']"
+   ],
+   [
+    "FOTO_MANCANTE",
+    "Senza foto: ['Eugeo']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Sword Art Online",
+    "eps": 25,
+    "duration": 23,
+    "year": 2012,
+    "status": "FINISHED",
+    "mal": 11757
+   }
+  }
+ }
+]
