@@ -1,0 +1,2807 @@
+[
+ {
+  "id": "m1",
+  "title": "Slam Dunk",
+  "ours": {
+   "totalVols": 20,
+   "volsOwned": 20,
+   "volsRead": 20,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.0,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "VOLUMI",
+    "Nostro 20; Jikan None, AniList 31, AnimeClick edizione scelta 20"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Plus/Slam Dunk Illustrations": 1,
+     "Slam Dunk": 24,
+     "Slam Dunk (Planet Manga Ed. 1997)": 62,
+     "Slam Dunk + Figurine Panini Basketball '98-'99": 1,
+     "Slam Dunk Collection": 31,
+     "Slam Dunk Collection + Vhs": 2,
+     "Slam Dunk Deluxe": 10
+    },
+    "chosen": "Slam Dunk",
+    "expected": 20
+   },
+   "anilist": {
+    "id": 30051,
+    "title": "SLAM DUNK",
+    "volumes": 31,
+    "chapters": 276,
+    "status": "FINISHED",
+    "year": 1990
+   }
+  }
+ },
+ {
+  "id": "m2",
+  "title": "Solo Leveling",
+  "ours": {
+   "totalVols": 27,
+   "volsOwned": 0,
+   "volsRead": 27,
+   "edition": "",
+   "volType": "VOL",
+   "price": 10.0,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "VOLUMI",
+    "Nostro 27; Jikan None, AniList 15, AnimeClick edizione scelta 27"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Solo Leveling": 28,
+     "Solo Leveling Limited Edition": 2,
+     "Solo Leveling - Variant Anime": 2
+    },
+    "chosen": "Solo Leveling",
+    "expected": 27
+   },
+   "anilist": {
+    "id": 105398,
+    "title": "Na Honjaman Level Up",
+    "volumes": 15,
+    "chapters": 201,
+    "status": "FINISHED",
+    "year": 2018
+   }
+  }
+ },
+ {
+  "id": "m3",
+  "title": "La ragazza in riva al mare",
+  "ours": {
+   "totalVols": 2,
+   "volsOwned": 0,
+   "volsRead": 2,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.5,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "La ragazza in riva al mare": 2
+    },
+    "chosen": "La ragazza in riva al mare",
+    "expected": 2
+   }
+  }
+ },
+ {
+  "id": "m4",
+  "title": "20th Century Boys",
+  "ours": {
+   "totalVols": 12,
+   "volsOwned": 12,
+   "volsRead": 3,
+   "edition": "Deluxe edition",
+   "volType": "VOL",
+   "price": 14.0,
+   "status": "in_progress"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "20th Century Boys": 22,
+     "20th Century Boys Ultimate Deluxe Edition": 11
+    },
+    "chosen": "20th Century Boys Ultimate Deluxe Edition",
+    "expected": 12
+   },
+   "anilist": {
+    "id": 30003,
+    "title": "20 Seiki Shounen",
+    "volumes": 22,
+    "chapters": 249,
+    "status": "FINISHED",
+    "year": 1999
+   }
+  }
+ },
+ {
+  "id": "m5",
+  "title": "Blame",
+  "ours": {
+   "totalVols": 6,
+   "volsOwned": 6,
+   "volsRead": 0,
+   "edition": "Master edition",
+   "volType": "VOL",
+   "price": 17.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Blame": 10,
+     "Blame! Deluxe": 5,
+     "Blame! Ultimate Deluxe Collection": 1,
+     "Blame! Nuova Edizione": 10,
+     "Blame! Master Edition": 6,
+     "Blame! Master Edition - White": 6
+    },
+    "chosen": "Blame! Master Edition",
+    "expected": 6
+   },
+   "anilist": {
+    "id": 141020,
+    "title": "BLAME",
+    "volumes": null,
+    "chapters": 1,
+    "status": "FINISHED",
+    "year": 1995
+   }
+  }
+ },
+ {
+  "id": "m6",
+  "title": "Blue Lock",
+  "ours": {
+   "totalVols": 32,
+   "volsOwned": 21,
+   "volsRead": 15,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.5,
+   "status": "in_progress"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Blue Lock": 35,
+     "Blue Lock - Variant Panini": 1,
+     "Blue Lock - Variant Anime": 1,
+     "Blue Lock - Variant Inter": 1,
+     "Blue Lock - Variant World Cup Celebration": 1
+    },
+    "chosen": "Blue Lock",
+    "expected": 32
+   },
+   "anilist": {
+    "id": 106130,
+    "title": "Blue Lock",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2018
+   }
+  }
+ },
+ {
+  "id": "m7",
+  "title": "The Killer Inside",
+  "ours": {
+   "totalVols": 11,
+   "volsOwned": 11,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "The Killer Inside": 11
+    },
+    "chosen": "The Killer Inside",
+    "expected": 11
+   }
+  }
+ },
+ {
+  "id": "m8",
+  "title": "La fine del mondo e prima dell'alba",
+  "ours": {
+   "totalVols": 1,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 12.9,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {},
+    "chosen": null,
+    "expected": 1
+   }
+  }
+ },
+ {
+  "id": "m9",
+  "title": "Il prezzo di una vita",
+  "ours": {
+   "totalVols": 3,
+   "volsOwned": 3,
+   "volsRead": 0,
+   "edition": "Box",
+   "volType": "VOL",
+   "price": 6.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Il prezzo di una vita - I sold my life for ten thousand yen per year": 3
+    },
+    "chosen": "Il prezzo di una vita - I sold my life for ten thousand yen per year",
+    "expected": 3
+   }
+  }
+ },
+ {
+  "id": "m10",
+  "title": "Chainsaw Man",
+  "ours": {
+   "totalVols": 22,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "VOLUMI",
+    "Nostro 22; Jikan None, AniList 24, AnimeClick edizione scelta 22"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Chainsaw Man Variant": 2,
+     "Chainsaw Man": 23,
+     "Chainsaw Man - Discovery Edition": 1,
+     "Chainsaw Man Calendario": 1,
+     "Chainsaw Man Christmas Variant": 1
+    },
+    "chosen": "Chainsaw Man",
+    "expected": 22
+   },
+   "anilist": {
+    "id": 105778,
+    "title": "Chainsaw Man",
+    "volumes": 24,
+    "chapters": 232,
+    "status": "FINISHED",
+    "year": 2018
+   }
+  }
+ },
+ {
+  "id": "m11",
+  "title": "Dr. Stone",
+  "ours": {
+   "totalVols": 27,
+   "volsOwned": 27,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.2,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Dr.Stone": 27,
+     "Dr.Stone Limited Edition": 1,
+     "Dr.Stone Variant Cover Edition": 2
+    },
+    "chosen": "Dr.Stone",
+    "expected": 27
+   },
+   "anilist": {
+    "id": 98416,
+    "title": "Dr. STONE",
+    "volumes": 27,
+    "chapters": 236,
+    "status": "FINISHED",
+    "year": 2017
+   }
+  }
+ },
+ {
+  "id": "m12",
+  "title": "All You Need Is Kill",
+  "ours": {
+   "totalVols": 1,
+   "volsOwned": 1,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 15.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "VOLUMI",
+    "Nostro 1; Jikan None, AniList 2, AnimeClick edizione scelta 1"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "All You Need is Kill": 2
+    },
+    "chosen": "All You Need is Kill",
+    "expected": 1
+   },
+   "anilist": {
+    "id": 85215,
+    "title": "All You Need Is Kill",
+    "volumes": 2,
+    "chapters": 17,
+    "status": "FINISHED",
+    "year": 2014
+   }
+  }
+ },
+ {
+  "id": "m13",
+  "title": "Made in Abyss",
+  "ours": {
+   "totalVols": 14,
+   "volsOwned": 14,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.5,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": null,
+    "chosen": null,
+    "expected": 14
+   },
+   "anilist": {
+    "id": 86551,
+    "title": "Made in Abyss",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2012
+   }
+  }
+ },
+ {
+  "id": "m14",
+  "title": "Monster",
+  "ours": {
+   "totalVols": 9,
+   "volsOwned": 9,
+   "volsRead": 0,
+   "edition": "Deluxe edition",
+   "volType": "VOL",
+   "price": 13.2,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Monster": 18,
+     "Monster Deluxe": 9
+    },
+    "chosen": "Monster Deluxe",
+    "expected": 9
+   },
+   "anilist": {
+    "id": 139395,
+    "title": "MONSTER",
+    "volumes": null,
+    "chapters": 73,
+    "status": "FINISHED",
+    "year": 2021
+   }
+  }
+ },
+ {
+  "id": "m15",
+  "title": "One Piece",
+  "ours": {
+   "totalVols": 109,
+   "volsOwned": 109,
+   "volsRead": 109,
+   "edition": "New edition",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "One Piece": 114,
+     "One Piece - Ristampa corretta": 1,
+     "One Piece Celebration Edition": 3,
+     "One Piece Variant": 1,
+     "One Piece Limited Edition": 1,
+     "One Piece New Edition": 112,
+     "One Piece (Gazzetta dello Sport)": 110,
+     "Io sono One Piece": 3,
+     "One Piece Color Walk": 2,
+     "One Piece Quiz Book": 2,
+     "One Piece Gold: Il Film - Anime Comics": 2,
+     "One Piece Strong World: Il Film - Avventura sulle isole volanti - Anime Comics": 2,
+     "One Piece Il Film: Stampede - Anime Comics": 2,
+     "One Piece Z: Il Film - Anime Comics": 2,
+     "One Piece Film: Red - Anime Comics": 2
+    },
+    "chosen": "One Piece New Edition",
+    "expected": 109
+   },
+   "anilist": {
+    "id": 30013,
+    "title": "ONE PIECE",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 1997
+   }
+  }
+ },
+ {
+  "id": "m16",
+  "title": "One Punch Man",
+  "ours": {
+   "totalVols": 35,
+   "volsOwned": 33,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "One-Punch Man": 36,
+     "One-Punch Man Variant FX": 1,
+     "One-Punch Man - Discovery Edition": 1,
+     "One-Punch Man Christmas Variant": 1,
+     "One-Punch Man Variant": 18,
+     "One-Punch Man Instant Variant": 1
+    },
+    "chosen": "One-Punch Man",
+    "expected": 35
+   },
+   "anilist": {
+    "id": 74347,
+    "title": "One Punch-Man",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2012
+   }
+  }
+ },
+ {
+  "id": "m17",
+  "title": "Planetes",
+  "ours": {
+   "totalVols": 1,
+   "volsOwned": 1,
+   "volsRead": 0,
+   "edition": "Complete edition",
+   "volType": "VOL",
+   "price": 45.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Planetes": 4,
+     "Planetes Deluxe": 3
+    },
+    "chosen": "Planetes",
+    "expected": 1
+   },
+   "anilist": {
+    "id": 30481,
+    "title": "Planetes",
+    "volumes": 4,
+    "chapters": 28,
+    "status": "FINISHED",
+    "year": 1999
+   }
+  }
+ },
+ {
+  "id": "m18",
+  "title": "Shaman King",
+  "ours": {
+   "totalVols": 35,
+   "volsOwned": 35,
+   "volsRead": 0,
+   "edition": "Final edition",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Le bizzarre avventure di JoJo: Steel Ball Run": 24
+    },
+    "chosen": "Le bizzarre avventure di JoJo: Steel Ball Run",
+    "expected": 35
+   },
+   "anilist": {
+    "id": 30050,
+    "title": "Shaman King",
+    "volumes": 32,
+    "chapters": 288,
+    "status": "FINISHED",
+    "year": 1998
+   }
+  }
+ },
+ {
+  "id": "m19",
+  "title": "Attack on Titan",
+  "ours": {
+   "totalVols": 34,
+   "volsOwned": 34,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.2,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "L'Attacco dei Giganti - Discovery Edition": 1,
+     "L'Attacco dei Giganti": 34,
+     "L'Attacco dei Giganti Variant": 3,
+     "L'Attacco dei Giganti - Bundle con Short Stories": 1,
+     "L'Attacco dei Giganti - Bundle con Short Stories 2": 1,
+     "L'Attacco dei Giganti - Bundle con Short Stories 3": 1,
+     "L'Attacco dei Giganti - Bundle con Short Stories 4": 1,
+     "L'Attacco dei Giganti - Colossal Edition": 12,
+     "L'Attacco dei Giganti - Cofanetto": 7,
+     "L'Attacco dei Giganti - Cofanetto vuoto": 7,
+     "L'Attacco dei Giganti - Bundle con Short Stories 5": 1,
+     "L'Attacco dei Giganti - Bundle \"Beginning\"": 1,
+     "L'Attacco dei Giganti Fashion Variant": 1,
+     "L'Attacco dei Giganti - Variant Anime": 1,
+     "L'Attacco dei Giganti Variant + Agenda perpetua": 1,
+     "L'Attacco dei Giganti Full Color Edition": 4
+    },
+    "chosen": "L'Attacco dei Giganti",
+    "expected": 34
+   },
+   "anilist": {
+    "id": 53390,
+    "title": "Shingeki no Kyojin",
+    "volumes": 34,
+    "chapters": 141,
+    "status": "FINISHED",
+    "year": 2009
+   }
+  }
+ },
+ {
+  "id": "m20",
+  "title": "Fire Punch",
+  "ours": {
+   "totalVols": 8,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.2,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Fire Punch": 8
+    },
+    "chosen": "Fire Punch",
+    "expected": 8
+   },
+   "anilist": {
+    "id": 87170,
+    "title": "Fire Punch",
+    "volumes": 8,
+    "chapters": 83,
+    "status": "FINISHED",
+    "year": 2016
+   }
+  }
+ },
+ {
+  "id": "m21",
+  "title": "Tokyo Revengers",
+  "ours": {
+   "totalVols": 31,
+   "volsOwned": 25,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.2,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Tokyo Revengers": 31,
+     "Tokyo Revengers Variant Limited Edition": 1,
+     "Tokyo Revengers Variant MangaYo!": 1,
+     "Tokyo Revengers Greatest Hits Cut Price": 1,
+     "Tokyo Revengers (La Gazzetta dello Sport)": 31,
+     "Tokyo Revengers Character Book (La Gazzetta dello Sport)": 3
+    },
+    "chosen": "Tokyo Revengers",
+    "expected": 31
+   },
+   "anilist": {
+    "id": 102988,
+    "title": "Tokyo卍Revengers",
+    "volumes": 31,
+    "chapters": 279,
+    "status": "FINISHED",
+    "year": 2017
+   }
+  }
+ },
+ {
+  "id": "m22",
+  "title": "Vinland Saga",
+  "ours": {
+   "totalVols": 29,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.5,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Vinland Saga": 29,
+     "Vinland Saga Variant MangaYo!": 1,
+     "Vinland Saga Tribute Variant": 1,
+     "Vinland Saga Celebration Edition": 1
+    },
+    "chosen": "Vinland Saga",
+    "expected": 29
+   },
+   "anilist": {
+    "id": 30642,
+    "title": "Vinland Saga",
+    "volumes": 29,
+    "chapters": 224,
+    "status": "FINISHED",
+    "year": 2005
+   }
+  }
+ },
+ {
+  "id": "m23",
+  "title": "Alita",
+  "ours": {
+   "totalVols": 3,
+   "volsOwned": 3,
+   "volsRead": 0,
+   "edition": "Panzer edition",
+   "volType": "VOL",
+   "price": 25.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Alita Battle Angel": 18,
+     "Alita Collection": 11,
+     "Alita New Edition": 9,
+     "Alita Panzer Edition": 3,
+     "Alita Panzer - Variant 30th": 1
+    },
+    "chosen": "Alita Panzer Edition",
+    "expected": 3
+   }
+  }
+ },
+ {
+  "id": "m24",
+  "title": "Akira",
+  "ours": {
+   "totalVols": 6,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "New edition",
+   "volType": "VOL",
+   "price": 21.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Akira": 38,
+     "Akira - Raccolta Cartonata": 11,
+     "Akira Anime Comics": 5,
+     "Akira Collection": 6,
+     "Akira New Edition": 6
+    },
+    "chosen": "Akira New Edition",
+    "expected": 6
+   },
+   "anilist": {
+    "id": 30664,
+    "title": "AKIRA",
+    "volumes": 6,
+    "chapters": 120,
+    "status": "FINISHED",
+    "year": 1982
+   }
+  }
+ },
+ {
+  "id": "m25",
+  "title": "Alice in Borderland",
+  "ours": {
+   "totalVols": 10,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 12.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "VOLUMI",
+    "Nostro 10; Jikan None, AniList 18, AnimeClick edizione scelta 10"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Alice in Borderland": 18,
+     "Alice in Borderland Variant Popstore": 1
+    },
+    "chosen": "Alice in Borderland",
+    "expected": 10
+   },
+   "anilist": {
+    "id": 63031,
+    "title": "Imawa no Kuni no Alice",
+    "volumes": 18,
+    "chapters": 87,
+    "status": "FINISHED",
+    "year": 2010
+   }
+  }
+ },
+ {
+  "id": "m26",
+  "title": "Berserk",
+  "ours": {
+   "totalVols": 14,
+   "volsOwned": 14,
+   "volsRead": 0,
+   "edition": "Deluxe edition",
+   "volType": "VOL",
+   "price": 50.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Berserk": 86,
+     "Berserk Collection": 43,
+     "Berserk Collection Special Edition": 1,
+     "Berserk 30th Anniversary - Cofanetto": 1,
+     "Berserk Collection - Variant Fumetterie": 1,
+     "Berserk Collection - Variant Panini.it": 1,
+     "Berserk Collection - Serie Nera": 42,
+     "Berserk Collection - Serie Nera - Cofanetto": 8,
+     "Berserk Collection - Serie Nera - Cofanetto vuoto": 8,
+     "Berserk Maximum": 27,
+     "Berserk Deluxe Eclipse Limited": 1,
+     "Berserk Deluxe Edition": 14,
+     "Berserk Deluxe Instant Variant": 1,
+     "Berserk Collection - Serie Nera con tarocchi": 1,
+     "Berserk Collection - Serie Nera con tarocchi Variant Black": 1,
+     "Berserk Collection - Con puzzle": 1
+    },
+    "chosen": "Berserk Deluxe Edition",
+    "expected": 14
+   },
+   "anilist": {
+    "id": 30002,
+    "title": "Berserk",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 1989
+   }
+  }
+ },
+ {
+  "id": "m27",
+  "title": "Kaijuu no. 8",
+  "ours": {
+   "totalVols": 16,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.2,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Kaiju No. 8 Variant Cover Edition": 2,
+     "Kaiju No. 8 Limited Edition": 1,
+     "Kaiju No. 8 Start Edition": 1,
+     "Kaiju No. 8": 16,
+     "Kaiju No. 8 Celebration Edition": 1
+    },
+    "chosen": "Kaiju No. 8",
+    "expected": 16
+   },
+   "anilist": {
+    "id": 120760,
+    "title": "Kaijuu 8-gou",
+    "volumes": 16,
+    "chapters": 129,
+    "status": "FINISHED",
+    "year": 2020
+   }
+  }
+ },
+ {
+  "id": "m28",
+  "title": "Dandadan",
+  "ours": {
+   "totalVols": 18,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.5,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Dandadan": 23,
+     "Dandadan Variant Edition": 3,
+     "Dandadan Deep Space Variant": 1,
+     "Dandadan Limited Edition": 1,
+     "Dandadan Deluxe Edition": 2
+    },
+    "chosen": "Dandadan",
+    "expected": 18
+   },
+   "anilist": {
+    "id": 132029,
+    "title": "Dandadan",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2021
+   }
+  }
+ },
+ {
+  "id": "m29",
+  "title": "Tower of God",
+  "ours": {
+   "totalVols": 500,
+   "volsOwned": 0,
+   "volsRead": 67,
+   "edition": "",
+   "volType": "CAP",
+   "price": 0.0,
+   "status": "in_progress"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 85143,
+    "title": "Sinui Tap",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2010
+   }
+  }
+ },
+ {
+  "id": "m30",
+  "title": "Ashita no Joe",
+  "ours": {
+   "totalVols": 13,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "Perfect edition",
+   "volType": "VOL",
+   "price": 8.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Rocky Joe": 20,
+     "Rocky Joe Perfect Edition": 13,
+     "Rocky Joe Perfect Edition Variant MangaYo!": 1
+    },
+    "chosen": "Rocky Joe Perfect Edition",
+    "expected": 13
+   },
+   "anilist": {
+    "id": 31303,
+    "title": "Ashita no Joe",
+    "volumes": 20,
+    "chapters": 171,
+    "status": "FINISHED",
+    "year": 1968
+   }
+  }
+ },
+ {
+  "id": "m31",
+  "title": "Blue Period",
+  "ours": {
+   "totalVols": 17,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.5,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Blue Period": 18,
+     "Blue Period Variant MangaYo!": 1,
+     "Blue Period Special Edition": 1,
+     "Blue Period Variant con coloring book": 1
+    },
+    "chosen": "Blue Period",
+    "expected": 17
+   },
+   "anilist": {
+    "id": 107237,
+    "title": "Blue Period",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2017
+   }
+  }
+ },
+ {
+  "id": "m32",
+  "title": "Bleach",
+  "ours": {
+   "totalVols": 74,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Bleach": 74,
+     "Bleach Gold": 74,
+     "Bleach Gold Deluxe": 74,
+     "Bleach Variant Lenticolare": 1,
+     "Bleach (Corriere dello Sport)": 48,
+     "Bleach Christmas Variant": 1,
+     "Bleach (La Gazzetta dello Sport)": 74
+    },
+    "chosen": "Bleach",
+    "expected": 74
+   },
+   "anilist": {
+    "id": 30012,
+    "title": "BLEACH",
+    "volumes": 74,
+    "chapters": 706,
+    "status": "FINISHED",
+    "year": 2001
+   }
+  }
+ },
+ {
+  "id": "m33",
+  "title": "Dorohedoro",
+  "ours": {
+   "totalVols": 23,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {},
+    "chosen": null,
+    "expected": 23
+   },
+   "anilist": {
+    "id": 31133,
+    "title": "Dorohedoro",
+    "volumes": 23,
+    "chapters": 191,
+    "status": "FINISHED",
+    "year": 2000
+   }
+  }
+ },
+ {
+  "id": "m34",
+  "title": "Deadman Wonderland",
+  "ours": {
+   "totalVols": 13,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Deadman Wonderland": 13
+    },
+    "chosen": "Deadman Wonderland",
+    "expected": 13
+   },
+   "anilist": {
+    "id": 33986,
+    "title": "Deadman Wonderland",
+    "volumes": 13,
+    "chapters": 58,
+    "status": "FINISHED",
+    "year": 2007
+   }
+  }
+ },
+ {
+  "id": "m35",
+  "title": "Death Note",
+  "ours": {
+   "totalVols": 6,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "Black edition",
+   "volType": "VOL",
+   "price": 18.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Death Note": 13,
+     "Death Note Gold": 12,
+     "Death Note Gold Deluxe": 12,
+     "Death Note Black Edition": 6,
+     "Death Note Variant 2023": 1,
+     "Death Note Christmas Variant": 1
+    },
+    "chosen": "Death Note Black Edition",
+    "expected": 6
+   }
+  }
+ },
+ {
+  "id": "m36",
+  "title": "Fullmetal Alchemist",
+  "ours": {
+   "totalVols": 18,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "Ultimate deluxe",
+   "volType": "VOL",
+   "price": 12.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "The Art of Fullmetal Alchemist": 1,
+     "Fullmetal Alchemist": 27,
+     "Fullmetal Alchemist + Card Game": 1,
+     "Fullmetal Alchemist Gold": 27,
+     "Fullmetal Alchemist Gold Deluxe": 27,
+     "Fullmetal Alchemist Ultimate Deluxe Edition": 18
+    },
+    "chosen": "Fullmetal Alchemist Ultimate Deluxe Edition",
+    "expected": 18
+   }
+  }
+ },
+ {
+  "id": "m37",
+  "title": "GTO",
+  "ours": {
+   "totalVols": 13,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "Deluxe black edition",
+   "volType": "VOL",
+   "price": 10.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Big G.T.O.": 13,
+     "Big G.T.O. Box": 4,
+     "Big G.T.O. Deluxe": 13,
+     "G.T.O.": 25,
+     "Big G.T.O. Deluxe Red Metal Variant MangaYo!": 1,
+     "Big G.T.O. Deluxe Black Edition": 13
+    },
+    "chosen": "Big G.T.O. Deluxe Black Edition",
+    "expected": 13
+   }
+  }
+ },
+ {
+  "id": "m38",
+  "title": "Homunculus",
+  "ours": {
+   "totalVols": 15,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Homunculus": 15
+    },
+    "chosen": "Homunculus",
+    "expected": 15
+   }
+  }
+ },
+ {
+  "id": "m39",
+  "title": "Oyasumi Punpun",
+  "ours": {
+   "totalVols": 7,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "New edition",
+   "volType": "VOL",
+   "price": 15.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Buonanotte Punpun": 13,
+     "Buonanotte, PunPun - New Edition": 7
+    },
+    "chosen": "Buonanotte, PunPun - New Edition",
+    "expected": 7
+   }
+  }
+ },
+ {
+  "id": "m40",
+  "title": "Houseki no Kuni",
+  "ours": {
+   "totalVols": 13,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Land of the Lustrous": 13,
+     "Land of the Lustrous Jacket Variant Double-face": 1
+    },
+    "chosen": "Land of the Lustrous",
+    "expected": 13
+   }
+  }
+ },
+ {
+  "id": "m41",
+  "title": "I Am Hero",
+  "ours": {
+   "totalVols": 22,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.9,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "I am a hero": 22,
+     "I am a hero Variant": 1,
+     "I am a Hero - Nuova edizione": 22,
+     "I am a Hero - Nuova edizione Variant MangaYo!": 1
+    },
+    "chosen": "I am a hero",
+    "expected": 22
+   }
+  }
+ },
+ {
+  "id": "m43",
+  "title": "Jagaaaaaan",
+  "ours": {
+   "totalVols": 14,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Jagan": 14,
+     "Jagan - Variant cover edition": 1
+    },
+    "chosen": "Jagan",
+    "expected": 14
+   }
+  }
+ },
+ {
+  "id": "m44",
+  "title": "Solanin",
+  "ours": {
+   "totalVols": 1,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "Complete edition",
+   "volType": "VOL",
+   "price": 17.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Solanin": 2
+    },
+    "chosen": "Solanin",
+    "expected": 1
+   }
+  }
+ },
+ {
+  "id": "m45",
+  "title": "Jujutsu Kaisen",
+  "ours": {
+   "totalVols": 30,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.2,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Jujutsu Kaisen - Sorcery Fight - Edizione Early Access": 1,
+     "Jujutsu Kaisen - Sorcery Fight - Variant": 5,
+     "Jujutsu Kaisen - Sorcery Fight - Fashion Variant": 1,
+     "Jujutsu Kaisen Christmas Variant": 1,
+     "Jujutsu Kaisen - Sorcery Fight - Discovery Edition": 1,
+     "Jujutsu Kaisen - Sorcery Fight": 30,
+     "Jujutsu Kaisen - Sorcery Fight - Variant Amazon e Libreria": 2,
+     "Jujutsu Kaisen Calendario": 1,
+     "Jujutsu Kaisen - Guida all'anime: Stagione": 1
+    },
+    "chosen": "Jujutsu Kaisen - Sorcery Fight",
+    "expected": 30
+   }
+  }
+ },
+ {
+  "id": "m46",
+  "title": "Juujika no Rokunin",
+  "ours": {
+   "totalVols": 14,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "X6 - Crucisix": 15
+    },
+    "chosen": "X6 - Crucisix",
+    "expected": 14
+   }
+  }
+ },
+ {
+  "id": "m47",
+  "title": "Kingdom",
+  "ours": {
+   "totalVols": 74,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.9,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Kingdom": 76
+    },
+    "chosen": "Kingdom",
+    "expected": 74
+   }
+  }
+ },
+ {
+  "id": "m48",
+  "title": "Mushishi",
+  "ours": {
+   "totalVols": 10,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Mushishi": 10
+    },
+    "chosen": "Mushishi",
+    "expected": 10
+   }
+  }
+ },
+ {
+  "id": "m49",
+  "title": "Real",
+  "ours": {
+   "totalVols": 16,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Real": 16
+    },
+    "chosen": "Real",
+    "expected": 16
+   }
+  }
+ },
+ {
+  "id": "m50",
+  "title": "Sekai no Owari no Hajimari ni",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m51",
+  "title": "Record of Ragnarok",
+  "ours": {
+   "totalVols": 25,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Record of Ragnarok": 26,
+     "Record of Ragnarok Variant": 1,
+     "Record of Ragnarok - Limited Edition": 1
+    },
+    "chosen": "Record of Ragnarok",
+    "expected": 25
+   }
+  }
+ },
+ {
+  "id": "m52",
+  "title": "Spy x Family",
+  "ours": {
+   "totalVols": 16,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Spy X Family Early Access": 1,
+     "Spy X Family": 17,
+     "Spy X Family Variant": 3,
+     "Spy X Family Christmas Variant": 1,
+     "Spy X Family Calendario": 1
+    },
+    "chosen": "Spy X Family",
+    "expected": 16
+   }
+  }
+ },
+ {
+  "id": "m53",
+  "title": "Sun-Ken Rock",
+  "ours": {
+   "totalVols": 25,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Sun Ken Rock": 25,
+     "Sun Ken Rock - 10th Anniversary Celebration Variant": 1
+    },
+    "chosen": "Sun Ken Rock",
+    "expected": 25
+   }
+  }
+ },
+ {
+  "id": "m54",
+  "title": "Tegamibachi",
+  "ours": {
+   "totalVols": 20,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.2,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Letter Bee": 20
+    },
+    "chosen": "Letter Bee",
+    "expected": 20
+   }
+  }
+ },
+ {
+  "id": "m55",
+  "title": "The Horizon",
+  "ours": {
+   "totalVols": 3,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "Box",
+   "volType": "VOL",
+   "price": 15.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "The Horizon": 3
+    },
+    "chosen": "The Horizon",
+    "expected": 3
+   }
+  }
+ },
+ {
+  "id": "m56",
+  "title": "The Promised Neverland",
+  "ours": {
+   "totalVols": 20,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "The Promised Neverland": 20,
+     "The Promised Neverland Variant Popstore": 1,
+     "The Promised Neverland - Grace Field Collection Set": 3,
+     "The Promised Neverland Variant Feltrinelli": 1,
+     "The Promised Neverland Greatest Hits Cut Price": 1
+    },
+    "chosen": "The Promised Neverland",
+    "expected": 20
+   }
+  }
+ },
+ {
+  "id": "m57",
+  "title": "Dededemon Dededestruction",
+  "ours": {
+   "totalVols": 10,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Dead Dead Demon’s Dededededestruction": 12
+    },
+    "chosen": "Dead Dead Demon’s Dededededestruction",
+    "expected": 10
+   }
+  }
+ },
+ {
+  "id": "m58",
+  "title": "Beastars",
+  "ours": {
+   "totalVols": 22,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Beastars": 22,
+     "Beastars Variant": 1,
+     "Beastars Variant Lucca": 1
+    },
+    "chosen": "Beastars",
+    "expected": 22
+   }
+  }
+ },
+ {
+  "id": "m59",
+  "title": "Gantz",
+  "ours": {
+   "totalVols": 37,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "New edition",
+   "volType": "VOL",
+   "price": 4.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Gantz": 37,
+     "Gantz - Nuova Edizione": 37
+    },
+    "chosen": "Gantz - Nuova Edizione",
+    "expected": 37
+   }
+  }
+ },
+ {
+  "id": "m60",
+  "title": "Claymore",
+  "ours": {
+   "totalVols": 27,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "New edition",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Claymore": 27,
+     "Claymore New Edition": 27
+    },
+    "chosen": "Claymore New Edition",
+    "expected": 27
+   }
+  }
+ },
+ {
+  "id": "m61",
+  "title": "To Your Eternity",
+  "ours": {
+   "totalVols": 25,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": null,
+    "chosen": null,
+    "expected": 25
+   }
+  }
+ },
+ {
+  "id": "m62",
+  "title": "Hanako-kun",
+  "ours": {
+   "totalVols": 25,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Hanako kun - I sette misteri dell'Accademia Kamome": 26,
+     "Hanako kun - Art Work": 1,
+     "Hanako kun - I sette misteri dell'Accademia Kamome Greatest Hits Cut Price": 1
+    },
+    "chosen": "Hanako kun - I sette misteri dell'Accademia Kamome",
+    "expected": 25
+   }
+  }
+ },
+ {
+  "id": "m63",
+  "title": "Hell's Paradise",
+  "ours": {
+   "totalVols": 13,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Hell's Paradise – Jigokuraku": 13
+    },
+    "chosen": "Hell's Paradise – Jigokuraku",
+    "expected": 13
+   }
+  }
+ },
+ {
+  "id": "m64",
+  "title": "Spice & Wolf",
+  "ours": {
+   "totalVols": 8,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "Double edition",
+   "volType": "VOL",
+   "price": 13.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Spice and Wolf": 16,
+     "Spice and Wolf - Double Edition": 8
+    },
+    "chosen": "Spice and Wolf - Double Edition",
+    "expected": 8
+   }
+  }
+ },
+ {
+  "id": "m65",
+  "title": "Komi-san",
+  "ours": {
+   "totalVols": 37,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Komi Can't Communicate": 37,
+     "Komi Can't Communicate Variant Edition Games Academy": 1,
+     "Komi Can't Communicate - Graduation Variant": 1
+    },
+    "chosen": "Komi Can't Communicate",
+    "expected": 37
+   }
+  }
+ },
+ {
+  "id": "m66",
+  "title": "No Longer Human",
+  "ours": {
+   "totalVols": 1,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "Complete edition",
+   "volType": "VOL",
+   "price": 25.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Lo squalificato": 3
+    },
+    "chosen": "Lo squalificato",
+    "expected": 1
+   }
+  }
+ },
+ {
+  "id": "m67",
+  "title": "Pandora Hearts",
+  "ours": {
+   "totalVols": 13,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "New edition",
+   "volType": "VOL",
+   "price": 12.9,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Pandora Hearts": 24,
+     "Pandora Hearts New Edition": 13
+    },
+    "chosen": "Pandora Hearts New Edition",
+    "expected": 13
+   }
+  }
+ },
+ {
+  "id": "m68",
+  "title": "Rurouni Kenshin",
+  "ours": {
+   "totalVols": 22,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "Perfect edition",
+   "volType": "VOL",
+   "price": 9.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Kenshin": 28,
+     "Rurouni Kenshin Perfect Edition": 22
+    },
+    "chosen": "Rurouni Kenshin Perfect Edition",
+    "expected": 22
+   }
+  }
+ },
+ {
+  "id": "m69",
+  "title": "Frieren",
+  "ours": {
+   "totalVols": 14,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Frieren - Oltre la fine del viaggio Variant": 1,
+     "Frieren - Oltre la fine del viaggio Variant Popstore": 1,
+     "Frieren - Oltre la fine del viaggio": 15,
+     "Frieren - Oltre la fine del viaggio - Edizione deluxe": 3,
+     "Frieren - Oltre la fine del viaggio - Art Works": 1
+    },
+    "chosen": "Frieren - Oltre la fine del viaggio",
+    "expected": 14
+   }
+  }
+ },
+ {
+  "id": "m70",
+  "title": "MPD Psycho",
+  "ours": {
+   "totalVols": 24,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "MPD Psycho": 24
+    },
+    "chosen": "MPD Psycho",
+    "expected": 24
+   }
+  }
+ },
+ {
+  "id": "m71",
+  "title": "Grand Blue",
+  "ours": {
+   "totalVols": 3,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Grand Blue Variant": 1,
+     "Grand Blue Variant Romics": 1,
+     "Grand Blue": 4,
+     "Grand Blue Variant Edition Cut Price": 3
+    },
+    "chosen": "Grand Blue",
+    "expected": 3
+   }
+  }
+ },
+ {
+  "id": "m72",
+  "title": "Utsuro no Hako to Zero no Maria",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m73",
+  "title": "Classroom of the Elite",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m74",
+  "title": "Your Talent Is Mine",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m75",
+  "title": "The Beginning After the End",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "CAP",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m76",
+  "title": "Leveling Up with the Gods",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m77",
+  "title": "Poison Dragon",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m78",
+  "title": "Return of the Crazy Demon",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m79",
+  "title": "Return of the Unrivaled Spear Knight",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m80",
+  "title": "Solo Max-Level Newbie",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m81",
+  "title": "A Returner's Magic Should Be Special",
+  "ours": {
+   "totalVols": 228,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "CAP",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m82",
+  "title": "Great Mage Returns After 4000 Years",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m83",
+  "title": "Nano Machine",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m84",
+  "title": "Legend of the Northern Blade",
+  "ours": {
+   "totalVols": 202,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "CAP",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m85",
+  "title": "Omniscient Reader's Viewpoint",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m86",
+  "title": "Mercenary Enrollment",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m87",
+  "title": "God Game",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m88",
+  "title": "Her Summon",
+  "ours": {
+   "totalVols": 117,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "CAP",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m89",
+  "title": "Reverend Insanity",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m90",
+  "title": "Lord of Mysteries",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m91",
+  "title": "Age of Adepts",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m92",
+  "title": "House of Horrors",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m93",
+  "title": "Warlock of the Magus World",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m94",
+  "title": "Radiant",
+  "ours": {
+   "totalVols": 19,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.9,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": {
+     "Radiant": 20,
+     "Radiant Variant": 2
+    },
+    "chosen": "Radiant",
+    "expected": 19
+   }
+  }
+ },
+ {
+  "id": "m95",
+  "title": "Aqualung",
+  "ours": {
+   "totalVols": 5,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 18.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": null,
+    "chosen": null,
+    "expected": 5
+   }
+  }
+ },
+ {
+  "id": "m96",
+  "title": "Orfani",
+  "ours": {
+   "totalVols": 16,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.9,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": null,
+    "chosen": null,
+    "expected": 16
+   }
+  }
+ },
+ {
+  "id": "m97",
+  "title": "Qwest",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m98",
+  "title": "Birth of the Demonic Sword",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m42",
+  "title": "Imawa no Kuni no Alice",
+  "ours": {
+   "totalVols": 18,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.2,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte giapponese (titolo italiano?) — verificare con AnimeClick/editore"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "groups": null,
+    "chosen": null,
+    "expected": 18
+   }
+  }
+ }
+]
