@@ -204,12 +204,23 @@ elif SEC=='anime':
             sc=best(title,ms,lambda c:[c['title'].get('romaji'),c['title'].get('english')]); pick=sc[0][1] if sc[0][0]>=0.6 else None
         if pick: rec['src']['anilist']=dict(id=pick['id'],title=pick['title'].get('romaji'),eps=pick.get('episodes'),duration=pick.get('duration'),year=(pick.get('startDate') or {}).get('year'),format=pick.get('format'),status=pick.get('status'))
         j=rec['src'].get('jikan'); a=rec['src'].get('anilist')
-        if not j and not a: rec['flags'].append(('NON_TROVATO','Nessuna fonte corrisponde'))
-        vals=[v for v in ((j or {}).get('eps'),(a or {}).get('eps')) if v]
-        if te and vals and all(te!=v for v in vals):
-            rec['flags'].append(('EPISODI',f"Nostro {te}; Jikan {(j or {}).get('eps')}, AniList {(a or {}).get('eps')} (può essere voce franchise/più stagioni)"))
-        dv=[v for v in ((j or {}).get('duration'),(a or {}).get('duration')) if v]
-        if dur and dv and all(abs(dur-v)>4 for v in dv): rec['flags'].append(('DURATA',f"Nostro {dur} min; Jikan {(j or {}).get('duration')}, AniList {(a or {}).get('duration')}"))
+        seen={}
+        for lang in ('en-US','it-IT'):
+            for c in (tm('/search/tv',query=title,language=lang) or {}).get('results',[])[:10]:
+                e=seen.setdefault(c['id'],dict(c,_t=set())); e['_t'].update([c.get('name'),c.get('original_name')])
+        rs=[(max([sim(title,t) for t in c['_t'] if t] or [0])+(0.05 if 16 in c.get('genre_ids',[]) else 0),c.get('vote_count') or 0,c) for c in seen.values()]
+        rs=[x for x in rs if x[0]>=0.85]; rs.sort(key=lambda x:(-(16 in x[2].get('genre_ids',[])),-x[1]))
+        if rs:
+            c=rs[0][2]; d=tm(f"/tv/{c['id']}",language='en-US') or {}
+            rec['src']['tmdb']=dict(id=c['id'],name=d.get('name'),eps=d.get('number_of_episodes'),seasons=d.get('number_of_seasons'),runtime=d.get('episode_run_time'),last_runtime=(d.get('last_episode_to_air') or {}).get('runtime'),status=d.get('status'),year=(d.get('first_air_date') or '')[:4])
+        t=rec['src'].get('tmdb')
+        if not j and not a and not t: rec['flags'].append(('NON_TROVATO','Nessuna fonte corrisponde (AniList/TMDB)'))
+        ae=(a or {}).get('eps'); te_=(t or {}).get('eps')
+        if te and (ae or te_) and te!=ae and not (te_ and abs(te-te_)<=1):
+            conf='EPISODI' if te_ and ae and te_>=ae and te_!=te else 'EPISODI?'
+            rec['flags'].append((conf,f"Nostro {te}; TMDB (tutte le stagioni) {te_}, AniList (singola voce) {ae}"+(' – serie ancora in corso' if (t or {}).get('status') in ('Returning Series','In Production') else '')))
+        dv=[v for v in ((a or {}).get('duration'),)+tuple((t or {}).get('runtime') or [])+((t or {}).get('last_runtime'),) if v]
+        if dur and dv and all(abs(dur-v)>4 for v in dv): rec['flags'].append(('DURATA',f"Nostro {dur} min; AniList {(a or {}).get('duration')}, TMDB {(t or {}).get('runtime')} / ultimo ep. {(t or {}).get('last_runtime')}"))
         out.append(rec); time.sleep(0.6)
 # ---------------- MANGA ----------------
 elif SEC=='manga':
