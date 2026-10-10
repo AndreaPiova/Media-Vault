@@ -64,12 +64,7 @@
     "Jantje Friese"
    ]
   },
-  "flags": [
-   [
-    "CAST",
-    "Non nel cast TMDB: ['Isabella Wei']; TMDB top: ['Emily Beecham', 'Andreas Pietschmann', 'Aneurin Barnard', '伊莎貝拉·魏', 'Maciej Musiał', 'Yann Gaël', 'Miguel Bernardeau', 'Clara Rosager']"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "name": "1899",
@@ -121,7 +116,7 @@
    ],
    [
     "GENERI",
-    "Nostri ['Fantasy', 'Avventura', 'Mistero']; TMDB ['Sci-Fi & Fantasy', 'Dramma', 'Action & Adventure']"
+    "Nostri ['Fantasy', 'Avventura', 'Mistero']; TMDB ['Fantascienza', 'Dramma', 'Azione']"
    ]
   ],
   "src": {
@@ -168,12 +163,7 @@
     "Blake Crouch"
    ]
   },
-  "flags": [
-   [
-    "CAST",
-    "Non nel cast TMDB: ['Snag Flynn']; TMDB top: ['Joel Edgerton', 'Jennifer Connelly', 'Alice Braga', 'Jimmi Simpson', 'Dayo Okeniyi', 'Oakes Fegley', 'Amanda Brugel', 'William Smillie']"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "name": "Dark Matter",
@@ -218,12 +208,7 @@
     "Alex Yee"
    ]
   },
-  "flags": [
-   [
-    "CAST",
-    "Non nel cast TMDB: ['Shohreh Aghdashloo', 'Miles Brown', 'MIYAVI']; TMDB top: ['Hailee Steinfeld', 'Ella Purnell', 'Kevin Alejandro', 'Toks Olagundoye', 'Harry Lloyd', 'Katie Leung', 'Jason Spisak', 'JB Blanc']"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "name": "Arcane",
@@ -360,7 +345,7 @@
     ],
     "imdb": "tt0903747"
    },
-   "poster_dist": 2,
+   "poster_dist": 3,
    "imdb": {
     "year": 2008,
     "end": 2013,
@@ -639,7 +624,7 @@
    ],
    [
     "CAST",
-    "Non nel cast TMDB: ['Sean Bean', 'Mark Addy', 'Richard Madden', 'Michelle Fairley']; TMDB top: ['Peter Dinklage', 'Kit Harington', 'Nikolaj Coster-Waldau', 'Lena Headey', 'Emilia Clarke', 'Maisie Williams', 'Isaac Hempstead Wright', 'Sophie Turner']"
+    "Non nel cast TMDB: ['Sean Bean', 'Mark Addy']; TMDB top: ['Peter Dinklage', 'Kit Harington', 'Nikolaj Coster-Waldau', 'Lena Headey', 'Emilia Clarke', 'Maisie Williams', 'Isaac Hempstead Wright', 'Sophie Turner']"
    ]
   ],
   "src": {
@@ -818,12 +803,7 @@
     "James Manos Jr."
    ]
   },
-  "flags": [
-   [
-    "CAST",
-    "Non nel cast TMDB: ['Julia Stiles']; TMDB top: ['Michael C. Hall', 'Jennifer Carpenter', 'David Zayas', 'James Remar', 'C.S. Lee', 'Luna Lauren Vélez', 'Desmond Harrington', 'Julie Benz']"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "name": "Dexter",
@@ -949,7 +929,7 @@
   "flags": [
    [
     "CAST",
-    "Non nel cast TMDB: ['Andrew-Lee Potts', 'Marc Warren', 'Paul Herzberg', 'William Armstrong']; TMDB top: ['Michael Cudlitz', 'Rick Gomez', 'Scott Grimes', 'Damian Lewis', 'Ron Livingston', 'James Madio', 'Neal McDonough', 'Donnie Wahlberg']"
+    "Non nel cast TMDB: ['Andrew-Lee Potts', 'Paul Herzberg', 'William Armstrong']; TMDB top: ['Michael Cudlitz', 'Rick Gomez', 'Scott Grimes', 'Damian Lewis', 'Ron Livingston', 'James Madio', 'Neal McDonough', 'Donnie Wahlberg']"
    ]
   ],
   "src": {
@@ -1044,16 +1024,8 @@
     "Nostro [9, 6]; TMDB [9, 7, 6]"
    ],
    [
-    "CREATORI",
-    "Nostri ['Hwang Dong-hyuk']; TMDB ['황동혁']"
-   ],
-   [
-    "FOTO_CAST",
-    "Foto diversa da TMDB: ['임시완', '위하준', '조유리', 'Lee Byung-hun', '정호연', '박규영', '박해수', '이진욱', '양동근', '박성훈']"
-   ],
-   [
-    "PERSONAGGIO",
-    "[\"임시완: 'Lee Myung-gi / Player 333' vs ['Jang Deok-su / Player 101']\", \"위하준: 'Detective Hwang Jun-ho' vs ['Jang Deok-su / Player 101']\", \"조유리: 'Kim Jun-hee / Player 222' vs ['Jang Deok-su / Player 101']\", \"박규영: 'Kang No-eul / Guard 011' vs ['Jang Deok-su / Player 101']\", \"양동근: 'Park Yong-sik / Player 007' vs ['Jang Deok-su / Player 101']\"]"
+    "CAST",
+    "Non nel cast TMDB: ['임시완']; TMDB top: ['Lee Jung-jae', 'Lee Byung-hun', 'Kang Ae-sim', 'Kang Ha-neul', 'David Lee', 'Anupam Tripathi', 'Lee Doo-seok', 'John Choi']"
    ],
    [
     "EPISODI?",
@@ -1073,9 +1045,7 @@
      7,
      6
     ],
-    "creators": [
-     "황동혁"
-    ],
+    "creators": [],
     "imdb": "tt10919420"
    },
    "poster_dist": 0,
@@ -1170,10 +1140,6 @@
    [
     "CAST",
     "Non nel cast TMDB: ['Paulo Costanzo', 'Sara Mitich']; TMDB top: ['Steven Strait', 'Dominique Tipper', 'Wes Chatham', 'Shohreh Aghdashloo', 'Cas Anvar', 'Frankie Adams', 'Cara Gee', 'Shawn Doyle']"
-   ],
-   [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 63639 (The Expanse 2015), distanza 18. Candidati: [(18, 63639, 'The Expanse', '2015'), (24, 155655, 'The Expanse: One Ship', '2021'), (30, 127337, 'Bridging the Expanse', '2019')]"
    ]
   ],
   "src": {
@@ -1323,12 +1289,7 @@
     "Steve Blackman"
    ]
   },
-  "flags": [
-   [
-    "GENERI",
-    "Nostri ['Fantascienza', 'Commedia', 'Azione']; TMDB ['Action & Adventure', 'Sci-Fi & Fantasy', 'Dramma']"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "name": "The Umbrella Academy",
@@ -1387,10 +1348,6 @@
    [
     "EPISODI_STAGIONE",
     "Nostro [6, 22, 25, 14, 28, 26, 26, 24, 25]; TMDB [6, 22, 23, 14, 26, 24, 24, 24, 23]"
-   ],
-   [
-    "FOTO_CAST",
-    "Foto diversa da TMDB: ['Ellie Kemper']"
    ],
    [
     "EPISODI?",
@@ -1611,8 +1568,8 @@
     "Nostro [11, 13, 8, 8, 8]; TMDB [11, 13, 8, 8]"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 62455 (Vis a vis - Il prezzo del riscatto 2015), distanza 24. Candidati: [(20, 255868, 'Dream Productions', '2024'), (23, 45871, 'Locked Up: The Oasis', '2020'), (23, 327572, 'Simona Halep: The Story of a Dream', '2026')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Dream Productions (2024, id 255868, dist 20) che a id 62455 Vis a vis - Il prezzo del riscatto (2015, dist 24)"
    ]
   ],
   "src": {
@@ -1770,12 +1727,7 @@
     "Adam Price"
    ]
   },
-  "flags": [
-   [
-    "CAST",
-    "Non nel cast TMDB: ['Markus Tønseth']; TMDB top: ['David Alexander Sjøholt', 'Jonas Strand Gravli', 'Herman Tømmeraas', 'Theresa Frostad Eggesbø', 'Henriette Steenstrup', 'Synnøve Macody Lund', 'Odd-Magnus Williamson', 'Gísli Örn Garðarsson']"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "name": "Ragnarok",
@@ -2213,7 +2165,7 @@
   "flags": [
    [
     "CAST",
-    "Non nel cast TMDB: ['Jon Bernthal', 'David Morrissey', 'Jeffrey DeMunn', 'Sarah Wayne Callies']; TMDB top: ['Norman Reedus', 'Melissa McBride', 'Lauren Cohan', 'Danai Gurira', 'Andrew Lincoln', 'Christian Serratos', 'Josh McDermitt', 'Chandler Riggs']"
+    "Non nel cast TMDB: ['Jon Bernthal', 'Jeffrey DeMunn']; TMDB top: ['Norman Reedus', 'Melissa McBride', 'Lauren Cohan', 'Danai Gurira', 'Andrew Lincoln', 'Christian Serratos', 'Josh McDermitt', 'Chandler Riggs']"
    ]
   ],
   "src": {
@@ -2268,14 +2220,6 @@
    ]
   },
   "flags": [
-   [
-    "GENERI",
-    "Nostri ['Fantascienza', 'Fantasy', 'Commedia']; TMDB ['Sci-Fi & Fantasy', 'Mistero', 'Dramma']"
-   ],
-   [
-    "CAST",
-    "Non nel cast TMDB: ['Eric Delgado', 'Randy Oglesby', 'Rose Bianco', 'Lana Young', 'Sam Younis']; TMDB top: ['Elizabeth Olsen', 'Paul Bettany', 'Kathryn Hahn', 'Teyonah Parris', 'Randall Park', 'Kat Dennings', 'Amos Glick', 'David Payton']"
-   ],
    [
     "FOTO_CAST",
     "Foto diversa da TMDB: ['Elizabeth Olsen', 'Randall Park']"
@@ -2739,7 +2683,7 @@
     ],
     "imdb": "tt5348176"
    },
-   "poster_dist": 3,
+   "poster_dist": 1,
    "imdb": {
     "year": 2018,
     "end": 2023,
@@ -3100,7 +3044,7 @@
    ],
    [
     "CAST",
-    "Non nel cast TMDB: ['Tyler Huth', 'Will Murden', 'Trieste Kelly Dunn', 'Rebecca Henderson', 'Mike Pniewski']; TMDB top: ['Gethin Anthony', 'Arliss Howard', 'Kelly Jenrette', 'Cameron Britton', 'Sam Worthington', 'Ness Bautista', 'Jeremy Bobb', 'Ben Weber']"
+    "Non nel cast TMDB: ['Trieste Kelly Dunn', 'Mike Pniewski']; TMDB top: ['Gethin Anthony', 'Arliss Howard', 'Kelly Jenrette', 'Cameron Britton', 'Sam Worthington', 'Ness Bautista', 'Jeremy Bobb', 'Ben Weber']"
    ]
   ],
   "src": {
@@ -3201,10 +3145,6 @@
     "Nostro [8, 8]; TMDB [8, 8, 8] (serie in corso)"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 84773 (Il Signore degli Anelli: Gli Anelli del Potere 2022), distanza 24. Candidati: [(24, 84773, 'The Lord of the Rings: The Rings of Power', '2022')]"
-   ],
-   [
     "EPISODI?",
     "Nostro 16; TMDB 24, IMDb 25"
    ]
@@ -3258,7 +3198,7 @@
   "flags": [
    [
     "CAST",
-    "Non nel cast TMDB: ['John Hannah', 'Josh Brener', 'Christopher Heyerdahl', 'Brad Leland', 'Marcia Bennett', 'Brendan Fletcher', 'Jerry Wasserman']; TMDB top: ['Bella Ramsey', 'Pedro Pascal', 'Gabriel Luna', 'Isabela Merced', 'Young Mazino', 'Rutina Wesley', 'Samuel Hoeksema', 'Danny Ramirez']"
+    "Non nel cast TMDB: ['Jerry Wasserman']; TMDB top: ['Bella Ramsey', 'Pedro Pascal', 'Gabriel Luna', 'Isabela Merced', 'Young Mazino', 'Rutina Wesley', 'Samuel Hoeksema', 'Danny Ramirez']"
    ]
   ],
   "src": {
@@ -3279,7 +3219,7 @@
     ],
     "imdb": "tt3581920"
    },
-   "poster_dist": 1,
+   "poster_dist": 0,
    "imdb": {
     "year": 2023,
     "end": null,
@@ -3412,12 +3352,7 @@
     "Lisa Joy"
    ]
   },
-  "flags": [
-   [
-    "GENERI",
-    "Nostri ['Fantascienza', 'Dramma', 'Mistero']; TMDB ['Sci-Fi & Fantasy', 'Western']"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "name": "Westworld - Dove tutto è concesso",
@@ -3464,12 +3399,7 @@
     "Ira Parker"
    ]
   },
-  "flags": [
-   [
-    "CAST",
-    "Non nel cast TMDB: ['Ellie McHale-Roe', \"Abigail O'Regan\", 'Carla Harrison-Hodge']; TMDB top: ['Peter Claffey', 'Dexter Sol Ansell', 'Daniel Ings', 'Ross Anderson', 'Finn Bennett', 'Danny Webb', 'Cara Harris', 'Shaun Thomas']"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "name": "A Knight of the Seven Kingdoms",
@@ -3518,10 +3448,6 @@
    [
     "EPISODI_STAGIONE",
     "Nostro [10, 8]; TMDB [10, 8, 8] (serie in corso)"
-   ],
-   [
-    "CAST",
-    "Non nel cast TMDB: ['James Norton']; TMDB top: ['Matt Smith', 'Steve Toussaint', 'Sonoya Mizuno', 'Fabien Frankel', 'Matthew Needham', 'Kurt Egyiawan', 'Olivia Cooke', \"Emma D'Arcy\"]"
    ],
    [
     "EPISODI?",
@@ -3656,18 +3582,6 @@
    [
     "ANNO_FINE",
     "Nostro 2022; TMDB 2021 (serie Ended)"
-   ],
-   [
-    "GENERI",
-    "Nostri ['Fantascienza', 'Avventura', 'Fantasy']; TMDB ['Action & Adventure', 'Dramma', 'Sci-Fi & Fantasy']"
-   ],
-   [
-    "CAST",
-    "Non nel cast TMDB: ['John Bishop']; TMDB top: ['Matt Smith', 'David Tennant', 'Karen Gillan', 'Nicholas Briggs', 'Jenna Coleman', 'Peter Capaldi', 'Billie Piper', 'Jodie Whittaker']"
-   ],
-   [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 57243 (Doctor Who 2005), distanza 20. Candidati: [(20, 57243, 'Doctor Who', '2005'), (22, 239770, 'Doctor Who', '2024'), (23, 121, 'Doctor Who', '1963')]"
    ]
   ],
   "src": {
@@ -3956,10 +3870,6 @@
     "Nostro [3, 3, 6, 6, 3, 5, 6]; TMDB [3, 4, 6, 6, 3, 5, 6] (serie in corso)"
    ],
    [
-    "CAST",
-    "Non nel cast TMDB: ['Michael Smiley', 'Wyatt Russell', 'Daniel Rigby', 'Douglas Hodge']; TMDB top: ['Jesse Plemons', 'Cristin Milioti', 'Jimmi Simpson', 'Milanka Brooks', 'Osy Ikhile', 'Paul G. Raymond', 'Monica Dolan', 'Daniel Lapaine']"
-   ],
-   [
     "EPISODI?",
     "Nostro 32; TMDB 33, IMDb 34"
    ]
@@ -4179,8 +4089,8 @@
     "Non nel cast TMDB: ['Victoria Cartagena']; TMDB top: ['Ben McKenzie', 'Donal Logue', 'David Mazouz', 'Sean Pertwee', 'Robin Lord Taylor', 'Erin Richards', 'Camren Bicondova', 'Cory Michael Smith']"
    ],
    [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 60708 (Gotham 2014), distanza 20. Candidati: [(16, 110419, 'Gotham Tonight', '2008'), (24, 60708, 'Gotham', '2014'), (27, 195868, 'Gotham Knights', '2023')]"
+    "POSTER_ALTRO_TITOLO",
+    "La copertina assomiglia di più a Gotham Tonight (2008, id 110419, dist 16) che a id 60708 Gotham (2014, dist 20)"
    ]
   ],
   "src": {
@@ -4262,7 +4172,7 @@
     ],
     "imdb": "tt1124373"
    },
-   "poster_dist": 0,
+   "poster_dist": 1,
    "imdb": {
     "year": 2008,
     "end": 2014,
@@ -4462,12 +4372,7 @@
     "Beau Willimon"
    ]
   },
-  "flags": [
-   [
-    "CAST",
-    "Non nel cast TMDB: ['Kristen Connolly']; TMDB top: ['Robin Wright', 'Michael Kelly', 'Kevin Spacey', 'Jayne Atkinson', 'Derek Cecil', 'Mahershala Ali', 'Boris McGiver', 'Nathan Darrow']"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "name": "House of Cards",
@@ -4518,7 +4423,7 @@
   "flags": [
    [
     "CAST",
-    "Non nel cast TMDB: ['Carter Hudson', 'Eleasha Gamble', 'Racquel Palmer', 'Chris Perfetti']; TMDB top: ['Riz Ahmed', 'John Turturro', 'Bill Camp', 'پیمان معادی', 'Jeannie Berlin', 'Poorna Jagannathan', 'Amara Karan', 'Syam M. Lafi']"
+    "Non nel cast TMDB: ['Carter Hudson', 'Eleasha Gamble', 'Racquel Palmer', 'Chris Perfetti']; TMDB top: ['Riz Ahmed', 'John Turturro', 'Bill Camp', 'Jeannie Berlin', 'Poorna Jagannathan', 'Amara Karan', 'Syam M. Lafi', 'Paul Sparks']"
    ]
   ],
   "src": {
@@ -4732,14 +4637,6 @@
    [
     "EPISODI_STAGIONE",
     "Nostro [10, 10]; TMDB [10, 10, 10, 1] (serie in corso)"
-   ],
-   [
-    "GENERI",
-    "Nostri ['Fantascienza', 'Mistero', 'Thriller']; TMDB ['Sci-Fi & Fantasy', 'Dramma']"
-   ],
-   [
-    "CAST",
-    "Non nel cast TMDB: ['Ferdinand Kingsley']; TMDB top: ['Rebecca Ferguson', 'Common', 'Chinaza Uche', 'Tim Robbins', 'Billy Postlethwaite', 'Remmie Milner', 'Shane McRae', 'Harriet Walter']"
    ],
    [
     "FOTO_CAST",
@@ -5019,10 +4916,6 @@
    [
     "CREATORI",
     "Nostri ['Gillian Flynn']; TMDB ['Dennis Kelly']"
-   ],
-   [
-    "GENERI",
-    "Nostri ['Thriller', 'Fantascienza', 'Commedia nera']; TMDB ['Mistero', 'Dramma', 'Commedia', 'Sci-Fi & Fantasy', 'Action & Adventure']"
    ]
   ],
   "src": {
@@ -5134,10 +5027,6 @@
   },
   "flags": [
    [
-    "CAST",
-    "Non nel cast TMDB: ['Sam Spruell']; TMDB top: ['Jason Schwartzman', 'Allison Tolman', 'Colin Hanks', 'Chris Rock', 'Jessie Buckley', 'Ben Whishaw', 'Jack Huston', 'Salvatore Esposito']"
-   ],
-   [
     "FOTO_CAST",
     "Foto diversa da TMDB: ['Ewan McGregor']"
    ]
@@ -5208,7 +5097,7 @@
     ],
     "imdb": "tt13016388"
    },
-   "poster_dist": 1,
+   "poster_dist": 4,
    "imdb": {
     "year": 2024,
     "end": null,
@@ -5469,12 +5358,7 @@
     "Eric Kripke"
    ]
   },
-  "flags": [
-   [
-    "GENERI",
-    "Nostri ['Azione', 'Fantascienza', 'Commedia nera']; TMDB ['Sci-Fi & Fantasy', 'Action & Adventure']"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "name": "The Boys",
@@ -5538,10 +5422,6 @@
     "Nostro [24, 24, 24, 24, 24, 24, 24, 24]; TMDB [24, 24, 24, 24, 24, 24, 24, 24, 12]"
    ],
    [
-    "GENERI",
-    "Nostri ['Azione', 'Thriller', 'Drama']; TMDB ['Action & Adventure', 'Dramma', 'Crimine']"
-   ],
-   [
     "CAST",
     "Non nel cast TMDB: ['Yvonne Strahovski', 'Tate Donovan', 'John Terry']; TMDB top: ['Kiefer Sutherland', 'Mary Lynn Rajskub', 'Carlos Bernard', 'Dennis Haysbert', 'Elisha Cuthbert', 'Sarah Clarke', 'Kim Raver', 'James Morrison']"
    ]
@@ -5571,7 +5451,7 @@
     ],
     "imdb": "tt0285331"
    },
-   "poster_dist": 0,
+   "poster_dist": 2,
    "imdb": {
     "year": 2001,
     "end": 2010,
@@ -5673,10 +5553,6 @@
   },
   "flags": [
    [
-    "GENERI",
-    "Nostri ['Fantascienza', 'Thriller', 'Drama']; TMDB ['Sci-Fi & Fantasy', 'Dramma']"
-   ],
-   [
     "CAST",
     "Non nel cast TMDB: ['Wolfgang Kieling', 'Andrea Rau', 'Gernot Endemann', 'Karlheinz Lemken', 'Horst Hesslein', 'Paul Edwin Roth', 'Ferdinand Dux', 'Michael Gempart', 'Herbert Fleischmann', 'Gert Schaefer', 'Gerhard Olschewski', 'Rudolf Beiswanger']; TMDB top: ['Aaron Stanford', 'Amanda Schull', 'Barbara Sukowa', 'Emily Hampshire', 'Todd Stashwick', 'Andrew Gillies', 'Kirk Acevedo', 'Alisen Richmond-Peck']"
    ]
@@ -5749,7 +5625,7 @@
     ],
     "imdb": "tt1637727"
    },
-   "poster_dist": 1,
+   "poster_dist": 2,
    "imdb": {
     "year": 2011,
     "end": 2014,
@@ -5827,16 +5703,7 @@
     "Hans Rosenfeldt"
    ]
   },
-  "flags": [
-   [
-    "TITOLO",
-    "'The Bridge' ≠ 'The Bridge - La serie originale'/'Bron/Broen'"
-   ],
-   [
-    "CAST",
-    "Non nel cast TMDB: ['Elliott Crosset Hove']; TMDB top: ['Sofia Helin', 'Rafael Pettersson', 'Sarah Boberg', 'Dag Malmberg', 'Kim Bodnia', 'Thure Lindhardt', 'Maria Kulle', 'Puk Scharbau']"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "name": "The Bridge - La serie originale",
@@ -5885,12 +5752,7 @@
     "Éric Rochant"
    ]
   },
-  "flags": [
-   [
-    "TITOLO",
-    "'Le Bureau' ≠ 'Le Bureau - Sotto copertura'/'Le Bureau des légendes'"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "name": "Le Bureau - Sotto copertura",
@@ -6048,10 +5910,6 @@
     "Nostro [8]; TMDB [8, 8] (serie in corso)"
    ],
    [
-    "GENERI",
-    "Nostri ['Fantascienza', 'Azione', 'Commedia nera']; TMDB ['Action & Adventure', 'Sci-Fi & Fantasy', 'Dramma']"
-   ],
-   [
     "CAST",
     "Non nel cast TMDB: ['Sam Elliott', 'Tim McGraw', 'Faith Hill', 'Isabel May', 'LaMonica Garrett', 'Marc Rissmann', 'Audie Rick', 'James Landry Hébert', 'Dan Pfau', 'Dean Gosdin', 'Natalie Dickinson', 'Kamen Casey']; TMDB top: ['Ella Purnell', 'Aaron Moten', 'Moisés Arias', 'Walton Goggins', 'Frances Turner', 'Kyle MacLachlan', 'Dave Register', 'Leslie Uggams']"
    ],
@@ -6106,7 +5964,7 @@
   "flags": [
    [
     "GENERI",
-    "Nostri ['Crimine', 'Fantascienza', 'Thriller']; TMDB ['Dramma', 'Commedia', 'Action & Adventure']"
+    "Nostri ['Crimine', 'Fantascienza', 'Thriller']; TMDB ['Dramma', 'Commedia', 'Azione']"
    ]
   ],
   "src": {
@@ -6155,11 +6013,7 @@
   "flags": [
    [
     "CAST",
-    "Non nel cast TMDB: ['Ellen Greene', 'Lance Henriksen', 'Suzy Eddie Izzard', 'Tom Wisdom']; TMDB top: ['Mads Mikkelsen', 'Hugh Dancy', 'Laurence Fishburne', 'Caroline Dhavernas', 'Aaron Abrams', 'Scott Thompson', 'Gillian Anderson', 'Kacey Rohl']"
-   ],
-   [
-    "POSTER",
-    "Copertina non corrisponde ai poster TMDB id 40008 (Hannibal 2013), distanza 21. Candidati: [(21, 40008, 'Hannibal', '2013'), (32, 33247, \"On Hannibal's Trail\", '2010'), (36, 62993, 'Why? With Hannibal Buress', '2015')]"
+    "Non nel cast TMDB: ['Lance Henriksen', 'Tom Wisdom']; TMDB top: ['Mads Mikkelsen', 'Hugh Dancy', 'Laurence Fishburne', 'Caroline Dhavernas', 'Aaron Abrams', 'Scott Thompson', 'Gillian Anderson', 'Kacey Rohl']"
    ]
   ],
   "src": {
@@ -6180,7 +6034,7 @@
     ],
     "imdb": "tt2243973"
    },
-   "poster_dist": 21,
+   "poster_dist": 20,
    "imdb": {
     "year": 2013,
     "end": 2015,
@@ -6213,7 +6067,7 @@
   "flags": [
    [
     "CAST",
-    "Non nel cast TMDB: ['Hong Chau', 'Jon Daly', 'Fred Tatasciore', 'Judy Greer', 'Minae Noji']; TMDB top: ['Will Arnett', 'Aaron Paul', 'Alison Brie', 'Amy Sedaris', 'Paul F. Tompkins', 'Adam Conover', 'Keith Olbermann', 'Patton Oswalt']"
+    "Non nel cast TMDB: ['Jon Daly', 'Fred Tatasciore', 'Judy Greer', 'Minae Noji']; TMDB top: ['Will Arnett', 'Aaron Paul', 'Alison Brie', 'Amy Sedaris', 'Paul F. Tompkins', 'Adam Conover', 'Keith Olbermann', 'Patton Oswalt']"
    ],
    [
     "FOTO_CAST",
@@ -6271,10 +6125,6 @@
    [
     "EPISODI_STAGIONE",
     "Nostro [20, 22]; TMDB [20, 20]"
-   ],
-   [
-    "CAST",
-    "Non nel cast TMDB: ['Greg Cipes', 'John Roberts']; TMDB top: ['Jason Ritter', 'Kristen Schaal', 'Alex Hirsch', 'Linda Cardellini', 'Matt Chapman', 'Gregg Turkington', 'Kevin Michael Richardson', 'Carl Faruolo']"
    ],
    [
     "EPISODI?",
@@ -6428,24 +6278,20 @@
   },
   "flags": [
    [
-    "TITOLO",
-    "'Eteros Ego' ≠ 'Έτερος Εγώ'/'Έτερος Εγώ'"
+    "ID_TMDB_SOSPETTO",
+    "2 indizi concordi: l'id TMDB assegnato (90621) potrebbe riferirsi a un altro titolo/omonimo"
    ],
    [
-    "CREATORI",
-    "Nostri ['Sotiris Tsafoulias', 'Katerina Filiotou']; TMDB ['Σωτήρης Τσαφούλιας']"
+    "TITOLO",
+    "'Eteros Ego' ≠ 'Έτερος Εγώ'/'Έτερος Εγώ'"
    ],
    [
     "GENERI",
     "Nostri ['Commedia', 'Romance']; TMDB ['Mistero', 'Crimine']"
    ],
    [
-    "FOTO_CAST",
-    "Foto diversa da TMDB: ['Πυγμαλίων Δαδακαρίδης', 'Πέτρος Λαγούτης', 'Βίκυ Παπαδοπούλου', 'Τάσος Νούσιας', 'Άννα Μενενάκου', 'Δημήτρης Καπετανάκος', 'Τόνια Μαράκη', 'Μάνος Βακούσης', 'Πέτρος Σκαρμέας', 'Μαριάννα Τουμασάτου', 'Σπύρος Παπαδόπουλος', 'Βασίλης Ρίσβας']"
-   ],
-   [
-    "PERSONAGGIO",
-    "[\"Πυγμαλίων Δαδακαρίδης: 'Dimitris Lainis' vs ['Gerasimos Nezis']\", \"Πέτρος Λαγούτης: 'Pantelis Sklavis' vs ['Gerasimos Nezis']\", \"Βίκυ Παπαδοπούλου: 'Christina Stergiou' vs ['Gerasimos Nezis']\", \"Τάσος Νούσιας: 'Nikos Vanortas' vs ['Gerasimos Nezis']\", \"Άννα Μενενάκου: 'Martha Kara' vs ['Gerasimos Nezis']\"]"
+    "CAST",
+    "Non nel cast TMDB: ['Μαριάννα Τουμασάτου']; TMDB top: ['Samuel Akinola', 'Kris Radanov', 'Polydoros Vogiatzis']"
    ]
   ],
   "src": {
@@ -6461,9 +6307,7 @@
      8,
      8
     ],
-    "creators": [
-     "Σωτήρης Τσαφούλιας"
-    ],
+    "creators": [],
     "imdb": "tt10478048"
    },
    "poster_dist": null,
@@ -6494,10 +6338,6 @@
    ]
   },
   "flags": [
-   [
-    "TITOLO",
-    "'Aspirants' ≠ 'आस्पिरेंट्स'/'आस्पिरेंट्स'"
-   ],
    [
     "CREATORI",
     "Nostri ['Apoorv Singh Karki']; TMDB ['Arunabh Kumar', 'Shreyansh Pandey', 'Deepesh Sumitra Jagdish']"
@@ -6549,12 +6389,7 @@
     "Esther Martínez Lobato"
    ]
   },
-  "flags": [
-   [
-    "CAST",
-    "Non nel cast TMDB: ['Javier Collado', 'Marcos Frutos', 'Verónica Gregory']; TMDB top: ['Pedro Alonso', 'Samantha Siqueiros', 'Tristán Ulloa', 'Michelle Jenner', 'Joel Sánchez', 'Begoña Vargas', 'Julio Peña', 'Julien Paschal']"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "name": "Berlino e i gioielli di Parigi",
@@ -6611,18 +6446,6 @@
     "Nostro [4, 5]; TMDB [4] (serie in corso)"
    ],
    [
-    "CREATORI",
-    "Nostri ['Lee Kyoung-mi', 'Kim Jong-kwan', 'Jeon Go-woon', 'Lim Pil-sung']; TMDB ['윤종신']"
-   ],
-   [
-    "FOTO_CAST",
-    "Foto diversa da TMDB: ['배두나', '박해수', '심달기', '김태훈', '이성욱', '임선우']"
-   ],
-   [
-    "PERSONAGGIO",
-    "[\"배두나: 'Doo-na' vs ['K']\", \"박해수: 'Jung-woo' vs ['K']\", \"김태훈: 'Father' vs ['K']\", \"이성욱: 'Jung-geun' vs ['K']\"]"
-   ],
-   [
     "EPISODI?",
     "Nostro 9; TMDB 4, IMDb 4"
    ]
@@ -6638,9 +6461,7 @@
     "seasons": [
      4
     ],
-    "creators": [
-     "윤종신"
-    ],
+    "creators": [],
     "imdb": "tt10027990"
    },
    "poster_dist": 16,
@@ -6731,10 +6552,6 @@
    ]
   },
   "flags": [
-   [
-    "GENERI",
-    "Nostri ['Fantascienza', 'Horror', 'Dramma']; TMDB ['Action & Adventure', 'Mistero', 'Sci-Fi & Fantasy']"
-   ],
    [
     "FOTO_CAST",
     "Foto diversa da TMDB: ['Winona Ryder', 'Millie Bobby Brown', 'Caleb McLaughlin', 'Charlie Heaton']"
@@ -6845,10 +6662,6 @@
    [
     "CAST",
     "Non nel cast TMDB: [\"Jonjo O'Neill\", 'Madeline Holliday', 'Jenny Galloway', 'Steffen Mennekes', 'Johannes Franke']; TMDB top: ['Anya Taylor-Joy', 'Chloe Pirrie', 'Marcin Dorociński', 'Matthew Dennis Lewis', 'Russell Dennis Lewis', 'Dolores Carbonari', 'Janina Elkin', 'Harry Melling']"
-   ],
-   [
-    "FOTO_CAST",
-    "Foto diversa da TMDB: ['Anya Taylor-Joy']"
    ]
   ],
   "src": {
@@ -6944,12 +6757,8 @@
   },
   "flags": [
    [
-    "GENERI",
-    "Nostri ['Fantascienza', 'Avventura', 'Azione']; TMDB ['Sci-Fi & Fantasy', 'Action & Adventure']"
-   ],
-   [
     "CAST",
-    "Non nel cast TMDB: ['Kyle Pacek', 'John Beasley', 'Dmitrious Bistrevsky', 'Brian Posehn', 'Ryan Watson', 'Julia Jones', 'Isla Farris', 'Eugene Cordero', 'Aydrea Walden']; TMDB top: ['Pedro Pascal', 'Katee Sackhoff', 'Misty Rosas', 'Chris Bartlett', 'Carl Weathers', 'Emily Swallow', 'Brendan Wayne', 'Giancarlo Esposito']"
+    "Non nel cast TMDB: ['John Beasley', 'Dmitrious Bistrevsky', 'Brian Posehn', 'Ryan Watson', 'Julia Jones', 'Isla Farris', 'Eugene Cordero', 'Aydrea Walden']; TMDB top: ['Pedro Pascal', 'Katee Sackhoff', 'Misty Rosas', 'Chris Bartlett', 'Carl Weathers', 'Emily Swallow', 'Brendan Wayne', 'Giancarlo Esposito']"
    ]
   ],
   "src": {
