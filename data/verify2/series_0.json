@@ -1,0 +1,7090 @@
+[
+ {
+  "id": "s121",
+  "title": "The Penguin",
+  "ours": {
+   "totalEps": 8,
+   "avgMin": 60,
+   "epsWatched": 0,
+   "y0": "2024",
+   "y1": "2024",
+   "seasons": [
+    8
+   ],
+   "tmdb": 194764,
+   "creators": [
+    "Lauren LeFranc"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Eugene Solfanelli']; TMDB top: ['Colin Farrell', 'Cristin Milioti', 'Rhenzy Feliz', \"Deirdre O'Connell\", 'Clancy Brown', 'Carmen Ejogo', 'Shohreh Aghdashloo', 'Theo Rossi']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The Penguin",
+    "orig": "The Penguin",
+    "first": 2024,
+    "last": 2024,
+    "status": "Ended",
+    "eps": 8,
+    "seasons": [
+     8
+    ],
+    "creators": [
+     "Lauren LeFranc"
+    ],
+    "imdb": "tt15435876"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2024,
+    "end": 2024,
+    "eps": 8
+   }
+  }
+ },
+ {
+  "id": "s122",
+  "title": "1899",
+  "ours": {
+   "totalEps": 8,
+   "avgMin": 58,
+   "epsWatched": 0,
+   "y0": "2022",
+   "y1": "2022",
+   "seasons": [
+    8
+   ],
+   "tmdb": 90669,
+   "creators": [
+    "Baran bo Odar",
+    "Jantje Friese"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Isabella Wei']; TMDB top: ['Emily Beecham', 'Andreas Pietschmann', 'Aneurin Barnard', '伊莎貝拉·魏', 'Maciej Musiał', 'Yann Gaël', 'Miguel Bernardeau', 'Clara Rosager']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "1899",
+    "orig": "1899",
+    "first": 2022,
+    "last": 2022,
+    "status": "Canceled",
+    "eps": 8,
+    "seasons": [
+     8
+    ],
+    "creators": [
+     "Jantje Friese",
+     "Baran bo Odar"
+    ],
+    "imdb": "tt9319668"
+   },
+   "poster_dist": 5,
+   "imdb": {
+    "year": 2022,
+    "end": 2022,
+    "eps": 8
+   }
+  }
+ },
+ {
+  "id": "s123",
+  "title": "His Dark Materials",
+  "ours": {
+   "totalEps": 23,
+   "avgMin": 55,
+   "epsWatched": 0,
+   "y0": "2019",
+   "y1": "2022",
+   "seasons": [
+    8,
+    7,
+    8
+   ],
+   "tmdb": 68507,
+   "creators": [
+    "Jack Thorne"
+   ]
+  },
+  "flags": [
+   [
+    "ANNO_FINE",
+    "Nostro 2022; TMDB 2023 (serie Ended)"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Fantasy', 'Avventura', 'Mistero']; TMDB ['Sci-Fi & Fantasy', 'Dramma', 'Action & Adventure']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "His Dark Materials - Queste oscure materie",
+    "orig": "His Dark Materials",
+    "first": 2019,
+    "last": 2023,
+    "status": "Ended",
+    "eps": 23,
+    "seasons": [
+     8,
+     7,
+     8
+    ],
+    "creators": [
+     "Jack Thorne"
+    ],
+    "imdb": "tt5607976"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2019,
+    "end": 2022,
+    "eps": 23
+   }
+  }
+ },
+ {
+  "id": "s124",
+  "title": "Dark Matter",
+  "ours": {
+   "totalEps": 19,
+   "avgMin": 50,
+   "epsWatched": 0,
+   "y0": "2024",
+   "y1": "2026",
+   "seasons": [
+    9,
+    10
+   ],
+   "tmdb": 196322,
+   "creators": [
+    "Blake Crouch"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Snag Flynn']; TMDB top: ['Joel Edgerton', 'Jennifer Connelly', 'Alice Braga', 'Jimmi Simpson', 'Dayo Okeniyi', 'Oakes Fegley', 'Amanda Brugel', 'William Smillie']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Dark Matter",
+    "orig": "Dark Matter",
+    "first": 2024,
+    "last": 2026,
+    "status": "Returning Series",
+    "eps": 19,
+    "seasons": [
+     9,
+     10
+    ],
+    "creators": [
+     "Blake Crouch"
+    ],
+    "imdb": "tt19231492"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2024,
+    "end": null,
+    "eps": 19
+   }
+  }
+ },
+ {
+  "id": "s125",
+  "title": "Arcane",
+  "ours": {
+   "totalEps": 18,
+   "avgMin": 30,
+   "epsWatched": 18,
+   "y0": "2021",
+   "y1": "2024",
+   "seasons": [
+    9,
+    9
+   ],
+   "tmdb": 94605,
+   "creators": [
+    "Christian Linke",
+    "Alex Yee"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Shohreh Aghdashloo', 'Miles Brown', 'MIYAVI']; TMDB top: ['Hailee Steinfeld', 'Ella Purnell', 'Kevin Alejandro', 'Toks Olagundoye', 'Harry Lloyd', 'Katie Leung', 'Jason Spisak', 'JB Blanc']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Arcane",
+    "orig": "Arcane",
+    "first": 2021,
+    "last": 2024,
+    "status": "Ended",
+    "eps": 18,
+    "seasons": [
+     9,
+     9
+    ],
+    "creators": [
+     "Christian Linke",
+     "Alex Yee"
+    ],
+    "imdb": "tt11126994"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2021,
+    "end": 2024,
+    "eps": 18
+   }
+  }
+ },
+ {
+  "id": "s120",
+  "title": "The Mentalist",
+  "ours": {
+   "totalEps": 151,
+   "avgMin": 42,
+   "epsWatched": 0,
+   "y0": "2008",
+   "y1": "2015",
+   "seasons": [
+    23,
+    23,
+    24,
+    24,
+    22,
+    22,
+    13
+   ],
+   "tmdb": 5920,
+   "creators": [
+    "Bruno Heller"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Adrianne Palicki', 'Jared Padalecki', 'Fredric Lehne', 'Jensen Ackles', 'Amanda Tapping', 'Misha Collins', 'Mark Sheppard', 'Loretta Devine', 'Julian Richings', 'Sebastian Spence', 'Amber Benson', 'Richard Libertini']; TMDB top: ['Simon Baker', 'Robin Tunney', 'Tim Kang', 'Owain Yeoman', 'Amanda Righetti', 'Joe Adler', 'Aunjanue Ellis-Taylor', 'Michael Gaston']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The Mentalist",
+    "orig": "The Mentalist",
+    "first": 2008,
+    "last": 2015,
+    "status": "Ended",
+    "eps": 151,
+    "seasons": [
+     23,
+     23,
+     24,
+     24,
+     22,
+     22,
+     13
+    ],
+    "creators": [
+     "Bruno Heller"
+    ],
+    "imdb": "tt1196946"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2008,
+    "end": 2015,
+    "eps": 151
+   }
+  }
+ },
+ {
+  "id": "s1",
+  "title": "Breaking Bad",
+  "ours": {
+   "totalEps": 62,
+   "avgMin": 47,
+   "epsWatched": 62,
+   "y0": "2008",
+   "y1": "2013",
+   "seasons": [
+    7,
+    13,
+    13,
+    13,
+    16
+   ],
+   "tmdb": 1396,
+   "creators": [
+    "Vince Gilligan"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Aaron Hill', 'Harry Groener']; TMDB top: ['Bryan Cranston', 'Aaron Paul', 'Anna Gunn', 'RJ Mitte', 'Dean Norris', 'Betsy Brandt', 'Bob Odenkirk', 'Jonathan Banks']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Giancarlo Esposito']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Breaking Bad",
+    "orig": "Breaking Bad",
+    "first": 2008,
+    "last": 2013,
+    "status": "Ended",
+    "eps": 62,
+    "seasons": [
+     7,
+     13,
+     13,
+     13,
+     16
+    ],
+    "creators": [
+     "Vince Gilligan"
+    ],
+    "imdb": "tt0903747"
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2008,
+    "end": 2013,
+    "eps": 62
+   }
+  }
+ },
+ {
+  "id": "s2",
+  "title": "The 100",
+  "ours": {
+   "totalEps": 100,
+   "avgMin": 43,
+   "epsWatched": 87,
+   "y0": "2014",
+   "y1": "2020",
+   "seasons": [
+    13,
+    16,
+    16,
+    13,
+    13,
+    13,
+    16
+   ],
+   "tmdb": 48866,
+   "creators": [
+    "Jason Rothenberg"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "The 100",
+    "orig": "The 100",
+    "first": 2014,
+    "last": 2020,
+    "status": "Ended",
+    "eps": 100,
+    "seasons": [
+     13,
+     16,
+     16,
+     13,
+     13,
+     13,
+     16
+    ],
+    "creators": [
+     "Jason Rothenberg"
+    ],
+    "imdb": "tt2661044"
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2014,
+    "end": 2020,
+    "eps": 100
+   }
+  }
+ },
+ {
+  "id": "s3",
+  "title": "Prison Break",
+  "ours": {
+   "totalEps": 89,
+   "avgMin": 44,
+   "epsWatched": 90,
+   "y0": "2005",
+   "y1": "2017",
+   "seasons": [
+    22,
+    22,
+    13,
+    23,
+    9
+   ],
+   "tmdb": 2288,
+   "creators": [
+    "Paul Scheuring"
+   ]
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Completata ma visti 90/89"
+   ],
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [22, 22, 13, 23, 9]; TMDB [22, 22, 13, 22, 9]"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 89; TMDB 88, IMDb 90"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Prison Break",
+    "orig": "Prison Break",
+    "first": 2005,
+    "last": 2017,
+    "status": "Ended",
+    "eps": 88,
+    "seasons": [
+     22,
+     22,
+     13,
+     22,
+     9
+    ],
+    "creators": [
+     "Paul T. Scheuring"
+    ],
+    "imdb": "tt0455275"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2005,
+    "end": 2017,
+    "eps": 90
+   }
+  }
+ },
+ {
+  "id": "s4",
+  "title": "Friends",
+  "ours": {
+   "totalEps": 234,
+   "avgMin": 22,
+   "epsWatched": 235,
+   "y0": "1994",
+   "y1": "2004",
+   "seasons": [
+    24,
+    24,
+    25,
+    24,
+    24,
+    25,
+    24,
+    24,
+    23,
+    17
+   ],
+   "tmdb": 1668,
+   "creators": [
+    "David Crane",
+    "Marta Kauffman"
+   ]
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Completata ma visti 235/234"
+   ],
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [24, 24, 25, 24, 24, 25, 24, 24, 23, 17]; TMDB [24, 24, 25, 23, 23, 23, 23, 23, 23, 17]"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Steve Zahn', 'Michael McKean', 'Jana Marie Hupp', 'Carlo Imperato', 'Brittney Powell', 'Lea Thompson']; TMDB top: ['Jennifer Aniston', 'Courteney Cox', 'Lisa Kudrow', 'Matt LeBlanc', 'Matthew Perry', 'David Schwimmer', 'James Michael Tyler', 'Elliott Gould']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Friends",
+    "orig": "Friends",
+    "first": 1994,
+    "last": 2004,
+    "status": "Ended",
+    "eps": 228,
+    "seasons": [
+     24,
+     24,
+     25,
+     23,
+     23,
+     23,
+     23,
+     23,
+     23,
+     17
+    ],
+    "creators": [
+     "Marta Kauffman",
+     "David Crane"
+    ],
+    "imdb": "tt0108778"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1994,
+    "end": 2004,
+    "eps": 234
+   }
+  }
+ },
+ {
+  "id": "s5",
+  "title": "The Last Dance",
+  "ours": {
+   "totalEps": 10,
+   "avgMin": 50,
+   "epsWatched": 10,
+   "y0": "2020",
+   "y1": "",
+   "seasons": [
+    10
+   ],
+   "tmdb": 79525,
+   "creators": [
+    "Jason Hehir"
+   ]
+  },
+  "flags": [
+   [
+    "CREATORI",
+    "Nostri ['Jason Hehir']; TMDB ['Michael Tollin']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The Last Dance",
+    "orig": "The Last Dance",
+    "first": 2020,
+    "last": 2020,
+    "status": "Ended",
+    "eps": 10,
+    "seasons": [
+     10
+    ],
+    "creators": [
+     "Michael Tollin"
+    ],
+    "imdb": "tt8420184"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2020,
+    "end": 2020,
+    "eps": 10
+   }
+  }
+ },
+ {
+  "id": "s6",
+  "title": "Game of Thrones",
+  "ours": {
+   "totalEps": 73,
+   "avgMin": 57,
+   "epsWatched": 74,
+   "y0": "2011",
+   "y1": "2019",
+   "seasons": [
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    7,
+    6
+   ],
+   "tmdb": 1399,
+   "creators": [
+    "David Benioff",
+    "D.B. Weiss"
+   ]
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Completata ma visti 74/73"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Sean Bean', 'Mark Addy', 'Richard Madden', 'Michelle Fairley']; TMDB top: ['Peter Dinklage', 'Kit Harington', 'Nikolaj Coster-Waldau', 'Lena Headey', 'Emilia Clarke', 'Maisie Williams', 'Isaac Hempstead Wright', 'Sophie Turner']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Il Trono di Spade",
+    "orig": "Game of Thrones",
+    "first": 2011,
+    "last": 2019,
+    "status": "Ended",
+    "eps": 73,
+    "seasons": [
+     10,
+     10,
+     10,
+     10,
+     10,
+     10,
+     7,
+     6
+    ],
+    "creators": [
+     "David Benioff",
+     "D. B. Weiss"
+    ],
+    "imdb": "tt0944947"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2011,
+    "end": 2019,
+    "eps": 74
+   }
+  }
+ },
+ {
+  "id": "s7",
+  "title": "La casa di carta",
+  "ours": {
+   "totalEps": 41,
+   "avgMin": 45,
+   "epsWatched": 41,
+   "y0": "2017",
+   "y1": "2021",
+   "seasons": [
+    9,
+    6,
+    8,
+    8,
+    10
+   ],
+   "tmdb": 71446,
+   "creators": [
+    "Álex Pina"
+   ]
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [9, 6, 8, 8, 10]; TMDB [15, 16, 10]"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Rodrigo de la Serna']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "La casa di carta",
+    "orig": "La casa de papel",
+    "first": 2017,
+    "last": 2021,
+    "status": "Ended",
+    "eps": 41,
+    "seasons": [
+     15,
+     16,
+     10
+    ],
+    "creators": [
+     "Álex Pina"
+    ],
+    "imdb": "tt6468322"
+   },
+   "poster_dist": 13,
+   "imdb": {
+    "year": 2017,
+    "end": 2021,
+    "eps": 41
+   }
+  }
+ },
+ {
+  "id": "s8",
+  "title": "Better Call Saul",
+  "ours": {
+   "totalEps": 63,
+   "avgMin": 47,
+   "epsWatched": 63,
+   "y0": "2015",
+   "y1": "2022",
+   "seasons": [
+    10,
+    10,
+    10,
+    10,
+    10,
+    13
+   ],
+   "tmdb": 60059,
+   "creators": [
+    "Vince Gilligan",
+    "Peter Gould"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Alex Désert', 'Elisha Yaffe', 'Chris Mulkey', 'Jim Beaver']; TMDB top: ['Bob Odenkirk', 'Jonathan Banks', 'Rhea Seehorn', 'Patrick Fabian', 'Michael Mando', 'Giancarlo Esposito', 'Michael McKean', 'Tony Dalton']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Giancarlo Esposito']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Better Call Saul",
+    "orig": "Better Call Saul",
+    "first": 2015,
+    "last": 2022,
+    "status": "Ended",
+    "eps": 63,
+    "seasons": [
+     10,
+     10,
+     10,
+     10,
+     10,
+     13
+    ],
+    "creators": [
+     "Vince Gilligan",
+     "Peter Gould"
+    ],
+    "imdb": "tt3032476"
+   },
+   "poster_dist": 14,
+   "imdb": {
+    "year": 2015,
+    "end": 2022,
+    "eps": 63
+   }
+  }
+ },
+ {
+  "id": "s9",
+  "title": "Dexter",
+  "ours": {
+   "totalEps": 96,
+   "avgMin": 50,
+   "epsWatched": 96,
+   "y0": "2006",
+   "y1": "2013",
+   "seasons": [
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12
+   ],
+   "tmdb": 1405,
+   "creators": [
+    "James Manos Jr."
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Julia Stiles']; TMDB top: ['Michael C. Hall', 'Jennifer Carpenter', 'David Zayas', 'James Remar', 'C.S. Lee', 'Luna Lauren Vélez', 'Desmond Harrington', 'Julie Benz']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Dexter",
+    "orig": "Dexter",
+    "first": 2006,
+    "last": 2013,
+    "status": "Ended",
+    "eps": 96,
+    "seasons": [
+     12,
+     12,
+     12,
+     12,
+     12,
+     12,
+     12,
+     12
+    ],
+    "creators": [
+     "James Manos Jr."
+    ],
+    "imdb": "tt0773262"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2006,
+    "end": 2013,
+    "eps": 96
+   }
+  }
+ },
+ {
+  "id": "s10",
+  "title": "Lost",
+  "ours": {
+   "totalEps": 115,
+   "avgMin": 42,
+   "epsWatched": 121,
+   "y0": "2004",
+   "y1": "2010",
+   "seasons": [
+    24,
+    23,
+    22,
+    13,
+    16,
+    17
+   ],
+   "tmdb": 4607,
+   "creators": [
+    "J.J. Abrams",
+    "Damon Lindelof",
+    "Jeffrey Lieber"
+   ]
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Completata ma visti 121/115"
+   ],
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [24, 23, 22, 13, 16, 17]; TMDB [24, 24, 23, 13, 17, 17]"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Evangeline Lilly']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 115; TMDB 118, IMDb 121"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Lost",
+    "orig": "Lost",
+    "first": 2004,
+    "last": 2010,
+    "status": "Ended",
+    "eps": 118,
+    "seasons": [
+     24,
+     24,
+     23,
+     13,
+     17,
+     17
+    ],
+    "creators": [
+     "J.J. Abrams",
+     "Damon Lindelof",
+     "Jeffrey Lieber"
+    ],
+    "imdb": "tt0411008"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2004,
+    "end": 2010,
+    "eps": 121
+   }
+  }
+ },
+ {
+  "id": "s11",
+  "title": "Band of Brothers",
+  "ours": {
+   "totalEps": 10,
+   "avgMin": 55,
+   "epsWatched": 10,
+   "y0": "2001",
+   "y1": "",
+   "seasons": [
+    10
+   ],
+   "tmdb": 4613,
+   "creators": [
+    "Tom Hanks",
+    "Steven Spielberg"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Andrew-Lee Potts', 'Marc Warren', 'Paul Herzberg', 'William Armstrong']; TMDB top: ['Michael Cudlitz', 'Rick Gomez', 'Scott Grimes', 'Damian Lewis', 'Ron Livingston', 'James Madio', 'Neal McDonough', 'Donnie Wahlberg']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Band of Brothers - Fratelli al fronte",
+    "orig": "Band of Brothers",
+    "first": 2001,
+    "last": 2001,
+    "status": "Ended",
+    "eps": 10,
+    "seasons": [
+     10
+    ],
+    "creators": [],
+    "imdb": "tt0185906"
+   },
+   "poster_dist": 3,
+   "imdb": {
+    "year": 2001,
+    "end": 2001,
+    "eps": 10
+   }
+  }
+ },
+ {
+  "id": "s12",
+  "title": "Chernobyl",
+  "ours": {
+   "totalEps": 5,
+   "avgMin": 58,
+   "epsWatched": 5,
+   "y0": "2019",
+   "y1": "",
+   "seasons": [
+    5
+   ],
+   "tmdb": 87108,
+   "creators": [
+    "Craig Mazin"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "Chernobyl",
+    "orig": "Chernobyl",
+    "first": 2019,
+    "last": 2019,
+    "status": "Ended",
+    "eps": 5,
+    "seasons": [
+     5
+    ],
+    "creators": [
+     "Craig Mazin"
+    ],
+    "imdb": "tt7366338"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2019,
+    "end": 2019,
+    "eps": 5
+   }
+  }
+ },
+ {
+  "id": "s13",
+  "title": "Squid Game",
+  "ours": {
+   "totalEps": 15,
+   "avgMin": 33,
+   "epsWatched": 22,
+   "y0": "2021",
+   "y1": "2025",
+   "seasons": [
+    9,
+    6
+   ],
+   "tmdb": 93405,
+   "creators": [
+    "Hwang Dong-hyuk"
+   ]
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Completata ma visti 22/15"
+   ],
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [9, 6]; TMDB [9, 7, 6]"
+   ],
+   [
+    "CREATORI",
+    "Nostri ['Hwang Dong-hyuk']; TMDB ['황동혁']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['임시완', '위하준', '조유리', 'Lee Byung-hun', '정호연', '박규영', '박해수', '이진욱', '양동근', '박성훈']"
+   ],
+   [
+    "PERSONAGGIO",
+    "[\"임시완: 'Lee Myung-gi / Player 333' vs ['Jang Deok-su / Player 101']\", \"위하준: 'Detective Hwang Jun-ho' vs ['Jang Deok-su / Player 101']\", \"조유리: 'Kim Jun-hee / Player 222' vs ['Jang Deok-su / Player 101']\", \"박규영: 'Kang No-eul / Guard 011' vs ['Jang Deok-su / Player 101']\", \"양동근: 'Park Yong-sik / Player 007' vs ['Jang Deok-su / Player 101']\"]"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 15; TMDB 22, IMDb 22"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Squid Game",
+    "orig": "오징어 게임",
+    "first": 2021,
+    "last": 2025,
+    "status": "Ended",
+    "eps": 22,
+    "seasons": [
+     9,
+     7,
+     6
+    ],
+    "creators": [
+     "황동혁"
+    ],
+    "imdb": "tt10919420"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2021,
+    "end": 2025,
+    "eps": 22
+   }
+  }
+ },
+ {
+  "id": "s14",
+  "title": "Peaky Blinders",
+  "ours": {
+   "totalEps": 36,
+   "avgMin": 55,
+   "epsWatched": 36,
+   "y0": "2013",
+   "y1": "2022",
+   "seasons": [
+    6,
+    6,
+    6,
+    6,
+    6,
+    6
+   ],
+   "tmdb": 60574,
+   "creators": [
+    "Steven Knight"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Dave Simon']; TMDB top: ['Cillian Murphy', 'Paul Anderson', 'Sophie Rundle', 'Helen McCrory', 'Finn Cole', 'Ian Peck', 'Ned Dennehy', \"Natasha O'Keeffe\"]"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Peaky Blinders",
+    "orig": "Peaky Blinders",
+    "first": 2013,
+    "last": 2022,
+    "status": "Ended",
+    "eps": 36,
+    "seasons": [
+     6,
+     6,
+     6,
+     6,
+     6,
+     6
+    ],
+    "creators": [
+     "Steven Knight"
+    ],
+    "imdb": "tt2442560"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2013,
+    "end": 2022,
+    "eps": 36
+   }
+  }
+ },
+ {
+  "id": "s15",
+  "title": "The Expanse",
+  "ours": {
+   "totalEps": 62,
+   "avgMin": 48,
+   "epsWatched": 37,
+   "y0": "2015",
+   "y1": "2022",
+   "seasons": [
+    10,
+    13,
+    13,
+    10,
+    10,
+    6
+   ],
+   "tmdb": 63639,
+   "creators": [
+    "Mark Fergus",
+    "Hawk Ostby"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Paulo Costanzo', 'Sara Mitich']; TMDB top: ['Steven Strait', 'Dominique Tipper', 'Wes Chatham', 'Shohreh Aghdashloo', 'Cas Anvar', 'Frankie Adams', 'Cara Gee', 'Shawn Doyle']"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 63639 (The Expanse 2015), distanza 18. Candidati: [(18, 63639, 'The Expanse', '2015'), (24, 155655, 'The Expanse: One Ship', '2021'), (30, 127337, 'Bridging the Expanse', '2019')]"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The Expanse",
+    "orig": "The Expanse",
+    "first": 2015,
+    "last": 2022,
+    "status": "Ended",
+    "eps": 62,
+    "seasons": [
+     10,
+     13,
+     13,
+     10,
+     10,
+     6
+    ],
+    "creators": [
+     "Mark Fergus",
+     "Hawk Ostby"
+    ],
+    "imdb": "tt3230854"
+   },
+   "poster_dist": 18,
+   "imdb": {
+    "year": 2015,
+    "end": 2022,
+    "eps": 62
+   }
+  }
+ },
+ {
+  "id": "s16",
+  "title": "The Punisher",
+  "ours": {
+   "totalEps": 26,
+   "avgMin": 45,
+   "epsWatched": 26,
+   "y0": "2017",
+   "y1": "2019",
+   "seasons": [
+    13,
+    13
+   ],
+   "tmdb": 67178,
+   "creators": [
+    "Steve Lightfoot"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "Marvel's The Punisher",
+    "orig": "Marvel's The Punisher",
+    "first": 2017,
+    "last": 2019,
+    "status": "Canceled",
+    "eps": 26,
+    "seasons": [
+     13,
+     13
+    ],
+    "creators": [
+     "Steve Lightfoot"
+    ],
+    "imdb": "tt5675620"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2017,
+    "end": 2019,
+    "eps": 26
+   }
+  }
+ },
+ {
+  "id": "s17",
+  "title": "Lost in Space",
+  "ours": {
+   "totalEps": 28,
+   "avgMin": 46,
+   "epsWatched": 28,
+   "y0": "2018",
+   "y1": "2021",
+   "seasons": [
+    10,
+    10,
+    8
+   ],
+   "tmdb": 75758,
+   "creators": [
+    "Zack Estrin",
+    "Matt Sazama",
+    "Burk Sharpless"
+   ]
+  },
+  "flags": [
+   [
+    "CREATORI",
+    "Nostri ['Zack Estrin', 'Matt Sazama', 'Burk Sharpless']; TMDB ['Irwin Allen']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Lost in Space",
+    "orig": "Lost in Space",
+    "first": 2018,
+    "last": 2021,
+    "status": "Ended",
+    "eps": 28,
+    "seasons": [
+     10,
+     10,
+     8
+    ],
+    "creators": [
+     "Irwin Allen"
+    ],
+    "imdb": "tt5232792"
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2018,
+    "end": 2021,
+    "eps": 28
+   }
+  }
+ },
+ {
+  "id": "s18",
+  "title": "Umbrella Academy",
+  "ours": {
+   "totalEps": 36,
+   "avgMin": 46,
+   "epsWatched": 20,
+   "y0": "2019",
+   "y1": "2024",
+   "seasons": [
+    10,
+    10,
+    10,
+    6
+   ],
+   "tmdb": 75006,
+   "creators": [
+    "Steve Blackman"
+   ]
+  },
+  "flags": [
+   [
+    "GENERI",
+    "Nostri ['Fantascienza', 'Commedia', 'Azione']; TMDB ['Action & Adventure', 'Sci-Fi & Fantasy', 'Dramma']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The Umbrella Academy",
+    "orig": "The Umbrella Academy",
+    "first": 2019,
+    "last": 2024,
+    "status": "Ended",
+    "eps": 36,
+    "seasons": [
+     10,
+     10,
+     10,
+     6
+    ],
+    "creators": [
+     "Steve Blackman"
+    ],
+    "imdb": "tt1312171"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2019,
+    "end": 2024,
+    "eps": 36
+   }
+  }
+ },
+ {
+  "id": "s19",
+  "title": "The Office",
+  "ours": {
+   "totalEps": 196,
+   "avgMin": 22,
+   "epsWatched": 29,
+   "y0": "2005",
+   "y1": "2013",
+   "seasons": [
+    6,
+    22,
+    25,
+    14,
+    28,
+    26,
+    26,
+    24,
+    25
+   ],
+   "tmdb": 2316,
+   "creators": [
+    "Greg Daniels",
+    "Ricky Gervais",
+    "Stephen Merchant"
+   ]
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [6, 22, 25, 14, 28, 26, 26, 24, 25]; TMDB [6, 22, 23, 14, 26, 24, 24, 24, 23]"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Ellie Kemper']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 196; TMDB 186, IMDb 191"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The Office (US)",
+    "orig": "The Office",
+    "first": 2005,
+    "last": 2013,
+    "status": "Ended",
+    "eps": 186,
+    "seasons": [
+     6,
+     22,
+     23,
+     14,
+     26,
+     24,
+     24,
+     24,
+     23
+    ],
+    "creators": [
+     "Greg Daniels"
+    ],
+    "imdb": "tt0386676"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2005,
+    "end": 2013,
+    "eps": 191
+   }
+  }
+ },
+ {
+  "id": "s20",
+  "title": "Happy Days",
+  "ours": {
+   "totalEps": 247,
+   "avgMin": 25,
+   "epsWatched": 255,
+   "y0": "1974",
+   "y1": "1984",
+   "seasons": [
+    16,
+    23,
+    23,
+    23,
+    27,
+    27,
+    25,
+    22,
+    22,
+    22,
+    17
+   ],
+   "tmdb": 3845,
+   "creators": [
+    "Garry Marshall"
+   ]
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Completata ma visti 255/247"
+   ],
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [16, 23, 23, 23, 27, 27, 25, 22, 22, 22, 17]; TMDB [16, 23, 23, 24, 26, 27, 25, 22, 22, 22, 22]"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 247; TMDB 252, IMDb 255"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Happy Days",
+    "orig": "Happy Days",
+    "first": 1974,
+    "last": 1984,
+    "status": "Ended",
+    "eps": 252,
+    "seasons": [
+     16,
+     23,
+     23,
+     24,
+     26,
+     27,
+     25,
+     22,
+     22,
+     22,
+     22
+    ],
+    "creators": [
+     "Garry Marshall"
+    ],
+    "imdb": "tt0070992"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 1974,
+    "end": 1984,
+    "eps": 255
+   }
+  }
+ },
+ {
+  "id": "s21",
+  "title": "I Robinson",
+  "ours": {
+   "totalEps": 201,
+   "avgMin": 25,
+   "epsWatched": 197,
+   "y0": "1984",
+   "y1": "1992",
+   "seasons": [
+    24,
+    25,
+    25,
+    24,
+    26,
+    26,
+    26,
+    25
+   ],
+   "tmdb": 1759,
+   "creators": [
+    "Matt Groening"
+   ]
+  },
+  "flags": [
+   [
+    "COERENZA",
+    "Completata ma visti 197/201"
+   ],
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [24, 25, 25, 24, 26, 26, 26, 25]; TMDB [24, 25, 25, 23, 25, 26, 25, 24]"
+   ],
+   [
+    "CREATORI",
+    "Nostri ['Matt Groening']; TMDB ['Bill Cosby', 'Michael J. Leeson', 'Ed. Weinberger']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 201; TMDB 197, IMDb 197"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "I Robinson",
+    "orig": "The Cosby Show",
+    "first": 1984,
+    "last": 1992,
+    "status": "Ended",
+    "eps": 197,
+    "seasons": [
+     24,
+     25,
+     25,
+     23,
+     25,
+     26,
+     25,
+     24
+    ],
+    "creators": [
+     "Bill Cosby",
+     "Michael J. Leeson",
+     "Ed. Weinberger"
+    ],
+    "imdb": "tt0086687"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1984,
+    "end": 1992,
+    "eps": 197
+   }
+  }
+ },
+ {
+  "id": "s22",
+  "title": "Vis a Vis",
+  "ours": {
+   "totalEps": 48,
+   "avgMin": 50,
+   "epsWatched": 40,
+   "y0": "2015",
+   "y1": "2020",
+   "seasons": [
+    11,
+    13,
+    8,
+    8,
+    8
+   ],
+   "tmdb": 62455,
+   "creators": [
+    "Iván Escobar",
+    "Álex Pina"
+   ]
+  },
+  "flags": [
+   [
+    "ANNO_FINE",
+    "Nostro 2020; TMDB 2019 (serie Ended)"
+   ],
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [11, 13, 8, 8, 8]; TMDB [11, 13, 8, 8]"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 62455 (Vis a vis - Il prezzo del riscatto 2015), distanza 24. Candidati: [(20, 255868, 'Dream Productions', '2024'), (23, 45871, 'Locked Up: The Oasis', '2020'), (23, 327572, 'Simona Halep: The Story of a Dream', '2026')]"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Vis a vis - Il prezzo del riscatto",
+    "orig": "Vis a vis",
+    "first": 2015,
+    "last": 2019,
+    "status": "Ended",
+    "eps": 40,
+    "seasons": [
+     11,
+     13,
+     8,
+     8
+    ],
+    "creators": [
+     "Álex Pina",
+     "Daniel Écija",
+     "Iván Escobar",
+     "Esther Martínez Lobato"
+    ],
+    "imdb": "tt4524056"
+   },
+   "poster_dist": 24,
+   "imdb": {
+    "year": 2015,
+    "end": 2020,
+    "eps": 48
+   }
+  }
+ },
+ {
+  "id": "s23",
+  "title": "Sex Education",
+  "ours": {
+   "totalEps": 32,
+   "avgMin": 45,
+   "epsWatched": 24,
+   "y0": "2019",
+   "y1": "2023",
+   "seasons": [
+    8,
+    8,
+    8,
+    8
+   ],
+   "tmdb": 81356,
+   "creators": [
+    "Laurie Nunn"
+   ]
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Mimi Keene', 'Tanya Reynolds']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Sex Education",
+    "orig": "Sex Education",
+    "first": 2019,
+    "last": 2023,
+    "status": "Ended",
+    "eps": 32,
+    "seasons": [
+     8,
+     8,
+     8,
+     8
+    ],
+    "creators": [
+     "Laurie Nunn"
+    ],
+    "imdb": "tt7767422"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2019,
+    "end": 2023,
+    "eps": 32
+   }
+  }
+ },
+ {
+  "id": "s24",
+  "title": "Succession",
+  "ours": {
+   "totalEps": 39,
+   "avgMin": 55,
+   "epsWatched": 14,
+   "y0": "2018",
+   "y1": "2023",
+   "seasons": [
+    10,
+    10,
+    9,
+    10
+   ],
+   "tmdb": 76331,
+   "creators": [
+    "Jesse Armstrong"
+   ]
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Dagmara Dominczyk']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Succession",
+    "orig": "Succession",
+    "first": 2018,
+    "last": 2023,
+    "status": "Ended",
+    "eps": 39,
+    "seasons": [
+     10,
+     10,
+     9,
+     10
+    ],
+    "creators": [
+     "Jesse Armstrong"
+    ],
+    "imdb": "tt7660850"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2018,
+    "end": 2023,
+    "eps": 39
+   }
+  }
+ },
+ {
+  "id": "s25",
+  "title": "Ragnarok",
+  "ours": {
+   "totalEps": 18,
+   "avgMin": 44,
+   "epsWatched": 8,
+   "y0": "2020",
+   "y1": "2023",
+   "seasons": [
+    6,
+    6,
+    6
+   ],
+   "tmdb": 91557,
+   "creators": [
+    "Adam Price"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Markus Tønseth']; TMDB top: ['David Alexander Sjøholt', 'Jonas Strand Gravli', 'Herman Tømmeraas', 'Theresa Frostad Eggesbø', 'Henriette Steenstrup', 'Synnøve Macody Lund', 'Odd-Magnus Williamson', 'Gísli Örn Garðarsson']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Ragnarok",
+    "orig": "Ragnarok",
+    "first": 2020,
+    "last": 2023,
+    "status": "Ended",
+    "eps": 18,
+    "seasons": [
+     6,
+     6,
+     6
+    ],
+    "creators": [
+     "Adam Price",
+     "Emilie Lebech Kaae"
+    ],
+    "imdb": "tt9251798"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2020,
+    "end": 2023,
+    "eps": 18
+   }
+  }
+ },
+ {
+  "id": "s26",
+  "title": "13 Reasons Why",
+  "ours": {
+   "totalEps": 49,
+   "avgMin": 47,
+   "epsWatched": 7,
+   "y0": "2017",
+   "y1": "2020",
+   "seasons": [
+    13,
+    13,
+    13,
+    10
+   ],
+   "tmdb": 66788,
+   "creators": [
+    "Brian Yorkey"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "Tredici",
+    "orig": "13 Reasons Why",
+    "first": 2017,
+    "last": 2020,
+    "status": "Ended",
+    "eps": 49,
+    "seasons": [
+     13,
+     13,
+     13,
+     10
+    ],
+    "creators": [
+     "Brian Yorkey",
+     "Jay Asher"
+    ],
+    "imdb": "tt1837492"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2017,
+    "end": 2020,
+    "eps": 49
+   }
+  }
+ },
+ {
+  "id": "s27",
+  "title": "Elite",
+  "ours": {
+   "totalEps": 64,
+   "avgMin": 44,
+   "epsWatched": 14,
+   "y0": "2018",
+   "y1": "2024",
+   "seasons": [
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8
+   ],
+   "tmdb": 76669,
+   "creators": [
+    "Carlos Montero",
+    "Darío Madrona"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['María Pedraza', 'Miguel Herrán']; TMDB top: ['Omar Ayuso', 'Itzan Escamilla', 'Valentina Zenere', 'André Lamoglia', 'Miguel Bernardeau', 'Arón Piper', 'Georgina Amorós', 'Claudia Salas']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Ester Expósito']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Élite",
+    "orig": "Élite",
+    "first": 2018,
+    "last": 2024,
+    "status": "Ended",
+    "eps": 64,
+    "seasons": [
+     8,
+     8,
+     8,
+     8,
+     8,
+     8,
+     8,
+     8
+    ],
+    "creators": [
+     "Darío Madrona",
+     "Carlos Montero"
+    ],
+    "imdb": "tt7134908"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2018,
+    "end": 2024,
+    "eps": 64
+   }
+  }
+ },
+ {
+  "id": "s28",
+  "title": "Rick and Morty",
+  "ours": {
+   "totalEps": 81,
+   "avgMin": 22,
+   "epsWatched": 20,
+   "y0": "2013",
+   "y1": "",
+   "seasons": [
+    11,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10
+   ],
+   "tmdb": 60625,
+   "creators": [
+    "Justin Roiland",
+    "Dan Harmon"
+   ]
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [11, 10, 10, 10, 10, 10, 10, 10]; TMDB [11, 10, 10, 10, 10, 10, 10, 10, 10] (serie in corso)"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Lil Pump', 'Dana Carvey', 'John Oliver', 'Werner Herzog', 'Stephen Colbert', 'Nathan Fillion']; TMDB top: ['Chris Parnell', 'Spencer Grammer', 'Sarah Chalke', 'Justin Roiland', 'Kari Wahlgren', 'Tom Kenny', 'Ryan Ridley', 'Dan Harmon']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 81; TMDB 91, IMDb 94"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Rick and Morty",
+    "orig": "Rick and Morty",
+    "first": 2013,
+    "last": 2026,
+    "status": "Returning Series",
+    "eps": 91,
+    "seasons": [
+     11,
+     10,
+     10,
+     10,
+     10,
+     10,
+     10,
+     10,
+     10
+    ],
+    "creators": [
+     "Dan Harmon",
+     "Justin Roiland"
+    ],
+    "imdb": "tt2861424"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2013,
+    "end": null,
+    "eps": 94
+   }
+  }
+ },
+ {
+  "id": "s29",
+  "title": "Lucifer",
+  "ours": {
+   "totalEps": 91,
+   "avgMin": 44,
+   "epsWatched": 3,
+   "y0": "2016",
+   "y1": "2021",
+   "seasons": [
+    13,
+    18,
+    24,
+    10,
+    16,
+    10
+   ],
+   "tmdb": 63174,
+   "creators": [
+    "Tom Kapinos"
+   ]
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [13, 18, 24, 10, 16, 10]; TMDB [13, 18, 26, 10, 16, 10]"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Jon Sklaroff']; TMDB top: ['Tom Ellis', 'Lauren German', 'Kevin Alejandro', 'D. B. Woodside', 'Lesley-Ann Brandt', 'Rachael Harris', 'Aimee Garcia', 'Scarlett Estevez']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Tom Welling']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 91; TMDB 93, IMDb 93"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Lucifer",
+    "orig": "Lucifer",
+    "first": 2016,
+    "last": 2021,
+    "status": "Ended",
+    "eps": 93,
+    "seasons": [
+     13,
+     18,
+     26,
+     10,
+     16,
+     10
+    ],
+    "creators": [
+     "Tom Kapinos"
+    ],
+    "imdb": "tt4052886"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2016,
+    "end": 2021,
+    "eps": 93
+   }
+  }
+ },
+ {
+  "id": "s30",
+  "title": "Sherlock",
+  "ours": {
+   "totalEps": 12,
+   "avgMin": 88,
+   "epsWatched": 2,
+   "y0": "2010",
+   "y1": "2017",
+   "seasons": [
+    3,
+    3,
+    3,
+    3
+   ],
+   "tmdb": 19885,
+   "creators": [
+    "Steven Moffat",
+    "Mark Gatiss"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "Sherlock",
+    "orig": "Sherlock",
+    "first": 2010,
+    "last": 2017,
+    "status": "Ended",
+    "eps": 12,
+    "seasons": [
+     3,
+     3,
+     3,
+     3
+    ],
+    "creators": [
+     "Mark Gatiss",
+     "Steven Moffat"
+    ],
+    "imdb": "tt1475582"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2010,
+    "end": 2017,
+    "eps": 15
+   }
+  }
+ },
+ {
+  "id": "s31",
+  "title": "How I Met Your Mother",
+  "ours": {
+   "totalEps": 205,
+   "avgMin": 22,
+   "epsWatched": 0,
+   "y0": "2005",
+   "y1": "2014",
+   "seasons": [
+    22,
+    22,
+    20,
+    24,
+    24,
+    24,
+    23,
+    23,
+    23
+   ],
+   "tmdb": 1100,
+   "creators": [
+    "Carter Bays",
+    "Craig Thomas"
+   ]
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [22, 22, 20, 24, 24, 24, 23, 23, 23]; TMDB [22, 22, 20, 24, 24, 24, 24, 24, 24]"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Abby Elliott']; TMDB top: ['Josh Radnor', 'Neil Patrick Harris', 'Jason Segel', 'Alyson Hannigan', 'Cobie Smulders', 'Lyndsy Fonseca', 'David Henrie', 'Cristin Milioti']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 205; TMDB 208, IMDb 208"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "How I Met Your Mother",
+    "orig": "How I Met Your Mother",
+    "first": 2005,
+    "last": 2014,
+    "status": "Ended",
+    "eps": 208,
+    "seasons": [
+     22,
+     22,
+     20,
+     24,
+     24,
+     24,
+     24,
+     24,
+     24
+    ],
+    "creators": [
+     "Craig Thomas",
+     "Carter Bays"
+    ],
+    "imdb": "tt0460649"
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2005,
+    "end": 2014,
+    "eps": 208
+   }
+  }
+ },
+ {
+  "id": "s32",
+  "title": "The Walking Dead",
+  "ours": {
+   "totalEps": 177,
+   "avgMin": 22,
+   "epsWatched": 0,
+   "y0": "2010",
+   "y1": "2022",
+   "seasons": [
+    6,
+    13,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    22,
+    24
+   ],
+   "tmdb": 1402,
+   "creators": [
+    "Frank Darabont"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Jon Bernthal', 'David Morrissey', 'Jeffrey DeMunn', 'Sarah Wayne Callies']; TMDB top: ['Norman Reedus', 'Melissa McBride', 'Lauren Cohan', 'Danai Gurira', 'Andrew Lincoln', 'Christian Serratos', 'Josh McDermitt', 'Chandler Riggs']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The Walking Dead",
+    "orig": "The Walking Dead",
+    "first": 2010,
+    "last": 2022,
+    "status": "Ended",
+    "eps": 177,
+    "seasons": [
+     6,
+     13,
+     16,
+     16,
+     16,
+     16,
+     16,
+     16,
+     16,
+     22,
+     24
+    ],
+    "creators": [
+     "Frank Darabont"
+    ],
+    "imdb": "tt1520211"
+   },
+   "poster_dist": 16,
+   "imdb": {
+    "year": 2010,
+    "end": 2022,
+    "eps": 177
+   }
+  }
+ },
+ {
+  "id": "s34",
+  "title": "WandaVision",
+  "ours": {
+   "totalEps": 9,
+   "avgMin": 37,
+   "epsWatched": 0,
+   "y0": "2021",
+   "y1": "",
+   "seasons": [
+    9
+   ],
+   "tmdb": 85271,
+   "creators": [
+    "Jac Schaeffer"
+   ]
+  },
+  "flags": [
+   [
+    "GENERI",
+    "Nostri ['Fantascienza', 'Fantasy', 'Commedia']; TMDB ['Sci-Fi & Fantasy', 'Mistero', 'Dramma']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Eric Delgado', 'Randy Oglesby', 'Rose Bianco', 'Lana Young', 'Sam Younis']; TMDB top: ['Elizabeth Olsen', 'Paul Bettany', 'Kathryn Hahn', 'Teyonah Parris', 'Randall Park', 'Kat Dennings', 'Amos Glick', 'David Payton']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Elizabeth Olsen', 'Randall Park']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "WandaVision",
+    "orig": "WandaVision",
+    "first": 2021,
+    "last": 2021,
+    "status": "Ended",
+    "eps": 9,
+    "seasons": [
+     9
+    ],
+    "creators": [
+     "Jac Schaeffer"
+    ],
+    "imdb": "tt9140560"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2021,
+    "end": 2021,
+    "eps": 9
+   }
+  }
+ },
+ {
+  "id": "s35",
+  "title": "Narcos",
+  "ours": {
+   "totalEps": 30,
+   "avgMin": 45,
+   "epsWatched": 0,
+   "y0": "2015",
+   "y1": "2017",
+   "seasons": [
+    10,
+    10,
+    10
+   ],
+   "tmdb": 63351,
+   "creators": [
+    "Chris Brancato",
+    "Carlo Bernard",
+    "Doug Miro"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "Narcos",
+    "orig": "Narcos",
+    "first": 2015,
+    "last": 2017,
+    "status": "Ended",
+    "eps": 30,
+    "seasons": [
+     10,
+     10,
+     10
+    ],
+    "creators": [
+     "Chris Brancato",
+     "Doug Miro",
+     "Carlo Bernard"
+    ],
+    "imdb": "tt2707408"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2015,
+    "end": 2017,
+    "eps": 30
+   }
+  }
+ },
+ {
+  "id": "s36",
+  "title": "Mad Men",
+  "ours": {
+   "totalEps": 90,
+   "avgMin": 45,
+   "epsWatched": 0,
+   "y0": "2007",
+   "y1": "2015",
+   "seasons": [
+    13,
+    13,
+    13,
+    13,
+    12,
+    12,
+    14
+   ],
+   "tmdb": 1104,
+   "creators": [
+    "Matthew Weiner"
+   ]
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [13, 13, 13, 13, 12, 12, 14]; TMDB [13, 13, 13, 13, 13, 13, 14]"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 90; TMDB 92, IMDb 92"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Mad Men",
+    "orig": "Mad Men",
+    "first": 2007,
+    "last": 2015,
+    "status": "Ended",
+    "eps": 92,
+    "seasons": [
+     13,
+     13,
+     13,
+     13,
+     13,
+     13,
+     14
+    ],
+    "creators": [
+     "Matthew Weiner"
+    ],
+    "imdb": "tt0804503"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2007,
+    "end": 2015,
+    "eps": 92
+   }
+  }
+ },
+ {
+  "id": "s37",
+  "title": "True Detective",
+  "ours": {
+   "totalEps": 30,
+   "avgMin": 55,
+   "epsWatched": 0,
+   "y0": "2014",
+   "y1": "",
+   "seasons": [
+    8,
+    8,
+    8,
+    6
+   ],
+   "tmdb": 46648,
+   "creators": [
+    "Nic Pizzolatto"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "True Detective",
+    "orig": "True Detective",
+    "first": 2014,
+    "last": 2024,
+    "status": "Returning Series",
+    "eps": 30,
+    "seasons": [
+     8,
+     8,
+     8,
+     6
+    ],
+    "creators": [
+     "Nic Pizzolatto",
+     "Issa López"
+    ],
+    "imdb": "tt2356777"
+   },
+   "poster_dist": 13,
+   "imdb": {
+    "year": 2014,
+    "end": null,
+    "eps": 31
+   }
+  }
+ },
+ {
+  "id": "s38",
+  "title": "The Leftovers",
+  "ours": {
+   "totalEps": 28,
+   "avgMin": 55,
+   "epsWatched": 0,
+   "y0": "2014",
+   "y1": "2017",
+   "seasons": [
+    10,
+    10,
+    8
+   ],
+   "tmdb": 54344,
+   "creators": [
+    "Damon Lindelof",
+    "Tom Perrotta"
+   ]
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Margaret Qualley']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The Leftovers - Svaniti nel nulla",
+    "orig": "The Leftovers",
+    "first": 2014,
+    "last": 2017,
+    "status": "Ended",
+    "eps": 28,
+    "seasons": [
+     10,
+     10,
+     8
+    ],
+    "creators": [
+     "Damon Lindelof",
+     "Tom Perrotta"
+    ],
+    "imdb": "tt2699128"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2014,
+    "end": 2017,
+    "eps": 28
+   }
+  }
+ },
+ {
+  "id": "s39",
+  "title": "Suits",
+  "ours": {
+   "totalEps": 134,
+   "avgMin": 44,
+   "epsWatched": 0,
+   "y0": "2011",
+   "y1": "2019",
+   "seasons": [
+    12,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    16,
+    10
+   ],
+   "tmdb": 37680,
+   "creators": [
+    "Aaron Korsh"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Laura Allen']; TMDB top: ['Gabriel Macht', 'Rick Hoffman', 'Sarah Rafferty', 'Patrick J. Adams', 'Meghan, Duchess of Sussex', 'Gina Torres', 'Amanda Schull', 'Wendell Pierce']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Suits",
+    "orig": "Suits",
+    "first": 2011,
+    "last": 2019,
+    "status": "Ended",
+    "eps": 134,
+    "seasons": [
+     12,
+     16,
+     16,
+     16,
+     16,
+     16,
+     16,
+     16,
+     10
+    ],
+    "creators": [
+     "Aaron Korsh"
+    ],
+    "imdb": "tt1632701"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2011,
+    "end": 2019,
+    "eps": 134
+   }
+  }
+ },
+ {
+  "id": "s40",
+  "title": "Ozark",
+  "ours": {
+   "totalEps": 44,
+   "avgMin": 58,
+   "epsWatched": 0,
+   "y0": "2017",
+   "y1": "2022",
+   "seasons": [
+    10,
+    10,
+    10,
+    14
+   ],
+   "tmdb": 69740,
+   "creators": [
+    "Bill Dubuque",
+    "Mark Williams"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "Ozark",
+    "orig": "Ozark",
+    "first": 2017,
+    "last": 2022,
+    "status": "Ended",
+    "eps": 44,
+    "seasons": [
+     10,
+     10,
+     10,
+     14
+    ],
+    "creators": [
+     "Bill Dubuque",
+     "Mark Williams"
+    ],
+    "imdb": "tt5071412"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2017,
+    "end": 2022,
+    "eps": 44
+   }
+  }
+ },
+ {
+  "id": "s41",
+  "title": "Outer Banks",
+  "ours": {
+   "totalEps": 50,
+   "avgMin": 50,
+   "epsWatched": 0,
+   "y0": "2020",
+   "y1": "2026",
+   "seasons": [
+    10,
+    10,
+    10,
+    10,
+    10
+   ],
+   "tmdb": 100757,
+   "creators": [
+    "Josh Pate",
+    "Jonas Pate",
+    "Shannon Burke"
+   ]
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Madison Bailey']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Outer Banks",
+    "orig": "Outer Banks",
+    "first": 2020,
+    "last": 2026,
+    "status": "Ended",
+    "eps": 50,
+    "seasons": [
+     10,
+     10,
+     10,
+     10,
+     10
+    ],
+    "creators": [
+     "Josh Pate",
+     "Shannon Burke",
+     "Jonas Pate"
+    ],
+    "imdb": "tt10293938"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2020,
+    "end": 2026,
+    "eps": 50
+   }
+  }
+ },
+ {
+  "id": "s42",
+  "title": "Barry",
+  "ours": {
+   "totalEps": 32,
+   "avgMin": 28,
+   "epsWatched": 0,
+   "y0": "2018",
+   "y1": "2023",
+   "seasons": [
+    8,
+    8,
+    8,
+    8
+   ],
+   "tmdb": 73107,
+   "creators": [
+    "Alec Berg",
+    "Bill Hader"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Nicholas Sean Johnny', 'Tyler Jacob Moore']; TMDB top: ['Bill Hader', 'Sarah Goldberg', 'Anthony Carrigan', 'Henry Winkler', 'Stephen Root', \"D'Arcy Carden\", 'Michael Irby', 'Darrell Britt-Gibson']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Barry",
+    "orig": "Barry",
+    "first": 2018,
+    "last": 2023,
+    "status": "Ended",
+    "eps": 32,
+    "seasons": [
+     8,
+     8,
+     8,
+     8
+    ],
+    "creators": [
+     "Alec Berg",
+     "Bill Hader"
+    ],
+    "imdb": "tt5348176"
+   },
+   "poster_dist": 3,
+   "imdb": {
+    "year": 2018,
+    "end": 2023,
+    "eps": 32
+   }
+  }
+ },
+ {
+  "id": "s43",
+  "title": "Person of Interest",
+  "ours": {
+   "totalEps": 103,
+   "avgMin": 44,
+   "epsWatched": 0,
+   "y0": "2011",
+   "y1": "2016",
+   "seasons": [
+    23,
+    22,
+    23,
+    22,
+    13
+   ],
+   "tmdb": 1411,
+   "creators": [
+    "Jonathan Nolan"
+   ]
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Sarah Shahi']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Person of Interest",
+    "orig": "Person of Interest",
+    "first": 2011,
+    "last": 2016,
+    "status": "Ended",
+    "eps": 103,
+    "seasons": [
+     23,
+     22,
+     23,
+     22,
+     13
+    ],
+    "creators": [
+     "Jonathan Nolan"
+    ],
+    "imdb": "tt1839578"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2011,
+    "end": 2016,
+    "eps": 103
+   }
+  }
+ },
+ {
+  "id": "s44",
+  "title": "Broadchurch",
+  "ours": {
+   "totalEps": 24,
+   "avgMin": 48,
+   "epsWatched": 0,
+   "y0": "2013",
+   "y1": "2017",
+   "seasons": [
+    8,
+    8,
+    8
+   ],
+   "tmdb": 1427,
+   "creators": [
+    "Chris Chibnall"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "Broadchurch",
+    "orig": "Broadchurch",
+    "first": 2013,
+    "last": 2017,
+    "status": "Ended",
+    "eps": 24,
+    "seasons": [
+     8,
+     8,
+     8
+    ],
+    "creators": [
+     "Chris Chibnall"
+    ],
+    "imdb": "tt2249364"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2013,
+    "end": 2017,
+    "eps": 24
+   }
+  }
+ },
+ {
+  "id": "s45",
+  "title": "Vikings",
+  "ours": {
+   "totalEps": 89,
+   "avgMin": 44,
+   "epsWatched": 0,
+   "y0": "2013",
+   "y1": "2020",
+   "seasons": [
+    9,
+    10,
+    10,
+    20,
+    20,
+    20
+   ],
+   "tmdb": 44217,
+   "creators": [
+    "Michael Hirst"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Gabriel Byrne']; TMDB top: ['Katheryn Winnick', 'Gustaf Skarsgård', 'Alexander Ludwig', 'Georgia Hirst', 'Peter Franzén', 'Alex Høgh Andersen', 'Jordan Patrick Smith', 'Clive Standen']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Vikings",
+    "orig": "Vikings",
+    "first": 2013,
+    "last": 2020,
+    "status": "Ended",
+    "eps": 89,
+    "seasons": [
+     9,
+     10,
+     10,
+     20,
+     20,
+     20
+    ],
+    "creators": [
+     "Michael Hirst"
+    ],
+    "imdb": "tt2306299"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2013,
+    "end": 2020,
+    "eps": 90
+   }
+  }
+ },
+ {
+  "id": "s46",
+  "title": "The Good Place",
+  "ours": {
+   "totalEps": 50,
+   "avgMin": 22,
+   "epsWatched": 0,
+   "y0": "2016",
+   "y1": "2020",
+   "seasons": [
+    13,
+    12,
+    12,
+    13
+   ],
+   "tmdb": 66573,
+   "creators": [
+    "Michael Schur"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Emily Arlook', 'Jill Remez', 'Paulina Lule', 'Hayden Szeto', 'George Basil']; TMDB top: ['Kristen Bell', 'Ted Danson', 'William Jackson Harper', 'Jameela Jamil', 'Manny Jacinto', \"D'Arcy Carden\", 'Marc Evan Jackson', 'Tiya Sircar']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The Good Place",
+    "orig": "The Good Place",
+    "first": 2016,
+    "last": 2020,
+    "status": "Ended",
+    "eps": 50,
+    "seasons": [
+     13,
+     12,
+     12,
+     13
+    ],
+    "creators": [
+     "Michael Schur"
+    ],
+    "imdb": "tt4955642"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2016,
+    "end": 2020,
+    "eps": 50
+   }
+  }
+ },
+ {
+  "id": "s47",
+  "title": "Snowfall",
+  "ours": {
+   "totalEps": 60,
+   "avgMin": 45,
+   "epsWatched": 0,
+   "y0": "2017",
+   "y1": "2023",
+   "seasons": [
+    10,
+    10,
+    10,
+    10,
+    10,
+    10
+   ],
+   "tmdb": 71694,
+   "creators": [
+    "John Singleton",
+    "Eric Amadio",
+    "Dave Andron"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "Snowfall",
+    "orig": "Snowfall",
+    "first": 2017,
+    "last": 2023,
+    "status": "Ended",
+    "eps": 60,
+    "seasons": [
+     10,
+     10,
+     10,
+     10,
+     10,
+     10
+    ],
+    "creators": [
+     "Eric Amadio",
+     "Dave Andron",
+     "John Singleton"
+    ],
+    "imdb": "tt6439752"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2017,
+    "end": 2023,
+    "eps": 60
+   }
+  }
+ },
+ {
+  "id": "s48",
+  "title": "The Blacklist",
+  "ours": {
+   "totalEps": 218,
+   "avgMin": 44,
+   "epsWatched": 0,
+   "y0": "2013",
+   "y1": "2023",
+   "seasons": [
+    22,
+    22,
+    23,
+    22,
+    22,
+    22,
+    19,
+    22,
+    22,
+    22
+   ],
+   "tmdb": 46952,
+   "creators": [
+    "Jon Bokenkamp"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "The Blacklist",
+    "orig": "The Blacklist",
+    "first": 2013,
+    "last": 2023,
+    "status": "Ended",
+    "eps": 218,
+    "seasons": [
+     22,
+     22,
+     23,
+     22,
+     22,
+     22,
+     19,
+     22,
+     22,
+     22
+    ],
+    "creators": [
+     "Jon Bokenkamp"
+    ],
+    "imdb": "tt2741602"
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2013,
+    "end": 2023,
+    "eps": 218
+   }
+  }
+ },
+ {
+  "id": "s49",
+  "title": "Manhunt",
+  "ours": {
+   "totalEps": 18,
+   "avgMin": 55,
+   "epsWatched": 0,
+   "y0": "2017",
+   "y1": "2020",
+   "seasons": [
+    8,
+    10
+   ],
+   "tmdb": 72597,
+   "creators": [
+    "Andrew Zinnes",
+    "David Coggeshall"
+   ]
+  },
+  "flags": [
+   [
+    "CREATORI",
+    "Nostri ['Andrew Zinnes', 'David Coggeshall']; TMDB ['Andrew Sodroski', 'Jim Clemente', 'Tony Gittelson']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Tyler Huth', 'Will Murden', 'Trieste Kelly Dunn', 'Rebecca Henderson', 'Mike Pniewski']; TMDB top: ['Gethin Anthony', 'Arliss Howard', 'Kelly Jenrette', 'Cameron Britton', 'Sam Worthington', 'Ness Bautista', 'Jeremy Bobb', 'Ben Weber']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Manhunt",
+    "orig": "Manhunt",
+    "first": 2017,
+    "last": 2020,
+    "status": "Ended",
+    "eps": 18,
+    "seasons": [
+     8,
+     10
+    ],
+    "creators": [
+     "Andrew Sodroski",
+     "Jim Clemente",
+     "Tony Gittelson"
+    ],
+    "imdb": "tt5618256"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2017,
+    "end": 2020,
+    "eps": 18
+   }
+  }
+ },
+ {
+  "id": "s50",
+  "title": "After Life",
+  "ours": {
+   "totalEps": 18,
+   "avgMin": 29,
+   "epsWatched": 0,
+   "y0": "2019",
+   "y1": "2022",
+   "seasons": [
+    6,
+    6,
+    6
+   ],
+   "tmdb": 79410,
+   "creators": [
+    "Ricky Gervais"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "After Life",
+    "orig": "After Life",
+    "first": 2019,
+    "last": 2022,
+    "status": "Ended",
+    "eps": 18,
+    "seasons": [
+     6,
+     6,
+     6
+    ],
+    "creators": [
+     "Ricky Gervais"
+    ],
+    "imdb": "tt8398600"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2019,
+    "end": 2022,
+    "eps": 18
+   }
+  }
+ },
+ {
+  "id": "s51",
+  "title": "Gli anelli del potere",
+  "ours": {
+   "totalEps": 16,
+   "avgMin": 60,
+   "epsWatched": 0,
+   "y0": "2022",
+   "y1": "",
+   "seasons": [
+    8,
+    8
+   ],
+   "tmdb": 84773,
+   "creators": [
+    "J.D. Payne",
+    "Patrick McKay"
+   ]
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [8, 8]; TMDB [8, 8, 8] (serie in corso)"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 84773 (Il Signore degli Anelli: Gli Anelli del Potere 2022), distanza 24. Candidati: [(24, 84773, 'The Lord of the Rings: The Rings of Power', '2022')]"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 16; TMDB 24, IMDb 25"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Il Signore degli Anelli: Gli Anelli del Potere",
+    "orig": "The Lord of the Rings: The Rings of Power",
+    "first": 2022,
+    "last": 2024,
+    "status": "Returning Series",
+    "eps": 24,
+    "seasons": [
+     8,
+     8,
+     8
+    ],
+    "creators": [
+     "Patrick McKay",
+     "John D. Payne"
+    ],
+    "imdb": "tt7631058"
+   },
+   "poster_dist": 24,
+   "imdb": {
+    "year": 2022,
+    "end": null,
+    "eps": 25
+   }
+  }
+ },
+ {
+  "id": "s52",
+  "title": "The Last of Us",
+  "ours": {
+   "totalEps": 16,
+   "avgMin": 55,
+   "epsWatched": 0,
+   "y0": "2023",
+   "y1": "",
+   "seasons": [
+    9,
+    7
+   ],
+   "tmdb": 100088,
+   "creators": [
+    "Craig Mazin",
+    "Neil Druckmann"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['John Hannah', 'Josh Brener', 'Christopher Heyerdahl', 'Brad Leland', 'Marcia Bennett', 'Brendan Fletcher', 'Jerry Wasserman']; TMDB top: ['Bella Ramsey', 'Pedro Pascal', 'Gabriel Luna', 'Isabela Merced', 'Young Mazino', 'Rutina Wesley', 'Samuel Hoeksema', 'Danny Ramirez']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The Last of Us",
+    "orig": "The Last of Us",
+    "first": 2023,
+    "last": 2025,
+    "status": "Returning Series",
+    "eps": 16,
+    "seasons": [
+     9,
+     7
+    ],
+    "creators": [
+     "Neil Druckmann",
+     "Craig Mazin"
+    ],
+    "imdb": "tt3581920"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2023,
+    "end": null,
+    "eps": 17
+   }
+  }
+ },
+ {
+  "id": "s53",
+  "title": "Mr. Robot",
+  "ours": {
+   "totalEps": 45,
+   "avgMin": 45,
+   "epsWatched": 0,
+   "y0": "2015",
+   "y1": "2019",
+   "seasons": [
+    10,
+    12,
+    10,
+    13
+   ],
+   "tmdb": 62560,
+   "creators": [
+    "Sam Esmail"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "Mr. Robot",
+    "orig": "Mr. Robot",
+    "first": 2015,
+    "last": 2019,
+    "status": "Ended",
+    "eps": 45,
+    "seasons": [
+     10,
+     12,
+     10,
+     13
+    ],
+    "creators": [
+     "Sam Esmail"
+    ],
+    "imdb": "tt4158110"
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2015,
+    "end": 2019,
+    "eps": 45
+   }
+  }
+ },
+ {
+  "id": "s54",
+  "title": "Invincible",
+  "ours": {
+   "totalEps": 32,
+   "avgMin": 28,
+   "epsWatched": 0,
+   "y0": "2021",
+   "y1": "",
+   "seasons": [
+    8,
+    8,
+    8,
+    8
+   ],
+   "tmdb": 95557,
+   "creators": [
+    "Robert Kirkman"
+   ]
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [8, 8, 8, 8]; TMDB [8, 8, 8, 8, 0] (serie in corso)"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Jon Hamm', 'Mahershala Ali', 'Max Burkholder', 'Lauren Cohan', 'Micah Aliling', 'Scoot McNairy']; TMDB top: ['Steven Yeun', 'Sandra Oh', 'J.K. Simmons', 'Gillian Jacobs', 'Walton Goggins', 'Grey DeLisle', 'Chris Diamantopoulos', 'Ross Marquand']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "INVINCIBLE",
+    "orig": "INVINCIBLE",
+    "first": 2021,
+    "last": 2026,
+    "status": "Returning Series",
+    "eps": 32,
+    "seasons": [
+     8,
+     8,
+     8,
+     8,
+     0
+    ],
+    "creators": [],
+    "imdb": "tt6741278"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2021,
+    "end": null,
+    "eps": 34
+   }
+  }
+ },
+ {
+  "id": "s55",
+  "title": "Westworld",
+  "ours": {
+   "totalEps": 36,
+   "avgMin": 60,
+   "epsWatched": 0,
+   "y0": "2016",
+   "y1": "2022",
+   "seasons": [
+    10,
+    10,
+    8,
+    8
+   ],
+   "tmdb": 63247,
+   "creators": [
+    "Jonathan Nolan",
+    "Lisa Joy"
+   ]
+  },
+  "flags": [
+   [
+    "GENERI",
+    "Nostri ['Fantascienza', 'Dramma', 'Mistero']; TMDB ['Sci-Fi & Fantasy', 'Western']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Westworld - Dove tutto è concesso",
+    "orig": "Westworld",
+    "first": 2016,
+    "last": 2022,
+    "status": "Canceled",
+    "eps": 36,
+    "seasons": [
+     10,
+     10,
+     8,
+     8
+    ],
+    "creators": [
+     "Jonathan Nolan",
+     "Lisa Joy"
+    ],
+    "imdb": "tt0475784"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2016,
+    "end": 2022,
+    "eps": 36
+   }
+  }
+ },
+ {
+  "id": "s56",
+  "title": "A Knight of the Seven Kingdoms",
+  "ours": {
+   "totalEps": 6,
+   "avgMin": 55,
+   "epsWatched": 0,
+   "y0": "2026",
+   "y1": "",
+   "seasons": [
+    6
+   ],
+   "tmdb": 224372,
+   "creators": [
+    "George R.R. Martin",
+    "Ira Parker"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Ellie McHale-Roe', \"Abigail O'Regan\", 'Carla Harrison-Hodge']; TMDB top: ['Peter Claffey', 'Dexter Sol Ansell', 'Daniel Ings', 'Ross Anderson', 'Finn Bennett', 'Danny Webb', 'Cara Harris', 'Shaun Thomas']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "A Knight of the Seven Kingdoms",
+    "orig": "A Knight of the Seven Kingdoms",
+    "first": 2026,
+    "last": 2026,
+    "status": "Returning Series",
+    "eps": 6,
+    "seasons": [
+     6
+    ],
+    "creators": [
+     "George R.R. Martin",
+     "Ira Parker"
+    ],
+    "imdb": "tt27497448"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2026,
+    "end": null,
+    "eps": 12
+   }
+  }
+ },
+ {
+  "id": "s57",
+  "title": "House of the Dragon",
+  "ours": {
+   "totalEps": 18,
+   "avgMin": 55,
+   "epsWatched": 0,
+   "y0": "2022",
+   "y1": "",
+   "seasons": [
+    10,
+    8
+   ],
+   "tmdb": 94997,
+   "creators": [
+    "Ryan Condal",
+    "Miguel Sapochnik"
+   ]
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [10, 8]; TMDB [10, 8, 8] (serie in corso)"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['James Norton']; TMDB top: ['Matt Smith', 'Steve Toussaint', 'Sonoya Mizuno', 'Fabien Frankel', 'Matthew Needham', 'Kurt Egyiawan', 'Olivia Cooke', \"Emma D'Arcy\"]"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 18; TMDB 26, IMDb 27"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "House of the Dragon",
+    "orig": "House of the Dragon",
+    "first": 2022,
+    "last": 2026,
+    "status": "Returning Series",
+    "eps": 26,
+    "seasons": [
+     10,
+     8,
+     8
+    ],
+    "creators": [
+     "George R.R. Martin",
+     "Ryan J. Condal"
+    ],
+    "imdb": "tt11198330"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2022,
+    "end": null,
+    "eps": 27
+   }
+  }
+ },
+ {
+  "id": "s58",
+  "title": "Fringe",
+  "ours": {
+   "totalEps": 99,
+   "avgMin": 44,
+   "epsWatched": 0,
+   "y0": "2008",
+   "y1": "2013",
+   "seasons": [
+    20,
+    22,
+    22,
+    22,
+    13
+   ],
+   "tmdb": 1705,
+   "creators": [
+    "J.J. Abrams",
+    "Alex Kurtzman",
+    "Roberto Orci"
+   ]
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [20, 22, 22, 22, 13]; TMDB [20, 23, 22, 22, 13]"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['David Caruso', 'Emily Procter', 'Eddie Cibrian', 'Omar Benson Miller', 'Rory Cochrane', 'Jonathan Togo', 'Adam Rodriguez', 'Khandi Alexander', 'Sofia Milos', 'Rex Linn', 'Eva LaRue', 'Josh Hopkins']; TMDB top: ['Anna Torv', 'Joshua Jackson', 'Jasika Nicole', 'John Noble', 'Lance Reddick', 'Blair Brown', 'Leonard Nimoy', 'Seth Gabel']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 99; TMDB 100, IMDb 100"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Fringe",
+    "orig": "Fringe",
+    "first": 2008,
+    "last": 2013,
+    "status": "Ended",
+    "eps": 100,
+    "seasons": [
+     20,
+     23,
+     22,
+     22,
+     13
+    ],
+    "creators": [
+     "Alex Kurtzman",
+     "Roberto Orci",
+     "J.J. Abrams"
+    ],
+    "imdb": "tt1119644"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2008,
+    "end": 2013,
+    "eps": 100
+   }
+  }
+ },
+ {
+  "id": "s59",
+  "title": "Doctor Who",
+  "ours": {
+   "totalEps": 153,
+   "avgMin": 45,
+   "epsWatched": 0,
+   "y0": "2005",
+   "y1": "2022",
+   "seasons": [
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    13,
+    12,
+    12,
+    12,
+    10,
+    10,
+    6
+   ],
+   "tmdb": 57243,
+   "creators": [
+    "Sydney Newman",
+    "Russell T Davies"
+   ]
+  },
+  "flags": [
+   [
+    "ANNO_FINE",
+    "Nostro 2022; TMDB 2021 (serie Ended)"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Fantascienza', 'Avventura', 'Fantasy']; TMDB ['Action & Adventure', 'Dramma', 'Sci-Fi & Fantasy']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['John Bishop']; TMDB top: ['Matt Smith', 'David Tennant', 'Karen Gillan', 'Nicholas Briggs', 'Jenna Coleman', 'Peter Capaldi', 'Billie Piper', 'Jodie Whittaker']"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 57243 (Doctor Who 2005), distanza 20. Candidati: [(20, 57243, 'Doctor Who', '2005'), (22, 239770, 'Doctor Who', '2024'), (23, 121, 'Doctor Who', '1963')]"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Doctor Who",
+    "orig": "Doctor Who",
+    "first": 2005,
+    "last": 2021,
+    "status": "Ended",
+    "eps": 153,
+    "seasons": [
+     13,
+     13,
+     13,
+     13,
+     13,
+     13,
+     13,
+     12,
+     12,
+     12,
+     10,
+     10,
+     6
+    ],
+    "creators": [],
+    "imdb": "tt0436992"
+   },
+   "poster_dist": 20,
+   "imdb": {
+    "year": 2005,
+    "end": 2022,
+    "eps": 175
+   }
+  }
+ },
+ {
+  "id": "s60",
+  "title": "Narcos Mexico",
+  "ours": {
+   "totalEps": 30,
+   "avgMin": 45,
+   "epsWatched": 0,
+   "y0": "2018",
+   "y1": "2021",
+   "seasons": [
+    10,
+    10,
+    10
+   ],
+   "tmdb": 80968,
+   "creators": [
+    "Carlo Bernard",
+    "Chris Brancato",
+    "Doug Miro"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "Narcos: Messico",
+    "orig": "Narcos: Mexico",
+    "first": 2018,
+    "last": 2021,
+    "status": "Ended",
+    "eps": 30,
+    "seasons": [
+     10,
+     10,
+     10
+    ],
+    "creators": [
+     "Chris Brancato",
+     "Carlo Bernard",
+     "Doug Miro"
+    ],
+    "imdb": "tt8714904"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2018,
+    "end": 2021,
+    "eps": 30
+   }
+  }
+ },
+ {
+  "id": "s61",
+  "title": "The Big Bang Theory",
+  "ours": {
+   "totalEps": 279,
+   "avgMin": 22,
+   "epsWatched": 0,
+   "y0": "2007",
+   "y1": "2019",
+   "seasons": [
+    17,
+    23,
+    23,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24
+   ],
+   "tmdb": 1418,
+   "creators": [
+    "Chuck Lorre",
+    "Bill Prady"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "The Big Bang Theory",
+    "orig": "The Big Bang Theory",
+    "first": 2007,
+    "last": 2019,
+    "status": "Ended",
+    "eps": 279,
+    "seasons": [
+     17,
+     23,
+     23,
+     24,
+     24,
+     24,
+     24,
+     24,
+     24,
+     24,
+     24,
+     24
+    ],
+    "creators": [
+     "Chuck Lorre",
+     "Bill Prady"
+    ],
+    "imdb": "tt0898266"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2007,
+    "end": 2019,
+    "eps": 279
+   }
+  }
+ },
+ {
+  "id": "s62",
+  "title": "Mindhunter",
+  "ours": {
+   "totalEps": 19,
+   "avgMin": 55,
+   "epsWatched": 0,
+   "y0": "2017",
+   "y1": "2019",
+   "seasons": [
+    10,
+    9
+   ],
+   "tmdb": 67744,
+   "creators": [
+    "Joe Penhall"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['David H. Holmes', 'Julia Crockett', 'Jordan Gelber', \"Thomas Philip O'Neill\", 'Lee Sellars']; TMDB top: ['Jonathan Groff', 'Holt McCallany', 'Anna Torv', 'Sonny Valicenti', 'Stacey Roca', 'Cotter Smith', 'Hannah Gross', 'Joe Tuttle']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Anna Torv']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "MINDHUNTER",
+    "orig": "MINDHUNTER",
+    "first": 2017,
+    "last": 2019,
+    "status": "Canceled",
+    "eps": 19,
+    "seasons": [
+     10,
+     9
+    ],
+    "creators": [
+     "Joe Penhall"
+    ],
+    "imdb": "tt5290382"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2017,
+    "end": 2019,
+    "eps": 19
+   }
+  }
+ },
+ {
+  "id": "s63",
+  "title": "The Pitt",
+  "ours": {
+   "totalEps": 30,
+   "avgMin": 55,
+   "epsWatched": 0,
+   "y0": "2025",
+   "y1": "",
+   "seasons": [
+    15,
+    15
+   ],
+   "tmdb": 250307,
+   "creators": [
+    "R. Scott Gemmill"
+   ]
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [15, 15]; TMDB [15, 15, 0] (serie in corso)"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Supriya Ganesh', 'Fiona Dourif']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The Pitt",
+    "orig": "The Pitt",
+    "first": 2025,
+    "last": 2026,
+    "status": "Returning Series",
+    "eps": 30,
+    "seasons": [
+     15,
+     15,
+     0
+    ],
+    "creators": [
+     "R. Scott Gemmill"
+    ],
+    "imdb": "tt31938062"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2025,
+    "end": null,
+    "eps": 45
+   }
+  }
+ },
+ {
+  "id": "s64",
+  "title": "Black Mirror",
+  "ours": {
+   "totalEps": 32,
+   "avgMin": 55,
+   "epsWatched": 0,
+   "y0": "2011",
+   "y1": "",
+   "seasons": [
+    3,
+    3,
+    6,
+    6,
+    3,
+    5,
+    6
+   ],
+   "tmdb": 42009,
+   "creators": [
+    "Charlie Brooker"
+   ]
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [3, 3, 6, 6, 3, 5, 6]; TMDB [3, 4, 6, 6, 3, 5, 6] (serie in corso)"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Michael Smiley', 'Wyatt Russell', 'Daniel Rigby', 'Douglas Hodge']; TMDB top: ['Jesse Plemons', 'Cristin Milioti', 'Jimmi Simpson', 'Milanka Brooks', 'Osy Ikhile', 'Paul G. Raymond', 'Monica Dolan', 'Daniel Lapaine']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 32; TMDB 33, IMDb 34"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Black Mirror",
+    "orig": "Black Mirror",
+    "first": 2011,
+    "last": 2025,
+    "status": "Returning Series",
+    "eps": 33,
+    "seasons": [
+     3,
+     4,
+     6,
+     6,
+     3,
+     5,
+     6
+    ],
+    "creators": [
+     "Charlie Brooker"
+    ],
+    "imdb": "tt2085059"
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2011,
+    "end": null,
+    "eps": 34
+   }
+  }
+ },
+ {
+  "id": "s65",
+  "title": "Battlestar Galactica",
+  "ours": {
+   "totalEps": 73,
+   "avgMin": 44,
+   "epsWatched": 0,
+   "y0": "2004",
+   "y1": "2009",
+   "seasons": [
+    13,
+    20,
+    20,
+    20
+   ],
+   "tmdb": 1972,
+   "creators": [
+    "Glen A. Larson",
+    "Ronald D. Moore"
+   ]
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Edward James Olmos']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Battlestar Galactica",
+    "orig": "Battlestar Galactica",
+    "first": 2004,
+    "last": 2009,
+    "status": "Ended",
+    "eps": 73,
+    "seasons": [
+     13,
+     20,
+     20,
+     20
+    ],
+    "creators": [
+     "Glen A. Larson",
+     "Ronald D. Moore"
+    ],
+    "imdb": "tt0407362"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2004,
+    "end": 2009,
+    "eps": 74
+   }
+  }
+ },
+ {
+  "id": "s66",
+  "title": "From",
+  "ours": {
+   "totalEps": 40,
+   "avgMin": 54,
+   "epsWatched": 0,
+   "y0": "2022",
+   "y1": "",
+   "seasons": [
+    10,
+    10,
+    10,
+    10
+   ],
+   "tmdb": 124364,
+   "creators": [
+    "John Griffin"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "FROM",
+    "orig": "FROM",
+    "first": 2022,
+    "last": 2026,
+    "status": "Returning Series",
+    "eps": 40,
+    "seasons": [
+     10,
+     10,
+     10,
+     10
+    ],
+    "creators": [
+     "John Griffin"
+    ],
+    "imdb": "tt9813792"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2022,
+    "end": null,
+    "eps": 41
+   }
+  }
+ },
+ {
+  "id": "s67",
+  "title": "Boardwalk Empire",
+  "ours": {
+   "totalEps": 56,
+   "avgMin": 54,
+   "epsWatched": 0,
+   "y0": "2010",
+   "y1": "2014",
+   "seasons": [
+    12,
+    12,
+    12,
+    12,
+    8
+   ],
+   "tmdb": 1621,
+   "creators": [
+    "Terence Winter"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Mark Harmon', 'Sean Murray', 'Michael Weatherly', 'Wilmer Valderrama', 'Katrina Law', 'Cote De Pablo', 'Brian Dietzen', 'Sasha Alexander', 'David McCallum', 'Pauley Perrette', 'Emily Wickersham', 'Lauren Holly']; TMDB top: ['Steve Buscemi', 'Kelly Macdonald', 'Michael Shannon', 'Shea Whigham', 'Stephen Graham', 'Vincent Piazza', 'Michael Kenneth Williams', 'Paul Sparks']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Boardwalk Empire - L'impero del crimine",
+    "orig": "Boardwalk Empire",
+    "first": 2010,
+    "last": 2014,
+    "status": "Ended",
+    "eps": 56,
+    "seasons": [
+     12,
+     12,
+     12,
+     12,
+     8
+    ],
+    "creators": [
+     "Terence Winter"
+    ],
+    "imdb": "tt0979432"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2010,
+    "end": 2014,
+    "eps": 56
+   }
+  }
+ },
+ {
+  "id": "s68",
+  "title": "Gotham",
+  "ours": {
+   "totalEps": 100,
+   "avgMin": 44,
+   "epsWatched": 0,
+   "y0": "2014",
+   "y1": "2019",
+   "seasons": [
+    22,
+    22,
+    22,
+    22,
+    12
+   ],
+   "tmdb": 60708,
+   "creators": [
+    "Bruno Heller"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Victoria Cartagena']; TMDB top: ['Ben McKenzie', 'Donal Logue', 'David Mazouz', 'Sean Pertwee', 'Robin Lord Taylor', 'Erin Richards', 'Camren Bicondova', 'Cory Michael Smith']"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 60708 (Gotham 2014), distanza 20. Candidati: [(16, 110419, 'Gotham Tonight', '2008'), (24, 60708, 'Gotham', '2014'), (27, 195868, 'Gotham Knights', '2023')]"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Gotham",
+    "orig": "Gotham",
+    "first": 2014,
+    "last": 2019,
+    "status": "Ended",
+    "eps": 100,
+    "seasons": [
+     22,
+     22,
+     22,
+     22,
+     12
+    ],
+    "creators": [
+     "Bruno Heller"
+    ],
+    "imdb": "tt3749900"
+   },
+   "poster_dist": 20,
+   "imdb": {
+    "year": 2014,
+    "end": 2019,
+    "eps": 100
+   }
+  }
+ },
+ {
+  "id": "s69",
+  "title": "Sons of Anarchy",
+  "ours": {
+   "totalEps": 92,
+   "avgMin": 44,
+   "epsWatched": 0,
+   "y0": "2008",
+   "y1": "2014",
+   "seasons": [
+    13,
+    13,
+    13,
+    14,
+    13,
+    13,
+    13
+   ],
+   "tmdb": 1409,
+   "creators": [
+    "Kurt Sutter"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Rupert Degas', 'Lorraine Pilkington', 'Mark DeCarlo', 'Charlie Schlatter', 'Tara Strong', '伊川東吾', 'Megan Cavanagh']; TMDB top: ['Charlie Hunnam', 'Katey Sagal', 'Tommy Flanagan', 'Mark Boone Junior', 'Kim Coates', 'Theo Rossi', 'Dayton Callie', 'Ron Perlman']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Sons of Anarchy",
+    "orig": "Sons of Anarchy",
+    "first": 2008,
+    "last": 2014,
+    "status": "Ended",
+    "eps": 92,
+    "seasons": [
+     13,
+     13,
+     13,
+     14,
+     13,
+     13,
+     13
+    ],
+    "creators": [
+     "Kurt Sutter"
+    ],
+    "imdb": "tt1124373"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2008,
+    "end": 2014,
+    "eps": 92
+   }
+  }
+ },
+ {
+  "id": "s70",
+  "title": "Oz",
+  "ours": {
+   "totalEps": 56,
+   "avgMin": 58,
+   "epsWatched": 0,
+   "y0": "1997",
+   "y1": "2003",
+   "seasons": [
+    8,
+    8,
+    8,
+    16,
+    8,
+    8
+   ],
+   "tmdb": 3322,
+   "creators": [
+    "Tom Fontana"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Ryan Ryno Templeton']; TMDB top: ['Lee Tergesen', 'Harold Perrineau', 'Dean Winters', 'Eamonn Walker', 'Ernie Hudson', 'Terry Kinney', 'Rita Moreno', 'J.K. Simmons']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Oz",
+    "orig": "Oz",
+    "first": 1997,
+    "last": 2003,
+    "status": "Ended",
+    "eps": 56,
+    "seasons": [
+     8,
+     8,
+     8,
+     16,
+     8,
+     8
+    ],
+    "creators": [
+     "Tom Fontana"
+    ],
+    "imdb": "tt0118421"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1997,
+    "end": 2003,
+    "eps": 56
+   }
+  }
+ },
+ {
+  "id": "s71",
+  "title": "The End of the F***ing World",
+  "ours": {
+   "totalEps": 16,
+   "avgMin": 22,
+   "epsWatched": 0,
+   "y0": "2017",
+   "y1": "2019",
+   "seasons": [
+    8,
+    8
+   ],
+   "tmdb": 74577,
+   "creators": [
+    "Charlie Covell"
+   ]
+  },
+  "flags": [
+   [
+    "CREATORI",
+    "Nostri ['Charlie Covell']; TMDB ['Jonathan Entwistle']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The End of the F***ing World",
+    "orig": "The End of the F***ing World",
+    "first": 2017,
+    "last": 2019,
+    "status": "Ended",
+    "eps": 16,
+    "seasons": [
+     8,
+     8
+    ],
+    "creators": [
+     "Jonathan Entwistle"
+    ],
+    "imdb": "tt6257970"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2017,
+    "end": 2019,
+    "eps": 16
+   }
+  }
+ },
+ {
+  "id": "s72",
+  "title": "Shameless",
+  "ours": {
+   "totalEps": 134,
+   "avgMin": 44,
+   "epsWatched": 0,
+   "y0": "2011",
+   "y1": "2021",
+   "seasons": [
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    14,
+    12,
+    12
+   ],
+   "tmdb": 34307,
+   "creators": [
+    "John Wells",
+    "Paul Abbott"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "Shameless",
+    "orig": "Shameless",
+    "first": 2011,
+    "last": 2021,
+    "status": "Ended",
+    "eps": 134,
+    "seasons": [
+     12,
+     12,
+     12,
+     12,
+     12,
+     12,
+     12,
+     12,
+     14,
+     12,
+     12
+    ],
+    "creators": [
+     "Paul Abbott",
+     "John Wells"
+    ],
+    "imdb": "tt1586680"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2011,
+    "end": 2021,
+    "eps": 134
+   }
+  }
+ },
+ {
+  "id": "s73",
+  "title": "House of Cards",
+  "ours": {
+   "totalEps": 73,
+   "avgMin": 50,
+   "epsWatched": 0,
+   "y0": "2013",
+   "y1": "2018",
+   "seasons": [
+    13,
+    13,
+    13,
+    13,
+    13,
+    8
+   ],
+   "tmdb": 1425,
+   "creators": [
+    "Beau Willimon"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Kristen Connolly']; TMDB top: ['Robin Wright', 'Michael Kelly', 'Kevin Spacey', 'Jayne Atkinson', 'Derek Cecil', 'Mahershala Ali', 'Boris McGiver', 'Nathan Darrow']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "House of Cards",
+    "orig": "House of Cards",
+    "first": 2013,
+    "last": 2018,
+    "status": "Ended",
+    "eps": 73,
+    "seasons": [
+     13,
+     13,
+     13,
+     13,
+     13,
+     8
+    ],
+    "creators": [
+     "Beau Willimon"
+    ],
+    "imdb": "tt1856010"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2013,
+    "end": 2018,
+    "eps": 73
+   }
+  }
+ },
+ {
+  "id": "s75",
+  "title": "The Night Of",
+  "ours": {
+   "totalEps": 8,
+   "avgMin": 55,
+   "epsWatched": 0,
+   "y0": "2016",
+   "y1": "",
+   "seasons": [
+    8
+   ],
+   "tmdb": 66276,
+   "creators": [
+    "Steven Zaillian",
+    "Richard Price"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Carter Hudson', 'Eleasha Gamble', 'Racquel Palmer', 'Chris Perfetti']; TMDB top: ['Riz Ahmed', 'John Turturro', 'Bill Camp', 'پیمان معادی', 'Jeannie Berlin', 'Poorna Jagannathan', 'Amara Karan', 'Syam M. Lafi']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The Night of - Cosa è successo quella notte?",
+    "orig": "The Night Of",
+    "first": 2016,
+    "last": 2016,
+    "status": "Ended",
+    "eps": 8,
+    "seasons": [
+     8
+    ],
+    "creators": [
+     "Richard Price",
+     "Steven Zaillian"
+    ],
+    "imdb": "tt2401256"
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2016,
+    "end": 2016,
+    "eps": 8
+   }
+  }
+ },
+ {
+  "id": "s76",
+  "title": "Six Feet Under",
+  "ours": {
+   "totalEps": 63,
+   "avgMin": 55,
+   "epsWatched": 0,
+   "y0": "2001",
+   "y1": "2005",
+   "seasons": [
+    13,
+    13,
+    13,
+    12,
+    12
+   ],
+   "tmdb": 1274,
+   "creators": [
+    "Alan Ball"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Nicholas Burns', 'Julian Barratt', 'Claire Keelan', 'Richard Ayoade', 'Spencer Brown', 'Benedict Cumberbatch', 'Julia Davis', 'Stephen Mangan', 'Peter Sullivan', 'Ramon Tikaram', 'Mathew Horne', 'Montserrat Lombard']; TMDB top: ['Peter Krause', 'Michael C. Hall', 'Frances Conroy', 'Lauren Ambrose', 'Freddy Rodríguez', 'Mathew St. Patrick', 'Rachel Griffiths', 'Justina Machado']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Six Feet Under",
+    "orig": "Six Feet Under",
+    "first": 2001,
+    "last": 2005,
+    "status": "Ended",
+    "eps": 63,
+    "seasons": [
+     13,
+     13,
+     13,
+     12,
+     12
+    ],
+    "creators": [
+     "Alan Ball"
+    ],
+    "imdb": "tt0248654"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2001,
+    "end": 2005,
+    "eps": 63
+   }
+  }
+ },
+ {
+  "id": "s77",
+  "title": "Severance",
+  "ours": {
+   "totalEps": 19,
+   "avgMin": 42,
+   "epsWatched": 0,
+   "y0": "2022",
+   "y1": "",
+   "seasons": [
+    9,
+    10
+   ],
+   "tmdb": 95396,
+   "creators": [
+    "Dan Erickson"
+   ]
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [9, 10]; TMDB [9, 10, 0] (serie in corso)"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Jeff McCarthy']; TMDB top: ['Adam Scott', 'Britt Lower', 'Tramell Tillman', 'Zach Cherry', 'Patricia Arquette', 'Jen Tullock', 'Dichen Lachman', 'John Turturro']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Scissione",
+    "orig": "Severance",
+    "first": 2022,
+    "last": 2025,
+    "status": "Returning Series",
+    "eps": 19,
+    "seasons": [
+     9,
+     10,
+     0
+    ],
+    "creators": [
+     "Dan Erickson"
+    ],
+    "imdb": "tt11280740"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2022,
+    "end": null,
+    "eps": 25
+   }
+  }
+ },
+ {
+  "id": "s78",
+  "title": "Banshee",
+  "ours": {
+   "totalEps": 38,
+   "avgMin": 55,
+   "epsWatched": 0,
+   "y0": "2013",
+   "y1": "2016",
+   "seasons": [
+    10,
+    10,
+    10,
+    8
+   ],
+   "tmdb": 41727,
+   "creators": [
+    "Jonathan Tropper",
+    "David Schickler"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['James Purefoy', 'Dervla Kirwan', 'Nathaniel Parker', 'Sasha Behar', 'Charlie Creed-Miles', 'Obi Abili', 'Lisa Diveney', 'Stephen Hagan', 'Elijah Baker', 'Ivan Kaye', 'Ivanno Jeremiah', 'Clifford Barry']; TMDB top: ['Antony Starr', 'Ivana Miličević', 'Hoon Lee', 'Frankie Faison', 'Ulrich Thomsen', 'Matt Servitto', 'Lili Simmons', 'Ryann Shane']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Banshee - La città del male",
+    "orig": "Banshee",
+    "first": 2013,
+    "last": 2016,
+    "status": "Ended",
+    "eps": 38,
+    "seasons": [
+     10,
+     10,
+     10,
+     8
+    ],
+    "creators": [
+     "David Schickler",
+     "Jonathan Tropper"
+    ],
+    "imdb": "tt2017109"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2013,
+    "end": 2016,
+    "eps": 38
+   }
+  }
+ },
+ {
+  "id": "s79",
+  "title": "Silo",
+  "ours": {
+   "totalEps": 20,
+   "avgMin": 50,
+   "epsWatched": 0,
+   "y0": "2023",
+   "y1": "",
+   "seasons": [
+    10,
+    10
+   ],
+   "tmdb": 125988,
+   "creators": [
+    "Graham Yost"
+   ]
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [10, 10]; TMDB [10, 10, 10, 1] (serie in corso)"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Fantascienza', 'Mistero', 'Thriller']; TMDB ['Sci-Fi & Fantasy', 'Dramma']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Ferdinand Kingsley']; TMDB top: ['Rebecca Ferguson', 'Common', 'Chinaza Uche', 'Tim Robbins', 'Billy Postlethwaite', 'Remmie Milner', 'Shane McRae', 'Harriet Walter']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Jessica Brown Findlay']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 20; TMDB 31, IMDb 40"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Silo",
+    "orig": "Silo",
+    "first": 2023,
+    "last": 2026,
+    "status": "Returning Series",
+    "eps": 31,
+    "seasons": [
+     10,
+     10,
+     10,
+     1
+    ],
+    "creators": [
+     "Graham Yost"
+    ],
+    "imdb": "tt14688458"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2023,
+    "end": null,
+    "eps": 40
+   }
+  }
+ },
+ {
+  "id": "s80",
+  "title": "The OA",
+  "ours": {
+   "totalEps": 16,
+   "avgMin": 55,
+   "epsWatched": 0,
+   "y0": "2016",
+   "y1": "2019",
+   "seasons": [
+    8,
+    8
+   ],
+   "tmdb": 69061,
+   "creators": [
+    "Brit Marling",
+    "Zal Batmanglij"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Anson Mount', 'Serinda Swan', 'Iwan Rheon', 'Isabelle Cornish', 'Ken Leung', 'Eme Ikwuakor', 'Sonya Balmores', 'Ellen Woglom', 'Henry Ian Cusick', 'Aidan Fiske', 'Bridger Zadina', 'Garret Sato']; TMDB top: ['Brit Marling', 'Jason Isaacs', 'Emory Cohen', 'Phyllis Smith', 'Patrick Gibson', 'Brendan Meyer', 'Brandon Perea', 'Will Brill']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The OA",
+    "orig": "The OA",
+    "first": 2016,
+    "last": 2019,
+    "status": "Canceled",
+    "eps": 16,
+    "seasons": [
+     8,
+     8
+    ],
+    "creators": [
+     "Brit Marling",
+     "Zal Batmanglij"
+    ],
+    "imdb": "tt4635282"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2016,
+    "end": 2019,
+    "eps": 16
+   }
+  }
+ },
+ {
+  "id": "s81",
+  "title": "Daredevil",
+  "ours": {
+   "totalEps": 39,
+   "avgMin": 54,
+   "epsWatched": 0,
+   "y0": "2015",
+   "y1": "2018",
+   "seasons": [
+    13,
+    13,
+    13
+   ],
+   "tmdb": 61889,
+   "creators": [
+    "Drew Goddard"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Nikolai Nikolaeff', 'Gideon Emery', 'Kevin Nagle', 'Wendy Moniz', 'Adriane Lenox', 'Alex Falberg']; TMDB top: ['Charlie Cox', 'Deborah Ann Woll', 'Elden Henson', \"Vincent D'Onofrio\", 'Royce Johnson', 'Geoffrey Cantor', 'Jon Bernthal', 'Jay Ali']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Daredevil",
+    "orig": "Marvel's Daredevil",
+    "first": 2015,
+    "last": 2018,
+    "status": "Canceled",
+    "eps": 39,
+    "seasons": [
+     13,
+     13,
+     13
+    ],
+    "creators": [
+     "Drew Goddard"
+    ],
+    "imdb": "tt3322312"
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2015,
+    "end": 2018,
+    "eps": 39
+   }
+  }
+ },
+ {
+  "id": "s82",
+  "title": "Deadwood",
+  "ours": {
+   "totalEps": 36,
+   "avgMin": 55,
+   "epsWatched": 0,
+   "y0": "2004",
+   "y1": "2006",
+   "seasons": [
+    12,
+    12,
+    12
+   ],
+   "tmdb": 1406,
+   "creators": [
+    "David Milch"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Reece Dinsdale', 'Elizabeth Bennett', 'Clare Clifford', 'Frank Mills', 'Sheila Hancock', 'Charles Kay', 'Erika Hoffman', 'Ken Campbell', 'Susan Jameson', 'Reginald Marsh', 'Hugh Walters']; TMDB top: ['Timothy Olyphant', 'Ian McShane', 'Molly Parker', 'Jim Beaver', 'W. Earl Brown', 'Dayton Callie', 'Brad Dourif', 'John Hawkes']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['John Thaw']"
+   ],
+   [
+    "PERSONAGGIO",
+    "[\"John Thaw: 'Henry Willows' vs ['Sol Star']\"]"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Deadwood",
+    "orig": "Deadwood",
+    "first": 2004,
+    "last": 2006,
+    "status": "Canceled",
+    "eps": 36,
+    "seasons": [
+     12,
+     12,
+     12
+    ],
+    "creators": [
+     "David Milch"
+    ],
+    "imdb": "tt0348914"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2004,
+    "end": 2006,
+    "eps": 36
+   }
+  }
+ },
+ {
+  "id": "s83",
+  "title": "The Shield",
+  "ours": {
+   "totalEps": 88,
+   "avgMin": 44,
+   "epsWatched": 0,
+   "y0": "2002",
+   "y1": "2008",
+   "seasons": [
+    13,
+    13,
+    15,
+    13,
+    11,
+    10,
+    13
+   ],
+   "tmdb": 1414,
+   "creators": [
+    "Shawn Ryan"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Ivan Sergei', 'Amanda Peet', 'Justin Kirk', 'Sarah Paulson', 'Jaime Pressly', 'Simon Rex', 'Bill Macy', 'Chad Willett', 'Elisa Donovan', 'Clayton Rohner', 'Kathryn Harrold', 'Lindsay Price']; TMDB top: ['Michael Chiklis', 'Catherine Dent', 'Walton Goggins', 'Michael Jace', 'Jay Karnes', 'Benito Martinez', 'CCH Pounder', 'Cathy Cahlin Ryan']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The Shield",
+    "orig": "The Shield",
+    "first": 2002,
+    "last": 2008,
+    "status": "Ended",
+    "eps": 88,
+    "seasons": [
+     13,
+     13,
+     15,
+     13,
+     11,
+     10,
+     13
+    ],
+    "creators": [
+     "Shawn Ryan"
+    ],
+    "imdb": "tt0286486"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2002,
+    "end": 2008,
+    "eps": 89
+   }
+  }
+ },
+ {
+  "id": "s84",
+  "title": "Utopia",
+  "ours": {
+   "totalEps": 12,
+   "avgMin": 46,
+   "epsWatched": 0,
+   "y0": "2013",
+   "y1": "2014",
+   "seasons": [
+    6,
+    6
+   ],
+   "tmdb": 46511,
+   "creators": [
+    "Gillian Flynn"
+   ]
+  },
+  "flags": [
+   [
+    "CREATORI",
+    "Nostri ['Gillian Flynn']; TMDB ['Dennis Kelly']"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Thriller', 'Fantascienza', 'Commedia nera']; TMDB ['Mistero', 'Dramma', 'Commedia', 'Sci-Fi & Fantasy', 'Action & Adventure']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Utopia",
+    "orig": "Utopia",
+    "first": 2013,
+    "last": 2014,
+    "status": "Canceled",
+    "eps": 12,
+    "seasons": [
+     6,
+     6
+    ],
+    "creators": [
+     "Dennis Kelly"
+    ],
+    "imdb": "tt2384811"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2013,
+    "end": 2014,
+    "eps": 12
+   }
+  }
+ },
+ {
+  "id": "s85",
+  "title": "Atlanta",
+  "ours": {
+   "totalEps": 41,
+   "avgMin": 27,
+   "epsWatched": 0,
+   "y0": "2016",
+   "y1": "2022",
+   "seasons": [
+    10,
+    11,
+    10,
+    10
+   ],
+   "tmdb": 65495,
+   "creators": [
+    "Donald Glover"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Will Forte', 'Kristen Schaal', 'January Jones', 'Cleopatra Coleman', 'Mel Rodriguez', 'Mary Steenburgen', 'Boris Kodjoe', 'Kenneth Choi', 'Leighton Meester', 'Alexandra Daddario', 'Fred Armisen']; TMDB top: ['Donald Glover', 'Brian Tyree Henry', 'LaKeith Stanfield', 'Zazie Beetz', 'Khris Davis', 'Katt Williams', 'Diane Sellers', 'Rick Holmes']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Keith L. Williams']"
+   ],
+   [
+    "PERSONAGGIO",
+    "[\"Keith L. Williams: 'Jasper' vs ['Uncle Willy']\"]"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Atlanta",
+    "orig": "Atlanta",
+    "first": 2016,
+    "last": 2022,
+    "status": "Ended",
+    "eps": 41,
+    "seasons": [
+     10,
+     11,
+     10,
+     10
+    ],
+    "creators": [
+     "Donald Glover"
+    ],
+    "imdb": "tt4288182"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2016,
+    "end": 2022,
+    "eps": 41
+   }
+  }
+ },
+ {
+  "id": "s86",
+  "title": "Fargo",
+  "ours": {
+   "totalEps": 51,
+   "avgMin": 50,
+   "epsWatched": 0,
+   "y0": "2014",
+   "y1": "2024",
+   "seasons": [
+    10,
+    10,
+    10,
+    11,
+    10
+   ],
+   "tmdb": 60622,
+   "creators": [
+    "Noah Hawley"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Sam Spruell']; TMDB top: ['Jason Schwartzman', 'Allison Tolman', 'Colin Hanks', 'Chris Rock', 'Jessie Buckley', 'Ben Whishaw', 'Jack Huston', 'Salvatore Esposito']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Ewan McGregor']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Fargo",
+    "orig": "Fargo",
+    "first": 2014,
+    "last": 2024,
+    "status": "Ended",
+    "eps": 51,
+    "seasons": [
+     10,
+     10,
+     10,
+     11,
+     10
+    ],
+    "creators": [
+     "Noah Hawley"
+    ],
+    "imdb": "tt2802850"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2014,
+    "end": 2024,
+    "eps": 51
+   }
+  }
+ },
+ {
+  "id": "s87",
+  "title": "3 Body Problem",
+  "ours": {
+   "totalEps": 8,
+   "avgMin": 58,
+   "epsWatched": 0,
+   "y0": "2024",
+   "y1": "",
+   "seasons": [
+    8
+   ],
+   "tmdb": 108545,
+   "creators": [
+    "David Benioff",
+    "D.B. Weiss",
+    "Alexander Woo"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "Il problema dei 3 corpi",
+    "orig": "3 Body Problem",
+    "first": 2024,
+    "last": 2024,
+    "status": "Returning Series",
+    "eps": 8,
+    "seasons": [
+     8
+    ],
+    "creators": [
+     "David Benioff",
+     "D. B. Weiss",
+     "Alexander Woo"
+    ],
+    "imdb": "tt13016388"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2024,
+    "end": null,
+    "eps": 15
+   }
+  }
+ },
+ {
+  "id": "s88",
+  "title": "Lupin",
+  "ours": {
+   "totalEps": 17,
+   "avgMin": 28,
+   "epsWatched": 0,
+   "y0": "2021",
+   "y1": "",
+   "seasons": [
+    5,
+    5,
+    7
+   ],
+   "tmdb": 96677,
+   "creators": [
+    "Louis Leterrier",
+    "George Kay"
+   ]
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [5, 5, 7]; TMDB [10, 7, 8] (serie in corso)"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Kamel Guenfoud', 'Grégoire Colin', 'Arthur Choisnet', 'Saïd Benchnafa', 'Mohamed Nouar', 'Ary Gabison', 'Xavier Gojo', 'Linda Massoz', 'Karim Lasmi', 'François Créton', 'Laurent Maurel']; TMDB top: ['Omar Sy', 'Ludivine Sagnier', 'Soufiane Guerrab', 'Shirine Boutella', 'Etan Simon', 'Antoine Gouy', 'Mamadou Haïdara', 'Hervé Pierre']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 17; TMDB 25, IMDb 25"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Lupin",
+    "orig": "Lupin",
+    "first": 2021,
+    "last": 2023,
+    "status": "Returning Series",
+    "eps": 25,
+    "seasons": [
+     10,
+     7,
+     8
+    ],
+    "creators": [
+     "George Kay",
+     "François Uzan",
+     "Marie Roussin",
+     "Florent Meyer",
+     "Tigran Rosine"
+    ],
+    "imdb": "tt2531336"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2021,
+    "end": null,
+    "eps": 25
+   }
+  }
+ },
+ {
+  "id": "s89",
+  "title": "The Last Kingdom",
+  "ours": {
+   "totalEps": 46,
+   "avgMin": 48,
+   "epsWatched": 0,
+   "y0": "2015",
+   "y1": "2022",
+   "seasons": [
+    8,
+    8,
+    10,
+    10,
+    10
+   ],
+   "tmdb": 63333,
+   "creators": [
+    "Jack Bender",
+    "Michele Fazekas",
+    "Tara Butters"
+   ]
+  },
+  "flags": [
+   [
+    "CREATORI",
+    "Nostri ['Jack Bender', 'Michele Fazekas', 'Tara Butters']; TMDB ['Stephen Butchard']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['찬열', '문가영', '도경수', '백현', '세훈', '장유상', '전수진', '김희정', '윤주상', '카이', '수호', '张艺兴']; TMDB top: ['Alexander Dreymon', 'Eliza Butterworth', 'Arnas Fedaravičius', 'Mark Rowley', 'Emily Cox', 'James Northcote', 'Millie Brady', 'Timothy Innes']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The Last Kingdom",
+    "orig": "The Last Kingdom",
+    "first": 2015,
+    "last": 2022,
+    "status": "Ended",
+    "eps": 46,
+    "seasons": [
+     8,
+     8,
+     10,
+     10,
+     10
+    ],
+    "creators": [
+     "Stephen Butchard"
+    ],
+    "imdb": "tt4179452"
+   },
+   "poster_dist": 4,
+   "imdb": {
+    "year": 2015,
+    "end": 2022,
+    "eps": 46
+   }
+  }
+ },
+ {
+  "id": "s90",
+  "title": "The Wire",
+  "ours": {
+   "totalEps": 60,
+   "avgMin": 58,
+   "epsWatched": 0,
+   "y0": "2002",
+   "y1": "2008",
+   "seasons": [
+    13,
+    12,
+    12,
+    13,
+    10
+   ],
+   "tmdb": 1438,
+   "creators": [
+    "David Simon"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "The Wire",
+    "orig": "The Wire",
+    "first": 2002,
+    "last": 2008,
+    "status": "Ended",
+    "eps": 60,
+    "seasons": [
+     13,
+     12,
+     12,
+     13,
+     10
+    ],
+    "creators": [
+     "David Simon"
+    ],
+    "imdb": "tt0306414"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2002,
+    "end": 2008,
+    "eps": 60
+   }
+  }
+ },
+ {
+  "id": "s91",
+  "title": "The Sopranos",
+  "ours": {
+   "totalEps": 86,
+   "avgMin": 52,
+   "epsWatched": 20,
+   "y0": "1999",
+   "y1": "2007",
+   "seasons": [
+    13,
+    13,
+    13,
+    13,
+    13,
+    21
+   ],
+   "tmdb": 1398,
+   "creators": [
+    "David Chase"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Victor Spinetti', 'Roy Kinnear', 'Melvyn Hayes', 'Sheila Steafel', 'Jon Pertwee', 'Myfanwy Talog', 'Derek Griffiths', 'Christopher Plummer', 'Peter Hawkins', 'Mel Blanc']; TMDB top: ['James Gandolfini', 'Edie Falco', 'Jamie-Lynn Sigler', 'Robert Iler', 'Lorraine Bracco', 'Michael Imperioli', 'Steven Van Zandt', 'Tony Sirico']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "I Soprano",
+    "orig": "The Sopranos",
+    "first": 1999,
+    "last": 2007,
+    "status": "Ended",
+    "eps": 86,
+    "seasons": [
+     13,
+     13,
+     13,
+     13,
+     13,
+     21
+    ],
+    "creators": [
+     "David Chase"
+    ],
+    "imdb": "tt0141842"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 1999,
+    "end": 2007,
+    "eps": 86
+   }
+  }
+ },
+ {
+  "id": "s92",
+  "title": "The Boys",
+  "ours": {
+   "totalEps": 40,
+   "avgMin": 58,
+   "epsWatched": 0,
+   "y0": "2019",
+   "y1": "2026",
+   "seasons": [
+    8,
+    8,
+    8,
+    8,
+    8
+   ],
+   "tmdb": 76479,
+   "creators": [
+    "Eric Kripke"
+   ]
+  },
+  "flags": [
+   [
+    "GENERI",
+    "Nostri ['Azione', 'Fantascienza', 'Commedia nera']; TMDB ['Sci-Fi & Fantasy', 'Action & Adventure']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The Boys",
+    "orig": "The Boys",
+    "first": 2019,
+    "last": 2026,
+    "status": "Ended",
+    "eps": 40,
+    "seasons": [
+     8,
+     8,
+     8,
+     8,
+     8
+    ],
+    "creators": [
+     "Eric Kripke"
+    ],
+    "imdb": "tt1190634"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2019,
+    "end": 2026,
+    "eps": 40
+   }
+  }
+ },
+ {
+  "id": "s93",
+  "title": "24",
+  "ours": {
+   "totalEps": 192,
+   "avgMin": 44,
+   "epsWatched": 0,
+   "y0": "2001",
+   "y1": "2010",
+   "seasons": [
+    24,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24
+   ],
+   "tmdb": 1973,
+   "creators": [
+    "Joel Surnow",
+    "Robert Cochran"
+   ]
+  },
+  "flags": [
+   [
+    "ANNO_FINE",
+    "Nostro 2010; TMDB 2014 (serie Ended)"
+   ],
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [24, 24, 24, 24, 24, 24, 24, 24]; TMDB [24, 24, 24, 24, 24, 24, 24, 24, 12]"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Azione', 'Thriller', 'Drama']; TMDB ['Action & Adventure', 'Dramma', 'Crimine']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Yvonne Strahovski', 'Tate Donovan', 'John Terry']; TMDB top: ['Kiefer Sutherland', 'Mary Lynn Rajskub', 'Carlos Bernard', 'Dennis Haysbert', 'Elisha Cuthbert', 'Sarah Clarke', 'Kim Raver', 'James Morrison']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "24",
+    "orig": "24",
+    "first": 2001,
+    "last": 2014,
+    "status": "Ended",
+    "eps": 204,
+    "seasons": [
+     24,
+     24,
+     24,
+     24,
+     24,
+     24,
+     24,
+     24,
+     12
+    ],
+    "creators": [
+     "Robert Cochran",
+     "Joel Surnow"
+    ],
+    "imdb": "tt0285331"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2001,
+    "end": 2010,
+    "eps": 192
+   }
+  }
+ },
+ {
+  "id": "s94",
+  "title": "Brooklyn 99",
+  "ours": {
+   "totalEps": 151,
+   "avgMin": 22,
+   "epsWatched": 0,
+   "y0": "2013",
+   "y1": "2021",
+   "seasons": [
+    22,
+    23,
+    23,
+    21,
+    22,
+    18,
+    13,
+    9
+   ],
+   "tmdb": 48891,
+   "creators": [
+    "Dan Goor",
+    "Michael Schur"
+   ]
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [22, 23, 23, 21, 22, 18, 13, 9]; TMDB [22, 23, 23, 22, 22, 18, 13, 9]"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Adam Sandler', 'Joe Theismann', 'Anthony Azizi']; TMDB top: ['Andy Samberg', 'Melissa Fumero', 'Terry Crews', 'Joe Lo Truglio', 'Stephanie Beatriz', 'Andre Braugher', 'Dirk Blocker', 'Joel McKinnon Miller']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 151; TMDB 152, IMDb 153"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Brooklyn Nine-Nine",
+    "orig": "Brooklyn Nine-Nine",
+    "first": 2013,
+    "last": 2021,
+    "status": "Ended",
+    "eps": 152,
+    "seasons": [
+     22,
+     23,
+     23,
+     22,
+     22,
+     18,
+     13,
+     9
+    ],
+    "creators": [
+     "Daniel J. Goor",
+     "Michael Schur"
+    ],
+    "imdb": "tt2467372"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2013,
+    "end": 2021,
+    "eps": 153
+   }
+  }
+ },
+ {
+  "id": "s95",
+  "title": "12 Monkeys",
+  "ours": {
+   "totalEps": 47,
+   "avgMin": 44,
+   "epsWatched": 0,
+   "y0": "2015",
+   "y1": "2018",
+   "seasons": [
+    13,
+    13,
+    10,
+    11
+   ],
+   "tmdb": 60948,
+   "creators": [
+    "Terry Matalas",
+    "Travis Fickett"
+   ]
+  },
+  "flags": [
+   [
+    "GENERI",
+    "Nostri ['Fantascienza', 'Thriller', 'Drama']; TMDB ['Sci-Fi & Fantasy', 'Dramma']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Wolfgang Kieling', 'Andrea Rau', 'Gernot Endemann', 'Karlheinz Lemken', 'Horst Hesslein', 'Paul Edwin Roth', 'Ferdinand Dux', 'Michael Gempart', 'Herbert Fleischmann', 'Gert Schaefer', 'Gerhard Olschewski', 'Rudolf Beiswanger']; TMDB top: ['Aaron Stanford', 'Amanda Schull', 'Barbara Sukowa', 'Emily Hampshire', 'Todd Stashwick', 'Andrew Gillies', 'Kirk Acevedo', 'Alisen Richmond-Peck']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "12 Monkeys",
+    "orig": "12 Monkeys",
+    "first": 2015,
+    "last": 2018,
+    "status": "Ended",
+    "eps": 47,
+    "seasons": [
+     13,
+     13,
+     10,
+     11
+    ],
+    "creators": [
+     "Terry Matalas",
+     "Travis Fickett"
+    ],
+    "imdb": "tt3148266"
+   },
+   "poster_dist": 3,
+   "imdb": {
+    "year": 2015,
+    "end": 2018,
+    "eps": 47
+   }
+  }
+ },
+ {
+  "id": "s96",
+  "title": "The Killing",
+  "ours": {
+   "totalEps": 44,
+   "avgMin": 48,
+   "epsWatched": 0,
+   "y0": "2011",
+   "y1": "2014",
+   "seasons": [
+    13,
+    13,
+    12,
+    6
+   ],
+   "tmdb": 34415,
+   "creators": [
+    "Veena Sud"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "The Killing",
+    "orig": "The Killing",
+    "first": 2011,
+    "last": 2014,
+    "status": "Ended",
+    "eps": 44,
+    "seasons": [
+     13,
+     13,
+     12,
+     6
+    ],
+    "creators": [
+     "Veena Sud"
+    ],
+    "imdb": "tt1637727"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2011,
+    "end": 2014,
+    "eps": 44
+   }
+  }
+ },
+ {
+  "id": "s97",
+  "title": "Luther",
+  "ours": {
+   "totalEps": 20,
+   "avgMin": 58,
+   "epsWatched": 0,
+   "y0": "2010",
+   "y1": "2019",
+   "seasons": [
+    6,
+    4,
+    4,
+    2,
+    4
+   ],
+   "tmdb": 1426,
+   "creators": [
+    "Neil Cross"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "Luther",
+    "orig": "Luther",
+    "first": 2010,
+    "last": 2019,
+    "status": "Ended",
+    "eps": 20,
+    "seasons": [
+     6,
+     4,
+     4,
+     2,
+     4
+    ],
+    "creators": [
+     "Neil Cross"
+    ],
+    "imdb": "tt1474684"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2010,
+    "end": 2019,
+    "eps": 20
+   }
+  }
+ },
+ {
+  "id": "s98",
+  "title": "The Bridge",
+  "ours": {
+   "totalEps": 38,
+   "avgMin": 50,
+   "epsWatched": 0,
+   "y0": "2011",
+   "y1": "2018",
+   "seasons": [
+    10,
+    10,
+    10,
+    8
+   ],
+   "tmdb": 45016,
+   "creators": [
+    "Hans Rosenfeldt"
+   ]
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'The Bridge' ≠ 'The Bridge - La serie originale'/'Bron/Broen'"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Elliott Crosset Hove']; TMDB top: ['Sofia Helin', 'Rafael Pettersson', 'Sarah Boberg', 'Dag Malmberg', 'Kim Bodnia', 'Thure Lindhardt', 'Maria Kulle', 'Puk Scharbau']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The Bridge - La serie originale",
+    "orig": "Bron/Broen",
+    "first": 2011,
+    "last": 2018,
+    "status": "Ended",
+    "eps": 38,
+    "seasons": [
+     10,
+     10,
+     10,
+     8
+    ],
+    "creators": [
+     "Hans Rosenfeldt"
+    ],
+    "imdb": "tt1733785"
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2011,
+    "end": 2018,
+    "eps": 38
+   }
+  }
+ },
+ {
+  "id": "s99",
+  "title": "Le Bureau",
+  "ours": {
+   "totalEps": 50,
+   "avgMin": 52,
+   "epsWatched": 0,
+   "y0": "2015",
+   "y1": "2020",
+   "seasons": [
+    10,
+    10,
+    10,
+    10,
+    10
+   ],
+   "tmdb": 62476,
+   "creators": [
+    "Éric Rochant"
+   ]
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Le Bureau' ≠ 'Le Bureau - Sotto copertura'/'Le Bureau des légendes'"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Le Bureau - Sotto copertura",
+    "orig": "Le Bureau des légendes",
+    "first": 2015,
+    "last": 2020,
+    "status": "Ended",
+    "eps": 50,
+    "seasons": [
+     10,
+     10,
+     10,
+     10,
+     10
+    ],
+    "creators": [
+     "Eric Rochant"
+    ],
+    "imdb": "tt4063800"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2015,
+    "end": 2020,
+    "eps": 50
+   }
+  }
+ },
+ {
+  "id": "s100",
+  "title": "The Americans",
+  "ours": {
+   "totalEps": 75,
+   "avgMin": 44,
+   "epsWatched": 0,
+   "y0": "2013",
+   "y1": "2018",
+   "seasons": [
+    13,
+    13,
+    13,
+    13,
+    13,
+    10
+   ],
+   "tmdb": 46533,
+   "creators": [
+    "Joe Weisberg"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Charlie Hunnam', 'Johnny Lewis', 'Katey Sagal', 'Ron Perlman', 'Tommy Flanagan', 'Mark Boone Junior', 'Ryan Hurst', 'Kim Coates', 'Maggie Siff', 'Theo Rossi', 'Dayton Callie', 'David Labrava']; TMDB top: ['Keri Russell', 'Matthew Rhys', 'Holly Taylor', 'Keidrich Sellati', 'Noah Emmerich', 'Costa Ronin', 'Lev Gorn', 'Alison Wright']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The Americans",
+    "orig": "The Americans",
+    "first": 2013,
+    "last": 2018,
+    "status": "Ended",
+    "eps": 75,
+    "seasons": [
+     13,
+     13,
+     13,
+     13,
+     13,
+     10
+    ],
+    "creators": [
+     "Joe Weisberg"
+    ],
+    "imdb": "tt2149175"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2013,
+    "end": 2018,
+    "eps": 75
+   }
+  }
+ },
+ {
+  "id": "s101",
+  "title": "Dark",
+  "ours": {
+   "totalEps": 26,
+   "avgMin": 55,
+   "epsWatched": 0,
+   "y0": "2017",
+   "y1": "2020",
+   "seasons": [
+    10,
+    8,
+    8
+   ],
+   "tmdb": 70523,
+   "creators": [
+    "Baran bo Odar",
+    "Jantje Friese"
+   ]
+  },
+  "flags": [],
+  "src": {
+   "tmdb": {
+    "name": "Dark",
+    "orig": "Dark",
+    "first": 2017,
+    "last": 2020,
+    "status": "Ended",
+    "eps": 26,
+    "seasons": [
+     10,
+     8,
+     8
+    ],
+    "creators": [
+     "Baran bo Odar",
+     "Jantje Friese"
+    ],
+    "imdb": "tt5753856"
+   },
+   "poster_dist": 9,
+   "imdb": {
+    "year": 2017,
+    "end": 2020,
+    "eps": 26
+   }
+  }
+ },
+ {
+  "id": "s102",
+  "title": "Fallout",
+  "ours": {
+   "totalEps": 8,
+   "avgMin": 55,
+   "epsWatched": 0,
+   "y0": "2024",
+   "y1": "",
+   "seasons": [
+    8
+   ],
+   "tmdb": 106379,
+   "creators": [
+    "Geneva Robertson-Dworet",
+    "Graham Wagner"
+   ]
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [8]; TMDB [8, 8] (serie in corso)"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Fantascienza', 'Azione', 'Commedia nera']; TMDB ['Action & Adventure', 'Sci-Fi & Fantasy', 'Dramma']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Sam Elliott', 'Tim McGraw', 'Faith Hill', 'Isabel May', 'LaMonica Garrett', 'Marc Rissmann', 'Audie Rick', 'James Landry Hébert', 'Dan Pfau', 'Dean Gosdin', 'Natalie Dickinson', 'Kamen Casey']; TMDB top: ['Ella Purnell', 'Aaron Moten', 'Moisés Arias', 'Walton Goggins', 'Frances Turner', 'Kyle MacLachlan', 'Dave Register', 'Leslie Uggams']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 8; TMDB 16, IMDb 17"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Fallout",
+    "orig": "Fallout",
+    "first": 2024,
+    "last": 2026,
+    "status": "Returning Series",
+    "eps": 16,
+    "seasons": [
+     8,
+     8
+    ],
+    "creators": [
+     "Graham Wagner",
+     "Geneva Robertson-Dworet"
+    ],
+    "imdb": "tt12637874"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2024,
+    "end": null,
+    "eps": 17
+   }
+  }
+ },
+ {
+  "id": "s103",
+  "title": "Limitless",
+  "ours": {
+   "totalEps": 22,
+   "avgMin": 44,
+   "epsWatched": 0,
+   "y0": "2015",
+   "y1": "2016",
+   "seasons": [
+    22
+   ],
+   "tmdb": 62687,
+   "creators": [
+    "Craig Sweeny"
+   ]
+  },
+  "flags": [
+   [
+    "GENERI",
+    "Nostri ['Crimine', 'Fantascienza', 'Thriller']; TMDB ['Dramma', 'Commedia', 'Action & Adventure']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Limitless",
+    "orig": "Limitless",
+    "first": 2015,
+    "last": 2016,
+    "status": "Canceled",
+    "eps": 22,
+    "seasons": [
+     22
+    ],
+    "creators": [
+     "Craig Sweeny"
+    ],
+    "imdb": "tt4422836"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2015,
+    "end": 2016,
+    "eps": 22
+   }
+  }
+ },
+ {
+  "id": "s104",
+  "title": "Hannibal",
+  "ours": {
+   "totalEps": 39,
+   "avgMin": 44,
+   "epsWatched": 0,
+   "y0": "2013",
+   "y1": "2015",
+   "seasons": [
+    13,
+    13,
+    13
+   ],
+   "tmdb": 40008,
+   "creators": [
+    "Bryan Fuller"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Ellen Greene', 'Lance Henriksen', 'Suzy Eddie Izzard', 'Tom Wisdom']; TMDB top: ['Mads Mikkelsen', 'Hugh Dancy', 'Laurence Fishburne', 'Caroline Dhavernas', 'Aaron Abrams', 'Scott Thompson', 'Gillian Anderson', 'Kacey Rohl']"
+   ],
+   [
+    "POSTER",
+    "Copertina non corrisponde ai poster TMDB id 40008 (Hannibal 2013), distanza 21. Candidati: [(21, 40008, 'Hannibal', '2013'), (32, 33247, \"On Hannibal's Trail\", '2010'), (36, 62993, 'Why? With Hannibal Buress', '2015')]"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Hannibal",
+    "orig": "Hannibal",
+    "first": 2013,
+    "last": 2015,
+    "status": "Ended",
+    "eps": 39,
+    "seasons": [
+     13,
+     13,
+     13
+    ],
+    "creators": [
+     "Bryan Fuller"
+    ],
+    "imdb": "tt2243973"
+   },
+   "poster_dist": 21,
+   "imdb": {
+    "year": 2013,
+    "end": 2015,
+    "eps": 39
+   }
+  }
+ },
+ {
+  "id": "s105",
+  "title": "BoJack Horseman",
+  "ours": {
+   "totalEps": 76,
+   "avgMin": 25,
+   "epsWatched": 0,
+   "y0": "2014",
+   "y1": "2020",
+   "seasons": [
+    12,
+    12,
+    12,
+    12,
+    12,
+    16
+   ],
+   "tmdb": 61222,
+   "creators": [
+    "Raphael Bob-Waksberg"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Hong Chau', 'Jon Daly', 'Fred Tatasciore', 'Judy Greer', 'Minae Noji']; TMDB top: ['Will Arnett', 'Aaron Paul', 'Alison Brie', 'Amy Sedaris', 'Paul F. Tompkins', 'Adam Conover', 'Keith Olbermann', 'Patton Oswalt']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Alison Brie']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "BoJack Horseman",
+    "orig": "BoJack Horseman",
+    "first": 2014,
+    "last": 2020,
+    "status": "Ended",
+    "eps": 76,
+    "seasons": [
+     12,
+     12,
+     12,
+     12,
+     12,
+     16
+    ],
+    "creators": [
+     "Raphael Bob-Waksberg"
+    ],
+    "imdb": "tt3398228"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 2014,
+    "end": 2020,
+    "eps": 76
+   }
+  }
+ },
+ {
+  "id": "s106",
+  "title": "Gravity Falls",
+  "ours": {
+   "totalEps": 42,
+   "avgMin": 22,
+   "epsWatched": 0,
+   "y0": "2012",
+   "y1": "2016",
+   "seasons": [
+    20,
+    22
+   ],
+   "tmdb": 40075,
+   "creators": [
+    "Alex Hirsch"
+   ]
+  },
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [20, 22]; TMDB [20, 20]"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Greg Cipes', 'John Roberts']; TMDB top: ['Jason Ritter', 'Kristen Schaal', 'Alex Hirsch', 'Linda Cardellini', 'Matt Chapman', 'Gregg Turkington', 'Kevin Michael Richardson', 'Carl Faruolo']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 42; TMDB 40, IMDb 41"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Gravity Falls",
+    "orig": "Gravity Falls",
+    "first": 2012,
+    "last": 2016,
+    "status": "Ended",
+    "eps": 40,
+    "seasons": [
+     20,
+     20
+    ],
+    "creators": [
+     "Alex Hirsch"
+    ],
+    "imdb": "tt1865718"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2012,
+    "end": 2016,
+    "eps": 41
+   }
+  }
+ },
+ {
+  "id": "s107",
+  "title": "Avatar: The Last Airbender",
+  "ours": {
+   "totalEps": 61,
+   "avgMin": 23,
+   "epsWatched": 0,
+   "y0": "2005",
+   "y1": "2008",
+   "seasons": [
+    20,
+    20,
+    21
+   ],
+   "tmdb": 246,
+   "creators": [
+    "Michael Dante DiMartino",
+    "Bryan Konietzko"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Jodi Carlisle']; TMDB top: ['Zach Tyler Eisen', 'Mae Whitman', 'Jack De Sena', 'Dante Basco', 'Dee Bradley Baker', 'Michaela Jill Murphy', 'Mako', 'Cricket Leigh']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Avatar - La leggenda di Aang",
+    "orig": "Avatar: The Last Airbender",
+    "first": 2005,
+    "last": 2008,
+    "status": "Ended",
+    "eps": 61,
+    "seasons": [
+     20,
+     20,
+     21
+    ],
+    "creators": [
+     "Michael Dante DiMartino",
+     "Bryan Konietzko"
+    ],
+    "imdb": "tt0417299"
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2005,
+    "end": 2008,
+    "eps": 62
+   }
+  }
+ },
+ {
+  "id": "s108",
+  "title": "Over the Garden Wall",
+  "ours": {
+   "totalEps": 10,
+   "avgMin": 11,
+   "epsWatched": 0,
+   "y0": "2014",
+   "y1": "",
+   "seasons": [
+    10
+   ],
+   "tmdb": 61617,
+   "creators": [
+    "Patrick McHale"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Baz Ashmawy', 'Nancy Ashmawy']; TMDB top: ['Elijah Wood', 'Collin Dean', 'Melanie Lynskey', 'Samuel Ramey', 'Christopher Lloyd', 'Jack Jones', 'John Cleese', 'Sam Marin']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Over the Garden Wall - Avventura nella foresta dei misteri",
+    "orig": "Over the Garden Wall",
+    "first": 2014,
+    "last": 2014,
+    "status": "Ended",
+    "eps": 10,
+    "seasons": [
+     10
+    ],
+    "creators": [
+     "Patrick McHale"
+    ],
+    "imdb": "tt3718778"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2014,
+    "end": 2014,
+    "eps": 10
+   }
+  }
+ },
+ {
+  "id": "s109",
+  "title": "Eteros Ego",
+  "ours": {
+   "totalEps": 24,
+   "avgMin": 50,
+   "epsWatched": 0,
+   "y0": "2019",
+   "y1": "2023",
+   "seasons": [
+    8,
+    8,
+    8
+   ],
+   "tmdb": 90621,
+   "creators": [
+    "Sotiris Tsafoulias",
+    "Katerina Filiotou"
+   ]
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Eteros Ego' ≠ 'Έτερος Εγώ'/'Έτερος Εγώ'"
+   ],
+   [
+    "CREATORI",
+    "Nostri ['Sotiris Tsafoulias', 'Katerina Filiotou']; TMDB ['Σωτήρης Τσαφούλιας']"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Commedia', 'Romance']; TMDB ['Mistero', 'Crimine']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Πυγμαλίων Δαδακαρίδης', 'Πέτρος Λαγούτης', 'Βίκυ Παπαδοπούλου', 'Τάσος Νούσιας', 'Άννα Μενενάκου', 'Δημήτρης Καπετανάκος', 'Τόνια Μαράκη', 'Μάνος Βακούσης', 'Πέτρος Σκαρμέας', 'Μαριάννα Τουμασάτου', 'Σπύρος Παπαδόπουλος', 'Βασίλης Ρίσβας']"
+   ],
+   [
+    "PERSONAGGIO",
+    "[\"Πυγμαλίων Δαδακαρίδης: 'Dimitris Lainis' vs ['Gerasimos Nezis']\", \"Πέτρος Λαγούτης: 'Pantelis Sklavis' vs ['Gerasimos Nezis']\", \"Βίκυ Παπαδοπούλου: 'Christina Stergiou' vs ['Gerasimos Nezis']\", \"Τάσος Νούσιας: 'Nikos Vanortas' vs ['Gerasimos Nezis']\", \"Άννα Μενενάκου: 'Martha Kara' vs ['Gerasimos Nezis']\"]"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Έτερος Εγώ",
+    "orig": "Έτερος Εγώ",
+    "first": 2019,
+    "last": 2023,
+    "status": "Ended",
+    "eps": 24,
+    "seasons": [
+     8,
+     8,
+     8
+    ],
+    "creators": [
+     "Σωτήρης Τσαφούλιας"
+    ],
+    "imdb": "tt10478048"
+   },
+   "poster_dist": null,
+   "imdb": {
+    "year": 2019,
+    "end": 2023,
+    "eps": 24
+   }
+  }
+ },
+ {
+  "id": "s111",
+  "title": "Aspirants",
+  "ours": {
+   "totalEps": 15,
+   "avgMin": 45,
+   "epsWatched": 0,
+   "y0": "2021",
+   "y1": "2026",
+   "seasons": [
+    5,
+    5,
+    5
+   ],
+   "tmdb": 124411,
+   "creators": [
+    "Apoorv Singh Karki"
+   ]
+  },
+  "flags": [
+   [
+    "TITOLO",
+    "'Aspirants' ≠ 'आस्पिरेंट्स'/'आस्पिरेंट्स'"
+   ],
+   [
+    "CREATORI",
+    "Nostri ['Apoorv Singh Karki']; TMDB ['Arunabh Kumar', 'Shreyansh Pandey', 'Deepesh Sumitra Jagdish']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "आस्पिरेंट्स",
+    "orig": "आस्पिरेंट्स",
+    "first": 2021,
+    "last": 2026,
+    "status": "Returning Series",
+    "eps": 15,
+    "seasons": [
+     5,
+     5,
+     5
+    ],
+    "creators": [
+     "Arunabh Kumar",
+     "Shreyansh Pandey",
+     "Deepesh Sumitra Jagdish"
+    ],
+    "imdb": "tt14392248"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2021,
+    "end": null,
+    "eps": 15
+   }
+  }
+ },
+ {
+  "id": "s112",
+  "title": "Berlino",
+  "ours": {
+   "totalEps": 8,
+   "avgMin": 45,
+   "epsWatched": 0,
+   "y0": "2023",
+   "y1": "",
+   "seasons": [
+    8
+   ],
+   "tmdb": 146176,
+   "creators": [
+    "Álex Pina",
+    "Esther Martínez Lobato"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Javier Collado', 'Marcos Frutos', 'Verónica Gregory']; TMDB top: ['Pedro Alonso', 'Samantha Siqueiros', 'Tristán Ulloa', 'Michelle Jenner', 'Joel Sánchez', 'Begoña Vargas', 'Julio Peña', 'Julien Paschal']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Berlino e i gioielli di Parigi",
+    "orig": "Berlín",
+    "first": 2023,
+    "last": 2023,
+    "status": "Ended",
+    "eps": 8,
+    "seasons": [
+     8
+    ],
+    "creators": [
+     "Álex Pina",
+     "Esther Martínez Lobato"
+    ],
+    "imdb": "tt16288804"
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2023,
+    "end": 2023,
+    "eps": 8
+   }
+  }
+ },
+ {
+  "id": "s113",
+  "title": "Persona",
+  "ours": {
+   "totalEps": 9,
+   "avgMin": 45,
+   "epsWatched": 0,
+   "y0": "2018",
+   "y1": "2024",
+   "seasons": [
+    4,
+    5
+   ],
+   "tmdb": 87811,
+   "creators": [
+    "Lee Kyoung-mi",
+    "Kim Jong-kwan",
+    "Jeon Go-woon",
+    "Lim Pil-sung"
+   ]
+  },
+  "flags": [
+   [
+    "ANNO_INIZIO",
+    "Nostro 2018; TMDB 2019"
+   ],
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [4, 5]; TMDB [4] (serie in corso)"
+   ],
+   [
+    "CREATORI",
+    "Nostri ['Lee Kyoung-mi', 'Kim Jong-kwan', 'Jeon Go-woon', 'Lim Pil-sung']; TMDB ['윤종신']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['배두나', '박해수', '심달기', '김태훈', '이성욱', '임선우']"
+   ],
+   [
+    "PERSONAGGIO",
+    "[\"배두나: 'Doo-na' vs ['K']\", \"박해수: 'Jung-woo' vs ['K']\", \"김태훈: 'Father' vs ['K']\", \"이성욱: 'Jung-geun' vs ['K']\"]"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 9; TMDB 4, IMDb 4"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Persona",
+    "orig": "페르소나",
+    "first": 2019,
+    "last": 2019,
+    "status": "Returning Series",
+    "eps": 4,
+    "seasons": [
+     4
+    ],
+    "creators": [
+     "윤종신"
+    ],
+    "imdb": "tt10027990"
+   },
+   "poster_dist": 16,
+   "imdb": {
+    "year": 2019,
+    "end": 2023,
+    "eps": 4
+   }
+  }
+ },
+ {
+  "id": "s114",
+  "title": "Twin Peaks",
+  "ours": {
+   "totalEps": 48,
+   "avgMin": 45,
+   "epsWatched": 0,
+   "y0": "1990",
+   "y1": "2017",
+   "seasons": [
+    8,
+    22,
+    18
+   ],
+   "tmdb": 1920,
+   "creators": [
+    "Mark Frost",
+    "David Lynch"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Candy Clark']; TMDB top: ['Kyle MacLachlan', 'Michael Horse', 'Harry Goaz', 'Kimmy Robertson', 'Dana Ashbrook', 'Richard Beymer', 'Mädchen Amick', 'Peggy Lipton']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Harry Goaz']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "I segreti di Twin Peaks",
+    "orig": "Twin Peaks",
+    "first": 1990,
+    "last": 2017,
+    "status": "Ended",
+    "eps": 48,
+    "seasons": [
+     8,
+     22,
+     18
+    ],
+    "creators": [
+     "Mark Frost",
+     "David Lynch"
+    ],
+    "imdb": "tt0098936"
+   },
+   "poster_dist": 1,
+   "imdb": {
+    "year": 1990,
+    "end": 1991,
+    "eps": 30
+   }
+  }
+ },
+ {
+  "id": "s116",
+  "title": "Stranger Things",
+  "ours": {
+   "totalEps": 42,
+   "avgMin": 45,
+   "epsWatched": 0,
+   "y0": "2016",
+   "y1": "2025",
+   "seasons": [
+    8,
+    9,
+    8,
+    9,
+    8
+   ],
+   "tmdb": 66732,
+   "creators": [
+    "Matt Duffer",
+    "Ross Duffer"
+   ]
+  },
+  "flags": [
+   [
+    "GENERI",
+    "Nostri ['Fantascienza', 'Horror', 'Dramma']; TMDB ['Action & Adventure', 'Mistero', 'Sci-Fi & Fantasy']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Winona Ryder', 'Millie Bobby Brown', 'Caleb McLaughlin', 'Charlie Heaton']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Stranger Things",
+    "orig": "Stranger Things",
+    "first": 2016,
+    "last": 2025,
+    "status": "Ended",
+    "eps": 42,
+    "seasons": [
+     8,
+     9,
+     8,
+     9,
+     8
+    ],
+    "creators": [
+     "Ross Duffer",
+     "Matt Duffer"
+    ],
+    "imdb": "tt4574334"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2016,
+    "end": 2025,
+    "eps": 42
+   }
+  }
+ },
+ {
+  "id": "s117",
+  "title": "Black Sails",
+  "ours": {
+   "totalEps": 38,
+   "avgMin": 52,
+   "epsWatched": 0,
+   "y0": "2014",
+   "y1": "2017",
+   "seasons": [
+    8,
+    10,
+    10,
+    10
+   ],
+   "tmdb": 47665,
+   "creators": [
+    "Jonathan E. Steinberg",
+    "Robert Levine"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Mai Nakahara', '近藤孝行', 'Mamiko Noto', '皆川純子', 'Aya Hisakawa', '清水香里', 'Akeno Watanabe', 'かかずゆみ', 'Nobuyuki Hiyama', '山口太郎', '小谷津央典', '堀川仁']; TMDB top: ['Toby Stephens', 'Luke Arnold', 'Hannah New', 'Jessica Parker Kennedy', 'Toby Schmitz', 'Tom Hopper', 'Clara Paget', 'Zach McGowan']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Black Sails",
+    "orig": "Black Sails",
+    "first": 2014,
+    "last": 2017,
+    "status": "Ended",
+    "eps": 38,
+    "seasons": [
+     8,
+     10,
+     10,
+     10
+    ],
+    "creators": [
+     "Robert Levine",
+     "Jonathan E. Steinberg"
+    ],
+    "imdb": "tt2375692"
+   },
+   "poster_dist": 2,
+   "imdb": {
+    "year": 2014,
+    "end": 2017,
+    "eps": 38
+   }
+  }
+ },
+ {
+  "id": "s118",
+  "title": "The Queen's Gambit",
+  "ours": {
+   "totalEps": 7,
+   "avgMin": 58,
+   "epsWatched": 0,
+   "y0": "2020",
+   "y1": "",
+   "seasons": [
+    7
+   ],
+   "tmdb": 87739,
+   "creators": [
+    "Scott Frank"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: [\"Jonjo O'Neill\", 'Madeline Holliday', 'Jenny Galloway', 'Steffen Mennekes', 'Johannes Franke']; TMDB top: ['Anya Taylor-Joy', 'Chloe Pirrie', 'Marcin Dorociński', 'Matthew Dennis Lewis', 'Russell Dennis Lewis', 'Dolores Carbonari', 'Janina Elkin', 'Harry Melling']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Anya Taylor-Joy']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "La regina degli scacchi",
+    "orig": "The Queen's Gambit",
+    "first": 2020,
+    "last": 2020,
+    "status": "Ended",
+    "eps": 7,
+    "seasons": [
+     7
+    ],
+    "creators": [
+     "Scott Frank",
+     "Allan Scott"
+    ],
+    "imdb": "tt10048342"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2020,
+    "end": 2020,
+    "eps": 7
+   }
+  }
+ },
+ {
+  "id": "s119",
+  "title": "When They See Us",
+  "ours": {
+   "totalEps": 4,
+   "avgMin": 60,
+   "epsWatched": 0,
+   "y0": "2019",
+   "y1": "",
+   "seasons": [
+    4
+   ],
+   "tmdb": 81355,
+   "creators": [
+    "Ava DuVernay"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Josh Brener', 'Mary Elizabeth Winstead', 'Topher Grace', 'Helen Sadler', 'Hayley McLaughlin', 'Omid Abtahi', 'Christine Adams', 'Hakeem Kae-Kazim', 'Anastasia Foster', 'Neil Kaplan', 'G.K. Bowes', 'Courtenay Taylor']; TMDB top: ['Asante Blackk', 'Jharrel Jerome', 'Ethan Herisse', 'Marquis Rodriguez', 'Caleel Harris', 'Marsha Stephanie Blake', 'Michael Kenneth Williams', 'John Leguizamo']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "When They See Us",
+    "orig": "When They See Us",
+    "first": 2019,
+    "last": 2019,
+    "status": "Ended",
+    "eps": 4,
+    "seasons": [
+     4
+    ],
+    "creators": [
+     "Ava DuVernay"
+    ],
+    "imdb": "tt7137906"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2019,
+    "end": 2019,
+    "eps": 4
+   }
+  }
+ },
+ {
+  "id": "s126",
+  "title": "The Mandalorian",
+  "ours": {
+   "totalEps": 24,
+   "avgMin": 40,
+   "epsWatched": 0,
+   "y0": "2019",
+   "y1": "2023",
+   "seasons": [
+    8,
+    8,
+    8
+   ],
+   "tmdb": 82856,
+   "creators": [
+    "Jon Favreau"
+   ]
+  },
+  "flags": [
+   [
+    "GENERI",
+    "Nostri ['Fantascienza', 'Avventura', 'Azione']; TMDB ['Sci-Fi & Fantasy', 'Action & Adventure']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Kyle Pacek', 'John Beasley', 'Dmitrious Bistrevsky', 'Brian Posehn', 'Ryan Watson', 'Julia Jones', 'Isla Farris', 'Eugene Cordero', 'Aydrea Walden']; TMDB top: ['Pedro Pascal', 'Katee Sackhoff', 'Misty Rosas', 'Chris Bartlett', 'Carl Weathers', 'Emily Swallow', 'Brendan Wayne', 'Giancarlo Esposito']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "The Mandalorian",
+    "orig": "The Mandalorian",
+    "first": 2019,
+    "last": 2023,
+    "status": "Ended",
+    "eps": 24,
+    "seasons": [
+     8,
+     8,
+     8
+    ],
+    "creators": [
+     "Jon Favreau"
+    ],
+    "imdb": "tt8111088"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2019,
+    "end": 2023,
+    "eps": 24
+   }
+  }
+ },
+ {
+  "id": "s127",
+  "title": "Star Wars: The Clone Wars",
+  "ours": {
+   "totalEps": 133,
+   "avgMin": 22,
+   "epsWatched": 0,
+   "y0": "2008",
+   "y1": "2020",
+   "seasons": [
+    22,
+    22,
+    22,
+    22,
+    20,
+    13,
+    12
+   ],
+   "tmdb": 4194,
+   "creators": [
+    "George Lucas",
+    "Dave Filoni"
+   ]
+  },
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['David Tennant', 'Liam Neeson', 'Tom Kenny', 'George Takei']; TMDB top: ['Tom Kane', 'Matt Lanter', 'James Arnold Taylor', 'Dee Bradley Baker', 'Ashley Eckstein', 'Matthew Wood', \"Terrence 'T.C.' Carson\", 'Ian Abercrombie']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['James Arnold Taylor']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Star Wars: The Clone Wars",
+    "orig": "Star Wars: The Clone Wars",
+    "first": 2008,
+    "last": 2020,
+    "status": "Ended",
+    "eps": 133,
+    "seasons": [
+     22,
+     22,
+     22,
+     22,
+     20,
+     13,
+     12
+    ],
+    "creators": [
+     "George Lucas"
+    ],
+    "imdb": "tt0458290"
+   },
+   "poster_dist": 0,
+   "imdb": {
+    "year": 2008,
+    "end": 2020,
+    "eps": 133
+   }
+  }
+ },
+ {
+  "id": "s128",
+  "title": "And Then There Were None",
+  "ours": {
+   "totalEps": 3,
+   "avgMin": 56,
+   "epsWatched": 0,
+   "y0": "2015",
+   "y1": "",
+   "seasons": [
+    3
+   ],
+   "tmdb": 64684,
+   "creators": [
+    "Sarah Phelps"
+   ]
+  },
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Charles Dance']"
+   ]
+  ],
+  "src": {
+   "tmdb": {
+    "name": "Dieci piccoli indiani",
+    "orig": "And Then There Were None",
+    "first": 2015,
+    "last": 2015,
+    "status": "Ended",
+    "eps": 3,
+    "seasons": [
+     3
+    ],
+    "creators": [],
+    "imdb": "tt3581932"
+   },
+   "poster_dist": null,
+   "imdb": {
+    "year": 2015,
+    "end": 2015,
+    "eps": 3
+   }
+  }
+ }
+]
