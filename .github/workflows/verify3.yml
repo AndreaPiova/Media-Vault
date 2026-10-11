@@ -11,7 +11,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        job: [anime 0/4, anime 1/4, anime 2/4, anime 3/4, manga 0/1, libri 0/1]
+        job: [anime 0/4, anime 1/4, anime 2/4]
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -22,4 +22,4 @@ jobs:
         run: |
           git config user.name "mediavault-bot"; git config user.email "bot@users.noreply.github.com"
           git add data/verify3; git commit -m "verify3 ${{ matrix.job }}" || true
-          for i in 1 2 3 4 5 6; do git pull --rebase -X theirs && git push && break; sleep $((RANDOM%10+3)); done
+          for i in $(seq 1 12); do git fetch origin manga-publisher && git rebase -X theirs origin/manga-publisher && git push origin HEAD:manga-publisher && break; git rebase --abort 2>/dev/null; sleep $((RANDOM%15+3)); done
