@@ -1,0 +1,4845 @@
+[
+ {
+  "id": "s121",
+  "title": "The Penguin",
+  "tmdb": 194764,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Eugene Solfanelli']; TMDB top: ['Colin Farrell', 'Cristin Milioti', 'Rhenzy Feliz', \"Deirdre O'Connell\", 'Clancy Brown', 'Carmen Ejogo', 'Shohreh Aghdashloo', 'Theo Rossi']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Colin Farrell",
+    "personaggio": "Oz 'The Penguin' Cobb",
+    "foto": "https://image.tmdb.org/t/p/w185/5FdalJbrbZ5UCsED5rFrXpvbqJa.jpg"
+   },
+   {
+    "nome": "Cristin Milioti",
+    "personaggio": "Sofia Falcone",
+    "foto": "https://image.tmdb.org/t/p/w185/aiOOWmej3qYSiR9cUs3lm5x5SkB.jpg"
+   },
+   {
+    "nome": "Rhenzy Feliz",
+    "personaggio": "Victor Aguilar",
+    "foto": "https://image.tmdb.org/t/p/w185/9YPe3GgyWjG4D0GnTx9KzfvnO0L.jpg"
+   },
+   {
+    "nome": "Deirdre O'Connell",
+    "personaggio": "Francis Cobb",
+    "foto": "https://image.tmdb.org/t/p/w185/14e0AZOZafenduP7O6oMLSL92RP.jpg"
+   },
+   {
+    "nome": "Clancy Brown",
+    "personaggio": "Salvatore Maroni",
+    "foto": "https://image.tmdb.org/t/p/w185/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+   },
+   {
+    "nome": "Carmen Ejogo",
+    "personaggio": "Eve Karlo",
+    "foto": "https://image.tmdb.org/t/p/w185/b2qi5NxOwoxK67LPz0MjVwjRcFp.jpg"
+   },
+   {
+    "nome": "Shohreh Aghdashloo",
+    "personaggio": "Nadia Maroni",
+    "foto": "https://image.tmdb.org/t/p/w185/7josGC8QO9V6V8AuFdaS2tjUF8W.jpg"
+   },
+   {
+    "nome": "Theo Rossi",
+    "personaggio": "Dr. Julian Rush",
+    "foto": "https://image.tmdb.org/t/p/w185/344QE41Jileu4OE41cmYgBxc5BF.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Dramma",
+   "Crimine"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Lauren LeFranc"
+   ],
+   "platform": "HBO"
+  }
+ },
+ {
+  "id": "s123",
+  "title": "His Dark Materials",
+  "tmdb": 68507,
+  "flags": [
+   [
+    "ANNO_FINE",
+    "Nostro 2022; TMDB 2023 (serie Ended)"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Fantasy', 'Avventura', 'Mistero']; TMDB ['Fantascienza', 'Dramma', 'Azione']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Dafne Keen",
+    "personaggio": "Lyra Silvertongue",
+    "foto": "https://image.tmdb.org/t/p/w185/34BhddK5z2YHjfppOleezVrQ7Jt.jpg"
+   },
+   {
+    "nome": "Ruth Wilson",
+    "personaggio": "Mrs Coulter",
+    "foto": "https://image.tmdb.org/t/p/w185/fdFVatb9pt5dfT9tDK8tikKWafS.jpg"
+   },
+   {
+    "nome": "Kit Connor",
+    "personaggio": "Pantalaimon (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/1zx8xbJd8cUmNBertjzSuajCIGx.jpg"
+   },
+   {
+    "nome": "Will Keen",
+    "personaggio": "Father MacPhail",
+    "foto": "https://image.tmdb.org/t/p/w185/dtErvubLEIjGPpLppBATdFpZ4NR.jpg"
+   },
+   {
+    "nome": "Amir Wilson",
+    "personaggio": "Will Parry",
+    "foto": "https://image.tmdb.org/t/p/w185/1TiTfbEoZl2cG1JzuEHOluBatdo.jpg"
+   },
+   {
+    "nome": "Ariyon Bakare",
+    "personaggio": "Lord Carlo Boreal",
+    "foto": "https://image.tmdb.org/t/p/w185/9M9tcUNydZaPkWUV99ZCTfQMre7.jpg"
+   },
+   {
+    "nome": "Simone Kirby",
+    "personaggio": "Mary Malone",
+    "foto": "https://image.tmdb.org/t/p/w185/6xHJfGCdgGzbMilQwvZJuPXMdlG.jpg"
+   },
+   {
+    "nome": "Lewin Lloyd",
+    "personaggio": "Roger Parslow",
+    "foto": "https://image.tmdb.org/t/p/w185/oENFdIdiILwPZmKVNJ0ud5JCcNl.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Fantascienza, Fantasy",
+   "Dramma",
+   "Azione, Avventura"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Jack Thorne"
+   ],
+   "platform": "HBO / BBC"
+  }
+ },
+ {
+  "id": "s120",
+  "title": "The Mentalist",
+  "tmdb": 5920,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Adrianne Palicki', 'Jared Padalecki', 'Fredric Lehne', 'Jensen Ackles', 'Amanda Tapping', 'Misha Collins', 'Mark Sheppard', 'Loretta Devine', 'Julian Richings', 'Sebastian Spence', 'Amber Benson', 'Richard Libertini']; TMDB top: ['Simon Baker', 'Robin Tunney', 'Tim Kang', 'Owain Yeoman', 'Amanda Righetti', 'Joe Adler', 'Aunjanue Ellis-Taylor', 'Michael Gaston']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Simon Baker",
+    "personaggio": "Patrick Jane",
+    "foto": "https://image.tmdb.org/t/p/w185/oay0Lo2zl0lJdguptxgx1BK9Xq7.jpg"
+   },
+   {
+    "nome": "Robin Tunney",
+    "personaggio": "Teresa Lisbon",
+    "foto": "https://image.tmdb.org/t/p/w185/vOmWyYNoVEaPPvoto4IW8dSXn7I.jpg"
+   },
+   {
+    "nome": "Tim Kang",
+    "personaggio": "Kimball Cho",
+    "foto": "https://image.tmdb.org/t/p/w185/Ae7qMN6fJTut145qpeSn1NOu8yx.jpg"
+   },
+   {
+    "nome": "Owain Yeoman",
+    "personaggio": "Wayne Rigsby",
+    "foto": "https://image.tmdb.org/t/p/w185/ubPMiDbNwgNhhAlDa4mIzuVZmXJ.jpg"
+   },
+   {
+    "nome": "Amanda Righetti",
+    "personaggio": "Grace Van Pelt",
+    "foto": "https://image.tmdb.org/t/p/w185/7kKpYggBan6rYKFumeRSm0eDGqA.jpg"
+   },
+   {
+    "nome": "Joe Adler",
+    "personaggio": "Jason Wylie",
+    "foto": "https://image.tmdb.org/t/p/w185/bsle7zqj6HBs6NYstkwDwQY7EEf.jpg"
+   },
+   {
+    "nome": "Aunjanue Ellis-Taylor",
+    "personaggio": "Madeleine Hightower",
+    "foto": "https://image.tmdb.org/t/p/w185/e54DfgDyS67xdtomYODFule6Ofa.jpg"
+   },
+   {
+    "nome": "Michael Gaston",
+    "personaggio": "Gale Bertram",
+    "foto": "https://image.tmdb.org/t/p/w185/lXhqiW4J1n9bnbfwz0Kdf2sjGLU.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Crimine",
+   "Dramma",
+   "Mistero"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Bruno Heller"
+   ],
+   "platform": "CBS"
+  }
+ },
+ {
+  "id": "s1",
+  "title": "Breaking Bad",
+  "tmdb": 1396,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Aaron Hill', 'Harry Groener']; TMDB top: ['Bryan Cranston', 'Aaron Paul', 'Anna Gunn', 'RJ Mitte', 'Dean Norris', 'Betsy Brandt', 'Bob Odenkirk', 'Jonathan Banks']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Giancarlo Esposito']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Bryan Cranston",
+    "personaggio": "Walter White",
+    "foto": "https://image.tmdb.org/t/p/w185/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg"
+   },
+   {
+    "nome": "Aaron Paul",
+    "personaggio": "Jesse Pinkman",
+    "foto": "https://image.tmdb.org/t/p/w185/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
+   },
+   {
+    "nome": "Anna Gunn",
+    "personaggio": "Skyler White",
+    "foto": "https://image.tmdb.org/t/p/w185/adppyeu1a4REN3khtgmXusrapFi.jpg"
+   },
+   {
+    "nome": "RJ Mitte",
+    "personaggio": "Walter White Jr.",
+    "foto": "https://image.tmdb.org/t/p/w185/sNPA92ZrssYhlaB1UA2pWcLD9db.jpg"
+   },
+   {
+    "nome": "Dean Norris",
+    "personaggio": "Hank Schrader",
+    "foto": "https://image.tmdb.org/t/p/w185/mKRrEbsxAX3ro700HsViFArRM7l.jpg"
+   },
+   {
+    "nome": "Betsy Brandt",
+    "personaggio": "Marie Schrader",
+    "foto": "https://image.tmdb.org/t/p/w185/xAnuzyjdMbQq9L1c4JNwXL52Wm4.jpg"
+   },
+   {
+    "nome": "Bob Odenkirk",
+    "personaggio": "Saul Goodman",
+    "foto": "https://image.tmdb.org/t/p/w185/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+   },
+   {
+    "nome": "Jonathan Banks",
+    "personaggio": "Mike Ehrmantraut",
+    "foto": "https://image.tmdb.org/t/p/w185/bswk26L13PvY4iMTwUTAsepXCLv.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Dramma",
+   "Crimine"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Vince Gilligan"
+   ],
+   "platform": "AMC"
+  }
+ },
+ {
+  "id": "s4",
+  "title": "Friends",
+  "tmdb": 1668,
+  "flags": [
+   [
+    "COERENZA",
+    "Completata ma visti 235/234"
+   ],
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [24, 24, 25, 24, 24, 25, 24, 24, 23, 17]; TMDB [24, 24, 25, 23, 23, 23, 23, 23, 23, 17]"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Steve Zahn', 'Michael McKean', 'Jana Marie Hupp', 'Carlo Imperato', 'Brittney Powell', 'Lea Thompson']; TMDB top: ['Jennifer Aniston', 'Courteney Cox', 'Lisa Kudrow', 'Matt LeBlanc', 'Matthew Perry', 'David Schwimmer', 'James Michael Tyler', 'Elliott Gould']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Jennifer Aniston",
+    "personaggio": "Rachel Green",
+    "foto": "https://image.tmdb.org/t/p/w185/PBSCmHDFdCMBhjx0EbXpTw4Z94.jpg"
+   },
+   {
+    "nome": "Courteney Cox",
+    "personaggio": "Monica Geller",
+    "foto": "https://image.tmdb.org/t/p/w185/cSOORhCRPJiwKghozXVXrOBi3Tp.jpg"
+   },
+   {
+    "nome": "Lisa Kudrow",
+    "personaggio": "Phoebe Buffay",
+    "foto": "https://image.tmdb.org/t/p/w185/ziatnwJRiBJIcc8jlk6xoClhfOy.jpg"
+   },
+   {
+    "nome": "Matt LeBlanc",
+    "personaggio": "Joey Tribbiani",
+    "foto": "https://image.tmdb.org/t/p/w185/a7Fl1sLUq1UDJ4pHsnwpBdEiDEZ.jpg"
+   },
+   {
+    "nome": "Matthew Perry",
+    "personaggio": "Chandler Bing",
+    "foto": "https://image.tmdb.org/t/p/w185/ecDzkLWPV1z0x31I1GTjNmLxAHk.jpg"
+   },
+   {
+    "nome": "David Schwimmer",
+    "personaggio": "Ross Geller",
+    "foto": "https://image.tmdb.org/t/p/w185/XtKzJ9lM5Xwa7vCmE4xNHy6Owf.jpg"
+   },
+   {
+    "nome": "James Michael Tyler",
+    "personaggio": "Gunther",
+    "foto": "https://image.tmdb.org/t/p/w185/iv0sg7UaJz85boUfHtej31QQDvP.jpg"
+   },
+   {
+    "nome": "Elliott Gould",
+    "personaggio": "Jack Geller",
+    "foto": "https://image.tmdb.org/t/p/w185/vqjRBbuqXOvalAx5JZEaWx6kQOw.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Commedia"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "David Crane",
+    "Marta Kauffman"
+   ],
+   "platform": "NBC"
+  }
+ },
+ {
+  "id": "s6",
+  "title": "Game of Thrones",
+  "tmdb": 1399,
+  "flags": [
+   [
+    "COERENZA",
+    "Completata ma visti 74/73"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Sean Bean', 'Mark Addy']; TMDB top: ['Peter Dinklage', 'Kit Harington', 'Nikolaj Coster-Waldau', 'Lena Headey', 'Emilia Clarke', 'Maisie Williams', 'Isaac Hempstead Wright', 'Sophie Turner']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Peter Dinklage",
+    "personaggio": "Tyrion 'The Halfman' Lannister",
+    "foto": "https://image.tmdb.org/t/p/w185/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+   },
+   {
+    "nome": "Kit Harington",
+    "personaggio": "Jon Snow",
+    "foto": "https://image.tmdb.org/t/p/w185/iGXlJbExWwZmo9sUDsYuzf4Sv4y.jpg"
+   },
+   {
+    "nome": "Nikolaj Coster-Waldau",
+    "personaggio": "Sir Jaime 'Kingslayer' Lannister",
+    "foto": "https://image.tmdb.org/t/p/w185/rpFOERbHkj7GWxkinUNiQ76sSGk.jpg"
+   },
+   {
+    "nome": "Lena Headey",
+    "personaggio": "Cersei Lannister",
+    "foto": "https://image.tmdb.org/t/p/w185/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
+   },
+   {
+    "nome": "Emilia Clarke",
+    "personaggio": "Daenerys Targaryen",
+    "foto": "https://image.tmdb.org/t/p/w185/iFY6t7Ux9r70WB7Sp0TTVz6eGtm.jpg"
+   },
+   {
+    "nome": "Maisie Williams",
+    "personaggio": "Arya Stark",
+    "foto": "https://image.tmdb.org/t/p/w185/zk1rlBVci2fmnFhMezaPpa4kwZF.jpg"
+   },
+   {
+    "nome": "Isaac Hempstead Wright",
+    "personaggio": "Brandon 'Bran' Stark",
+    "foto": "https://image.tmdb.org/t/p/w185/g6ZreLmGrrOzaUCGVFRNPAWfcso.jpg"
+   },
+   {
+    "nome": "Sophie Turner",
+    "personaggio": "Sansa Stark",
+    "foto": "https://image.tmdb.org/t/p/w185/8ur4aHFakVCinWk0cvrGO8qAUhv.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Fantascienza, Fantasy",
+   "Dramma",
+   "Azione, Avventura"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "David Benioff",
+    "D.B. Weiss"
+   ],
+   "platform": "HBO"
+  }
+ },
+ {
+  "id": "s7",
+  "title": "La casa di carta",
+  "tmdb": 71446,
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [9, 6, 8, 8, 10]; TMDB [15, 16, 10]"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Rodrigo de la Serna']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Úrsula Corberó",
+    "personaggio": "Tokio",
+    "foto": "https://image.tmdb.org/t/p/w185/cmH8Z459tw9YkR61QfxlCSlZw9P.jpg"
+   },
+   {
+    "nome": "Itziar Ituño",
+    "personaggio": "Raquel Murillo",
+    "foto": "https://image.tmdb.org/t/p/w185/l7XfYka8XxPj0fYjq22lvyxkJ7S.jpg"
+   },
+   {
+    "nome": "Álvaro Morte",
+    "personaggio": "Profesor",
+    "foto": "https://image.tmdb.org/t/p/w185/2TGPhdpRC5wjdFEJqnLYiN5kbwg.jpg"
+   },
+   {
+    "nome": "Pedro Alonso",
+    "personaggio": "Berlín",
+    "foto": "https://image.tmdb.org/t/p/w185/38HeVKeOBztVYrLJOWzAtEZiB02.jpg"
+   },
+   {
+    "nome": "Miguel Herrán",
+    "personaggio": "Río",
+    "foto": "https://image.tmdb.org/t/p/w185/eFNlbsaMODCHys35ZQOkMQNh0Jq.jpg"
+   },
+   {
+    "nome": "Jaime Lorente",
+    "personaggio": "Denver",
+    "foto": "https://image.tmdb.org/t/p/w185/nLaxzU92z14FIbe25sE8jDMIThZ.jpg"
+   },
+   {
+    "nome": "Esther Acebo",
+    "personaggio": "Estocolmo",
+    "foto": "https://image.tmdb.org/t/p/w185/d7N6RWdMQmTI7wL44Ys4uvuSIoQ.jpg"
+   },
+   {
+    "nome": "Enrique Arce",
+    "personaggio": "Arturo Román",
+    "foto": "https://image.tmdb.org/t/p/w185/1lACQepfukuZ0l6FnUpMO03WxcJ.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Crimine",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Álex Pina"
+   ],
+   "platform": "Netflix"
+  }
+ },
+ {
+  "id": "s8",
+  "title": "Better Call Saul",
+  "tmdb": 60059,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Alex Désert', 'Elisha Yaffe', 'Chris Mulkey', 'Jim Beaver']; TMDB top: ['Bob Odenkirk', 'Jonathan Banks', 'Rhea Seehorn', 'Patrick Fabian', 'Michael Mando', 'Giancarlo Esposito', 'Michael McKean', 'Tony Dalton']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Giancarlo Esposito']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Bob Odenkirk",
+    "personaggio": "Jimmy McGill",
+    "foto": "https://image.tmdb.org/t/p/w185/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+   },
+   {
+    "nome": "Jonathan Banks",
+    "personaggio": "Mike Ehrmantraut",
+    "foto": "https://image.tmdb.org/t/p/w185/bswk26L13PvY4iMTwUTAsepXCLv.jpg"
+   },
+   {
+    "nome": "Rhea Seehorn",
+    "personaggio": "Kim Wexler",
+    "foto": "https://image.tmdb.org/t/p/w185/tql4gvY8NfYvmAdmdp1olkwJnrq.jpg"
+   },
+   {
+    "nome": "Patrick Fabian",
+    "personaggio": "Howard Hamlin",
+    "foto": "https://image.tmdb.org/t/p/w185/bbsYGlnvGUTTExcabKL1OIhcKyZ.jpg"
+   },
+   {
+    "nome": "Michael Mando",
+    "personaggio": "Nacho Varga",
+    "foto": "https://image.tmdb.org/t/p/w185/gvM2wG66bjEpiirdeQdyG9EzUfv.jpg"
+   },
+   {
+    "nome": "Giancarlo Esposito",
+    "personaggio": "Gus Fring",
+    "foto": "https://image.tmdb.org/t/p/w185/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+   },
+   {
+    "nome": "Michael McKean",
+    "personaggio": "Chuck McGill",
+    "foto": "https://image.tmdb.org/t/p/w185/xuEZeuylzznJcf0nDs1RlvuzaPr.jpg"
+   },
+   {
+    "nome": "Tony Dalton",
+    "personaggio": "Lalo Salamanca",
+    "foto": "https://image.tmdb.org/t/p/w185/vWteTJu9Dyrax7gQq8ndTjx5s6V.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Crimine",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Vince Gilligan",
+    "Peter Gould"
+   ],
+   "platform": "AMC"
+  }
+ },
+ {
+  "id": "s10",
+  "title": "Lost",
+  "tmdb": 4607,
+  "flags": [
+   [
+    "COERENZA",
+    "Completata ma visti 121/115"
+   ],
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [24, 23, 22, 13, 16, 17]; TMDB [24, 24, 23, 13, 17, 17]"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Evangeline Lilly']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 115; TMDB 118, IMDb 121"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Matthew Fox",
+    "personaggio": "Jack Shephard",
+    "foto": "https://image.tmdb.org/t/p/w185/6VIfueb4j3GCsIhxnstsXlY5C3Y.jpg"
+   },
+   {
+    "nome": "Evangeline Lilly",
+    "personaggio": "Kate Austen",
+    "foto": "https://image.tmdb.org/t/p/w185/pJHX2jd7ytre3NQbF9nlyWUqxH3.jpg"
+   },
+   {
+    "nome": "Terry O'Quinn",
+    "personaggio": "John Locke",
+    "foto": "https://image.tmdb.org/t/p/w185/kSweOGPprLe1vDvu38wJQaWIih7.jpg"
+   },
+   {
+    "nome": "Josh Holloway",
+    "personaggio": "James Sawyer",
+    "foto": "https://image.tmdb.org/t/p/w185/biuhUJn5BDhXpfKvVW4dVUxvB44.jpg"
+   },
+   {
+    "nome": "Jorge Garcia",
+    "personaggio": "Hurley Reyes",
+    "foto": "https://image.tmdb.org/t/p/w185/hIt31bI76cvwijImRZke3WCoEI4.jpg"
+   },
+   {
+    "nome": "Naveen Andrews",
+    "personaggio": "Sayid Jarrah",
+    "foto": "https://image.tmdb.org/t/p/w185/9b1hxbOZnfofDKSo2tcD1FMPGmx.jpg"
+   },
+   {
+    "nome": "Dominic Monaghan",
+    "personaggio": "Charlie Pace",
+    "foto": "https://image.tmdb.org/t/p/w185/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg"
+   },
+   {
+    "nome": "Harold Perrineau",
+    "personaggio": "Michael Dawson",
+    "foto": "https://image.tmdb.org/t/p/w185/bVSLpGUaislREbujmknOqadrxYM.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Mistero",
+   "Azione, Avventura",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "J.J. Abrams",
+    "Damon Lindelof",
+    "Jeffrey Lieber"
+   ],
+   "platform": "ABC"
+  }
+ },
+ {
+  "id": "s11",
+  "title": "Band of Brothers",
+  "tmdb": 4613,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Andrew-Lee Potts', 'Paul Herzberg', 'William Armstrong']; TMDB top: ['Michael Cudlitz', 'Rick Gomez', 'Scott Grimes', 'Damian Lewis', 'Ron Livingston', 'James Madio', 'Neal McDonough', 'Donnie Wahlberg']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Michael Cudlitz",
+    "personaggio": "Denver (Bull) Randleman",
+    "foto": "https://image.tmdb.org/t/p/w185/1snLOta9L2DAhmOTvNIn7OSxzQC.jpg"
+   },
+   {
+    "nome": "Rick Gomez",
+    "personaggio": "George Luz",
+    "foto": "https://image.tmdb.org/t/p/w185/gmVYPHJgmRVIzhaVYMns4kgBVqm.jpg"
+   },
+   {
+    "nome": "Scott Grimes",
+    "personaggio": "Donald G. Malarkey",
+    "foto": "https://image.tmdb.org/t/p/w185/k5OCDhwZoFuNtN0o4EDkpBXQsFp.jpg"
+   },
+   {
+    "nome": "Damian Lewis",
+    "personaggio": "Richard D. Winters",
+    "foto": "https://image.tmdb.org/t/p/w185/puOXtVatFnAxoOmsFO8z7KTfyJW.jpg"
+   },
+   {
+    "nome": "Ron Livingston",
+    "personaggio": "Lewis Nixon",
+    "foto": "https://image.tmdb.org/t/p/w185/pr5CjWnkaf5WKTIYh8wtNufjmyb.jpg"
+   },
+   {
+    "nome": "James Madio",
+    "personaggio": "Frank J. Perconte",
+    "foto": "https://image.tmdb.org/t/p/w185/v17uyHhMLooVWKjMRS4NoGeTPyB.jpg"
+   },
+   {
+    "nome": "Neal McDonough",
+    "personaggio": "Lynn D. (Buck) Compton",
+    "foto": "https://image.tmdb.org/t/p/w185/3mI3i1CpjATSCta1Tb2qsyl1KCh.jpg"
+   },
+   {
+    "nome": "Donnie Wahlberg",
+    "personaggio": "C. Carwood Lipton",
+    "foto": "https://image.tmdb.org/t/p/w185/8OQTlgl7eGAFlKTF2o8rZZT0MoF.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Dramma",
+   "Guerra"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Tom Hanks",
+    "Steven Spielberg"
+   ],
+   "platform": "HBO"
+  }
+ },
+ {
+  "id": "s13",
+  "title": "Squid Game",
+  "tmdb": 93405,
+  "flags": [
+   [
+    "COERENZA",
+    "Completata ma visti 22/15"
+   ],
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [9, 6]; TMDB [9, 7, 6]"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['임시완']; TMDB top: ['Lee Jung-jae', 'Lee Byung-hun', 'Kang Ae-sim', 'Kang Ha-neul', 'David Lee', 'Anupam Tripathi', 'Lee Doo-seok', 'John Choi']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 15; TMDB 22, IMDb 22"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Lee Jung-jae",
+    "personaggio": "Seong Gi-hun / Player 456",
+    "foto": "https://image.tmdb.org/t/p/w185/lx8oiTXL9lIx78KOXlrlvNfoz43.jpg"
+   },
+   {
+    "nome": "Lee Byung-hun",
+    "personaggio": "Front Man / Hwang In-ho",
+    "foto": "https://image.tmdb.org/t/p/w185/5p5LDbZtnKhXDZL5227ExukbnRo.jpg"
+   },
+   {
+    "nome": "Kang Ae-sim",
+    "personaggio": "Jang Geum-ja / Player 149",
+    "foto": "https://image.tmdb.org/t/p/w185/mnUozozJf3VUpgi91ysfyxlRqs1.jpg"
+   },
+   {
+    "nome": "Kang Ha-neul",
+    "personaggio": "Kang Dae-ho / Player 388",
+    "foto": "https://image.tmdb.org/t/p/w185/wkSSMlvNNH4uAy3wcQ9xVZ4yHfW.jpg"
+   },
+   {
+    "nome": "David Lee",
+    "personaggio": "Park Min-su / Player 125",
+    "foto": "https://image.tmdb.org/t/p/w185/qWGDFlr47d2AJLtJsOEmfmaC21l.jpg"
+   },
+   {
+    "nome": "Anupam Tripathi",
+    "personaggio": "Ali Abdul / Player 199",
+    "foto": "https://image.tmdb.org/t/p/w185/qiypxSxV93cIv7F4O2MeOpXNlsJ.jpg"
+   },
+   {
+    "nome": "Lee Doo-seok",
+    "personaggio": "Mat Te Soo/ Player 062",
+    "foto": "https://image.tmdb.org/t/p/w185/cQD0FqioziCBJE7KZC3KGmrO6xg.jpg"
+   },
+   {
+    "nome": "John Choi",
+    "personaggio": "Player 226",
+    "foto": "https://image.tmdb.org/t/p/w185/bHjmgwzAeFVKC8HWo9CBET8RLXu.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Azione, Avventura",
+   "Mistero",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Hwang Dong-hyuk"
+   ],
+   "platform": "Netflix"
+  }
+ },
+ {
+  "id": "s14",
+  "title": "Peaky Blinders",
+  "tmdb": 60574,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Dave Simon']; TMDB top: ['Cillian Murphy', 'Paul Anderson', 'Sophie Rundle', 'Helen McCrory', 'Finn Cole', 'Ian Peck', 'Ned Dennehy', \"Natasha O'Keeffe\"]"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Cillian Murphy",
+    "personaggio": "Thomas Shelby",
+    "foto": "https://image.tmdb.org/t/p/w185/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+   },
+   {
+    "nome": "Paul Anderson",
+    "personaggio": "Arthur Shelby",
+    "foto": "https://image.tmdb.org/t/p/w185/nds5rTBZvJ4rEsP4N6OaoEgQDkW.jpg"
+   },
+   {
+    "nome": "Sophie Rundle",
+    "personaggio": "Ada Shelby",
+    "foto": "https://image.tmdb.org/t/p/w185/8kZTjHZcvmGo1W53DXM2mjXex2A.jpg"
+   },
+   {
+    "nome": "Helen McCrory",
+    "personaggio": "Polly Gray",
+    "foto": "https://image.tmdb.org/t/p/w185/dVtwKuGce3BhUcqfdpxFvpCT8YT.jpg"
+   },
+   {
+    "nome": "Finn Cole",
+    "personaggio": "Michael Gray",
+    "foto": "https://image.tmdb.org/t/p/w185/yVWop3BSHbjIecYGqI1ToZIPR3T.jpg"
+   },
+   {
+    "nome": "Ian Peck",
+    "personaggio": "Curly",
+    "foto": "https://image.tmdb.org/t/p/w185/efEJsO8xhDdpOkWR0ArLl34B47f.jpg"
+   },
+   {
+    "nome": "Ned Dennehy",
+    "personaggio": "Charlie Strong",
+    "foto": "https://image.tmdb.org/t/p/w185/gSEtkD9YwYnIPbnagDc797kMVJ2.jpg"
+   },
+   {
+    "nome": "Natasha O'Keeffe",
+    "personaggio": "Lizzie Stark",
+    "foto": "https://image.tmdb.org/t/p/w185/tOX10C02tSFnOSra8a8rGuA6QZ5.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Dramma",
+   "Crimine"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Steven Knight"
+   ],
+   "platform": "BBC"
+  }
+ },
+ {
+  "id": "s15",
+  "title": "The Expanse",
+  "tmdb": 63639,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Paulo Costanzo', 'Sara Mitich']; TMDB top: ['Steven Strait', 'Dominique Tipper', 'Wes Chatham', 'Shohreh Aghdashloo', 'Cas Anvar', 'Frankie Adams', 'Cara Gee', 'Shawn Doyle']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Steven Strait",
+    "personaggio": "Jim Holden",
+    "foto": "https://image.tmdb.org/t/p/w185/m7heTGlIKOZJgWrTtY5TS3LaZxS.jpg"
+   },
+   {
+    "nome": "Dominique Tipper",
+    "personaggio": "Naomi Nagata",
+    "foto": "https://image.tmdb.org/t/p/w185/tYsdlDNJON9hTdqrkFL0twkNTjo.jpg"
+   },
+   {
+    "nome": "Wes Chatham",
+    "personaggio": "Amos Burton",
+    "foto": "https://image.tmdb.org/t/p/w185/lFoUyX8FZs3XvUWWItCm2ezvAEs.jpg"
+   },
+   {
+    "nome": "Shohreh Aghdashloo",
+    "personaggio": "Chrisjen Avasarala",
+    "foto": "https://image.tmdb.org/t/p/w185/7josGC8QO9V6V8AuFdaS2tjUF8W.jpg"
+   },
+   {
+    "nome": "Cas Anvar",
+    "personaggio": "Alex Kamal",
+    "foto": "https://image.tmdb.org/t/p/w185/ohEulMvF1Ji2osI3aSBVGb5FFUb.jpg"
+   },
+   {
+    "nome": "Frankie Adams",
+    "personaggio": "Bobbie Draper",
+    "foto": "https://image.tmdb.org/t/p/w185/aAUHUSf0lh3OBRoaiCRL9ep8lfL.jpg"
+   },
+   {
+    "nome": "Cara Gee",
+    "personaggio": "Camina Drummer",
+    "foto": "https://image.tmdb.org/t/p/w185/7CEwxz6S2JQBEPmwpB7Se1gXQAW.jpg"
+   },
+   {
+    "nome": "Shawn Doyle",
+    "personaggio": "Sadavir Errinwright",
+    "foto": "https://image.tmdb.org/t/p/w185/s5Y7kLgxmXeDx0pozhmA7V91yZf.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Dramma",
+   "Mistero",
+   "Fantascienza, Fantasy"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Mark Fergus",
+    "Hawk Ostby"
+   ],
+   "platform": "Amazon Prime Video"
+  }
+ },
+ {
+  "id": "s23",
+  "title": "Sex Education",
+  "tmdb": 81356,
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Mimi Keene', 'Tanya Reynolds']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Asa Butterfield",
+    "personaggio": "Otis Milburn",
+    "foto": "https://image.tmdb.org/t/p/w185/1IoQIesuvI9o1IpYZqdjBWvKhRf.jpg"
+   },
+   {
+    "nome": "Gillian Anderson",
+    "personaggio": "Jean Milburn",
+    "foto": "https://image.tmdb.org/t/p/w185/3Ny8ZYahb33vpqNEPNCE2IOXPew.jpg"
+   },
+   {
+    "nome": "Ncuti Gatwa",
+    "personaggio": "Eric Effiong",
+    "foto": "https://image.tmdb.org/t/p/w185/vLFh9kdB2G06ugwYmRNpxiXhbN0.jpg"
+   },
+   {
+    "nome": "Emma Mackey",
+    "personaggio": "Maeve Wiley",
+    "foto": "https://image.tmdb.org/t/p/w185/l4JOGnGOAeZr3BQvAerFyvakrU0.jpg"
+   },
+   {
+    "nome": "Kedar Williams-Stirling",
+    "personaggio": "Jackson Marchetti",
+    "foto": "https://image.tmdb.org/t/p/w185/dhXjEwdKhhObMgU1Y8cA1MgZnUL.jpg"
+   },
+   {
+    "nome": "Connor Swindells",
+    "personaggio": "Adam Groff",
+    "foto": "https://image.tmdb.org/t/p/w185/365RWqbzPMx0JOyTPeP4rf8a0Kn.jpg"
+   },
+   {
+    "nome": "Aimee Lou Wood",
+    "personaggio": "Aimee Gibbs",
+    "foto": "https://image.tmdb.org/t/p/w185/jq2CVIn889VvCgcwH4G7KZZWkLI.jpg"
+   },
+   {
+    "nome": "Alistair Petrie",
+    "personaggio": "Michael Groff",
+    "foto": "https://image.tmdb.org/t/p/w185/b6KUFhtWtmmTIcs7gL9kZktzJzl.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Commedia",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Laurie Nunn"
+   ],
+   "platform": "Netflix"
+  }
+ },
+ {
+  "id": "s24",
+  "title": "Succession",
+  "tmdb": 76331,
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Dagmara Dominczyk']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Jeremy Strong",
+    "personaggio": "Kendall Roy",
+    "foto": "https://image.tmdb.org/t/p/w185/jcMhXWICSi4QjQttJVhFSiKVvpF.jpg"
+   },
+   {
+    "nome": "Kieran Culkin",
+    "personaggio": "Roman Roy",
+    "foto": "https://image.tmdb.org/t/p/w185/b5EC4nziLhBRX4GOcYx2BdS3FTt.jpg"
+   },
+   {
+    "nome": "Sarah Snook",
+    "personaggio": "Siobhan 'Shiv' Roy",
+    "foto": "https://image.tmdb.org/t/p/w185/w9xv72oaTISLgeT381fU4Jor9GV.jpg"
+   },
+   {
+    "nome": "Brian Cox",
+    "personaggio": "Logan Roy",
+    "foto": "https://image.tmdb.org/t/p/w185/scSjbFCTRngXlkJRoKptM5kQGw7.jpg"
+   },
+   {
+    "nome": "Matthew Macfadyen",
+    "personaggio": "Tom Wambsgans",
+    "foto": "https://image.tmdb.org/t/p/w185/sFaIfkykJdftwrc3BdEfpdg2mYW.jpg"
+   },
+   {
+    "nome": "Alan Ruck",
+    "personaggio": "Connor Roy",
+    "foto": "https://image.tmdb.org/t/p/w185/hj7CuWinT12hMKjRhSO4XEMVq7w.jpg"
+   },
+   {
+    "nome": "Nicholas Braun",
+    "personaggio": "Greg Hirsch",
+    "foto": "https://image.tmdb.org/t/p/w185/b2I6bZptuld3pjlVkYIy4DtMKGg.jpg"
+   },
+   {
+    "nome": "Peter Friedman",
+    "personaggio": "Frank Vernon",
+    "foto": "https://image.tmdb.org/t/p/w185/3pyU0yQsRIqSZw1fYapFRXJ3EHp.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Dramma",
+   "Commedia"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Jesse Armstrong"
+   ],
+   "platform": "HBO"
+  }
+ },
+ {
+  "id": "s27",
+  "title": "Elite",
+  "tmdb": 76669,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['María Pedraza', 'Miguel Herrán']; TMDB top: ['Omar Ayuso', 'Itzan Escamilla', 'Valentina Zenere', 'André Lamoglia', 'Miguel Bernardeau', 'Arón Piper', 'Georgina Amorós', 'Claudia Salas']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Ester Expósito']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Omar Ayuso",
+    "personaggio": "Omar Shanaa",
+    "foto": "https://image.tmdb.org/t/p/w185/c4bAqv3PoSVK4ov7cw076NNqg6f.jpg"
+   },
+   {
+    "nome": "Itzan Escamilla",
+    "personaggio": "Samuel García Domínguez",
+    "foto": "https://image.tmdb.org/t/p/w185/hWCXTWXNytChyiUQUXbGIouW3am.jpg"
+   },
+   {
+    "nome": "Valentina Zenere",
+    "personaggio": "Isadora Artiñan",
+    "foto": "https://image.tmdb.org/t/p/w185/5EfGAj1nOocsFb8Ffst5Ik48Gye.jpg"
+   },
+   {
+    "nome": "André Lamoglia",
+    "personaggio": "Iván Carvalho",
+    "foto": "https://image.tmdb.org/t/p/w185/6kMkE1tPagXWRCQHAt2PYHyo6kD.jpg"
+   },
+   {
+    "nome": "Miguel Bernardeau",
+    "personaggio": "Guzmán Nunier Osuna",
+    "foto": "https://image.tmdb.org/t/p/w185/aPyvMBnGaTeWkMStdHvdiiWxpBQ.jpg"
+   },
+   {
+    "nome": "Arón Piper",
+    "personaggio": "Ander Muñoz",
+    "foto": "https://image.tmdb.org/t/p/w185/v4zaydubluolMYxKlzyQBfXCoP5.jpg"
+   },
+   {
+    "nome": "Georgina Amorós",
+    "personaggio": "Cayetana Grajera Pondo",
+    "foto": "https://image.tmdb.org/t/p/w185/wgRAxcSZ20Ze26HzcO4EeKIraU1.jpg"
+   },
+   {
+    "nome": "Claudia Salas",
+    "personaggio": "Rebeka Parrilla Lopez",
+    "foto": "https://image.tmdb.org/t/p/w185/jfLi59P55yQeyjfD8UVf4DilXpt.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Crimine",
+   "Mistero",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Carlos Montero",
+    "Darío Madrona"
+   ],
+   "platform": "Netflix"
+  }
+ },
+ {
+  "id": "s28",
+  "title": "Rick and Morty",
+  "tmdb": 60625,
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [11, 10, 10, 10, 10, 10, 10, 10]; TMDB [11, 10, 10, 10, 10, 10, 10, 10, 10] (serie in corso)"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Lil Pump', 'Dana Carvey', 'John Oliver', 'Werner Herzog', 'Stephen Colbert', 'Nathan Fillion']; TMDB top: ['Chris Parnell', 'Spencer Grammer', 'Sarah Chalke', 'Justin Roiland', 'Kari Wahlgren', 'Tom Kenny', 'Ryan Ridley', 'Dan Harmon']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 81; TMDB 91, IMDb 94"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Chris Parnell",
+    "personaggio": "Jerry Smith (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/9Ga03Y9TVIqTZJ4I9rfL740ibgJ.jpg"
+   },
+   {
+    "nome": "Spencer Grammer",
+    "personaggio": "Summer Smith (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/1L8Y45RJo2YxUXl6ldIowQay1V7.jpg"
+   },
+   {
+    "nome": "Sarah Chalke",
+    "personaggio": "Beth Smith (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/ycwiu89cpjqCtSNC5FjbJggjj5R.jpg"
+   },
+   {
+    "nome": "Justin Roiland",
+    "personaggio": "Rick Sanchez / Morty Smith (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/wYApP38aXe6ZcEtlBAfNRxJTQQi.jpg"
+   },
+   {
+    "nome": "Kari Wahlgren",
+    "personaggio": "Sharon Lewis (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg"
+   },
+   {
+    "nome": "Tom Kenny",
+    "personaggio": "Mr. Stabby / Scientist #2 (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg"
+   },
+   {
+    "nome": "Ryan Ridley",
+    "personaggio": "Concerto (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/mSFssRpQl6ax2QrYTxBBfluVgy2.jpg"
+   },
+   {
+    "nome": "Dan Harmon",
+    "personaggio": "FDR (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/gDwFosoyPTd0pmnKParzGj3kaMg.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Animazione",
+   "Commedia",
+   "Fantascienza, Fantasy",
+   "Azione, Avventura"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Justin Roiland",
+    "Dan Harmon"
+   ],
+   "platform": "Adult Swim"
+  }
+ },
+ {
+  "id": "s29",
+  "title": "Lucifer",
+  "tmdb": 63174,
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [13, 18, 24, 10, 16, 10]; TMDB [13, 18, 26, 10, 16, 10]"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Jon Sklaroff']; TMDB top: ['Tom Ellis', 'Lauren German', 'Kevin Alejandro', 'D. B. Woodside', 'Lesley-Ann Brandt', 'Rachael Harris', 'Aimee Garcia', 'Scarlett Estevez']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Tom Welling']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 91; TMDB 93, IMDb 93"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Tom Ellis",
+    "personaggio": "Lucifer Morningstar",
+    "foto": "https://image.tmdb.org/t/p/w185/zhjIyqpk5bsYgxsh5bSeS6VZtHm.jpg"
+   },
+   {
+    "nome": "Lauren German",
+    "personaggio": "Chloe Decker",
+    "foto": "https://image.tmdb.org/t/p/w185/if1TbO8dSfPiDCMfy52nH7A2D7.jpg"
+   },
+   {
+    "nome": "Kevin Alejandro",
+    "personaggio": "Dan Espinoza",
+    "foto": "https://image.tmdb.org/t/p/w185/bh4aQqP7kJzL2Ls9tj5OmhsBlqi.jpg"
+   },
+   {
+    "nome": "D. B. Woodside",
+    "personaggio": "Amenadiel",
+    "foto": "https://image.tmdb.org/t/p/w185/xdyGewr108rQWojpYlKw2QjrxCz.jpg"
+   },
+   {
+    "nome": "Lesley-Ann Brandt",
+    "personaggio": "Mazikeen 'Maze'",
+    "foto": "https://image.tmdb.org/t/p/w185/fW2ITcpENpNnHf4wuNltf3PSQTk.jpg"
+   },
+   {
+    "nome": "Rachael Harris",
+    "personaggio": "Linda Martin",
+    "foto": "https://image.tmdb.org/t/p/w185/1O0zLB0gMcNIuttpG3omWb4ZAvF.jpg"
+   },
+   {
+    "nome": "Aimee Garcia",
+    "personaggio": "Ella Lopez",
+    "foto": "https://image.tmdb.org/t/p/w185/4z3mkoa8jHpqjzfbhzYMeKe2Mf7.jpg"
+   },
+   {
+    "nome": "Scarlett Estevez",
+    "personaggio": "Trixie Espinoza",
+    "foto": "https://image.tmdb.org/t/p/w185/eGZsZRPJ0aUBGaght37a3pQXEjs.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Crimine",
+   "Fantascienza, Fantasy"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Tom Kapinos"
+   ],
+   "platform": "Netflix"
+  }
+ },
+ {
+  "id": "s31",
+  "title": "How I Met Your Mother",
+  "tmdb": 1100,
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [22, 22, 20, 24, 24, 24, 23, 23, 23]; TMDB [22, 22, 20, 24, 24, 24, 24, 24, 24]"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Abby Elliott']; TMDB top: ['Josh Radnor', 'Neil Patrick Harris', 'Jason Segel', 'Alyson Hannigan', 'Cobie Smulders', 'Lyndsy Fonseca', 'David Henrie', 'Cristin Milioti']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 205; TMDB 208, IMDb 208"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Josh Radnor",
+    "personaggio": "Ted Mosby",
+    "foto": "https://image.tmdb.org/t/p/w185/rHx4D70iRUkka5kl9064kOvmSQs.jpg"
+   },
+   {
+    "nome": "Neil Patrick Harris",
+    "personaggio": "Barney Stinson",
+    "foto": "https://image.tmdb.org/t/p/w185/r2twLWLwDpKJ7JyhWsD1YsL7rJV.jpg"
+   },
+   {
+    "nome": "Jason Segel",
+    "personaggio": "Marshall Eriksen",
+    "foto": "https://image.tmdb.org/t/p/w185/aG6tVNSbl1YEjN65G3luFYnWbUM.jpg"
+   },
+   {
+    "nome": "Alyson Hannigan",
+    "personaggio": "Lily Aldrin",
+    "foto": "https://image.tmdb.org/t/p/w185/bO16z8rAzZWdjCga8dcbJ2AFAh2.jpg"
+   },
+   {
+    "nome": "Cobie Smulders",
+    "personaggio": "Robin Scherbatsky",
+    "foto": "https://image.tmdb.org/t/p/w185/1b0mYokcGsfFRge4bjXlS5ihtek.jpg"
+   },
+   {
+    "nome": "Lyndsy Fonseca",
+    "personaggio": "Daughter",
+    "foto": "https://image.tmdb.org/t/p/w185/xPbbiLpUpmaHIVnyR3BAfG1tm5S.jpg"
+   },
+   {
+    "nome": "David Henrie",
+    "personaggio": "Son",
+    "foto": "https://image.tmdb.org/t/p/w185/1NuD0ltILDRRCMfmLPHM8bSfzhb.jpg"
+   },
+   {
+    "nome": "Cristin Milioti",
+    "personaggio": "Tracy McConnell",
+    "foto": "https://image.tmdb.org/t/p/w185/aiOOWmej3qYSiR9cUs3lm5x5SkB.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Commedia"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Carter Bays",
+    "Craig Thomas"
+   ],
+   "platform": "CBS"
+  }
+ },
+ {
+  "id": "s32",
+  "title": "The Walking Dead",
+  "tmdb": 1402,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Jon Bernthal', 'Jeffrey DeMunn']; TMDB top: ['Norman Reedus', 'Melissa McBride', 'Lauren Cohan', 'Danai Gurira', 'Andrew Lincoln', 'Christian Serratos', 'Josh McDermitt', 'Chandler Riggs']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Norman Reedus",
+    "personaggio": "Daryl Dixon",
+    "foto": "https://image.tmdb.org/t/p/w185/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg"
+   },
+   {
+    "nome": "Melissa McBride",
+    "personaggio": "Carol Peletier",
+    "foto": "https://image.tmdb.org/t/p/w185/2omPfeMdnicJqqvgKAU2iqVyD4Z.jpg"
+   },
+   {
+    "nome": "Lauren Cohan",
+    "personaggio": "Maggie Greene",
+    "foto": "https://image.tmdb.org/t/p/w185/8WPbj506873QzrKwUFbjjniLuvD.jpg"
+   },
+   {
+    "nome": "Danai Gurira",
+    "personaggio": "Michonne Hawthorne",
+    "foto": "https://image.tmdb.org/t/p/w185/z7H7QeQvr24vskGlANQhG43vozQ.jpg"
+   },
+   {
+    "nome": "Andrew Lincoln",
+    "personaggio": "Rick Grimes",
+    "foto": "https://image.tmdb.org/t/p/w185/gR4RzQTDsMfVv8oEh2VRbO8LkFz.jpg"
+   },
+   {
+    "nome": "Christian Serratos",
+    "personaggio": "Rosita Espinosa",
+    "foto": "https://image.tmdb.org/t/p/w185/jP07Elhu2eZdmjIB4fJiag5CfaD.jpg"
+   },
+   {
+    "nome": "Josh McDermitt",
+    "personaggio": "Eugene Porter",
+    "foto": "https://image.tmdb.org/t/p/w185/9K7zFdSRWMMDyf0UO7Kqx71S5fg.jpg"
+   },
+   {
+    "nome": "Chandler Riggs",
+    "personaggio": "Carl Grimes",
+    "foto": "https://image.tmdb.org/t/p/w185/bN2BtSPbZKijm8Bpp9hkxMxyv25.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Azione, Avventura",
+   "Dramma",
+   "Fantascienza, Fantasy"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Frank Darabont"
+   ],
+   "platform": "AMC"
+  }
+ },
+ {
+  "id": "s34",
+  "title": "WandaVision",
+  "tmdb": 85271,
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Elizabeth Olsen', 'Randall Park']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Elizabeth Olsen",
+    "personaggio": "Wanda Maximoff / Scarlet Witch",
+    "foto": "https://image.tmdb.org/t/p/w185/vXz0E5lQKZS1RnlmcHSGbdR0CzG.jpg"
+   },
+   {
+    "nome": "Paul Bettany",
+    "personaggio": "Vision / The Vision",
+    "foto": "https://image.tmdb.org/t/p/w185/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg"
+   },
+   {
+    "nome": "Kathryn Hahn",
+    "personaggio": "Agnes / Agatha Harkness",
+    "foto": "https://image.tmdb.org/t/p/w185/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg"
+   },
+   {
+    "nome": "Teyonah Parris",
+    "personaggio": "Monica Rambeau / Geraldine",
+    "foto": "https://image.tmdb.org/t/p/w185/iGvBTOi0y2fbBVwgnBRXgY0IXDY.jpg"
+   },
+   {
+    "nome": "Randall Park",
+    "personaggio": "Jimmy Woo",
+    "foto": "https://image.tmdb.org/t/p/w185/GpERQxWcT3TXLHpH8b6hIyUazK.jpg"
+   },
+   {
+    "nome": "Kat Dennings",
+    "personaggio": "Darcy Lewis / The Escape Artist",
+    "foto": "https://image.tmdb.org/t/p/w185/nJHGtedRCIeAdysg18oJngUZmL3.jpg"
+   },
+   {
+    "nome": "Amos Glick",
+    "personaggio": "The Delivery Man (a.k.a. Dennis)",
+    "foto": "https://image.tmdb.org/t/p/w185/t15BfK1o0yHKYILihju5vKv1wNz.jpg"
+   },
+   {
+    "nome": "David Payton",
+    "personaggio": "John Collins (a.k.a. Herb)",
+    "foto": "https://image.tmdb.org/t/p/w185/x9CIWGa0VBRPFiidHQwveGa6AOS.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Fantascienza, Fantasy",
+   "Mistero",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Jac Schaeffer"
+   ],
+   "platform": "Disney+"
+  }
+ },
+ {
+  "id": "s38",
+  "title": "The Leftovers",
+  "tmdb": 54344,
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Margaret Qualley']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Justin Theroux",
+    "personaggio": "Kevin Garvey",
+    "foto": "https://image.tmdb.org/t/p/w185/vnI9L0rXBAw1HeC0Q8hJGeJMGAW.jpg"
+   },
+   {
+    "nome": "Carrie Coon",
+    "personaggio": "Nora Durst",
+    "foto": "https://image.tmdb.org/t/p/w185/vWChiHhXFjZVKC6HbACyyRFmdW4.jpg"
+   },
+   {
+    "nome": "Amy Brenneman",
+    "personaggio": "Laurie Garvey",
+    "foto": "https://image.tmdb.org/t/p/w185/4FJNcWqnYciJzsZRsORZuyxdKfb.jpg"
+   },
+   {
+    "nome": "Christopher Eccleston",
+    "personaggio": "Matt Jamison",
+    "foto": "https://image.tmdb.org/t/p/w185/v6ezjezzDo6xP2wlONO5ZzBciwl.jpg"
+   },
+   {
+    "nome": "Chris Zylka",
+    "personaggio": "Tom Garvey",
+    "foto": "https://image.tmdb.org/t/p/w185/8ctswPqjqNpDPxW792xnHEZnWwA.jpg"
+   },
+   {
+    "nome": "Margaret Qualley",
+    "personaggio": "Jill Garvey",
+    "foto": "https://image.tmdb.org/t/p/w185/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg"
+   },
+   {
+    "nome": "Liv Tyler",
+    "personaggio": "Meg Abbott",
+    "foto": "https://image.tmdb.org/t/p/w185/rC6f9NoDN9l2tMgiEocIvnJi2tW.jpg"
+   },
+   {
+    "nome": "Ann Dowd",
+    "personaggio": "Patti Levin",
+    "foto": "https://image.tmdb.org/t/p/w185/zo44U71uiMNVW1HSiOa5F9MpqIq.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Fantascienza, Fantasy",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Damon Lindelof",
+    "Tom Perrotta"
+   ],
+   "platform": "HBO"
+  }
+ },
+ {
+  "id": "s39",
+  "title": "Suits",
+  "tmdb": 37680,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Laura Allen']; TMDB top: ['Gabriel Macht', 'Rick Hoffman', 'Sarah Rafferty', 'Patrick J. Adams', 'Meghan, Duchess of Sussex', 'Gina Torres', 'Amanda Schull', 'Wendell Pierce']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Gabriel Macht",
+    "personaggio": "Harvey Specter",
+    "foto": "https://image.tmdb.org/t/p/w185/lacMH4Ju1x9AsKXm7mDkklSsPyV.jpg"
+   },
+   {
+    "nome": "Rick Hoffman",
+    "personaggio": "Louis Litt",
+    "foto": "https://image.tmdb.org/t/p/w185/c9CKBkLtGtW1T8GRNUid0tQHaJY.jpg"
+   },
+   {
+    "nome": "Sarah Rafferty",
+    "personaggio": "Donna Paulsen",
+    "foto": "https://image.tmdb.org/t/p/w185/Am3yPjKVbGWWn2Q1SB5wPz3yzgV.jpg"
+   },
+   {
+    "nome": "Patrick J. Adams",
+    "personaggio": "Mike Ross",
+    "foto": "https://image.tmdb.org/t/p/w185/uJiuAHTsZAbfMi9bKRksWn4oHLf.jpg"
+   },
+   {
+    "nome": "Meghan, Duchess of Sussex",
+    "personaggio": "Rachel Zane",
+    "foto": "https://image.tmdb.org/t/p/w185/c4l6MFR3Qrz3421hREII3S7cRHk.jpg"
+   },
+   {
+    "nome": "Gina Torres",
+    "personaggio": "Jessica Pearson",
+    "foto": "https://image.tmdb.org/t/p/w185/ukDNHgvEgdU95eaw6pngiAPucv4.jpg"
+   },
+   {
+    "nome": "Amanda Schull",
+    "personaggio": "Katrina Bennett",
+    "foto": "https://image.tmdb.org/t/p/w185/1u0zGqSDaWOQVYmnpUCmEZ50oJP.jpg"
+   },
+   {
+    "nome": "Wendell Pierce",
+    "personaggio": "Robert Zane",
+    "foto": "https://image.tmdb.org/t/p/w185/r6yKahL6Z8l9aUX5qvWxTmWl8Nm.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Aaron Korsh"
+   ],
+   "platform": "USA Network"
+  }
+ },
+ {
+  "id": "s41",
+  "title": "Outer Banks",
+  "tmdb": 100757,
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Madison Bailey']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Chase Stokes",
+    "personaggio": "John B. Routledge",
+    "foto": "https://image.tmdb.org/t/p/w185/a9w81CDv6PQfeUdLFDgeOFpoU5T.jpg"
+   },
+   {
+    "nome": "Madelyn Cline",
+    "personaggio": "Sarah Cameron",
+    "foto": "https://image.tmdb.org/t/p/w185/6bFItWARGJFRrkhBaZtvLJf6VRQ.jpg"
+   },
+   {
+    "nome": "Madison Bailey",
+    "personaggio": "Kiara Carrera",
+    "foto": "https://image.tmdb.org/t/p/w185/tCQKV0zCymQHRz9juO0nid7yc2K.jpg"
+   },
+   {
+    "nome": "Jonathan Daviss",
+    "personaggio": "Pope Heyward",
+    "foto": "https://image.tmdb.org/t/p/w185/iF4sSkonvlw1mdfAOFnr1CJtGeZ.jpg"
+   },
+   {
+    "nome": "Drew Starkey",
+    "personaggio": "Rafe Cameron",
+    "foto": "https://image.tmdb.org/t/p/w185/iUPJrhsqgvF6CydzGfRzJG0wLiF.jpg"
+   },
+   {
+    "nome": "Rudy Pankow",
+    "personaggio": "JJ Maybank",
+    "foto": "https://image.tmdb.org/t/p/w185/204FlvdJL9mLRkJP1tuJpg01Ml8.jpg"
+   },
+   {
+    "nome": "Cullen Moss",
+    "personaggio": "Deputy Shoupe",
+    "foto": "https://image.tmdb.org/t/p/w185/zjVvER4Bg4mz38u2JQfLgypYrSP.jpg"
+   },
+   {
+    "nome": "Carlacia Grant",
+    "personaggio": "Cleo",
+    "foto": "https://image.tmdb.org/t/p/w185/cY080cdAlJtu3J7GMHcnDP7ER1L.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Azione, Avventura",
+   "Mistero"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Josh Pate",
+    "Jonas Pate",
+    "Shannon Burke"
+   ],
+   "platform": "Netflix"
+  }
+ },
+ {
+  "id": "s42",
+  "title": "Barry",
+  "tmdb": 73107,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Nicholas Sean Johnny', 'Tyler Jacob Moore']; TMDB top: ['Bill Hader', 'Sarah Goldberg', 'Anthony Carrigan', 'Henry Winkler', 'Stephen Root', \"D'Arcy Carden\", 'Michael Irby', 'Darrell Britt-Gibson']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Bill Hader",
+    "personaggio": "Barry Berkman",
+    "foto": "https://image.tmdb.org/t/p/w185/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg"
+   },
+   {
+    "nome": "Sarah Goldberg",
+    "personaggio": "Sally Reed",
+    "foto": "https://image.tmdb.org/t/p/w185/9rQD9eAD7udsV06Q94UvsPg4qrI.jpg"
+   },
+   {
+    "nome": "Anthony Carrigan",
+    "personaggio": "NoHo Hank",
+    "foto": "https://image.tmdb.org/t/p/w185/emyCDFrdEygDB5ySZLwUqk2wkLa.jpg"
+   },
+   {
+    "nome": "Henry Winkler",
+    "personaggio": "Gene Cousineau",
+    "foto": "https://image.tmdb.org/t/p/w185/mGlSRA5RDswEDmY8oWEizXliShp.jpg"
+   },
+   {
+    "nome": "Stephen Root",
+    "personaggio": "Monroe Fuches",
+    "foto": "https://image.tmdb.org/t/p/w185/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+   },
+   {
+    "nome": "D'Arcy Carden",
+    "personaggio": "Natalie Greer",
+    "foto": "https://image.tmdb.org/t/p/w185/bizw9YGOniYz64X5pf8EwafAVLO.jpg"
+   },
+   {
+    "nome": "Michael Irby",
+    "personaggio": "Cristobal Sifuentes",
+    "foto": "https://image.tmdb.org/t/p/w185/9cX8pKujyAlOyqGSAgvKNdA3qRj.jpg"
+   },
+   {
+    "nome": "Darrell Britt-Gibson",
+    "personaggio": "Jermaine Jefrint",
+    "foto": "https://image.tmdb.org/t/p/w185/cCfTL6qkctE088J3qr8qtgGrZa1.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Commedia",
+   "Crimine",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Alec Berg",
+    "Bill Hader"
+   ],
+   "platform": "HBO"
+  }
+ },
+ {
+  "id": "s43",
+  "title": "Person of Interest",
+  "tmdb": 1411,
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Sarah Shahi']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Jim Caviezel",
+    "personaggio": "John Reese",
+    "foto": "https://image.tmdb.org/t/p/w185/3dwavYsGYA6zzzipfdLIHbudIZW.jpg"
+   },
+   {
+    "nome": "Michael Emerson",
+    "personaggio": "Harold Finch",
+    "foto": "https://image.tmdb.org/t/p/w185/xOpr90SF1RCtjFNTu32nZQ90buY.jpg"
+   },
+   {
+    "nome": "Kevin Chapman",
+    "personaggio": "Lionel Fusco",
+    "foto": "https://image.tmdb.org/t/p/w185/sCUwtlhaT2MspHCUx2veRAA9ZXx.jpg"
+   },
+   {
+    "nome": "Taraji P. Henson",
+    "personaggio": "Joss Carter",
+    "foto": "https://image.tmdb.org/t/p/w185/jUU2X9mDwJaAniEmJOfvImBS9qb.jpg"
+   },
+   {
+    "nome": "Amy Acker",
+    "personaggio": "Caroline Turing",
+    "foto": "https://image.tmdb.org/t/p/w185/9lpLwfscOoG4jyYIH761SRnm09U.jpg"
+   },
+   {
+    "nome": "Sarah Shahi",
+    "personaggio": "Sameen Shaw",
+    "foto": "https://image.tmdb.org/t/p/w185/shiLCJNyvi9xlUZw4bTuRkhrKpm.jpg"
+   },
+   {
+    "nome": "John Nolan",
+    "personaggio": "John Greer",
+    "foto": "https://image.tmdb.org/t/p/w185/7cxsJPPPxdyLVFMmtvj6uaGSqWW.jpg"
+   },
+   {
+    "nome": "Enrico Colantoni",
+    "personaggio": "Carl Elias",
+    "foto": "https://image.tmdb.org/t/p/w185/yxxy8IrGRwnRPbLmgyfwF26Feve.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Azione, Avventura",
+   "Crimine",
+   "Fantascienza, Fantasy"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Jonathan Nolan"
+   ],
+   "platform": "CBS"
+  }
+ },
+ {
+  "id": "s45",
+  "title": "Vikings",
+  "tmdb": 44217,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Gabriel Byrne']; TMDB top: ['Katheryn Winnick', 'Gustaf Skarsgård', 'Alexander Ludwig', 'Georgia Hirst', 'Peter Franzén', 'Alex Høgh Andersen', 'Jordan Patrick Smith', 'Clive Standen']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Katheryn Winnick",
+    "personaggio": "Lagertha",
+    "foto": "https://image.tmdb.org/t/p/w185/vQSqH3ybDWZHZIqX4NZKhOCXAhQ.jpg"
+   },
+   {
+    "nome": "Gustaf Skarsgård",
+    "personaggio": "Floki",
+    "foto": "https://image.tmdb.org/t/p/w185/bfh0yP6Qr55jg9CGTGScXAw8Ftu.jpg"
+   },
+   {
+    "nome": "Alexander Ludwig",
+    "personaggio": "Bjorn Lothbrok",
+    "foto": "https://image.tmdb.org/t/p/w185/3KpzKT4iGhNivSISQMe6EwpAmCi.jpg"
+   },
+   {
+    "nome": "Georgia Hirst",
+    "personaggio": "Torvi",
+    "foto": "https://image.tmdb.org/t/p/w185/7xHIjmpI4jWUfB1EFiTMtYzpVXM.jpg"
+   },
+   {
+    "nome": "Peter Franzén",
+    "personaggio": "King Harald Finehair",
+    "foto": "https://image.tmdb.org/t/p/w185/zJ8JV2TefLQIT5DzMinl5eoK5YH.jpg"
+   },
+   {
+    "nome": "Alex Høgh Andersen",
+    "personaggio": "Ivar Lothbrok / Ivar the Boneless",
+    "foto": "https://image.tmdb.org/t/p/w185/kDO1gFqMnsV5gCQsMgEL9BZongX.jpg"
+   },
+   {
+    "nome": "Jordan Patrick Smith",
+    "personaggio": "Ubbe Lothbrok",
+    "foto": "https://image.tmdb.org/t/p/w185/v9hY8mCo7Dk5AptzZbLE2F8Tzhu.jpg"
+   },
+   {
+    "nome": "Clive Standen",
+    "personaggio": "Rollo",
+    "foto": "https://image.tmdb.org/t/p/w185/4wYmTI77N6giNkJp6DOfSAsishK.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Azione, Avventura",
+   "Dramma",
+   "Guerra"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Michael Hirst"
+   ],
+   "platform": "History Channel"
+  }
+ },
+ {
+  "id": "s46",
+  "title": "The Good Place",
+  "tmdb": 66573,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Emily Arlook', 'Jill Remez', 'Paulina Lule', 'Hayden Szeto', 'George Basil']; TMDB top: ['Kristen Bell', 'Ted Danson', 'William Jackson Harper', 'Jameela Jamil', 'Manny Jacinto', \"D'Arcy Carden\", 'Marc Evan Jackson', 'Tiya Sircar']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Kristen Bell",
+    "personaggio": "Eleanor Shellstrop",
+    "foto": "https://image.tmdb.org/t/p/w185/rP74dJXl7EjinGM0shQtUOlH5s2.jpg"
+   },
+   {
+    "nome": "Ted Danson",
+    "personaggio": "Michael",
+    "foto": "https://image.tmdb.org/t/p/w185/2QUEYVhrKbOkRKeFEUnc5sJby6a.jpg"
+   },
+   {
+    "nome": "William Jackson Harper",
+    "personaggio": "Chidi Anagonye",
+    "foto": "https://image.tmdb.org/t/p/w185/5Oy037YttIweiqNGaErkalNmH0G.jpg"
+   },
+   {
+    "nome": "Jameela Jamil",
+    "personaggio": "Tahani Al-Jamil",
+    "foto": "https://image.tmdb.org/t/p/w185/e9RviCItpPoSwD79y4YYlDbIwM6.jpg"
+   },
+   {
+    "nome": "Manny Jacinto",
+    "personaggio": "Jason Mendoza",
+    "foto": "https://image.tmdb.org/t/p/w185/jMbNV4nr5647r6CZJbT6nsnspMz.jpg"
+   },
+   {
+    "nome": "D'Arcy Carden",
+    "personaggio": "Janet",
+    "foto": "https://image.tmdb.org/t/p/w185/bizw9YGOniYz64X5pf8EwafAVLO.jpg"
+   },
+   {
+    "nome": "Marc Evan Jackson",
+    "personaggio": "Shawn",
+    "foto": "https://image.tmdb.org/t/p/w185/4TWP0nlhkxkZ5XzzZuz3RCoZjFX.jpg"
+   },
+   {
+    "nome": "Tiya Sircar",
+    "personaggio": "Vicky / Denise",
+    "foto": "https://image.tmdb.org/t/p/w185/ySOwYAheNWApnu9TBJkziNthMA6.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Fantascienza, Fantasy",
+   "Commedia"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Michael Schur"
+   ],
+   "platform": "NBC"
+  }
+ },
+ {
+  "id": "s49",
+  "title": "Manhunt",
+  "tmdb": 72597,
+  "flags": [
+   [
+    "CREATORI",
+    "Nostri ['Andrew Zinnes', 'David Coggeshall']; TMDB ['Andrew Sodroski', 'Jim Clemente', 'Tony Gittelson']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Trieste Kelly Dunn', 'Mike Pniewski']; TMDB top: ['Gethin Anthony', 'Arliss Howard', 'Kelly Jenrette', 'Cameron Britton', 'Sam Worthington', 'Ness Bautista', 'Jeremy Bobb', 'Ben Weber']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Gethin Anthony",
+    "personaggio": "FBI Agent Jack Brennan",
+    "foto": null
+   },
+   {
+    "nome": "Arliss Howard",
+    "personaggio": "Earl Embry",
+    "foto": "https://image.tmdb.org/t/p/w185/28bQJ5fqLem4Ml7x9LZ7QEnwaTa.jpg"
+   },
+   {
+    "nome": "Kelly Jenrette",
+    "personaggio": "Stacey Knox",
+    "foto": "https://image.tmdb.org/t/p/w185/8khV2zspNwDcV7lR7EGNuPNZ3fe.jpg"
+   },
+   {
+    "nome": "Cameron Britton",
+    "personaggio": "Richard Jewell",
+    "foto": "https://image.tmdb.org/t/p/w185/9HFxi8ZnBiby3AQ7tBOPDxXFkCT.jpg"
+   },
+   {
+    "nome": "Sam Worthington",
+    "personaggio": "Jim 'Fitz' Fitzgerald",
+    "foto": "https://image.tmdb.org/t/p/w185/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+   },
+   {
+    "nome": "Ness Bautista",
+    "personaggio": "Joe Holliwell",
+    "foto": "https://image.tmdb.org/t/p/w185/9JrOV4lJlXCOaO6QG6wkq3eXbP6.jpg"
+   },
+   {
+    "nome": "Jeremy Bobb",
+    "personaggio": "Stan Cole",
+    "foto": "https://image.tmdb.org/t/p/w185/4f4nYrCuwEbgEPFOK78SdSwoKuT.jpg"
+   },
+   {
+    "nome": "Ben Weber",
+    "personaggio": "Andy Genelli",
+    "foto": "https://image.tmdb.org/t/p/w185/lfOEZ4uR6PiCywECX3BqItE7XOL.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Crimine",
+   "Mistero"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Andrew Zinnes",
+    "David Coggeshall"
+   ],
+   "platform": "Netflix"
+  }
+ },
+ {
+  "id": "s52",
+  "title": "The Last of Us",
+  "tmdb": 100088,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Jerry Wasserman']; TMDB top: ['Bella Ramsey', 'Pedro Pascal', 'Gabriel Luna', 'Isabela Merced', 'Young Mazino', 'Rutina Wesley', 'Samuel Hoeksema', 'Danny Ramirez']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Bella Ramsey",
+    "personaggio": "Ellie Williams",
+    "foto": "https://image.tmdb.org/t/p/w185/vDbgxc7RYawpB1wK7JDEj62j06H.jpg"
+   },
+   {
+    "nome": "Pedro Pascal",
+    "personaggio": "Joel Miller",
+    "foto": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+   },
+   {
+    "nome": "Gabriel Luna",
+    "personaggio": "Tommy Miller",
+    "foto": "https://image.tmdb.org/t/p/w185/bIPORtYxTJPEUJIThbZrpqf4A11.jpg"
+   },
+   {
+    "nome": "Isabela Merced",
+    "personaggio": "Dina",
+    "foto": "https://image.tmdb.org/t/p/w185/7O5GWIH8IHwU4kGZIhC3JkGDiZr.jpg"
+   },
+   {
+    "nome": "Young Mazino",
+    "personaggio": "Jesse",
+    "foto": "https://image.tmdb.org/t/p/w185/cRuVRx1DMe2hBkz5pssVqdpCtaQ.jpg"
+   },
+   {
+    "nome": "Rutina Wesley",
+    "personaggio": "Maria",
+    "foto": "https://image.tmdb.org/t/p/w185/ujpdNAKxlv6TRI2mm0k3eSSZJkB.jpg"
+   },
+   {
+    "nome": "Samuel Hoeksema",
+    "personaggio": "Museum Clicker",
+    "foto": "https://image.tmdb.org/t/p/w185/6TEscmA3aFBkdWX2DuozcUhHkBK.jpg"
+   },
+   {
+    "nome": "Danny Ramirez",
+    "personaggio": "Manny Alvarez",
+    "foto": "https://image.tmdb.org/t/p/w185/7ZvcfWA5O5ULiupbHZtGGEPwnpI.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Craig Mazin",
+    "Neil Druckmann"
+   ],
+   "platform": "HBO"
+  }
+ },
+ {
+  "id": "s54",
+  "title": "Invincible",
+  "tmdb": 95557,
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [8, 8, 8, 8]; TMDB [8, 8, 8, 8, 0] (serie in corso)"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Jon Hamm', 'Mahershala Ali', 'Max Burkholder', 'Lauren Cohan', 'Micah Aliling', 'Scoot McNairy']; TMDB top: ['Steven Yeun', 'Sandra Oh', 'J.K. Simmons', 'Gillian Jacobs', 'Walton Goggins', 'Grey DeLisle', 'Chris Diamantopoulos', 'Ross Marquand']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Steven Yeun",
+    "personaggio": "Mark Grayson / Invincible (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+   },
+   {
+    "nome": "Sandra Oh",
+    "personaggio": "Debbie Grayson (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
+   },
+   {
+    "nome": "J.K. Simmons",
+    "personaggio": "Nolan Grayson / Omni-Man (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+   },
+   {
+    "nome": "Gillian Jacobs",
+    "personaggio": "Eve / College Girl (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/tKpXn260glPElCKlFekKAACNWYn.jpg"
+   },
+   {
+    "nome": "Walton Goggins",
+    "personaggio": "Cecil (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
+   },
+   {
+    "nome": "Grey DeLisle",
+    "personaggio": "Shrinking Rae (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+   },
+   {
+    "nome": "Chris Diamantopoulos",
+    "personaggio": "Donald / Doc Seismic (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/oenBtpk0RTId4wacQKYU4cPcq8Z.jpg"
+   },
+   {
+    "nome": "Ross Marquand",
+    "personaggio": "Rudy (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/2CxkVPimin0c2v7fUK3MGjgEnLt.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Animazione",
+   "Dramma",
+   "Fantascienza, Fantasy",
+   "Azione, Avventura"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Robert Kirkman"
+   ],
+   "platform": "Amazon Prime Video"
+  }
+ },
+ {
+  "id": "s58",
+  "title": "Fringe",
+  "tmdb": 1705,
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [20, 22, 22, 22, 13]; TMDB [20, 23, 22, 22, 13]"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['David Caruso', 'Emily Procter', 'Eddie Cibrian', 'Omar Benson Miller', 'Rory Cochrane', 'Jonathan Togo', 'Adam Rodriguez', 'Khandi Alexander', 'Sofia Milos', 'Rex Linn', 'Eva LaRue', 'Josh Hopkins']; TMDB top: ['Anna Torv', 'Joshua Jackson', 'Jasika Nicole', 'John Noble', 'Lance Reddick', 'Blair Brown', 'Leonard Nimoy', 'Seth Gabel']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 99; TMDB 100, IMDb 100"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Anna Torv",
+    "personaggio": "Olivia Dunham",
+    "foto": "https://image.tmdb.org/t/p/w185/muZIxj33R2EEJhm28c9hBd0AiRk.jpg"
+   },
+   {
+    "nome": "Joshua Jackson",
+    "personaggio": "Peter Bishop",
+    "foto": "https://image.tmdb.org/t/p/w185/mH2a5YFd8J7upjjWwEzM75vitA2.jpg"
+   },
+   {
+    "nome": "Jasika Nicole",
+    "personaggio": "Astrid Farnsworth",
+    "foto": "https://image.tmdb.org/t/p/w185/8Mh5BqATLCqCK1BVcu1icJsRsds.jpg"
+   },
+   {
+    "nome": "John Noble",
+    "personaggio": "Walter Bishop",
+    "foto": "https://image.tmdb.org/t/p/w185/t9dB8uU27sQDaEEFMiQvp5sbrXU.jpg"
+   },
+   {
+    "nome": "Lance Reddick",
+    "personaggio": "Phillip Broyles",
+    "foto": "https://image.tmdb.org/t/p/w185/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg"
+   },
+   {
+    "nome": "Blair Brown",
+    "personaggio": "Nina Sharp",
+    "foto": "https://image.tmdb.org/t/p/w185/hnVybZLBUJNr93gCTwgRQRCkjpm.jpg"
+   },
+   {
+    "nome": "Leonard Nimoy",
+    "personaggio": "Dr. William Bell",
+    "foto": "https://image.tmdb.org/t/p/w185/weK8ZaqE4o99qLO0JP346DtgrYt.jpg"
+   },
+   {
+    "nome": "Seth Gabel",
+    "personaggio": "Lincoln Lee",
+    "foto": "https://image.tmdb.org/t/p/w185/kY5UB2E1Rr08ikaa48om4x5ZV8Z.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Fantascienza, Fantasy",
+   "Dramma",
+   "Mistero"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "J.J. Abrams",
+    "Alex Kurtzman",
+    "Roberto Orci"
+   ],
+   "platform": "Fox"
+  }
+ },
+ {
+  "id": "s62",
+  "title": "Mindhunter",
+  "tmdb": 67744,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['David H. Holmes', 'Julia Crockett', 'Jordan Gelber', \"Thomas Philip O'Neill\", 'Lee Sellars']; TMDB top: ['Jonathan Groff', 'Holt McCallany', 'Anna Torv', 'Sonny Valicenti', 'Stacey Roca', 'Cotter Smith', 'Hannah Gross', 'Joe Tuttle']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Anna Torv']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Jonathan Groff",
+    "personaggio": "Holden Ford",
+    "foto": "https://image.tmdb.org/t/p/w185/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
+   },
+   {
+    "nome": "Holt McCallany",
+    "personaggio": "Bill Tench",
+    "foto": "https://image.tmdb.org/t/p/w185/xHnvYcJv6YEku9pIg8LoDNHWQy.jpg"
+   },
+   {
+    "nome": "Anna Torv",
+    "personaggio": "Wendy Carr",
+    "foto": "https://image.tmdb.org/t/p/w185/muZIxj33R2EEJhm28c9hBd0AiRk.jpg"
+   },
+   {
+    "nome": "Sonny Valicenti",
+    "personaggio": "ADT Serviceman",
+    "foto": "https://image.tmdb.org/t/p/w185/j3neEkxxuyf4EnOE2qH0NHuonCS.jpg"
+   },
+   {
+    "nome": "Stacey Roca",
+    "personaggio": "Nancy Tench",
+    "foto": "https://image.tmdb.org/t/p/w185/sk7NshCULQUON7drnxTuqwD3Kv3.jpg"
+   },
+   {
+    "nome": "Cotter Smith",
+    "personaggio": "Unit Chief Shepard",
+    "foto": "https://image.tmdb.org/t/p/w185/dmz3uYC2XLMulmvQYzqGVaqLmRw.jpg"
+   },
+   {
+    "nome": "Hannah Gross",
+    "personaggio": "Debbie Mitford",
+    "foto": "https://image.tmdb.org/t/p/w185/p94oyYrrywfSH3vkimTL1cbaWQt.jpg"
+   },
+   {
+    "nome": "Joe Tuttle",
+    "personaggio": "Gregg Smith",
+    "foto": "https://image.tmdb.org/t/p/w185/fqg24TAy08ss8ynjwMmOF5l9OOs.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Dramma",
+   "Crimine"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Joe Penhall"
+   ],
+   "platform": "Netflix"
+  }
+ },
+ {
+  "id": "s63",
+  "title": "The Pitt",
+  "tmdb": 250307,
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [15, 15]; TMDB [15, 15, 0] (serie in corso)"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Supriya Ganesh', 'Fiona Dourif']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Noah Wyle",
+    "personaggio": "Dr. Michael 'Robby' Robinavitch",
+    "foto": "https://image.tmdb.org/t/p/w185/nwyLCQepwg8FX7OXJ4AT4ej8c7i.jpg"
+   },
+   {
+    "nome": "Patrick Ball",
+    "personaggio": "Dr. Frank Langdon",
+    "foto": "https://image.tmdb.org/t/p/w185/288Y2VT4f5UUvt8DZ877KWzPCnY.jpg"
+   },
+   {
+    "nome": "Katherine LaNasa",
+    "personaggio": "Charge Nurse Dana Evans",
+    "foto": "https://image.tmdb.org/t/p/w185/7X3f4MG24XLG2fNPJt5H38d8YCV.jpg"
+   },
+   {
+    "nome": "Supriya Ganesh",
+    "personaggio": "Dr. Samira Mohan",
+    "foto": "https://image.tmdb.org/t/p/w185/575OVjibWikBVA3kOqQ6Jdxn5qi.jpg"
+   },
+   {
+    "nome": "Fiona Dourif",
+    "personaggio": "Dr. Cassie McKay",
+    "foto": "https://image.tmdb.org/t/p/w185/gs0aMwWWJ2FRY4sSvvAefIT5sAC.jpg"
+   },
+   {
+    "nome": "Taylor Dearden",
+    "personaggio": "Dr. Melissa King",
+    "foto": "https://image.tmdb.org/t/p/w185/9FQlLsWxiheH8QJvOaISsHg6KvZ.jpg"
+   },
+   {
+    "nome": "Isa Briones",
+    "personaggio": "Dr. Trinity Santos",
+    "foto": "https://image.tmdb.org/t/p/w185/5x93Cg0Ac29PPLwiDzCxkaUonrR.jpg"
+   },
+   {
+    "nome": "Gerran Howell",
+    "personaggio": "Student Doctor Dennis Whitaker",
+    "foto": "https://image.tmdb.org/t/p/w185/tl0qUpzS4mVhQmjRklrtNiJwuHY.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "R. Scott Gemmill"
+   ],
+   "platform": "Max"
+  }
+ },
+ {
+  "id": "s65",
+  "title": "Battlestar Galactica",
+  "tmdb": 1972,
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Edward James Olmos']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Edward James Olmos",
+    "personaggio": "Commander William Adama",
+    "foto": "https://image.tmdb.org/t/p/w185/yleTij2PUEgaMLw8xYbLAt7UqIo.jpg"
+   },
+   {
+    "nome": "Mary McDonnell",
+    "personaggio": "Laura Roslin",
+    "foto": "https://image.tmdb.org/t/p/w185/qqdaaFLEPXbB8thVJJkYJ4WoAuj.jpg"
+   },
+   {
+    "nome": "Jamie Bamber",
+    "personaggio": "Lee 'Apollo' Adama",
+    "foto": "https://image.tmdb.org/t/p/w185/qQCn0z3o0udPM6OseBhvyNpCkkK.jpg"
+   },
+   {
+    "nome": "Katee Sackhoff",
+    "personaggio": "Kara 'Starbuck' Thrace",
+    "foto": "https://image.tmdb.org/t/p/w185/kzcwfDDrgXnVgyTfcpG0obOn7Qk.jpg"
+   },
+   {
+    "nome": "James Callis",
+    "personaggio": "Gaius Baltar",
+    "foto": "https://image.tmdb.org/t/p/w185/dLmmQU5hA0J6Jxi20aS8kdN6k3o.jpg"
+   },
+   {
+    "nome": "Tricia Helfer",
+    "personaggio": "Number Six",
+    "foto": "https://image.tmdb.org/t/p/w185/cXwa8yT2Qv7EmCI8yjs5ldvMHmw.jpg"
+   },
+   {
+    "nome": "Tahmoh Penikett",
+    "personaggio": "Karl 'Helo' Agathon",
+    "foto": "https://image.tmdb.org/t/p/w185/716vNPQ4UaPga3n8RX777c9Excg.jpg"
+   },
+   {
+    "nome": "Grace Park",
+    "personaggio": "Sharon 'Boomer' Valerii",
+    "foto": "https://image.tmdb.org/t/p/w185/ojVQCgxZc2PeDchwsi3Vfq9m7fo.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Fantascienza, Fantasy",
+   "Azione, Avventura",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Glen A. Larson",
+    "Ronald D. Moore"
+   ],
+   "platform": "Sci-Fi Channel"
+  }
+ },
+ {
+  "id": "s67",
+  "title": "Boardwalk Empire",
+  "tmdb": 1621,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Mark Harmon', 'Sean Murray', 'Michael Weatherly', 'Wilmer Valderrama', 'Katrina Law', 'Cote De Pablo', 'Brian Dietzen', 'Sasha Alexander', 'David McCallum', 'Pauley Perrette', 'Emily Wickersham', 'Lauren Holly']; TMDB top: ['Steve Buscemi', 'Kelly Macdonald', 'Michael Shannon', 'Shea Whigham', 'Stephen Graham', 'Vincent Piazza', 'Michael Kenneth Williams', 'Paul Sparks']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Steve Buscemi",
+    "personaggio": "Enoch 'Nucky' Thompson",
+    "foto": "https://image.tmdb.org/t/p/w185/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+   },
+   {
+    "nome": "Kelly Macdonald",
+    "personaggio": "Margaret Schroeder",
+    "foto": "https://image.tmdb.org/t/p/w185/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
+   },
+   {
+    "nome": "Michael Shannon",
+    "personaggio": "Nelson Van Alden",
+    "foto": "https://image.tmdb.org/t/p/w185/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+   },
+   {
+    "nome": "Shea Whigham",
+    "personaggio": "Elias 'Eli' Thompson",
+    "foto": "https://image.tmdb.org/t/p/w185/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
+   },
+   {
+    "nome": "Stephen Graham",
+    "personaggio": "Al Capone",
+    "foto": "https://image.tmdb.org/t/p/w185/yguEO9zFvuccq87kOJpFLsmUgvs.jpg"
+   },
+   {
+    "nome": "Vincent Piazza",
+    "personaggio": "Charles 'Lucky' Luciano",
+    "foto": "https://image.tmdb.org/t/p/w185/cybUCnpnrvtfmJcF2vC2nBWzmKU.jpg"
+   },
+   {
+    "nome": "Michael Kenneth Williams",
+    "personaggio": "Albert 'Chalky' White",
+    "foto": "https://image.tmdb.org/t/p/w185/mafEXtGlT1qYjGmZtbjo7Ep5qK3.jpg"
+   },
+   {
+    "nome": "Paul Sparks",
+    "personaggio": "Mieczysław 'Mickey' Doyle",
+    "foto": "https://image.tmdb.org/t/p/w185/cQnCJI94lje55gZ7kEQ7YZUQPDb.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Crimine",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Terence Winter"
+   ],
+   "platform": "HBO"
+  }
+ },
+ {
+  "id": "s68",
+  "title": "Gotham",
+  "tmdb": 60708,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Victoria Cartagena']; TMDB top: ['Ben McKenzie', 'Donal Logue', 'David Mazouz', 'Sean Pertwee', 'Robin Lord Taylor', 'Erin Richards', 'Camren Bicondova', 'Cory Michael Smith']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Ben McKenzie",
+    "personaggio": "James 'Jim' Gordon",
+    "foto": "https://image.tmdb.org/t/p/w185/2jlwhOXKakL6gk365u4gPkTtHHi.jpg"
+   },
+   {
+    "nome": "Donal Logue",
+    "personaggio": "Harvey Bullock",
+    "foto": "https://image.tmdb.org/t/p/w185/5Rj850yVkIqsgCihtZLbkNSHbFb.jpg"
+   },
+   {
+    "nome": "David Mazouz",
+    "personaggio": "Bruce Wayne",
+    "foto": "https://image.tmdb.org/t/p/w185/jc9RQJQTRWi5lrob8DCSt1sW5N0.jpg"
+   },
+   {
+    "nome": "Sean Pertwee",
+    "personaggio": "Alfred Pennyworth",
+    "foto": "https://image.tmdb.org/t/p/w185/j4pAEMhKL5vA61ADrkxxLFtcI4c.jpg"
+   },
+   {
+    "nome": "Robin Lord Taylor",
+    "personaggio": "Oswald Cobblepot",
+    "foto": "https://image.tmdb.org/t/p/w185/2LgeNkwtyKikKT5vhuXjazdqgzn.jpg"
+   },
+   {
+    "nome": "Erin Richards",
+    "personaggio": "Barbara Kean",
+    "foto": "https://image.tmdb.org/t/p/w185/uVCvOipf16ifApCqrM5jdL427wu.jpg"
+   },
+   {
+    "nome": "Camren Bicondova",
+    "personaggio": "Selina Kyle",
+    "foto": "https://image.tmdb.org/t/p/w185/nOtiXBtuelNf1WdqCBwZ1JSO7gj.jpg"
+   },
+   {
+    "nome": "Cory Michael Smith",
+    "personaggio": "Edward Nygma",
+    "foto": "https://image.tmdb.org/t/p/w185/g9mXErE0CiFN8TTWaTCnurpcAeS.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Dramma",
+   "Crimine",
+   "Fantascienza, Fantasy"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Bruno Heller"
+   ],
+   "platform": "Fox"
+  }
+ },
+ {
+  "id": "s69",
+  "title": "Sons of Anarchy",
+  "tmdb": 1409,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Rupert Degas', 'Lorraine Pilkington', 'Mark DeCarlo', 'Charlie Schlatter', 'Tara Strong', '伊川東吾', 'Megan Cavanagh']; TMDB top: ['Charlie Hunnam', 'Katey Sagal', 'Tommy Flanagan', 'Mark Boone Junior', 'Kim Coates', 'Theo Rossi', 'Dayton Callie', 'Ron Perlman']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Charlie Hunnam",
+    "personaggio": "Jax Teller",
+    "foto": "https://image.tmdb.org/t/p/w185/5WIDrnY25Ps2RYu0zIzHSVuSt5n.jpg"
+   },
+   {
+    "nome": "Katey Sagal",
+    "personaggio": "Gemma Teller Morrow",
+    "foto": "https://image.tmdb.org/t/p/w185/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg"
+   },
+   {
+    "nome": "Tommy Flanagan",
+    "personaggio": "Filip 'Chibs' Telford",
+    "foto": "https://image.tmdb.org/t/p/w185/cwLJNAezwtCPHTq5YnWhtb8htLn.jpg"
+   },
+   {
+    "nome": "Mark Boone Junior",
+    "personaggio": "Bobby Munson",
+    "foto": "https://image.tmdb.org/t/p/w185/zcYYnZNxOfMOLq7zL0hJheoVM2k.jpg"
+   },
+   {
+    "nome": "Kim Coates",
+    "personaggio": "Alex 'Tig' Trager",
+    "foto": "https://image.tmdb.org/t/p/w185/brhVd2vTTBJNpM2ZrOFc6SnXCAd.jpg"
+   },
+   {
+    "nome": "Theo Rossi",
+    "personaggio": "Juan Carlos 'Juice' Ortiz",
+    "foto": "https://image.tmdb.org/t/p/w185/344QE41Jileu4OE41cmYgBxc5BF.jpg"
+   },
+   {
+    "nome": "Dayton Callie",
+    "personaggio": "Wayne Unser",
+    "foto": "https://image.tmdb.org/t/p/w185/miB43H7L4OYY5aRSxhoScjcOxu3.jpg"
+   },
+   {
+    "nome": "Ron Perlman",
+    "personaggio": "Clay Morrow",
+    "foto": "https://image.tmdb.org/t/p/w185/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Crimine",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Kurt Sutter"
+   ],
+   "platform": "FX"
+  }
+ },
+ {
+  "id": "s70",
+  "title": "Oz",
+  "tmdb": 3322,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Ryan Ryno Templeton']; TMDB top: ['Lee Tergesen', 'Harold Perrineau', 'Dean Winters', 'Eamonn Walker', 'Ernie Hudson', 'Terry Kinney', 'Rita Moreno', 'J.K. Simmons']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Lee Tergesen",
+    "personaggio": "Tobias Beecher",
+    "foto": "https://image.tmdb.org/t/p/w185/qAldK2CeBVzeRZ9sqTd3zU9SiU1.jpg"
+   },
+   {
+    "nome": "Harold Perrineau",
+    "personaggio": "Augustus Hill",
+    "foto": "https://image.tmdb.org/t/p/w185/bVSLpGUaislREbujmknOqadrxYM.jpg"
+   },
+   {
+    "nome": "Dean Winters",
+    "personaggio": "Ryan O'Reily",
+    "foto": "https://image.tmdb.org/t/p/w185/zxgOZAYGxa2qmiZkJKGRIhwbGhG.jpg"
+   },
+   {
+    "nome": "Eamonn Walker",
+    "personaggio": "Kareem Saïd",
+    "foto": "https://image.tmdb.org/t/p/w185/mJ2pENrcO4uRy2TNVUzg5cEI9b3.jpg"
+   },
+   {
+    "nome": "Ernie Hudson",
+    "personaggio": "Leo Glynn",
+    "foto": "https://image.tmdb.org/t/p/w185/kgAdQA2ItCDVvKXufeDHc6Omiso.jpg"
+   },
+   {
+    "nome": "Terry Kinney",
+    "personaggio": "Tim McManus",
+    "foto": "https://image.tmdb.org/t/p/w185/2Y6AeUUj1xUd5p7mRM9tFqUCN87.jpg"
+   },
+   {
+    "nome": "Rita Moreno",
+    "personaggio": "Sister Peter Marie Reimondo",
+    "foto": "https://image.tmdb.org/t/p/w185/zB0M77jr7tmsmWHEr2bWO2Xq66L.jpg"
+   },
+   {
+    "nome": "J.K. Simmons",
+    "personaggio": "Vernon Schillinger",
+    "foto": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Crimine",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Tom Fontana"
+   ],
+   "platform": "HBO"
+  }
+ },
+ {
+  "id": "s75",
+  "title": "The Night Of",
+  "tmdb": 66276,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Carter Hudson', 'Eleasha Gamble', 'Racquel Palmer', 'Chris Perfetti']; TMDB top: ['Riz Ahmed', 'John Turturro', 'Bill Camp', 'Jeannie Berlin', 'Poorna Jagannathan', 'Amara Karan', 'Syam M. Lafi', 'Paul Sparks']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Riz Ahmed",
+    "personaggio": "Nasir 'Naz' Khan",
+    "foto": "https://image.tmdb.org/t/p/w185/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg"
+   },
+   {
+    "nome": "John Turturro",
+    "personaggio": "John Stone",
+    "foto": "https://image.tmdb.org/t/p/w185/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+   },
+   {
+    "nome": "Bill Camp",
+    "personaggio": "Dennis Box",
+    "foto": "https://image.tmdb.org/t/p/w185/wxYyJSltCHwU0MTg838SllOlvNT.jpg"
+   },
+   {
+    "nome": "Jeannie Berlin",
+    "personaggio": "Helen Weiss",
+    "foto": "https://image.tmdb.org/t/p/w185/sT1o2nVecNUgysnHV7g6KYTciXb.jpg"
+   },
+   {
+    "nome": "Poorna Jagannathan",
+    "personaggio": "Safar Khan",
+    "foto": "https://image.tmdb.org/t/p/w185/o2BQX1tAgo47GGvpBy1k4LQLRs6.jpg"
+   },
+   {
+    "nome": "Amara Karan",
+    "personaggio": "Chandra",
+    "foto": "https://image.tmdb.org/t/p/w185/7TmZdx6Z9C8E0gAWwfnXrYZQtgP.jpg"
+   },
+   {
+    "nome": "Syam M. Lafi",
+    "personaggio": "Hasan Khan",
+    "foto": null
+   },
+   {
+    "nome": "Paul Sparks",
+    "personaggio": "Don Taylor",
+    "foto": "https://image.tmdb.org/t/p/w185/cQnCJI94lje55gZ7kEQ7YZUQPDb.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Crimine",
+   "Dramma",
+   "Mistero"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Steven Zaillian",
+    "Richard Price"
+   ],
+   "platform": "HBO"
+  }
+ },
+ {
+  "id": "s76",
+  "title": "Six Feet Under",
+  "tmdb": 1274,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Nicholas Burns', 'Julian Barratt', 'Claire Keelan', 'Richard Ayoade', 'Spencer Brown', 'Benedict Cumberbatch', 'Julia Davis', 'Stephen Mangan', 'Peter Sullivan', 'Ramon Tikaram', 'Mathew Horne', 'Montserrat Lombard']; TMDB top: ['Peter Krause', 'Michael C. Hall', 'Frances Conroy', 'Lauren Ambrose', 'Freddy Rodríguez', 'Mathew St. Patrick', 'Rachel Griffiths', 'Justina Machado']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Peter Krause",
+    "personaggio": "Nate Fisher",
+    "foto": "https://image.tmdb.org/t/p/w185/vjTIKHUBceaM3cBbtwwDE8mgaKn.jpg"
+   },
+   {
+    "nome": "Michael C. Hall",
+    "personaggio": "David Fisher",
+    "foto": "https://image.tmdb.org/t/p/w185/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
+   },
+   {
+    "nome": "Frances Conroy",
+    "personaggio": "Ruth Fisher",
+    "foto": "https://image.tmdb.org/t/p/w185/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
+   },
+   {
+    "nome": "Lauren Ambrose",
+    "personaggio": "Claire Fisher",
+    "foto": "https://image.tmdb.org/t/p/w185/67oLiPwWKhy0zqdfm6NX9cXD5is.jpg"
+   },
+   {
+    "nome": "Freddy Rodríguez",
+    "personaggio": "Federico Diaz",
+    "foto": "https://image.tmdb.org/t/p/w185/syCMZjteDnmWQa26NqOaVaRdYmj.jpg"
+   },
+   {
+    "nome": "Mathew St. Patrick",
+    "personaggio": "Keith Charles",
+    "foto": "https://image.tmdb.org/t/p/w185/vi5SPtkQEztDkkQEm8cmDzDBDfA.jpg"
+   },
+   {
+    "nome": "Rachel Griffiths",
+    "personaggio": "Brenda Chenowith",
+    "foto": "https://image.tmdb.org/t/p/w185/n7rKwLjZmbkBKWBwhj9SYzsRaF6.jpg"
+   },
+   {
+    "nome": "Justina Machado",
+    "personaggio": "Vanessa Diaz",
+    "foto": "https://image.tmdb.org/t/p/w185/j5FaJXoyhMHlqv1l6TBdt1CH1oO.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Alan Ball"
+   ],
+   "platform": "HBO"
+  }
+ },
+ {
+  "id": "s77",
+  "title": "Severance",
+  "tmdb": 95396,
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [9, 10]; TMDB [9, 10, 0] (serie in corso)"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Jeff McCarthy']; TMDB top: ['Adam Scott', 'Britt Lower', 'Tramell Tillman', 'Zach Cherry', 'Patricia Arquette', 'Jen Tullock', 'Dichen Lachman', 'John Turturro']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Adam Scott",
+    "personaggio": "Mark Scout",
+    "foto": "https://image.tmdb.org/t/p/w185/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+   },
+   {
+    "nome": "Britt Lower",
+    "personaggio": "Helly Riggs",
+    "foto": "https://image.tmdb.org/t/p/w185/5XIcTMDSyj7hRICQAcnY9U83ujF.jpg"
+   },
+   {
+    "nome": "Tramell Tillman",
+    "personaggio": "Seth Milchick",
+    "foto": "https://image.tmdb.org/t/p/w185/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg"
+   },
+   {
+    "nome": "Zach Cherry",
+    "personaggio": "Dylan George",
+    "foto": "https://image.tmdb.org/t/p/w185/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
+   },
+   {
+    "nome": "Patricia Arquette",
+    "personaggio": "Harmony Cobel",
+    "foto": "https://image.tmdb.org/t/p/w185/jeThSouMatiuRiLkjDvSBLHpmq0.jpg"
+   },
+   {
+    "nome": "Jen Tullock",
+    "personaggio": "Devon Scout-Hale",
+    "foto": "https://image.tmdb.org/t/p/w185/91vck8hZ1VZGV6PTcwFWEEdzGE0.jpg"
+   },
+   {
+    "nome": "Dichen Lachman",
+    "personaggio": "Ms. Casey",
+    "foto": "https://image.tmdb.org/t/p/w185/yLrpMHBNtuUAu3M9EjaYHnn5EEY.jpg"
+   },
+   {
+    "nome": "John Turturro",
+    "personaggio": "Irving Bailiff",
+    "foto": "https://image.tmdb.org/t/p/w185/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Dramma",
+   "Mistero",
+   "Fantascienza, Fantasy"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Dan Erickson"
+   ],
+   "platform": "Apple TV+"
+  }
+ },
+ {
+  "id": "s78",
+  "title": "Banshee",
+  "tmdb": 41727,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['James Purefoy', 'Dervla Kirwan', 'Nathaniel Parker', 'Sasha Behar', 'Charlie Creed-Miles', 'Obi Abili', 'Lisa Diveney', 'Stephen Hagan', 'Elijah Baker', 'Ivan Kaye', 'Ivanno Jeremiah', 'Clifford Barry']; TMDB top: ['Antony Starr', 'Ivana Miličević', 'Hoon Lee', 'Frankie Faison', 'Ulrich Thomsen', 'Matt Servitto', 'Lili Simmons', 'Ryann Shane']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Antony Starr",
+    "personaggio": "Lucas Hood",
+    "foto": "https://image.tmdb.org/t/p/w185/xx3As5SWcE8vYOKZgtjDjqmT3jc.jpg"
+   },
+   {
+    "nome": "Ivana Miličević",
+    "personaggio": "Anastasia / Carrie Hopewell",
+    "foto": "https://image.tmdb.org/t/p/w185/3bWPeAnqRwuCAoYBDig3E3cFx5m.jpg"
+   },
+   {
+    "nome": "Hoon Lee",
+    "personaggio": "Job",
+    "foto": "https://image.tmdb.org/t/p/w185/3Ux4nTEfPySyZg6yBlu1uXR1TyT.jpg"
+   },
+   {
+    "nome": "Frankie Faison",
+    "personaggio": "Sugar Bates",
+    "foto": "https://image.tmdb.org/t/p/w185/3717JOXK2Z8qelfyvScDGimfFBf.jpg"
+   },
+   {
+    "nome": "Ulrich Thomsen",
+    "personaggio": "Kai Proctor",
+    "foto": "https://image.tmdb.org/t/p/w185/qjXAPbuO8CicunlQs07c1fbFG67.jpg"
+   },
+   {
+    "nome": "Matt Servitto",
+    "personaggio": "Deputy Brock Lotus",
+    "foto": "https://image.tmdb.org/t/p/w185/3wxehP1Dp81D1pXSk8riU2oCLkG.jpg"
+   },
+   {
+    "nome": "Lili Simmons",
+    "personaggio": "Rebecca Bowman",
+    "foto": "https://image.tmdb.org/t/p/w185/h1X7C95cwYoDX45Fe4Zk6KzIhCV.jpg"
+   },
+   {
+    "nome": "Ryann Shane",
+    "personaggio": "Deva Hopewell",
+    "foto": "https://image.tmdb.org/t/p/w185/giaYi11nw4LiI4S8l6dQ7u6FJu3.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Crimine",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Jonathan Tropper",
+    "David Schickler"
+   ],
+   "platform": "Cinemax"
+  }
+ },
+ {
+  "id": "s79",
+  "title": "Silo",
+  "tmdb": 125988,
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [10, 10]; TMDB [10, 10, 10, 1] (serie in corso)"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Jessica Brown Findlay']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 20; TMDB 31, IMDb 40"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Rebecca Ferguson",
+    "personaggio": "Juliette Nichols",
+    "foto": "https://image.tmdb.org/t/p/w185/ra53cM1aNmdH0aFhj8yBqPOj2fb.jpg"
+   },
+   {
+    "nome": "Common",
+    "personaggio": "Robert Sims",
+    "foto": "https://image.tmdb.org/t/p/w185/eggJAnJxpn8wYraX7ea5svETB54.jpg"
+   },
+   {
+    "nome": "Chinaza Uche",
+    "personaggio": "Paul Billings",
+    "foto": "https://image.tmdb.org/t/p/w185/5fbbLI9BPiByyIIRYu9pbRQwyUN.jpg"
+   },
+   {
+    "nome": "Tim Robbins",
+    "personaggio": "Bernard Holland",
+    "foto": "https://image.tmdb.org/t/p/w185/3FfJMIVwXgsIXbAT8ECBSZJAncR.jpg"
+   },
+   {
+    "nome": "Billy Postlethwaite",
+    "personaggio": "Hank Murphy",
+    "foto": "https://image.tmdb.org/t/p/w185/62omaRURpSOCZZr0yP0KowgrjkE.jpg"
+   },
+   {
+    "nome": "Remmie Milner",
+    "personaggio": "Shirley Campbell",
+    "foto": "https://image.tmdb.org/t/p/w185/4LDy6vhBZ11kOevBdAGBRM34d3L.jpg"
+   },
+   {
+    "nome": "Shane McRae",
+    "personaggio": "Knox",
+    "foto": "https://image.tmdb.org/t/p/w185/dZAaRg5BOYfN9uqFxDIXef96CgN.jpg"
+   },
+   {
+    "nome": "Harriet Walter",
+    "personaggio": "Martha Walker",
+    "foto": "https://image.tmdb.org/t/p/w185/vH8JrqdHaoFeGos44XeKTNuQMKE.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Fantascienza, Fantasy",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Graham Yost"
+   ],
+   "platform": "Apple TV+"
+  }
+ },
+ {
+  "id": "s80",
+  "title": "The OA",
+  "tmdb": 69061,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Anson Mount', 'Serinda Swan', 'Iwan Rheon', 'Isabelle Cornish', 'Ken Leung', 'Eme Ikwuakor', 'Sonya Balmores', 'Ellen Woglom', 'Henry Ian Cusick', 'Aidan Fiske', 'Bridger Zadina', 'Garret Sato']; TMDB top: ['Brit Marling', 'Jason Isaacs', 'Emory Cohen', 'Phyllis Smith', 'Patrick Gibson', 'Brendan Meyer', 'Brandon Perea', 'Will Brill']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Brit Marling",
+    "personaggio": "OA / Nina Azarova",
+    "foto": "https://image.tmdb.org/t/p/w185/38pSHsK7DKdOYmdeBOKqyunA45e.jpg"
+   },
+   {
+    "nome": "Jason Isaacs",
+    "personaggio": "Dr. Hunter 'Hap' Percy",
+    "foto": "https://image.tmdb.org/t/p/w185/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+   },
+   {
+    "nome": "Emory Cohen",
+    "personaggio": "Homer Roberts",
+    "foto": "https://image.tmdb.org/t/p/w185/mtummZcNxmcJQ1JIoQUcV3Fwb3.jpg"
+   },
+   {
+    "nome": "Phyllis Smith",
+    "personaggio": "Elizabeth 'Betty' Broderick-Allen",
+    "foto": "https://image.tmdb.org/t/p/w185/h9w9pQbiderRWAC2mi7spjzuIGz.jpg"
+   },
+   {
+    "nome": "Patrick Gibson",
+    "personaggio": "Steve Winchell",
+    "foto": "https://image.tmdb.org/t/p/w185/1pCUKn2BqJJB5IuktEZGgYw6hbt.jpg"
+   },
+   {
+    "nome": "Brendan Meyer",
+    "personaggio": "Jesse",
+    "foto": "https://image.tmdb.org/t/p/w185/cSIsHQjie1xElTL86pCAvHL4ddB.jpg"
+   },
+   {
+    "nome": "Brandon Perea",
+    "personaggio": "Alfonso 'French' Sosa",
+    "foto": "https://image.tmdb.org/t/p/w185/hEzljVgsho0Uwd8tg7AGB5Uy3Lr.jpg"
+   },
+   {
+    "nome": "Will Brill",
+    "personaggio": "Scott Brown",
+    "foto": "https://image.tmdb.org/t/p/w185/eTPXcvxlquT8ppKnwAe2a3CzI90.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Fantascienza, Fantasy",
+   "Mistero",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Brit Marling",
+    "Zal Batmanglij"
+   ],
+   "platform": "Netflix"
+  }
+ },
+ {
+  "id": "s81",
+  "title": "Daredevil",
+  "tmdb": 61889,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Nikolai Nikolaeff', 'Gideon Emery', 'Kevin Nagle', 'Wendy Moniz', 'Adriane Lenox', 'Alex Falberg']; TMDB top: ['Charlie Cox', 'Deborah Ann Woll', 'Elden Henson', \"Vincent D'Onofrio\", 'Royce Johnson', 'Geoffrey Cantor', 'Jon Bernthal', 'Jay Ali']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Charlie Cox",
+    "personaggio": "Matt Murdock / Daredevil",
+    "foto": "https://image.tmdb.org/t/p/w185/91fFBazOvuNjwjcES2b199Ukspn.jpg"
+   },
+   {
+    "nome": "Deborah Ann Woll",
+    "personaggio": "Karen Page",
+    "foto": "https://image.tmdb.org/t/p/w185/btTnyvRLXOH0pz2SLBwyKbmnFhX.jpg"
+   },
+   {
+    "nome": "Elden Henson",
+    "personaggio": "Foggy Nelson",
+    "foto": "https://image.tmdb.org/t/p/w185/8U5g30U76UJe0erbJdWjGLVz7NF.jpg"
+   },
+   {
+    "nome": "Vincent D'Onofrio",
+    "personaggio": "Wilson Fisk / Kingpin",
+    "foto": "https://image.tmdb.org/t/p/w185/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg"
+   },
+   {
+    "nome": "Royce Johnson",
+    "personaggio": "Sgt. Brett Mahoney",
+    "foto": "https://image.tmdb.org/t/p/w185/4okawO40v1qfTMJCUm9adg150MQ.jpg"
+   },
+   {
+    "nome": "Geoffrey Cantor",
+    "personaggio": "Mitchell Ellison",
+    "foto": "https://image.tmdb.org/t/p/w185/z9yI8sMuqx0vM2BYFadPKue3GsV.jpg"
+   },
+   {
+    "nome": "Jon Bernthal",
+    "personaggio": "Frank Castle / Punisher",
+    "foto": "https://image.tmdb.org/t/p/w185/bjcglF1IpDcZNs1HwFxakGpzBo6.jpg"
+   },
+   {
+    "nome": "Jay Ali",
+    "personaggio": "Rahul 'Ray' Nadeem",
+    "foto": "https://image.tmdb.org/t/p/w185/1g4OYoBZxIsIYBvZQ1W2wn21LJJ.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Crimine",
+   "Dramma",
+   "Azione, Avventura"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Drew Goddard"
+   ],
+   "platform": "Netflix"
+  }
+ },
+ {
+  "id": "s82",
+  "title": "Deadwood",
+  "tmdb": 1406,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Reece Dinsdale', 'Elizabeth Bennett', 'Clare Clifford', 'Frank Mills', 'Sheila Hancock', 'Charles Kay', 'Erika Hoffman', 'Ken Campbell', 'Susan Jameson', 'Reginald Marsh', 'Hugh Walters']; TMDB top: ['Timothy Olyphant', 'Ian McShane', 'Molly Parker', 'Jim Beaver', 'W. Earl Brown', 'Dayton Callie', 'Brad Dourif', 'John Hawkes']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['John Thaw']"
+   ],
+   [
+    "PERSONAGGIO",
+    "[\"John Thaw: 'Henry Willows' vs ['Sol Star']\"]"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Timothy Olyphant",
+    "personaggio": "Seth Bullock",
+    "foto": "https://image.tmdb.org/t/p/w185/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg"
+   },
+   {
+    "nome": "Ian McShane",
+    "personaggio": "Al Swearengen",
+    "foto": "https://image.tmdb.org/t/p/w185/rteBJYNgD1yGsHg2HGZAIrYHz1t.jpg"
+   },
+   {
+    "nome": "Molly Parker",
+    "personaggio": "Alma Garret",
+    "foto": "https://image.tmdb.org/t/p/w185/yxDfAinBmVkx8HHzRlJz4KvSnf8.jpg"
+   },
+   {
+    "nome": "Jim Beaver",
+    "personaggio": "Whitney Ellsworth",
+    "foto": "https://image.tmdb.org/t/p/w185/mvawGDw5ge5rxgMKhTSggasOyin.jpg"
+   },
+   {
+    "nome": "W. Earl Brown",
+    "personaggio": "Dan Dority",
+    "foto": "https://image.tmdb.org/t/p/w185/oBHcJc65nUmopx6lVc9ZvYYARZz.jpg"
+   },
+   {
+    "nome": "Dayton Callie",
+    "personaggio": "Charlie Utter",
+    "foto": "https://image.tmdb.org/t/p/w185/miB43H7L4OYY5aRSxhoScjcOxu3.jpg"
+   },
+   {
+    "nome": "Brad Dourif",
+    "personaggio": "Amos Cochran",
+    "foto": "https://image.tmdb.org/t/p/w185/ex7AmuHM3owhUetYZAyOmN1ehWS.jpg"
+   },
+   {
+    "nome": "John Hawkes",
+    "personaggio": "Sol Star",
+    "foto": "https://image.tmdb.org/t/p/w185/c0mDB6TApVcJ3LLM1gicjyUeD5A.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Western",
+   "Crimine",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "David Milch"
+   ],
+   "platform": "HBO"
+  }
+ },
+ {
+  "id": "s83",
+  "title": "The Shield",
+  "tmdb": 1414,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Ivan Sergei', 'Amanda Peet', 'Justin Kirk', 'Sarah Paulson', 'Jaime Pressly', 'Simon Rex', 'Bill Macy', 'Chad Willett', 'Elisa Donovan', 'Clayton Rohner', 'Kathryn Harrold', 'Lindsay Price']; TMDB top: ['Michael Chiklis', 'Catherine Dent', 'Walton Goggins', 'Michael Jace', 'Jay Karnes', 'Benito Martinez', 'CCH Pounder', 'Cathy Cahlin Ryan']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Michael Chiklis",
+    "personaggio": "Vic Mackey",
+    "foto": "https://image.tmdb.org/t/p/w185/pAkKjbzxP6Z6Y5zAGpwmWQo1iji.jpg"
+   },
+   {
+    "nome": "Catherine Dent",
+    "personaggio": "Danielle 'Danny' Sofer",
+    "foto": "https://image.tmdb.org/t/p/w185/yA76zSo5uu3X85nYH2iIKKxgan7.jpg"
+   },
+   {
+    "nome": "Walton Goggins",
+    "personaggio": "Shane Vendrell",
+    "foto": "https://image.tmdb.org/t/p/w185/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
+   },
+   {
+    "nome": "Michael Jace",
+    "personaggio": "Julien Lowe",
+    "foto": "https://image.tmdb.org/t/p/w185/dTHdnj0qfBx6sXr9cT4Xxu0AcIG.jpg"
+   },
+   {
+    "nome": "Jay Karnes",
+    "personaggio": "Holland 'Dutch' Wagenbach",
+    "foto": "https://image.tmdb.org/t/p/w185/95DfDguAXfFfE7ZOdGQIvk5VheZ.jpg"
+   },
+   {
+    "nome": "Benito Martinez",
+    "personaggio": "David Aceveda",
+    "foto": "https://image.tmdb.org/t/p/w185/3lPxnrPCs31lnliBNEssgxw7Qxg.jpg"
+   },
+   {
+    "nome": "CCH Pounder",
+    "personaggio": "Claudette Wyms",
+    "foto": "https://image.tmdb.org/t/p/w185/yLOU0qA5MwJyoKMc0e4HyZz4oFV.jpg"
+   },
+   {
+    "nome": "Cathy Cahlin Ryan",
+    "personaggio": "Corrine Mackey",
+    "foto": "https://image.tmdb.org/t/p/w185/kYqvWykKzUQYhoI3YcY4cTE84ps.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Crimine",
+   "Dramma",
+   "Azione, Avventura"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Shawn Ryan"
+   ],
+   "platform": "FX"
+  }
+ },
+ {
+  "id": "s85",
+  "title": "Atlanta",
+  "tmdb": 65495,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Will Forte', 'Kristen Schaal', 'January Jones', 'Cleopatra Coleman', 'Mel Rodriguez', 'Mary Steenburgen', 'Boris Kodjoe', 'Kenneth Choi', 'Leighton Meester', 'Alexandra Daddario', 'Fred Armisen']; TMDB top: ['Donald Glover', 'Brian Tyree Henry', 'LaKeith Stanfield', 'Zazie Beetz', 'Khris Davis', 'Katt Williams', 'Diane Sellers', 'Rick Holmes']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Keith L. Williams']"
+   ],
+   [
+    "PERSONAGGIO",
+    "[\"Keith L. Williams: 'Jasper' vs ['Uncle Willy']\"]"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Donald Glover",
+    "personaggio": "Earnest 'Earn' Marks",
+    "foto": "https://image.tmdb.org/t/p/w185/jqVkQfeeEmdga1G0jpBwwXXwwSK.jpg"
+   },
+   {
+    "nome": "Brian Tyree Henry",
+    "personaggio": "Alfred 'Paper Boi' Miles",
+    "foto": "https://image.tmdb.org/t/p/w185/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+   },
+   {
+    "nome": "LaKeith Stanfield",
+    "personaggio": "Darius Epps",
+    "foto": "https://image.tmdb.org/t/p/w185/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg"
+   },
+   {
+    "nome": "Zazie Beetz",
+    "personaggio": "Vanessa 'Van' Keefer",
+    "foto": "https://image.tmdb.org/t/p/w185/ijrT4pvALvxU0gphea4YxDnDh6e.jpg"
+   },
+   {
+    "nome": "Khris Davis",
+    "personaggio": "Tracy",
+    "foto": "https://image.tmdb.org/t/p/w185/4MmqpY5tMgsw925tJAOWn9LrcWC.jpg"
+   },
+   {
+    "nome": "Katt Williams",
+    "personaggio": "Uncle Willy",
+    "foto": "https://image.tmdb.org/t/p/w185/fYnrBTxywuWTHqoRkXj1lEvcNaO.jpg"
+   },
+   {
+    "nome": "Diane Sellers",
+    "personaggio": "Lorraine",
+    "foto": "https://image.tmdb.org/t/p/w185/2e00pN04z7GnhVtxdAa2XpFmnN5.jpg"
+   },
+   {
+    "nome": "Rick Holmes",
+    "personaggio": "Craig Allen",
+    "foto": "https://image.tmdb.org/t/p/w185/Jz89l3kVVkBvp010w2fmCBFF1t.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Commedia",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Donald Glover"
+   ],
+   "platform": "FX"
+  }
+ },
+ {
+  "id": "s86",
+  "title": "Fargo",
+  "tmdb": 60622,
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Ewan McGregor']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Jason Schwartzman",
+    "personaggio": "Narrator (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
+   },
+   {
+    "nome": "Allison Tolman",
+    "personaggio": "Molly Solverson",
+    "foto": "https://image.tmdb.org/t/p/w185/uMn33sVI4bhYdUhLJPxntOmisio.jpg"
+   },
+   {
+    "nome": "Colin Hanks",
+    "personaggio": "Deputy Gus Grimly",
+    "foto": "https://image.tmdb.org/t/p/w185/iljyDSiJRcwJL8QXQZ2WTyU1wh5.jpg"
+   },
+   {
+    "nome": "Chris Rock",
+    "personaggio": "Loy Cannon",
+    "foto": "https://image.tmdb.org/t/p/w185/5lILFeBvX3sC0EfbHhrvMEc7bPD.jpg"
+   },
+   {
+    "nome": "Jessie Buckley",
+    "personaggio": "Oraetta Mayflower",
+    "foto": "https://image.tmdb.org/t/p/w185/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
+   },
+   {
+    "nome": "Ben Whishaw",
+    "personaggio": "Patrick 'Rabbi' Milligan",
+    "foto": "https://image.tmdb.org/t/p/w185/6iEdnDBCjuhJgATBMoieIr8p4oA.jpg"
+   },
+   {
+    "nome": "Jack Huston",
+    "personaggio": "Odis Weff",
+    "foto": "https://image.tmdb.org/t/p/w185/qWGoZaUbeuaOLbDvyP5txYr9Hct.jpg"
+   },
+   {
+    "nome": "Salvatore Esposito",
+    "personaggio": "Gaetano Fadda",
+    "foto": "https://image.tmdb.org/t/p/w185/lvTeMD1NqYmYbaH0jYek2oXaSvR.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Crimine",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Noah Hawley"
+   ],
+   "platform": "FX"
+  }
+ },
+ {
+  "id": "s88",
+  "title": "Lupin",
+  "tmdb": 96677,
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [5, 5, 7]; TMDB [10, 7, 8] (serie in corso)"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Kamel Guenfoud', 'Grégoire Colin', 'Arthur Choisnet', 'Saïd Benchnafa', 'Mohamed Nouar', 'Ary Gabison', 'Xavier Gojo', 'Linda Massoz', 'Karim Lasmi', 'François Créton', 'Laurent Maurel']; TMDB top: ['Omar Sy', 'Ludivine Sagnier', 'Soufiane Guerrab', 'Shirine Boutella', 'Etan Simon', 'Antoine Gouy', 'Mamadou Haïdara', 'Hervé Pierre']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 17; TMDB 25, IMDb 25"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Omar Sy",
+    "personaggio": "Assane Diop",
+    "foto": "https://image.tmdb.org/t/p/w185/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg"
+   },
+   {
+    "nome": "Ludivine Sagnier",
+    "personaggio": "Claire",
+    "foto": "https://image.tmdb.org/t/p/w185/hd4fLjgtgNEidJOjuLNGfK1sOhm.jpg"
+   },
+   {
+    "nome": "Soufiane Guerrab",
+    "personaggio": "Youssef Guedira",
+    "foto": "https://image.tmdb.org/t/p/w185/3KPutm0tNtt1CtFm6gyLPSqtOK2.jpg"
+   },
+   {
+    "nome": "Shirine Boutella",
+    "personaggio": "Sofia Belkacem",
+    "foto": "https://image.tmdb.org/t/p/w185/4qBT877sIjMLycDBmahEpL1nwEk.jpg"
+   },
+   {
+    "nome": "Etan Simon",
+    "personaggio": "Raoul Diop",
+    "foto": "https://image.tmdb.org/t/p/w185/uXF3yPXMQhIMkv2VA3dkIQPN813.jpg"
+   },
+   {
+    "nome": "Antoine Gouy",
+    "personaggio": "Benjamin Ferel",
+    "foto": "https://image.tmdb.org/t/p/w185/g0KnDyYzYHNY3TQgcX3B26ILnTu.jpg"
+   },
+   {
+    "nome": "Mamadou Haïdara",
+    "personaggio": "Young Assane Diop",
+    "foto": "https://image.tmdb.org/t/p/w185/pEcfv4SuxqJ0GDjwW5IInb1ct8w.jpg"
+   },
+   {
+    "nome": "Hervé Pierre",
+    "personaggio": "Mr. Hubert Pellegrini",
+    "foto": "https://image.tmdb.org/t/p/w185/dFjFLiRdyLGkMFlHed7aNRPiJrK.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Crimine",
+   "Dramma",
+   "Mistero"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Louis Leterrier",
+    "George Kay"
+   ],
+   "platform": "Netflix"
+  }
+ },
+ {
+  "id": "s89",
+  "title": "The Last Kingdom",
+  "tmdb": 63333,
+  "flags": [
+   [
+    "CREATORI",
+    "Nostri ['Jack Bender', 'Michele Fazekas', 'Tara Butters']; TMDB ['Stephen Butchard']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['찬열', '문가영', '도경수', '백현', '세훈', '장유상', '전수진', '김희정', '윤주상', '카이', '수호', '张艺兴']; TMDB top: ['Alexander Dreymon', 'Eliza Butterworth', 'Arnas Fedaravičius', 'Mark Rowley', 'Emily Cox', 'James Northcote', 'Millie Brady', 'Timothy Innes']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Alexander Dreymon",
+    "personaggio": "Uhtred of Bebbanburg",
+    "foto": "https://image.tmdb.org/t/p/w185/ifI2QhpUlAwiWNwdDsFMRlPovsk.jpg"
+   },
+   {
+    "nome": "Eliza Butterworth",
+    "personaggio": "Aelswith",
+    "foto": "https://image.tmdb.org/t/p/w185/4Zy6flJGeEQAix9P0DmQT4rPAVM.jpg"
+   },
+   {
+    "nome": "Arnas Fedaravičius",
+    "personaggio": "Sihtric",
+    "foto": "https://image.tmdb.org/t/p/w185/7WfcGugvkuPqEzu0cUJBeJPt1lD.jpg"
+   },
+   {
+    "nome": "Mark Rowley",
+    "personaggio": "Finan",
+    "foto": "https://image.tmdb.org/t/p/w185/6Yj5fb9kbkQPeOyxZP3gjGdsnDu.jpg"
+   },
+   {
+    "nome": "Emily Cox",
+    "personaggio": "Brida",
+    "foto": "https://image.tmdb.org/t/p/w185/vuCvqZKsfoAJSBwThbfGGbPROgv.jpg"
+   },
+   {
+    "nome": "James Northcote",
+    "personaggio": "Aldhelm",
+    "foto": "https://image.tmdb.org/t/p/w185/7eON5XLEGFseOWhSXDh7h5JsF9H.jpg"
+   },
+   {
+    "nome": "Millie Brady",
+    "personaggio": "Aethelflaed",
+    "foto": "https://image.tmdb.org/t/p/w185/rCMJ6hS6qMta17X6QzmNDqLdm38.jpg"
+   },
+   {
+    "nome": "Timothy Innes",
+    "personaggio": "King Edward",
+    "foto": "https://image.tmdb.org/t/p/w185/aUxpcqfSZjgi0BItJdjp156kilF.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Azione, Avventura",
+   "Dramma",
+   "Guerra"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Jack Bender",
+    "Michele Fazekas",
+    "Tara Butters"
+   ],
+   "platform": "BBC America"
+  }
+ },
+ {
+  "id": "s91",
+  "title": "The Sopranos",
+  "tmdb": 1398,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Victor Spinetti', 'Roy Kinnear', 'Melvyn Hayes', 'Sheila Steafel', 'Jon Pertwee', 'Myfanwy Talog', 'Derek Griffiths', 'Christopher Plummer', 'Peter Hawkins', 'Mel Blanc']; TMDB top: ['James Gandolfini', 'Edie Falco', 'Jamie-Lynn Sigler', 'Robert Iler', 'Lorraine Bracco', 'Michael Imperioli', 'Steven Van Zandt', 'Tony Sirico']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "James Gandolfini",
+    "personaggio": "Tony Soprano",
+    "foto": "https://image.tmdb.org/t/p/w185/vhtsFJZcfHdeDkFBoWMDzOS6xrP.jpg"
+   },
+   {
+    "nome": "Edie Falco",
+    "personaggio": "Carmela Soprano",
+    "foto": "https://image.tmdb.org/t/p/w185/jS2Hnr5OmntpX0J7EpH70zAG0mz.jpg"
+   },
+   {
+    "nome": "Jamie-Lynn Sigler",
+    "personaggio": "Meadow Soprano",
+    "foto": "https://image.tmdb.org/t/p/w185/Aur8H7qOzDUr9cRaqqOsCE5kLJp.jpg"
+   },
+   {
+    "nome": "Robert Iler",
+    "personaggio": "A.J. Soprano",
+    "foto": "https://image.tmdb.org/t/p/w185/vfTbVoV1Bp2fcDVHaGOIiQppk3J.jpg"
+   },
+   {
+    "nome": "Lorraine Bracco",
+    "personaggio": "Jennifer Melfi",
+    "foto": "https://image.tmdb.org/t/p/w185/tAtpCzN4sTOy1RHpMpJj52zTO4S.jpg"
+   },
+   {
+    "nome": "Michael Imperioli",
+    "personaggio": "Christopher Moltisanti",
+    "foto": "https://image.tmdb.org/t/p/w185/bCDwQGrecRujCibI8rvsxEc91We.jpg"
+   },
+   {
+    "nome": "Steven Van Zandt",
+    "personaggio": "Silvio Dante",
+    "foto": "https://image.tmdb.org/t/p/w185/okh4QNQrGG647y5HnGSXAFFoIlp.jpg"
+   },
+   {
+    "nome": "Tony Sirico",
+    "personaggio": "Paulie Gualtieri",
+    "foto": "https://image.tmdb.org/t/p/w185/yiTvFhaPlVIWETNObwqB72hgNeI.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Crimine",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "David Chase"
+   ],
+   "platform": "HBO"
+  }
+ },
+ {
+  "id": "s93",
+  "title": "24",
+  "tmdb": 1973,
+  "flags": [
+   [
+    "ANNO_FINE",
+    "Nostro 2010; TMDB 2014 (serie Ended)"
+   ],
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [24, 24, 24, 24, 24, 24, 24, 24]; TMDB [24, 24, 24, 24, 24, 24, 24, 24, 12]"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Yvonne Strahovski', 'Tate Donovan', 'John Terry']; TMDB top: ['Kiefer Sutherland', 'Mary Lynn Rajskub', 'Carlos Bernard', 'Dennis Haysbert', 'Elisha Cuthbert', 'Sarah Clarke', 'Kim Raver', 'James Morrison']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Kiefer Sutherland",
+    "personaggio": "Jack Bauer",
+    "foto": "https://image.tmdb.org/t/p/w185/tK5zjdvao2NELns3bqT7PPqPeJI.jpg"
+   },
+   {
+    "nome": "Mary Lynn Rajskub",
+    "personaggio": "Chloe O'Brian",
+    "foto": "https://image.tmdb.org/t/p/w185/oi94VPrp5Ur0nkIqyk6jRu8Eayz.jpg"
+   },
+   {
+    "nome": "Carlos Bernard",
+    "personaggio": "Tony Almeida",
+    "foto": "https://image.tmdb.org/t/p/w185/oAHPWN2kHx3LEE8FtdUXxGqgGXq.jpg"
+   },
+   {
+    "nome": "Dennis Haysbert",
+    "personaggio": "David Palmer",
+    "foto": "https://image.tmdb.org/t/p/w185/lcnjaw2CFN6q9eaes1jTYrUB0rb.jpg"
+   },
+   {
+    "nome": "Elisha Cuthbert",
+    "personaggio": "Kim Bauer",
+    "foto": "https://image.tmdb.org/t/p/w185/qvBpzq3BjIexYKoJD8kpcT0JrTE.jpg"
+   },
+   {
+    "nome": "Sarah Clarke",
+    "personaggio": "Nina Myers",
+    "foto": "https://image.tmdb.org/t/p/w185/bClQYkwMBVnXrVRs52TFbqX3oVE.jpg"
+   },
+   {
+    "nome": "Kim Raver",
+    "personaggio": "Audrey Raines",
+    "foto": "https://image.tmdb.org/t/p/w185/o9OYkG0b48125tim78ebyGeC4lO.jpg"
+   },
+   {
+    "nome": "James Morrison",
+    "personaggio": "Bill Buchanan",
+    "foto": "https://image.tmdb.org/t/p/w185/awmr0NIBPUgCxYCgmLbkv05rYgF.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Azione, Avventura",
+   "Dramma",
+   "Crimine"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Joel Surnow",
+    "Robert Cochran"
+   ],
+   "platform": "Fox"
+  }
+ },
+ {
+  "id": "s94",
+  "title": "Brooklyn 99",
+  "tmdb": 48891,
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [22, 23, 23, 21, 22, 18, 13, 9]; TMDB [22, 23, 23, 22, 22, 18, 13, 9]"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Adam Sandler', 'Joe Theismann', 'Anthony Azizi']; TMDB top: ['Andy Samberg', 'Melissa Fumero', 'Terry Crews', 'Joe Lo Truglio', 'Stephanie Beatriz', 'Andre Braugher', 'Dirk Blocker', 'Joel McKinnon Miller']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 151; TMDB 152, IMDb 153"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Andy Samberg",
+    "personaggio": "Jake Peralta",
+    "foto": "https://image.tmdb.org/t/p/w185/jMXU5oG3i93SH1yhkpbBGskFiJl.jpg"
+   },
+   {
+    "nome": "Melissa Fumero",
+    "personaggio": "Amy Santiago",
+    "foto": "https://image.tmdb.org/t/p/w185/mKwnGOzHr0lSIs8BzPGoJhT3F7I.jpg"
+   },
+   {
+    "nome": "Terry Crews",
+    "personaggio": "Terry Jeffords",
+    "foto": "https://image.tmdb.org/t/p/w185/pxTY4SglLo5hFcMH00MxPeC5u55.jpg"
+   },
+   {
+    "nome": "Joe Lo Truglio",
+    "personaggio": "Charles Boyle",
+    "foto": "https://image.tmdb.org/t/p/w185/lHqOK2LJWGtHACUOqhApFrs38eV.jpg"
+   },
+   {
+    "nome": "Stephanie Beatriz",
+    "personaggio": "Rosa Diaz",
+    "foto": "https://image.tmdb.org/t/p/w185/7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg"
+   },
+   {
+    "nome": "Andre Braugher",
+    "personaggio": "Raymond Holt",
+    "foto": "https://image.tmdb.org/t/p/w185/zdemT9c1U4Muxf7hi0iFq2zHNLd.jpg"
+   },
+   {
+    "nome": "Dirk Blocker",
+    "personaggio": "Michael Hitchcock",
+    "foto": "https://image.tmdb.org/t/p/w185/tTArHJwlyInfkjOinp4f0S1X0Dw.jpg"
+   },
+   {
+    "nome": "Joel McKinnon Miller",
+    "personaggio": "Norman Scully",
+    "foto": "https://image.tmdb.org/t/p/w185/tssymtsgGV3zd8X6tm7p6ZbIUv.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Commedia",
+   "Crimine"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Dan Goor",
+    "Michael Schur"
+   ],
+   "platform": "Fox"
+  }
+ },
+ {
+  "id": "s95",
+  "title": "12 Monkeys",
+  "tmdb": 60948,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Wolfgang Kieling', 'Andrea Rau', 'Gernot Endemann', 'Karlheinz Lemken', 'Horst Hesslein', 'Paul Edwin Roth', 'Ferdinand Dux', 'Michael Gempart', 'Herbert Fleischmann', 'Gert Schaefer', 'Gerhard Olschewski', 'Rudolf Beiswanger']; TMDB top: ['Aaron Stanford', 'Amanda Schull', 'Barbara Sukowa', 'Emily Hampshire', 'Todd Stashwick', 'Andrew Gillies', 'Kirk Acevedo', 'Alisen Richmond-Peck']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Aaron Stanford",
+    "personaggio": "James Cole",
+    "foto": "https://image.tmdb.org/t/p/w185/xt2c0vdTb6UmSFq6fl09iCcIFve.jpg"
+   },
+   {
+    "nome": "Amanda Schull",
+    "personaggio": "Cassandra Railly",
+    "foto": "https://image.tmdb.org/t/p/w185/1u0zGqSDaWOQVYmnpUCmEZ50oJP.jpg"
+   },
+   {
+    "nome": "Barbara Sukowa",
+    "personaggio": "Katarina Jones",
+    "foto": "https://image.tmdb.org/t/p/w185/lBPD683veT1RYdXqMAdAsldAtvI.jpg"
+   },
+   {
+    "nome": "Emily Hampshire",
+    "personaggio": "Jennifer Goines",
+    "foto": "https://image.tmdb.org/t/p/w185/cw5F0VKKSVzRvQB4CMRXhs6WxoH.jpg"
+   },
+   {
+    "nome": "Todd Stashwick",
+    "personaggio": "Deacon",
+    "foto": "https://image.tmdb.org/t/p/w185/seKRXV2HMS36ip4SfQq6PLRiLL2.jpg"
+   },
+   {
+    "nome": "Andrew Gillies",
+    "personaggio": "Julian Adler",
+    "foto": "https://image.tmdb.org/t/p/w185/u2kf1FH3GsniNA5QwPOCx0xzfiT.jpg"
+   },
+   {
+    "nome": "Kirk Acevedo",
+    "personaggio": "José Ramse",
+    "foto": "https://image.tmdb.org/t/p/w185/jFUHECwo7L3KOZ0HxCQytl90qed.jpg"
+   },
+   {
+    "nome": "Alisen Richmond-Peck",
+    "personaggio": "Olivia Kirschner",
+    "foto": "https://image.tmdb.org/t/p/w185/jKf27PDUjzz3rTxbDgC2IGctzik.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Fantascienza, Fantasy",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Terry Matalas",
+    "Travis Fickett"
+   ],
+   "platform": "Syfy"
+  }
+ },
+ {
+  "id": "s100",
+  "title": "The Americans",
+  "tmdb": 46533,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Charlie Hunnam', 'Johnny Lewis', 'Katey Sagal', 'Ron Perlman', 'Tommy Flanagan', 'Mark Boone Junior', 'Ryan Hurst', 'Kim Coates', 'Maggie Siff', 'Theo Rossi', 'Dayton Callie', 'David Labrava']; TMDB top: ['Keri Russell', 'Matthew Rhys', 'Holly Taylor', 'Keidrich Sellati', 'Noah Emmerich', 'Costa Ronin', 'Lev Gorn', 'Alison Wright']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Keri Russell",
+    "personaggio": "Elizabeth Jennings",
+    "foto": "https://image.tmdb.org/t/p/w185/4bLtisDjmCOemk3uC65NAlmdIjz.jpg"
+   },
+   {
+    "nome": "Matthew Rhys",
+    "personaggio": "Philip Jennings",
+    "foto": "https://image.tmdb.org/t/p/w185/8uktKexgPn0tsW3dsXVNqkqiNh7.jpg"
+   },
+   {
+    "nome": "Holly Taylor",
+    "personaggio": "Paige Jennings",
+    "foto": "https://image.tmdb.org/t/p/w185/4L31T8MryaStQ1UAp1EuBTOKqLk.jpg"
+   },
+   {
+    "nome": "Keidrich Sellati",
+    "personaggio": "Henry Jennings",
+    "foto": "https://image.tmdb.org/t/p/w185/1IET3cOndkF5QDybmbP3kUojY7p.jpg"
+   },
+   {
+    "nome": "Noah Emmerich",
+    "personaggio": "Stan Beeman",
+    "foto": "https://image.tmdb.org/t/p/w185/qwPPHYWJ3a9yRwFXicbbHsf60Nm.jpg"
+   },
+   {
+    "nome": "Costa Ronin",
+    "personaggio": "Oleg Igorevich Burov",
+    "foto": "https://image.tmdb.org/t/p/w185/6PjUNZ6HYCT5PlQdXFI1ue2tOls.jpg"
+   },
+   {
+    "nome": "Lev Gorn",
+    "personaggio": "Arkady Ivanovich Zotov",
+    "foto": "https://image.tmdb.org/t/p/w185/2cblHPwJPOPJbn92dwxF83QqrJh.jpg"
+   },
+   {
+    "nome": "Alison Wright",
+    "personaggio": "Martha Hanson",
+    "foto": "https://image.tmdb.org/t/p/w185/yVdCk5eWk5syRrBdxjrnJ1O2Rpg.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Crimine",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Joe Weisberg"
+   ],
+   "platform": "FX"
+  }
+ },
+ {
+  "id": "s102",
+  "title": "Fallout",
+  "tmdb": 106379,
+  "flags": [
+   [
+    "EPISODI_STAGIONE",
+    "Nostro [8]; TMDB [8, 8] (serie in corso)"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Sam Elliott', 'Tim McGraw', 'Faith Hill', 'Isabel May', 'LaMonica Garrett', 'Marc Rissmann', 'Audie Rick', 'James Landry Hébert', 'Dan Pfau', 'Dean Gosdin', 'Natalie Dickinson', 'Kamen Casey']; TMDB top: ['Ella Purnell', 'Aaron Moten', 'Moisés Arias', 'Walton Goggins', 'Frances Turner', 'Kyle MacLachlan', 'Dave Register', 'Leslie Uggams']"
+   ],
+   [
+    "EPISODI?",
+    "Nostro 8; TMDB 16, IMDb 17"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Ella Purnell",
+    "personaggio": "Lucy MacLean",
+    "foto": "https://image.tmdb.org/t/p/w185/jqrYg35GHuMGwGqEVUthqTLQnay.jpg"
+   },
+   {
+    "nome": "Aaron Moten",
+    "personaggio": "Maximus",
+    "foto": "https://image.tmdb.org/t/p/w185/h2CJjnDEy2nCbCy6dWzXLmZ4p47.jpg"
+   },
+   {
+    "nome": "Moisés Arias",
+    "personaggio": "Norm MacLean",
+    "foto": "https://image.tmdb.org/t/p/w185/fc7krDmEA4VkIY4KOJjpMXGdsfg.jpg"
+   },
+   {
+    "nome": "Walton Goggins",
+    "personaggio": "The Ghoul / Cooper Howard",
+    "foto": "https://image.tmdb.org/t/p/w185/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
+   },
+   {
+    "nome": "Frances Turner",
+    "personaggio": "Barb Howard",
+    "foto": "https://image.tmdb.org/t/p/w185/ik2MNJFA2CzeuGtdwrpgUJaidef.jpg"
+   },
+   {
+    "nome": "Kyle MacLachlan",
+    "personaggio": "Overseer Hank MacLean",
+    "foto": "https://image.tmdb.org/t/p/w185/7gNyx8fYAUdOp2jpCEH3dyFbeV.jpg"
+   },
+   {
+    "nome": "Dave Register",
+    "personaggio": "Chet",
+    "foto": "https://image.tmdb.org/t/p/w185/bJYuf9SpvFPPsjfA7GG4LMgARmB.jpg"
+   },
+   {
+    "nome": "Leslie Uggams",
+    "personaggio": "Betty Pearson",
+    "foto": "https://image.tmdb.org/t/p/w185/8zQO5GNWQwJG4we5AYfjopblRFe.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Azione, Avventura",
+   "Fantascienza, Fantasy",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Geneva Robertson-Dworet",
+    "Graham Wagner"
+   ],
+   "platform": "Amazon Prime Video"
+  }
+ },
+ {
+  "id": "s103",
+  "title": "Limitless",
+  "tmdb": 62687,
+  "flags": [
+   [
+    "GENERI",
+    "Nostri ['Crimine', 'Fantascienza', 'Thriller']; TMDB ['Dramma', 'Commedia', 'Azione']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Jake McDorman",
+    "personaggio": "Brian Finch",
+    "foto": "https://image.tmdb.org/t/p/w185/zjAyeIH98VIO6udwdlzeGWtbTfv.jpg"
+   },
+   {
+    "nome": "Jennifer Carpenter",
+    "personaggio": "Rebecca Harris",
+    "foto": "https://image.tmdb.org/t/p/w185/sQeNgRFfCjt3EHMuaJBm8jRCLgw.jpg"
+   },
+   {
+    "nome": "Desmond Harrington",
+    "personaggio": "Casey Rooks",
+    "foto": "https://image.tmdb.org/t/p/w185/toJbvangSsh9MQHFU9MxQi3S6h6.jpg"
+   },
+   {
+    "nome": "Mary Elizabeth Mastrantonio",
+    "personaggio": "Nasreen \"Naz\" Pouran",
+    "foto": "https://image.tmdb.org/t/p/w185/vbZ1E557K5oj34xLHR5ErO8wPCi.jpg"
+   },
+   {
+    "nome": "Bradley Cooper",
+    "personaggio": "Edward Morra",
+    "foto": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
+   },
+   {
+    "nome": "Hill Harper",
+    "personaggio": "Spellman Boyle",
+    "foto": "https://image.tmdb.org/t/p/w185/cgaRPrgB4DBxogIgiLwuABVmJVw.jpg"
+   },
+   {
+    "nome": "Ron Rifkin",
+    "personaggio": "Dennis Finch",
+    "foto": "https://image.tmdb.org/t/p/w185/fj2u4t6nG0HGYFtRVDUTNbUtEtl.jpg"
+   },
+   {
+    "nome": "Blair Brown",
+    "personaggio": "Marie Finch",
+    "foto": "https://image.tmdb.org/t/p/w185/hnVybZLBUJNr93gCTwgRQRCkjpm.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Dramma",
+   "Commedia",
+   "Azione, Avventura"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Craig Sweeny"
+   ],
+   "platform": "CBS"
+  }
+ },
+ {
+  "id": "s104",
+  "title": "Hannibal",
+  "tmdb": 40008,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Lance Henriksen', 'Tom Wisdom']; TMDB top: ['Mads Mikkelsen', 'Hugh Dancy', 'Laurence Fishburne', 'Caroline Dhavernas', 'Aaron Abrams', 'Scott Thompson', 'Gillian Anderson', 'Kacey Rohl']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Mads Mikkelsen",
+    "personaggio": "Dr. Hannibal Lecter",
+    "foto": "https://image.tmdb.org/t/p/w185/AsX4bdvZ8UCayWTmAf9lAqOA8V7.jpg"
+   },
+   {
+    "nome": "Hugh Dancy",
+    "personaggio": "Will Graham",
+    "foto": "https://image.tmdb.org/t/p/w185/6UIiS3nxdNTbIo0G2kFNXpcDKhE.jpg"
+   },
+   {
+    "nome": "Laurence Fishburne",
+    "personaggio": "Jack Crawford",
+    "foto": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+   },
+   {
+    "nome": "Caroline Dhavernas",
+    "personaggio": "Dr. Alana Bloom",
+    "foto": "https://image.tmdb.org/t/p/w185/p3yP2JVSqcZGXUeLnuiJMBXERjF.jpg"
+   },
+   {
+    "nome": "Aaron Abrams",
+    "personaggio": "Brian Zeller",
+    "foto": "https://image.tmdb.org/t/p/w185/uCtc7ouysFZ5dMwcTXiKw1ezuL.jpg"
+   },
+   {
+    "nome": "Scott Thompson",
+    "personaggio": "Jimmy Price",
+    "foto": "https://image.tmdb.org/t/p/w185/lBvadhxdANl9JQo6HkK7ou4jWkS.jpg"
+   },
+   {
+    "nome": "Gillian Anderson",
+    "personaggio": "Dr. Bedelia Du Maurier",
+    "foto": "https://image.tmdb.org/t/p/w185/3Ny8ZYahb33vpqNEPNCE2IOXPew.jpg"
+   },
+   {
+    "nome": "Kacey Rohl",
+    "personaggio": "Abigail Hobbs",
+    "foto": "https://image.tmdb.org/t/p/w185/q8GJEM0Efuz2LLeEIdXQFOAHNRL.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Dramma",
+   "Crimine"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Bryan Fuller"
+   ],
+   "platform": "NBC"
+  }
+ },
+ {
+  "id": "s105",
+  "title": "BoJack Horseman",
+  "tmdb": 61222,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Jon Daly', 'Fred Tatasciore', 'Judy Greer', 'Minae Noji']; TMDB top: ['Will Arnett', 'Aaron Paul', 'Alison Brie', 'Amy Sedaris', 'Paul F. Tompkins', 'Adam Conover', 'Keith Olbermann', 'Patton Oswalt']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Alison Brie']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Will Arnett",
+    "personaggio": "BoJack Horseman (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/cXupYqk2ERP13XBkw816skYdVDO.jpg"
+   },
+   {
+    "nome": "Aaron Paul",
+    "personaggio": "Todd Chavez (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
+   },
+   {
+    "nome": "Alison Brie",
+    "personaggio": "Diane Nguyen / Diana the Princess of Wales (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/uu16GiwYblS6IJV3o4qFSLWKXOC.jpg"
+   },
+   {
+    "nome": "Amy Sedaris",
+    "personaggio": "Princess Carolyn (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/AjVjRYI1PaC11i4FqGSK1TkwOmq.jpg"
+   },
+   {
+    "nome": "Paul F. Tompkins",
+    "personaggio": "Mr. Peanutbutter / Mr. Chocolate Hazelnut Spread (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/pL9v2aubEAOSW0lgrWyP0vvGr34.jpg"
+   },
+   {
+    "nome": "Adam Conover",
+    "personaggio": "Ethan / A Ryan Seacrest Type / Paparazzi Blue Jay (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/tbVGWnkNPAgr8dthkRnIA6p7dBG.jpg"
+   },
+   {
+    "nome": "Keith Olbermann",
+    "personaggio": "Tom Jumbo-Grumbo (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/9cN15bmj7dtDQeZS93IKe4NTVUZ.jpg"
+   },
+   {
+    "nome": "Patton Oswalt",
+    "personaggio": "Pinky Penguin / Crab Guy (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Animazione",
+   "Commedia",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Raphael Bob-Waksberg"
+   ],
+   "platform": "Netflix"
+  }
+ },
+ {
+  "id": "s107",
+  "title": "Avatar: The Last Airbender",
+  "tmdb": 246,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Jodi Carlisle']; TMDB top: ['Zach Tyler Eisen', 'Mae Whitman', 'Jack De Sena', 'Dante Basco', 'Dee Bradley Baker', 'Michaela Jill Murphy', 'Mako', 'Cricket Leigh']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Zach Tyler Eisen",
+    "personaggio": "Aang (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/ifHd2Yoovlvu6FFEIxUsXVyrYUf.jpg"
+   },
+   {
+    "nome": "Mae Whitman",
+    "personaggio": "Katara (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/y7fg9R5zvqDCZCUt3uwcyOoCOFp.jpg"
+   },
+   {
+    "nome": "Jack De Sena",
+    "personaggio": "Sokka (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/i9VlMsPol6XIicnRZRiwmYSyE4P.jpg"
+   },
+   {
+    "nome": "Dante Basco",
+    "personaggio": "Zuko (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/2bfQho7MEo4wAQTmC687FkXUoKU.jpg"
+   },
+   {
+    "nome": "Dee Bradley Baker",
+    "personaggio": "Appa / Momo (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+   },
+   {
+    "nome": "Michaela Jill Murphy",
+    "personaggio": "Toph Beifong (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/4ghTS2mkdfHt4vNHIzDIyU1mVxT.jpg"
+   },
+   {
+    "nome": "Mako",
+    "personaggio": "Iroh (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/x0dZQHKQOZ1ancuRw8slO3rAiPq.jpg"
+   },
+   {
+    "nome": "Cricket Leigh",
+    "personaggio": "Mai (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/aEzjB7HIX3FXVy9jwWe5ofuWwlA.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Animazione",
+   "Azione, Avventura",
+   "Fantascienza, Fantasy"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Michael Dante DiMartino",
+    "Bryan Konietzko"
+   ],
+   "platform": "Nickelodeon"
+  }
+ },
+ {
+  "id": "s108",
+  "title": "Over the Garden Wall",
+  "tmdb": 61617,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Baz Ashmawy', 'Nancy Ashmawy']; TMDB top: ['Elijah Wood', 'Collin Dean', 'Melanie Lynskey', 'Samuel Ramey', 'Christopher Lloyd', 'Jack Jones', 'John Cleese', 'Sam Marin']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Elijah Wood",
+    "personaggio": "Wirt (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+   },
+   {
+    "nome": "Collin Dean",
+    "personaggio": "Gregory (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/zh58W7LjGDh9sF4ZhKspb9tPIlL.jpg"
+   },
+   {
+    "nome": "Melanie Lynskey",
+    "personaggio": "Beatrice (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/kzrWI1sTgnA0H7TCIKzDOUtOW4n.jpg"
+   },
+   {
+    "nome": "Samuel Ramey",
+    "personaggio": "The Beast (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/mRUQ73oT1qBBWRhJ1ZgtXpi3O5O.jpg"
+   },
+   {
+    "nome": "Christopher Lloyd",
+    "personaggio": "The Woodsman (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+   },
+   {
+    "nome": "Jack Jones",
+    "personaggio": "Gregory's Frog (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/fl2OSRND6M7pPbJrFhlMPp6GOq3.jpg"
+   },
+   {
+    "nome": "John Cleese",
+    "personaggio": "Quincy Endicott (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/nQpBf77cStmR35V0XOinm2zZMWG.jpg"
+   },
+   {
+    "nome": "Sam Marin",
+    "personaggio": "Hay Wagon Driver (voice) (uncredited)",
+    "foto": "https://image.tmdb.org/t/p/w185/fWNACxcmaVQSJilCBCfqHoEbbLy.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Mistero",
+   "Fantascienza, Fantasy",
+   "Animazione",
+   "Famiglia",
+   "Commedia"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Patrick McHale"
+   ],
+   "platform": "Cartoon Network"
+  }
+ },
+ {
+  "id": "s109",
+  "title": "Eteros Ego",
+  "tmdb": 90621,
+  "flags": [
+   [
+    "ID_TMDB_SOSPETTO",
+    "2 indizi concordi: l'id TMDB assegnato (90621) potrebbe riferirsi a un altro titolo/omonimo"
+   ],
+   [
+    "TITOLO",
+    "'Eteros Ego' ≠ 'Έτερος Εγώ'/'Έτερος Εγώ'"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Commedia', 'Romance']; TMDB ['Mistero', 'Crimine']"
+   ],
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Μαριάννα Τουμασάτου']; TMDB top: ['Samuel Akinola', 'Kris Radanov', 'Polydoros Vogiatzis']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Samuel Akinola",
+    "personaggio": "Karim",
+    "foto": "https://image.tmdb.org/t/p/w185/q2VluRN1u99dx1V0mqerZZTalf7.jpg"
+   },
+   {
+    "nome": "Kris Radanov",
+    "personaggio": "Doctor",
+    "foto": "https://image.tmdb.org/t/p/w185/hax6ODGXGl03Mw4bce9qtQUaUcJ.jpg"
+   },
+   {
+    "nome": "Polydoros Vogiatzis",
+    "personaggio": "Thanos Kalafatas",
+    "foto": "https://image.tmdb.org/t/p/w185/x6YdjcJwwTMEfHL97xFiEqIncOb.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Mistero",
+   "Crimine"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Sotiris Tsafoulias",
+    "Katerina Filiotou"
+   ],
+   "platform": "COSMOTE TV"
+  }
+ },
+ {
+  "id": "s114",
+  "title": "Twin Peaks",
+  "tmdb": 1920,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Candy Clark']; TMDB top: ['Kyle MacLachlan', 'Michael Horse', 'Harry Goaz', 'Kimmy Robertson', 'Dana Ashbrook', 'Richard Beymer', 'Mädchen Amick', 'Peggy Lipton']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Harry Goaz']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Kyle MacLachlan",
+    "personaggio": "Dale Cooper / Dougie Jones",
+    "foto": "https://image.tmdb.org/t/p/w185/7gNyx8fYAUdOp2jpCEH3dyFbeV.jpg"
+   },
+   {
+    "nome": "Michael Horse",
+    "personaggio": "Tommy 'Hawk' Hill",
+    "foto": "https://image.tmdb.org/t/p/w185/5111zpfxrX6Udb6rFgWQF2W5wNV.jpg"
+   },
+   {
+    "nome": "Harry Goaz",
+    "personaggio": "Andy Brennan",
+    "foto": "https://image.tmdb.org/t/p/w185/oeWNUiLjboZG3UdKr4ZWKDnK3LZ.jpg"
+   },
+   {
+    "nome": "Kimmy Robertson",
+    "personaggio": "Lucy Moran",
+    "foto": "https://image.tmdb.org/t/p/w185/nZAiIyKFNHfVdgEjvdBIPOb8m0B.jpg"
+   },
+   {
+    "nome": "Dana Ashbrook",
+    "personaggio": "Bobby Briggs",
+    "foto": "https://image.tmdb.org/t/p/w185/sAR3KoRwOxV9sztnEuTi5nLrTlz.jpg"
+   },
+   {
+    "nome": "Richard Beymer",
+    "personaggio": "Benjamin Horne",
+    "foto": "https://image.tmdb.org/t/p/w185/q0RQwBRnBFonTgXXDyE7I8MgucV.jpg"
+   },
+   {
+    "nome": "Mädchen Amick",
+    "personaggio": "Shelly Briggs",
+    "foto": "https://image.tmdb.org/t/p/w185/Af47IaCUF9BYzmGBycZiKjqIwYf.jpg"
+   },
+   {
+    "nome": "Peggy Lipton",
+    "personaggio": "Norma Jennings",
+    "foto": "https://image.tmdb.org/t/p/w185/kInR5Xfd2NqoxshUitOmM8Qr7SA.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Dramma",
+   "Mistero"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Mark Frost",
+    "David Lynch"
+   ],
+   "platform": "ABC"
+  }
+ },
+ {
+  "id": "s116",
+  "title": "Stranger Things",
+  "tmdb": 66732,
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Winona Ryder', 'Millie Bobby Brown', 'Caleb McLaughlin', 'Charlie Heaton']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Winona Ryder",
+    "personaggio": "Joyce Byers",
+    "foto": "https://image.tmdb.org/t/p/w185/oYjqkpFCflMz2h6urPpl1nA5sh2.jpg"
+   },
+   {
+    "nome": "David Harbour",
+    "personaggio": "Jim Hopper",
+    "foto": "https://image.tmdb.org/t/p/w185/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
+   },
+   {
+    "nome": "Millie Bobby Brown",
+    "personaggio": "Eleven / Jane Hopper",
+    "foto": "https://image.tmdb.org/t/p/w185/8qasWpPYwiBgPw5Sn54YzN7q5uI.jpg"
+   },
+   {
+    "nome": "Finn Wolfhard",
+    "personaggio": "Mike Wheeler",
+    "foto": "https://image.tmdb.org/t/p/w185/vgjd34eWfVL6GsLHwiwcAsjWLmo.jpg"
+   },
+   {
+    "nome": "Gaten Matarazzo",
+    "personaggio": "Dustin Henderson",
+    "foto": "https://image.tmdb.org/t/p/w185/alVT7oDp8N5G9WLIApI9jqeuqHq.jpg"
+   },
+   {
+    "nome": "Caleb McLaughlin",
+    "personaggio": "Lucas Sinclair",
+    "foto": "https://image.tmdb.org/t/p/w185/4jVS3EziBn7bf97ErxkW7jsdiLM.jpg"
+   },
+   {
+    "nome": "Natalia Dyer",
+    "personaggio": "Nancy Wheeler",
+    "foto": "https://image.tmdb.org/t/p/w185/cQaa3XEiUTgJxp85VeFYFyblJIH.jpg"
+   },
+   {
+    "nome": "Charlie Heaton",
+    "personaggio": "Jonathan Byers",
+    "foto": "https://image.tmdb.org/t/p/w185/lTFj22o0odUj9MfzjLvBtjfGyOT.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Azione, Avventura",
+   "Mistero",
+   "Fantascienza, Fantasy"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Matt Duffer",
+    "Ross Duffer"
+   ],
+   "platform": "Netflix"
+  }
+ },
+ {
+  "id": "s117",
+  "title": "Black Sails",
+  "tmdb": 47665,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Mai Nakahara', '近藤孝行', 'Mamiko Noto', '皆川純子', 'Aya Hisakawa', '清水香里', 'Akeno Watanabe', 'かかずゆみ', 'Nobuyuki Hiyama', '山口太郎', '小谷津央典', '堀川仁']; TMDB top: ['Toby Stephens', 'Luke Arnold', 'Hannah New', 'Jessica Parker Kennedy', 'Toby Schmitz', 'Tom Hopper', 'Clara Paget', 'Zach McGowan']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Toby Stephens",
+    "personaggio": "Captain James Flint",
+    "foto": "https://image.tmdb.org/t/p/w185/1NCqxC8kMiKABrZ9Xgt4nNHGxaI.jpg"
+   },
+   {
+    "nome": "Luke Arnold",
+    "personaggio": "John Silver",
+    "foto": "https://image.tmdb.org/t/p/w185/b19aJzhUAfyQXd0mtmDvLAyOth8.jpg"
+   },
+   {
+    "nome": "Hannah New",
+    "personaggio": "Eleanor Guthrie",
+    "foto": "https://image.tmdb.org/t/p/w185/4U4xCtzINm0zjuqSrwmEbmUxJso.jpg"
+   },
+   {
+    "nome": "Jessica Parker Kennedy",
+    "personaggio": "Max",
+    "foto": "https://image.tmdb.org/t/p/w185/gbRQ22Vg74HPWwXDbAlRkcSOVNR.jpg"
+   },
+   {
+    "nome": "Toby Schmitz",
+    "personaggio": "Jack Rackham",
+    "foto": "https://image.tmdb.org/t/p/w185/z4lW0Ow2VQJS7j0o8fxqIGm2BBn.jpg"
+   },
+   {
+    "nome": "Tom Hopper",
+    "personaggio": "William \"Billy Bones\" Manderly",
+    "foto": "https://image.tmdb.org/t/p/w185/4Bx09xFBXIWIhptQ10yJEPbB1HI.jpg"
+   },
+   {
+    "nome": "Clara Paget",
+    "personaggio": "Anne Bonny",
+    "foto": "https://image.tmdb.org/t/p/w185/8Z3cGEoXy5g1oMCIJfmwPcCXd3H.jpg"
+   },
+   {
+    "nome": "Zach McGowan",
+    "personaggio": "Captain Charles Vane",
+    "foto": "https://image.tmdb.org/t/p/w185/hX7UXULOo6PBALjUgl2gYKx9ZNw.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Dramma",
+   "Azione, Avventura"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Jonathan E. Steinberg",
+    "Robert Levine"
+   ],
+   "platform": "Starz"
+  }
+ },
+ {
+  "id": "s118",
+  "title": "The Queen's Gambit",
+  "tmdb": 87739,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: [\"Jonjo O'Neill\", 'Madeline Holliday', 'Jenny Galloway', 'Steffen Mennekes', 'Johannes Franke']; TMDB top: ['Anya Taylor-Joy', 'Chloe Pirrie', 'Marcin Dorociński', 'Matthew Dennis Lewis', 'Russell Dennis Lewis', 'Dolores Carbonari', 'Janina Elkin', 'Harry Melling']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Anya Taylor-Joy",
+    "personaggio": "Beth Harmon",
+    "foto": "https://image.tmdb.org/t/p/w185/yZpghhtKM2VZHDx6JGAZqAVU4PL.jpg"
+   },
+   {
+    "nome": "Chloe Pirrie",
+    "personaggio": "Alice Harmon",
+    "foto": "https://image.tmdb.org/t/p/w185/t5pUoG5kDk8F0uNQ1reMD8Cd4V0.jpg"
+   },
+   {
+    "nome": "Marcin Dorociński",
+    "personaggio": "Vasily Borgov",
+    "foto": "https://image.tmdb.org/t/p/w185/pyPUnMHxNPKKYxn8PehQJfSbZzO.jpg"
+   },
+   {
+    "nome": "Matthew Dennis Lewis",
+    "personaggio": "Matt",
+    "foto": "https://image.tmdb.org/t/p/w185/e9n1gwjTgezUwvdJ3rfguukcSaY.jpg"
+   },
+   {
+    "nome": "Russell Dennis Lewis",
+    "personaggio": "Mike",
+    "foto": "https://image.tmdb.org/t/p/w185/ldKPHjGhtInlnKkjm84LLQIw7a2.jpg"
+   },
+   {
+    "nome": "Dolores Carbonari",
+    "personaggio": "Margaret",
+    "foto": "https://image.tmdb.org/t/p/w185/5RHzizKFX7SZmCTVg0g7MsD1UtW.jpg"
+   },
+   {
+    "nome": "Janina Elkin",
+    "personaggio": "Borgov's Wife",
+    "foto": "https://image.tmdb.org/t/p/w185/qIr7wSTTawDM8KaPWJ9yMIShwQ5.jpg"
+   },
+   {
+    "nome": "Harry Melling",
+    "personaggio": "Harry Beltik",
+    "foto": "https://image.tmdb.org/t/p/w185/b0pHwi2MeqxEpeWnF4Llihu53aJ.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Scott Frank"
+   ],
+   "platform": "Netflix"
+  }
+ },
+ {
+  "id": "s119",
+  "title": "When They See Us",
+  "tmdb": 81355,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['Josh Brener', 'Mary Elizabeth Winstead', 'Topher Grace', 'Helen Sadler', 'Hayley McLaughlin', 'Omid Abtahi', 'Christine Adams', 'Hakeem Kae-Kazim', 'Anastasia Foster', 'Neil Kaplan', 'G.K. Bowes', 'Courtenay Taylor']; TMDB top: ['Asante Blackk', 'Jharrel Jerome', 'Ethan Herisse', 'Marquis Rodriguez', 'Caleel Harris', 'Marsha Stephanie Blake', 'Michael Kenneth Williams', 'John Leguizamo']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Asante Blackk",
+    "personaggio": "Young Kevin Richardson",
+    "foto": "https://image.tmdb.org/t/p/w185/mB0FG4VH5HXvjFuZ3W8aJO1bfVu.jpg"
+   },
+   {
+    "nome": "Jharrel Jerome",
+    "personaggio": "Korey Wise",
+    "foto": "https://image.tmdb.org/t/p/w185/zH840Fv86TixTLVZKzPZJJacphd.jpg"
+   },
+   {
+    "nome": "Ethan Herisse",
+    "personaggio": "Young Yusef Salaam",
+    "foto": "https://image.tmdb.org/t/p/w185/a4QSvqAmdBwN0xKlxSBsWaQMPat.jpg"
+   },
+   {
+    "nome": "Marquis Rodriguez",
+    "personaggio": "Young Raymond Santana Jr.",
+    "foto": "https://image.tmdb.org/t/p/w185/cRBXdlvdX8f1W5EZGafQv5nXlXv.jpg"
+   },
+   {
+    "nome": "Caleel Harris",
+    "personaggio": "Young Antron McCray",
+    "foto": "https://image.tmdb.org/t/p/w185/cZi0NxCQsQSEakTuOg75qukIGW6.jpg"
+   },
+   {
+    "nome": "Marsha Stephanie Blake",
+    "personaggio": "Linda McCray",
+    "foto": "https://image.tmdb.org/t/p/w185/rmt9fiHA9i0A3pFuguhtODdXFIH.jpg"
+   },
+   {
+    "nome": "Michael Kenneth Williams",
+    "personaggio": "Bobby McCray",
+    "foto": "https://image.tmdb.org/t/p/w185/mafEXtGlT1qYjGmZtbjo7Ep5qK3.jpg"
+   },
+   {
+    "nome": "John Leguizamo",
+    "personaggio": "Raymond Santana Sr.",
+    "foto": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Ava DuVernay"
+   ],
+   "platform": "Netflix"
+  }
+ },
+ {
+  "id": "s126",
+  "title": "The Mandalorian",
+  "tmdb": 82856,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['John Beasley', 'Dmitrious Bistrevsky', 'Brian Posehn', 'Ryan Watson', 'Julia Jones', 'Isla Farris', 'Eugene Cordero', 'Aydrea Walden']; TMDB top: ['Pedro Pascal', 'Katee Sackhoff', 'Misty Rosas', 'Chris Bartlett', 'Carl Weathers', 'Emily Swallow', 'Brendan Wayne', 'Giancarlo Esposito']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Pedro Pascal",
+    "personaggio": "Din Djarin / The Mandalorian",
+    "foto": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+   },
+   {
+    "nome": "Katee Sackhoff",
+    "personaggio": "Bo-Katan Kryze",
+    "foto": "https://image.tmdb.org/t/p/w185/kzcwfDDrgXnVgyTfcpG0obOn7Qk.jpg"
+   },
+   {
+    "nome": "Misty Rosas",
+    "personaggio": "Frog Lady",
+    "foto": "https://image.tmdb.org/t/p/w185/aCa0ukemG7x3wAxtR1BM5v0BvrL.jpg"
+   },
+   {
+    "nome": "Chris Bartlett",
+    "personaggio": "RA-7 (Performance Artist)",
+    "foto": "https://image.tmdb.org/t/p/w185/63o4rr3zUlfkKAxru94RSfosMo0.jpg"
+   },
+   {
+    "nome": "Carl Weathers",
+    "personaggio": "Greef Karga",
+    "foto": "https://image.tmdb.org/t/p/w185/oUwtC5hEbcIZv53WPerZ9HhlSJR.jpg"
+   },
+   {
+    "nome": "Emily Swallow",
+    "personaggio": "Armorer",
+    "foto": "https://image.tmdb.org/t/p/w185/8wS86vFMoDnfAJzOL9yNqvXcCpA.jpg"
+   },
+   {
+    "nome": "Brendan Wayne",
+    "personaggio": "Mandalorian Warrior",
+    "foto": "https://image.tmdb.org/t/p/w185/klsNR0ld4NjURhhn3PYZetFkaCK.jpg"
+   },
+   {
+    "nome": "Giancarlo Esposito",
+    "personaggio": "Moff Gideon",
+    "foto": "https://image.tmdb.org/t/p/w185/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Fantascienza, Fantasy",
+   "Azione, Avventura"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Jon Favreau"
+   ],
+   "platform": "Disney+"
+  }
+ },
+ {
+  "id": "s127",
+  "title": "Star Wars: The Clone Wars",
+  "tmdb": 4194,
+  "flags": [
+   [
+    "CAST",
+    "Non nel cast TMDB: ['David Tennant', 'Liam Neeson', 'Tom Kenny', 'George Takei']; TMDB top: ['Tom Kane', 'Matt Lanter', 'James Arnold Taylor', 'Dee Bradley Baker', 'Ashley Eckstein', 'Matthew Wood', \"Terrence 'T.C.' Carson\", 'Ian Abercrombie']"
+   ],
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['James Arnold Taylor']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Tom Kane",
+    "personaggio": "Yoda / Narrator (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/sq49aVP56G50Nr5kCL7Ove6Z9jE.jpg"
+   },
+   {
+    "nome": "Matt Lanter",
+    "personaggio": "Lom Pyke (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/2ms8DR9n4wh9ZU6lIuqsE58LPT9.jpg"
+   },
+   {
+    "nome": "James Arnold Taylor",
+    "personaggio": "Plo Koon (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/A6J14W5kxsuEKXaRkiOXBIROO9t.jpg"
+   },
+   {
+    "nome": "Dee Bradley Baker",
+    "personaggio": "Clone Troopers (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+   },
+   {
+    "nome": "Ashley Eckstein",
+    "personaggio": "Ahsoka Tano (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/fIjLS6RAafEUOeReG5W51cA7dWY.jpg"
+   },
+   {
+    "nome": "Matthew Wood",
+    "personaggio": "General Grievous / Poggle the Lesser / Battle Droids (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/u1UjHLTeS5Dregg85A3GICf7Nkf.jpg"
+   },
+   {
+    "nome": "Terrence 'T.C.' Carson",
+    "personaggio": "Mace Windu / Mon Cala Soldier (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/3cKzbe7UY61ELyQSEWCHWzDSnNG.jpg"
+   },
+   {
+    "nome": "Ian Abercrombie",
+    "personaggio": "Darth Sidious / Pirate #2 (voice)",
+    "foto": "https://image.tmdb.org/t/p/w185/fKAYk2Fp5GzKizw4wlUgNPIt136.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Azione, Avventura",
+   "Fantascienza, Fantasy",
+   "Animazione"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "George Lucas",
+    "Dave Filoni"
+   ],
+   "platform": "Disney+"
+  }
+ },
+ {
+  "id": "s128",
+  "title": "And Then There Were None",
+  "tmdb": 64684,
+  "flags": [
+   [
+    "FOTO_CAST",
+    "Foto diversa da TMDB: ['Charles Dance']"
+   ]
+  ],
+  "cast_tmdb": [
+   {
+    "nome": "Charles Dance",
+    "personaggio": "Justice Lawrence Wargrave",
+    "foto": "https://image.tmdb.org/t/p/w185/pKiXMCLf0uHQNwQPCjSNrjsUiJO.jpg"
+   },
+   {
+    "nome": "Maeve Dermody",
+    "personaggio": "Vera Claythorne",
+    "foto": "https://image.tmdb.org/t/p/w185/bbpRTgz7O2DBmQJi7ixdK0Q2hWz.jpg"
+   },
+   {
+    "nome": "Aidan Turner",
+    "personaggio": "Philip Lombard",
+    "foto": "https://image.tmdb.org/t/p/w185/vzL4c4a72MpEAuPVZaqj9dJBNIr.jpg"
+   },
+   {
+    "nome": "Burn Gorman",
+    "personaggio": "D.S. William Blore",
+    "foto": "https://image.tmdb.org/t/p/w185/udgACYWqCSuu6nvtrSjmyU28B0V.jpg"
+   },
+   {
+    "nome": "Toby Stephens",
+    "personaggio": "Dr. Edward Armstrong",
+    "foto": "https://image.tmdb.org/t/p/w185/1NCqxC8kMiKABrZ9Xgt4nNHGxaI.jpg"
+   },
+   {
+    "nome": "Miranda Richardson",
+    "personaggio": "Emily Brent",
+    "foto": "https://image.tmdb.org/t/p/w185/2IEW3fxqHb4AHBl5xU8JuipJbNK.jpg"
+   },
+   {
+    "nome": "Noah Taylor",
+    "personaggio": "Thomas Rogers",
+    "foto": "https://image.tmdb.org/t/p/w185/a9VuohmpqbvcYflOpi0F3ck8L2j.jpg"
+   },
+   {
+    "nome": "Sam Neill",
+    "personaggio": "General John MacArthur",
+    "foto": "https://image.tmdb.org/t/p/w185/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+   }
+  ],
+  "generi_tmdb": [
+   "Mistero",
+   "Dramma"
+  ],
+  "generi_nostri": null,
+  "cast_nostro": {
+   "creators": [
+    "Sarah Phelps"
+   ],
+   "platform": "BBC One"
+  }
+ }
+]
