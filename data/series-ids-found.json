@@ -1,0 +1,448 @@
+[
+{
+"id": "s120",
+"title": "The Mentalist",
+"year": "2008",
+"scelto": {
+"id": 5920,
+"name": "The Mentalist",
+"orig": "The Mentalist",
+"first": "2008",
+"pop": 372.9902,
+"votes": 4829
+},
+"alternative": [
+{
+"id": 222749,
+"name": "Mentalist",
+"orig": "Mentalist",
+"first": "2023",
+"pop": 0.6523,
+"votes": 0
+}
+]
+},
+{
+"id": "s58",
+"title": "Fringe",
+"year": "2008",
+"scelto": {
+"id": 1705,
+"name": "Fringe",
+"orig": "Fringe",
+"first": "2008",
+"pop": 97.3274,
+"votes": 2947
+},
+"alternative": [
+{
+"id": 44042,
+"name": "On the Fringe",
+"orig": "On the Fringe",
+"first": "",
+"pop": 0.4672,
+"votes": 0
+},
+{
+"id": 31912,
+"name": "On the Fringe",
+"orig": "On the Fringe",
+"first": "",
+"pop": 0.4483,
+"votes": 0
+}
+]
+},
+{
+"id": "s67",
+"title": "Boardwalk Empire",
+"year": "2010",
+"scelto": {
+"id": 1621,
+"name": "Boardwalk Empire",
+"orig": "Boardwalk Empire",
+"first": "2010",
+"pop": 49.4892,
+"votes": 1333
+},
+"alternative": []
+},
+{
+"id": "s69",
+"title": "Sons of Anarchy",
+"year": "2008",
+"scelto": {
+"id": 1409,
+"name": "Sons of Anarchy",
+"orig": "Sons of Anarchy",
+"first": "2008",
+"pop": 106.8649,
+"votes": 3416
+},
+"alternative": []
+},
+{
+"id": "s70",
+"title": "Oz",
+"year": "1997",
+"scelto": {
+"id": 3322,
+"name": "Oz",
+"orig": "Oz",
+"first": "1997",
+"pop": 50.5953,
+"votes": 887
+},
+"alternative": [
+{
+"id": 115584,
+"name": "OZ",
+"orig": "OZ",
+"first": "1992",
+"pop": 2.8317,
+"votes": 0
+},
+{
+"id": 13401,
+"name": "The Oz Kids",
+"orig": "The Oz Kids",
+"first": "1996",
+"pop": 2.2831,
+"votes": 2
+}
+]
+},
+{
+"id": "s76",
+"title": "Six Feet Under",
+"year": "2001",
+"scelto": {
+"id": 1274,
+"name": "Six Feet Under",
+"orig": "Six Feet Under",
+"first": "2001",
+"pop": 53.3547,
+"votes": 1185
+},
+"alternative": [
+{
+"id": 319501,
+"name": "Six Feet Under with The Undertaker",
+"orig": "Six Feet Under with The Undertaker",
+"first": "2025",
+"pop": 1.8037,
+"votes": 0
+},
+{
+"id": 301121,
+"name": "SIx Feet Under with Mark Calaway",
+"orig": "SIx Feet Under with Mark Calaway",
+"first": "2024",
+"pop": 1.0639,
+"votes": 0
+}
+]
+},
+{
+"id": "s78",
+"title": "Banshee",
+"year": "2013",
+"scelto": {
+"id": 41727,
+"name": "Banshee",
+"orig": "Banshee",
+"first": "2013",
+"pop": 66.0532,
+"votes": 1469
+},
+"alternative": [
+{
+"id": 62119,
+"name": "Banshee: Origins",
+"orig": "Banshee: Origins",
+"first": "2013",
+"pop": 11.6287,
+"votes": 65
+},
+{
+"id": 20599,
+"name": "Wail of the Banshee",
+"orig": "Wail of the Banshee",
+"first": "",
+"pop": 0.4424,
+"votes": 0
+}
+]
+},
+{
+"id": "s80",
+"title": "The OA",
+"year": "2016",
+"scelto": {
+"id": 69061,
+"name": "The OA",
+"orig": "The OA",
+"first": "2016",
+"pop": 25.0808,
+"votes": 1473
+},
+"alternative": [
+{
+"id": 73363,
+"name": "The Hippocratic Oath",
+"orig": "ヒポクラテスの誓い",
+"first": "2016",
+"pop": 1.7941,
+"votes": 4
+},
+{
+"id": 75797,
+"name": "The Oath",
+"orig": "The Oath",
+"first": "2018",
+"pop": 11.2119,
+"votes": 45
+}
+]
+},
+{
+"id": "s82",
+"title": "Deadwood",
+"year": "2004",
+"scelto": {
+"id": 1406,
+"name": "Deadwood",
+"orig": "Deadwood",
+"first": "2004",
+"pop": 35.3249,
+"votes": 1007
+},
+"alternative": [
+{
+"id": 302945,
+"name": "UnDeadwood",
+"orig": "UnDeadwood",
+"first": "2019",
+"pop": 1.8564,
+"votes": 2
+}
+]
+},
+{
+"id": "s83",
+"title": "The Shield",
+"year": "2002",
+"scelto": {
+"id": 1414,
+"name": "The Shield",
+"orig": "The Shield",
+"first": "2002",
+"pop": 79.3852,
+"votes": 910
+},
+"alternative": [
+{
+"id": 17596,
+"name": "The Shields Stories",
+"orig": "The Shields Stories",
+"first": "",
+"pop": 0.5635,
+"votes": 1
+},
+{
+"id": 83095,
+"name": "The Rising of the Shield Hero",
+"orig": "盾の勇者の成り上がり",
+"first": "2019",
+"pop": 20.7255,
+"votes": 1598
+}
+]
+},
+{
+"id": "s85",
+"title": "Atlanta",
+"year": "2016",
+"scelto": {
+"id": 65495,
+"name": "Atlanta",
+"orig": "Atlanta",
+"first": "2016",
+"pop": 23.9718,
+"votes": 890
+},
+"alternative": [
+{
+"id": 66009,
+"name": "Little Women: Atlanta",
+"orig": "Little Women: Atlanta",
+"first": "2016",
+"pop": 5.2109,
+"votes": 15
+},
+{
+"id": 66004,
+"name": "Preachers of Atlanta",
+"orig": "Preachers of Atlanta",
+"first": "2016",
+"pop": 0.6006,
+"votes": 1
+}
+]
+},
+{
+"id": "s89",
+"title": "The Last Kingdom",
+"year": "2015",
+"scelto": {
+"id": 63333,
+"name": "The Last Kingdom",
+"orig": "The Last Kingdom",
+"first": "2015",
+"pop": 60.5494,
+"votes": 2058
+},
+"alternative": []
+},
+{
+"id": "s91",
+"title": "The Sopranos",
+"year": "1999",
+"scelto": {
+"id": 1398,
+"name": "The Sopranos",
+"orig": "The Sopranos",
+"first": "1999",
+"pop": 127.9042,
+"votes": 3720
+},
+"alternative": [
+{
+"id": 260843,
+"name": "Wise Guy: David Chase and The Sopranos",
+"orig": "Wise Guy: David Chase and The Sopranos",
+"first": "2024",
+"pop": 9.445,
+"votes": 40
+}
+]
+},
+{
+"id": "s95",
+"title": "12 Monkeys",
+"year": "2015",
+"scelto": {
+"id": 60948,
+"name": "12 Monkeys",
+"orig": "12 Monkeys",
+"first": "2015",
+"pop": 38.357,
+"votes": 1231
+},
+"alternative": []
+},
+{
+"id": "s100",
+"title": "The Americans",
+"year": "2013",
+"scelto": {
+"id": 46533,
+"name": "The Americans",
+"orig": "The Americans",
+"first": "2013",
+"pop": 59.8441,
+"votes": 1119
+},
+"alternative": [
+{
+"id": 82553,
+"name": "The Americans",
+"orig": "Los Americans",
+"first": "",
+"pop": 1.577,
+"votes": 0
+},
+{
+"id": 33383,
+"name": "The Americans",
+"orig": "The Americans",
+"first": "1961",
+"pop": 6.906,
+"votes": 2
+}
+]
+},
+{
+"id": "s102",
+"title": "Fallout",
+"year": "2024",
+"scelto": {
+"id": 106379,
+"name": "Fallout",
+"orig": "Fallout",
+"first": "2024",
+"pop": 49.9088,
+"votes": 3156
+},
+"alternative": [
+{
+"id": 97075,
+"name": "Fallout",
+"orig": "Stockholmský syndrom",
+"first": "2020",
+"pop": 2.6099,
+"votes": 7
+},
+{
+"id": 32366,
+"name": "Fallout",
+"orig": "Fallout",
+"first": "2006",
+"pop": 1.731,
+"votes": 0
+}
+]
+},
+{
+"id": "s108",
+"title": "Over the Garden Wall",
+"year": "2014",
+"scelto": {
+"id": 61617,
+"name": "Over the Garden Wall",
+"orig": "Over the Garden Wall",
+"first": "2014",
+"pop": 21.8387,
+"votes": 1832
+},
+"alternative": []
+},
+{
+"id": "s117",
+"title": "Black Sails",
+"year": "2014",
+"scelto": {
+"id": 47665,
+"name": "Black Sails",
+"orig": "Black Sails",
+"first": "2014",
+"pop": 38.4903,
+"votes": 1531
+},
+"alternative": []
+},
+{
+"id": "s119",
+"title": "When They See Us",
+"year": "2019",
+"scelto": {
+"id": 81355,
+"name": "When They See Us",
+"orig": "When They See Us",
+"first": "2019",
+"pop": 12.1765,
+"votes": 1076
+},
+"alternative": []
+}
+]

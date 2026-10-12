@@ -1,0 +1,24 @@
+name: Supabase import (unione PC + telefono)
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests cryptography
+      - run: python scripts/sb-import-merged.py
+        env:
+          SB_URL: ${{ secrets.SB_URL }}
+          SB_PUBKEY: ${{ secrets.SB_PUBKEY }}
+          SB_VAULT_KEY: ${{ secrets.SB_VAULT_KEY }}
+      - run: |
+          git config user.name "mediavault-bot"; git config user.email "bot@users.noreply.github.com"
+          git rm -q --ignore-unmatch scripts/merged-state.enc
+          git add data/supabase-import-merged-report.json
+          git commit -m "Supabase import unione: report (file cifrato rimosso)" || echo nothing
+          git pull --rebase -X theirs || true
+          git push
