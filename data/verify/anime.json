@@ -1005,7 +1005,7 @@
     "runtime": [
      24
     ],
-    "last_runtime": 26,
+    "last_runtime": 24,
     "status": "Returning Series",
     "year": "2021"
    }
@@ -1176,15 +1176,6 @@
   },
   "flags": [],
   "src": {
-   "anilist": {
-    "id": 101347,
-    "title": "Dororo",
-    "eps": 24,
-    "duration": 24,
-    "year": 2019,
-    "format": "TV",
-    "status": "FINISHED"
-   },
    "tmdb": {
     "id": 83100,
     "name": "Dororo",
@@ -1890,6 +1881,15 @@
   },
   "flags": [],
   "src": {
+   "anilist": {
+    "id": 4224,
+    "title": "Toradora!",
+    "eps": 25,
+    "duration": 24,
+    "year": 2008,
+    "format": "TV",
+    "status": "FINISHED"
+   },
    "tmdb": {
     "id": 42916,
     "name": "Toradora!",
@@ -1915,6 +1915,15 @@
   },
   "flags": [],
   "src": {
+   "anilist": {
+    "id": 128547,
+    "title": "Odd Taxi",
+    "eps": 13,
+    "duration": 24,
+    "year": 2021,
+    "format": "TV",
+    "status": "FINISHED"
+   },
    "tmdb": {
     "id": 116727,
     "name": "ODDTAXI",
@@ -1940,6 +1949,15 @@
   },
   "flags": [],
   "src": {
+   "anilist": {
+    "id": 124845,
+    "title": "Wonder Egg Priority",
+    "eps": 12,
+    "duration": 23,
+    "year": 2021,
+    "format": "TV",
+    "status": "FINISHED"
+   },
    "tmdb": {
     "id": 111255,
     "name": "Wonder Egg Priority",
@@ -1965,6 +1983,15 @@
   },
   "flags": [],
   "src": {
+   "anilist": {
+    "id": 20931,
+    "title": "Death Parade",
+    "eps": 12,
+    "duration": 23,
+    "year": 2015,
+    "format": "TV",
+    "status": "FINISHED"
+   },
    "tmdb": {
     "id": 61901,
     "name": "Death Parade",
@@ -2022,18 +2049,13 @@
    "duration": 24,
    "status": "completed"
   },
-  "flags": [],
-  "src": {
-   "anilist": {
-    "id": 30,
-    "title": "Shin Seiki Evangelion",
-    "eps": 26,
-    "duration": 24,
-    "year": 1995,
-    "format": "TV",
-    "status": "FINISHED"
-   }
-  }
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde (AniList/TMDB)"
+   ]
+  ],
+  "src": {}
  },
  {
   "id": "a65",
@@ -2044,17 +2066,13 @@
    "duration": 24,
    "status": "completed"
   },
-  "flags": [],
+  "flags": [
+   [
+    "EPISODI?",
+    "Nostro 12; TMDB (tutte le stagioni) 24, AniList (singola voce) None"
+   ]
+  ],
   "src": {
-   "anilist": {
-    "id": 98314,
-    "title": "Kakegurui",
-    "eps": 12,
-    "duration": 25,
-    "year": 2017,
-    "format": "TV",
-    "status": "FINISHED"
-   },
    "tmdb": {
     "id": 72305,
     "name": "Kakegurui",
@@ -2078,18 +2096,13 @@
    "duration": 44,
    "status": "completed"
   },
-  "flags": [],
-  "src": {
-   "anilist": {
-    "id": 10408,
-    "title": "Hotarubi no Mori e",
-    "eps": 1,
-    "duration": 45,
-    "year": 2011,
-    "format": "MOVIE",
-    "status": "FINISHED"
-   }
-  }
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde (AniList/TMDB)"
+   ]
+  ],
+  "src": {}
  },
  {
   "id": "a67",
@@ -2102,15 +2115,6 @@
   },
   "flags": [],
   "src": {
-   "anilist": {
-    "id": 20832,
-    "title": "Overlord",
-    "eps": 13,
-    "duration": 24,
-    "year": 2015,
-    "format": "TV",
-    "status": "FINISHED"
-   },
    "tmdb": {
     "id": 64196,
     "name": "Overlord",
@@ -2925,6 +2929,15 @@
   },
   "flags": [],
   "src": {
+   "anilist": {
+    "id": 1818,
+    "title": "CLAYMORE",
+    "eps": 26,
+    "duration": 23,
+    "year": 2007,
+    "format": "TV",
+    "status": "FINISHED"
+   },
    "tmdb": {
     "id": 34791,
     "name": "Claymore",
@@ -3094,15 +3107,6 @@
   },
   "flags": [],
   "src": {
-   "anilist": {
-    "id": 119683,
-    "title": "EDENS ZERO",
-    "eps": 25,
-    "duration": 23,
-    "year": 2021,
-    "format": "TV",
-    "status": "FINISHED"
-   },
    "tmdb": {
     "id": 104711,
     "name": "EDENS ZERO",
@@ -3223,15 +3227,6 @@
   },
   "flags": [],
   "src": {
-   "anilist": {
-    "id": 120,
-    "title": "Fruits Basket",
-    "eps": 26,
-    "duration": 24,
-    "year": 2001,
-    "format": "TV",
-    "status": "FINISHED"
-   },
    "tmdb": {
     "id": 85991,
     "name": "Fruits Basket",
@@ -3257,21 +3252,11 @@
   },
   "flags": [
    [
-    "EPISODI?",
-    "Nostro 62; TMDB (tutte le stagioni) None, AniList (singola voce) 20"
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde (AniList/TMDB)"
    ]
   ],
-  "src": {
-   "anilist": {
-    "id": 114535,
-    "title": "Fumetsu no Anata e",
-    "eps": 20,
-    "duration": 25,
-    "year": 2021,
-    "format": "TV",
-    "status": "FINISHED"
-   }
-  }
+  "src": {}
  },
  {
   "id": "a104",
@@ -3284,15 +3269,6 @@
   },
   "flags": [],
   "src": {
-   "anilist": {
-    "id": 178025,
-    "title": "Gachiakuta",
-    "eps": 24,
-    "duration": 24,
-    "year": 2025,
-    "format": "TV",
-    "status": "FINISHED"
-   },
    "tmdb": {
     "id": 256721,
     "name": "Gachiakuta",
@@ -3318,21 +3294,11 @@
   },
   "flags": [
    [
-    "EPISODI?",
-    "Nostro 110; TMDB (tutte le stagioni) None, AniList (singola voce) 12"
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde (AniList/TMDB)"
    ]
   ],
-  "src": {
-   "anilist": {
-    "id": 20628,
-    "title": "Ginga Eiyuu Densetsu: Die Neue These - Kaikou",
-    "eps": 12,
-    "duration": 25,
-    "year": 2018,
-    "format": "TV",
-    "status": "FINISHED"
-   }
-  }
+  "src": {}
  },
  {
   "id": "a106",
@@ -3700,6 +3666,15 @@
   },
   "flags": [],
   "src": {
+   "anilist": {
+    "id": 12189,
+    "title": "Hyouka",
+    "eps": 22,
+    "duration": 26,
+    "year": 2012,
+    "format": "TV",
+    "status": "FINISHED"
+   },
    "tmdb": {
     "id": 65329,
     "name": "Hyouka",
@@ -3725,11 +3700,20 @@
   },
   "flags": [
    [
-    "EPISODI?",
-    "Nostro 296; TMDB (tutte le stagioni) 268, AniList (singola voce) None"
+    "EPISODI",
+    "Nostro 296; TMDB (tutte le stagioni) 268, AniList (singola voce) 127"
    ]
   ],
   "src": {
+   "anilist": {
+    "id": 5231,
+    "title": "Inazuma Eleven",
+    "eps": 127,
+    "duration": 25,
+    "year": 2008,
+    "format": "TV",
+    "status": "FINISHED"
+   },
    "tmdb": {
     "id": 42912,
     "name": "Inazuma Eleven",
@@ -3755,11 +3739,21 @@
   },
   "flags": [
    [
-    "NON_TROVATO",
-    "Nessuna fonte corrisponde (AniList/TMDB)"
+    "EPISODI?",
+    "Nostro 24; TMDB (tutte le stagioni) None, AniList (singola voce) 12"
    ]
   ],
-  "src": {}
+  "src": {
+   "anilist": {
+    "id": 108463,
+    "title": "Jibaku Shounen Hanako-kun",
+    "eps": 12,
+    "duration": 24,
+    "year": 2020,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
  },
  {
   "id": "a120",
@@ -3772,11 +3766,21 @@
   },
   "flags": [
    [
-    "NON_TROVATO",
-    "Nessuna fonte corrisponde (AniList/TMDB)"
+    "EPISODI?",
+    "Nostro 32; TMDB (tutte le stagioni) None, AniList (singola voce) 20"
    ]
   ],
-  "src": {}
+  "src": {
+   "anilist": {
+    "id": 130298,
+    "title": "Kage no Jitsuryokusha ni Naritakute!",
+    "eps": 20,
+    "duration": 24,
+    "year": 2022,
+    "format": "TV",
+    "status": "FINISHED"
+   }
+  }
  },
  {
   "id": "a121",
@@ -4233,21 +4237,11 @@
   },
   "flags": [
    [
-    "EPISODI?",
-    "Nostro 96; TMDB (tutte le stagioni) None, AniList (singola voce) 24"
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde (AniList/TMDB)"
    ]
   ],
-  "src": {
-   "anilist": {
-    "id": 20789,
-    "title": "Nanatsu no Taizai",
-    "eps": 24,
-    "duration": 25,
-    "year": 2014,
-    "format": "TV",
-    "status": "FINISHED"
-   }
-  }
+  "src": {}
  },
  {
   "id": "a137",
@@ -4260,15 +4254,6 @@
   },
   "flags": [],
   "src": {
-   "anilist": {
-    "id": 20447,
-    "title": "Noragami",
-    "eps": 12,
-    "duration": 24,
-    "year": 2014,
-    "format": "TV",
-    "status": "FINISHED"
-   },
    "tmdb": {
     "id": 64710,
     "name": "Noragami",
@@ -4314,9 +4299,9 @@
     "eps": 35,
     "seasons": 1,
     "runtime": [],
-    "last_runtime": 54,
+    "last_runtime": 24,
     "status": "Returning Series",
-    "year": "2023"
+    "year": ""
    }
   }
  },
@@ -4632,15 +4617,6 @@
   },
   "flags": [],
   "src": {
-   "anilist": {
-    "id": 170,
-    "title": "SLAM DUNK",
-    "eps": 101,
-    "duration": 23,
-    "year": 1993,
-    "format": "TV",
-    "status": "FINISHED"
-   },
    "tmdb": {
     "id": 42573,
     "name": "Slam Dunk",
@@ -4691,21 +4667,11 @@
   },
   "flags": [
    [
-    "EPISODI?",
-    "Nostro 38; TMDB (tutte le stagioni) None, AniList (singola voce) 28"
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde (AniList/TMDB)"
    ]
   ],
-  "src": {
-   "anilist": {
-    "id": 154587,
-    "title": "Sousou no Frieren",
-    "eps": 28,
-    "duration": 24,
-    "year": 2023,
-    "format": "TV",
-    "status": "FINISHED"
-   }
-  }
+  "src": {}
  },
  {
   "id": "a153",
@@ -4716,18 +4682,13 @@
    "duration": 124,
    "status": "to_watch"
   },
-  "flags": [],
-  "src": {
-   "anilist": {
-    "id": 513,
-    "title": "Tenkuu no Shiro Laputa",
-    "eps": 1,
-    "duration": 125,
-    "year": 1986,
-    "format": "MOVIE",
-    "status": "FINISHED"
-   }
-  }
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Nessuna fonte corrisponde (AniList/TMDB)"
+   ]
+  ],
+  "src": {}
  },
  {
   "id": "a154",
