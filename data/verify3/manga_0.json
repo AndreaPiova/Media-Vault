@@ -1,0 +1,2175 @@
+[
+ {
+  "id": "m1",
+  "title": "Slam Dunk",
+  "ours": {
+   "totalVols": 20,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 188; AniList 276"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "SLAM DUNK",
+    "volumes": 31,
+    "chapters": 276,
+    "status": "FINISHED",
+    "year": 1990,
+    "mal": 51
+   }
+  }
+ },
+ {
+  "id": "m2",
+  "title": "Solo Leveling",
+  "ours": {
+   "totalVols": 28,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "28/28 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 28; AniList 201"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Na Honjaman Level Up",
+    "volumes": 15,
+    "chapters": 201,
+    "status": "FINISHED",
+    "year": 2018,
+    "mal": 121496
+   }
+  }
+ },
+ {
+  "id": "m3",
+  "title": "La ragazza in riva al mare",
+  "ours": {
+   "totalVols": 2,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m4",
+  "title": "20th Century Boys",
+  "ours": {
+   "totalVols": 12,
+   "edition": "Deluxe edition"
+  },
+  "flags": [
+   [
+    "CAPITOLI?",
+    "Edizione 'Deluxe edition': somma capitoli 265; originale 249"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "20 Seiki Shounen",
+    "volumes": 22,
+    "chapters": 249,
+    "status": "FINISHED",
+    "year": 1999,
+    "mal": 3
+   }
+  }
+ },
+ {
+  "id": "m5",
+  "title": "Blame",
+  "ours": {
+   "totalVols": 6,
+   "edition": "Master edition"
+  },
+  "flags": [
+   [
+    "CAPITOLI?",
+    "Edizione 'Master edition': somma capitoli 67; originale 1"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "BLAME",
+    "volumes": null,
+    "chapters": 1,
+    "status": "FINISHED",
+    "year": 1995,
+    "mal": null
+   }
+  }
+ },
+ {
+  "id": "m6",
+  "title": "Blue Lock",
+  "ours": {
+   "totalVols": 34,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "VOLUMI_INTERNI",
+    "totalVols 34 ma elenco volumi con capitoli ne ha 42"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Blue Lock",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2018,
+    "mal": 114745
+   }
+  }
+ },
+ {
+  "id": "m7",
+  "title": "The Killer Inside",
+  "ours": {
+   "totalVols": 11,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "11/11 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m8",
+  "title": "La fine del mondo e prima dell'alba",
+  "ours": {
+   "totalVols": 1,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m9",
+  "title": "Il prezzo di una vita",
+  "ours": {
+   "totalVols": 3,
+   "edition": "Box"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m10",
+  "title": "Chainsaw Man",
+  "ours": {
+   "totalVols": 23,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 208; AniList 232"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Chainsaw Man",
+    "volumes": 24,
+    "chapters": 232,
+    "status": "FINISHED",
+    "year": 2018,
+    "mal": 116778
+   }
+  }
+ },
+ {
+  "id": "m11",
+  "title": "Dr. Stone",
+  "ours": {
+   "totalVols": 27,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Dr. STONE",
+    "volumes": 27,
+    "chapters": 236,
+    "status": "FINISHED",
+    "year": 2017,
+    "mal": 103897
+   }
+  }
+ },
+ {
+  "id": "m12",
+  "title": "All You Need Is Kill",
+  "ours": {
+   "totalVols": 1,
+   "edition": "Complete edition"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "All You Need Is Kill",
+    "volumes": 2,
+    "chapters": 17,
+    "status": "FINISHED",
+    "year": 2014,
+    "mal": 62887
+   }
+  }
+ },
+ {
+  "id": "m13",
+  "title": "Made in Abyss",
+  "ours": {
+   "totalVols": 14,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Made in Abyss",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2012,
+    "mal": 91941
+   }
+  }
+ },
+ {
+  "id": "m14",
+  "title": "Monster",
+  "ours": {
+   "totalVols": 9,
+   "edition": "Deluxe edition"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "MONSTER",
+    "volumes": 18,
+    "chapters": 162,
+    "status": "FINISHED",
+    "year": 1994,
+    "mal": 1
+   }
+  }
+ },
+ {
+  "id": "m15",
+  "title": "One Piece",
+  "ours": {
+   "totalVols": 111,
+   "edition": "New edition"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "ONE PIECE",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 1997,
+    "mal": 13
+   }
+  }
+ },
+ {
+  "id": "m16",
+  "title": "One Punch Man",
+  "ours": {
+   "totalVols": 35,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "One Punch-Man",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2012,
+    "mal": 44347
+   }
+  }
+ },
+ {
+  "id": "m17",
+  "title": "Planetes",
+  "ours": {
+   "totalVols": 1,
+   "edition": "Complete edition"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Planetes",
+    "volumes": 4,
+    "chapters": 28,
+    "status": "FINISHED",
+    "year": 1999,
+    "mal": 481
+   }
+  }
+ },
+ {
+  "id": "m18",
+  "title": "Shaman King",
+  "ours": {
+   "totalVols": 35,
+   "edition": "Final edition"
+  },
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "35/35 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI?",
+    "Edizione 'Final edition': somma capitoli 35; originale 288"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Shaman King",
+    "volumes": 32,
+    "chapters": 288,
+    "status": "FINISHED",
+    "year": 1998,
+    "mal": 50
+   }
+  }
+ },
+ {
+  "id": "m19",
+  "title": "Attack on Titan",
+  "ours": {
+   "totalVols": 34,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Shingeki no Kyojin",
+    "volumes": 34,
+    "chapters": 141,
+    "status": "FINISHED",
+    "year": 2009,
+    "mal": 23390
+   }
+  }
+ },
+ {
+  "id": "m20",
+  "title": "Fire Punch",
+  "ours": {
+   "totalVols": 8,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Fire Punch",
+    "volumes": 8,
+    "chapters": 83,
+    "status": "FINISHED",
+    "year": 2016,
+    "mal": 98270
+   }
+  }
+ },
+ {
+  "id": "m21",
+  "title": "Tokyo Revengers",
+  "ours": {
+   "totalVols": 31,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "VOLUMI_INTERNI",
+    "totalVols 31 ma elenco volumi con capitoli ne ha 37"
+   ],
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 319; AniList 279"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Tokyo卍Revengers",
+    "volumes": 31,
+    "chapters": 279,
+    "status": "FINISHED",
+    "year": 2017,
+    "mal": 104565
+   }
+  }
+ },
+ {
+  "id": "m22",
+  "title": "Vinland Saga",
+  "ours": {
+   "totalVols": 29,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Vinland Saga",
+    "volumes": 29,
+    "chapters": 224,
+    "status": "FINISHED",
+    "year": 2005,
+    "mal": 642
+   }
+  }
+ },
+ {
+  "id": "m23",
+  "title": "Alita",
+  "ours": {
+   "totalVols": 3,
+   "edition": "Panzer edition"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m24",
+  "title": "Akira",
+  "ours": {
+   "totalVols": 6,
+   "edition": "New edition"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "AKIRA",
+    "volumes": 6,
+    "chapters": 120,
+    "status": "FINISHED",
+    "year": 1982,
+    "mal": 664
+   }
+  }
+ },
+ {
+  "id": "m25",
+  "title": "Alice in Borderland",
+  "ours": {
+   "totalVols": 10,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Imawa no Kuni no Alice",
+    "volumes": 18,
+    "chapters": 87,
+    "status": "FINISHED",
+    "year": 2010,
+    "mal": 33031
+   }
+  }
+ },
+ {
+  "id": "m26",
+  "title": "Berserk",
+  "ours": {
+   "totalVols": 14,
+   "edition": "Deluxe edition"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Berserk",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 1989,
+    "mal": 2
+   }
+  }
+ },
+ {
+  "id": "m27",
+  "title": "Kaijuu no. 8",
+  "ours": {
+   "totalVols": 16,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Kaijuu 8-gou",
+    "volumes": 16,
+    "chapters": 129,
+    "status": "FINISHED",
+    "year": 2020,
+    "mal": 127907
+   }
+  }
+ },
+ {
+  "id": "m28",
+  "title": "Dandadan",
+  "ours": {
+   "totalVols": 22,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Dandadan",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2021,
+    "mal": 135496
+   }
+  }
+ },
+ {
+  "id": "m29",
+  "title": "Tower of God",
+  "ours": {
+   "totalVols": 500,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "VOLUMI_INTERNI",
+    "totalVols 500 ma elenco volumi con capitoli ne ha 17"
+   ],
+   [
+    "CAPITOLI_SOSPETTI",
+    "16/17 volumi con 1 solo capitolo (probabile segnaposto): [11, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Sinui Tap",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2010,
+    "mal": 122663
+   }
+  }
+ },
+ {
+  "id": "m30",
+  "title": "Ashita no Joe",
+  "ours": {
+   "totalVols": 13,
+   "edition": "Perfect edition"
+  },
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "13/13 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI?",
+    "Edizione 'Perfect edition': somma capitoli 13; originale 171"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Ashita no Joe",
+    "volumes": 20,
+    "chapters": 171,
+    "status": "FINISHED",
+    "year": 1968,
+    "mal": 1303
+   }
+  }
+ },
+ {
+  "id": "m31",
+  "title": "Blue Period",
+  "ours": {
+   "totalVols": 18,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "11/18 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 4, 4, 1, 1, 1, 5, 5]"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Blue Period",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2017,
+    "mal": 107931
+   }
+  }
+ },
+ {
+  "id": "m32",
+  "title": "Bleach",
+  "ours": {
+   "totalVols": 74,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "BLEACH",
+    "volumes": 74,
+    "chapters": 706,
+    "status": "FINISHED",
+    "year": 2001,
+    "mal": 12
+   }
+  }
+ },
+ {
+  "id": "m33",
+  "title": "Dorohedoro",
+  "ours": {
+   "totalVols": 23,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Dorohedoro",
+    "volumes": 23,
+    "chapters": 191,
+    "status": "FINISHED",
+    "year": 2000,
+    "mal": 1133
+   }
+  }
+ },
+ {
+  "id": "m34",
+  "title": "Deadman Wonderland",
+  "ours": {
+   "totalVols": 13,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Deadman Wonderland",
+    "volumes": 13,
+    "chapters": 58,
+    "status": "FINISHED",
+    "year": 2007,
+    "mal": 3986
+   }
+  }
+ },
+ {
+  "id": "m35",
+  "title": "Death Note",
+  "ours": {
+   "totalVols": 6,
+   "edition": "Black edition"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "DEATH NOTE",
+    "volumes": 12,
+    "chapters": 108,
+    "status": "FINISHED",
+    "year": 2003,
+    "mal": 21
+   }
+  }
+ },
+ {
+  "id": "m36",
+  "title": "Fullmetal Alchemist",
+  "ours": {
+   "totalVols": 18,
+   "edition": "Ultimate deluxe"
+  },
+  "flags": [
+   [
+    "CAPITOLI?",
+    "Edizione 'Ultimate deluxe': somma capitoli 108; originale 116"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Hagane no Renkinjutsushi",
+    "volumes": 27,
+    "chapters": 116,
+    "status": "FINISHED",
+    "year": 2001,
+    "mal": 25
+   }
+  }
+ },
+ {
+  "id": "m37",
+  "title": "GTO",
+  "ours": {
+   "totalVols": 13,
+   "edition": "Deluxe black edition"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "GTO",
+    "volumes": 25,
+    "chapters": 208,
+    "status": "FINISHED",
+    "year": 1997,
+    "mal": 336
+   }
+  }
+ },
+ {
+  "id": "m38",
+  "title": "Homunculus",
+  "ours": {
+   "totalVols": 15,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "15/15 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 15; AniList 166"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Homunculus",
+    "volumes": 15,
+    "chapters": 166,
+    "status": "FINISHED",
+    "year": 2003,
+    "mal": 936
+   }
+  }
+ },
+ {
+  "id": "m39",
+  "title": "Oyasumi Punpun",
+  "ours": {
+   "totalVols": 7,
+   "edition": "New edition"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Oyasumi Punpun",
+    "volumes": 13,
+    "chapters": 147,
+    "status": "FINISHED",
+    "year": 2007,
+    "mal": 4632
+   }
+  }
+ },
+ {
+  "id": "m40",
+  "title": "Houseki no Kuni",
+  "ours": {
+   "totalVols": 13,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 108; AniList 120"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Houseki no Kuni",
+    "volumes": 13,
+    "chapters": 120,
+    "status": "FINISHED",
+    "year": 2012,
+    "mal": 44489
+   }
+  }
+ },
+ {
+  "id": "m41",
+  "title": "I Am Hero",
+  "ours": {
+   "totalVols": 22,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "22/22 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 22; AniList 265"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "I Am a Hero",
+    "volumes": 22,
+    "chapters": 265,
+    "status": "FINISHED",
+    "year": 2009,
+    "mal": 14440
+   }
+  }
+ },
+ {
+  "id": "m43",
+  "title": "Jagaaaaaan",
+  "ours": {
+   "totalVols": 14,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "13/14 volumi con 1 solo capitolo (probabile segnaposto): [7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 20; AniList 163"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Jagaaaaaan",
+    "volumes": 14,
+    "chapters": 163,
+    "status": "FINISHED",
+    "year": 2017,
+    "mal": 104314
+   }
+  }
+ },
+ {
+  "id": "m44",
+  "title": "Solanin",
+  "ours": {
+   "totalVols": 1,
+   "edition": "Complete edition"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Solanin",
+    "volumes": 2,
+    "chapters": 30,
+    "status": "FINISHED",
+    "year": 2005,
+    "mal": 3731
+   }
+  }
+ },
+ {
+  "id": "m45",
+  "title": "Jujutsu Kaisen",
+  "ours": {
+   "totalVols": 30,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "VOLUMI_INTERNI",
+    "totalVols 30 ma elenco volumi con capitoli ne ha 33"
+   ],
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 297; AniList 272"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Jujutsu Kaisen",
+    "volumes": 30,
+    "chapters": 272,
+    "status": "FINISHED",
+    "year": 2018,
+    "mal": 113138
+   }
+  }
+ },
+ {
+  "id": "m46",
+  "title": "Juujika no Rokunin",
+  "ours": {
+   "totalVols": 14,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "14/14 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 14; AniList 234"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Shiryuu  Nakatake', 'Frederic Malet']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Juujika no Rokunin",
+    "volumes": 24,
+    "chapters": 234,
+    "status": "FINISHED",
+    "year": 2020,
+    "mal": 125076
+   }
+  }
+ },
+ {
+  "id": "m47",
+  "title": "Kingdom",
+  "ours": {
+   "totalVols": 76,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Kingdom",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2006,
+    "mal": 16765
+   }
+  }
+ },
+ {
+  "id": "m48",
+  "title": "Mushishi",
+  "ours": {
+   "totalVols": 10,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 50; AniList 1"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Fantasy', 'Mistero', 'Slice of Life']; AniList ['Horror']"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Yuki Urushibara']; AniList ['Kurage Asazuke']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Mushishi",
+    "volumes": null,
+    "chapters": 1,
+    "status": "FINISHED",
+    "year": 2026,
+    "mal": null
+   }
+  }
+ },
+ {
+  "id": "m49",
+  "title": "Real",
+  "ours": {
+   "totalVols": 16,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "16/16 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Real",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 1999,
+    "mal": 657
+   }
+  }
+ },
+ {
+  "id": "m50",
+  "title": "Sekai no Owari no Hajimari ni",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Kei Tanaka']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Sekai no Owari no Hajimari ni",
+    "volumes": 1,
+    "chapters": 4,
+    "status": "FINISHED",
+    "year": 2014,
+    "mal": 93748
+   }
+  }
+ },
+ {
+  "id": "m51",
+  "title": "Record of Ragnarok",
+  "ours": {
+   "totalVols": 26,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "26/26 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Shuumatsu no Valkyrie",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2017,
+    "mal": 110485
+   }
+  }
+ },
+ {
+  "id": "m52",
+  "title": "Spy x Family",
+  "ours": {
+   "totalVols": 16,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "SPY×FAMILY",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2019,
+    "mal": 119161
+   }
+  }
+ },
+ {
+  "id": "m53",
+  "title": "Sun-Ken Rock",
+  "ours": {
+   "totalVols": 25,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "25/25 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 25; AniList 181"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Sun-Ken Rock",
+    "volumes": 25,
+    "chapters": 181,
+    "status": "FINISHED",
+    "year": 2006,
+    "mal": 8848
+   }
+  }
+ },
+ {
+  "id": "m54",
+  "title": "Tegamibachi",
+  "ours": {
+   "totalVols": 20,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Tegami Bachi",
+    "volumes": 20,
+    "chapters": 100,
+    "status": "FINISHED",
+    "year": 2006,
+    "mal": 1709
+   }
+  }
+ },
+ {
+  "id": "m55",
+  "title": "The Horizon",
+  "ours": {
+   "totalVols": 3,
+   "edition": "Box"
+  },
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "3/3 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1]"
+   ],
+   [
+    "CAPITOLI?",
+    "Edizione 'Box': somma capitoli 3; originale 21"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Ji-Hun Jeong', 'Abigail Blackman']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Supyeongseon",
+    "volumes": 3,
+    "chapters": 21,
+    "status": "FINISHED",
+    "year": 2016,
+    "mal": 125036
+   }
+  }
+ },
+ {
+  "id": "m56",
+  "title": "The Promised Neverland",
+  "ours": {
+   "totalVols": 20,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Yakusoku no Neverland",
+    "volumes": 20,
+    "chapters": 181,
+    "status": "FINISHED",
+    "year": 2016,
+    "mal": 100128
+   }
+  }
+ },
+ {
+  "id": "m57",
+  "title": "Dededemon Dededestruction",
+  "ours": {
+   "totalVols": 12,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "12/12 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m58",
+  "title": "Beastars",
+  "ours": {
+   "totalVols": 22,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "BEASTARS",
+    "volumes": 22,
+    "chapters": 196,
+    "status": "FINISHED",
+    "year": 2016,
+    "mal": 103701
+   }
+  }
+ },
+ {
+  "id": "m59",
+  "title": "Gantz",
+  "ours": {
+   "totalVols": 37,
+   "edition": "New edition"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "GANTZ",
+    "volumes": 37,
+    "chapters": 383,
+    "status": "FINISHED",
+    "year": 2000,
+    "mal": 564
+   }
+  }
+ },
+ {
+  "id": "m60",
+  "title": "Claymore",
+  "ours": {
+   "totalVols": 27,
+   "edition": "New edition"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "CLAYMORE",
+    "volumes": 27,
+    "chapters": 159,
+    "status": "FINISHED",
+    "year": 2001,
+    "mal": 583
+   }
+  }
+ },
+ {
+  "id": "m61",
+  "title": "To Your Eternity",
+  "ours": {
+   "totalVols": 25,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Fumetsu no Anata e",
+    "volumes": 25,
+    "chapters": 202,
+    "status": "FINISHED",
+    "year": 2016,
+    "mal": 102343
+   }
+  }
+ },
+ {
+  "id": "m62",
+  "title": "Hanako-kun",
+  "ours": {
+   "totalVols": 25,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m63",
+  "title": "Hell's Paradise",
+  "ours": {
+   "totalVols": 13,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Jigokuraku",
+    "volumes": 13,
+    "chapters": 127,
+    "status": "FINISHED",
+    "year": 2018,
+    "mal": 112318
+   }
+  }
+ },
+ {
+  "id": "m64",
+  "title": "Spice & Wolf",
+  "ours": {
+   "totalVols": 8,
+   "edition": "Double edition"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Ookami to Koushinryou",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2006,
+    "mal": 9115
+   }
+  }
+ },
+ {
+  "id": "m65",
+  "title": "Komi-san",
+  "ours": {
+   "totalVols": 37,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m66",
+  "title": "No Longer Human",
+  "ours": {
+   "totalVols": 1,
+   "edition": "Complete edition"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Ningen Shikkaku",
+    "volumes": 3,
+    "chapters": 12,
+    "status": "FINISHED",
+    "year": 2009,
+    "mal": 13290
+   }
+  }
+ },
+ {
+  "id": "m67",
+  "title": "Pandora Hearts",
+  "ours": {
+   "totalVols": 13,
+   "edition": "New edition"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Pandora Hearts",
+    "volumes": 24,
+    "chapters": 107,
+    "status": "FINISHED",
+    "year": 2006,
+    "mal": 3031
+   }
+  }
+ },
+ {
+  "id": "m68",
+  "title": "Rurouni Kenshin",
+  "ours": {
+   "totalVols": 22,
+   "edition": "Perfect edition"
+  },
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "22/22 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI?",
+    "Edizione 'Perfect edition': somma capitoli 22; originale 259"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "volumes": 28,
+    "chapters": 259,
+    "status": "FINISHED",
+    "year": 1994,
+    "mal": 22
+   }
+  }
+ },
+ {
+  "id": "m69",
+  "title": "Frieren",
+  "ours": {
+   "totalVols": 15,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m70",
+  "title": "MPD Psycho",
+  "ours": {
+   "totalVols": 24,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "24/24 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 24; AniList 147"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Tajuu Jinkaku Tantei Psycho",
+    "volumes": 24,
+    "chapters": 147,
+    "status": "FINISHED",
+    "year": 1996,
+    "mal": 740
+   }
+  }
+ },
+ {
+  "id": "m71",
+  "title": "Grand Blue",
+  "ours": {
+   "totalVols": 3,
+   "edition": ""
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "title": "Grand Blue",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2014,
+    "mal": 70345
+   }
+  }
+ },
+ {
+  "id": "m72",
+  "title": "Utsuro no Hako to Zero no Maria",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Eiji Mikage', 'Tetsuo', 'Luke Baker', 'Thien Thanh', 'Thuy Tram', 'Maarubi']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Utsuro no Hako to Zero no Maria",
+    "volumes": 7,
+    "chapters": 254,
+    "status": "FINISHED",
+    "year": 2009,
+    "mal": 55215
+   }
+  }
+ },
+ {
+  "id": "m73",
+  "title": "Classroom of the Elite",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+    "volumes": 14,
+    "chapters": 110,
+    "status": "FINISHED",
+    "year": 2015,
+    "mal": 89357
+   }
+  }
+ },
+ {
+  "id": "m74",
+  "title": "Your Talent Is Mine",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Hao Fan', 'Wei CC', 'Jian Shen Wu Di']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Wo Neng Fu Zhi Tian Fu",
+    "volumes": null,
+    "chapters": 106,
+    "status": "FINISHED",
+    "year": 2021,
+    "mal": null
+   }
+  }
+ },
+ {
+  "id": "m75",
+  "title": "The Beginning After the End",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "6/6 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m76",
+  "title": "Leveling Up with the Gods",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m77",
+  "title": "Poison Dragon",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m78",
+  "title": "Return of the Crazy Demon",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['JP', 'Hi Lee', 'Jin-Seong Yu', 'Ra-Gi Yun', 'Ra-Gi Yun']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Gwangmahoegwi",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2021,
+    "mal": 147577
+   }
+  }
+ },
+ {
+  "id": "m79",
+  "title": "Return of the Unrivaled Spear Knight",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m80",
+  "title": "Solo Max-Level Newbie",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "AUTORI",
+    "Nostri ['Sadoyeon']; AniList ['WAN.Z', 'Swing Bat', 'Maslow']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Na Honja Mallep Newbie",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2021,
+    "mal": 147392
+   }
+  }
+ },
+ {
+  "id": "m81",
+  "title": "A Returner's Magic Should Be Special",
+  "ours": {
+   "totalVols": 228,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Gwihwanjaui Mabeobeun Teukbyeolhaeya Hamnida",
+    "volumes": null,
+    "chapters": 268,
+    "status": "FINISHED",
+    "year": 2018,
+    "mal": 132247
+   }
+  }
+ },
+ {
+  "id": "m82",
+  "title": "Great Mage Returns After 4000 Years",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Barnicle', 'Deok-Yong Kim', 'Nakhasan']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "4000 Nyeon Mane Gwihwanhan Daemadosa",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2020,
+    "mal": 147693
+   }
+  }
+ },
+ {
+  "id": "m83",
+  "title": "Nano Machine",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Han Jung Hoon', 'Bak Jong Hee']; AniList ['Geobalhan', 'Geumgangbulgoe', 'Hanjung Worya', 'Alexandra Dickmann']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Nano Machine",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2020,
+    "mal": 147863
+   }
+  }
+ },
+ {
+  "id": "m84",
+  "title": "Legend of the Northern Blade",
+  "ours": {
+   "totalVols": 202,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Hae-Min', 'U-Gak', 'Son']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Bukgeom Jeongi",
+    "volumes": null,
+    "chapters": 202,
+    "status": "FINISHED",
+    "year": 2019,
+    "mal": 134744
+   }
+  }
+ },
+ {
+  "id": "m85",
+  "title": "Omniscient Reader's Viewpoint",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "4/4 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1]"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Jeonjijeok Dokja Sijeom",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2020,
+    "mal": 132214
+   }
+  }
+ },
+ {
+  "id": "m86",
+  "title": "Mercenary Enrollment",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m87",
+  "title": "God Game",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Shuu Miyazaki', 'Nanakusa']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Kamisama Game",
+    "volumes": 8,
+    "chapters": 76,
+    "status": "FINISHED",
+    "year": 2005,
+    "mal": 88897
+   }
+  }
+ },
+ {
+  "id": "m88",
+  "title": "Her Summon",
+  "ours": {
+   "totalVols": 117,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "VOLUMI_INTERNI",
+    "totalVols 117 ma elenco volumi con capitoli ne ha 1"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Jin-Jun Park']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Geunyeoui Sohwansu",
+    "volumes": null,
+    "chapters": 62,
+    "status": "FINISHED",
+    "year": 2018,
+    "mal": null
+   }
+  }
+ },
+ {
+  "id": "m89",
+  "title": "Reverend Insanity",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 22; AniList 96 (serie in corso)"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Gu Zhenren",
+    "volumes": null,
+    "chapters": 96,
+    "status": "CANCELLED",
+    "year": 2018,
+    "mal": null
+   }
+  }
+ },
+ {
+  "id": "m90",
+  "title": "Lord of Mysteries",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Cuttlefish That Loves Diving']; AniList ['Chun Ba', 'Yuanyan de Qiqiu', 'Ai Qianshui de Wuzei']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Guimi Zhi Zhu",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2025,
+    "mal": null
+   }
+  }
+ },
+ {
+  "id": "m91",
+  "title": "Age of Adepts",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m92",
+  "title": "House of Horrors",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Miyako Cojima']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Kaiki no Yakata",
+    "volumes": 1,
+    "chapters": 10,
+    "status": "FINISHED",
+    "year": 1997,
+    "mal": 175942
+   }
+  }
+ },
+ {
+  "id": "m93",
+  "title": "Warlock of the Magus World",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m94",
+  "title": "Radiant",
+  "ours": {
+   "totalVols": 19,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 148; AniList 1"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Fantasy', 'Azione', 'Avventura']; AniList ['Hentai', 'Romance']"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Tony Valente']; AniList ['Niiro Ikuhana']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "Sanran",
+    "volumes": null,
+    "chapters": 1,
+    "status": "FINISHED",
+    "year": 2017,
+    "mal": null
+   }
+  }
+ },
+ {
+  "id": "m98",
+  "title": "Birth of the Demonic Sword",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m99",
+  "title": "Galaxias",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Sci-Fi']; AniList ['Action', 'Adventure', 'Fantasy']"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Ao Hatezaka', 'Nate Derr', 'Jan Ivan Concepcion', 'Katherine Tran']"
+   ]
+  ],
+  "src": {
+   "anilist": {
+    "title": "GALAXIAS",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2024,
+    "mal": 172191
+   }
+  }
+ },
+ {
+  "id": "m95",
+  "title": "Aqualung",
+  "ours": {
+   "totalVols": 5,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m96",
+  "title": "Orfani",
+  "ours": {
+   "totalVols": 16,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "16/16 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "m97",
+  "title": "Qwest",
+  "ours": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "src": {}
+ }
+]

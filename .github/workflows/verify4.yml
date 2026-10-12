@@ -1,0 +1,25 @@
+name: Verify data v4
+on:
+  push:
+    paths: ['scripts/verify4.trigger']
+permissions:
+  contents: write
+jobs:
+  v:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    strategy:
+      fail-fast: false
+      matrix:
+        job: [films, series, anime, manga]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests
+      - run: python scripts/verify4.py ${{ matrix.job }}
+      - if: always()
+        run: |
+          git config user.name "mediavault-bot"; git config user.email "bot@users.noreply.github.com"
+          git add data/verify4; git commit -m "verify4 ${{ matrix.job }}" || true
+          for i in $(seq 1 12); do git fetch origin manga-publisher && git rebase -X theirs origin/manga-publisher && git push origin HEAD:manga-publisher && break; git rebase --abort 2>/dev/null; sleep $((RANDOM%15+3)); done

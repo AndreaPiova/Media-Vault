@@ -1,0 +1,1829 @@
+[
+ {
+  "id": "m1",
+  "title": "Slam Dunk",
+  "flags": [
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 188; AniList 276"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 20,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 276,
+   "volumi": 31,
+   "autori": [
+    "Takehiko Inoue (Story & Art)",
+    "Katsumi Tatsuzawa (Assistant)",
+    "Drik Sada (Translator (Portuguese))",
+    "Beth Kodama (Editing (Portuguese))",
+    "Agustín Gomez Sanz (Translator (Spanish))",
+    "Gustavo Figueiredo (Lettering (Portuguese: vols 1,2,4,5,8))",
+    "Joel Dias (Lettering (Portuguese))",
+    "Phueak (Translator (Thai))",
+    "Diógenes Dih (Editing (Portuguese: vol 13-20))",
+    "Tomoyuki Shima (Editor)",
+    "Martin Gericke (Translator (German))",
+    "Danilo de Assis (Lettering (Portuguese:vol 3))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 9,
+   "2": 10,
+   "3": 8,
+   "4": 9,
+   "5": 9,
+   "6": 9,
+   "7": 9,
+   "8": 9,
+   "9": 9,
+   "10": 9,
+   "11": 9,
+   "12": 9,
+   "13": 9,
+   "14": 9,
+   "15": 9,
+   "16": 9,
+   "17": 9,
+   "18": 9,
+   "19": 9,
+   "20": 9,
+   "21": 9,
+   "22": 4,
+   "23": 14,
+   "24": 9,
+   "25": 9,
+   "26": 9,
+   "27": 9,
+   "28": 9,
+   "29": 9,
+   "30": 9,
+   "31": 7,
+   "none": 7
+  }
+ },
+ {
+  "id": "m2",
+  "title": "Solo Leveling",
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "28/28 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 28; AniList 201"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 28,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 201,
+   "volumi": 15,
+   "autori": [
+    "Seong-Rak Jang (Art (chs 1-179))",
+    "So-Ryeong Gi (Story (chs 1-92))",
+    "Chu-Gong (Original Story)",
+    "Hyeon-Gun (Story (chs 93-201))",
+    "Abigail Blackman (Lettering (English))",
+    "Adrianna Jarzębowska (Translator (Polish))",
+    "DISCIPLES (Art (chs 180-200))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 18,
+   "none": 22
+  }
+ },
+ {
+  "id": "m4",
+  "title": "20th Century Boys",
+  "flags": [
+   [
+    "CAPITOLI?",
+    "Edizione 'Deluxe edition': somma capitoli 265; originale 249"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 12,
+   "edition": "Deluxe edition"
+  },
+  "anilist": {
+   "capitoli": 249,
+   "volumi": 22,
+   "autori": [
+    "Naoki Urasawa (Story & Art)",
+    "Marc Bernabé (Translator (Spanish))",
+    "Akemi Wegmüller (Translator (English))",
+    "Josef Shanel (Translator (German))",
+    "Matthias Wissnet (Translator (German))",
+    "Freeman Wong (Lettering and Touch-up Art (English))",
+    "Elza Keiko (Lettering (Portuguese))",
+    "Dirce Miyamura (Translator (Portuguese))",
+    "Roberto Pesci (Translator (Italian))",
+    "Vincent Zouzoulkovsky (Translator (French))",
+    "Nicola Spano (Lettering (German))",
+    "Ram One (Lettering (Italian))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 1
+  }
+ },
+ {
+  "id": "m5",
+  "title": "Blame",
+  "flags": [
+   [
+    "CAPITOLI?",
+    "Edizione 'Master edition': somma capitoli 67; originale 1"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 6,
+   "edition": "Master edition"
+  },
+  "anilist": {
+   "capitoli": 1,
+   "volumi": null,
+   "autori": [
+    "Tsutomu Nihei (Story & Art)",
+    "Stephen Paul (Translator (English))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 7
+  }
+ },
+ {
+  "id": "m6",
+  "title": "Blue Lock",
+  "flags": [
+   [
+    "VOLUMI_INTERNI",
+    "totalVols 34 ma elenco volumi con capitoli ne ha 42"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 34,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": null,
+   "volumi": null,
+   "autori": [
+    "Tatsuya Endou (Assistant)",
+    "Muneyuki Kaneshiro (Story)",
+    "Yuusuke Nomura (Art)",
+    "Chris Burgener (Lettering (English))",
+    "Lilian Lebrun (Translator (French))",
+    "Nate Derr (Translator (English))",
+    "Agnieszka Zychma (Translator (Polish))",
+    "Yoda (Translator (Vietnamese))",
+    "Markus Lange (Translator (German))",
+    "Soutarou Nishii (Assistant)"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 2,
+   "18": 1,
+   "30": 7,
+   "31": 10,
+   "32": 9,
+   "33": 11,
+   "34": 9,
+   "35": 2,
+   "none": 100
+  }
+ },
+ {
+  "id": "m7",
+  "title": "The Killer Inside",
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "11/11 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 11,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 98,
+   "volumi": 11,
+   "autori": [
+    "Hajime Inoryu (Story)",
+    "Shouta Itou (Art)",
+    "Jacqueline Fung (Translator (English))",
+    "Claudia Peter (Translator (German))",
+    "Anna Koike (Translator (Polish))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 3
+  }
+ },
+ {
+  "id": "m10",
+  "title": "Chainsaw Man",
+  "flags": [
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 208; AniList 232"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 23,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 232,
+   "volumi": 24,
+   "autori": [
+    "Tatsuki Fujimoto (Story & Art)",
+    "Hanachika Toyama (Assistant)",
+    "Norihito Sasaki (Assistant)",
+    "Sabrina Heep (Lettering (English))",
+    "Yukinobu Tatsu (Assistant)",
+    "Sébastien Ludmann (Translator (French))",
+    "Amanda Haley (Translator (English))",
+    "Felipe Monte (Translator (Portuguese))",
+    "Judit Moreno (Translator (Spanish))",
+    "Emilio Ros Casas (Translator (Spanish))",
+    "Erwan Lossois (Lettering (French))",
+    "Sou Nishida (Assistant)"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 9,
+   "2": 10,
+   "3": 10,
+   "4": 12,
+   "5": 10,
+   "6": 11,
+   "7": 10,
+   "8": 11,
+   "9": 9,
+   "10": 9,
+   "11": 9,
+   "12": 6,
+   "13": 9,
+   "14": 10,
+   "15": 11,
+   "16": 10,
+   "17": 10,
+   "18": 11,
+   "19": 12,
+   "20": 12,
+   "24": 1,
+   "none": 70
+  }
+ },
+ {
+  "id": "m18",
+  "title": "Shaman King",
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "35/35 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI?",
+    "Edizione 'Final edition': somma capitoli 35; originale 288"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 35,
+   "edition": "Final edition"
+  },
+  "anilist": {
+   "capitoli": 288,
+   "volumi": 32,
+   "autori": [
+    "Hiroyuki Takei (Story & Art)",
+    "Kei Kawano (Assistant)",
+    "Katsunori Matsui (Assistant)",
+    "Yuusuke Takeyama (Assistant)",
+    "DAIGO (Assistant)",
+    "Youichirou Tanabe (Assistant)",
+    "José Carlos Assumpção (Lettering (Portuguese))",
+    "Arnaldo Oka (Translator (Portuguese))",
+    "Tor Lier (Translator (Norwegian: vol 1-8))",
+    "Ayako Koike (Translator (Spanish))",
+    "Torarika (Translator (Vietnamese))",
+    "Justyna Harasimiuk-Latoś (Translator (Polish))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "none": 8
+  }
+ },
+ {
+  "id": "m21",
+  "title": "Tokyo Revengers",
+  "flags": [
+   [
+    "VOLUMI_INTERNI",
+    "totalVols 31 ma elenco volumi con capitoli ne ha 37"
+   ],
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 319; AniList 279"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 31,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 279,
+   "volumi": 31,
+   "autori": [
+    "Ken Wakui (Story & Art)",
+    "Aurélien Estager (Translator (French))",
+    "Gemma Tarrés (Translator (Spanish))",
+    "Robert Harkins (Lettering (English))",
+    "Loris Usai (Translator (Italian))",
+    "So-Hyeon Park (Translator (Korean))",
+    "Renata Leitão (Translator (Portuguese))",
+    "Miro (Translator (Vietnamese))",
+    "Wojciech Gęszczak (Translator (Polish))",
+    "Yên Sương (Translator (Vietnamese))",
+    "Martin Bachernegg (Translator (German))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "none": 3
+  }
+ },
+ {
+  "id": "m29",
+  "title": "Tower of God",
+  "flags": [
+   [
+    "VOLUMI_INTERNI",
+    "totalVols 500 ma elenco volumi con capitoli ne ha 17"
+   ],
+   [
+    "CAPITOLI_SOSPETTI",
+    "16/17 volumi con 1 solo capitolo (probabile segnaposto): [11, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 500,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": null,
+   "volumi": null,
+   "autori": [
+    "SIU (Story & Art)"
+   ]
+  },
+  "mangadex_err": "'list' object has no attribute 'items'"
+ },
+ {
+  "id": "m30",
+  "title": "Ashita no Joe",
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "13/13 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI?",
+    "Edizione 'Perfect edition': somma capitoli 13; originale 171"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 13,
+   "edition": "Perfect edition"
+  },
+  "anilist": {
+   "capitoli": 171,
+   "volumi": 20,
+   "autori": [
+    "Ikki Kajiwara (Story)",
+    "Sanbanchi Kawa (Assistant)",
+    "Tetsuya Chiba (Story & Art)",
+    "Akio Chiba (Assistant)",
+    "Teruo Miyahara (Editor)",
+    "Marc Bernabé (Translator (Spanish))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 10,
+   "2": 13,
+   "3": 15,
+   "4": 17,
+   "5": 17,
+   "6": 16,
+   "7": 15,
+   "8": 18,
+   "9": 19,
+   "10": 19,
+   "11": 16,
+   "12": 17,
+   "13": 14,
+   "14": 11,
+   "15": 14,
+   "16": 16,
+   "17": 19,
+   "18": 21,
+   "19": 24,
+   "20": 25,
+   "none": 1
+  }
+ },
+ {
+  "id": "m31",
+  "title": "Blue Period",
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "11/18 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 4, 4, 1, 1, 1, 5, 5]"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 18,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 4,
+   "volumi": 1,
+   "autori": [
+    "Shiuko Kano (Story & Art)"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 2,
+   "none": 7
+  }
+ },
+ {
+  "id": "m36",
+  "title": "Fullmetal Alchemist",
+  "flags": [
+   [
+    "CAPITOLI?",
+    "Edizione 'Ultimate deluxe': somma capitoli 108; originale 116"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 18,
+   "edition": "Ultimate deluxe"
+  },
+  "anilist": {
+   "capitoli": 35,
+   "volumi": 6,
+   "autori": [
+    "Hiromu Arakawa (Illustration)",
+    "Makoto Inoue (Story)"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 2,
+   "none": 1
+  }
+ },
+ {
+  "id": "m38",
+  "title": "Homunculus",
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "15/15 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 15; AniList 166"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 15,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 166,
+   "volumi": 15,
+   "autori": [
+    "Hideo Yamamoto (Story & Art)",
+    "Rina Mapa (Lettering (English))",
+    "Drik Sada (Translator (Portuguese))",
+    "Cerridwyn Graffham (Translator (English))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 9,
+   "2": 10,
+   "3": 12,
+   "4": 15,
+   "5": 13,
+   "6": 16,
+   "7": 15,
+   "8": 20,
+   "9": 20,
+   "10": 17,
+   "11": 16,
+   "12": 12,
+   "13": 12,
+   "14": 12,
+   "15": 14,
+   "none": 35
+  }
+ },
+ {
+  "id": "m40",
+  "title": "Houseki no Kuni",
+  "flags": [
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 108; AniList 120"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 13,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 120,
+   "volumi": 13,
+   "autori": [
+    "Haruko Ichikawa (Story & Art)",
+    "Alethea Nibley (Translator (English))",
+    "Evan Hayden (Lettering (English))",
+    "Athena Nibley (Translator (English))",
+    "Thiago Nojiri (Translator (Portuguese))",
+    "Anne-Sophie Thevenon (Translator (French))",
+    "Anne Demars (Lettering (French))",
+    "Cát Tường (Translator (Vietnamese))",
+    "Yasuko Tojo (Translator (Spanish))",
+    "Lauren Scanlan (Editing (English))",
+    "Thomas Lameth (Touch-up Art (French))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "none": 2
+  }
+ },
+ {
+  "id": "m41",
+  "title": "I Am Hero",
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "22/22 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 22; AniList 265"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 22,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 265,
+   "volumi": 22,
+   "autori": [
+    "Kengo Hanazawa (Story & Art)",
+    "Marc Bernabé (Translator (Spanish))",
+    "Lídia Ivasa (Translator (Portuguese))",
+    "Ay Özgül (Translator (Turkish))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 1,
+   "9": 9,
+   "10": 12,
+   "11": 13,
+   "12": 13,
+   "13": 12,
+   "14": 12,
+   "15": 12,
+   "16": 12,
+   "17": 13,
+   "18": 12,
+   "19": 12,
+   "20": 5
+  }
+ },
+ {
+  "id": "m43",
+  "title": "Jagaaaaaan",
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "13/14 volumi con 1 solo capitolo (probabile segnaposto): [7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 20; AniList 163"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 14,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 163,
+   "volumi": 14,
+   "autori": [
+    "Muneyuki Kaneshiro (Story)",
+    "Kensuke Nishida (Art)",
+    "Emilio Ros Casas (Translator (Spanish))",
+    "Sascha Mandler (Translator (German))"
+   ]
+  },
+  "mangadex_err": "'list' object has no attribute 'items'"
+ },
+ {
+  "id": "m45",
+  "title": "Jujutsu Kaisen",
+  "flags": [
+   [
+    "VOLUMI_INTERNI",
+    "totalVols 30 ma elenco volumi con capitoli ne ha 33"
+   ],
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 297; AniList 272"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 30,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 272,
+   "volumi": 30,
+   "autori": [
+    "Shiro Usazaki (Assistant)",
+    "Gege Akutami (Story & Art)",
+    "Mizuki Yoda (Assistant)",
+    "Tatsuhiko Katayama (Editor)",
+    "Carlos Mingo (Translator (Spanish))",
+    "John Werry (Translator (English))",
+    "Fédoua Lamodière (Translator (French))",
+    "Lídia Ivasa (Translator (Portuguese))",
+    "Snir Aharon (Lettering (English))",
+    "Irene Telleria (Translator (Spanish))",
+    "Jeong-Un Lee (Translator (Korean))",
+    "Junya Fukuda (Editor)"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 7,
+   "8": 1,
+   "21": 10,
+   "22": 5,
+   "none": 1
+  }
+ },
+ {
+  "id": "m46",
+  "title": "Juujika no Rokunin",
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "14/14 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 14; AniList 234"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Shiryuu  Nakatake', 'Frederic Malet']"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 14,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 234,
+   "volumi": 24,
+   "autori": [
+    "Shiryuu  Nakatake (Story & Art)",
+    "Frederic Malet (Translator (French))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 5,
+   "2": 10,
+   "3": 15,
+   "4": 13,
+   "5": 1,
+   "6": 1,
+   "16": 4,
+   "20": 1,
+   "21": 6,
+   "22": 9,
+   "23": 8,
+   "24": 9
+  }
+ },
+ {
+  "id": "m48",
+  "title": "Mushishi",
+  "flags": [
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 50; AniList 1"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Fantasy', 'Mistero', 'Slice of Life']; AniList ['Horror']"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Yuki Urushibara']; AniList ['Kurage Asazuke']"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 10,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 17,
+   "volumi": 1,
+   "autori": [
+    "Yuki Urushibara (Story & Art)"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 1,
+   "2": 1,
+   "3": 2,
+   "4": 1
+  }
+ },
+ {
+  "id": "m49",
+  "title": "Real",
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "16/16 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 16,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 11,
+   "volumi": 1,
+   "autori": [
+    "Aruta Kusui (Story & Art)"
+   ]
+  }
+ },
+ {
+  "id": "m50",
+  "title": "Sekai no Owari no Hajimari ni",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Kei Tanaka']"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 4,
+   "volumi": 1,
+   "autori": [
+    "Kei Tanaka (Story & Art)"
+   ]
+  }
+ },
+ {
+  "id": "m51",
+  "title": "Record of Ragnarok",
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "26/26 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 26,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": null,
+   "volumi": null,
+   "autori": [
+    "Takumi Fukui (Story)",
+    "Shinya Umemura (Story)",
+    "Azychika (Art)",
+    "Wojciech Gęszczak (Translator (Polish))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 9,
+   "2": 5,
+   "3": 6,
+   "4": 4,
+   "5": 5,
+   "6": 6,
+   "7": 4,
+   "8": 5,
+   "9": 5,
+   "10": 4,
+   "11": 4,
+   "12": 4,
+   "13": 4,
+   "14": 8,
+   "15": 6,
+   "16": 5,
+   "17": 5,
+   "18": 7,
+   "19": 6,
+   "20": 4,
+   "21": 6,
+   "22": 8,
+   "23": 7,
+   "24": 6,
+   "25": 5,
+   "26": 8,
+   "27": 8,
+   "28": 7,
+   "29": 6,
+   "none": 24
+  }
+ },
+ {
+  "id": "m53",
+  "title": "Sun-Ken Rock",
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "25/25 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 25; AniList 181"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 25,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 181,
+   "volumi": 25,
+   "autori": [
+    "Boichi (Story & Art)",
+    "Delage Arnaud (Translator (French))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 7,
+   "2": 7,
+   "3": 7,
+   "4": 5,
+   "5": 8,
+   "6": 8,
+   "7": 5,
+   "8": 8,
+   "9": 6,
+   "10": 8,
+   "11": 10,
+   "12": 8,
+   "13": 9,
+   "14": 7,
+   "15": 4,
+   "16": 6,
+   "17": 7,
+   "18": 7,
+   "19": 8,
+   "20": 8,
+   "21": 8,
+   "22": 9,
+   "23": 8,
+   "24": 7,
+   "25": 8
+  }
+ },
+ {
+  "id": "m55",
+  "title": "The Horizon",
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "3/3 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1]"
+   ],
+   [
+    "CAPITOLI?",
+    "Edizione 'Box': somma capitoli 3; originale 21"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Ji-Hun Jeong', 'Abigail Blackman']"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 3,
+   "edition": "Box"
+  },
+  "anilist": {
+   "capitoli": 21,
+   "volumi": 3,
+   "autori": [
+    "Ji-Hun Jeong (Story & Art)",
+    "Abigail Blackman (Lettering (English))"
+   ]
+  }
+ },
+ {
+  "id": "m57",
+  "title": "Dededemon Dededestruction",
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "12/12 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 12,
+   "edition": ""
+  }
+ },
+ {
+  "id": "m68",
+  "title": "Rurouni Kenshin",
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "22/22 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI?",
+    "Edizione 'Perfect edition': somma capitoli 22; originale 259"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 22,
+   "edition": "Perfect edition"
+  },
+  "anilist": {
+   "capitoli": 259,
+   "volumi": 28,
+   "autori": [
+    "Eiichirou Oda (Assistant)",
+    "Nobuhiro Watsuki (Story & Art)",
+    "Hiroyuki Takei (Assistant)",
+    "Shinya Suzuki (Assistant)",
+    "Mikio Itou (Assistant)",
+    "Gin Shinga (Assistant)",
+    "Marc Bernabé (Translator (Spanish))",
+    "Hisashi Sasaki (Editing)",
+    "Bakayaro! (Touch-up Art & Lettering (French))",
+    "Cassius Medaur (Editing (Portuguese))",
+    "Marcelo Del Greco (Editing (Portuguese))",
+    "Olivier Prézeau (Translator (French))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "2": 3
+  }
+ },
+ {
+  "id": "m70",
+  "title": "MPD Psycho",
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "24/24 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 24; AniList 147"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 24,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 147,
+   "volumi": 24,
+   "autori": [
+    "Shouu Tajima (Art)",
+    "Eiji Ootsuka (Story)",
+    "Marc Bernabé (Translator (Spanish))",
+    "Drik Sada (Translator (Portuguese))",
+    "Beth Kodama (Lettering (Portuguese))",
+    "Martin Gericke (Translator (German))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 6,
+   "2": 12,
+   "3": 14,
+   "4": 12,
+   "5": 12,
+   "6": 12,
+   "7": 14,
+   "8": 12,
+   "9": 18,
+   "10": 18,
+   "11": 16,
+   "12": 16,
+   "13": 18,
+   "14": 12,
+   "15": 16,
+   "16": 12,
+   "17": 10,
+   "18": 12,
+   "19": 14,
+   "20": 5,
+   "21": 5,
+   "22": 5,
+   "23": 5,
+   "24": 4
+  }
+ },
+ {
+  "id": "m72",
+  "title": "Utsuro no Hako to Zero no Maria",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Eiji Mikage', 'Tetsuo', 'Luke Baker', 'Thien Thanh', 'Thuy Tram', 'Maarubi']"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 254,
+   "volumi": 7,
+   "autori": [
+    "Eiji Mikage (Story)",
+    "Tetsuo (Illustration)",
+    "Luke Baker (Translator (English))",
+    "Thien Thanh (Translator (Vietnamese, vol 1))",
+    "Thuy Tram (Translator (Vietnamese, vols 2-3))",
+    "Maarubi (Translator (Vietnamese, vol 4))",
+    "Katarzyna Podlipska (Translator (Polish))"
+   ]
+  }
+ },
+ {
+  "id": "m73",
+  "title": "Classroom of the Elite",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": null,
+   "volumi": null,
+   "autori": [
+    "Shunsaku Tomose (Character Design)",
+    "Shougo Kinugasa (Original Story)",
+    "Yuyu Ichino (Story & Art)",
+    "Bambi Eloriaga-Amago (Lettering (English, vols 1-11))",
+    "Roland Amago (Lettering (English))",
+    "Richard Tobin (Translator (English))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 8,
+   "2": 7,
+   "3": 9,
+   "4": 7,
+   "none": 5
+  }
+ },
+ {
+  "id": "m74",
+  "title": "Your Talent Is Mine",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Hao Fan', 'Wei CC', 'Jian Shen Wu Di']"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 106,
+   "volumi": null,
+   "autori": [
+    "Hao Fan (Story)",
+    "Wei CC (Art)",
+    "Jian Shen Wu Di (Original Story)"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 18,
+   "none": 82
+  }
+ },
+ {
+  "id": "m75",
+  "title": "The Beginning After the End",
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "6/6 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 32,
+   "2": 36,
+   "3": 39,
+   "4": 43,
+   "5": 60,
+   "6": 63,
+   "7": 13,
+   "239": 2,
+   "none": 15
+  }
+ },
+ {
+  "id": "m76",
+  "title": "Leveling Up with the Gods",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 61,
+   "2": 58,
+   "3": 29
+  }
+ },
+ {
+  "id": "m77",
+  "title": "Poison Dragon",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": null,
+   "volumi": null,
+   "autori": [
+    "Senior (Original Story)",
+    "Yeong-Gwang (Art)",
+    "Sang-Won Sin (Story)",
+    "Mun-Gyeong Choi (Coloring)",
+    "Mun-Gyeong Choi (Background Art)"
+   ]
+  }
+ },
+ {
+  "id": "m78",
+  "title": "Return of the Crazy Demon",
+  "flags": [
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['JP', 'Hi Lee', 'Jin-Seong Yu', 'Ra-Gi Yun', 'Ra-Gi Yun']"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": null,
+   "volumi": null,
+   "autori": [
+    "JP (Story)",
+    "Hi Lee (Art)",
+    "Jin-Seong Yu (Original Story)",
+    "Ra-Gi Yun (Background Art)",
+    "Ra-Gi Yun (Coloring)"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 127,
+   "none": 1
+  }
+ },
+ {
+  "id": "m79",
+  "title": "Return of the Unrivaled Spear Knight",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": null,
+   "volumi": null,
+   "autori": [
+    "Studio Inus (Art)",
+    "Cho-seonsaengnim (Original Story)",
+    "Hu-Sang Jo (Story)"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "2": 36,
+   "3": 27
+  }
+ },
+ {
+  "id": "m80",
+  "title": "Solo Max-Level Newbie",
+  "flags": [
+   [
+    "AUTORI",
+    "Nostri ['Sadoyeon']; AniList ['WAN.Z', 'Swing Bat', 'Maslow']"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": null,
+   "volumi": null,
+   "autori": [
+    "WAN.Z (Story)",
+    "Swing Bat (Art)",
+    "Maslow (Original Story)"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "none": 40
+  }
+ },
+ {
+  "id": "m81",
+  "title": "A Returner's Magic Should Be Special",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 228,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 268,
+   "volumi": null,
+   "autori": [
+    "Usonan (Original Story)",
+    "Wookjakga (Art)",
+    "Phil Christie (Lettering (English, Yen Press))",
+    "Micah Kim (Translator (English, Yen Press))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 70,
+   "2": 54,
+   "3": 32,
+   "5": 48
+  }
+ },
+ {
+  "id": "m82",
+  "title": "Great Mage Returns After 4000 Years",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Barnicle', 'Deok-Yong Kim', 'Nakhasan']"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": null,
+   "volumi": null,
+   "autori": [
+    "Nakhasan (Original Story)",
+    "Deok-Yong Kim (Art)",
+    "Barnicle (Story)"
+   ]
+  },
+  "mangadex_err": "'list' object has no attribute 'items'"
+ },
+ {
+  "id": "m83",
+  "title": "Nano Machine",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Han Jung Hoon', 'Bak Jong Hee']; AniList ['Geobalhan', 'Geumgangbulgoe', 'Hanjung Worya', 'Alexandra Dickmann']"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": null,
+   "volumi": null,
+   "autori": [
+    "Geobalhan (Story)",
+    "Geumgangbulgoe (Art)",
+    "Hanjung Worya (Original Story)",
+    "Alexandra Dickmann (Translator (German))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 1,
+   "2": 26,
+   "none": 125
+  }
+ },
+ {
+  "id": "m84",
+  "title": "Legend of the Northern Blade",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Hae-Min', 'U-Gak', 'Son']"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 202,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 202,
+   "volumi": null,
+   "autori": [
+    "U-Gak (Original Story)",
+    "Hae-Min (Story & Art)",
+    "Son (Assistant)"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "none": 3
+  }
+ },
+ {
+  "id": "m85",
+  "title": "Omniscient Reader's Viewpoint",
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "4/4 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1]"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": null,
+   "volumi": null,
+   "autori": [
+    "Singsyong (Original Story)",
+    "Sleepy-C (Art)",
+    "UMI (Story)",
+    "Geomnem (Original Character Design)",
+    "Jessica Walther (Translator (German))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 1,
+   "none": 76
+  }
+ },
+ {
+  "id": "m86",
+  "title": "Mercenary Enrollment",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": null,
+   "volumi": null,
+   "autori": [
+    "YC (Story)",
+    "Rakyeon (Art)"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "none": 147
+  }
+ },
+ {
+  "id": "m87",
+  "title": "God Game",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Shuu Miyazaki', 'Nanakusa']"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 76,
+   "volumi": 8,
+   "autori": [
+    "Nanakusa (Illustration)",
+    "Shuu Miyazaki (Story)"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 5,
+   "2": 1
+  }
+ },
+ {
+  "id": "m88",
+  "title": "Her Summon",
+  "flags": [
+   [
+    "VOLUMI_INTERNI",
+    "totalVols 117 ma elenco volumi con capitoli ne ha 1"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Jin-Jun Park']"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 117,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 62,
+   "volumi": null,
+   "autori": [
+    "Jin-Jun Park (Story & Art)"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "none": 10
+  }
+ },
+ {
+  "id": "m89",
+  "title": "Reverend Insanity",
+  "flags": [
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 22; AniList 96 (serie in corso)"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 96,
+   "volumi": null,
+   "autori": [
+    "Gu Zhenren (Original Story)",
+    "Ran Hui Wenhua (Story & Art)"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "none": 97
+  }
+ },
+ {
+  "id": "m90",
+  "title": "Lord of Mysteries",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Cuttlefish That Loves Diving']; AniList ['Chun Ba', 'Yuanyan de Qiqiu', 'Ai Qianshui de Wuzei']"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": null,
+   "volumi": null,
+   "autori": [
+    "Ai Qianshui de Wuzei (Original Story)",
+    "Chun Ba (Story)",
+    "Yuanyan de Qiqiu (Art)"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "none": 15
+  }
+ },
+ {
+  "id": "m91",
+  "title": "Age of Adepts",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  }
+ },
+ {
+  "id": "m92",
+  "title": "House of Horrors",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Miyako Cojima']"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 10,
+   "volumi": 1,
+   "autori": [
+    "Miyako Cojima (Story & Art)"
+   ]
+  },
+  "mangadex_err": "'list' object has no attribute 'items'"
+ },
+ {
+  "id": "m93",
+  "title": "Warlock of the Magus World",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  }
+ },
+ {
+  "id": "m94",
+  "title": "Radiant",
+  "flags": [
+   [
+    "CAPITOLI",
+    "Somma nostri capitoli 148; AniList 1"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Fantasy', 'Azione', 'Avventura']; AniList ['Hentai', 'Romance']"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Tony Valente']; AniList ['Niiro Ikuhana']"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 19,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": 10,
+   "volumi": 1,
+   "autori": [
+    "Kentarou (Story & Art)"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 5,
+   "2": 9,
+   "3": 9,
+   "4": 8,
+   "5": 8,
+   "6": 8,
+   "7": 8,
+   "8": 8,
+   "9": 8,
+   "10": 8,
+   "11": 8,
+   "12": 8,
+   "13": 8,
+   "14": 8,
+   "15": 8,
+   "16": 8,
+   "17": 8,
+   "18": 8,
+   "19": 8
+  }
+ },
+ {
+  "id": "m98",
+  "title": "Birth of the Demonic Sword",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  }
+ },
+ {
+  "id": "m99",
+  "title": "Galaxias",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "GENERI",
+    "Nostri ['Sci-Fi']; AniList ['Action', 'Adventure', 'Fantasy']"
+   ],
+   [
+    "AUTORI",
+    "Nostri ['Autore non confermato']; AniList ['Ao Hatezaka', 'Nate Derr', 'Jan Ivan Concepcion', 'Katherine Tran']"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  },
+  "anilist": {
+   "capitoli": null,
+   "volumi": null,
+   "autori": [
+    "Jan Ivan Concepcion (Lettering (English))",
+    "Nate Derr (Translator (English))",
+    "Ao Hatezaka (Story & Art)",
+    "Katherine Tran (Editing (English))"
+   ]
+  },
+  "mangadex_capitoli_per_volume": {
+   "1": 5,
+   "2": 11,
+   "3": 10,
+   "none": 10
+  }
+ },
+ {
+  "id": "m96",
+  "title": "Orfani",
+  "flags": [
+   [
+    "CAPITOLI_SOSPETTI",
+    "16/16 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "nostro": {
+   "totalVols": 16,
+   "edition": ""
+  }
+ },
+ {
+  "id": "m97",
+  "title": "Qwest",
+  "flags": [
+   [
+    "CAPITOLI_MANCANTI",
+    "Nessun dato capitoli per volume"
+   ],
+   [
+    "NON_TROVATO",
+    "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+   ]
+  ],
+  "nostro": {
+   "totalVols": null,
+   "edition": ""
+  }
+ }
+]

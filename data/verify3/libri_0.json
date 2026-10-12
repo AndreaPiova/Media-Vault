@@ -1,0 +1,136 @@
+[
+ {
+  "id": "b1",
+  "title": "Il Piccolo Libro dell'Investimento",
+  "ours": {
+   "author": "John C. Bogle",
+   "pages": 288,
+   "genre": "Finanza"
+  },
+  "flags": [
+   [
+    "NON_TROVATO",
+    "Open Library: nessun risultato"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "b2",
+  "title": "Il Cigno Nero",
+  "ours": {
+   "author": "Nassim Nicholas Taleb",
+   "pages": 496,
+   "genre": ""
+  },
+  "flags": [
+   [
+    "GENERE",
+    "Genere mancante"
+   ],
+   [
+    "NON_TROVATO",
+    "Open Library: nessun risultato"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "b3",
+  "title": "The Wheel of Time",
+  "ours": {
+   "author": "Robert Jordan",
+   "pages": null,
+   "genre": ""
+  },
+  "flags": [
+   [
+    "PAGINE",
+    "Numero pagine mancante"
+   ],
+   [
+    "GENERE",
+    "Genere mancante"
+   ],
+   [
+    "NON_TROVATO",
+    "Open Library: nessun risultato"
+   ]
+  ],
+  "src": {}
+ },
+ {
+  "id": "b10",
+  "title": "Aqualung",
+  "ours": {
+   "author": "Autore non confermato",
+   "pages": null,
+   "genre": "Drammatico"
+  },
+  "flags": [
+   [
+    "AUTORE",
+    "Autore mancante/non confermato: 'Autore non confermato'"
+   ],
+   [
+    "PAGINE",
+    "Numero pagine mancante"
+   ]
+  ],
+  "src": {
+   "openlibrary": {
+    "title": "Aqualung",
+    "authors": [
+     "Jethro Tull"
+    ],
+    "year": 1999,
+    "pages": null
+   }
+  }
+ },
+ {
+  "id": "b11",
+  "title": "Orfani",
+  "ours": {
+   "author": "Roberto Recchioni",
+   "pages": null,
+   "genre": "Sci-Fi, Azione, Militare"
+  },
+  "flags": [
+   [
+    "PAGINE",
+    "Numero pagine mancante"
+   ]
+  ],
+  "src": {
+   "openlibrary": {
+    "title": "Orfani",
+    "authors": [
+     "Roberto Recchioni"
+    ],
+    "year": 2014,
+    "pages": 199
+   }
+  }
+ },
+ {
+  "id": "b12",
+  "title": "Qwest",
+  "ours": {
+   "author": "Lorenzo Magalotti",
+   "pages": null,
+   "genre": "Fantasy"
+  },
+  "flags": [
+   [
+    "PAGINE",
+    "Numero pagine mancante"
+   ],
+   [
+    "NON_TROVATO",
+    "Open Library: nessun risultato"
+   ]
+  ],
+  "src": {}
+ }
+]

@@ -1,0 +1,21 @@
+name: IAH covers
+on:
+  push:
+    paths: ['scripts/iah.trigger']
+permissions:
+  contents: write
+jobs:
+  d:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests pillow
+      - run: python scripts/iah4.py
+      - if: always()
+        run: |
+          git config user.name "mediavault-bot"; git config user.email "bot@users.noreply.github.com"
+          git add covers/manga data; git commit -m "I Am a Hero nuova edizione: cover" || true
+          for i in $(seq 1 12); do git fetch origin manga-publisher && git rebase -X theirs origin/manga-publisher && git push origin HEAD:manga-publisher && break; git rebase --abort 2>/dev/null; sleep $((RANDOM%15+3)); done

@@ -1,0 +1,1072 @@
+[
+ {
+  "sezione": "film",
+  "id": "f77",
+  "titolo": "Pacific Rim",
+  "campo": "durata",
+  "attuale": 111,
+  "corretto": 131,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f115",
+  "titolo": "Seeking a Friend for the End of the World",
+  "campo": "durata",
+  "attuale": 108,
+  "corretto": 101,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f145",
+  "titolo": "Cado dalle nubi",
+  "campo": "durata",
+  "attuale": 88,
+  "corretto": 95,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f206",
+  "titolo": "Another Round",
+  "campo": "regista",
+  "attuale": "Thomas Vinterberg",
+  "corretto": "Yeon Sang-ho",
+  "confidenza": "media"
+ },
+ {
+  "sezione": "film",
+  "id": "f257",
+  "titolo": "La leggenda di Al, John e Jack",
+  "campo": "durata",
+  "attuale": 100,
+  "corretto": 105,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f368",
+  "titolo": "Sympathy for Mr. Vengeance",
+  "campo": "durata",
+  "attuale": 121,
+  "corretto": 129,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f378",
+  "titolo": "Wild Tales",
+  "campo": "durata",
+  "attuale": 122,
+  "corretto": 92,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f378",
+  "titolo": "Wild Tales",
+  "campo": "anno",
+  "attuale": "2014",
+  "corretto": 2016,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f378",
+  "titolo": "Wild Tales",
+  "campo": "regista",
+  "attuale": "Damián Szifron",
+  "corretto": "Nicholas Stoller",
+  "confidenza": "media"
+ },
+ {
+  "sezione": "film",
+  "id": "f396",
+  "titolo": "Looper",
+  "campo": "durata",
+  "attuale": 113,
+  "corretto": 119,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f496",
+  "titolo": "The Mandalorian and Grogu",
+  "campo": "durata",
+  "attuale": 120,
+  "corretto": 133,
+  "confidenza": "media (solo TMDB)"
+ },
+ {
+  "sezione": "film",
+  "id": "f55",
+  "titolo": "Bridge to Terabithia",
+  "campo": "durata",
+  "attuale": 111,
+  "corretto": 96,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f104",
+  "titolo": "Tu la conosci Claudia?",
+  "campo": "durata",
+  "attuale": 97,
+  "corretto": 104,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f116",
+  "titolo": "Chiedimi se sono felice",
+  "campo": "durata",
+  "attuale": 109,
+  "corretto": 100,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f143",
+  "titolo": "Benvenuti al Nord",
+  "campo": "durata",
+  "attuale": 90,
+  "corretto": 110,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f365",
+  "titolo": "Solaris",
+  "campo": "durata",
+  "attuale": 167,
+  "corretto": 129,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f365",
+  "titolo": "Solaris",
+  "campo": "anno",
+  "attuale": "1972",
+  "corretto": 1995,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f365",
+  "titolo": "Solaris",
+  "campo": "regista",
+  "attuale": "Andrei Tarkovsky",
+  "corretto": "Terry Gilliam",
+  "confidenza": "media"
+ },
+ {
+  "sezione": "film",
+  "id": "f400",
+  "titolo": "Sentimental Value",
+  "campo": "durata",
+  "attuale": 115,
+  "corretto": 133,
+  "confidenza": "media (solo TMDB)"
+ },
+ {
+  "sezione": "film",
+  "id": "f10",
+  "titolo": "Tre uomini e una gamba",
+  "campo": "durata",
+  "attuale": 92,
+  "corretto": 98,
+  "confidenza": "media (solo TMDB)"
+ },
+ {
+  "sezione": "film",
+  "id": "f10",
+  "titolo": "Tre uomini e una gamba",
+  "campo": "regista",
+  "attuale": "Aldo, Giovanni e Giacomo",
+  "corretto": "Aldo Baglio, Massimo Venier, Giacomo Poretti",
+  "confidenza": "media"
+ },
+ {
+  "sezione": "film",
+  "id": "f79",
+  "titolo": "Back to the Future 2",
+  "campo": "durata",
+  "attuale": 118,
+  "corretto": 108,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f105",
+  "titolo": "La haine",
+  "campo": "durata",
+  "attuale": 109,
+  "corretto": 98,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f132",
+  "titolo": "Journey to the Center of the Earth",
+  "campo": "durata",
+  "attuale": 84,
+  "corretto": 93,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f144",
+  "titolo": "Che bella giornata",
+  "campo": "durata",
+  "attuale": 90,
+  "corretto": 97,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f147",
+  "titolo": "Mr. Popper's Penguins",
+  "campo": "durata",
+  "attuale": 88,
+  "corretto": 94,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f150",
+  "titolo": "Home Alone 3",
+  "campo": "durata",
+  "attuale": 95,
+  "corretto": 102,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "film",
+  "id": "f169",
+  "titolo": "Coach Carter",
+  "campo": "durata",
+  "attuale": 105,
+  "corretto": 136,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s123",
+  "titolo": "His Dark Materials",
+  "campo": "anno fine",
+  "attuale": "2022",
+  "corretto": 2023,
+  "confidenza": "media"
+ },
+ {
+  "sezione": "serie",
+  "id": "s3",
+  "titolo": "Prison Break",
+  "campo": "episodi per stagione",
+  "attuale": [
+   22,
+   22,
+   13,
+   23,
+   9
+  ],
+  "corretto": [
+   22,
+   22,
+   13,
+   22,
+   9
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s4",
+  "titolo": "Friends",
+  "campo": "episodi per stagione",
+  "attuale": [
+   24,
+   24,
+   25,
+   24,
+   24,
+   25,
+   24,
+   24,
+   23,
+   17
+  ],
+  "corretto": [
+   24,
+   24,
+   25,
+   23,
+   23,
+   23,
+   23,
+   23,
+   23,
+   17
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s5",
+  "titolo": "The Last Dance",
+  "campo": "creatori",
+  "attuale": [
+   "Jason Hehir"
+  ],
+  "corretto": [
+   "Michael Tollin"
+  ],
+  "confidenza": "bassa (verificare)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s7",
+  "titolo": "La casa di carta",
+  "campo": "episodi per stagione",
+  "attuale": [
+   9,
+   6,
+   8,
+   8,
+   10
+  ],
+  "corretto": [
+   15,
+   16,
+   10
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s10",
+  "titolo": "Lost",
+  "campo": "episodi per stagione",
+  "attuale": [
+   24,
+   23,
+   22,
+   13,
+   16,
+   17
+  ],
+  "corretto": [
+   24,
+   24,
+   23,
+   13,
+   17,
+   17
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s13",
+  "titolo": "Squid Game",
+  "campo": "episodi per stagione",
+  "attuale": [
+   9,
+   6
+  ],
+  "corretto": [
+   9,
+   7,
+   6
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s13",
+  "titolo": "Squid Game",
+  "campo": "episodi totali",
+  "attuale": 15,
+  "corretto": 22,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s17",
+  "titolo": "Lost in Space",
+  "campo": "creatori",
+  "attuale": [
+   "Zack Estrin",
+   "Matt Sazama",
+   "Burk Sharpless"
+  ],
+  "corretto": [
+   "Irwin Allen"
+  ],
+  "confidenza": "bassa (verificare)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s19",
+  "titolo": "The Office",
+  "campo": "episodi per stagione",
+  "attuale": [
+   6,
+   22,
+   25,
+   14,
+   28,
+   26,
+   26,
+   24,
+   25
+  ],
+  "corretto": [
+   6,
+   22,
+   23,
+   14,
+   26,
+   24,
+   24,
+   24,
+   23
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s20",
+  "titolo": "Happy Days",
+  "campo": "episodi per stagione",
+  "attuale": [
+   16,
+   23,
+   23,
+   23,
+   27,
+   27,
+   25,
+   22,
+   22,
+   22,
+   17
+  ],
+  "corretto": [
+   16,
+   23,
+   23,
+   24,
+   26,
+   27,
+   25,
+   22,
+   22,
+   22,
+   22
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s21",
+  "titolo": "I Robinson",
+  "campo": "episodi per stagione",
+  "attuale": [
+   24,
+   25,
+   25,
+   24,
+   26,
+   26,
+   26,
+   25
+  ],
+  "corretto": [
+   24,
+   25,
+   25,
+   23,
+   25,
+   26,
+   25,
+   24
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s21",
+  "titolo": "I Robinson",
+  "campo": "episodi totali",
+  "attuale": 201,
+  "corretto": 197,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s21",
+  "titolo": "I Robinson",
+  "campo": "creatori",
+  "attuale": [
+   "Matt Groening"
+  ],
+  "corretto": [
+   "Bill Cosby",
+   "Michael J. Leeson",
+   "Ed. Weinberger"
+  ],
+  "confidenza": "bassa (verificare)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s22",
+  "titolo": "Vis a Vis",
+  "campo": "episodi per stagione",
+  "attuale": [
+   11,
+   13,
+   8,
+   8,
+   8
+  ],
+  "corretto": [
+   11,
+   13,
+   8,
+   8
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s22",
+  "titolo": "Vis a Vis",
+  "campo": "anno fine",
+  "attuale": "2020",
+  "corretto": 2019,
+  "confidenza": "media"
+ },
+ {
+  "sezione": "serie",
+  "id": "s28",
+  "titolo": "Rick and Morty",
+  "campo": "episodi per stagione",
+  "attuale": [
+   11,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10
+  ],
+  "corretto": [
+   11,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10,
+   10
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s29",
+  "titolo": "Lucifer",
+  "campo": "episodi per stagione",
+  "attuale": [
+   13,
+   18,
+   24,
+   10,
+   16,
+   10
+  ],
+  "corretto": [
+   13,
+   18,
+   26,
+   10,
+   16,
+   10
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s29",
+  "titolo": "Lucifer",
+  "campo": "episodi totali",
+  "attuale": 91,
+  "corretto": 93,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s31",
+  "titolo": "How I Met Your Mother",
+  "campo": "episodi per stagione",
+  "attuale": [
+   22,
+   22,
+   20,
+   24,
+   24,
+   24,
+   23,
+   23,
+   23
+  ],
+  "corretto": [
+   22,
+   22,
+   20,
+   24,
+   24,
+   24,
+   24,
+   24,
+   24
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s31",
+  "titolo": "How I Met Your Mother",
+  "campo": "episodi totali",
+  "attuale": 205,
+  "corretto": 208,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s36",
+  "titolo": "Mad Men",
+  "campo": "episodi per stagione",
+  "attuale": [
+   13,
+   13,
+   13,
+   13,
+   12,
+   12,
+   14
+  ],
+  "corretto": [
+   13,
+   13,
+   13,
+   13,
+   13,
+   13,
+   14
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s36",
+  "titolo": "Mad Men",
+  "campo": "episodi totali",
+  "attuale": 90,
+  "corretto": 92,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s49",
+  "titolo": "Manhunt",
+  "campo": "creatori",
+  "attuale": [
+   "Andrew Zinnes",
+   "David Coggeshall"
+  ],
+  "corretto": [
+   "Andrew Sodroski",
+   "Jim Clemente",
+   "Tony Gittelson"
+  ],
+  "confidenza": "bassa (verificare)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s51",
+  "titolo": "Gli anelli del potere",
+  "campo": "episodi per stagione",
+  "attuale": [
+   8,
+   8
+  ],
+  "corretto": [
+   8,
+   8,
+   8
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s54",
+  "titolo": "Invincible",
+  "campo": "episodi per stagione",
+  "attuale": [
+   8,
+   8,
+   8,
+   8
+  ],
+  "corretto": [
+   8,
+   8,
+   8,
+   8,
+   0
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s57",
+  "titolo": "House of the Dragon",
+  "campo": "episodi per stagione",
+  "attuale": [
+   10,
+   8
+  ],
+  "corretto": [
+   10,
+   8,
+   8
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s58",
+  "titolo": "Fringe",
+  "campo": "episodi per stagione",
+  "attuale": [
+   20,
+   22,
+   22,
+   22,
+   13
+  ],
+  "corretto": [
+   20,
+   23,
+   22,
+   22,
+   13
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s58",
+  "titolo": "Fringe",
+  "campo": "episodi totali",
+  "attuale": 99,
+  "corretto": 100,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s59",
+  "titolo": "Doctor Who",
+  "campo": "anno fine",
+  "attuale": "2022",
+  "corretto": 2021,
+  "confidenza": "media"
+ },
+ {
+  "sezione": "serie",
+  "id": "s63",
+  "titolo": "The Pitt",
+  "campo": "episodi per stagione",
+  "attuale": [
+   15,
+   15
+  ],
+  "corretto": [
+   15,
+   15,
+   0
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s64",
+  "titolo": "Black Mirror",
+  "campo": "episodi per stagione",
+  "attuale": [
+   3,
+   3,
+   6,
+   6,
+   3,
+   5,
+   6
+  ],
+  "corretto": [
+   3,
+   4,
+   6,
+   6,
+   3,
+   5,
+   6
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s71",
+  "titolo": "The End of the F***ing World",
+  "campo": "creatori",
+  "attuale": [
+   "Charlie Covell"
+  ],
+  "corretto": [
+   "Jonathan Entwistle"
+  ],
+  "confidenza": "bassa (verificare)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s77",
+  "titolo": "Severance",
+  "campo": "episodi per stagione",
+  "attuale": [
+   9,
+   10
+  ],
+  "corretto": [
+   9,
+   10,
+   0
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s79",
+  "titolo": "Silo",
+  "campo": "episodi per stagione",
+  "attuale": [
+   10,
+   10
+  ],
+  "corretto": [
+   10,
+   10,
+   10,
+   1
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s84",
+  "titolo": "Utopia",
+  "campo": "creatori",
+  "attuale": [
+   "Gillian Flynn"
+  ],
+  "corretto": [
+   "Dennis Kelly"
+  ],
+  "confidenza": "bassa (verificare)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s88",
+  "titolo": "Lupin",
+  "campo": "episodi per stagione",
+  "attuale": [
+   5,
+   5,
+   7
+  ],
+  "corretto": [
+   10,
+   7,
+   8
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s88",
+  "titolo": "Lupin",
+  "campo": "episodi totali",
+  "attuale": 17,
+  "corretto": 25,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s89",
+  "titolo": "The Last Kingdom",
+  "campo": "creatori",
+  "attuale": [
+   "Jack Bender",
+   "Michele Fazekas",
+   "Tara Butters"
+  ],
+  "corretto": [
+   "Stephen Butchard"
+  ],
+  "confidenza": "bassa (verificare)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s93",
+  "titolo": "24",
+  "campo": "episodi per stagione",
+  "attuale": [
+   24,
+   24,
+   24,
+   24,
+   24,
+   24,
+   24,
+   24
+  ],
+  "corretto": [
+   24,
+   24,
+   24,
+   24,
+   24,
+   24,
+   24,
+   24,
+   12
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s93",
+  "titolo": "24",
+  "campo": "anno fine",
+  "attuale": "2010",
+  "corretto": 2014,
+  "confidenza": "media"
+ },
+ {
+  "sezione": "serie",
+  "id": "s94",
+  "titolo": "Brooklyn 99",
+  "campo": "episodi per stagione",
+  "attuale": [
+   22,
+   23,
+   23,
+   21,
+   22,
+   18,
+   13,
+   9
+  ],
+  "corretto": [
+   22,
+   23,
+   23,
+   22,
+   22,
+   18,
+   13,
+   9
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s102",
+  "titolo": "Fallout",
+  "campo": "episodi per stagione",
+  "attuale": [
+   8
+  ],
+  "corretto": [
+   8,
+   8
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s106",
+  "titolo": "Gravity Falls",
+  "campo": "episodi per stagione",
+  "attuale": [
+   20,
+   22
+  ],
+  "corretto": [
+   20,
+   20
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s111",
+  "titolo": "Aspirants",
+  "campo": "creatori",
+  "attuale": [
+   "Apoorv Singh Karki"
+  ],
+  "corretto": [
+   "Arunabh Kumar",
+   "Shreyansh Pandey",
+   "Deepesh Sumitra Jagdish"
+  ],
+  "confidenza": "bassa (verificare)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s113",
+  "titolo": "Persona",
+  "campo": "episodi per stagione",
+  "attuale": [
+   4,
+   5
+  ],
+  "corretto": [
+   4
+  ],
+  "confidenza": "media (TMDB)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s113",
+  "titolo": "Persona",
+  "campo": "episodi totali",
+  "attuale": 9,
+  "corretto": 4,
+  "confidenza": "alta (TMDB=IMDb)"
+ },
+ {
+  "sezione": "serie",
+  "id": "s113",
+  "titolo": "Persona",
+  "campo": "anno inizio",
+  "attuale": "2018",
+  "corretto": 2019,
+  "confidenza": "media"
+ }
+]

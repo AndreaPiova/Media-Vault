@@ -1,0 +1,2112 @@
+# MediaVault v43 — Errori da correggere e soluzione (versione 2, filtrata)
+
+Fonti incrociate: TMDB, IMDb datasets, AniList, AnimeClick/IBS, Open Library. Omonimi identificati confrontando poster dell'app con poster/backdrop delle fonti (hash percettivo).
+Fuori ambito: Variant/Artbook. Rimossi i falsi positivi (titoli tradotti, personaggi con nome diverso su AniList, titoli italiani manga non trovati, anno ±1 tra fonti per film già concordi).
+
+Formato: `id Titolo` — campo: **nostro** → **corretto (fonte)**.
+
+## 0. Come decidere i casi aperti a mano
+
+Regola: l'id TMDB va tenuto se titolo+anno corrispondono al film che hai visto; la differenza di poster da sola non basta (poster alternativi/locandine locali).
+- f375 Unforgiven (1992): **tieni id 33** (Gli spietati, 1992). I candidati proposti dal poster sono wrestling WWE, quindi falso allarme.
+- f295 The Descent (2005): **tieni id 9392**. Il poster somiglia al sequel solo per distanza bassa non decisiva; apri la scheda e controlla che sia 2005.
+- f326 In the Mood for Love (2000): **tieni id 843**. L'altro candidato è un corto/documentario.
+- f287 The Call: poster = **The Call 2020 (coreano, id 575604)** con distanza 3 (praticamente identico), l'app dichiara 2013 (Halle Berry, id 158011). Decidi tu: se hai visto quello con Halle Berry, sostituisci solo il poster; se hai visto il coreano, cambia id 575604 e anno 2020.
+- f388 Twin Peaks (1992): il film è *Fuoco cammina con me* (id 1923) quindi **tieni 1923 e correggi il titolo**; il poster in uso è quello della serie (id 452522): sostituiscilo con quello del film.
+
+## 1. FILM — id TMDB da sostituire (poster identificato)
+
+- f82 The Illusionist → id TMDB **1491**
+- f127 Così è la vita → id TMDB **38396**
+- f456 The Hunger Games: Mockingjay - Part 1 → id TMDB **131631**
+- f194 Eyes Wide Shut → id TMDB **345**
+- f231 Chinatown → id TMDB **829**
+- f241 The Day After Tomorrow → id TMDB **435**
+- f263 JFK → id TMDB **820**
+- f270 Wake Up Dead Man → id TMDB **812583**
+- f279 Before Midnight → id TMDB **132344**
+- f312 The French Connection → id TMDB **1051**
+- f346 Oblivion → id TMDB **75612**
+- f352 Personal Shopper → id TMDB **340676**
+- f364 Society of the Snow → id TMDB **906126**
+- f417 Cube → id TMDB **431**
+- f419 Journey to the Mysterious Island → id TMDB **72545**
+- f440 Lost Highway → id TMDB **638**
+- f137 Stand by Me → id TMDB **235**
+- f457 The Hunger Games: Mockingjay - Part 2 → id TMDB **131634**
+- f168 Atonement → id TMDB **4347**
+- f212 Ted → id TMDB **72105**
+- f219 Source Code → id TMDB **45612**
+- f251 About Time → id TMDB **122906**
+- f258 Chronicle → id TMDB **76726**
+- f267 Collateral → id TMDB **1538**
+- f274 Aftersun → id TMDB **965150**
+- f292 Chungking Express → id TMDB **11104**
+- f301 The Elephant Man → id TMDB **1955**
+- f307 The Father → id TMDB **600354**
+- f329 The Insider → id TMDB **9008**
+- f347 Once Upon a Time in America → id TMDB **311**
+- f350 Paris, Texas → id TMDB **655**
+- f387 Dogville → id TMDB **553**
+- f393 Willy Wonka e la fabbrica di cioccolato → id TMDB **252**
+- f409 The Seventh Seal → id TMDB **490**
+- f428 Barry Lyndon → id TMDB **3175**
+- f90 The Untouchables → id TMDB **117**
+- f193 Moon → id TMDB **17431**
+- f213 Being John Malkovich → id TMDB **492**
+- f224 Big Fish → id TMDB **587**
+- f256 The Place Beyond the Pines → id TMDB **97367**
+- f265 First Man → id TMDB **369972**
+- f272 21 Jump Street → id TMDB **64688**
+- f296 Dial M for Murder → id TMDB **521**
+- f324 Her → id TMDB **152601**
+- f330 Into the Wild → id TMDB **5915**
+- f339 Minari → id TMDB **615643**
+- f351 Persona → id TMDB **797**
+- f357 Rear Window → id TMDB **567**
+- f363 Signs → id TMDB **2675**
+- f371 The Tree of Life → id TMDB **8967**
+- f374 Unbreakable → id TMDB **9741**
+- f407 Vanilla Sky → id TMDB **1903**
+- f413 Wind River → id TMDB **395834**
+- f416 Equilibrium → id TMDB **7299**
+- f185 Incendies → id TMDB **46738**
+- f285 Boyhood → id TMDB **85350**
+- f24 Mystic River → id TMDB **322**
+- f183 The Age of Adaline → id TMDB **293863**
+- f288 Carlito's Way → id TMDB **6075**
+- f310 The Fountain → id TMDB **1381**
+
+## 2. FILM — altri errori (dopo correzione id)
+
+- **f479 The Odyssey**
+  - Cast: Non nel cast TMDB (top25): ['Zendaya']; TMDB top: ['Matt Damon', 'Tom Holland', 'Anne Hathaway', 'Robert Pattinson', 'Himesh Patel', 'Charlize Theron']
+- **f17 Memories of Murder**
+  - Cast: Non nel cast TMDB (top25): ['Kim Sang-kyung']; TMDB top: ['Song Kang-ho', 'Song Jae-ho']
+- **f77 Pacific Rim**
+  - Durata: Nostro 111 min; TMDB 131, IMDb 131
+- **f88 Men in Black 3**
+  - Poster da controllare a vista: Copertina poco simile ai poster TMDB id 41154 (Men in Black 3 2012), dist 27: verificare a vista. Candidati: [(27, 41154, 'Men in Black 3', '2012')]
+- **f115 Seeking a Friend for the End of the World**
+  - Durata: Nostro 108 min; TMDB 101, IMDb 101
+- **f139 Sole a catinelle**
+  - Durata (fonti discordanti): Nostro 83 min; TMDB 90, IMDb 87
+- **f145 Cado dalle nubi**
+  - Durata: Nostro 88 min; TMDB 95, IMDb 95
+- **f188 A Cure for Wellness**
+  - Anno: Nostro 2016; TMDB 2017
+- **f206 Another Round**
+  - Regista: Nostro 'Thomas Vinterberg'; TMDB ['Yeon Sang-ho']
+  - Cast: Non nel cast TMDB (top25): ['Mads Mikkelsen', 'Thomas Bo Larsen', 'Magnus Millang', 'Lars Ranthe', 'Maria Bonnevie']; TMDB top: ['Kim Min-jae', 'Kim Do-yoon', 'Jang So-yeon', 'Joey Albright', 'Pierce Conran', 'John D. Michaels']
+  - Generi: Nostri ['Commedia', 'Dramma']; TMDB ['Horror', 'Azione', 'Thriller', 'Avventura']
+- **f225 Ex Machina**
+  - Anno: Nostro 2014; TMDB 2015
+- **f257 La leggenda di Al, John e Jack**
+  - Durata: Nostro 100 min; TMDB 105, IMDb 105
+- **f300 The Double**
+  - Anno: Nostro 2013; TMDB 2014
+- **f368 Sympathy for Mr. Vengeance**
+  - Durata: Nostro 121 min; TMDB 129, IMDb 129
+- **f378 Wild Tales**
+  - Anno: Nostro 2014; TMDB 2016
+  - Regista: Nostro 'Damián Szifron'; TMDB ['Nicholas Stoller']
+  - Cast: Non nel cast TMDB (top25): ['Ricardo Darín', 'Leonardo Sbaraglia', 'Érica Rivas', 'Oscar Martínez', 'Rita Cortese']; TMDB top: ['Seth Rogen', 'Zac Efron', 'Rose Byrne', 'Chloë Grace Moretz', 'Dave Franco', 'Ike Barinholtz']
+  - Generi: Nostri ['Commedia nera', 'Dramma', 'Thriller']; TMDB ['Commedia']
+  - Durata: Nostro 122 min; TMDB 92, IMDb 92
+- **f386 A Separation**
+  - Cast: Non nel cast TMDB (top25): ['Shahab Hosseini']; TMDB top: ['Sareh Bayat', 'Sarina Farhadi', 'Ali-Asghar Shahbazi', 'Kimia Hosseini', 'Armine Zeytounchian', 'Shirin Yazdanbakhsh']
+- **f396 Looper**
+  - Durata: Nostro 113 min; TMDB 119, IMDb 119
+- **f417 Cube** [id_corretto {'da': 9327, 'a': 431}]
+  - Anno: Nostro 1997; TMDB 1998
+- **f447 Obsession**
+  - Anno: Nostro 2025; TMDB 2026
+- **f496 The Mandalorian and Grogu**
+  - Durata: Nostro 120 min; TMDB 133, IMDb 132
+- **f7 Se7en**
+  - Cast: Non nel cast TMDB (top25): ['Kevin Spacey']; TMDB top: ['Morgan Freeman', 'Brad Pitt', 'Gwyneth Paltrow', 'John Cassini', 'Peter Crombie', 'Reg E. Cathey']
+- **f44 Rocky 1**
+  - Poster da controllare a vista: Copertina poco simile ai poster TMDB id 1366 (Rocky 1976), dist 26: verificare a vista. Candidati: [(23, 1367, 'Rocky II', '1979'), (23, 312221, 'Creed', '2015'), (26, 1366, 'Rocky', '1976')]
+- **f55 Bridge to Terabithia**
+  - Durata: Nostro 111 min; TMDB 96, IMDb 96
+- **f58 V for Vendetta**
+  - Anno: Nostro 2005; TMDB 2006
+- **f72 Night at the Museum 1**
+  - Cast: Non nel cast TMDB (top25): ['Owen Wilson']; TMDB top: ['Ben Stiller', 'Carla Gugino', 'Dick Van Dyke', 'Mickey Rooney', 'Bill Cobbs', 'Jake Cherry']
+- **f104 Tu la conosci Claudia?**
+  - Durata: Nostro 97 min; TMDB 104, IMDb 104
+- **f116 Chiedimi se sono felice**
+  - Durata: Nostro 109 min; TMDB 100, IMDb 100
+- **f128 Enemy**
+  - Anno: Nostro 2013; TMDB 2014
+- **f143 Benvenuti al Nord**
+  - Durata: Nostro 90 min; TMDB 110, IMDb 110
+- **f304 The Fall**
+  - Anno: Nostro 2006; TMDB 2008
+- **f365 Solaris**
+  - Anno: Nostro 1972; TMDB 1995
+  - Regista: Nostro 'Andrei Tarkovsky'; TMDB ['Terry Gilliam']
+  - Cast: Non nel cast TMDB (top25): ['Natalya Bondarchuk', 'Donatas Banionis', 'Jüri Järvet', 'Vladislav Dvorzhetsky', 'Anatoliy Solonitsyn']; TMDB top: ['Bruce Willis', 'Madeleine Stowe', 'Brad Pitt', 'Christopher Plummer', 'David Morse', 'Jon Seda']
+  - Durata: Nostro 167 min; TMDB 129, IMDb 129
+- **f400 Sentimental Value**
+  - Durata: Nostro 115 min; TMDB 133, IMDb 135
+- **f10 Tre uomini e una gamba**
+  - Regista: Nostro 'Aldo, Giovanni e Giacomo'; TMDB ['Aldo Baglio', 'Massimo Venier', 'Giacomo Poretti']
+  - Durata: Nostro 92 min; TMDB 98, IMDb 100
+- **f79 Back to the Future 2**
+  - Durata: Nostro 118 min; TMDB 108, IMDb 108
+- **f105 La haine**
+  - Cast: Non nel cast TMDB (top25): ['Karim Belkhadra']; TMDB top: ['Vincent Cassel', 'Hubert Koundé', 'Saïd Taghmaoui', 'Abdel Ahmed Ghili', 'Solo', 'Joseph Momo']
+  - Durata: Nostro 109 min; TMDB 98, IMDb 98
+- **f108 Coherence**
+  - Anno: Nostro 2013; TMDB 2014
+- **f132 Journey to the Center of the Earth**
+  - Durata: Nostro 84 min; TMDB 93, IMDb 93
+- **f144 Che bella giornata**
+  - Durata: Nostro 90 min; TMDB 97, IMDb 97
+- **f147 Mr. Popper's Penguins**
+  - Durata: Nostro 88 min; TMDB 94, IMDb 94
+- **f150 Home Alone 3**
+  - Durata: Nostro 95 min; TMDB 102, IMDb 102
+- **f169 Coach Carter**
+  - Durata: Nostro 105 min; TMDB 136, IMDb 136
+- **f196 Inside Men**
+  - Cast: Non nel cast TMDB (top25): ['Baek Yoon-sik']; TMDB top: ['Lee Byung-hun']
+- **f208 King of New York**
+  - Durata (fonti discordanti): Nostro 121 min; TMDB 106, IMDb 103
+- **f256 The Place Beyond the Pines** [id_corretto {'da': 109410, 'a': 97367}]
+  - Anno: Nostro 2012; TMDB 2013
+- **f278 Battle Royale**
+  - Cast: Non nel cast TMDB (top25): ['Tatsuya Fujiwara']; TMDB top: ['Takeshi Kitano', 'Masanobu Ando', 'Hirohito Honda', 'Ryou Nitta', 'Sayaka Ikeda', 'Yukari Kanasawa']
+- **f311 Frailty**
+  - Anno: Nostro 2001; TMDB 2002
+- **f339 Minari** [id_corretto {'da': 615457, 'a': 615643}]
+  - Anno: Nostro 2020; TMDB 2021
+- **f384 The Invisible Guest**
+  - Anno: Nostro 2016; TMDB 2017
+- **f426 The Gentlemen**
+  - Anno: Nostro 2019; TMDB 2020
+- **f439 Dune: Part Three**
+  - Cast: Non nel cast TMDB (top25): ['Austin Butler']; TMDB top: ['Timothée Chalamet', 'Zendaya', 'Jason Momoa', 'Florence Pugh', 'Rebecca Ferguson', 'Isaach de Bankolé']
+
+## 3. SERIE TV
+
+- **s121 The Penguin**
+  - Cast: Non nel cast TMDB: ['Eugene Solfanelli']; TMDB top: ['Colin Farrell', 'Cristin Milioti', 'Rhenzy Feliz', "Deirdre O'Connell", 'Clancy Brown', 'Carmen Ejogo', 'Shohreh Aghdashloo', 'Theo Rossi']
+- **s123 His Dark Materials**
+  - Anno fine: Nostro 2022; TMDB 2023 (serie Ended)
+  - Generi: Nostri ['Fantasy', 'Avventura', 'Mistero']; TMDB ['Fantascienza', 'Dramma', 'Azione']
+- **s120 The Mentalist**
+  - Cast: Non nel cast TMDB: ['Adrianne Palicki', 'Jared Padalecki', 'Fredric Lehne', 'Jensen Ackles', 'Amanda Tapping', 'Misha Collins', 'Mark Sheppard', 'Loretta Devine', 'Julian Richings', 'Sebastian Spence', 'Amber Benson', 'Richard Libertini']; TMDB top: ['Simon Baker', 'Robin Tunney', 'Tim Kang', 'Owain Yeoman', 'Amanda Righetti', 'Joe Adler', 'Aunjanue Ellis-Taylor', 'Michael Gaston']
+- **s1 Breaking Bad**
+  - Cast: Non nel cast TMDB: ['Aaron Hill', 'Harry Groener']; TMDB top: ['Bryan Cranston', 'Aaron Paul', 'Anna Gunn', 'RJ Mitte', 'Dean Norris', 'Betsy Brandt', 'Bob Odenkirk', 'Jonathan Banks']
+- **s3 Prison Break**
+  - Coerenza: Completata ma visti 90/89
+  - Episodi per stagione: Nostro [22, 22, 13, 23, 9]; TMDB [22, 22, 13, 22, 9]
+  - Episodi totali: Nostro 89; TMDB 88, IMDb 90
+- **s4 Friends**
+  - Coerenza: Completata ma visti 235/234
+  - Episodi per stagione: Nostro [24, 24, 25, 24, 24, 25, 24, 24, 23, 17]; TMDB [24, 24, 25, 23, 23, 23, 23, 23, 23, 17]
+  - Cast: Non nel cast TMDB: ['Steve Zahn', 'Michael McKean', 'Jana Marie Hupp', 'Carlo Imperato', 'Brittney Powell', 'Lea Thompson']; TMDB top: ['Jennifer Aniston', 'Courteney Cox', 'Lisa Kudrow', 'Matt LeBlanc', 'Matthew Perry', 'David Schwimmer', 'James Michael Tyler', 'Elliott Gould']
+- **s5 The Last Dance**
+  - Creatori: Nostri ['Jason Hehir']; TMDB ['Michael Tollin']
+- **s6 Game of Thrones**
+  - Coerenza: Completata ma visti 74/73
+  - Cast: Non nel cast TMDB: ['Sean Bean', 'Mark Addy']; TMDB top: ['Peter Dinklage', 'Kit Harington', 'Nikolaj Coster-Waldau', 'Lena Headey', 'Emilia Clarke', 'Maisie Williams', 'Isaac Hempstead Wright', 'Sophie Turner']
+- **s7 La casa di carta**
+  - Episodi per stagione: Nostro [9, 6, 8, 8, 10]; TMDB [15, 16, 10]
+- **s8 Better Call Saul**
+  - Cast: Non nel cast TMDB: ['Alex Désert', 'Elisha Yaffe', 'Chris Mulkey', 'Jim Beaver']; TMDB top: ['Bob Odenkirk', 'Jonathan Banks', 'Rhea Seehorn', 'Patrick Fabian', 'Michael Mando', 'Giancarlo Esposito', 'Michael McKean', 'Tony Dalton']
+- **s10 Lost**
+  - Coerenza: Completata ma visti 121/115
+  - Episodi per stagione: Nostro [24, 23, 22, 13, 16, 17]; TMDB [24, 24, 23, 13, 17, 17]
+  - Episodi totali: Nostro 115; TMDB 118, IMDb 121
+- **s11 Band of Brothers**
+  - Cast: Non nel cast TMDB: ['Andrew-Lee Potts', 'Paul Herzberg', 'William Armstrong']; TMDB top: ['Michael Cudlitz', 'Rick Gomez', 'Scott Grimes', 'Damian Lewis', 'Ron Livingston', 'James Madio', 'Neal McDonough', 'Donnie Wahlberg']
+- **s13 Squid Game**
+  - Coerenza: Completata ma visti 22/15
+  - Episodi per stagione: Nostro [9, 6]; TMDB [9, 7, 6]
+  - Cast: Non nel cast TMDB: ['임시완']; TMDB top: ['Lee Jung-jae', 'Lee Byung-hun', 'Kang Ae-sim', 'Kang Ha-neul', 'David Lee', 'Anupam Tripathi', 'Lee Doo-seok', 'John Choi']
+  - Episodi totali: Nostro 15; TMDB 22, IMDb 22
+- **s14 Peaky Blinders**
+  - Cast: Non nel cast TMDB: ['Dave Simon']; TMDB top: ['Cillian Murphy', 'Paul Anderson', 'Sophie Rundle', 'Helen McCrory', 'Finn Cole', 'Ian Peck', 'Ned Dennehy', "Natasha O'Keeffe"]
+- **s15 The Expanse**
+  - Cast: Non nel cast TMDB: ['Paulo Costanzo', 'Sara Mitich']; TMDB top: ['Steven Strait', 'Dominique Tipper', 'Wes Chatham', 'Shohreh Aghdashloo', 'Cas Anvar', 'Frankie Adams', 'Cara Gee', 'Shawn Doyle']
+- **s17 Lost in Space**
+  - Creatori: Nostri ['Zack Estrin', 'Matt Sazama', 'Burk Sharpless']; TMDB ['Irwin Allen']
+- **s19 The Office**
+  - Episodi per stagione: Nostro [6, 22, 25, 14, 28, 26, 26, 24, 25]; TMDB [6, 22, 23, 14, 26, 24, 24, 24, 23]
+  - Episodi totali: Nostro 196; TMDB 186, IMDb 191
+- **s20 Happy Days**
+  - Coerenza: Completata ma visti 255/247
+  - Episodi per stagione: Nostro [16, 23, 23, 23, 27, 27, 25, 22, 22, 22, 17]; TMDB [16, 23, 23, 24, 26, 27, 25, 22, 22, 22, 22]
+  - Episodi totali: Nostro 247; TMDB 252, IMDb 255
+- **s21 I Robinson**
+  - Coerenza: Completata ma visti 197/201
+  - Episodi per stagione: Nostro [24, 25, 25, 24, 26, 26, 26, 25]; TMDB [24, 25, 25, 23, 25, 26, 25, 24]
+  - Creatori: Nostri ['Matt Groening']; TMDB ['Bill Cosby', 'Michael J. Leeson', 'Ed. Weinberger']
+  - Episodi totali: Nostro 201; TMDB 197, IMDb 197
+- **s22 Vis a Vis**
+  - Anno fine: Nostro 2020; TMDB 2019 (serie Ended)
+  - Episodi per stagione: Nostro [11, 13, 8, 8, 8]; TMDB [11, 13, 8, 8]
+  - Possibile id/omonimo sbagliato: La copertina assomiglia di più a Dream Productions (2024, id 255868, dist 20) che a id 62455 Vis a vis - Il prezzo del riscatto (2015, dist 24)
+- **s27 Elite**
+  - Cast: Non nel cast TMDB: ['María Pedraza', 'Miguel Herrán']; TMDB top: ['Omar Ayuso', 'Itzan Escamilla', 'Valentina Zenere', 'André Lamoglia', 'Miguel Bernardeau', 'Arón Piper', 'Georgina Amorós', 'Claudia Salas']
+- **s28 Rick and Morty**
+  - Episodi per stagione: Nostro [11, 10, 10, 10, 10, 10, 10, 10]; TMDB [11, 10, 10, 10, 10, 10, 10, 10, 10] (serie in corso)
+  - Cast: Non nel cast TMDB: ['Lil Pump', 'Dana Carvey', 'John Oliver', 'Werner Herzog', 'Stephen Colbert', 'Nathan Fillion']; TMDB top: ['Chris Parnell', 'Spencer Grammer', 'Sarah Chalke', 'Justin Roiland', 'Kari Wahlgren', 'Tom Kenny', 'Ryan Ridley', 'Dan Harmon']
+  - Episodi totali: Nostro 81; TMDB 91, IMDb 94
+- **s29 Lucifer**
+  - Episodi per stagione: Nostro [13, 18, 24, 10, 16, 10]; TMDB [13, 18, 26, 10, 16, 10]
+  - Cast: Non nel cast TMDB: ['Jon Sklaroff']; TMDB top: ['Tom Ellis', 'Lauren German', 'Kevin Alejandro', 'D. B. Woodside', 'Lesley-Ann Brandt', 'Rachael Harris', 'Aimee Garcia', 'Scarlett Estevez']
+  - Episodi totali: Nostro 91; TMDB 93, IMDb 93
+- **s31 How I Met Your Mother**
+  - Episodi per stagione: Nostro [22, 22, 20, 24, 24, 24, 23, 23, 23]; TMDB [22, 22, 20, 24, 24, 24, 24, 24, 24]
+  - Cast: Non nel cast TMDB: ['Abby Elliott']; TMDB top: ['Josh Radnor', 'Neil Patrick Harris', 'Jason Segel', 'Alyson Hannigan', 'Cobie Smulders', 'Lyndsy Fonseca', 'David Henrie', 'Cristin Milioti']
+  - Episodi totali: Nostro 205; TMDB 208, IMDb 208
+- **s32 The Walking Dead**
+  - Cast: Non nel cast TMDB: ['Jon Bernthal', 'Jeffrey DeMunn']; TMDB top: ['Norman Reedus', 'Melissa McBride', 'Lauren Cohan', 'Danai Gurira', 'Andrew Lincoln', 'Christian Serratos', 'Josh McDermitt', 'Chandler Riggs']
+- **s36 Mad Men**
+  - Episodi per stagione: Nostro [13, 13, 13, 13, 12, 12, 14]; TMDB [13, 13, 13, 13, 13, 13, 14]
+  - Episodi totali: Nostro 90; TMDB 92, IMDb 92
+- **s39 Suits**
+  - Cast: Non nel cast TMDB: ['Laura Allen']; TMDB top: ['Gabriel Macht', 'Rick Hoffman', 'Sarah Rafferty', 'Patrick J. Adams', 'Meghan, Duchess of Sussex', 'Gina Torres', 'Amanda Schull', 'Wendell Pierce']
+- **s42 Barry**
+  - Cast: Non nel cast TMDB: ['Nicholas Sean Johnny', 'Tyler Jacob Moore']; TMDB top: ['Bill Hader', 'Sarah Goldberg', 'Anthony Carrigan', 'Henry Winkler', 'Stephen Root', "D'Arcy Carden", 'Michael Irby', 'Darrell Britt-Gibson']
+- **s45 Vikings**
+  - Cast: Non nel cast TMDB: ['Gabriel Byrne']; TMDB top: ['Katheryn Winnick', 'Gustaf Skarsgård', 'Alexander Ludwig', 'Georgia Hirst', 'Peter Franzén', 'Alex Høgh Andersen', 'Jordan Patrick Smith', 'Clive Standen']
+- **s46 The Good Place**
+  - Cast: Non nel cast TMDB: ['Emily Arlook', 'Jill Remez', 'Paulina Lule', 'Hayden Szeto', 'George Basil']; TMDB top: ['Kristen Bell', 'Ted Danson', 'William Jackson Harper', 'Jameela Jamil', 'Manny Jacinto', "D'Arcy Carden", 'Marc Evan Jackson', 'Tiya Sircar']
+- **s49 Manhunt**
+  - Creatori: Nostri ['Andrew Zinnes', 'David Coggeshall']; TMDB ['Andrew Sodroski', 'Jim Clemente', 'Tony Gittelson']
+  - Cast: Non nel cast TMDB: ['Trieste Kelly Dunn', 'Mike Pniewski']; TMDB top: ['Gethin Anthony', 'Arliss Howard', 'Kelly Jenrette', 'Cameron Britton', 'Sam Worthington', 'Ness Bautista', 'Jeremy Bobb', 'Ben Weber']
+- **s51 Gli anelli del potere**
+  - Episodi per stagione: Nostro [8, 8]; TMDB [8, 8, 8] (serie in corso)
+  - Episodi totali: Nostro 16; TMDB 24, IMDb 25
+- **s52 The Last of Us**
+  - Cast: Non nel cast TMDB: ['Jerry Wasserman']; TMDB top: ['Bella Ramsey', 'Pedro Pascal', 'Gabriel Luna', 'Isabela Merced', 'Young Mazino', 'Rutina Wesley', 'Samuel Hoeksema', 'Danny Ramirez']
+- **s54 Invincible**
+  - Episodi per stagione: Nostro [8, 8, 8, 8]; TMDB [8, 8, 8, 8, 0] (serie in corso)
+  - Cast: Non nel cast TMDB: ['Jon Hamm', 'Mahershala Ali', 'Max Burkholder', 'Lauren Cohan', 'Micah Aliling', 'Scoot McNairy']; TMDB top: ['Steven Yeun', 'Sandra Oh', 'J.K. Simmons', 'Gillian Jacobs', 'Walton Goggins', 'Grey DeLisle', 'Chris Diamantopoulos', 'Ross Marquand']
+- **s57 House of the Dragon**
+  - Episodi per stagione: Nostro [10, 8]; TMDB [10, 8, 8] (serie in corso)
+  - Episodi totali: Nostro 18; TMDB 26, IMDb 27
+- **s58 Fringe**
+  - Episodi per stagione: Nostro [20, 22, 22, 22, 13]; TMDB [20, 23, 22, 22, 13]
+  - Cast: Non nel cast TMDB: ['David Caruso', 'Emily Procter', 'Eddie Cibrian', 'Omar Benson Miller', 'Rory Cochrane', 'Jonathan Togo', 'Adam Rodriguez', 'Khandi Alexander', 'Sofia Milos', 'Rex Linn', 'Eva LaRue', 'Josh Hopkins']; TMDB top: ['Anna Torv', 'Joshua Jackson', 'Jasika Nicole', 'John Noble', 'Lance Reddick', 'Blair Brown', 'Leonard Nimoy', 'Seth Gabel']
+  - Episodi totali: Nostro 99; TMDB 100, IMDb 100
+- **s59 Doctor Who**
+  - Anno fine: Nostro 2022; TMDB 2021 (serie Ended)
+- **s62 Mindhunter**
+  - Cast: Non nel cast TMDB: ['David H. Holmes', 'Julia Crockett', 'Jordan Gelber', "Thomas Philip O'Neill", 'Lee Sellars']; TMDB top: ['Jonathan Groff', 'Holt McCallany', 'Anna Torv', 'Sonny Valicenti', 'Stacey Roca', 'Cotter Smith', 'Hannah Gross', 'Joe Tuttle']
+- **s63 The Pitt**
+  - Episodi per stagione: Nostro [15, 15]; TMDB [15, 15, 0] (serie in corso)
+- **s64 Black Mirror**
+  - Episodi per stagione: Nostro [3, 3, 6, 6, 3, 5, 6]; TMDB [3, 4, 6, 6, 3, 5, 6] (serie in corso)
+  - Episodi totali: Nostro 32; TMDB 33, IMDb 34
+- **s67 Boardwalk Empire**
+  - Cast: Non nel cast TMDB: ['Mark Harmon', 'Sean Murray', 'Michael Weatherly', 'Wilmer Valderrama', 'Katrina Law', 'Cote De Pablo', 'Brian Dietzen', 'Sasha Alexander', 'David McCallum', 'Pauley Perrette', 'Emily Wickersham', 'Lauren Holly']; TMDB top: ['Steve Buscemi', 'Kelly Macdonald', 'Michael Shannon', 'Shea Whigham', 'Stephen Graham', 'Vincent Piazza', 'Michael Kenneth Williams', 'Paul Sparks']
+- **s68 Gotham**
+  - Cast: Non nel cast TMDB: ['Victoria Cartagena']; TMDB top: ['Ben McKenzie', 'Donal Logue', 'David Mazouz', 'Sean Pertwee', 'Robin Lord Taylor', 'Erin Richards', 'Camren Bicondova', 'Cory Michael Smith']
+- **s69 Sons of Anarchy**
+  - Cast: Non nel cast TMDB: ['Rupert Degas', 'Lorraine Pilkington', 'Mark DeCarlo', 'Charlie Schlatter', 'Tara Strong', '伊川東吾', 'Megan Cavanagh']; TMDB top: ['Charlie Hunnam', 'Katey Sagal', 'Tommy Flanagan', 'Mark Boone Junior', 'Kim Coates', 'Theo Rossi', 'Dayton Callie', 'Ron Perlman']
+- **s70 Oz**
+  - Cast: Non nel cast TMDB: ['Ryan Ryno Templeton']; TMDB top: ['Lee Tergesen', 'Harold Perrineau', 'Dean Winters', 'Eamonn Walker', 'Ernie Hudson', 'Terry Kinney', 'Rita Moreno', 'J.K. Simmons']
+- **s71 The End of the F***ing World**
+  - Creatori: Nostri ['Charlie Covell']; TMDB ['Jonathan Entwistle']
+- **s75 The Night Of**
+  - Cast: Non nel cast TMDB: ['Carter Hudson', 'Eleasha Gamble', 'Racquel Palmer', 'Chris Perfetti']; TMDB top: ['Riz Ahmed', 'John Turturro', 'Bill Camp', 'Jeannie Berlin', 'Poorna Jagannathan', 'Amara Karan', 'Syam M. Lafi', 'Paul Sparks']
+- **s76 Six Feet Under**
+  - Cast: Non nel cast TMDB: ['Nicholas Burns', 'Julian Barratt', 'Claire Keelan', 'Richard Ayoade', 'Spencer Brown', 'Benedict Cumberbatch', 'Julia Davis', 'Stephen Mangan', 'Peter Sullivan', 'Ramon Tikaram', 'Mathew Horne', 'Montserrat Lombard']; TMDB top: ['Peter Krause', 'Michael C. Hall', 'Frances Conroy', 'Lauren Ambrose', 'Freddy Rodríguez', 'Mathew St. Patrick', 'Rachel Griffiths', 'Justina Machado']
+- **s77 Severance**
+  - Episodi per stagione: Nostro [9, 10]; TMDB [9, 10, 0] (serie in corso)
+  - Cast: Non nel cast TMDB: ['Jeff McCarthy']; TMDB top: ['Adam Scott', 'Britt Lower', 'Tramell Tillman', 'Zach Cherry', 'Patricia Arquette', 'Jen Tullock', 'Dichen Lachman', 'John Turturro']
+- **s78 Banshee**
+  - Cast: Non nel cast TMDB: ['James Purefoy', 'Dervla Kirwan', 'Nathaniel Parker', 'Sasha Behar', 'Charlie Creed-Miles', 'Obi Abili', 'Lisa Diveney', 'Stephen Hagan', 'Elijah Baker', 'Ivan Kaye', 'Ivanno Jeremiah', 'Clifford Barry']; TMDB top: ['Antony Starr', 'Ivana Miličević', 'Hoon Lee', 'Frankie Faison', 'Ulrich Thomsen', 'Matt Servitto', 'Lili Simmons', 'Ryann Shane']
+- **s79 Silo**
+  - Episodi per stagione: Nostro [10, 10]; TMDB [10, 10, 10, 1] (serie in corso)
+  - Episodi totali: Nostro 20; TMDB 31, IMDb 40
+- **s80 The OA**
+  - Cast: Non nel cast TMDB: ['Anson Mount', 'Serinda Swan', 'Iwan Rheon', 'Isabelle Cornish', 'Ken Leung', 'Eme Ikwuakor', 'Sonya Balmores', 'Ellen Woglom', 'Henry Ian Cusick', 'Aidan Fiske', 'Bridger Zadina', 'Garret Sato']; TMDB top: ['Brit Marling', 'Jason Isaacs', 'Emory Cohen', 'Phyllis Smith', 'Patrick Gibson', 'Brendan Meyer', 'Brandon Perea', 'Will Brill']
+- **s81 Daredevil**
+  - Cast: Non nel cast TMDB: ['Nikolai Nikolaeff', 'Gideon Emery', 'Kevin Nagle', 'Wendy Moniz', 'Adriane Lenox', 'Alex Falberg']; TMDB top: ['Charlie Cox', 'Deborah Ann Woll', 'Elden Henson', "Vincent D'Onofrio", 'Royce Johnson', 'Geoffrey Cantor', 'Jon Bernthal', 'Jay Ali']
+- **s82 Deadwood**
+  - Cast: Non nel cast TMDB: ['Reece Dinsdale', 'Elizabeth Bennett', 'Clare Clifford', 'Frank Mills', 'Sheila Hancock', 'Charles Kay', 'Erika Hoffman', 'Ken Campbell', 'Susan Jameson', 'Reginald Marsh', 'Hugh Walters']; TMDB top: ['Timothy Olyphant', 'Ian McShane', 'Molly Parker', 'Jim Beaver', 'W. Earl Brown', 'Dayton Callie', 'Brad Dourif', 'John Hawkes']
+  - Personaggio/attore: ["John Thaw: 'Henry Willows' vs ['Sol Star']"]
+- **s83 The Shield**
+  - Cast: Non nel cast TMDB: ['Ivan Sergei', 'Amanda Peet', 'Justin Kirk', 'Sarah Paulson', 'Jaime Pressly', 'Simon Rex', 'Bill Macy', 'Chad Willett', 'Elisa Donovan', 'Clayton Rohner', 'Kathryn Harrold', 'Lindsay Price']; TMDB top: ['Michael Chiklis', 'Catherine Dent', 'Walton Goggins', 'Michael Jace', 'Jay Karnes', 'Benito Martinez', 'CCH Pounder', 'Cathy Cahlin Ryan']
+- **s84 Utopia**
+  - Creatori: Nostri ['Gillian Flynn']; TMDB ['Dennis Kelly']
+- **s85 Atlanta**
+  - Cast: Non nel cast TMDB: ['Will Forte', 'Kristen Schaal', 'January Jones', 'Cleopatra Coleman', 'Mel Rodriguez', 'Mary Steenburgen', 'Boris Kodjoe', 'Kenneth Choi', 'Leighton Meester', 'Alexandra Daddario', 'Fred Armisen']; TMDB top: ['Donald Glover', 'Brian Tyree Henry', 'LaKeith Stanfield', 'Zazie Beetz', 'Khris Davis', 'Katt Williams', 'Diane Sellers', 'Rick Holmes']
+  - Personaggio/attore: ["Keith L. Williams: 'Jasper' vs ['Uncle Willy']"]
+- **s88 Lupin**
+  - Episodi per stagione: Nostro [5, 5, 7]; TMDB [10, 7, 8] (serie in corso)
+  - Cast: Non nel cast TMDB: ['Kamel Guenfoud', 'Grégoire Colin', 'Arthur Choisnet', 'Saïd Benchnafa', 'Mohamed Nouar', 'Ary Gabison', 'Xavier Gojo', 'Linda Massoz', 'Karim Lasmi', 'François Créton', 'Laurent Maurel']; TMDB top: ['Omar Sy', 'Ludivine Sagnier', 'Soufiane Guerrab', 'Shirine Boutella', 'Etan Simon', 'Antoine Gouy', 'Mamadou Haïdara', 'Hervé Pierre']
+  - Episodi totali: Nostro 17; TMDB 25, IMDb 25
+- **s89 The Last Kingdom**
+  - Creatori: Nostri ['Jack Bender', 'Michele Fazekas', 'Tara Butters']; TMDB ['Stephen Butchard']
+  - Cast: Non nel cast TMDB: ['찬열', '문가영', '도경수', '백현', '세훈', '장유상', '전수진', '김희정', '윤주상', '카이', '수호', '张艺兴']; TMDB top: ['Alexander Dreymon', 'Eliza Butterworth', 'Arnas Fedaravičius', 'Mark Rowley', 'Emily Cox', 'James Northcote', 'Millie Brady', 'Timothy Innes']
+- **s91 The Sopranos**
+  - Cast: Non nel cast TMDB: ['Victor Spinetti', 'Roy Kinnear', 'Melvyn Hayes', 'Sheila Steafel', 'Jon Pertwee', 'Myfanwy Talog', 'Derek Griffiths', 'Christopher Plummer', 'Peter Hawkins', 'Mel Blanc']; TMDB top: ['James Gandolfini', 'Edie Falco', 'Jamie-Lynn Sigler', 'Robert Iler', 'Lorraine Bracco', 'Michael Imperioli', 'Steven Van Zandt', 'Tony Sirico']
+- **s93 24**
+  - Anno fine: Nostro 2010; TMDB 2014 (serie Ended)
+  - Episodi per stagione: Nostro [24, 24, 24, 24, 24, 24, 24, 24]; TMDB [24, 24, 24, 24, 24, 24, 24, 24, 12]
+  - Cast: Non nel cast TMDB: ['Yvonne Strahovski', 'Tate Donovan', 'John Terry']; TMDB top: ['Kiefer Sutherland', 'Mary Lynn Rajskub', 'Carlos Bernard', 'Dennis Haysbert', 'Elisha Cuthbert', 'Sarah Clarke', 'Kim Raver', 'James Morrison']
+- **s94 Brooklyn 99**
+  - Episodi per stagione: Nostro [22, 23, 23, 21, 22, 18, 13, 9]; TMDB [22, 23, 23, 22, 22, 18, 13, 9]
+  - Cast: Non nel cast TMDB: ['Adam Sandler', 'Joe Theismann', 'Anthony Azizi']; TMDB top: ['Andy Samberg', 'Melissa Fumero', 'Terry Crews', 'Joe Lo Truglio', 'Stephanie Beatriz', 'Andre Braugher', 'Dirk Blocker', 'Joel McKinnon Miller']
+  - Episodi totali: Nostro 151; TMDB 152, IMDb 153
+- **s95 12 Monkeys**
+  - Cast: Non nel cast TMDB: ['Wolfgang Kieling', 'Andrea Rau', 'Gernot Endemann', 'Karlheinz Lemken', 'Horst Hesslein', 'Paul Edwin Roth', 'Ferdinand Dux', 'Michael Gempart', 'Herbert Fleischmann', 'Gert Schaefer', 'Gerhard Olschewski', 'Rudolf Beiswanger']; TMDB top: ['Aaron Stanford', 'Amanda Schull', 'Barbara Sukowa', 'Emily Hampshire', 'Todd Stashwick', 'Andrew Gillies', 'Kirk Acevedo', 'Alisen Richmond-Peck']
+- **s100 The Americans**
+  - Cast: Non nel cast TMDB: ['Charlie Hunnam', 'Johnny Lewis', 'Katey Sagal', 'Ron Perlman', 'Tommy Flanagan', 'Mark Boone Junior', 'Ryan Hurst', 'Kim Coates', 'Maggie Siff', 'Theo Rossi', 'Dayton Callie', 'David Labrava']; TMDB top: ['Keri Russell', 'Matthew Rhys', 'Holly Taylor', 'Keidrich Sellati', 'Noah Emmerich', 'Costa Ronin', 'Lev Gorn', 'Alison Wright']
+- **s102 Fallout**
+  - Episodi per stagione: Nostro [8]; TMDB [8, 8] (serie in corso)
+  - Cast: Non nel cast TMDB: ['Sam Elliott', 'Tim McGraw', 'Faith Hill', 'Isabel May', 'LaMonica Garrett', 'Marc Rissmann', 'Audie Rick', 'James Landry Hébert', 'Dan Pfau', 'Dean Gosdin', 'Natalie Dickinson', 'Kamen Casey']; TMDB top: ['Ella Purnell', 'Aaron Moten', 'Moisés Arias', 'Walton Goggins', 'Frances Turner', 'Kyle MacLachlan', 'Dave Register', 'Leslie Uggams']
+  - Episodi totali: Nostro 8; TMDB 16, IMDb 17
+- **s103 Limitless**
+  - Generi: Nostri ['Crimine', 'Fantascienza', 'Thriller']; TMDB ['Dramma', 'Commedia', 'Azione']
+- **s104 Hannibal**
+  - Cast: Non nel cast TMDB: ['Lance Henriksen', 'Tom Wisdom']; TMDB top: ['Mads Mikkelsen', 'Hugh Dancy', 'Laurence Fishburne', 'Caroline Dhavernas', 'Aaron Abrams', 'Scott Thompson', 'Gillian Anderson', 'Kacey Rohl']
+- **s105 BoJack Horseman**
+  - Cast: Non nel cast TMDB: ['Jon Daly', 'Fred Tatasciore', 'Judy Greer', 'Minae Noji']; TMDB top: ['Will Arnett', 'Aaron Paul', 'Alison Brie', 'Amy Sedaris', 'Paul F. Tompkins', 'Adam Conover', 'Keith Olbermann', 'Patton Oswalt']
+- **s106 Gravity Falls**
+  - Episodi per stagione: Nostro [20, 22]; TMDB [20, 20]
+  - Episodi totali: Nostro 42; TMDB 40, IMDb 41
+- **s107 Avatar: The Last Airbender**
+  - Cast: Non nel cast TMDB: ['Jodi Carlisle']; TMDB top: ['Zach Tyler Eisen', 'Mae Whitman', 'Jack De Sena', 'Dante Basco', 'Dee Bradley Baker', 'Michaela Jill Murphy', 'Mako', 'Cricket Leigh']
+- **s108 Over the Garden Wall**
+  - Cast: Non nel cast TMDB: ['Baz Ashmawy', 'Nancy Ashmawy']; TMDB top: ['Elijah Wood', 'Collin Dean', 'Melanie Lynskey', 'Samuel Ramey', 'Christopher Lloyd', 'Jack Jones', 'John Cleese', 'Sam Marin']
+- **s109 Eteros Ego**
+  - Id sospetto: 2 indizi concordi: l'id TMDB assegnato (90621) potrebbe riferirsi a un altro titolo/omonimo
+  - Titolo: 'Eteros Ego' ≠ 'Έτερος Εγώ'/'Έτερος Εγώ'
+  - Generi: Nostri ['Commedia', 'Romance']; TMDB ['Mistero', 'Crimine']
+  - Cast: Non nel cast TMDB: ['Μαριάννα Τουμασάτου']; TMDB top: ['Samuel Akinola', 'Kris Radanov', 'Polydoros Vogiatzis']
+- **s111 Aspirants**
+  - Creatori: Nostri ['Apoorv Singh Karki']; TMDB ['Arunabh Kumar', 'Shreyansh Pandey', 'Deepesh Sumitra Jagdish']
+- **s113 Persona**
+  - Anno inizio: Nostro 2018; TMDB 2019
+  - Episodi per stagione: Nostro [4, 5]; TMDB [4] (serie in corso)
+  - Episodi totali: Nostro 9; TMDB 4, IMDb 4
+- **s114 Twin Peaks**
+  - Cast: Non nel cast TMDB: ['Candy Clark']; TMDB top: ['Kyle MacLachlan', 'Michael Horse', 'Harry Goaz', 'Kimmy Robertson', 'Dana Ashbrook', 'Richard Beymer', 'Mädchen Amick', 'Peggy Lipton']
+- **s117 Black Sails**
+  - Cast: Non nel cast TMDB: ['Mai Nakahara', '近藤孝行', 'Mamiko Noto', '皆川純子', 'Aya Hisakawa', '清水香里', 'Akeno Watanabe', 'かかずゆみ', 'Nobuyuki Hiyama', '山口太郎', '小谷津央典', '堀川仁']; TMDB top: ['Toby Stephens', 'Luke Arnold', 'Hannah New', 'Jessica Parker Kennedy', 'Toby Schmitz', 'Tom Hopper', 'Clara Paget', 'Zach McGowan']
+- **s118 The Queen's Gambit**
+  - Cast: Non nel cast TMDB: ["Jonjo O'Neill", 'Madeline Holliday', 'Jenny Galloway', 'Steffen Mennekes', 'Johannes Franke']; TMDB top: ['Anya Taylor-Joy', 'Chloe Pirrie', 'Marcin Dorociński', 'Matthew Dennis Lewis', 'Russell Dennis Lewis', 'Dolores Carbonari', 'Janina Elkin', 'Harry Melling']
+- **s119 When They See Us**
+  - Cast: Non nel cast TMDB: ['Josh Brener', 'Mary Elizabeth Winstead', 'Topher Grace', 'Helen Sadler', 'Hayley McLaughlin', 'Omid Abtahi', 'Christine Adams', 'Hakeem Kae-Kazim', 'Anastasia Foster', 'Neil Kaplan', 'G.K. Bowes', 'Courtenay Taylor']; TMDB top: ['Asante Blackk', 'Jharrel Jerome', 'Ethan Herisse', 'Marquis Rodriguez', 'Caleel Harris', 'Marsha Stephanie Blake', 'Michael Kenneth Williams', 'John Leguizamo']
+- **s126 The Mandalorian**
+  - Cast: Non nel cast TMDB: ['John Beasley', 'Dmitrious Bistrevsky', 'Brian Posehn', 'Ryan Watson', 'Julia Jones', 'Isla Farris', 'Eugene Cordero', 'Aydrea Walden']; TMDB top: ['Pedro Pascal', 'Katee Sackhoff', 'Misty Rosas', 'Chris Bartlett', 'Carl Weathers', 'Emily Swallow', 'Brendan Wayne', 'Giancarlo Esposito']
+- **s127 Star Wars: The Clone Wars**
+  - Cast: Non nel cast TMDB: ['David Tennant', 'Liam Neeson', 'Tom Kenny', 'George Takei']; TMDB top: ['Tom Kane', 'Matt Lanter', 'James Arnold Taylor', 'Dee Bradley Baker', 'Ashley Eckstein', 'Matthew Wood', "Terrence 'T.C.' Carson", 'Ian Abercrombie']
+
+## 4. ANIME
+
+- **a1 Attack on Titan**
+  - Coerenza: Somma episodi stagioni 89 ≠ totale 94
+- **a5 Your Name**
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 29): verificare a vista
+- **a33 Blue Lock**
+  - Studio: Nostri ['Eightbit']; AniList ['8-bit']
+- **a41 One Punch Man**
+  - Coerenza: Completato ma visti 24/36
+  - Numero stagioni: Nostre 3 stagioni TV; AniList 4: [(2015, 12), (2019, 12), (2025, 12), (2027, None)]
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 28): verificare a vista
+  - Foto personaggio mancante: Senza foto: ['Garou']
+- **a57 Sakamoto desu ga**
+  - Foto personaggio mancante: Senza foto: ['Sakamoto']
+- **a81 Ao no Hako**
+  - Studio: Nostri ['TMS Entertainment']; AniList ['Electric Circus']
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 33): verificare a vista
+- **a89 Bungou Stray Dogs**
+  - Episodi/stagioni: Nostre stagioni TV: [(2016, 12), (2016, 12), (2019, 12), (2023, 11), (2023, 11)] (tot 58); AniList catena TV: [(2016, 12), (2016, 12), (2019, 12), (2023, 13), (2023, 11)] (tot 60)
+- **a93 Claymore**
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 29): verificare a vista
+- **a97 Devilman: Crybaby**
+  - Durata: Nostro 30; AniList 25
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 29): verificare a vista
+- **a101 Fate/Zero**
+  - Episodi/stagioni: Nostre stagioni TV: [(2011, 13), (2012, 12)] (tot 25); AniList catena TV: [(2006, 24), (2011, 13), (2012, 12), (2014, 13), (2015, 13)] (tot 75)
+- **a105 Ginga Eiyuu Densetsu**
+  - Studio: Nostri ['Artland']; AniList ['Production I.G']
+- **a125 Komi-san**
+  - Foto personaggio sbagliata: Makeru Yamai (foto di AniList id 130874, personaggio id 130871)
+- **a128 Kusuriya no Hitorigoto**
+  - Episodi/stagioni: Nostre stagioni TV: [(2023, 24), (2024, 24)] (tot 48); AniList catena TV: [(2023, 24), (2025, 24), (2026, 12), (2027, 12)] (tot 72)
+- **a136 Nanatsu no Taizai**
+  - Episodi/stagioni: Nostre stagioni TV: [(2014, 24), (2018, 24), (2019, 24), (2021, 24), (2023, 24), (2024, 12)] (tot 132); AniList catena TV: [(2014, 24), (2016, 4), (2018, 24), (2019, 24), (2021, 24), (2023, 24), (2024, 12)] (tot 136)
+- **a140 Perfect Blue**
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 34): verificare a vista
+- **a152 Sousou no Frieren**
+  - Numero stagioni: Nostre 2 stagioni TV; AniList 3: [(2023, 28), (2026, 10), (2027, None)]
+- **a156 Trigun**
+  - Episodi/stagioni: Nostre stagioni TV: [(1998, 26), (2023, 12), (2026, 12)] (tot 50); AniList catena TV: [(1998, 26)] (tot 26)
+- **a172 Sword Art Online**
+  - Foto personaggio mancante: Senza foto: ['Eugeo']
+- **a2 One Piece**
+  - Coerenza: Completato ma visti 1100/1172
+  - Episodi/stagioni: Nostre stagioni TV: [(1999, 61), (2001, 8), (2001, 8), (2001, 14), (2001, 44), (2003, 17), (2003, 54), (2004, 57), (2006, 62), (2008, 59), (2008, 23), (2009, 14), (2009, 35), (2010, 60), (2011, 58), (2013, 54), (2014, 118), (2016, 36), (2017, 95), (2019, 12), (2019, 196), (2024, 70), (2026, 17)] (tot 1172); AniList catena TV: [(1999, None), (2024, 1)] (tot 1)
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 28): verificare a vista
+- **a6 Jujutsu Kaisen**
+  - Coerenza: Completato ma visti 47/59
+  - Foto personaggio mancante: Senza foto: ['Yuta Okkotsu']
+- **a10 Horimiya**
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 27): verificare a vista
+  - Foto personaggio sbagliata: Sota Hori (foto di AniList id 66171, personaggio id 66969)
+- **a14 Fullmetal Alchemist Brotherhood**
+  - Foto personaggio mancante: Senza foto: ['Father']
+- **a18 Chainsaw Man**
+  - Foto personaggio mancante: Senza foto: ['Reze']
+- **a22 Naruto**
+  - Episodi/stagioni: Nostre stagioni TV: [(2002, 220), (2007, 500)] (tot 720); AniList catena TV: [(2002, 220), (2007, 500), (2017, 293), (None, None)] (tot 1013)
+  - Foto personaggio sbagliata: Obito Uchiha (foto di AniList id 13, personaggio id 21122)
+- **a30 Tokyo Revengers**
+  - Coerenza: Completato ma visti 37/50
+  - Episodi/stagioni: Nostre stagioni TV: [(2021, 24), (2023, 13), (2023, 13)] (tot 50); AniList catena TV: [(2021, 24), (2023, 13), (2023, 13), (2026, 13)] (tot 63)
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 27): verificare a vista
+  - Foto personaggio mancante: Senza foto: ['Manjiro Sano (Mikey)', 'Ken Ryuguji (Draken)']
+- **a34 Terror in Resonance**
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 30): verificare a vista
+  - Foto personaggio mancante: Senza foto: ['Shibazaki']
+- **a38 Tomodachi Game**
+  - Studio: Nostri ['LIDENFILMS']; AniList ['Okuruto Noboru']
+- **a42 My Hero Academia**
+  - Coerenza: Completato ma visti 138/171
+- **a46 Demon Slayer**
+  - Coerenza: Completato ma visti 55/64
+- **a50 Mob Psycho 100**
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 28): verificare a vista
+- **a58 Inuyashiki**
+  - Foto personaggio mancante: Senza foto: ['Ichiro Inuyashiki', 'Hiro Shishigami', 'Shion Watanabe', 'Andou']
+- **a70 Nanbaka**
+  - Creatori: Nostri ['Yokkaichi']; AniList staff ['Shou Futamata', 'Shinji Takamatsu', 'Mitsutaka Hirota', 'Takayuki Noguchi', 'Tomokazu Seki', 'Tetsuya Kakihara']
+  - Episodi/stagioni: Nostre stagioni TV: [(2016, 13), (2017, 13)] (tot 26); AniList catena TV: [(2016, 13), (2017, 12)] (tot 25)
+- **a74 Yu-Gi-Oh ZEXAL**
+  - Studio: Nostri ['Gallop']; AniList ['Studio Gallop']
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 28): verificare a vista
+  - Foto personaggio mancante: Senza foto: ['Dr. Faker']
+- **a86 Black Clover**
+  - Studio: Nostri ['Pierrot']; AniList ['Studio Pierrot']
+  - Foto personaggio mancante: Senza foto: ['Klaus Lunettes']
+- **a90 5 Centimeters Per Second**
+  - Episodi: Nostro 1; AniList 3
+  - Durata: Nostro 63; AniList 22
+- **a98 Edens Zero**
+  - Foto personaggio mancante: Senza foto: ['Pino']
+- **a102 Fruits Basket**
+  - Anno: Nostro prima stagione 2019; AniList 2001
+  - Studio: Nostri ['TMS Entertainment']; AniList ['Studio DEEN']
+  - Episodi/stagioni: Nostre stagioni TV: [(2019, 25), (2020, 25), (2021, 13)] (tot 63); AniList catena TV: [(2001, 26)] (tot 26)
+  - Foto personaggio sbagliata: Yuki Sohma (foto di AniList id 209, personaggio id 208); Shigure Sohma (foto di AniList id 209, personaggio id 206); Kagura Sohma (foto di AniList id 209, personaggio id 366); Hatsuharu Sohma (foto di AniList id 209, personaggio id 369); Momiji Sohma (foto di AniList id 209, personaggio id 367); Hatori Sohma (foto di AniList id 209, personaggio id 368)
+- **a106 Gintama**
+  - Foto personaggio sbagliata: Otae Shimura (foto di AniList id 673, personaggio id 2944)
+- **a118 Inazuma Eleven**
+  - Creatori: Nostri ['Level-5']; AniList staff ['Akihiro Hino', 'Takuzou Nagano', 'Katsuhito Akiyama', 'Atsuhiro Tomioka', 'Yuuji Ikeda', 'Masafumi Mima']
+  - Foto personaggio mancante: Senza foto: ['Ryugo Someoka']
+- **a122 Katekyou Hitman Reborn!**
+  - Foto personaggio sbagliata: Kyoko Sasagawa (foto di AniList id 1861, personaggio id 1857)
+  - Foto personaggio mancante: Senza foto: ['Basil']
+- **a126 Ghost in the Shell**
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 30): verificare a vista
+- **a133 Mushishi**
+  - Numero stagioni: Nostre 2 stagioni TV; AniList 3: [(2005, 26), (2014, 10), (2014, 10)]
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 31): verificare a vista
+- **a145 Saiki Kusuo no Psi-nan**
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 30): verificare a vista
+- **a149 Shigatsu wa Kimi no Uso**
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 33): verificare a vista
+- **a161 Yahari Ore no Seishun Love Comedy**
+  - Anno: Nostro prima stagione 2013; AniList 2016
+- **a165 Kenpuu Denki Berserk**
+  - Foto personaggio mancante: Senza foto: ['Guts', 'Griffith', 'Casca', 'Judeau', 'Pippin', 'Corkus', 'Rickert']
+- **a169 Kaoru Hana wa Rin to Saku**
+  - Studio: Nostri ['Bibury Animation Studio']; AniList ['CloverWorks']
+- **a173 Fate/stay night: Unlimited Blade Works**
+  - Episodi/stagioni: Nostre stagioni TV: [(2014, 12), (2015, 13)] (tot 25); AniList catena TV: [(2006, 24), (2011, 13), (2012, 12), (2014, 13), (2015, 13)] (tot 75)
+- **a3 Hunter x Hunter**
+  - Studio: Nostri ['Madhouse']; AniList ['Nippon Animation']
+- **a7 Dr. Stone**
+  - Coerenza: Completato ma visti 53/95
+  - Foto personaggio mancante: Senza foto: ['Ukyo Saionji']
+- **a23 JoJo's Bizarre Adventure**
+  - Coerenza: Completato ma visti 190/191
+  - Episodi/stagioni: Nostre stagioni TV: [(2012, 26), (2014, 48), (2016, 39), (2018, 39), (2022, 38), (2026, 1)] (tot 191); AniList catena TV: [(2012, 26), (2014, 24), (2015, 24), (2016, 39), (2018, 39), (2021, 12), (2022, 26), (2026, 1), (2026, 11)] (tot 202)
+  - Foto personaggio mancante: Senza foto: ['Jotaro Kujo']
+- **a31 Kanata no Astra**
+  - Foto personaggio sbagliata: Yunhua Lu (foto di AniList id 157848, personaggio id 139436)
+- **a35 Spy x Family**
+  - Coerenza: Completato ma visti 37/50
+  - Stagione: 'Spy x Family Part 2': nostro 2022/12 ep; AniList 'SPY×FAMILY Part 2' 2022/13 ep
+  - Stagione: 'Spy x Family Season 2': nostro 2023/13 ep; AniList 'SPY×FAMILY Season 2' 2023/12 ep
+  - Foto personaggio sbagliata: Bond Forger (foto di AniList id 138102, personaggio id 138101)
+- **a39 Btooom!**
+  - Foto personaggio sbagliata: Himiko Kinoshita (foto di AniList id 52941, personaggio id 74431)
+- **a43 God Eater**
+  - Creatori: Nostri ['Bandai Namco']; AniList staff ['Takayuki Hirao', 'Kentarou Waki', 'Takayuki Hirao', 'Gou Shiina', 'OLDCODEX', 'Masato Nagamori']
+- **a47 Pluto**
+  - Durata: Nostro 45; AniList 60
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 34): verificare a vista
+  - Foto personaggio mancante: Senza foto: ['Brau1589']
+- **a59 Toradora**
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 27): verificare a vista
+  - Foto personaggio mancante: Senza foto: ['Ryuji Takasu', 'Taiga Aisaka', 'Minori Kushieda', 'Yusaku Kitamura', 'Ami Kawashima']
+- **a63 Charlotte**
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 28): verificare a vista
+  - Foto personaggio mancante: Senza foto: ['Jojiro Takajo']
+- **a67 Overlord**
+  - Coerenza: Completato ma visti 52/53
+- **a75 3-gatsu no Lion**
+  - Foto personaggio mancante: Senza foto: ['Kyoko Kubo']
+- **a79 Ao Ashi**
+  - Foto personaggio sbagliata: Kuroda Junnosuke (foto di AniList id 253947, personaggio id 280424)
+- **a83 Baccano!**
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 31): verificare a vista
+  - Foto personaggio mancante: Senza foto: ['Czeslaw Meyer']
+- **a87 Bleach**
+  - Episodi/stagioni: Nostre stagioni TV: [(2004, 366), (2022, 13), (2023, 13), (2024, 14), (2026, 3)] (tot 409); AniList catena TV: [(2004, 366), (2022, 13), (2023, 13), (2024, 14), (2026, 10)] (tot 416)
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 35): verificare a vista
+- **a91 Chi. Chikyuu no Undou ni Tsuite**
+  - Foto personaggio mancante: Senza foto: ['Yosaf']
+- **a99 Enen no Shouboutai**
+  - Stagione: 'Stagione 3 Parte 1': nostro 2023/12 ep; AniList 'Enen no Shouboutai: San no Shou' 2025/12 ep
+  - Stagione: 'Stagione 3 Parte 2': nostro 2023/13 ep; AniList 'Enen no Shouboutai: San no Shou Part 2' 2026/13 ep
+- **a103 Fumetsu no Anata e**
+  - Stagione: 'Stagione 3': nostro 2023/22 ep; AniList 'Fumetsu no Anata e Season 3' 2025/22 ep
+- **a123 Kingdom**
+  - Episodi/stagioni: Nostre stagioni TV: [(2012, 38), (2013, 39), (2020, 26), (2022, 27)] (tot 130); AniList catena TV: [(2012, 38), (2013, 39), (2020, 26), (2022, 26), (2024, 13), (2025, 13), (None, None)] (tot 155)
+  - Foto personaggio sbagliata: Wang Jian (foto di AniList id 65443, personaggio id 132056)
+- **a174 Innocence: Ghost in the Shell 2**
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 30): verificare a vista
+- **a130 Magi**
+  - Anno: Nostro prima stagione 2012; AniList 2005
+  - Creatori: Nostri ['Shinobu Ohtaka']; AniList staff ['Ken Akamatsu', 'Youta Tsuruoka', 'Shinkichi Mitsumune', 'Hiroaki Sakurai', 'Miku Ooshima', 'Yui Horie']
+  - Studio: Nostri ['A-1 Pictures', 'LAY-DUCE']; AniList ['Xebec']
+  - Episodi/stagioni: Nostre stagioni TV: [(2012, 25), (2013, 25), (2016, 13)] (tot 63); AniList catena TV: [(2005, 26), (2006, 26), (2017, 12)] (tot 64)
+- **a134 Mushoku Tensei**
+  - Episodi/stagioni: Nostre stagioni TV: [(2021, 11), (2021, 12), (2023, 12)] (tot 35); AniList catena TV: [(2021, 11), (2021, 12), (2023, 13), (2024, 12), (2026, 14), (2027, None)] (tot 62)
+- **a138 Oshi no Ko**
+  - Episodi/stagioni: Nostre stagioni TV: [(2023, 11), (2024, 12), (2026, 11)] (tot 34); AniList catena TV: [(2023, 11), (2024, 13), (2026, 11), (None, None)] (tot 35)
+- **a142 Psycho-Pass**
+  - Episodi/stagioni: Nostre stagioni TV: [(2012, 22), (2014, 11), (2019, 8)] (tot 41); AniList catena TV: [(2012, 22), (2014, 11), (2019, 8), (2020, 3)] (tot 44)
+- **a154 Tensei shitara Slime Datta Ken**
+  - Studio: Nostri ['Eight Bit']; AniList ['8-bit']
+  - Episodi/stagioni: Nostre stagioni TV: [(2018, 24), (2021, 12), (2021, 12), (2024, 12)] (tot 60); AniList catena TV: [(2018, 24), (2021, 12), (2021, 12), (2024, 24), (2026, 24), (2027, None)] (tot 96)
+  - Foto personaggio mancante: Senza foto: ['Hakuro']
+- **a162 Yuu☆Yuu☆Hakusho**
+  - Foto personaggio sbagliata: Toguro (foto di AniList id 7176, personaggio id 8716)
+- **a166 Usagi Drop**
+  - Foto personaggio mancante: Senza foto: ['Daikichi Kawachi', 'Rin Kaga']
+- **a170 Tongari Boushi no Atelier**
+  - Studio: Nostri ['Studio non ancora confermato']; AniList ['BUG FILMS']
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 29): verificare a vista
+- **a8 Vinland Saga**
+  - Foto personaggio sbagliata: Thors (foto di AniList id 13021, personaggio id 10138)
+  - Foto personaggio mancante: Senza foto: ['Einar']
+- **a16 Death Note**
+  - Foto personaggio sbagliata: L (foto di AniList id 71, personaggio id 36309); Soichiro Yagami (foto di AniList id 80, personaggio id 1927)
+- **a20 Cyberpunk: Edgerunners**
+  - Studio: Nostri ['Studio Trigger']; AniList ['TRIGGER']
+- **a24 Love is War**
+  - Coerenza: Completato ma visti 37/40
+  - Episodi/stagioni: Nostre stagioni TV: [(2019, 12), (2020, 12), (2022, 13)] (tot 37); AniList catena TV: [(2019, 12), (2020, 12), (2022, 13), (2023, 4)] (tot 41)
+- **a28 Classroom of the Elite**
+  - Coerenza: Completato ma visti 24/54
+  - Numero stagioni: Nostre 4 stagioni TV; AniList 5: [(2017, 12), (2022, 13), (2024, 13), (2026, 16), (None, None)]
+- **a32 Solo Leveling**
+  - Foto personaggio mancante: Senza foto: ['Sung Jinwoo', 'Go Gunhee', 'Woo Jinchul', 'Yoo Jinho', 'Baek Yoonho', 'Sung Jinah', 'Sung Il-Hwan']
+- **a36 Dororo**
+  - Foto personaggio mancante: Senza foto: ['Nui no Kata', 'Itachi']
+- **a48 Josee to Tora to Sakana-tachi**
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 33): verificare a vista
+- **a52 Anohana**
+  - Creatori: Nostri ['Mari Okada']; AniList staff ['Chouheiwa Busters', 'Tatsuyuki Nagai', 'Masayoshi Tanaka', 'Yukie Hiyamizu', 'Kaori Kuroki', 'Takayoshi Fukushima']
+- **a56 Howl's Moving Castle**
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 32): verificare a vista
+  - Foto personaggio mancante: Senza foto: ['Sophie Hatter', 'Howl', 'Calcifer', 'Markl', 'Madame Suliman']
+- **a64 Evangelion**
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 34): verificare a vista
+  - Foto personaggio sbagliata: Gendo Ikari (foto di AniList id 89, personaggio id 1257)
+- **a80 Ao no Exorcist**
+  - Numero stagioni: Nostre 4 stagioni TV; AniList 5: [(2011, 25), (2017, 12), (2024, 12), (2024, 12), (2025, 12)]
+- **a88 Boruto**
+  - Creatori: Nostri ['Masashi Kishimoto']; AniList staff ['Ukyou Kodachi', 'Mikio Ikemoto', 'Noriyuki Abe', 'Hiroyuki Yamashita', 'Toshirou Fujii', 'Masayuki Kouda']
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 31): verificare a vista
+  - Foto personaggio sbagliata: Shikadai Nara (foto di AniList id 2007, personaggio id 121442)
+  - Foto personaggio mancante: Senza foto: ['Konohamaru Sarutobi', 'Sumire Kakei', 'Delta', 'Jigen']
+- **a96 Dandadan**
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 28): verificare a vista
+- **a104 Gachiakuta**
+  - Studio: Nostri ['Bones']; AniList ['bones film']
+- **a108 Great Pretender**
+  - Creatori: Nostri ['Hirotaka Adachi']; AniList staff ['Hiro Kaburagi', 'Ryouji Masuyama', 'Ryouta Kosawa', 'Yoshiyuki Sadamoto', 'Hirotaka Katou', 'Keita Shimizu']
+- **a131 Mahou Shoujo Madoka Magica**
+  - Foto personaggio mancante: Senza foto: ['Kyubey']
+- **a147 Sen to Chihiro no Kamikakushi**
+  - Poster da controllare a vista: Copertina poco simile a AniList (dist 31): verificare a vista
+  - Foto personaggio mancante: Senza foto: ['Kamaji']
+- **a151 Soul Eater**
+  - Foto personaggio sbagliata: Liz Thompson (foto di AniList id 8444, personaggio id 8445)
+- **a155 Tonari no Totoro**
+  - Foto personaggio mancante: Senza foto: ['Nekobus']
+- **a159 Vivy: Fluorite Eye's Song**
+  - Creatori: Nostri ['Wit Studio']; AniList staff ['Tappei Nagatsuki', 'Eiji Umehara', 'loundraw', 'Shinpei Ezaki', 'Yuusuke Kubo', 'Eiji Umehara']
+- **a171 Dead Dead Demon's Dededede Destruction**
+  - Studio: Nostri ['Science SARU']; AniList ['Production +h']
+
+## 5. MANGA
+
+- **m1 Slam Dunk**
+  - Capitoli: Somma nostri capitoli 188; AniList 276
+- **m2 Solo Leveling**
+  - Capitoli segnaposto: 28/28 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Capitoli: Somma nostri capitoli 28; AniList 201
+- **m4 20th Century Boys**
+  - Capitoli (dubbio): Edizione 'Deluxe edition': somma capitoli 265; originale 249
+- **m5 Blame**
+  - Capitoli (dubbio): Edizione 'Master edition': somma capitoli 67; originale 1
+- **m6 Blue Lock**
+  - Volumi incoerenti: totalVols 34 ma elenco volumi con capitoli ne ha 42
+- **m7 The Killer Inside**
+  - Capitoli segnaposto: 11/11 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+- **m10 Chainsaw Man**
+  - Capitoli: Somma nostri capitoli 208; AniList 232
+- **m18 Shaman King**
+  - Capitoli segnaposto: 35/35 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Capitoli (dubbio): Edizione 'Final edition': somma capitoli 35; originale 288
+- **m21 Tokyo Revengers**
+  - Volumi incoerenti: totalVols 31 ma elenco volumi con capitoli ne ha 37
+  - Capitoli: Somma nostri capitoli 319; AniList 279
+- **m29 Tower of God**
+  - Volumi incoerenti: totalVols 500 ma elenco volumi con capitoli ne ha 17
+  - Capitoli segnaposto: 16/17 volumi con 1 solo capitolo (probabile segnaposto): [11, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+- **m30 Ashita no Joe**
+  - Capitoli segnaposto: 13/13 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Capitoli (dubbio): Edizione 'Perfect edition': somma capitoli 13; originale 171
+- **m31 Blue Period**
+  - Capitoli segnaposto: 11/18 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 4, 4, 1, 1, 1, 5, 5]
+- **m36 Fullmetal Alchemist**
+  - Capitoli (dubbio): Edizione 'Ultimate deluxe': somma capitoli 108; originale 116
+- **m38 Homunculus**
+  - Capitoli segnaposto: 15/15 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Capitoli: Somma nostri capitoli 15; AniList 166
+- **m40 Houseki no Kuni**
+  - Capitoli: Somma nostri capitoli 108; AniList 120
+- **m41 I Am Hero**
+  - Capitoli segnaposto: 22/22 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Capitoli: Somma nostri capitoli 22; AniList 265
+- **m43 Jagaaaaaan**
+  - Capitoli segnaposto: 13/14 volumi con 1 solo capitolo (probabile segnaposto): [7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Capitoli: Somma nostri capitoli 20; AniList 163
+- **m45 Jujutsu Kaisen**
+  - Volumi incoerenti: totalVols 30 ma elenco volumi con capitoli ne ha 33
+  - Capitoli: Somma nostri capitoli 297; AniList 272
+- **m46 Juujika no Rokunin**
+  - Capitoli segnaposto: 14/14 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Capitoli: Somma nostri capitoli 14; AniList 234
+  - Autori: Nostri ['Autore non confermato']; AniList ['Shiryuu  Nakatake', 'Frederic Malet']
+- **m48 Mushishi**
+  - Capitoli: Somma nostri capitoli 50; AniList 1
+  - Generi: Nostri ['Fantasy', 'Mistero', 'Slice of Life']; AniList ['Horror']
+  - Autori: Nostri ['Yuki Urushibara']; AniList ['Kurage Asazuke']
+- **m49 Real**
+  - Capitoli segnaposto: 16/16 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+- **m50 Sekai no Owari no Hajimari ni**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+  - Autori: Nostri ['Autore non confermato']; AniList ['Kei Tanaka']
+- **m51 Record of Ragnarok**
+  - Capitoli segnaposto: 26/26 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+- **m53 Sun-Ken Rock**
+  - Capitoli segnaposto: 25/25 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Capitoli: Somma nostri capitoli 25; AniList 181
+- **m55 The Horizon**
+  - Capitoli segnaposto: 3/3 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1]
+  - Capitoli (dubbio): Edizione 'Box': somma capitoli 3; originale 21
+  - Autori: Nostri ['Autore non confermato']; AniList ['Ji-Hun Jeong', 'Abigail Blackman']
+- **m57 Dededemon Dededestruction**
+  - Capitoli segnaposto: 12/12 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+- **m68 Rurouni Kenshin**
+  - Capitoli segnaposto: 22/22 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Capitoli (dubbio): Edizione 'Perfect edition': somma capitoli 22; originale 259
+- **m70 MPD Psycho**
+  - Capitoli segnaposto: 24/24 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Capitoli: Somma nostri capitoli 24; AniList 147
+- **m72 Utsuro no Hako to Zero no Maria**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+  - Autori: Nostri ['Autore non confermato']; AniList ['Eiji Mikage', 'Tetsuo', 'Luke Baker', 'Thien Thanh', 'Thuy Tram', 'Maarubi']
+- **m73 Classroom of the Elite**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+- **m74 Your Talent Is Mine**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+  - Autori: Nostri ['Autore non confermato']; AniList ['Hao Fan', 'Wei CC', 'Jian Shen Wu Di']
+- **m75 The Beginning After the End**
+  - Capitoli segnaposto: 6/6 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1]
+- **m76 Leveling Up with the Gods**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+- **m77 Poison Dragon**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+- **m78 Return of the Crazy Demon**
+  - Autori: Nostri ['Autore non confermato']; AniList ['JP', 'Hi Lee', 'Jin-Seong Yu', 'Ra-Gi Yun', 'Ra-Gi Yun']
+- **m79 Return of the Unrivaled Spear Knight**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+- **m80 Solo Max-Level Newbie**
+  - Autori: Nostri ['Sadoyeon']; AniList ['WAN.Z', 'Swing Bat', 'Maslow']
+- **m81 A Returner's Magic Should Be Special**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+- **m82 Great Mage Returns After 4000 Years**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+  - Autori: Nostri ['Autore non confermato']; AniList ['Barnicle', 'Deok-Yong Kim', 'Nakhasan']
+- **m83 Nano Machine**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+  - Autori: Nostri ['Han Jung Hoon', 'Bak Jong Hee']; AniList ['Geobalhan', 'Geumgangbulgoe', 'Hanjung Worya', 'Alexandra Dickmann']
+- **m84 Legend of the Northern Blade**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+  - Autori: Nostri ['Autore non confermato']; AniList ['Hae-Min', 'U-Gak', 'Son']
+- **m85 Omniscient Reader's Viewpoint**
+  - Capitoli segnaposto: 4/4 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1]
+- **m86 Mercenary Enrollment**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+- **m87 God Game**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+  - Autori: Nostri ['Autore non confermato']; AniList ['Shuu Miyazaki', 'Nanakusa']
+- **m88 Her Summon**
+  - Volumi incoerenti: totalVols 117 ma elenco volumi con capitoli ne ha 1
+  - Autori: Nostri ['Autore non confermato']; AniList ['Jin-Jun Park']
+- **m89 Reverend Insanity**
+  - Capitoli: Somma nostri capitoli 22; AniList 96 (serie in corso)
+- **m90 Lord of Mysteries**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+  - Autori: Nostri ['Cuttlefish That Loves Diving']; AniList ['Chun Ba', 'Yuanyan de Qiqiu', 'Ai Qianshui de Wuzei']
+- **m91 Age of Adepts**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+- **m92 House of Horrors**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+  - Autori: Nostri ['Autore non confermato']; AniList ['Miyako Cojima']
+- **m93 Warlock of the Magus World**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+- **m94 Radiant**
+  - Capitoli: Somma nostri capitoli 148; AniList 1
+  - Generi: Nostri ['Fantasy', 'Azione', 'Avventura']; AniList ['Hentai', 'Romance']
+  - Autori: Nostri ['Tony Valente']; AniList ['Niiro Ikuhana']
+- **m98 Birth of the Demonic Sword**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+- **m99 Galaxias**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+  - Generi: Nostri ['Sci-Fi']; AniList ['Action', 'Adventure', 'Fantasy']
+  - Autori: Nostri ['Autore non confermato']; AniList ['Ao Hatezaka', 'Nate Derr', 'Jan Ivan Concepcion', 'Katherine Tran']
+- **m96 Orfani**
+  - Capitoli segnaposto: 16/16 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+- **m97 Qwest**
+  - Capitoli mancanti: Nessun dato capitoli per volume
+
+## 6. LIBRI
+
+- **b1 Il Piccolo Libro dell'Investimento**: NON_TROVATO: Open Library: nessun risultato
+- **b2 Il Cigno Nero**: GENERE: Genere mancante; NON_TROVATO: Open Library: nessun risultato
+- **b3 The Wheel of Time**: PAGINE: Numero pagine mancante; GENERE: Genere mancante; NON_TROVATO: Open Library: nessun risultato
+- **b10 Aqualung**: AUTORE: Autore mancante/non confermato: 'Autore non confermato'; PAGINE: Numero pagine mancante
+- **b11 Orfani**: PAGINE: Numero pagine mancante
+- **b12 Qwest**: PAGINE: Numero pagine mancante; NON_TROVATO: Open Library: nessun risultato
+
+## 7. Foto cast da rivedere (controllo per somiglianza, rumoroso: verifica a campione)
+
+- Film f479 The Odyssey: Tom Holland: foto diversa da TMDB
+- Film f8 The Departed: Jack Nicholson: foto diversa da TMDB
+- Film f11 Guardians of the Galaxy 1: Vin Diesel: foto diversa da TMDB; Bradley Cooper: foto diversa da TMDB
+- Film f17 Memories of Murder: Kim Sang-kyung: persona non nel cast TMDB
+- Film f20 Guardians of the Galaxy 3: Bradley Cooper: foto diversa da TMDB
+- Film f29 The Social Network: Andrew Garfield: foto diversa da TMDB
+- Film f38 Memento: Carrie-Anne Moss: foto diversa da TMDB
+- Film f40 Training Day: Eva Mendes: foto diversa da TMDB
+- Film f43 The Matrix: Carrie-Anne Moss: foto diversa da TMDB
+- Film f46 Project Hail Mary: Sandra Hüller: foto diversa da TMDB
+- Film f51 Drive: Bryan Cranston: foto diversa da TMDB
+- Film f54 Knowing: Rose Byrne: foto diversa da TMDB
+- Film f80 Pirates of the Caribbean: At World's End: Keira Knightley: foto diversa da TMDB
+- Film f82 The Illusionist: Jessica Biel: foto diversa da TMDB
+- Film f85 La Fabbrica di Cioccolato: AnnaSophia Robb: foto diversa da TMDB
+- Film f100 The Redeem Team: LeBron James: foto diversa da TMDB
+- Film f112 Now You See Me 2: Dave Franco: foto diversa da TMDB
+- Film f115 Seeking a Friend for the End of the World: Steve Carell: foto diversa da TMDB; Keira Knightley: foto diversa da TMDB
+- Film f121 One Flew Over the Cuckoo's Nest: Jack Nicholson: foto diversa da TMDB
+- Film f124 Inkheart: Paul Bettany: foto diversa da TMDB
+- Film f136 Glass Onion: Janelle Monáe: foto diversa da TMDB
+- Film f139 Sole a catinelle: Checco Zalone: foto diversa da TMDB
+- Film f142 The Hangover: Bradley Cooper: foto diversa da TMDB; Zach Galifianakis: foto diversa da TMDB; Heather Graham: foto diversa da TMDB
+- Film f145 Cado dalle nubi: Checco Zalone: foto diversa da TMDB
+- Film f154 Philadelphia: Antonio Banderas: foto diversa da TMDB
+- Film f454 The Hobbit: The Battle of the Five Armies: Evangeline Lilly: foto diversa da TMDB
+- Film f170 Snowden: Tom Wilkinson: foto diversa da TMDB
+- Film f175 Next: Jessica Biel: foto diversa da TMDB
+- Film f178 Schindler's List: Ralph Fiennes: foto diversa da TMDB
+- Film f181 Rain Man: Tom Cruise: foto diversa da TMDB
+- Film f185 Incendies: Mélissa Désormeaux-Poulin: foto diversa da TMDB
+- Film f188 A Cure for Wellness: Dane DeHaan: foto diversa da TMDB
+- Film f191 The Lives of Others: Ulrich Mühe: foto diversa da TMDB
+- Film f194 Eyes Wide Shut: Tom Cruise: foto diversa da TMDB
+- Film f206 Another Round: Mads Mikkelsen: persona non nel cast TMDB; Thomas Bo Larsen: persona non nel cast TMDB; Magnus Millang: persona non nel cast TMDB; Lars Ranthe: persona non nel cast TMDB; Maria Bonnevie: persona non nel cast TMDB
+- Film f214 Oppenheimer: Florence Pugh: foto diversa da TMDB
+- Film f231 Chinatown: Jack Nicholson: foto diversa da TMDB
+- Film f237 A Beautiful Mind: Russell Crowe: foto diversa da TMDB; Paul Bettany: foto diversa da TMDB
+- Film f254 Nine Queens: Ricardo Darín: foto diversa da TMDB
+- Film f266 Sunshine: Rose Byrne: foto diversa da TMDB
+- Film f276 All That Jazz: Jessica Lange: foto diversa da TMDB
+- Film f297 Die Hard: Bonnie Bedelia: foto diversa da TMDB; Reginald VelJohnson: foto diversa da TMDB
+- Film f300 The Double: Александр Ревва: persona non nel cast TMDB; Кристина Асмус: persona non nel cast TMDB; Дмитрий Хрусталев: persona non nel cast TMDB; Wallace Shawn: foto diversa da TMDB
+- Film f303 Event Horizon: Joely Richardson: foto diversa da TMDB
+- Film f325 Hitch: Eva Mendes: foto diversa da TMDB
+- Film f334 The Last Samurai: Tom Cruise: foto diversa da TMDB
+- Film f337 Love & Other Drugs: Hank Azaria: foto diversa da TMDB
+- Film f346 Oblivion: Tom Cruise: foto diversa da TMDB
+- Film f349 Pan's Labyrinth: Ivana Baquero: foto diversa da TMDB
+- Film f361 Seven Pounds: Rosario Dawson: foto diversa da TMDB
+- Film f375 Unforgiven: Richard Harris: foto diversa da TMDB
+- Film f378 Wild Tales: Ricardo Darín: persona non nel cast TMDB; Leonardo Sbaraglia: persona non nel cast TMDB; Érica Rivas: persona non nel cast TMDB; Oscar Martínez: persona non nel cast TMDB; Rita Cortese: persona non nel cast TMDB
+- Film f381 Fracture: Anthony Hopkins: foto diversa da TMDB
+- Film f386 A Separation: Shahab Hosseini: persona non nel cast TMDB
+- Film f427 Fury: Jon Bernthal: foto diversa da TMDB
+- Film f430 Presumed Innocent: Bonnie Bedelia: foto diversa da TMDB
+- Film f419 Journey to the Mysterious Island: Vanessa Hudgens: foto diversa da TMDB
+- Film f464 Harry Potter and the Half-Blood Prince: Rupert Grint: foto diversa da TMDB
+- Film f470 The Amazing Spider-Man 2: Andrew Garfield: foto diversa da TMDB; Emma Stone: foto diversa da TMDB; Dane DeHaan: foto diversa da TMDB
+- Film f473 Spider-Man: No Way Home: Tom Holland: foto diversa da TMDB; Zendaya: foto diversa da TMDB
+- Film f476 Harry Potter and the Prisoner of Azkaban: Rupert Grint: foto diversa da TMDB
+- Film f4 National Treasure: Jon Voight: foto diversa da TMDB
+- Film f7 Se7en: Gwyneth Paltrow: foto diversa da TMDB
+- Film f9 L.A. Confidential: Russell Crowe: foto diversa da TMDB
+- Film f15 The Prestige: Hugh Jackman: foto diversa da TMDB; Scarlett Johansson: foto diversa da TMDB
+- Film f27 Guardians of the Galaxy 2: Vin Diesel: foto diversa da TMDB; Bradley Cooper: foto diversa da TMDB
+- Film f30 Inception: Elliot Page: foto diversa da TMDB
+- Film f39 Knives Out: Ana de Armas: foto diversa da TMDB
+- Film f41 Maze Runner 1: Kaya Scodelario: foto diversa da TMDB
+- Film f52 Now You See Me 1: Dave Franco: foto diversa da TMDB
+- Film f55 Bridge to Terabithia: AnnaSophia Robb: foto diversa da TMDB
+- Film f58 V for Vendetta: Stephen Rea: foto diversa da TMDB
+- Film f210 Heat: Val Kilmer: foto diversa da TMDB
+- Film f75 Lock, Stock & 2 Smoking Barrels: Jason Statham: foto diversa da TMDB
+- Film f370 Thief: Tuesday Weld: foto diversa da TMDB
+- Film f83 Mary Poppins: Julie Andrews: foto diversa da TMDB
+- Film f98 Tenet: Elizabeth Debicki: foto diversa da TMDB
+- Film f110 My Best Friend's Wedding: Cameron Diaz: foto diversa da TMDB
+- Film f113 Superman: David Corenswet: foto diversa da TMDB
+- Film f119 The Grand Budapest Hotel: Ralph Fiennes: foto diversa da TMDB
+- Film f125 Anatomy of a Fall: Sandra Hüller: foto diversa da TMDB
+- Film f128 Enemy: Igor Samobor: persona non nel cast TMDB
+- Film f131 Maze Runner 2: Kaya Scodelario: foto diversa da TMDB; Giancarlo Esposito: foto diversa da TMDB
+- Film f140 Pirates of the Caribbean: Dead Men Tell No Tales: Kaya Scodelario: foto diversa da TMDB
+- Film f146 Night at the Museum 2: Amy Adams: foto diversa da TMDB; Hank Azaria: foto diversa da TMDB
+- Film f155 Trainspotting: Ewan McGregor: foto diversa da TMDB
+- Film f166 The Hunger Games: Elizabeth Banks: foto diversa da TMDB
+- Film f168 Atonement: Keira Knightley: foto diversa da TMDB
+- Film f186 The Tenant: Jo Van Fleet: foto diversa da TMDB
+- Film f192 I Am Mother: Rose Byrne: foto diversa da TMDB
+- Film f219 Source Code: Jeffrey Wright: foto diversa da TMDB
+- Film f223 The Sixth Sense: Olivia Williams: foto diversa da TMDB
+- Film f226 Joker: Zazie Beetz: foto diversa da TMDB
+- Film f255 The Theory of Everything: Charlie Cox: foto diversa da TMDB
+- Film f258 Chronicle: Dane DeHaan: foto diversa da TMDB
+- Film f264 Bad Times at the El Royale: Dakota Johnson: foto diversa da TMDB
+- Film f267 Collateral: Tom Cruise: foto diversa da TMDB
+- Film f292 Chungking Express: Tony Leung Chiu-wai: foto diversa da TMDB
+- Film f298 Dog Day Afternoon: John Cazale: foto diversa da TMDB
+- Film f301 The Elephant Man: Anthony Hopkins: foto diversa da TMDB
+- Film f307 The Father: Anthony Hopkins: foto diversa da TMDB; Olivia Williams: foto diversa da TMDB
+- Film f310 The Fountain: Hugh Jackman: foto diversa da TMDB
+- Film f326 In the Mood for Love: Tony Leung Chiu-wai: foto diversa da TMDB
+- Film f329 The Insider: Russell Crowe: foto diversa da TMDB
+- Film f335 The Deer Hunter: Meryl Streep: foto diversa da TMDB; John Cazale: foto diversa da TMDB
+- Film f338 The Master: Amy Adams: foto diversa da TMDB
+- Film f347 Once Upon a Time in America: Tuesday Weld: foto diversa da TMDB
+- Film f362 Sicario: Jon Bernthal: foto diversa da TMDB
+- Film f365 Solaris: Donatas Banionis: persona non nel cast TMDB; Jüri Järvet: persona non nel cast TMDB; Natalya Bondarchuk: persona non nel cast TMDB; Vladislav Dvorzhetsky: persona non nel cast TMDB; Anatoliy Solonitsyn: persona non nel cast TMDB
+- Film f369 A Taxi Driver: 유해진: persona non nel cast TMDB; Yoo Hai-jin: foto diversa da TMDB
+- Film f379 The Wizard of Lies: Hank Azaria: foto diversa da TMDB
+- Film f387 Dogville: Paul Bettany: foto diversa da TMDB
+- Film f393 Willy Wonka e la fabbrica di cioccolato: Roy Kinnear: foto diversa da TMDB
+- Film f403 The Ghost Writer: Ewan McGregor: foto diversa da TMDB; Olivia Williams: foto diversa da TMDB
+- Film f406 Gladiator: Russell Crowe: foto diversa da TMDB; Richard Harris: foto diversa da TMDB
+- Film f412 Minority Report: Tom Cruise: foto diversa da TMDB; Samantha Morton: foto diversa da TMDB
+- Film f431 Stonehearst Asylum: Kate Beckinsale: foto diversa da TMDB
+- Film f438 Dune: Part Two: Zendaya: foto diversa da TMDB; Rebecca Ferguson: foto diversa da TMDB
+- Film f442 The Secret in Their Eyes: Ricardo Darín: foto diversa da TMDB
+- Film f445 Black Swan: Winona Ryder: foto diversa da TMDB
+- Film f448 Marty Supreme: Gwyneth Paltrow: foto diversa da TMDB
+- Film f465 Harry Potter and the Deathly Hallows: Part 1: Rupert Grint: foto diversa da TMDB; Ralph Fiennes: foto diversa da TMDB
+- Film f468 Spider-Man 3: Topher Grace: foto diversa da TMDB
+- Film f471 Spider-Man: Homecoming: Tom Holland: foto diversa da TMDB; Zendaya: foto diversa da TMDB
+- Film f474 Spider-Man: Brand New Day: Tom Holland: foto diversa da TMDB; Zendaya: foto diversa da TMDB; Jon Bernthal: foto diversa da TMDB
+- Film f477 Harry Potter and the Goblet of Fire: Rupert Grint: foto diversa da TMDB; Ralph Fiennes: foto diversa da TMDB
+- Film f481 Harry Potter and the Philosopher's Stone: Rupert Grint: foto diversa da TMDB; Emma Watson: foto diversa da TMDB; Richard Harris: foto diversa da TMDB
+- Film f2 Prisoners: Hugh Jackman: foto diversa da TMDB
+- Film f13 Catch Me If You Can: Amy Adams: foto diversa da TMDB
+- Film f25 Arrival: Amy Adams: foto diversa da TMDB
+- Film f28 Pirates of the Caribbean: The Curse of the Black Pearl: Keira Knightley: foto diversa da TMDB
+- Film f34 Hacksaw Ridge: Andrew Garfield: foto diversa da TMDB
+- Film f53 Snatch: Jason Statham: foto diversa da TMDB
+- Film f64 The Imitation Game: Keira Knightley: foto diversa da TMDB; Charles Dance: foto diversa da TMDB
+- Film f70 Pirates of the Caribbean: Dead Man's Chest: Keira Knightley: foto diversa da TMDB
+- Film f73 The Notebook: Gena Rowlands: foto diversa da TMDB
+- Film f84 The Big Short: Steve Carell: foto diversa da TMDB
+- Film f87 Blade Runner 2049: Ana de Armas: foto diversa da TMDB
+- Film f90 The Untouchables: Sean Connery: foto diversa da TMDB
+- Film f93 Real Steel: Hugh Jackman: foto diversa da TMDB; Evangeline Lilly: foto diversa da TMDB; Anthony Mackie: foto diversa da TMDB
+- Film f102 Home Alone 1: Macaulay Culkin: foto diversa da TMDB
+- Film f111 Grease: Stockard Channing: foto diversa da TMDB
+- Film f117 Maze Runner 3: Kaya Scodelario: foto diversa da TMDB; Giancarlo Esposito: foto diversa da TMDB
+- Film f120 Donnie Darko: Drew Barrymore: foto diversa da TMDB
+- Film f123 The Silence of the Lambs: Anthony Hopkins: foto diversa da TMDB
+- Film f126 The Discovery: Robert Redford: foto diversa da TMDB; Riley Keough: foto diversa da TMDB
+- Film f129 Home Alone 2: Macaulay Culkin: foto diversa da TMDB
+- Film f138 The Spiderwick Chronicles: Mary-Louise Parker: foto diversa da TMDB
+- Film f141 Margin Call: Paul Bettany: foto diversa da TMDB
+- Film f144 Che bella giornata: Checco Zalone: foto diversa da TMDB
+- Film f147 Mr. Popper's Penguins: Angela Lansbury: foto diversa da TMDB
+- Film f150 Home Alone 3: Scarlett Johansson: foto diversa da TMDB
+- Film f453 The Hobbit: The Desolation of Smaug: Evangeline Lilly: foto diversa da TMDB
+- Film f458 The Hunger Games: The Ballad of Songbirds & Snakes: Rachel Zegler: foto diversa da TMDB; Hunter Schafer: foto diversa da TMDB
+- Film f174 Synecdoche, New York: Samantha Morton: foto diversa da TMDB
+- Film f187 Cape Fear: Jessica Lange: foto diversa da TMDB
+- Film f190 Apocalypse Now: Frederic Forrest: foto diversa da TMDB; Dennis Hopper: foto diversa da TMDB
+- Film f196 Inside Men: Baek Yoon-sik: persona non nel cast TMDB
+- Film f199 The Pianist: Emilia Fox: foto diversa da TMDB
+- Film f213 Being John Malkovich: Cameron Diaz: foto diversa da TMDB
+- Film f216 Cold in July: Don Johnson: foto diversa da TMDB
+- Film f224 Big Fish: Ewan McGregor: foto diversa da TMDB; Albert Finney: foto diversa da TMDB; Jessica Lange: foto diversa da TMDB
+- Film f230 Dead Man's Shoes: Paddy Considine: foto diversa da TMDB
+- Film f236 Pulp Fiction: Uma Thurman: foto diversa da TMDB; Ving Rhames: foto diversa da TMDB
+- Film f243 Dune: Rebecca Ferguson: foto diversa da TMDB
+- Film f256 The Place Beyond the Pines: Bradley Cooper: foto diversa da TMDB; Eva Mendes: foto diversa da TMDB; Rose Byrne: foto diversa da TMDB; Dane DeHaan: foto diversa da TMDB
+- Film f262 Independence Day: Randy Quaid: foto diversa da TMDB
+- Film f265 First Man: Claire Foy: foto diversa da TMDB
+- Film f272 21 Jump Street: Dave Franco: foto diversa da TMDB
+- Film f278 Battle Royale: Tatsuya Fujiwara: persona non nel cast TMDB
+- Film f284 Blue Velvet: Dennis Hopper: foto diversa da TMDB
+- Film f305 Falling Down: Tuesday Weld: foto diversa da TMDB
+- Film f311 Frailty: Jeremy Sumpter: foto diversa da TMDB
+- Film f324 Her: Scarlett Johansson: foto diversa da TMDB; Amy Adams: foto diversa da TMDB
+- Film f333 La La Land: Emma Stone: foto diversa da TMDB
+- Film f336 Lost in Translation: Scarlett Johansson: foto diversa da TMDB
+- Film f345 Nocturnal Animals: Amy Adams: foto diversa da TMDB
+- Film f354 Portrait of a Lady on Fire: Luàna Bajrami: foto diversa da TMDB
+- Film f380 The Zone of Interest: Sandra Hüller: foto diversa da TMDB
+- Film f404 Under the Silver Lake: Andrew Garfield: foto diversa da TMDB; Riley Keough: foto diversa da TMDB; Topher Grace: foto diversa da TMDB
+- Film f407 Vanilla Sky: Tom Cruise: foto diversa da TMDB; Cameron Diaz: foto diversa da TMDB
+- Film f413 Wind River: Elizabeth Olsen: foto diversa da TMDB; Jon Bernthal: foto diversa da TMDB
+- Film f439 Dune: Part Three: Zendaya: foto diversa da TMDB; Florence Pugh: foto diversa da TMDB; Austin Butler: persona non nel cast TMDB
+- Film f463 Harry Potter and the Order of the Phoenix: Rupert Grint: foto diversa da TMDB; Ralph Fiennes: foto diversa da TMDB
+- Film f469 The Amazing Spider-Man: Andrew Garfield: foto diversa da TMDB; Emma Stone: foto diversa da TMDB
+- Film f472 Spider-Man: Far From Home: Tom Holland: foto diversa da TMDB; Zendaya: foto diversa da TMDB
+- Film f475 Harry Potter and the Chamber of Secrets: Rupert Grint: foto diversa da TMDB
+- Film f478 Harry Potter and the Deathly Hallows: Part 2: Rupert Grint: foto diversa da TMDB; Ralph Fiennes: foto diversa da TMDB
+- Serie s1 Breaking Bad: Foto diversa da TMDB: ['Giancarlo Esposito']
+- Serie s7 La casa di carta: Foto diversa da TMDB: ['Rodrigo de la Serna']
+- Serie s8 Better Call Saul: Foto diversa da TMDB: ['Giancarlo Esposito']
+- Serie s10 Lost: Foto diversa da TMDB: ['Evangeline Lilly']
+- Serie s23 Sex Education: Foto diversa da TMDB: ['Mimi Keene', 'Tanya Reynolds']
+- Serie s24 Succession: Foto diversa da TMDB: ['Dagmara Dominczyk']
+- Serie s27 Elite: Foto diversa da TMDB: ['Ester Expósito']
+- Serie s29 Lucifer: Foto diversa da TMDB: ['Tom Welling']
+- Serie s34 WandaVision: Foto diversa da TMDB: ['Elizabeth Olsen', 'Randall Park']
+- Serie s38 The Leftovers: Foto diversa da TMDB: ['Margaret Qualley']
+- Serie s41 Outer Banks: Foto diversa da TMDB: ['Madison Bailey']
+- Serie s43 Person of Interest: Foto diversa da TMDB: ['Sarah Shahi']
+- Serie s62 Mindhunter: Foto diversa da TMDB: ['Anna Torv']
+- Serie s63 The Pitt: Foto diversa da TMDB: ['Supriya Ganesh', 'Fiona Dourif']
+- Serie s65 Battlestar Galactica: Foto diversa da TMDB: ['Edward James Olmos']
+- Serie s79 Silo: Foto diversa da TMDB: ['Jessica Brown Findlay']
+- Serie s82 Deadwood: Foto diversa da TMDB: ['John Thaw']
+- Serie s85 Atlanta: Foto diversa da TMDB: ['Keith L. Williams']
+- Serie s86 Fargo: Foto diversa da TMDB: ['Ewan McGregor']
+- Serie s105 BoJack Horseman: Foto diversa da TMDB: ['Alison Brie']
+- Serie s114 Twin Peaks: Foto diversa da TMDB: ['Harry Goaz']
+- Serie s116 Stranger Things: Foto diversa da TMDB: ['Winona Ryder', 'Millie Bobby Brown', 'Caleb McLaughlin', 'Charlie Heaton']
+- Serie s127 Star Wars: The Clone Wars: Foto diversa da TMDB: ['James Arnold Taylor']
+- Serie s128 And Then There Were None: Foto diversa da TMDB: ['Charles Dance']
+
+## 8. CORREZIONI PRONTE (valore da inserire)
+
+Generate automaticamente solo dove le fonti concordano o c'è una sola fonte forte; confidenza indicata. Lo stesso elenco è in `data/correzioni_v43.json`.
+
+- film f77 Pacific Rim — durata: 111 → **131** (alta (TMDB=IMDb))
+- film f115 Seeking a Friend for the End of the World — durata: 108 → **101** (alta (TMDB=IMDb))
+- film f145 Cado dalle nubi — durata: 88 → **95** (alta (TMDB=IMDb))
+- film f206 Another Round — regista: Thomas Vinterberg → **Yeon Sang-ho** (media)
+- film f257 La leggenda di Al, John e Jack — durata: 100 → **105** (alta (TMDB=IMDb))
+- film f368 Sympathy for Mr. Vengeance — durata: 121 → **129** (alta (TMDB=IMDb))
+- film f378 Wild Tales — durata: 122 → **92** (alta (TMDB=IMDb))
+- film f378 Wild Tales — anno: 2014 → **2016** (alta (TMDB=IMDb))
+- film f378 Wild Tales — regista: Damián Szifron → **Nicholas Stoller** (media)
+- film f396 Looper — durata: 113 → **119** (alta (TMDB=IMDb))
+- film f496 The Mandalorian and Grogu — durata: 120 → **133** (media (solo TMDB))
+- film f55 Bridge to Terabithia — durata: 111 → **96** (alta (TMDB=IMDb))
+- film f104 Tu la conosci Claudia? — durata: 97 → **104** (alta (TMDB=IMDb))
+- film f116 Chiedimi se sono felice — durata: 109 → **100** (alta (TMDB=IMDb))
+- film f143 Benvenuti al Nord — durata: 90 → **110** (alta (TMDB=IMDb))
+- film f365 Solaris — durata: 167 → **129** (alta (TMDB=IMDb))
+- film f365 Solaris — anno: 1972 → **1995** (alta (TMDB=IMDb))
+- film f365 Solaris — regista: Andrei Tarkovsky → **Terry Gilliam** (media)
+- film f400 Sentimental Value — durata: 115 → **133** (media (solo TMDB))
+- film f10 Tre uomini e una gamba — durata: 92 → **98** (media (solo TMDB))
+- film f10 Tre uomini e una gamba — regista: Aldo, Giovanni e Giacomo → **Aldo Baglio, Massimo Venier, Giacomo Poretti** (media)
+- film f79 Back to the Future 2 — durata: 118 → **108** (alta (TMDB=IMDb))
+- film f105 La haine — durata: 109 → **98** (alta (TMDB=IMDb))
+- film f132 Journey to the Center of the Earth — durata: 84 → **93** (alta (TMDB=IMDb))
+- film f144 Che bella giornata — durata: 90 → **97** (alta (TMDB=IMDb))
+- film f147 Mr. Popper's Penguins — durata: 88 → **94** (alta (TMDB=IMDb))
+- film f150 Home Alone 3 — durata: 95 → **102** (alta (TMDB=IMDb))
+- film f169 Coach Carter — durata: 105 → **136** (alta (TMDB=IMDb))
+- serie s123 His Dark Materials — anno fine: 2022 → **2023** (media)
+- serie s3 Prison Break — episodi per stagione: [22, 22, 13, 23, 9] → **[22, 22, 13, 22, 9]** (media (TMDB))
+- serie s4 Friends — episodi per stagione: [24, 24, 25, 24, 24, 25, 24, 24, 23, 17] → **[24, 24, 25, 23, 23, 23, 23, 23, 23, 17]** (media (TMDB))
+- serie s5 The Last Dance — creatori: ['Jason Hehir'] → **['Michael Tollin']** (bassa (verificare))
+- serie s7 La casa di carta — episodi per stagione: [9, 6, 8, 8, 10] → **[15, 16, 10]** (media (TMDB))
+- serie s10 Lost — episodi per stagione: [24, 23, 22, 13, 16, 17] → **[24, 24, 23, 13, 17, 17]** (media (TMDB))
+- serie s13 Squid Game — episodi per stagione: [9, 6] → **[9, 7, 6]** (media (TMDB))
+- serie s13 Squid Game — episodi totali: 15 → **22** (alta (TMDB=IMDb))
+- serie s17 Lost in Space — creatori: ['Zack Estrin', 'Matt Sazama', 'Burk Sharpless'] → **['Irwin Allen']** (bassa (verificare))
+- serie s19 The Office — episodi per stagione: [6, 22, 25, 14, 28, 26, 26, 24, 25] → **[6, 22, 23, 14, 26, 24, 24, 24, 23]** (media (TMDB))
+- serie s20 Happy Days — episodi per stagione: [16, 23, 23, 23, 27, 27, 25, 22, 22, 22, 17] → **[16, 23, 23, 24, 26, 27, 25, 22, 22, 22, 22]** (media (TMDB))
+- serie s21 I Robinson — episodi per stagione: [24, 25, 25, 24, 26, 26, 26, 25] → **[24, 25, 25, 23, 25, 26, 25, 24]** (media (TMDB))
+- serie s21 I Robinson — episodi totali: 201 → **197** (alta (TMDB=IMDb))
+- serie s21 I Robinson — creatori: ['Matt Groening'] → **['Bill Cosby', 'Michael J. Leeson', 'Ed. Weinberger']** (bassa (verificare))
+- serie s22 Vis a Vis — episodi per stagione: [11, 13, 8, 8, 8] → **[11, 13, 8, 8]** (media (TMDB))
+- serie s22 Vis a Vis — anno fine: 2020 → **2019** (media)
+- serie s28 Rick and Morty — episodi per stagione: [11, 10, 10, 10, 10, 10, 10, 10] → **[11, 10, 10, 10, 10, 10, 10, 10, 10]** (media (TMDB))
+- serie s29 Lucifer — episodi per stagione: [13, 18, 24, 10, 16, 10] → **[13, 18, 26, 10, 16, 10]** (media (TMDB))
+- serie s29 Lucifer — episodi totali: 91 → **93** (alta (TMDB=IMDb))
+- serie s31 How I Met Your Mother — episodi per stagione: [22, 22, 20, 24, 24, 24, 23, 23, 23] → **[22, 22, 20, 24, 24, 24, 24, 24, 24]** (media (TMDB))
+- serie s31 How I Met Your Mother — episodi totali: 205 → **208** (alta (TMDB=IMDb))
+- serie s36 Mad Men — episodi per stagione: [13, 13, 13, 13, 12, 12, 14] → **[13, 13, 13, 13, 13, 13, 14]** (media (TMDB))
+- serie s36 Mad Men — episodi totali: 90 → **92** (alta (TMDB=IMDb))
+- serie s49 Manhunt — creatori: ['Andrew Zinnes', 'David Coggeshall'] → **['Andrew Sodroski', 'Jim Clemente', 'Tony Gittelson']** (bassa (verificare))
+- serie s51 Gli anelli del potere — episodi per stagione: [8, 8] → **[8, 8, 8]** (media (TMDB))
+- serie s54 Invincible — episodi per stagione: [8, 8, 8, 8] → **[8, 8, 8, 8, 0]** (media (TMDB))
+- serie s57 House of the Dragon — episodi per stagione: [10, 8] → **[10, 8, 8]** (media (TMDB))
+- serie s58 Fringe — episodi per stagione: [20, 22, 22, 22, 13] → **[20, 23, 22, 22, 13]** (media (TMDB))
+- serie s58 Fringe — episodi totali: 99 → **100** (alta (TMDB=IMDb))
+- serie s59 Doctor Who — anno fine: 2022 → **2021** (media)
+- serie s63 The Pitt — episodi per stagione: [15, 15] → **[15, 15, 0]** (media (TMDB))
+- serie s64 Black Mirror — episodi per stagione: [3, 3, 6, 6, 3, 5, 6] → **[3, 4, 6, 6, 3, 5, 6]** (media (TMDB))
+- serie s71 The End of the F***ing World — creatori: ['Charlie Covell'] → **['Jonathan Entwistle']** (bassa (verificare))
+- serie s77 Severance — episodi per stagione: [9, 10] → **[9, 10, 0]** (media (TMDB))
+- serie s79 Silo — episodi per stagione: [10, 10] → **[10, 10, 10, 1]** (media (TMDB))
+- serie s84 Utopia — creatori: ['Gillian Flynn'] → **['Dennis Kelly']** (bassa (verificare))
+- serie s88 Lupin — episodi per stagione: [5, 5, 7] → **[10, 7, 8]** (media (TMDB))
+- serie s88 Lupin — episodi totali: 17 → **25** (alta (TMDB=IMDb))
+- serie s89 The Last Kingdom — creatori: ['Jack Bender', 'Michele Fazekas', 'Tara Butters'] → **['Stephen Butchard']** (bassa (verificare))
+- serie s93 24 — episodi per stagione: [24, 24, 24, 24, 24, 24, 24, 24] → **[24, 24, 24, 24, 24, 24, 24, 24, 12]** (media (TMDB))
+- serie s93 24 — anno fine: 2010 → **2014** (media)
+- serie s94 Brooklyn 99 — episodi per stagione: [22, 23, 23, 21, 22, 18, 13, 9] → **[22, 23, 23, 22, 22, 18, 13, 9]** (media (TMDB))
+- serie s102 Fallout — episodi per stagione: [8] → **[8, 8]** (media (TMDB))
+- serie s106 Gravity Falls — episodi per stagione: [20, 22] → **[20, 20]** (media (TMDB))
+- serie s111 Aspirants — creatori: ['Apoorv Singh Karki'] → **['Arunabh Kumar', 'Shreyansh Pandey', 'Deepesh Sumitra Jagdish']** (bassa (verificare))
+- serie s113 Persona — episodi per stagione: [4, 5] → **[4]** (media (TMDB))
+- serie s113 Persona — episodi totali: 9 → **4** (alta (TMDB=IMDb))
+- serie s113 Persona — anno inizio: 2018 → **2019** (media)
+
+## 9. CORREZIONI PRONTE — cast, generi, foto, personaggi, capitoli, autori
+
+Valori proposti dalle fonti (TMDB, AniList, MangaDex). Da applicare dopo un controllo a vista dove indicato.
+
+### 9.1 Film
+
+- **f479 The Odyssey**
+  - Cast: Matt Damon, Tom Holland, Anne Hathaway, Zendaya, Robert Pattinson → **Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel**
+  - Foto Tom Holland: nuova https://image.tmdb.org/t/p/w185/adwEBb2sCSzqwnpVgNEG7irl1Ne.jpg
+- **f8 The Departed**
+  - Foto Jack Nicholson: nuova https://image.tmdb.org/t/p/w185/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg
+- **f11 Guardians of the Galaxy 1**
+  - Foto Vin Diesel: nuova https://image.tmdb.org/t/p/w185/tEoUF0RJqHnskmBOJiDEQhyN7Ok.jpg
+  - Foto Bradley Cooper: nuova https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg
+- **f17 Memories of Murder**
+  - Cast: Song Kang-ho, Kim Sang-kyung, Kim Roi-ha, Song Jae-ho, Byun Hee-bong → **Song Kang-ho, Song Jae-ho, Son Kang-gook**
+  - Foto Kim Sang-kyung: attore non nel cast TMDB, verificare/rimuovere
+- **f20 Guardians of the Galaxy 3**
+  - Foto Bradley Cooper: attore non nel cast TMDB, verificare/rimuovere
+- **f29 The Social Network**
+  - Foto Andrew Garfield: nuova https://image.tmdb.org/t/p/w185/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg
+- **f38 Memento**
+  - Foto Carrie-Anne Moss: nuova https://image.tmdb.org/t/p/w185/9zya72vRZYBQILfetACsnmCBgdj.jpg
+- **f40 Training Day**
+  - Foto Eva Mendes: attore non nel cast TMDB, verificare/rimuovere
+- **f43 The Matrix**
+  - Foto Carrie-Anne Moss: nuova https://image.tmdb.org/t/p/w185/9zya72vRZYBQILfetACsnmCBgdj.jpg
+- **f46 Project Hail Mary**
+  - Foto Sandra Hüller: nuova https://image.tmdb.org/t/p/w185/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg
+- **f51 Drive**
+  - Foto Bryan Cranston: nuova https://image.tmdb.org/t/p/w185/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg
+- **f54 Knowing**
+  - Foto Rose Byrne: nuova https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg
+- **f80 Pirates of the Caribbean: At World's End**
+  - Foto Keira Knightley: nuova https://image.tmdb.org/t/p/w185/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg
+- **f82 The Illusionist**
+  - Foto Jessica Biel: nuova https://image.tmdb.org/t/p/w185/u5DzbWKvAzS0M4ZhYqpUR9MZr2M.jpg
+- **f85 La Fabbrica di Cioccolato**
+  - Foto AnnaSophia Robb: attore non nel cast TMDB, verificare/rimuovere
+- **f100 The Redeem Team**
+  - Foto LeBron James: nuova https://image.tmdb.org/t/p/w185/wcAzgD7NFT61iUJURIY26FaCVyB.jpg
+- **f112 Now You See Me 2**
+  - Foto Dave Franco: nuova https://image.tmdb.org/t/p/w185/to7ee1xcCOpDSKMXjBIRuYEfbEc.jpg
+- **f115 Seeking a Friend for the End of the World**
+  - Foto Steve Carell: nuova https://image.tmdb.org/t/p/w185/sSxw69G0znJuettMYGDCAXfSwSY.jpg
+  - Foto Keira Knightley: nuova https://image.tmdb.org/t/p/w185/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg
+- **f121 One Flew Over the Cuckoo's Nest**
+  - Foto Jack Nicholson: nuova https://image.tmdb.org/t/p/w185/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg
+- **f124 Inkheart**
+  - Foto Paul Bettany: nuova https://image.tmdb.org/t/p/w185/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg
+- **f136 Glass Onion**
+  - Foto Janelle Monáe: nuova https://image.tmdb.org/t/p/w185/eTYG6eBH1LzLWcdQJaH72Wzxemm.jpg
+- **f139 Sole a catinelle**
+  - Foto Checco Zalone: nuova https://image.tmdb.org/t/p/w185/kSK1TGkKe7iGmcAliSmQYqXFlDv.jpg
+- **f142 The Hangover**
+  - Foto Bradley Cooper: nuova https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg
+  - Foto Zach Galifianakis: nuova https://image.tmdb.org/t/p/w185/qsDfoUlRnXHUiqZeBPWHzmgmKGX.jpg
+  - Foto Heather Graham: nuova https://image.tmdb.org/t/p/w185/avYdNkeg1oTvmrNJbFDcTlBCkKs.jpg
+- **f145 Cado dalle nubi**
+  - Foto Checco Zalone: nuova https://image.tmdb.org/t/p/w185/kSK1TGkKe7iGmcAliSmQYqXFlDv.jpg
+- **f154 Philadelphia**
+  - Foto Antonio Banderas: nuova https://image.tmdb.org/t/p/w185/n8YlGookYzgD3cmpMP45BYRNIoh.jpg
+- **f454 The Hobbit: The Battle of the Five Armies**
+  - Foto Evangeline Lilly: nuova https://image.tmdb.org/t/p/w185/pJHX2jd7ytre3NQbF9nlyWUqxH3.jpg
+- **f170 Snowden**
+  - Foto Tom Wilkinson: nuova https://image.tmdb.org/t/p/w185/d5yLk0PK8q7EKR3E3G2txO758IW.jpg
+- **f175 Next**
+  - Foto Jessica Biel: nuova https://image.tmdb.org/t/p/w185/u5DzbWKvAzS0M4ZhYqpUR9MZr2M.jpg
+- **f178 Schindler's List**
+  - Foto Ralph Fiennes: nuova https://image.tmdb.org/t/p/w185/pCnVXH1Uo2ODoOit4UXni8OD9VB.jpg
+- **f181 Rain Man**
+  - Foto Tom Cruise: nuova https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg
+- **f185 Incendies**
+  - Foto Mélissa Désormeaux-Poulin: nuova https://image.tmdb.org/t/p/w185/7x7zC75SRwSlEGPfYpwexB76ODE.jpg
+- **f188 A Cure for Wellness**
+  - Foto Dane DeHaan: nuova https://image.tmdb.org/t/p/w185/uwl0WKqHj6ahsriOEPLks84T70j.jpg
+- **f191 The Lives of Others**
+  - Foto Ulrich Mühe: nuova https://image.tmdb.org/t/p/w185/b4FhEbDUIbrVJJmaKtZ8o4xNvUm.jpg
+- **f194 Eyes Wide Shut**
+  - Foto Tom Cruise: nuova https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg
+- **f206 Another Round**
+  - Cast: Mads Mikkelsen, Thomas Bo Larsen, Magnus Millang, Lars Ranthe, Maria Bonnevie → **Kim Min-jae, Kim Do-yoon, Jang So-yeon, Joey Albright, Pierce Conran**
+  - Foto Mads Mikkelsen: attore non nel cast TMDB, verificare/rimuovere
+  - Foto Thomas Bo Larsen: attore non nel cast TMDB, verificare/rimuovere
+  - Foto Magnus Millang: attore non nel cast TMDB, verificare/rimuovere
+  - Foto Lars Ranthe: attore non nel cast TMDB, verificare/rimuovere
+  - Foto Maria Bonnevie: attore non nel cast TMDB, verificare/rimuovere
+  - Generi: ['Commedia', 'Dramma'] → **['Horror', 'Azione', 'Thriller', 'Avventura']** (verificare)
+- **f214 Oppenheimer**
+  - Foto Florence Pugh: nuova https://image.tmdb.org/t/p/w185/2URrZb95t3kY6pLroKny3Enmabp.jpg
+- **f231 Chinatown**
+  - Foto Jack Nicholson: nuova https://image.tmdb.org/t/p/w185/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg
+- **f237 A Beautiful Mind**
+  - Foto Russell Crowe: nuova https://image.tmdb.org/t/p/w185/3IBZF0qCZMZ7zJYlgrH0sQzNZV.jpg
+  - Foto Paul Bettany: nuova https://image.tmdb.org/t/p/w185/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg
+- **f254 Nine Queens**
+  - Foto Ricardo Darín: nuova https://image.tmdb.org/t/p/w185/2laJXyYQkL9YdLL1PRdD3hLZ6Uy.jpg
+- **f266 Sunshine**
+  - Foto Rose Byrne: nuova https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg
+- **f276 All That Jazz**
+  - Foto Jessica Lange: nuova https://image.tmdb.org/t/p/w185/aWcO6trggSWsglUOdTVzjG4LSh3.jpg
+- **f297 Die Hard**
+  - Foto Bonnie Bedelia: nuova https://image.tmdb.org/t/p/w185/c8ou1b6MHAFYXv49LmKFBnHIozt.jpg
+  - Foto Reginald VelJohnson: nuova https://image.tmdb.org/t/p/w185/dZtIIOI0PpD3dmTVfUOWiQzOY28.jpg
+- **f300 The Double**
+  - Foto Александр Ревва: attore non nel cast TMDB, verificare/rimuovere
+  - Foto Кристина Асмус: attore non nel cast TMDB, verificare/rimuovere
+  - Foto Дмитрий Хрусталев: attore non nel cast TMDB, verificare/rimuovere
+  - Foto Wallace Shawn: nuova https://image.tmdb.org/t/p/w185/wVaM1WlFKDce4esThwL4XtNLhOe.jpg
+- **f303 Event Horizon**
+  - Foto Joely Richardson: nuova https://image.tmdb.org/t/p/w185/yv6aLd1TY06HUJqZshEfs8j5twD.jpg
+- **f325 Hitch**
+  - Foto Eva Mendes: nuova https://image.tmdb.org/t/p/w185/4xptMw7AjNamFgfGt75sHaT0wsI.jpg
+- **f334 The Last Samurai**
+  - Foto Tom Cruise: nuova https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg
+- **f337 Love & Other Drugs**
+  - Foto Hank Azaria: nuova https://image.tmdb.org/t/p/w185/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg
+- **f346 Oblivion**
+  - Foto Tom Cruise: nuova https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg
+- **f349 Pan's Labyrinth**
+  - Foto Ivana Baquero: nuova https://image.tmdb.org/t/p/w185/egEyy7m35EF1OrBs0ik7YGEadpC.jpg
+- **f361 Seven Pounds**
+  - Foto Rosario Dawson: nuova https://image.tmdb.org/t/p/w185/siTzOI810a0K46wv1TORXMw5N7J.jpg
+- **f375 Unforgiven**
+  - Foto Gene Hackman: nuova https://image.tmdb.org/t/p/w185/zDlv9vXjnRsvwNI0bARG0uOt5CJ.jpg
+  - Foto Richard Harris: nuova https://image.tmdb.org/t/p/w185/oJIS8QUOCfLUhsfK7kROkLHVyJh.jpg
+- **f378 Wild Tales**
+  - Cast: Ricardo Darín, Leonardo Sbaraglia, Érica Rivas, Oscar Martínez, Rita Cortese → **Seth Rogen, Zac Efron, Rose Byrne, Chloë Grace Moretz, Dave Franco**
+  - Foto Ricardo Darín: attore non nel cast TMDB, verificare/rimuovere
+  - Foto Leonardo Sbaraglia: attore non nel cast TMDB, verificare/rimuovere
+  - Foto Érica Rivas: attore non nel cast TMDB, verificare/rimuovere
+  - Foto Oscar Martínez: attore non nel cast TMDB, verificare/rimuovere
+  - Foto Rita Cortese: attore non nel cast TMDB, verificare/rimuovere
+  - Generi: ['Commedia nera', 'Dramma', 'Thriller'] → **['Commedia']** (verificare)
+- **f381 Fracture**
+  - Foto Anthony Hopkins: nuova https://image.tmdb.org/t/p/w185/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg
+- **f386 A Separation**
+  - Cast: Leila Hatami, Payman Maadi, Sareh Bayat, Sarina Farhadi, Shahab Hosseini → **Sareh Bayat, Sarina Farhadi, Ali-Asghar Shahbazi, Kimia Hosseini, Armine Zeytounchian**
+  - Foto Shahab Hosseini: attore non nel cast TMDB, verificare/rimuovere
+- **f427 Fury**
+  - Foto Jon Bernthal: nuova https://image.tmdb.org/t/p/w185/bjcglF1IpDcZNs1HwFxakGpzBo6.jpg
+- **f430 Presumed Innocent**
+  - Foto Bonnie Bedelia: nuova https://image.tmdb.org/t/p/w185/c8ou1b6MHAFYXv49LmKFBnHIozt.jpg
+- **f419 Journey to the Mysterious Island**
+  - Foto Vanessa Hudgens: nuova https://image.tmdb.org/t/p/w185/lZQPTRoJLgfsARWdpxQid2dDzhr.jpg
+- **f464 Harry Potter and the Half-Blood Prince**
+  - Foto Rupert Grint: nuova https://image.tmdb.org/t/p/w185/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg
+- **f470 The Amazing Spider-Man 2**
+  - Foto Andrew Garfield: nuova https://image.tmdb.org/t/p/w185/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg
+  - Foto Emma Stone: nuova https://image.tmdb.org/t/p/w185/mstXxlDqhoK0s0molsNpskJ1wLH.jpg
+  - Foto Dane DeHaan: nuova https://image.tmdb.org/t/p/w185/uwl0WKqHj6ahsriOEPLks84T70j.jpg
+- **f473 Spider-Man: No Way Home**
+  - Foto Tom Holland: nuova https://image.tmdb.org/t/p/w185/adwEBb2sCSzqwnpVgNEG7irl1Ne.jpg
+  - Foto Zendaya: nuova https://image.tmdb.org/t/p/w185/qGkBlyn1AwQpuFnRARMRwj0iHZp.jpg
+- **f476 Harry Potter and the Prisoner of Azkaban**
+  - Foto Rupert Grint: nuova https://image.tmdb.org/t/p/w185/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg
+- **f4 National Treasure**
+  - Foto Jon Voight: nuova https://image.tmdb.org/t/p/w185/bmfwKaLxUt4qck2UJgm2maWVMTR.jpg
+- **f7 Se7en**
+  - Cast: Brad Pitt, Morgan Freeman, Kevin Spacey, Gwyneth Paltrow, R. Lee Ermey → **Morgan Freeman, Brad Pitt, Gwyneth Paltrow, John Cassini, Peter Crombie**
+  - Foto Gwyneth Paltrow: nuova https://image.tmdb.org/t/p/w185/ylN4A7fnnNXvHURENl5sQI8Jbib.jpg
+- **f9 L.A. Confidential**
+  - Foto Russell Crowe: nuova https://image.tmdb.org/t/p/w185/3IBZF0qCZMZ7zJYlgrH0sQzNZV.jpg
+- **f15 The Prestige**
+  - Foto Hugh Jackman: nuova https://image.tmdb.org/t/p/w185/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg
+  - Foto Scarlett Johansson: nuova https://image.tmdb.org/t/p/w185/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg
+- **f27 Guardians of the Galaxy 2**
+  - Foto Vin Diesel: nuova https://image.tmdb.org/t/p/w185/tEoUF0RJqHnskmBOJiDEQhyN7Ok.jpg
+  - Foto Bradley Cooper: nuova https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg
+- **f30 Inception**
+  - Foto Elliot Page: nuova https://image.tmdb.org/t/p/w185/wSdlM4Qyoi5AGj5eIIp8Bm0Sfkz.jpg
+- **f39 Knives Out**
+  - Foto Ana de Armas: nuova https://image.tmdb.org/t/p/w185/ngHnBOofQzCO3AvMyuW3UMRWg1B.jpg
+- **f41 Maze Runner 1**
+  - Foto Kaya Scodelario: nuova https://image.tmdb.org/t/p/w185/qmtXUabwXw0RvyK6R0la6CmvGxr.jpg
+- **f52 Now You See Me 1**
+  - Foto Dave Franco: nuova https://image.tmdb.org/t/p/w185/to7ee1xcCOpDSKMXjBIRuYEfbEc.jpg
+- **f55 Bridge to Terabithia**
+  - Foto AnnaSophia Robb: nuova https://image.tmdb.org/t/p/w185/mJawWikGXsSLA79mZ9xqhn0B9gI.jpg
+- **f58 V for Vendetta**
+  - Foto Stephen Rea: nuova https://image.tmdb.org/t/p/w185/n52WDwObYghPTfV1TZ1EOVIWUGS.jpg
+- **f210 Heat**
+  - Foto Val Kilmer: nuova https://image.tmdb.org/t/p/w185/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg
+- **f72 Night at the Museum 1**
+  - Cast: Ben Stiller, Robin Williams, Carla Gugino, Dick Van Dyke, Owen Wilson → **Ben Stiller, Carla Gugino, Dick Van Dyke, Mickey Rooney, Bill Cobbs**
+- **f75 Lock, Stock & 2 Smoking Barrels**
+  - Foto Jason Statham: nuova https://image.tmdb.org/t/p/w185/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg
+- **f370 Thief**
+  - Foto Tuesday Weld: nuova https://image.tmdb.org/t/p/w185/yp9Ng5tjVhhws17CgVqWWEEbqrb.jpg
+- **f83 Mary Poppins**
+  - Foto Julie Andrews: nuova https://image.tmdb.org/t/p/w185/ltU0aAunzQCTv5FwtB1sVWjyDi7.jpg
+- **f98 Tenet**
+  - Foto Elizabeth Debicki: nuova https://image.tmdb.org/t/p/w185/nTTnQVTn13Ve4ifjRY9v8kVc99w.jpg
+- **f110 My Best Friend's Wedding**
+  - Foto Cameron Diaz: nuova https://image.tmdb.org/t/p/w185/tIWUyvmJayu8gtbrzCWC0L3H8kH.jpg
+- **f113 Superman**
+  - Foto David Corenswet: nuova https://image.tmdb.org/t/p/w185/yoQxpUPt3le9zY4Sab3g2ANy4CE.jpg
+- **f119 The Grand Budapest Hotel**
+  - Foto Ralph Fiennes: nuova https://image.tmdb.org/t/p/w185/pCnVXH1Uo2ODoOit4UXni8OD9VB.jpg
+- **f125 Anatomy of a Fall**
+  - Foto Sandra Hüller: nuova https://image.tmdb.org/t/p/w185/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg
+- **f128 Enemy**
+  - Foto Igor Samobor: attore non nel cast TMDB, verificare/rimuovere
+- **f131 Maze Runner 2**
+  - Foto Kaya Scodelario: nuova https://image.tmdb.org/t/p/w185/qmtXUabwXw0RvyK6R0la6CmvGxr.jpg
+  - Foto Giancarlo Esposito: nuova https://image.tmdb.org/t/p/w185/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg
+- **f140 Pirates of the Caribbean: Dead Men Tell No Tales**
+  - Foto Kaya Scodelario: nuova https://image.tmdb.org/t/p/w185/qmtXUabwXw0RvyK6R0la6CmvGxr.jpg
+- **f146 Night at the Museum 2**
+  - Foto Amy Adams: nuova https://image.tmdb.org/t/p/w185/gn0K6c6d1L6qQrRc86iL8uyIqiF.jpg
+  - Foto Hank Azaria: nuova https://image.tmdb.org/t/p/w185/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg
+- **f155 Trainspotting**
+  - Foto Ewan McGregor: nuova https://image.tmdb.org/t/p/w185/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg
+- **f166 The Hunger Games**
+  - Foto Elizabeth Banks: nuova https://image.tmdb.org/t/p/w185/wMDFt9PUdxJWBzTwixiBfNpeN89.jpg
+- **f168 Atonement**
+  - Foto Keira Knightley: nuova https://image.tmdb.org/t/p/w185/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg
+- **f186 The Tenant**
+  - Foto Jo Van Fleet: nuova https://image.tmdb.org/t/p/w185/xdingRjzTi1lbFV1mepFeM9nMxA.jpg
+- **f192 I Am Mother**
+  - Foto Rose Byrne: nuova https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg
+- **f219 Source Code**
+  - Foto Jeffrey Wright: nuova https://image.tmdb.org/t/p/w185/yGcuHGW4glqRpOPxgiCvjcren7F.jpg
+- **f223 The Sixth Sense**
+  - Foto Olivia Williams: nuova https://image.tmdb.org/t/p/w185/gnL7XGfLiAbhqIjV4jAGIZgySJh.jpg
+- **f226 Joker**
+  - Foto Zazie Beetz: nuova https://image.tmdb.org/t/p/w185/ijrT4pvALvxU0gphea4YxDnDh6e.jpg
+- **f255 The Theory of Everything**
+  - Foto Charlie Cox: nuova https://image.tmdb.org/t/p/w185/91fFBazOvuNjwjcES2b199Ukspn.jpg
+- **f258 Chronicle**
+  - Foto Dane DeHaan: nuova https://image.tmdb.org/t/p/w185/uwl0WKqHj6ahsriOEPLks84T70j.jpg
+- **f264 Bad Times at the El Royale**
+  - Foto Dakota Johnson: nuova https://image.tmdb.org/t/p/w185/qFek0KqpaPV5mVyHHNfAapDE9Tj.jpg
+- **f267 Collateral**
+  - Foto Tom Cruise: nuova https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg
+- **f292 Chungking Express**
+  - Foto Tony Leung Chiu-wai: nuova https://image.tmdb.org/t/p/w185/idGzkwbm0BiLdrrKfcXecFNXbDu.jpg
+- **f298 Dog Day Afternoon**
+  - Foto John Cazale: nuova https://image.tmdb.org/t/p/w185/41wXX1FBalyIuf5eaA4S43Y8IfZ.jpg
+- **f301 The Elephant Man**
+  - Foto Anthony Hopkins: nuova https://image.tmdb.org/t/p/w185/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg
+- **f307 The Father**
+  - Foto Anthony Hopkins: nuova https://image.tmdb.org/t/p/w185/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg
+  - Foto Olivia Williams: nuova https://image.tmdb.org/t/p/w185/gnL7XGfLiAbhqIjV4jAGIZgySJh.jpg
+- **f310 The Fountain**
+  - Foto Hugh Jackman: nuova https://image.tmdb.org/t/p/w185/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg
+- **f326 In the Mood for Love**
+  - Foto Tony Leung Chiu-wai: nuova https://image.tmdb.org/t/p/w185/idGzkwbm0BiLdrrKfcXecFNXbDu.jpg
+- **f329 The Insider**
+  - Foto Russell Crowe: nuova https://image.tmdb.org/t/p/w185/3IBZF0qCZMZ7zJYlgrH0sQzNZV.jpg
+- **f335 The Deer Hunter**
+  - Foto Meryl Streep: nuova https://image.tmdb.org/t/p/w185/pSyM9cteYYWUBDalJzMPLH0SLgB.jpg
+  - Foto John Cazale: nuova https://image.tmdb.org/t/p/w185/41wXX1FBalyIuf5eaA4S43Y8IfZ.jpg
+- **f338 The Master**
+  - Foto Amy Adams: nuova https://image.tmdb.org/t/p/w185/gn0K6c6d1L6qQrRc86iL8uyIqiF.jpg
+- **f347 Once Upon a Time in America**
+  - Foto Tuesday Weld: nuova https://image.tmdb.org/t/p/w185/yp9Ng5tjVhhws17CgVqWWEEbqrb.jpg
+- **f362 Sicario**
+  - Foto Jon Bernthal: nuova https://image.tmdb.org/t/p/w185/bjcglF1IpDcZNs1HwFxakGpzBo6.jpg
+- **f365 Solaris**
+  - Cast: Natalya Bondarchuk, Donatas Banionis, Jüri Järvet, Vladislav Dvorzhetsky, Anatoliy Solonitsyn → **Bruce Willis, Madeleine Stowe, Brad Pitt, Christopher Plummer, David Morse**
+  - Foto Donatas Banionis: attore non nel cast TMDB, verificare/rimuovere
+  - Foto Jüri Järvet: attore non nel cast TMDB, verificare/rimuovere
+  - Foto Natalya Bondarchuk: attore non nel cast TMDB, verificare/rimuovere
+  - Foto Vladislav Dvorzhetsky: attore non nel cast TMDB, verificare/rimuovere
+  - Foto Anatoliy Solonitsyn: attore non nel cast TMDB, verificare/rimuovere
+- **f369 A Taxi Driver**
+  - Foto 유해진: attore non nel cast TMDB, verificare/rimuovere
+  - Foto Yoo Hai-jin: nuova https://image.tmdb.org/t/p/w185/sJzKaBnDaIEirEDJF6ZWVvZU8kG.jpg
+- **f379 The Wizard of Lies**
+  - Foto Hank Azaria: nuova https://image.tmdb.org/t/p/w185/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg
+- **f387 Dogville**
+  - Foto Paul Bettany: nuova https://image.tmdb.org/t/p/w185/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg
+- **f393 Willy Wonka e la fabbrica di cioccolato**
+  - Foto Roy Kinnear: nuova https://image.tmdb.org/t/p/w185/cuKguENjdEiNhNArAL5CqIaTEfE.jpg
+- **f403 The Ghost Writer**
+  - Foto Ewan McGregor: nuova https://image.tmdb.org/t/p/w185/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg
+  - Foto Olivia Williams: nuova https://image.tmdb.org/t/p/w185/gnL7XGfLiAbhqIjV4jAGIZgySJh.jpg
+- **f406 Gladiator**
+  - Foto Russell Crowe: nuova https://image.tmdb.org/t/p/w185/3IBZF0qCZMZ7zJYlgrH0sQzNZV.jpg
+  - Foto Richard Harris: nuova https://image.tmdb.org/t/p/w185/oJIS8QUOCfLUhsfK7kROkLHVyJh.jpg
+- **f412 Minority Report**
+  - Foto Tom Cruise: nuova https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg
+  - Foto Samantha Morton: nuova https://image.tmdb.org/t/p/w185/kHSfnDFbfeKah823y0Gr14lbt31.jpg
+- **f431 Stonehearst Asylum**
+  - Foto Kate Beckinsale: nuova https://image.tmdb.org/t/p/w185/aoIQJzrWRtq9mOeaPadzpUCAaVd.jpg
+- **f438 Dune: Part Two**
+  - Foto Zendaya: nuova https://image.tmdb.org/t/p/w185/qGkBlyn1AwQpuFnRARMRwj0iHZp.jpg
+  - Foto Rebecca Ferguson: nuova https://image.tmdb.org/t/p/w185/ra53cM1aNmdH0aFhj8yBqPOj2fb.jpg
+- **f442 The Secret in Their Eyes**
+  - Foto Ricardo Darín: nuova https://image.tmdb.org/t/p/w185/2laJXyYQkL9YdLL1PRdD3hLZ6Uy.jpg
+- **f445 Black Swan**
+  - Foto Winona Ryder: nuova https://image.tmdb.org/t/p/w185/oYjqkpFCflMz2h6urPpl1nA5sh2.jpg
+- **f448 Marty Supreme**
+  - Foto Gwyneth Paltrow: nuova https://image.tmdb.org/t/p/w185/ylN4A7fnnNXvHURENl5sQI8Jbib.jpg
+- **f465 Harry Potter and the Deathly Hallows: Part 1**
+  - Foto Rupert Grint: nuova https://image.tmdb.org/t/p/w185/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg
+  - Foto Ralph Fiennes: attore non nel cast TMDB, verificare/rimuovere
+- **f468 Spider-Man 3**
+  - Foto Topher Grace: nuova https://image.tmdb.org/t/p/w185/89sF57Br5lq8nrepS7HLzJ41QD1.jpg
+- **f471 Spider-Man: Homecoming**
+  - Foto Tom Holland: nuova https://image.tmdb.org/t/p/w185/adwEBb2sCSzqwnpVgNEG7irl1Ne.jpg
+  - Foto Zendaya: attore non nel cast TMDB, verificare/rimuovere
+- **f474 Spider-Man: Brand New Day**
+  - Foto Tom Holland: nuova https://image.tmdb.org/t/p/w185/adwEBb2sCSzqwnpVgNEG7irl1Ne.jpg
+  - Foto Zendaya: nuova https://image.tmdb.org/t/p/w185/qGkBlyn1AwQpuFnRARMRwj0iHZp.jpg
+  - Foto Jon Bernthal: nuova https://image.tmdb.org/t/p/w185/bjcglF1IpDcZNs1HwFxakGpzBo6.jpg
+- **f477 Harry Potter and the Goblet of Fire**
+  - Foto Rupert Grint: nuova https://image.tmdb.org/t/p/w185/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg
+  - Foto Ralph Fiennes: attore non nel cast TMDB, verificare/rimuovere
+- **f481 Harry Potter and the Philosopher's Stone**
+  - Foto Rupert Grint: nuova https://image.tmdb.org/t/p/w185/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg
+  - Foto Emma Watson: nuova https://image.tmdb.org/t/p/w185/mf0OANvWYSzU1d8yggrhyw8IbIz.jpg
+  - Foto Richard Harris: nuova https://image.tmdb.org/t/p/w185/oJIS8QUOCfLUhsfK7kROkLHVyJh.jpg
+- **f2 Prisoners**
+  - Foto Hugh Jackman: nuova https://image.tmdb.org/t/p/w185/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg
+- **f13 Catch Me If You Can**
+  - Foto Amy Adams: nuova https://image.tmdb.org/t/p/w185/gn0K6c6d1L6qQrRc86iL8uyIqiF.jpg
+- **f25 Arrival**
+  - Foto Amy Adams: nuova https://image.tmdb.org/t/p/w185/gn0K6c6d1L6qQrRc86iL8uyIqiF.jpg
+- **f28 Pirates of the Caribbean: The Curse of the Black Pearl**
+  - Foto Keira Knightley: nuova https://image.tmdb.org/t/p/w185/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg
+- **f34 Hacksaw Ridge**
+  - Foto Andrew Garfield: nuova https://image.tmdb.org/t/p/w185/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg
+- **f53 Snatch**
+  - Foto Jason Statham: nuova https://image.tmdb.org/t/p/w185/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg
+- **f64 The Imitation Game**
+  - Foto Keira Knightley: nuova https://image.tmdb.org/t/p/w185/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg
+  - Foto Charles Dance: attore non nel cast TMDB, verificare/rimuovere
+- **f70 Pirates of the Caribbean: Dead Man's Chest**
+  - Foto Keira Knightley: nuova https://image.tmdb.org/t/p/w185/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg
+- **f73 The Notebook**
+  - Foto Gena Rowlands: nuova https://image.tmdb.org/t/p/w185/j6Op08k2AkPGrNHpMNp30Pu8t36.jpg
+- **f84 The Big Short**
+  - Foto Steve Carell: nuova https://image.tmdb.org/t/p/w185/sSxw69G0znJuettMYGDCAXfSwSY.jpg
+- **f87 Blade Runner 2049**
+  - Foto Ana de Armas: nuova https://image.tmdb.org/t/p/w185/ngHnBOofQzCO3AvMyuW3UMRWg1B.jpg
+- **f90 The Untouchables**
+  - Foto Sean Connery: nuova https://image.tmdb.org/t/p/w185/cd0zKpYJ6eSutkrZkLFxQCGjhnF.jpg
+- **f93 Real Steel**
+  - Foto Hugh Jackman: nuova https://image.tmdb.org/t/p/w185/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg
+  - Foto Evangeline Lilly: nuova https://image.tmdb.org/t/p/w185/pJHX2jd7ytre3NQbF9nlyWUqxH3.jpg
+  - Foto Anthony Mackie: nuova https://image.tmdb.org/t/p/w185/vecvTm7SimizluJkyIwBxeLbvRm.jpg
+- **f102 Home Alone 1**
+  - Foto Macaulay Culkin: nuova https://image.tmdb.org/t/p/w185/hVagDqi5o8lZ21b1kXAl45Sj9wt.jpg
+- **f105 La haine**
+  - Cast: Vincent Cassel, Hubert Koundé, Saïd Taghmaoui, Karim Belkhadra → **Vincent Cassel, Hubert Koundé, Saïd Taghmaoui, Abdel Ahmed Ghili, Solo**
+- **f111 Grease**
+  - Foto Stockard Channing: nuova https://image.tmdb.org/t/p/w185/fsk0HkOVKtdcbHfsc99bQvMJep3.jpg
+- **f117 Maze Runner 3**
+  - Foto Kaya Scodelario: nuova https://image.tmdb.org/t/p/w185/qmtXUabwXw0RvyK6R0la6CmvGxr.jpg
+  - Foto Giancarlo Esposito: attore non nel cast TMDB, verificare/rimuovere
+- **f120 Donnie Darko**
+  - Foto Drew Barrymore: nuova https://image.tmdb.org/t/p/w185/8qvMFslwrC3w1OwJYqE3mHPvffr.jpg
+- **f123 The Silence of the Lambs**
+  - Foto Anthony Hopkins: nuova https://image.tmdb.org/t/p/w185/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg
+- **f126 The Discovery**
+  - Foto Robert Redford: nuova https://image.tmdb.org/t/p/w185/m5ayL8ASLdaaFYzqJZNYvrKRuhD.jpg
+  - Foto Riley Keough: nuova https://image.tmdb.org/t/p/w185/du1FYr5dTQL6gCMX6ISnQBOxz2F.jpg
+- **f129 Home Alone 2**
+  - Foto Macaulay Culkin: nuova https://image.tmdb.org/t/p/w185/hVagDqi5o8lZ21b1kXAl45Sj9wt.jpg
+- **f138 The Spiderwick Chronicles**
+  - Foto Mary-Louise Parker: nuova https://image.tmdb.org/t/p/w185/1ohhrIZ4OMlLx9DvHjPhQJAIP0F.jpg
+- **f141 Margin Call**
+  - Foto Paul Bettany: nuova https://image.tmdb.org/t/p/w185/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg
+- **f144 Che bella giornata**
+  - Foto Checco Zalone: nuova https://image.tmdb.org/t/p/w185/kSK1TGkKe7iGmcAliSmQYqXFlDv.jpg
+- **f147 Mr. Popper's Penguins**
+  - Foto Angela Lansbury: nuova https://image.tmdb.org/t/p/w185/gGAWbfMqhJnXzC8dRLeOSXOo9vO.jpg
+- **f150 Home Alone 3**
+  - Foto Scarlett Johansson: attore non nel cast TMDB, verificare/rimuovere
+- **f453 The Hobbit: The Desolation of Smaug**
+  - Foto Evangeline Lilly: nuova https://image.tmdb.org/t/p/w185/pJHX2jd7ytre3NQbF9nlyWUqxH3.jpg
+- **f458 The Hunger Games: The Ballad of Songbirds & Snakes**
+  - Foto Rachel Zegler: nuova https://image.tmdb.org/t/p/w185/a1RxUQd3HExVgt8laH4VaUytdz.jpg
+  - Foto Hunter Schafer: nuova https://image.tmdb.org/t/p/w185/bYLRZOkrOvFBu2G6OTNNWRU4rfF.jpg
+- **f174 Synecdoche, New York**
+  - Foto Samantha Morton: nuova https://image.tmdb.org/t/p/w185/kHSfnDFbfeKah823y0Gr14lbt31.jpg
+- **f187 Cape Fear**
+  - Foto Jessica Lange: nuova https://image.tmdb.org/t/p/w185/aWcO6trggSWsglUOdTVzjG4LSh3.jpg
+- **f190 Apocalypse Now**
+  - Foto Frederic Forrest: nuova https://image.tmdb.org/t/p/w185/daSNber2lZjvxrlOR3WcEX0CFZM.jpg
+  - Foto Dennis Hopper: attore non nel cast TMDB, verificare/rimuovere
+- **f196 Inside Men**
+  - Cast: Lee Byung-hun, Cho Seung-woo, Baek Yoon-sik, Lee Kyung-young, Kim Hong-pa → **Lee Byung-hun**
+  - Foto Lee Byung-hun: nuova https://image.tmdb.org/t/p/w185/5p5LDbZtnKhXDZL5227ExukbnRo.jpg
+  - Foto Baek Yoon-sik: attore non nel cast TMDB, verificare/rimuovere
+- **f199 The Pianist**
+  - Foto Emilia Fox: nuova https://image.tmdb.org/t/p/w185/lZpNRsHAOW8m0f7bRfgUDmRRjo.jpg
+- **f213 Being John Malkovich**
+  - Foto Cameron Diaz: nuova https://image.tmdb.org/t/p/w185/tIWUyvmJayu8gtbrzCWC0L3H8kH.jpg
+- **f216 Cold in July**
+  - Foto Don Johnson: nuova https://image.tmdb.org/t/p/w185/6s6oav541p7xspCG6PvXut7knkP.jpg
+- **f224 Big Fish**
+  - Foto Ewan McGregor: nuova https://image.tmdb.org/t/p/w185/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg
+  - Foto Albert Finney: nuova https://image.tmdb.org/t/p/w185/v77sxrIQvkPmiqE4bODGocXgDTl.jpg
+  - Foto Jessica Lange: nuova https://image.tmdb.org/t/p/w185/aWcO6trggSWsglUOdTVzjG4LSh3.jpg
+- **f230 Dead Man's Shoes**
+  - Foto Paddy Considine: nuova https://image.tmdb.org/t/p/w185/yFDFSlF4J1m9P0kVwBTKIHB8LYk.jpg
+- **f236 Pulp Fiction**
+  - Foto Samuel L. Jackson: nuova https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg
+  - Foto Uma Thurman: nuova https://image.tmdb.org/t/p/w185/sBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg
+  - Foto Ving Rhames: nuova https://image.tmdb.org/t/p/w185/tOVDvu1EQP78AwaUw6uh1wN818E.jpg
+- **f243 Dune**
+  - Foto Rebecca Ferguson: nuova https://image.tmdb.org/t/p/w185/ra53cM1aNmdH0aFhj8yBqPOj2fb.jpg
+- **f256 The Place Beyond the Pines**
+  - Foto Bradley Cooper: nuova https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg
+  - Foto Eva Mendes: nuova https://image.tmdb.org/t/p/w185/4xptMw7AjNamFgfGt75sHaT0wsI.jpg
+  - Foto Rose Byrne: nuova https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg
+  - Foto Dane DeHaan: nuova https://image.tmdb.org/t/p/w185/uwl0WKqHj6ahsriOEPLks84T70j.jpg
+- **f262 Independence Day**
+  - Foto Randy Quaid: attore non nel cast TMDB, verificare/rimuovere
+- **f265 First Man**
+  - Foto Claire Foy: nuova https://image.tmdb.org/t/p/w185/pI1lOswQWZRhc8TKu0MESulw9uF.jpg
+- **f272 21 Jump Street**
+  - Foto Dave Franco: nuova https://image.tmdb.org/t/p/w185/to7ee1xcCOpDSKMXjBIRuYEfbEc.jpg
+- **f278 Battle Royale**
+  - Cast: Tatsuya Fujiwara, Aki Maeda, Taro Yamamoto, Chiaki Kuriyama, Masanobu Ando → **Takeshi Kitano, Masanobu Ando, Hirohito Honda, Ryou Nitta, Sayaka Ikeda**
+  - Foto Tatsuya Fujiwara: attore non nel cast TMDB, verificare/rimuovere
+- **f284 Blue Velvet**
+  - Foto Dennis Hopper: nuova https://image.tmdb.org/t/p/w185/hfrzsJhkX7Vphe3pVYk8lA9BNfg.jpg
+- **f305 Falling Down**
+  - Foto Tuesday Weld: nuova https://image.tmdb.org/t/p/w185/yp9Ng5tjVhhws17CgVqWWEEbqrb.jpg
+- **f311 Frailty**
+  - Foto Jeremy Sumpter: nuova https://image.tmdb.org/t/p/w185/pycR7N2pLA1fYFdySq1fP2wW7rN.jpg
+- **f324 Her**
+  - Foto Scarlett Johansson: nuova https://image.tmdb.org/t/p/w185/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg
+  - Foto Amy Adams: attore non nel cast TMDB, verificare/rimuovere
+- **f333 La La Land**
+  - Foto Emma Stone: nuova https://image.tmdb.org/t/p/w185/mstXxlDqhoK0s0molsNpskJ1wLH.jpg
+- **f336 Lost in Translation**
+  - Foto Scarlett Johansson: nuova https://image.tmdb.org/t/p/w185/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg
+- **f345 Nocturnal Animals**
+  - Foto Amy Adams: nuova https://image.tmdb.org/t/p/w185/gn0K6c6d1L6qQrRc86iL8uyIqiF.jpg
+- **f354 Portrait of a Lady on Fire**
+  - Foto Luàna Bajrami: nuova https://image.tmdb.org/t/p/w185/yjA6oAhxtRZfrC68VvAI8yOttA7.jpg
+- **f380 The Zone of Interest**
+  - Foto Sandra Hüller: nuova https://image.tmdb.org/t/p/w185/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg
+- **f404 Under the Silver Lake**
+  - Foto Andrew Garfield: nuova https://image.tmdb.org/t/p/w185/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg
+  - Foto Riley Keough: nuova https://image.tmdb.org/t/p/w185/du1FYr5dTQL6gCMX6ISnQBOxz2F.jpg
+  - Foto Topher Grace: nuova https://image.tmdb.org/t/p/w185/89sF57Br5lq8nrepS7HLzJ41QD1.jpg
+- **f407 Vanilla Sky**
+  - Foto Tom Cruise: nuova https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg
+  - Foto Cameron Diaz: nuova https://image.tmdb.org/t/p/w185/tIWUyvmJayu8gtbrzCWC0L3H8kH.jpg
+- **f413 Wind River**
+  - Foto Elizabeth Olsen: nuova https://image.tmdb.org/t/p/w185/vXz0E5lQKZS1RnlmcHSGbdR0CzG.jpg
+  - Foto Jon Bernthal: nuova https://image.tmdb.org/t/p/w185/bjcglF1IpDcZNs1HwFxakGpzBo6.jpg
+- **f439 Dune: Part Three**
+  - Cast: Timothée Chalamet, Zendaya, Austin Butler, Josh Brolin, Florence Pugh → **Timothée Chalamet, Zendaya, Jason Momoa, Florence Pugh, Rebecca Ferguson**
+  - Foto Zendaya: nuova https://image.tmdb.org/t/p/w185/qGkBlyn1AwQpuFnRARMRwj0iHZp.jpg
+  - Foto Florence Pugh: nuova https://image.tmdb.org/t/p/w185/2URrZb95t3kY6pLroKny3Enmabp.jpg
+  - Foto Austin Butler: attore non nel cast TMDB, verificare/rimuovere
+- **f463 Harry Potter and the Order of the Phoenix**
+  - Foto Rupert Grint: nuova https://image.tmdb.org/t/p/w185/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg
+  - Foto Ralph Fiennes: attore non nel cast TMDB, verificare/rimuovere
+- **f469 The Amazing Spider-Man**
+  - Foto Andrew Garfield: nuova https://image.tmdb.org/t/p/w185/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg
+  - Foto Emma Stone: nuova https://image.tmdb.org/t/p/w185/mstXxlDqhoK0s0molsNpskJ1wLH.jpg
+- **f472 Spider-Man: Far From Home**
+  - Foto Tom Holland: nuova https://image.tmdb.org/t/p/w185/adwEBb2sCSzqwnpVgNEG7irl1Ne.jpg
+  - Foto Samuel L. Jackson: nuova https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg
+  - Foto Zendaya: nuova https://image.tmdb.org/t/p/w185/qGkBlyn1AwQpuFnRARMRwj0iHZp.jpg
+- **f475 Harry Potter and the Chamber of Secrets**
+  - Foto Rupert Grint: nuova https://image.tmdb.org/t/p/w185/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg
+- **f478 Harry Potter and the Deathly Hallows: Part 2**
+  - Foto Rupert Grint: nuova https://image.tmdb.org/t/p/w185/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg
+  - Foto Ralph Fiennes: nuova https://image.tmdb.org/t/p/w185/pCnVXH1Uo2ODoOit4UXni8OD9VB.jpg
+
+### 9.2 Serie TV
+
+- **s121 The Penguin**
+  - Cast/personaggi TMDB: **Colin Farrell (Oz 'The Penguin' Cobb); Cristin Milioti (Sofia Falcone); Rhenzy Feliz (Victor Aguilar); Deirdre O'Connell (Francis Cobb); Clancy Brown (Salvatore Maroni); Carmen Ejogo (Eve Karlo)**
+- **s123 His Dark Materials**
+  - Generi: None → **['Fantascienza, Fantasy', 'Dramma', 'Azione, Avventura']** (verificare)
+- **s120 The Mentalist**
+  - Cast/personaggi TMDB: **Simon Baker (Patrick Jane); Robin Tunney (Teresa Lisbon); Tim Kang (Kimball Cho); Owain Yeoman (Wayne Rigsby); Amanda Righetti (Grace Van Pelt); Joe Adler (Jason Wylie)**
+- **s1 Breaking Bad**
+  - Cast/personaggi TMDB: **Bryan Cranston (Walter White); Aaron Paul (Jesse Pinkman); Anna Gunn (Skyler White); RJ Mitte (Walter White Jr.); Dean Norris (Hank Schrader); Betsy Brandt (Marie Schrader)**
+  - Foto: Foto diversa da TMDB: ['Giancarlo Esposito'] → URL TMDB nel JSON (`cast`)
+- **s4 Friends**
+  - Cast/personaggi TMDB: **Jennifer Aniston (Rachel Green); Courteney Cox (Monica Geller); Lisa Kudrow (Phoebe Buffay); Matt LeBlanc (Joey Tribbiani); Matthew Perry (Chandler Bing); David Schwimmer (Ross Geller)**
+- **s6 Game of Thrones**
+  - Cast/personaggi TMDB: **Peter Dinklage (Tyrion 'The Halfman' Lannister); Kit Harington (Jon Snow); Nikolaj Coster-Waldau (Sir Jaime 'Kingslayer' Lannister); Lena Headey (Cersei Lannister); Emilia Clarke (Daenerys Targaryen); Maisie Williams (Arya Stark)**
+- **s7 La casa di carta**
+  - Foto: Foto diversa da TMDB: ['Rodrigo de la Serna'] → URL TMDB nel JSON (`cast`)
+- **s8 Better Call Saul**
+  - Cast/personaggi TMDB: **Bob Odenkirk (Jimmy McGill); Jonathan Banks (Mike Ehrmantraut); Rhea Seehorn (Kim Wexler); Patrick Fabian (Howard Hamlin); Michael Mando (Nacho Varga); Giancarlo Esposito (Gus Fring)**
+  - Foto: Foto diversa da TMDB: ['Giancarlo Esposito'] → URL TMDB nel JSON (`cast`)
+- **s10 Lost**
+  - Foto: Foto diversa da TMDB: ['Evangeline Lilly'] → URL TMDB nel JSON (`cast`)
+- **s11 Band of Brothers**
+  - Cast/personaggi TMDB: **Michael Cudlitz (Denver (Bull) Randleman); Rick Gomez (George Luz); Scott Grimes (Donald G. Malarkey); Damian Lewis (Richard D. Winters); Ron Livingston (Lewis Nixon); James Madio (Frank J. Perconte)**
+- **s13 Squid Game**
+  - Cast/personaggi TMDB: **Lee Jung-jae (Seong Gi-hun / Player 456); Lee Byung-hun (Front Man / Hwang In-ho); Kang Ae-sim (Jang Geum-ja / Player 149); Kang Ha-neul (Kang Dae-ho / Player 388); David Lee (Park Min-su / Player 125); Anupam Tripathi (Ali Abdul / Player 199)**
+- **s14 Peaky Blinders**
+  - Cast/personaggi TMDB: **Cillian Murphy (Thomas Shelby); Paul Anderson (Arthur Shelby); Sophie Rundle (Ada Shelby); Helen McCrory (Polly Gray); Finn Cole (Michael Gray); Ian Peck (Curly)**
+- **s15 The Expanse**
+  - Cast/personaggi TMDB: **Steven Strait (Jim Holden); Dominique Tipper (Naomi Nagata); Wes Chatham (Amos Burton); Shohreh Aghdashloo (Chrisjen Avasarala); Cas Anvar (Alex Kamal); Frankie Adams (Bobbie Draper)**
+- **s23 Sex Education**
+  - Foto: Foto diversa da TMDB: ['Mimi Keene', 'Tanya Reynolds'] → URL TMDB nel JSON (`cast`)
+- **s24 Succession**
+  - Foto: Foto diversa da TMDB: ['Dagmara Dominczyk'] → URL TMDB nel JSON (`cast`)
+- **s27 Elite**
+  - Cast/personaggi TMDB: **Omar Ayuso (Omar Shanaa); Itzan Escamilla (Samuel García Domínguez); Valentina Zenere (Isadora Artiñan); André Lamoglia (Iván Carvalho); Miguel Bernardeau (Guzmán Nunier Osuna); Arón Piper (Ander Muñoz)**
+  - Foto: Foto diversa da TMDB: ['Ester Expósito'] → URL TMDB nel JSON (`cast`)
+- **s28 Rick and Morty**
+  - Cast/personaggi TMDB: **Chris Parnell (Jerry Smith (voice)); Spencer Grammer (Summer Smith (voice)); Sarah Chalke (Beth Smith (voice)); Justin Roiland (Rick Sanchez / Morty Smith (voice)); Kari Wahlgren (Sharon Lewis (voice)); Tom Kenny (Mr. Stabby / Scientist #2 (voice))**
+- **s29 Lucifer**
+  - Cast/personaggi TMDB: **Tom Ellis (Lucifer Morningstar); Lauren German (Chloe Decker); Kevin Alejandro (Dan Espinoza); D. B. Woodside (Amenadiel); Lesley-Ann Brandt (Mazikeen 'Maze'); Rachael Harris (Linda Martin)**
+  - Foto: Foto diversa da TMDB: ['Tom Welling'] → URL TMDB nel JSON (`cast`)
+- **s31 How I Met Your Mother**
+  - Cast/personaggi TMDB: **Josh Radnor (Ted Mosby); Neil Patrick Harris (Barney Stinson); Jason Segel (Marshall Eriksen); Alyson Hannigan (Lily Aldrin); Cobie Smulders (Robin Scherbatsky); Lyndsy Fonseca (Daughter)**
+- **s32 The Walking Dead**
+  - Cast/personaggi TMDB: **Norman Reedus (Daryl Dixon); Melissa McBride (Carol Peletier); Lauren Cohan (Maggie Greene); Danai Gurira (Michonne Hawthorne); Andrew Lincoln (Rick Grimes); Christian Serratos (Rosita Espinosa)**
+- **s34 WandaVision**
+  - Foto: Foto diversa da TMDB: ['Elizabeth Olsen', 'Randall Park'] → URL TMDB nel JSON (`cast`)
+- **s38 The Leftovers**
+  - Foto: Foto diversa da TMDB: ['Margaret Qualley'] → URL TMDB nel JSON (`cast`)
+- **s39 Suits**
+  - Cast/personaggi TMDB: **Gabriel Macht (Harvey Specter); Rick Hoffman (Louis Litt); Sarah Rafferty (Donna Paulsen); Patrick J. Adams (Mike Ross); Meghan, Duchess of Sussex (Rachel Zane); Gina Torres (Jessica Pearson)**
+- **s41 Outer Banks**
+  - Foto: Foto diversa da TMDB: ['Madison Bailey'] → URL TMDB nel JSON (`cast`)
+- **s42 Barry**
+  - Cast/personaggi TMDB: **Bill Hader (Barry Berkman); Sarah Goldberg (Sally Reed); Anthony Carrigan (NoHo Hank); Henry Winkler (Gene Cousineau); Stephen Root (Monroe Fuches); D'Arcy Carden (Natalie Greer)**
+- **s43 Person of Interest**
+  - Foto: Foto diversa da TMDB: ['Sarah Shahi'] → URL TMDB nel JSON (`cast`)
+- **s45 Vikings**
+  - Cast/personaggi TMDB: **Katheryn Winnick (Lagertha); Gustaf Skarsgård (Floki); Alexander Ludwig (Bjorn Lothbrok); Georgia Hirst (Torvi); Peter Franzén (King Harald Finehair); Alex Høgh Andersen (Ivar Lothbrok / Ivar the Boneless)**
+- **s46 The Good Place**
+  - Cast/personaggi TMDB: **Kristen Bell (Eleanor Shellstrop); Ted Danson (Michael); William Jackson Harper (Chidi Anagonye); Jameela Jamil (Tahani Al-Jamil); Manny Jacinto (Jason Mendoza); D'Arcy Carden (Janet)**
+- **s49 Manhunt**
+  - Cast/personaggi TMDB: **Gethin Anthony (FBI Agent Jack Brennan); Arliss Howard (Earl Embry); Kelly Jenrette (Stacey Knox); Cameron Britton (Richard Jewell); Sam Worthington (Jim 'Fitz' Fitzgerald); Ness Bautista (Joe Holliwell)**
+- **s52 The Last of Us**
+  - Cast/personaggi TMDB: **Bella Ramsey (Ellie Williams); Pedro Pascal (Joel Miller); Gabriel Luna (Tommy Miller); Isabela Merced (Dina); Young Mazino (Jesse); Rutina Wesley (Maria)**
+- **s54 Invincible**
+  - Cast/personaggi TMDB: **Steven Yeun (Mark Grayson / Invincible (voice)); Sandra Oh (Debbie Grayson (voice)); J.K. Simmons (Nolan Grayson / Omni-Man (voice)); Gillian Jacobs (Eve / College Girl (voice)); Walton Goggins (Cecil (voice)); Grey DeLisle (Shrinking Rae (voice))**
+- **s58 Fringe**
+  - Cast/personaggi TMDB: **Anna Torv (Olivia Dunham); Joshua Jackson (Peter Bishop); Jasika Nicole (Astrid Farnsworth); John Noble (Walter Bishop); Lance Reddick (Phillip Broyles); Blair Brown (Nina Sharp)**
+- **s62 Mindhunter**
+  - Cast/personaggi TMDB: **Jonathan Groff (Holden Ford); Holt McCallany (Bill Tench); Anna Torv (Wendy Carr); Sonny Valicenti (ADT Serviceman); Stacey Roca (Nancy Tench); Cotter Smith (Unit Chief Shepard)**
+  - Foto: Foto diversa da TMDB: ['Anna Torv'] → URL TMDB nel JSON (`cast`)
+- **s63 The Pitt**
+  - Foto: Foto diversa da TMDB: ['Supriya Ganesh', 'Fiona Dourif'] → URL TMDB nel JSON (`cast`)
+- **s65 Battlestar Galactica**
+  - Foto: Foto diversa da TMDB: ['Edward James Olmos'] → URL TMDB nel JSON (`cast`)
+- **s67 Boardwalk Empire**
+  - Cast/personaggi TMDB: **Steve Buscemi (Enoch 'Nucky' Thompson); Kelly Macdonald (Margaret Schroeder); Michael Shannon (Nelson Van Alden); Shea Whigham (Elias 'Eli' Thompson); Stephen Graham (Al Capone); Vincent Piazza (Charles 'Lucky' Luciano)**
+- **s68 Gotham**
+  - Cast/personaggi TMDB: **Ben McKenzie (James 'Jim' Gordon); Donal Logue (Harvey Bullock); David Mazouz (Bruce Wayne); Sean Pertwee (Alfred Pennyworth); Robin Lord Taylor (Oswald Cobblepot); Erin Richards (Barbara Kean)**
+- **s69 Sons of Anarchy**
+  - Cast/personaggi TMDB: **Charlie Hunnam (Jax Teller); Katey Sagal (Gemma Teller Morrow); Tommy Flanagan (Filip 'Chibs' Telford); Mark Boone Junior (Bobby Munson); Kim Coates (Alex 'Tig' Trager); Theo Rossi (Juan Carlos 'Juice' Ortiz)**
+- **s70 Oz**
+  - Cast/personaggi TMDB: **Lee Tergesen (Tobias Beecher); Harold Perrineau (Augustus Hill); Dean Winters (Ryan O'Reily); Eamonn Walker (Kareem Saïd); Ernie Hudson (Leo Glynn); Terry Kinney (Tim McManus)**
+- **s75 The Night Of**
+  - Cast/personaggi TMDB: **Riz Ahmed (Nasir 'Naz' Khan); John Turturro (John Stone); Bill Camp (Dennis Box); Jeannie Berlin (Helen Weiss); Poorna Jagannathan (Safar Khan); Amara Karan (Chandra)**
+- **s76 Six Feet Under**
+  - Cast/personaggi TMDB: **Peter Krause (Nate Fisher); Michael C. Hall (David Fisher); Frances Conroy (Ruth Fisher); Lauren Ambrose (Claire Fisher); Freddy Rodríguez (Federico Diaz); Mathew St. Patrick (Keith Charles)**
+- **s77 Severance**
+  - Cast/personaggi TMDB: **Adam Scott (Mark Scout); Britt Lower (Helly Riggs); Tramell Tillman (Seth Milchick); Zach Cherry (Dylan George); Patricia Arquette (Harmony Cobel); Jen Tullock (Devon Scout-Hale)**
+- **s78 Banshee**
+  - Cast/personaggi TMDB: **Antony Starr (Lucas Hood); Ivana Miličević (Anastasia / Carrie Hopewell); Hoon Lee (Job); Frankie Faison (Sugar Bates); Ulrich Thomsen (Kai Proctor); Matt Servitto (Deputy Brock Lotus)**
+- **s79 Silo**
+  - Foto: Foto diversa da TMDB: ['Jessica Brown Findlay'] → URL TMDB nel JSON (`cast`)
+- **s80 The OA**
+  - Cast/personaggi TMDB: **Brit Marling (OA / Nina Azarova); Jason Isaacs (Dr. Hunter 'Hap' Percy); Emory Cohen (Homer Roberts); Phyllis Smith (Elizabeth 'Betty' Broderick-Allen); Patrick Gibson (Steve Winchell); Brendan Meyer (Jesse)**
+- **s81 Daredevil**
+  - Cast/personaggi TMDB: **Charlie Cox (Matt Murdock / Daredevil); Deborah Ann Woll (Karen Page); Elden Henson (Foggy Nelson); Vincent D'Onofrio (Wilson Fisk / Kingpin); Royce Johnson (Sgt. Brett Mahoney); Geoffrey Cantor (Mitchell Ellison)**
+- **s82 Deadwood**
+  - Cast/personaggi TMDB: **Timothy Olyphant (Seth Bullock); Ian McShane (Al Swearengen); Molly Parker (Alma Garret); Jim Beaver (Whitney Ellsworth); W. Earl Brown (Dan Dority); Dayton Callie (Charlie Utter)**
+  - Foto: Foto diversa da TMDB: ['John Thaw'] → URL TMDB nel JSON (`cast`)
+- **s83 The Shield**
+  - Cast/personaggi TMDB: **Michael Chiklis (Vic Mackey); Catherine Dent (Danielle 'Danny' Sofer); Walton Goggins (Shane Vendrell); Michael Jace (Julien Lowe); Jay Karnes (Holland 'Dutch' Wagenbach); Benito Martinez (David Aceveda)**
+- **s85 Atlanta**
+  - Cast/personaggi TMDB: **Donald Glover (Earnest 'Earn' Marks); Brian Tyree Henry (Alfred 'Paper Boi' Miles); LaKeith Stanfield (Darius Epps); Zazie Beetz (Vanessa 'Van' Keefer); Khris Davis (Tracy); Katt Williams (Uncle Willy)**
+  - Foto: Foto diversa da TMDB: ['Keith L. Williams'] → URL TMDB nel JSON (`cast`)
+- **s86 Fargo**
+  - Foto: Foto diversa da TMDB: ['Ewan McGregor'] → URL TMDB nel JSON (`cast`)
+- **s88 Lupin**
+  - Cast/personaggi TMDB: **Omar Sy (Assane Diop); Ludivine Sagnier (Claire); Soufiane Guerrab (Youssef Guedira); Shirine Boutella (Sofia Belkacem); Etan Simon (Raoul Diop); Antoine Gouy (Benjamin Ferel)**
+- **s89 The Last Kingdom**
+  - Cast/personaggi TMDB: **Alexander Dreymon (Uhtred of Bebbanburg); Eliza Butterworth (Aelswith); Arnas Fedaravičius (Sihtric); Mark Rowley (Finan); Emily Cox (Brida); James Northcote (Aldhelm)**
+- **s91 The Sopranos**
+  - Cast/personaggi TMDB: **James Gandolfini (Tony Soprano); Edie Falco (Carmela Soprano); Jamie-Lynn Sigler (Meadow Soprano); Robert Iler (A.J. Soprano); Lorraine Bracco (Jennifer Melfi); Michael Imperioli (Christopher Moltisanti)**
+- **s93 24**
+  - Cast/personaggi TMDB: **Kiefer Sutherland (Jack Bauer); Mary Lynn Rajskub (Chloe O'Brian); Carlos Bernard (Tony Almeida); Dennis Haysbert (David Palmer); Elisha Cuthbert (Kim Bauer); Sarah Clarke (Nina Myers)**
+- **s94 Brooklyn 99**
+  - Cast/personaggi TMDB: **Andy Samberg (Jake Peralta); Melissa Fumero (Amy Santiago); Terry Crews (Terry Jeffords); Joe Lo Truglio (Charles Boyle); Stephanie Beatriz (Rosa Diaz); Andre Braugher (Raymond Holt)**
+- **s95 12 Monkeys**
+  - Cast/personaggi TMDB: **Aaron Stanford (James Cole); Amanda Schull (Cassandra Railly); Barbara Sukowa (Katarina Jones); Emily Hampshire (Jennifer Goines); Todd Stashwick (Deacon); Andrew Gillies (Julian Adler)**
+- **s100 The Americans**
+  - Cast/personaggi TMDB: **Keri Russell (Elizabeth Jennings); Matthew Rhys (Philip Jennings); Holly Taylor (Paige Jennings); Keidrich Sellati (Henry Jennings); Noah Emmerich (Stan Beeman); Costa Ronin (Oleg Igorevich Burov)**
+- **s102 Fallout**
+  - Cast/personaggi TMDB: **Ella Purnell (Lucy MacLean); Aaron Moten (Maximus); Moisés Arias (Norm MacLean); Walton Goggins (The Ghoul / Cooper Howard); Frances Turner (Barb Howard); Kyle MacLachlan (Overseer Hank MacLean)**
+- **s103 Limitless**
+  - Generi: None → **['Dramma', 'Commedia', 'Azione, Avventura']** (verificare)
+- **s104 Hannibal**
+  - Cast/personaggi TMDB: **Mads Mikkelsen (Dr. Hannibal Lecter); Hugh Dancy (Will Graham); Laurence Fishburne (Jack Crawford); Caroline Dhavernas (Dr. Alana Bloom); Aaron Abrams (Brian Zeller); Scott Thompson (Jimmy Price)**
+- **s105 BoJack Horseman**
+  - Cast/personaggi TMDB: **Will Arnett (BoJack Horseman (voice)); Aaron Paul (Todd Chavez (voice)); Alison Brie (Diane Nguyen / Diana the Princess of Wales (voice)); Amy Sedaris (Princess Carolyn (voice)); Paul F. Tompkins (Mr. Peanutbutter / Mr. Chocolate Hazelnut Spread (voice)); Adam Conover (Ethan / A Ryan Seacrest Type / Paparazzi Blue Jay (voice))**
+  - Foto: Foto diversa da TMDB: ['Alison Brie'] → URL TMDB nel JSON (`cast`)
+- **s107 Avatar: The Last Airbender**
+  - Cast/personaggi TMDB: **Zach Tyler Eisen (Aang (voice)); Mae Whitman (Katara (voice)); Jack De Sena (Sokka (voice)); Dante Basco (Zuko (voice)); Dee Bradley Baker (Appa / Momo (voice)); Michaela Jill Murphy (Toph Beifong (voice))**
+- **s108 Over the Garden Wall**
+  - Cast/personaggi TMDB: **Elijah Wood (Wirt (voice)); Collin Dean (Gregory (voice)); Melanie Lynskey (Beatrice (voice)); Samuel Ramey (The Beast (voice)); Christopher Lloyd (The Woodsman (voice)); Jack Jones (Gregory's Frog (voice))**
+- **s109 Eteros Ego**
+  - Cast/personaggi TMDB: **Samuel Akinola (Karim); Kris Radanov (Doctor); Polydoros Vogiatzis (Thanos Kalafatas)**
+  - Generi: None → **['Mistero', 'Crimine']** (verificare)
+- **s114 Twin Peaks**
+  - Cast/personaggi TMDB: **Kyle MacLachlan (Dale Cooper / Dougie Jones); Michael Horse (Tommy 'Hawk' Hill); Harry Goaz (Andy Brennan); Kimmy Robertson (Lucy Moran); Dana Ashbrook (Bobby Briggs); Richard Beymer (Benjamin Horne)**
+  - Foto: Foto diversa da TMDB: ['Harry Goaz'] → URL TMDB nel JSON (`cast`)
+- **s116 Stranger Things**
+  - Foto: Foto diversa da TMDB: ['Winona Ryder', 'Millie Bobby Brown', 'Caleb McLaughlin', 'Charlie Heaton'] → URL TMDB nel JSON (`cast`)
+- **s117 Black Sails**
+  - Cast/personaggi TMDB: **Toby Stephens (Captain James Flint); Luke Arnold (John Silver); Hannah New (Eleanor Guthrie); Jessica Parker Kennedy (Max); Toby Schmitz (Jack Rackham); Tom Hopper (William "Billy Bones" Manderly)**
+- **s118 The Queen's Gambit**
+  - Cast/personaggi TMDB: **Anya Taylor-Joy (Beth Harmon); Chloe Pirrie (Alice Harmon); Marcin Dorociński (Vasily Borgov); Matthew Dennis Lewis (Matt); Russell Dennis Lewis (Mike); Dolores Carbonari (Margaret)**
+- **s119 When They See Us**
+  - Cast/personaggi TMDB: **Asante Blackk (Young Kevin Richardson); Jharrel Jerome (Korey Wise); Ethan Herisse (Young Yusef Salaam); Marquis Rodriguez (Young Raymond Santana Jr.); Caleel Harris (Young Antron McCray); Marsha Stephanie Blake (Linda McCray)**
+- **s126 The Mandalorian**
+  - Cast/personaggi TMDB: **Pedro Pascal (Din Djarin / The Mandalorian); Katee Sackhoff (Bo-Katan Kryze); Misty Rosas (Frog Lady); Chris Bartlett (RA-7 (Performance Artist)); Carl Weathers (Greef Karga); Emily Swallow (Armorer)**
+- **s127 Star Wars: The Clone Wars**
+  - Cast/personaggi TMDB: **Tom Kane (Yoda / Narrator (voice)); Matt Lanter (Lom Pyke (voice)); James Arnold Taylor (Plo Koon (voice)); Dee Bradley Baker (Clone Troopers (voice)); Ashley Eckstein (Ahsoka Tano (voice)); Matthew Wood (General Grievous / Poggle the Lesser / Battle Droids (voice))**
+  - Foto: Foto diversa da TMDB: ['James Arnold Taylor'] → URL TMDB nel JSON (`cast`)
+- **s128 And Then There Were None**
+  - Foto: Foto diversa da TMDB: ['Charles Dance'] → URL TMDB nel JSON (`cast`)
+
+### 9.3 Anime — foto personaggi
+
+- **a41 One Punch Man**
+  - Garou: Garou → https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png
+- **a57 Sakamoto desu ga**
+  - Sakamoto: Sakamoto → https://s4.anilist.co/file/anilistcdn/character/large/b123574-BjW3yjFwphP0.jpg
+- **a125 Komi-san**
+  - Makeru Yamai: Makeru Yadano → https://s4.anilist.co/file/anilistcdn/character/large/b130871-g7EkLNAqyAbe.png
+- **a172 Sword Art Online**
+  - Eugeo: Eugene → https://s4.anilist.co/file/anilistcdn/character/large/b72903-sydZD4sXrDTw.png
+- **a6 Jujutsu Kaisen**
+  - Yuta Okkotsu: Yuuta Okkotsu → https://s4.anilist.co/file/anilistcdn/character/large/b129571-GHJk7gviHOOw.jpg
+- **a10 Horimiya**
+  - Sota Hori: Souta Hori → https://s4.anilist.co/file/anilistcdn/character/large/b66969-w9HNa7igeTeF.png
+- **a14 Fullmetal Alchemist Brotherhood**
+  - Father: non trovato su AniList, foto manuale
+- **a18 Chainsaw Man**
+  - Reze: Reze → https://s4.anilist.co/file/anilistcdn/character/large/b148740-ceAibPxLW8rR.png
+- **a22 Naruto**
+  - Obito Uchiha: Itachi Uchiha → https://s4.anilist.co/file/anilistcdn/character/large/b14-9Kb1E5oel1ke.png
+- **a30 Tokyo Revengers**
+  - Manjiro Sano (Mikey): Manjirou Sano → https://s4.anilist.co/file/anilistcdn/character/large/b145341-CuPldCLZMvvf.png
+  - Ken Ryuguji (Draken): Ken Ryuuguji → https://s4.anilist.co/file/anilistcdn/character/large/b145345-zyirrSsKIDCb.png
+- **a34 Terror in Resonance**
+  - Shibazaki: Shibazaki's Wife → https://s4.anilist.co/file/anilistcdn/character/large/b174741-vVLJ1dxW0Qzo.png
+- **a58 Inuyashiki**
+  - Ichiro Inuyashiki: Ichirou Inuyashiki → https://s4.anilist.co/file/anilistcdn/character/large/b123583-O5TgsLJBiN1k.jpg
+  - Hiro Shishigami: Hiro Shishigami → https://s4.anilist.co/file/anilistcdn/character/large/123581-XPE2OL85SDI7.jpg
+  - Shion Watanabe: Shion Watanabe → https://s4.anilist.co/file/anilistcdn/character/large/b124301-W50V18RQWWu4.png
+  - Andou: non trovato su AniList, foto manuale
+- **a74 Yu-Gi-Oh ZEXAL**
+  - Dr. Faker: Dr. Faker → https://s4.anilist.co/file/anilistcdn/character/large/44044.jpg
+- **a86 Black Clover**
+  - Klaus Lunettes: Klaus Lunettes → https://s4.anilist.co/file/anilistcdn/character/large/b124437-3C1plJbD8jSn.png
+- **a98 Edens Zero**
+  - Pino: Nino → https://s4.anilist.co/file/anilistcdn/character/large/b191279-M9RNRjrMsxEg.jpg
+- **a102 Fruits Basket**
+  - Yuki Sohma: Yuki Souma → https://s4.anilist.co/file/anilistcdn/character/large/b208-5TmAqqh82wNe.png
+  - Shigure Sohma: Shigure Souma → https://s4.anilist.co/file/anilistcdn/character/large/b206-4HokrxTIqu7L.jpg
+  - Kagura Sohma: Kagura Souma → https://s4.anilist.co/file/anilistcdn/character/large/b366-5iIIhczrc3Qr.jpg
+  - Hatsuharu Sohma: Hatsuharu Souma → https://s4.anilist.co/file/anilistcdn/character/large/b369-NDFi2A2BzqO6.png
+  - Momiji Sohma: Momiji Souma → https://s4.anilist.co/file/anilistcdn/character/large/b367-Jc6wMVpL76Ib.png
+  - Hatori Sohma: Hatori Souma → https://s4.anilist.co/file/anilistcdn/character/large/b368-zJEE8gpxBb5f.jpg
+- **a106 Gintama**
+  - Otae Shimura: Tae Shimura → https://s4.anilist.co/file/anilistcdn/character/large/n2944-XzeaielhUwAV.jpg
+- **a118 Inazuma Eleven**
+  - Ryugo Someoka: Ryuugo Someoka → https://s4.anilist.co/file/anilistcdn/character/large/b29851-ZYdIel2caMLW.png
+- **a122 Katekyou Hitman Reborn!**
+  - Kyoko Sasagawa: Kyouko Sasagawa → https://s4.anilist.co/file/anilistcdn/character/large/1857.jpg
+  - Basil: Basil → https://s4.anilist.co/file/anilistcdn/character/large/2167.jpg
+- **a165 Kenpuu Denki Berserk**
+  - Guts: Guts → https://s4.anilist.co/file/anilistcdn/character/large/b422-XTaiTuvRohsV.png
+  - Griffith: Griffith → https://s4.anilist.co/file/anilistcdn/character/large/b424-Jfrsf8I7zBps.png
+  - Casca: Casca → https://s4.anilist.co/file/anilistcdn/character/large/b423-AmVFCaJJOBsc.png
+  - Judeau: Judeau → https://s4.anilist.co/file/anilistcdn/character/large/b454-zAG2pjevq7OO.png
+  - Pippin: Pippin → https://s4.anilist.co/file/anilistcdn/character/large/b597-9VvkEo8hmdxg.png
+  - Corkus: Corkus → https://s4.anilist.co/file/anilistcdn/character/large/b599-bzDp9ze9vxFb.png
+  - Rickert: Rickert → https://s4.anilist.co/file/anilistcdn/character/large/b598-2r2X1nQmr3qP.jpg
+- **a7 Dr. Stone**
+  - Ukyo Saionji: Ukyou Saionji → https://s4.anilist.co/file/anilistcdn/character/large/b145064-cbgNBAEY9q4R.png
+- **a23 JoJo's Bizarre Adventure**
+  - Jotaro Kujo: Joutarou Kuujou → https://s4.anilist.co/file/anilistcdn/character/large/b4003-gWDSEGbeOAll.png
+- **a31 Kanata no Astra**
+  - Yunhua Lu: Yun-Hua Lu → https://s4.anilist.co/file/anilistcdn/character/large/b139436-1ehzIE6ALT9M.png
+- **a35 Spy x Family**
+  - Bond Forger: Loid Forger → https://s4.anilist.co/file/anilistcdn/character/large/b138101-7NCB0Md8zA6G.png
+- **a39 Btooom!**
+  - Himiko Kinoshita: Hidemi Kinoshita → https://s4.anilist.co/file/anilistcdn/character/large/b74431-oYG3xAULgJLy.png
+- **a47 Pluto**
+  - Brau1589: Brau-1589 → https://s4.anilist.co/file/anilistcdn/character/large/b22226-QHgeQdIxEyLW.png
+- **a59 Toradora**
+  - Ryuji Takasu: Ryuuji Takasu → https://s4.anilist.co/file/anilistcdn/character/large/b12295-d45uTNeJHuus.png
+  - Taiga Aisaka: Taiga Aisaka → https://s4.anilist.co/file/anilistcdn/character/large/b12064-7PDN3ylIeAZn.png
+  - Minori Kushieda: Minori Kushieda → https://s4.anilist.co/file/anilistcdn/character/large/b12305-AdKOcp0az9mq.jpg
+  - Yusaku Kitamura: Yuusaku Kitamura → https://s4.anilist.co/file/anilistcdn/character/large/b12306-Nb1orOh4UkpT.png
+  - Ami Kawashima: Ami Kawashima → https://s4.anilist.co/file/anilistcdn/character/large/b13725-Vk30kjvVT82z.png
+- **a63 Charlotte**
+  - Jojiro Takajo: Joujirou Takajou → https://s4.anilist.co/file/anilistcdn/character/large/b88952-0wmPqlWytiRx.png
+- **a75 3-gatsu no Lion**
+  - Kyoko Kubo: Kyouko Kouda → https://s4.anilist.co/file/anilistcdn/character/large/b70293-lGH9JgtugKsZ.png
+- **a79 Ao Ashi**
+  - Kuroda Junnosuke: non trovato su AniList, foto manuale
+- **a83 Baccano!**
+  - Czeslaw Meyer: Czesław Meyer → https://s4.anilist.co/file/anilistcdn/character/large/b3063-zkwLabVw5Pi9.png
+- **a91 Chi. Chikyuu no Undou ni Tsuite**
+  - Yosaf: Gyosha → https://s4.anilist.co/file/anilistcdn/character/large/default.jpg
+- **a123 Kingdom**
+  - Wang Jian: Xiang Qiang → https://s4.anilist.co/file/anilistcdn/character/large/b132052-T3qMaTZ49lJs.png
+- **a154 Tensei shitara Slime Datta Ken**
+  - Hakuro: Hakurou → https://s4.anilist.co/file/anilistcdn/character/large/b131043-AyEdKg1Xkjrd.png
+- **a162 Yuu☆Yuu☆Hakusho**
+  - Toguro: Toguro Ani → https://s4.anilist.co/file/anilistcdn/character/large/b8716-X0s42rAYhG4z.png
+- **a166 Usagi Drop**
+  - Daikichi Kawachi: Daikichi Kawachi → https://s4.anilist.co/file/anilistcdn/character/large/n12668-CU0ySRvjIo2q.png
+  - Rin Kaga: Rin Kaga → https://s4.anilist.co/file/anilistcdn/character/large/b12669-txIOgp7as6ca.png
+- **a8 Vinland Saga**
+  - Thors: non trovato su AniList, foto manuale
+  - Einar: non trovato su AniList, foto manuale
+- **a16 Death Note**
+  - L: non trovato su AniList, foto manuale
+  - Soichiro Yagami: Souichirou Yagami → https://s4.anilist.co/file/anilistcdn/character/large/b1927-iaIWrFITyeJw.jpg
+- **a32 Solo Leveling**
+  - Sung Jinwoo: non trovato su AniList, foto manuale
+  - Go Gunhee: non trovato su AniList, foto manuale
+  - Woo Jinchul: non trovato su AniList, foto manuale
+  - Yoo Jinho: non trovato su AniList, foto manuale
+  - Baek Yoonho: non trovato su AniList, foto manuale
+  - Sung Jinah: Sang-Min Ahn → https://s4.anilist.co/file/anilistcdn/character/large/b306652-pwbDRuTHSVxb.png
+  - Sung Il-Hwan: Song-I Han → https://s4.anilist.co/file/anilistcdn/character/large/b138793-eijpaPPkcipD.png
+- **a36 Dororo**
+  - Nui no Kata: Nuinokata → https://s4.anilist.co/file/anilistcdn/character/large/n133066-Y6qKsJkZNnhI.png
+  - Itachi: Itachi → https://s4.anilist.co/file/anilistcdn/character/large/b136576-qp6PiEOVblUi.png
+- **a56 Howl's Moving Castle**
+  - Sophie Hatter: Sophie Hatter → https://s4.anilist.co/file/anilistcdn/character/large/b508-ONXMgE281eHe.jpg
+  - Howl: Howl → https://s4.anilist.co/file/anilistcdn/character/large/b507-g9yz1GTLtPla.jpg
+  - Calcifer: Calcifer → https://s4.anilist.co/file/anilistcdn/character/large/b6752-T8tNirdJJ8rw.jpg
+  - Markl: Markl → https://s4.anilist.co/file/anilistcdn/character/large/b509-6VwYgQtqu63T.jpg
+  - Madame Suliman: non trovato su AniList, foto manuale
+- **a64 Evangelion**
+  - Gendo Ikari: Gendou Ikari → https://s4.anilist.co/file/anilistcdn/character/large/b1257-qByikcrE8KTG.png
+- **a88 Boruto**
+  - Shikadai Nara: Shikadai Nara → https://s4.anilist.co/file/anilistcdn/character/large/121442-mWU38debEYsQ.jpg
+  - Konohamaru Sarutobi: Konohamaru Sarutobi → https://s4.anilist.co/file/anilistcdn/character/large/n3889-gCUewPsRY2kD.png
+  - Sumire Kakei: Sumire Kakei → https://s4.anilist.co/file/anilistcdn/character/large/b122209-gl4rHbQOa7IM.png
+  - Delta: Delta → https://s4.anilist.co/file/anilistcdn/character/large/b130415-0L7qYVHsJaP4.jpg
+  - Jigen: Jigen → https://s4.anilist.co/file/anilistcdn/character/large/b130418-OANoriz98qJi.png
+- **a131 Mahou Shoujo Madoka Magica**
+  - Kyubey: Kyuubey → https://s4.anilist.co/file/anilistcdn/character/large/b38566-XzE2iqAodRQK.jpg
+- **a147 Sen to Chihiro no Kamikakushi**
+  - Kamaji: Kamajii → https://s4.anilist.co/file/anilistcdn/character/large/b8301-ASa313sbbcI3.png
+- **a151 Soul Eater**
+  - Liz Thompson: Elizabeth Thompson → https://s4.anilist.co/file/anilistcdn/character/large/b8445-7BIqYhg3OKMn.png
+- **a155 Tonari no Totoro**
+  - Nekobus: Nekobasu → https://s4.anilist.co/file/anilistcdn/character/large/271.jpg
+
+### 9.4 Manga — capitoli e autori
+
+- **m1 Slam Dunk**
+  - AniList: 276 capitoli, 31 volumi originali; autori: Takehiko Inoue (Story & Art); Katsumi Tatsuzawa (Assistant); Beth Kodama (Editing (Portuguese)); Diógenes Dih (Editing (Portuguese: vol 13-20))
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 9, '2': 10, '3': 8, '4': 9, '5': 9, '6': 9, '7': 9, '8': 9, '9': 9, '10': 9, '11': 9, '12': 9, '13': 9, '14': 9, '15': 9, '16': 9, '17': 9, '18': 9, '19': 9, '20': 9, '21': 9, '22': 4, '23': 14, '24': 9, '25': 9, '26': 9, '27': 9, '28': 9, '29': 9, '30': 9, '31': 7, 'none': 7}
+  - Segnalazione CAPITOLI: Somma nostri capitoli 188; AniList 276
+- **m2 Solo Leveling**
+  - AniList: 201 capitoli, 15 volumi originali; autori: Seong-Rak Jang (Art (chs 1-179)); So-Ryeong Gi (Story (chs 1-92)); Chu-Gong (Original Story); Hyeon-Gun (Story (chs 93-201)); DISCIPLES (Art (chs 180-200))
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 18, 'none': 22}
+  - Segnalazione CAPITOLI_SOSPETTI: 28/28 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Segnalazione CAPITOLI: Somma nostri capitoli 28; AniList 201
+- **m4 20th Century Boys**
+  - AniList: 249 capitoli, 22 volumi originali; autori: Naoki Urasawa (Story & Art)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 1}
+  - Segnalazione CAPITOLI?: Edizione 'Deluxe edition': somma capitoli 265; originale 249
+- **m5 Blame**
+  - AniList: 1 capitoli, None volumi originali; autori: Tsutomu Nihei (Story & Art)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 7}
+  - Segnalazione CAPITOLI?: Edizione 'Master edition': somma capitoli 67; originale 1
+- **m6 Blue Lock**
+  - AniList: None capitoli, None volumi originali; autori: Tatsuya Endou (Assistant); Muneyuki Kaneshiro (Story); Yuusuke Nomura (Art); Soutarou Nishii (Assistant)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 2, '18': 1, '30': 7, '31': 10, '32': 9, '33': 11, '34': 9, '35': 2, 'none': 100}
+  - Segnalazione VOLUMI_INTERNI: totalVols 34 ma elenco volumi con capitoli ne ha 42
+- **m7 The Killer Inside**
+  - AniList: 98 capitoli, 11 volumi originali; autori: Hajime Inoryu (Story); Shouta Itou (Art)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 3}
+  - Segnalazione CAPITOLI_SOSPETTI: 11/11 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Segnalazione NON_TROVATO: AniList: titolo non riconosciuto (titolo italiano/alternativo?)
+- **m10 Chainsaw Man**
+  - AniList: 232 capitoli, 24 volumi originali; autori: Tatsuki Fujimoto (Story & Art); Hanachika Toyama (Assistant); Norihito Sasaki (Assistant); Yukinobu Tatsu (Assistant); Sou Nishida (Assistant)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 9, '2': 10, '3': 10, '4': 12, '5': 10, '6': 11, '7': 10, '8': 11, '9': 9, '10': 9, '11': 9, '12': 6, '13': 9, '14': 10, '15': 11, '16': 10, '17': 10, '18': 11, '19': 12, '20': 12, '24': 1, 'none': 70}
+  - Segnalazione CAPITOLI: Somma nostri capitoli 208; AniList 232
+- **m18 Shaman King**
+  - AniList: 288 capitoli, 32 volumi originali; autori: Hiroyuki Takei (Story & Art); Kei Kawano (Assistant); Katsunori Matsui (Assistant); Yuusuke Takeyama (Assistant); DAIGO (Assistant); Youichirou Tanabe (Assistant)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'none': 8}
+  - Segnalazione CAPITOLI_SOSPETTI: 35/35 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Segnalazione CAPITOLI?: Edizione 'Final edition': somma capitoli 35; originale 288
+- **m21 Tokyo Revengers**
+  - AniList: 279 capitoli, 31 volumi originali; autori: Ken Wakui (Story & Art)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'none': 3}
+  - Segnalazione VOLUMI_INTERNI: totalVols 31 ma elenco volumi con capitoli ne ha 37
+  - Segnalazione CAPITOLI: Somma nostri capitoli 319; AniList 279
+- **m29 Tower of God**
+  - AniList: None capitoli, None volumi originali; autori: SIU (Story & Art)
+  - Segnalazione VOLUMI_INTERNI: totalVols 500 ma elenco volumi con capitoli ne ha 17
+  - Segnalazione CAPITOLI_SOSPETTI: 16/17 volumi con 1 solo capitolo (probabile segnaposto): [11, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+- **m30 Ashita no Joe**
+  - AniList: 171 capitoli, 20 volumi originali; autori: Ikki Kajiwara (Story); Sanbanchi Kawa (Assistant); Tetsuya Chiba (Story & Art); Akio Chiba (Assistant)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 10, '2': 13, '3': 15, '4': 17, '5': 17, '6': 16, '7': 15, '8': 18, '9': 19, '10': 19, '11': 16, '12': 17, '13': 14, '14': 11, '15': 14, '16': 16, '17': 19, '18': 21, '19': 24, '20': 25, 'none': 1}
+  - Segnalazione CAPITOLI_SOSPETTI: 13/13 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Segnalazione CAPITOLI?: Edizione 'Perfect edition': somma capitoli 13; originale 171
+- **m31 Blue Period**
+  - AniList: 4 capitoli, 1 volumi originali; autori: Shiuko Kano (Story & Art)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 2, 'none': 7}
+  - Segnalazione CAPITOLI_SOSPETTI: 11/18 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 4, 4, 1, 1, 1, 5, 5]
+- **m36 Fullmetal Alchemist**
+  - AniList: 35 capitoli, 6 volumi originali; autori: Hiromu Arakawa (Illustration); Makoto Inoue (Story)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 2, 'none': 1}
+  - Segnalazione CAPITOLI?: Edizione 'Ultimate deluxe': somma capitoli 108; originale 116
+- **m38 Homunculus**
+  - AniList: 166 capitoli, 15 volumi originali; autori: Hideo Yamamoto (Story & Art)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 9, '2': 10, '3': 12, '4': 15, '5': 13, '6': 16, '7': 15, '8': 20, '9': 20, '10': 17, '11': 16, '12': 12, '13': 12, '14': 12, '15': 14, 'none': 35}
+  - Segnalazione CAPITOLI_SOSPETTI: 15/15 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Segnalazione CAPITOLI: Somma nostri capitoli 15; AniList 166
+- **m40 Houseki no Kuni**
+  - AniList: 120 capitoli, 13 volumi originali; autori: Haruko Ichikawa (Story & Art); Lauren Scanlan (Editing (English))
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'none': 2}
+  - Segnalazione CAPITOLI: Somma nostri capitoli 108; AniList 120
+- **m41 I Am Hero**
+  - AniList: 265 capitoli, 22 volumi originali; autori: Kengo Hanazawa (Story & Art)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 1, '9': 9, '10': 12, '11': 13, '12': 13, '13': 12, '14': 12, '15': 12, '16': 12, '17': 13, '18': 12, '19': 12, '20': 5}
+  - Segnalazione CAPITOLI_SOSPETTI: 22/22 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Segnalazione CAPITOLI: Somma nostri capitoli 22; AniList 265
+- **m43 Jagaaaaaan**
+  - AniList: 163 capitoli, 14 volumi originali; autori: Muneyuki Kaneshiro (Story); Kensuke Nishida (Art)
+  - Segnalazione CAPITOLI_SOSPETTI: 13/14 volumi con 1 solo capitolo (probabile segnaposto): [7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Segnalazione CAPITOLI: Somma nostri capitoli 20; AniList 163
+- **m45 Jujutsu Kaisen**
+  - AniList: 272 capitoli, 30 volumi originali; autori: Shiro Usazaki (Assistant); Gege Akutami (Story & Art); Mizuki Yoda (Assistant)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 7, '8': 1, '21': 10, '22': 5, 'none': 1}
+  - Segnalazione VOLUMI_INTERNI: totalVols 30 ma elenco volumi con capitoli ne ha 33
+  - Segnalazione CAPITOLI: Somma nostri capitoli 297; AniList 272
+- **m46 Juujika no Rokunin**
+  - AniList: 234 capitoli, 24 volumi originali; autori: Shiryuu  Nakatake (Story & Art)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 5, '2': 10, '3': 15, '4': 13, '5': 1, '6': 1, '16': 4, '20': 1, '21': 6, '22': 9, '23': 8, '24': 9}
+  - Segnalazione CAPITOLI_SOSPETTI: 14/14 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Segnalazione CAPITOLI: Somma nostri capitoli 14; AniList 234
+  - Segnalazione AUTORI: Nostri ['Autore non confermato']; AniList ['Shiryuu  Nakatake', 'Frederic Malet']
+- **m48 Mushishi**
+  - AniList: 17 capitoli, 1 volumi originali; autori: Yuki Urushibara (Story & Art)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 1, '2': 1, '3': 2, '4': 1}
+  - Segnalazione CAPITOLI: Somma nostri capitoli 50; AniList 1
+  - Segnalazione GENERI: Nostri ['Fantasy', 'Mistero', 'Slice of Life']; AniList ['Horror']
+  - Segnalazione AUTORI: Nostri ['Yuki Urushibara']; AniList ['Kurage Asazuke']
+- **m49 Real**
+  - AniList: 11 capitoli, 1 volumi originali; autori: Aruta Kusui (Story & Art)
+  - Segnalazione CAPITOLI_SOSPETTI: 16/16 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+- **m50 Sekai no Owari no Hajimari ni**
+  - AniList: 4 capitoli, 1 volumi originali; autori: Kei Tanaka (Story & Art)
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+  - Segnalazione AUTORI: Nostri ['Autore non confermato']; AniList ['Kei Tanaka']
+- **m51 Record of Ragnarok**
+  - AniList: None capitoli, None volumi originali; autori: Takumi Fukui (Story); Shinya Umemura (Story); Azychika (Art)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 9, '2': 5, '3': 6, '4': 4, '5': 5, '6': 6, '7': 4, '8': 5, '9': 5, '10': 4, '11': 4, '12': 4, '13': 4, '14': 8, '15': 6, '16': 5, '17': 5, '18': 7, '19': 6, '20': 4, '21': 6, '22': 8, '23': 7, '24': 6, '25': 5, '26': 8, '27': 8, '28': 7, '29': 6, 'none': 24}
+  - Segnalazione CAPITOLI_SOSPETTI: 26/26 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+- **m53 Sun-Ken Rock**
+  - AniList: 181 capitoli, 25 volumi originali; autori: Boichi (Story & Art)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 7, '2': 7, '3': 7, '4': 5, '5': 8, '6': 8, '7': 5, '8': 8, '9': 6, '10': 8, '11': 10, '12': 8, '13': 9, '14': 7, '15': 4, '16': 6, '17': 7, '18': 7, '19': 8, '20': 8, '21': 8, '22': 9, '23': 8, '24': 7, '25': 8}
+  - Segnalazione CAPITOLI_SOSPETTI: 25/25 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Segnalazione CAPITOLI: Somma nostri capitoli 25; AniList 181
+- **m55 The Horizon**
+  - AniList: 21 capitoli, 3 volumi originali; autori: Ji-Hun Jeong (Story & Art)
+  - Segnalazione CAPITOLI_SOSPETTI: 3/3 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1]
+  - Segnalazione CAPITOLI?: Edizione 'Box': somma capitoli 3; originale 21
+  - Segnalazione AUTORI: Nostri ['Autore non confermato']; AniList ['Ji-Hun Jeong', 'Abigail Blackman']
+- **m57 Dededemon Dededestruction**
+  - Segnalazione CAPITOLI_SOSPETTI: 12/12 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Segnalazione NON_TROVATO: AniList: titolo non riconosciuto (titolo italiano/alternativo?)
+- **m68 Rurouni Kenshin**
+  - AniList: 259 capitoli, 28 volumi originali; autori: Eiichirou Oda (Assistant); Nobuhiro Watsuki (Story & Art); Hiroyuki Takei (Assistant); Shinya Suzuki (Assistant); Mikio Itou (Assistant); Gin Shinga (Assistant); Hisashi Sasaki (Editing); Cassius Medaur (Editing (Portuguese)); Marcelo Del Greco (Editing (Portuguese))
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'2': 3}
+  - Segnalazione CAPITOLI_SOSPETTI: 22/22 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Segnalazione CAPITOLI?: Edizione 'Perfect edition': somma capitoli 22; originale 259
+- **m70 MPD Psycho**
+  - AniList: 147 capitoli, 24 volumi originali; autori: Shouu Tajima (Art); Eiji Ootsuka (Story)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 6, '2': 12, '3': 14, '4': 12, '5': 12, '6': 12, '7': 14, '8': 12, '9': 18, '10': 18, '11': 16, '12': 16, '13': 18, '14': 12, '15': 16, '16': 12, '17': 10, '18': 12, '19': 14, '20': 5, '21': 5, '22': 5, '23': 5, '24': 4}
+  - Segnalazione CAPITOLI_SOSPETTI: 24/24 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Segnalazione CAPITOLI: Somma nostri capitoli 24; AniList 147
+- **m72 Utsuro no Hako to Zero no Maria**
+  - AniList: 254 capitoli, 7 volumi originali; autori: Eiji Mikage (Story); Tetsuo (Illustration)
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+  - Segnalazione AUTORI: Nostri ['Autore non confermato']; AniList ['Eiji Mikage', 'Tetsuo', 'Luke Baker', 'Thien Thanh', 'Thuy Tram', 'Maarubi']
+- **m73 Classroom of the Elite**
+  - AniList: None capitoli, None volumi originali; autori: Shunsaku Tomose (Character Design); Shougo Kinugasa (Original Story); Yuyu Ichino (Story & Art)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 8, '2': 7, '3': 9, '4': 7, 'none': 5}
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+- **m74 Your Talent Is Mine**
+  - AniList: 106 capitoli, None volumi originali; autori: Hao Fan (Story); Wei CC (Art); Jian Shen Wu Di (Original Story)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 18, 'none': 82}
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+  - Segnalazione AUTORI: Nostri ['Autore non confermato']; AniList ['Hao Fan', 'Wei CC', 'Jian Shen Wu Di']
+- **m75 The Beginning After the End**
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 32, '2': 36, '3': 39, '4': 43, '5': 60, '6': 63, '7': 13, '239': 2, 'none': 15}
+  - Segnalazione CAPITOLI_SOSPETTI: 6/6 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1]
+  - Segnalazione NON_TROVATO: AniList: titolo non riconosciuto (titolo italiano/alternativo?)
+- **m76 Leveling Up with the Gods**
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 61, '2': 58, '3': 29}
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+  - Segnalazione NON_TROVATO: AniList: titolo non riconosciuto (titolo italiano/alternativo?)
+- **m77 Poison Dragon**
+  - AniList: None capitoli, None volumi originali; autori: Senior (Original Story); Yeong-Gwang (Art); Sang-Won Sin (Story); Mun-Gyeong Choi (Coloring); Mun-Gyeong Choi (Background Art)
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+  - Segnalazione NON_TROVATO: AniList: titolo non riconosciuto (titolo italiano/alternativo?)
+- **m78 Return of the Crazy Demon**
+  - AniList: None capitoli, None volumi originali; autori: JP (Story); Hi Lee (Art); Jin-Seong Yu (Original Story); Ra-Gi Yun (Background Art); Ra-Gi Yun (Coloring)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 127, 'none': 1}
+  - Segnalazione AUTORI: Nostri ['Autore non confermato']; AniList ['JP', 'Hi Lee', 'Jin-Seong Yu', 'Ra-Gi Yun', 'Ra-Gi Yun']
+- **m79 Return of the Unrivaled Spear Knight**
+  - AniList: None capitoli, None volumi originali; autori: Studio Inus (Art); Cho-seonsaengnim (Original Story); Hu-Sang Jo (Story)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'2': 36, '3': 27}
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+  - Segnalazione NON_TROVATO: AniList: titolo non riconosciuto (titolo italiano/alternativo?)
+- **m80 Solo Max-Level Newbie**
+  - AniList: None capitoli, None volumi originali; autori: WAN.Z (Story); Swing Bat (Art); Maslow (Original Story)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'none': 40}
+  - Segnalazione AUTORI: Nostri ['Sadoyeon']; AniList ['WAN.Z', 'Swing Bat', 'Maslow']
+- **m81 A Returner's Magic Should Be Special**
+  - AniList: 268 capitoli, None volumi originali; autori: Usonan (Original Story); Wookjakga (Art)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 70, '2': 54, '3': 32, '5': 48}
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+- **m82 Great Mage Returns After 4000 Years**
+  - AniList: None capitoli, None volumi originali; autori: Nakhasan (Original Story); Deok-Yong Kim (Art); Barnicle (Story)
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+  - Segnalazione AUTORI: Nostri ['Autore non confermato']; AniList ['Barnicle', 'Deok-Yong Kim', 'Nakhasan']
+- **m83 Nano Machine**
+  - AniList: None capitoli, None volumi originali; autori: Geobalhan (Story); Geumgangbulgoe (Art); Hanjung Worya (Original Story)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 1, '2': 26, 'none': 125}
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+  - Segnalazione AUTORI: Nostri ['Han Jung Hoon', 'Bak Jong Hee']; AniList ['Geobalhan', 'Geumgangbulgoe', 'Hanjung Worya', 'Alexandra Dickmann']
+- **m84 Legend of the Northern Blade**
+  - AniList: 202 capitoli, None volumi originali; autori: U-Gak (Original Story); Hae-Min (Story & Art); Son (Assistant)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'none': 3}
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+  - Segnalazione AUTORI: Nostri ['Autore non confermato']; AniList ['Hae-Min', 'U-Gak', 'Son']
+- **m85 Omniscient Reader's Viewpoint**
+  - AniList: None capitoli, None volumi originali; autori: Singsyong (Original Story); Sleepy-C (Art); UMI (Story); Geomnem (Original Character Design)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 1, 'none': 76}
+  - Segnalazione CAPITOLI_SOSPETTI: 4/4 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1]
+- **m86 Mercenary Enrollment**
+  - AniList: None capitoli, None volumi originali; autori: YC (Story); Rakyeon (Art)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'none': 147}
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+  - Segnalazione NON_TROVATO: AniList: titolo non riconosciuto (titolo italiano/alternativo?)
+- **m87 God Game**
+  - AniList: 76 capitoli, 8 volumi originali; autori: Nanakusa (Illustration); Shuu Miyazaki (Story)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 5, '2': 1}
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+  - Segnalazione AUTORI: Nostri ['Autore non confermato']; AniList ['Shuu Miyazaki', 'Nanakusa']
+- **m88 Her Summon**
+  - AniList: 62 capitoli, None volumi originali; autori: Jin-Jun Park (Story & Art)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'none': 10}
+  - Segnalazione VOLUMI_INTERNI: totalVols 117 ma elenco volumi con capitoli ne ha 1
+  - Segnalazione AUTORI: Nostri ['Autore non confermato']; AniList ['Jin-Jun Park']
+- **m89 Reverend Insanity**
+  - AniList: 96 capitoli, None volumi originali; autori: Gu Zhenren (Original Story); Ran Hui Wenhua (Story & Art)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'none': 97}
+  - Segnalazione CAPITOLI: Somma nostri capitoli 22; AniList 96 (serie in corso)
+- **m90 Lord of Mysteries**
+  - AniList: None capitoli, None volumi originali; autori: Ai Qianshui de Wuzei (Original Story); Chun Ba (Story); Yuanyan de Qiqiu (Art)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'none': 15}
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+  - Segnalazione AUTORI: Nostri ['Cuttlefish That Loves Diving']; AniList ['Chun Ba', 'Yuanyan de Qiqiu', 'Ai Qianshui de Wuzei']
+- **m91 Age of Adepts**
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+  - Segnalazione NON_TROVATO: AniList: titolo non riconosciuto (titolo italiano/alternativo?)
+- **m92 House of Horrors**
+  - AniList: 10 capitoli, 1 volumi originali; autori: Miyako Cojima (Story & Art)
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+  - Segnalazione AUTORI: Nostri ['Autore non confermato']; AniList ['Miyako Cojima']
+- **m93 Warlock of the Magus World**
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+  - Segnalazione NON_TROVATO: AniList: titolo non riconosciuto (titolo italiano/alternativo?)
+- **m94 Radiant**
+  - AniList: 10 capitoli, 1 volumi originali; autori: Kentarou (Story & Art)
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 5, '2': 9, '3': 9, '4': 8, '5': 8, '6': 8, '7': 8, '8': 8, '9': 8, '10': 8, '11': 8, '12': 8, '13': 8, '14': 8, '15': 8, '16': 8, '17': 8, '18': 8, '19': 8}
+  - Segnalazione CAPITOLI: Somma nostri capitoli 148; AniList 1
+  - Segnalazione GENERI: Nostri ['Fantasy', 'Azione', 'Avventura']; AniList ['Hentai', 'Romance']
+  - Segnalazione AUTORI: Nostri ['Tony Valente']; AniList ['Niiro Ikuhana']
+- **m98 Birth of the Demonic Sword**
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+  - Segnalazione NON_TROVATO: AniList: titolo non riconosciuto (titolo italiano/alternativo?)
+- **m99 Galaxias**
+  - AniList: None capitoli, None volumi originali; autori: Ao Hatezaka (Story & Art); Katherine Tran (Editing (English))
+  - MangaDex capitoli per volume (edizione inglese, indicativo): {'1': 5, '2': 11, '3': 10, 'none': 10}
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+  - Segnalazione GENERI: Nostri ['Sci-Fi']; AniList ['Action', 'Adventure', 'Fantasy']
+  - Segnalazione AUTORI: Nostri ['Autore non confermato']; AniList ['Ao Hatezaka', 'Nate Derr', 'Jan Ivan Concepcion', 'Katherine Tran']
+- **m96 Orfani**
+  - Segnalazione CAPITOLI_SOSPETTI: 16/16 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  - Segnalazione NON_TROVATO: AniList: titolo non riconosciuto (titolo italiano/alternativo?)
+- **m97 Qwest**
+  - Segnalazione CAPITOLI_MANCANTI: Nessun dato capitoli per volume
+  - Segnalazione NON_TROVATO: AniList: titolo non riconosciuto (titolo italiano/alternativo?)

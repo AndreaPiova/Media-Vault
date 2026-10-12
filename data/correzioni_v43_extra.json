@@ -1,0 +1,6123 @@
+{
+ "films": [
+  {
+   "id": "f479",
+   "titolo": "The Odyssey",
+   "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
+   "foto": {
+    "Tom Holland": "https://image.tmdb.org/t/p/w185/adwEBb2sCSzqwnpVgNEG7irl1Ne.jpg"
+   }
+  },
+  {
+   "id": "f8",
+   "titolo": "The Departed",
+   "foto": {
+    "Jack Nicholson": "https://image.tmdb.org/t/p/w185/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg"
+   }
+  },
+  {
+   "id": "f11",
+   "titolo": "Guardians of the Galaxy 1",
+   "foto": {
+    "Vin Diesel": "https://image.tmdb.org/t/p/w185/tEoUF0RJqHnskmBOJiDEQhyN7Ok.jpg",
+    "Bradley Cooper": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
+   }
+  },
+  {
+   "id": "f17",
+   "titolo": "Memories of Murder",
+   "cast": "Song Kang-ho, Song Jae-ho, Son Kang-gook",
+   "foto": {
+    "Kim Sang-kyung": null
+   }
+  },
+  {
+   "id": "f20",
+   "titolo": "Guardians of the Galaxy 3",
+   "foto": {
+    "Bradley Cooper": null
+   }
+  },
+  {
+   "id": "f29",
+   "titolo": "The Social Network",
+   "foto": {
+    "Andrew Garfield": "https://image.tmdb.org/t/p/w185/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+   }
+  },
+  {
+   "id": "f38",
+   "titolo": "Memento",
+   "foto": {
+    "Carrie-Anne Moss": "https://image.tmdb.org/t/p/w185/9zya72vRZYBQILfetACsnmCBgdj.jpg"
+   }
+  },
+  {
+   "id": "f40",
+   "titolo": "Training Day",
+   "foto": {
+    "Eva Mendes": null
+   }
+  },
+  {
+   "id": "f43",
+   "titolo": "The Matrix",
+   "foto": {
+    "Carrie-Anne Moss": "https://image.tmdb.org/t/p/w185/9zya72vRZYBQILfetACsnmCBgdj.jpg"
+   }
+  },
+  {
+   "id": "f46",
+   "titolo": "Project Hail Mary",
+   "foto": {
+    "Sandra Hüller": "https://image.tmdb.org/t/p/w185/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
+   }
+  },
+  {
+   "id": "f51",
+   "titolo": "Drive",
+   "foto": {
+    "Bryan Cranston": "https://image.tmdb.org/t/p/w185/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg"
+   }
+  },
+  {
+   "id": "f54",
+   "titolo": "Knowing",
+   "foto": {
+    "Rose Byrne": "https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+   }
+  },
+  {
+   "id": "f80",
+   "titolo": "Pirates of the Caribbean: At World's End",
+   "foto": {
+    "Keira Knightley": "https://image.tmdb.org/t/p/w185/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg"
+   }
+  },
+  {
+   "id": "f82",
+   "titolo": "The Illusionist",
+   "foto": {
+    "Jessica Biel": "https://image.tmdb.org/t/p/w185/u5DzbWKvAzS0M4ZhYqpUR9MZr2M.jpg"
+   }
+  },
+  {
+   "id": "f85",
+   "titolo": "La Fabbrica di Cioccolato",
+   "foto": {
+    "AnnaSophia Robb": null
+   }
+  },
+  {
+   "id": "f100",
+   "titolo": "The Redeem Team",
+   "foto": {
+    "LeBron James": "https://image.tmdb.org/t/p/w185/wcAzgD7NFT61iUJURIY26FaCVyB.jpg"
+   }
+  },
+  {
+   "id": "f112",
+   "titolo": "Now You See Me 2",
+   "foto": {
+    "Dave Franco": "https://image.tmdb.org/t/p/w185/to7ee1xcCOpDSKMXjBIRuYEfbEc.jpg"
+   }
+  },
+  {
+   "id": "f115",
+   "titolo": "Seeking a Friend for the End of the World",
+   "foto": {
+    "Steve Carell": "https://image.tmdb.org/t/p/w185/sSxw69G0znJuettMYGDCAXfSwSY.jpg",
+    "Keira Knightley": "https://image.tmdb.org/t/p/w185/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg"
+   }
+  },
+  {
+   "id": "f121",
+   "titolo": "One Flew Over the Cuckoo's Nest",
+   "foto": {
+    "Jack Nicholson": "https://image.tmdb.org/t/p/w185/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg"
+   }
+  },
+  {
+   "id": "f124",
+   "titolo": "Inkheart",
+   "foto": {
+    "Paul Bettany": "https://image.tmdb.org/t/p/w185/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg"
+   }
+  },
+  {
+   "id": "f136",
+   "titolo": "Glass Onion",
+   "foto": {
+    "Janelle Monáe": "https://image.tmdb.org/t/p/w185/eTYG6eBH1LzLWcdQJaH72Wzxemm.jpg"
+   }
+  },
+  {
+   "id": "f139",
+   "titolo": "Sole a catinelle",
+   "foto": {
+    "Checco Zalone": "https://image.tmdb.org/t/p/w185/kSK1TGkKe7iGmcAliSmQYqXFlDv.jpg"
+   }
+  },
+  {
+   "id": "f142",
+   "titolo": "The Hangover",
+   "foto": {
+    "Bradley Cooper": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg",
+    "Zach Galifianakis": "https://image.tmdb.org/t/p/w185/qsDfoUlRnXHUiqZeBPWHzmgmKGX.jpg",
+    "Heather Graham": "https://image.tmdb.org/t/p/w185/avYdNkeg1oTvmrNJbFDcTlBCkKs.jpg"
+   }
+  },
+  {
+   "id": "f145",
+   "titolo": "Cado dalle nubi",
+   "foto": {
+    "Checco Zalone": "https://image.tmdb.org/t/p/w185/kSK1TGkKe7iGmcAliSmQYqXFlDv.jpg"
+   }
+  },
+  {
+   "id": "f154",
+   "titolo": "Philadelphia",
+   "foto": {
+    "Antonio Banderas": "https://image.tmdb.org/t/p/w185/n8YlGookYzgD3cmpMP45BYRNIoh.jpg"
+   }
+  },
+  {
+   "id": "f454",
+   "titolo": "The Hobbit: The Battle of the Five Armies",
+   "foto": {
+    "Evangeline Lilly": "https://image.tmdb.org/t/p/w185/pJHX2jd7ytre3NQbF9nlyWUqxH3.jpg"
+   }
+  },
+  {
+   "id": "f170",
+   "titolo": "Snowden",
+   "foto": {
+    "Tom Wilkinson": "https://image.tmdb.org/t/p/w185/d5yLk0PK8q7EKR3E3G2txO758IW.jpg"
+   }
+  },
+  {
+   "id": "f175",
+   "titolo": "Next",
+   "foto": {
+    "Jessica Biel": "https://image.tmdb.org/t/p/w185/u5DzbWKvAzS0M4ZhYqpUR9MZr2M.jpg"
+   }
+  },
+  {
+   "id": "f178",
+   "titolo": "Schindler's List",
+   "foto": {
+    "Ralph Fiennes": "https://image.tmdb.org/t/p/w185/pCnVXH1Uo2ODoOit4UXni8OD9VB.jpg"
+   }
+  },
+  {
+   "id": "f181",
+   "titolo": "Rain Man",
+   "foto": {
+    "Tom Cruise": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+   }
+  },
+  {
+   "id": "f185",
+   "titolo": "Incendies",
+   "foto": {
+    "Mélissa Désormeaux-Poulin": "https://image.tmdb.org/t/p/w185/7x7zC75SRwSlEGPfYpwexB76ODE.jpg"
+   }
+  },
+  {
+   "id": "f188",
+   "titolo": "A Cure for Wellness",
+   "foto": {
+    "Dane DeHaan": "https://image.tmdb.org/t/p/w185/uwl0WKqHj6ahsriOEPLks84T70j.jpg"
+   }
+  },
+  {
+   "id": "f191",
+   "titolo": "The Lives of Others",
+   "foto": {
+    "Ulrich Mühe": "https://image.tmdb.org/t/p/w185/b4FhEbDUIbrVJJmaKtZ8o4xNvUm.jpg"
+   }
+  },
+  {
+   "id": "f194",
+   "titolo": "Eyes Wide Shut",
+   "foto": {
+    "Tom Cruise": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+   }
+  },
+  {
+   "id": "f206",
+   "titolo": "Another Round",
+   "cast": "Kim Min-jae, Kim Do-yoon, Jang So-yeon, Joey Albright, Pierce Conran",
+   "foto": {
+    "Mads Mikkelsen": null,
+    "Thomas Bo Larsen": null,
+    "Magnus Millang": null,
+    "Lars Ranthe": null,
+    "Maria Bonnevie": null
+   },
+   "generi": [
+    "Horror",
+    "Azione",
+    "Thriller",
+    "Avventura"
+   ]
+  },
+  {
+   "id": "f214",
+   "titolo": "Oppenheimer",
+   "foto": {
+    "Florence Pugh": "https://image.tmdb.org/t/p/w185/2URrZb95t3kY6pLroKny3Enmabp.jpg"
+   }
+  },
+  {
+   "id": "f231",
+   "titolo": "Chinatown",
+   "foto": {
+    "Jack Nicholson": "https://image.tmdb.org/t/p/w185/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg"
+   }
+  },
+  {
+   "id": "f237",
+   "titolo": "A Beautiful Mind",
+   "foto": {
+    "Russell Crowe": "https://image.tmdb.org/t/p/w185/3IBZF0qCZMZ7zJYlgrH0sQzNZV.jpg",
+    "Paul Bettany": "https://image.tmdb.org/t/p/w185/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg"
+   }
+  },
+  {
+   "id": "f254",
+   "titolo": "Nine Queens",
+   "foto": {
+    "Ricardo Darín": "https://image.tmdb.org/t/p/w185/2laJXyYQkL9YdLL1PRdD3hLZ6Uy.jpg"
+   }
+  },
+  {
+   "id": "f266",
+   "titolo": "Sunshine",
+   "foto": {
+    "Rose Byrne": "https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+   }
+  },
+  {
+   "id": "f276",
+   "titolo": "All That Jazz",
+   "foto": {
+    "Jessica Lange": "https://image.tmdb.org/t/p/w185/aWcO6trggSWsglUOdTVzjG4LSh3.jpg"
+   }
+  },
+  {
+   "id": "f297",
+   "titolo": "Die Hard",
+   "foto": {
+    "Bonnie Bedelia": "https://image.tmdb.org/t/p/w185/c8ou1b6MHAFYXv49LmKFBnHIozt.jpg",
+    "Reginald VelJohnson": "https://image.tmdb.org/t/p/w185/dZtIIOI0PpD3dmTVfUOWiQzOY28.jpg"
+   }
+  },
+  {
+   "id": "f300",
+   "titolo": "The Double",
+   "foto": {
+    "Александр Ревва": null,
+    "Кристина Асмус": null,
+    "Дмитрий Хрусталев": null,
+    "Wallace Shawn": "https://image.tmdb.org/t/p/w185/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+   }
+  },
+  {
+   "id": "f303",
+   "titolo": "Event Horizon",
+   "foto": {
+    "Joely Richardson": "https://image.tmdb.org/t/p/w185/yv6aLd1TY06HUJqZshEfs8j5twD.jpg"
+   }
+  },
+  {
+   "id": "f325",
+   "titolo": "Hitch",
+   "foto": {
+    "Eva Mendes": "https://image.tmdb.org/t/p/w185/4xptMw7AjNamFgfGt75sHaT0wsI.jpg"
+   }
+  },
+  {
+   "id": "f334",
+   "titolo": "The Last Samurai",
+   "foto": {
+    "Tom Cruise": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+   }
+  },
+  {
+   "id": "f337",
+   "titolo": "Love & Other Drugs",
+   "foto": {
+    "Hank Azaria": "https://image.tmdb.org/t/p/w185/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+   }
+  },
+  {
+   "id": "f346",
+   "titolo": "Oblivion",
+   "foto": {
+    "Tom Cruise": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+   }
+  },
+  {
+   "id": "f349",
+   "titolo": "Pan's Labyrinth",
+   "foto": {
+    "Ivana Baquero": "https://image.tmdb.org/t/p/w185/egEyy7m35EF1OrBs0ik7YGEadpC.jpg"
+   }
+  },
+  {
+   "id": "f361",
+   "titolo": "Seven Pounds",
+   "foto": {
+    "Rosario Dawson": "https://image.tmdb.org/t/p/w185/siTzOI810a0K46wv1TORXMw5N7J.jpg"
+   }
+  },
+  {
+   "id": "f375",
+   "titolo": "Unforgiven",
+   "foto": {
+    "Gene Hackman": "https://image.tmdb.org/t/p/w185/zDlv9vXjnRsvwNI0bARG0uOt5CJ.jpg",
+    "Richard Harris": "https://image.tmdb.org/t/p/w185/oJIS8QUOCfLUhsfK7kROkLHVyJh.jpg"
+   }
+  },
+  {
+   "id": "f378",
+   "titolo": "Wild Tales",
+   "cast": "Seth Rogen, Zac Efron, Rose Byrne, Chloë Grace Moretz, Dave Franco",
+   "foto": {
+    "Ricardo Darín": null,
+    "Leonardo Sbaraglia": null,
+    "Érica Rivas": null,
+    "Oscar Martínez": null,
+    "Rita Cortese": null
+   },
+   "generi": [
+    "Commedia"
+   ]
+  },
+  {
+   "id": "f381",
+   "titolo": "Fracture",
+   "foto": {
+    "Anthony Hopkins": "https://image.tmdb.org/t/p/w185/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg"
+   }
+  },
+  {
+   "id": "f386",
+   "titolo": "A Separation",
+   "cast": "Sareh Bayat, Sarina Farhadi, Ali-Asghar Shahbazi, Kimia Hosseini, Armine Zeytounchian",
+   "foto": {
+    "Shahab Hosseini": null
+   }
+  },
+  {
+   "id": "f427",
+   "titolo": "Fury",
+   "foto": {
+    "Jon Bernthal": "https://image.tmdb.org/t/p/w185/bjcglF1IpDcZNs1HwFxakGpzBo6.jpg"
+   }
+  },
+  {
+   "id": "f430",
+   "titolo": "Presumed Innocent",
+   "foto": {
+    "Bonnie Bedelia": "https://image.tmdb.org/t/p/w185/c8ou1b6MHAFYXv49LmKFBnHIozt.jpg"
+   }
+  },
+  {
+   "id": "f419",
+   "titolo": "Journey to the Mysterious Island",
+   "foto": {
+    "Vanessa Hudgens": "https://image.tmdb.org/t/p/w185/lZQPTRoJLgfsARWdpxQid2dDzhr.jpg"
+   }
+  },
+  {
+   "id": "f464",
+   "titolo": "Harry Potter and the Half-Blood Prince",
+   "foto": {
+    "Rupert Grint": "https://image.tmdb.org/t/p/w185/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg"
+   }
+  },
+  {
+   "id": "f470",
+   "titolo": "The Amazing Spider-Man 2",
+   "foto": {
+    "Andrew Garfield": "https://image.tmdb.org/t/p/w185/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg",
+    "Emma Stone": "https://image.tmdb.org/t/p/w185/mstXxlDqhoK0s0molsNpskJ1wLH.jpg",
+    "Dane DeHaan": "https://image.tmdb.org/t/p/w185/uwl0WKqHj6ahsriOEPLks84T70j.jpg"
+   }
+  },
+  {
+   "id": "f473",
+   "titolo": "Spider-Man: No Way Home",
+   "foto": {
+    "Tom Holland": "https://image.tmdb.org/t/p/w185/adwEBb2sCSzqwnpVgNEG7irl1Ne.jpg",
+    "Zendaya": "https://image.tmdb.org/t/p/w185/qGkBlyn1AwQpuFnRARMRwj0iHZp.jpg"
+   }
+  },
+  {
+   "id": "f476",
+   "titolo": "Harry Potter and the Prisoner of Azkaban",
+   "foto": {
+    "Rupert Grint": "https://image.tmdb.org/t/p/w185/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg"
+   }
+  },
+  {
+   "id": "f4",
+   "titolo": "National Treasure",
+   "foto": {
+    "Jon Voight": "https://image.tmdb.org/t/p/w185/bmfwKaLxUt4qck2UJgm2maWVMTR.jpg"
+   }
+  },
+  {
+   "id": "f7",
+   "titolo": "Se7en",
+   "cast": "Morgan Freeman, Brad Pitt, Gwyneth Paltrow, John Cassini, Peter Crombie",
+   "foto": {
+    "Gwyneth Paltrow": "https://image.tmdb.org/t/p/w185/ylN4A7fnnNXvHURENl5sQI8Jbib.jpg"
+   }
+  },
+  {
+   "id": "f9",
+   "titolo": "L.A. Confidential",
+   "foto": {
+    "Russell Crowe": "https://image.tmdb.org/t/p/w185/3IBZF0qCZMZ7zJYlgrH0sQzNZV.jpg"
+   }
+  },
+  {
+   "id": "f15",
+   "titolo": "The Prestige",
+   "foto": {
+    "Hugh Jackman": "https://image.tmdb.org/t/p/w185/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg",
+    "Scarlett Johansson": "https://image.tmdb.org/t/p/w185/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg"
+   }
+  },
+  {
+   "id": "f27",
+   "titolo": "Guardians of the Galaxy 2",
+   "foto": {
+    "Vin Diesel": "https://image.tmdb.org/t/p/w185/tEoUF0RJqHnskmBOJiDEQhyN7Ok.jpg",
+    "Bradley Cooper": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
+   }
+  },
+  {
+   "id": "f30",
+   "titolo": "Inception",
+   "foto": {
+    "Elliot Page": "https://image.tmdb.org/t/p/w185/wSdlM4Qyoi5AGj5eIIp8Bm0Sfkz.jpg"
+   }
+  },
+  {
+   "id": "f39",
+   "titolo": "Knives Out",
+   "foto": {
+    "Ana de Armas": "https://image.tmdb.org/t/p/w185/ngHnBOofQzCO3AvMyuW3UMRWg1B.jpg"
+   }
+  },
+  {
+   "id": "f41",
+   "titolo": "Maze Runner 1",
+   "foto": {
+    "Kaya Scodelario": "https://image.tmdb.org/t/p/w185/qmtXUabwXw0RvyK6R0la6CmvGxr.jpg"
+   }
+  },
+  {
+   "id": "f52",
+   "titolo": "Now You See Me 1",
+   "foto": {
+    "Dave Franco": "https://image.tmdb.org/t/p/w185/to7ee1xcCOpDSKMXjBIRuYEfbEc.jpg"
+   }
+  },
+  {
+   "id": "f55",
+   "titolo": "Bridge to Terabithia",
+   "foto": {
+    "AnnaSophia Robb": "https://image.tmdb.org/t/p/w185/mJawWikGXsSLA79mZ9xqhn0B9gI.jpg"
+   }
+  },
+  {
+   "id": "f58",
+   "titolo": "V for Vendetta",
+   "foto": {
+    "Stephen Rea": "https://image.tmdb.org/t/p/w185/n52WDwObYghPTfV1TZ1EOVIWUGS.jpg"
+   }
+  },
+  {
+   "id": "f210",
+   "titolo": "Heat",
+   "foto": {
+    "Val Kilmer": "https://image.tmdb.org/t/p/w185/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg"
+   }
+  },
+  {
+   "id": "f72",
+   "titolo": "Night at the Museum 1",
+   "cast": "Ben Stiller, Carla Gugino, Dick Van Dyke, Mickey Rooney, Bill Cobbs"
+  },
+  {
+   "id": "f75",
+   "titolo": "Lock, Stock & 2 Smoking Barrels",
+   "foto": {
+    "Jason Statham": "https://image.tmdb.org/t/p/w185/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg"
+   }
+  },
+  {
+   "id": "f370",
+   "titolo": "Thief",
+   "foto": {
+    "Tuesday Weld": "https://image.tmdb.org/t/p/w185/yp9Ng5tjVhhws17CgVqWWEEbqrb.jpg"
+   }
+  },
+  {
+   "id": "f83",
+   "titolo": "Mary Poppins",
+   "foto": {
+    "Julie Andrews": "https://image.tmdb.org/t/p/w185/ltU0aAunzQCTv5FwtB1sVWjyDi7.jpg"
+   }
+  },
+  {
+   "id": "f98",
+   "titolo": "Tenet",
+   "foto": {
+    "Elizabeth Debicki": "https://image.tmdb.org/t/p/w185/nTTnQVTn13Ve4ifjRY9v8kVc99w.jpg"
+   }
+  },
+  {
+   "id": "f110",
+   "titolo": "My Best Friend's Wedding",
+   "foto": {
+    "Cameron Diaz": "https://image.tmdb.org/t/p/w185/tIWUyvmJayu8gtbrzCWC0L3H8kH.jpg"
+   }
+  },
+  {
+   "id": "f113",
+   "titolo": "Superman",
+   "foto": {
+    "David Corenswet": "https://image.tmdb.org/t/p/w185/yoQxpUPt3le9zY4Sab3g2ANy4CE.jpg"
+   }
+  },
+  {
+   "id": "f119",
+   "titolo": "The Grand Budapest Hotel",
+   "foto": {
+    "Ralph Fiennes": "https://image.tmdb.org/t/p/w185/pCnVXH1Uo2ODoOit4UXni8OD9VB.jpg"
+   }
+  },
+  {
+   "id": "f125",
+   "titolo": "Anatomy of a Fall",
+   "foto": {
+    "Sandra Hüller": "https://image.tmdb.org/t/p/w185/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
+   }
+  },
+  {
+   "id": "f128",
+   "titolo": "Enemy",
+   "foto": {
+    "Igor Samobor": null
+   }
+  },
+  {
+   "id": "f131",
+   "titolo": "Maze Runner 2",
+   "foto": {
+    "Kaya Scodelario": "https://image.tmdb.org/t/p/w185/qmtXUabwXw0RvyK6R0la6CmvGxr.jpg",
+    "Giancarlo Esposito": "https://image.tmdb.org/t/p/w185/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+   }
+  },
+  {
+   "id": "f140",
+   "titolo": "Pirates of the Caribbean: Dead Men Tell No Tales",
+   "foto": {
+    "Kaya Scodelario": "https://image.tmdb.org/t/p/w185/qmtXUabwXw0RvyK6R0la6CmvGxr.jpg"
+   }
+  },
+  {
+   "id": "f146",
+   "titolo": "Night at the Museum 2",
+   "foto": {
+    "Amy Adams": "https://image.tmdb.org/t/p/w185/gn0K6c6d1L6qQrRc86iL8uyIqiF.jpg",
+    "Hank Azaria": "https://image.tmdb.org/t/p/w185/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+   }
+  },
+  {
+   "id": "f155",
+   "titolo": "Trainspotting",
+   "foto": {
+    "Ewan McGregor": "https://image.tmdb.org/t/p/w185/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg"
+   }
+  },
+  {
+   "id": "f166",
+   "titolo": "The Hunger Games",
+   "foto": {
+    "Elizabeth Banks": "https://image.tmdb.org/t/p/w185/wMDFt9PUdxJWBzTwixiBfNpeN89.jpg"
+   }
+  },
+  {
+   "id": "f168",
+   "titolo": "Atonement",
+   "foto": {
+    "Keira Knightley": "https://image.tmdb.org/t/p/w185/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg"
+   }
+  },
+  {
+   "id": "f186",
+   "titolo": "The Tenant",
+   "foto": {
+    "Jo Van Fleet": "https://image.tmdb.org/t/p/w185/xdingRjzTi1lbFV1mepFeM9nMxA.jpg"
+   }
+  },
+  {
+   "id": "f192",
+   "titolo": "I Am Mother",
+   "foto": {
+    "Rose Byrne": "https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+   }
+  },
+  {
+   "id": "f219",
+   "titolo": "Source Code",
+   "foto": {
+    "Jeffrey Wright": "https://image.tmdb.org/t/p/w185/yGcuHGW4glqRpOPxgiCvjcren7F.jpg"
+   }
+  },
+  {
+   "id": "f223",
+   "titolo": "The Sixth Sense",
+   "foto": {
+    "Olivia Williams": "https://image.tmdb.org/t/p/w185/gnL7XGfLiAbhqIjV4jAGIZgySJh.jpg"
+   }
+  },
+  {
+   "id": "f226",
+   "titolo": "Joker",
+   "foto": {
+    "Zazie Beetz": "https://image.tmdb.org/t/p/w185/ijrT4pvALvxU0gphea4YxDnDh6e.jpg"
+   }
+  },
+  {
+   "id": "f255",
+   "titolo": "The Theory of Everything",
+   "foto": {
+    "Charlie Cox": "https://image.tmdb.org/t/p/w185/91fFBazOvuNjwjcES2b199Ukspn.jpg"
+   }
+  },
+  {
+   "id": "f258",
+   "titolo": "Chronicle",
+   "foto": {
+    "Dane DeHaan": "https://image.tmdb.org/t/p/w185/uwl0WKqHj6ahsriOEPLks84T70j.jpg"
+   }
+  },
+  {
+   "id": "f264",
+   "titolo": "Bad Times at the El Royale",
+   "foto": {
+    "Dakota Johnson": "https://image.tmdb.org/t/p/w185/qFek0KqpaPV5mVyHHNfAapDE9Tj.jpg"
+   }
+  },
+  {
+   "id": "f267",
+   "titolo": "Collateral",
+   "foto": {
+    "Tom Cruise": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+   }
+  },
+  {
+   "id": "f292",
+   "titolo": "Chungking Express",
+   "foto": {
+    "Tony Leung Chiu-wai": "https://image.tmdb.org/t/p/w185/idGzkwbm0BiLdrrKfcXecFNXbDu.jpg"
+   }
+  },
+  {
+   "id": "f298",
+   "titolo": "Dog Day Afternoon",
+   "foto": {
+    "John Cazale": "https://image.tmdb.org/t/p/w185/41wXX1FBalyIuf5eaA4S43Y8IfZ.jpg"
+   }
+  },
+  {
+   "id": "f301",
+   "titolo": "The Elephant Man",
+   "foto": {
+    "Anthony Hopkins": "https://image.tmdb.org/t/p/w185/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg"
+   }
+  },
+  {
+   "id": "f307",
+   "titolo": "The Father",
+   "foto": {
+    "Anthony Hopkins": "https://image.tmdb.org/t/p/w185/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg",
+    "Olivia Williams": "https://image.tmdb.org/t/p/w185/gnL7XGfLiAbhqIjV4jAGIZgySJh.jpg"
+   }
+  },
+  {
+   "id": "f310",
+   "titolo": "The Fountain",
+   "foto": {
+    "Hugh Jackman": "https://image.tmdb.org/t/p/w185/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+   }
+  },
+  {
+   "id": "f326",
+   "titolo": "In the Mood for Love",
+   "foto": {
+    "Tony Leung Chiu-wai": "https://image.tmdb.org/t/p/w185/idGzkwbm0BiLdrrKfcXecFNXbDu.jpg"
+   }
+  },
+  {
+   "id": "f329",
+   "titolo": "The Insider",
+   "foto": {
+    "Russell Crowe": "https://image.tmdb.org/t/p/w185/3IBZF0qCZMZ7zJYlgrH0sQzNZV.jpg"
+   }
+  },
+  {
+   "id": "f335",
+   "titolo": "The Deer Hunter",
+   "foto": {
+    "Meryl Streep": "https://image.tmdb.org/t/p/w185/pSyM9cteYYWUBDalJzMPLH0SLgB.jpg",
+    "John Cazale": "https://image.tmdb.org/t/p/w185/41wXX1FBalyIuf5eaA4S43Y8IfZ.jpg"
+   }
+  },
+  {
+   "id": "f338",
+   "titolo": "The Master",
+   "foto": {
+    "Amy Adams": "https://image.tmdb.org/t/p/w185/gn0K6c6d1L6qQrRc86iL8uyIqiF.jpg"
+   }
+  },
+  {
+   "id": "f347",
+   "titolo": "Once Upon a Time in America",
+   "foto": {
+    "Tuesday Weld": "https://image.tmdb.org/t/p/w185/yp9Ng5tjVhhws17CgVqWWEEbqrb.jpg"
+   }
+  },
+  {
+   "id": "f362",
+   "titolo": "Sicario",
+   "foto": {
+    "Jon Bernthal": "https://image.tmdb.org/t/p/w185/bjcglF1IpDcZNs1HwFxakGpzBo6.jpg"
+   }
+  },
+  {
+   "id": "f365",
+   "titolo": "Solaris",
+   "cast": "Bruce Willis, Madeleine Stowe, Brad Pitt, Christopher Plummer, David Morse",
+   "foto": {
+    "Donatas Banionis": null,
+    "Jüri Järvet": null,
+    "Natalya Bondarchuk": null,
+    "Vladislav Dvorzhetsky": null,
+    "Anatoliy Solonitsyn": null
+   }
+  },
+  {
+   "id": "f369",
+   "titolo": "A Taxi Driver",
+   "foto": {
+    "유해진": null,
+    "Yoo Hai-jin": "https://image.tmdb.org/t/p/w185/sJzKaBnDaIEirEDJF6ZWVvZU8kG.jpg"
+   }
+  },
+  {
+   "id": "f379",
+   "titolo": "The Wizard of Lies",
+   "foto": {
+    "Hank Azaria": "https://image.tmdb.org/t/p/w185/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+   }
+  },
+  {
+   "id": "f387",
+   "titolo": "Dogville",
+   "foto": {
+    "Paul Bettany": "https://image.tmdb.org/t/p/w185/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg"
+   }
+  },
+  {
+   "id": "f393",
+   "titolo": "Willy Wonka e la fabbrica di cioccolato",
+   "foto": {
+    "Roy Kinnear": "https://image.tmdb.org/t/p/w185/cuKguENjdEiNhNArAL5CqIaTEfE.jpg"
+   }
+  },
+  {
+   "id": "f403",
+   "titolo": "The Ghost Writer",
+   "foto": {
+    "Ewan McGregor": "https://image.tmdb.org/t/p/w185/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg",
+    "Olivia Williams": "https://image.tmdb.org/t/p/w185/gnL7XGfLiAbhqIjV4jAGIZgySJh.jpg"
+   }
+  },
+  {
+   "id": "f406",
+   "titolo": "Gladiator",
+   "foto": {
+    "Russell Crowe": "https://image.tmdb.org/t/p/w185/3IBZF0qCZMZ7zJYlgrH0sQzNZV.jpg",
+    "Richard Harris": "https://image.tmdb.org/t/p/w185/oJIS8QUOCfLUhsfK7kROkLHVyJh.jpg"
+   }
+  },
+  {
+   "id": "f412",
+   "titolo": "Minority Report",
+   "foto": {
+    "Tom Cruise": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg",
+    "Samantha Morton": "https://image.tmdb.org/t/p/w185/kHSfnDFbfeKah823y0Gr14lbt31.jpg"
+   }
+  },
+  {
+   "id": "f431",
+   "titolo": "Stonehearst Asylum",
+   "foto": {
+    "Kate Beckinsale": "https://image.tmdb.org/t/p/w185/aoIQJzrWRtq9mOeaPadzpUCAaVd.jpg"
+   }
+  },
+  {
+   "id": "f438",
+   "titolo": "Dune: Part Two",
+   "foto": {
+    "Zendaya": "https://image.tmdb.org/t/p/w185/qGkBlyn1AwQpuFnRARMRwj0iHZp.jpg",
+    "Rebecca Ferguson": "https://image.tmdb.org/t/p/w185/ra53cM1aNmdH0aFhj8yBqPOj2fb.jpg"
+   }
+  },
+  {
+   "id": "f442",
+   "titolo": "The Secret in Their Eyes",
+   "foto": {
+    "Ricardo Darín": "https://image.tmdb.org/t/p/w185/2laJXyYQkL9YdLL1PRdD3hLZ6Uy.jpg"
+   }
+  },
+  {
+   "id": "f445",
+   "titolo": "Black Swan",
+   "foto": {
+    "Winona Ryder": "https://image.tmdb.org/t/p/w185/oYjqkpFCflMz2h6urPpl1nA5sh2.jpg"
+   }
+  },
+  {
+   "id": "f448",
+   "titolo": "Marty Supreme",
+   "foto": {
+    "Gwyneth Paltrow": "https://image.tmdb.org/t/p/w185/ylN4A7fnnNXvHURENl5sQI8Jbib.jpg"
+   }
+  },
+  {
+   "id": "f465",
+   "titolo": "Harry Potter and the Deathly Hallows: Part 1",
+   "foto": {
+    "Rupert Grint": "https://image.tmdb.org/t/p/w185/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg",
+    "Ralph Fiennes": null
+   }
+  },
+  {
+   "id": "f468",
+   "titolo": "Spider-Man 3",
+   "foto": {
+    "Topher Grace": "https://image.tmdb.org/t/p/w185/89sF57Br5lq8nrepS7HLzJ41QD1.jpg"
+   }
+  },
+  {
+   "id": "f471",
+   "titolo": "Spider-Man: Homecoming",
+   "foto": {
+    "Tom Holland": "https://image.tmdb.org/t/p/w185/adwEBb2sCSzqwnpVgNEG7irl1Ne.jpg",
+    "Zendaya": null
+   }
+  },
+  {
+   "id": "f474",
+   "titolo": "Spider-Man: Brand New Day",
+   "foto": {
+    "Tom Holland": "https://image.tmdb.org/t/p/w185/adwEBb2sCSzqwnpVgNEG7irl1Ne.jpg",
+    "Zendaya": "https://image.tmdb.org/t/p/w185/qGkBlyn1AwQpuFnRARMRwj0iHZp.jpg",
+    "Jon Bernthal": "https://image.tmdb.org/t/p/w185/bjcglF1IpDcZNs1HwFxakGpzBo6.jpg"
+   }
+  },
+  {
+   "id": "f477",
+   "titolo": "Harry Potter and the Goblet of Fire",
+   "foto": {
+    "Rupert Grint": "https://image.tmdb.org/t/p/w185/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg",
+    "Ralph Fiennes": null
+   }
+  },
+  {
+   "id": "f481",
+   "titolo": "Harry Potter and the Philosopher's Stone",
+   "foto": {
+    "Rupert Grint": "https://image.tmdb.org/t/p/w185/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg",
+    "Emma Watson": "https://image.tmdb.org/t/p/w185/mf0OANvWYSzU1d8yggrhyw8IbIz.jpg",
+    "Richard Harris": "https://image.tmdb.org/t/p/w185/oJIS8QUOCfLUhsfK7kROkLHVyJh.jpg"
+   }
+  },
+  {
+   "id": "f2",
+   "titolo": "Prisoners",
+   "foto": {
+    "Hugh Jackman": "https://image.tmdb.org/t/p/w185/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+   }
+  },
+  {
+   "id": "f13",
+   "titolo": "Catch Me If You Can",
+   "foto": {
+    "Amy Adams": "https://image.tmdb.org/t/p/w185/gn0K6c6d1L6qQrRc86iL8uyIqiF.jpg"
+   }
+  },
+  {
+   "id": "f25",
+   "titolo": "Arrival",
+   "foto": {
+    "Amy Adams": "https://image.tmdb.org/t/p/w185/gn0K6c6d1L6qQrRc86iL8uyIqiF.jpg"
+   }
+  },
+  {
+   "id": "f28",
+   "titolo": "Pirates of the Caribbean: The Curse of the Black Pearl",
+   "foto": {
+    "Keira Knightley": "https://image.tmdb.org/t/p/w185/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg"
+   }
+  },
+  {
+   "id": "f34",
+   "titolo": "Hacksaw Ridge",
+   "foto": {
+    "Andrew Garfield": "https://image.tmdb.org/t/p/w185/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+   }
+  },
+  {
+   "id": "f53",
+   "titolo": "Snatch",
+   "foto": {
+    "Jason Statham": "https://image.tmdb.org/t/p/w185/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg"
+   }
+  },
+  {
+   "id": "f64",
+   "titolo": "The Imitation Game",
+   "foto": {
+    "Keira Knightley": "https://image.tmdb.org/t/p/w185/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg",
+    "Charles Dance": null
+   }
+  },
+  {
+   "id": "f70",
+   "titolo": "Pirates of the Caribbean: Dead Man's Chest",
+   "foto": {
+    "Keira Knightley": "https://image.tmdb.org/t/p/w185/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg"
+   }
+  },
+  {
+   "id": "f73",
+   "titolo": "The Notebook",
+   "foto": {
+    "Gena Rowlands": "https://image.tmdb.org/t/p/w185/j6Op08k2AkPGrNHpMNp30Pu8t36.jpg"
+   }
+  },
+  {
+   "id": "f84",
+   "titolo": "The Big Short",
+   "foto": {
+    "Steve Carell": "https://image.tmdb.org/t/p/w185/sSxw69G0znJuettMYGDCAXfSwSY.jpg"
+   }
+  },
+  {
+   "id": "f87",
+   "titolo": "Blade Runner 2049",
+   "foto": {
+    "Ana de Armas": "https://image.tmdb.org/t/p/w185/ngHnBOofQzCO3AvMyuW3UMRWg1B.jpg"
+   }
+  },
+  {
+   "id": "f90",
+   "titolo": "The Untouchables",
+   "foto": {
+    "Sean Connery": "https://image.tmdb.org/t/p/w185/cd0zKpYJ6eSutkrZkLFxQCGjhnF.jpg"
+   }
+  },
+  {
+   "id": "f93",
+   "titolo": "Real Steel",
+   "foto": {
+    "Hugh Jackman": "https://image.tmdb.org/t/p/w185/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg",
+    "Evangeline Lilly": "https://image.tmdb.org/t/p/w185/pJHX2jd7ytre3NQbF9nlyWUqxH3.jpg",
+    "Anthony Mackie": "https://image.tmdb.org/t/p/w185/vecvTm7SimizluJkyIwBxeLbvRm.jpg"
+   }
+  },
+  {
+   "id": "f102",
+   "titolo": "Home Alone 1",
+   "foto": {
+    "Macaulay Culkin": "https://image.tmdb.org/t/p/w185/hVagDqi5o8lZ21b1kXAl45Sj9wt.jpg"
+   }
+  },
+  {
+   "id": "f105",
+   "titolo": "La haine",
+   "cast": "Vincent Cassel, Hubert Koundé, Saïd Taghmaoui, Abdel Ahmed Ghili, Solo"
+  },
+  {
+   "id": "f111",
+   "titolo": "Grease",
+   "foto": {
+    "Stockard Channing": "https://image.tmdb.org/t/p/w185/fsk0HkOVKtdcbHfsc99bQvMJep3.jpg"
+   }
+  },
+  {
+   "id": "f117",
+   "titolo": "Maze Runner 3",
+   "foto": {
+    "Kaya Scodelario": "https://image.tmdb.org/t/p/w185/qmtXUabwXw0RvyK6R0la6CmvGxr.jpg",
+    "Giancarlo Esposito": null
+   }
+  },
+  {
+   "id": "f120",
+   "titolo": "Donnie Darko",
+   "foto": {
+    "Drew Barrymore": "https://image.tmdb.org/t/p/w185/8qvMFslwrC3w1OwJYqE3mHPvffr.jpg"
+   }
+  },
+  {
+   "id": "f123",
+   "titolo": "The Silence of the Lambs",
+   "foto": {
+    "Anthony Hopkins": "https://image.tmdb.org/t/p/w185/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg"
+   }
+  },
+  {
+   "id": "f126",
+   "titolo": "The Discovery",
+   "foto": {
+    "Robert Redford": "https://image.tmdb.org/t/p/w185/m5ayL8ASLdaaFYzqJZNYvrKRuhD.jpg",
+    "Riley Keough": "https://image.tmdb.org/t/p/w185/du1FYr5dTQL6gCMX6ISnQBOxz2F.jpg"
+   }
+  },
+  {
+   "id": "f129",
+   "titolo": "Home Alone 2",
+   "foto": {
+    "Macaulay Culkin": "https://image.tmdb.org/t/p/w185/hVagDqi5o8lZ21b1kXAl45Sj9wt.jpg"
+   }
+  },
+  {
+   "id": "f138",
+   "titolo": "The Spiderwick Chronicles",
+   "foto": {
+    "Mary-Louise Parker": "https://image.tmdb.org/t/p/w185/1ohhrIZ4OMlLx9DvHjPhQJAIP0F.jpg"
+   }
+  },
+  {
+   "id": "f141",
+   "titolo": "Margin Call",
+   "foto": {
+    "Paul Bettany": "https://image.tmdb.org/t/p/w185/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg"
+   }
+  },
+  {
+   "id": "f144",
+   "titolo": "Che bella giornata",
+   "foto": {
+    "Checco Zalone": "https://image.tmdb.org/t/p/w185/kSK1TGkKe7iGmcAliSmQYqXFlDv.jpg"
+   }
+  },
+  {
+   "id": "f147",
+   "titolo": "Mr. Popper's Penguins",
+   "foto": {
+    "Angela Lansbury": "https://image.tmdb.org/t/p/w185/gGAWbfMqhJnXzC8dRLeOSXOo9vO.jpg"
+   }
+  },
+  {
+   "id": "f150",
+   "titolo": "Home Alone 3",
+   "foto": {
+    "Scarlett Johansson": null
+   }
+  },
+  {
+   "id": "f453",
+   "titolo": "The Hobbit: The Desolation of Smaug",
+   "foto": {
+    "Evangeline Lilly": "https://image.tmdb.org/t/p/w185/pJHX2jd7ytre3NQbF9nlyWUqxH3.jpg"
+   }
+  },
+  {
+   "id": "f458",
+   "titolo": "The Hunger Games: The Ballad of Songbirds & Snakes",
+   "foto": {
+    "Rachel Zegler": "https://image.tmdb.org/t/p/w185/a1RxUQd3HExVgt8laH4VaUytdz.jpg",
+    "Hunter Schafer": "https://image.tmdb.org/t/p/w185/bYLRZOkrOvFBu2G6OTNNWRU4rfF.jpg"
+   }
+  },
+  {
+   "id": "f174",
+   "titolo": "Synecdoche, New York",
+   "foto": {
+    "Samantha Morton": "https://image.tmdb.org/t/p/w185/kHSfnDFbfeKah823y0Gr14lbt31.jpg"
+   }
+  },
+  {
+   "id": "f187",
+   "titolo": "Cape Fear",
+   "foto": {
+    "Jessica Lange": "https://image.tmdb.org/t/p/w185/aWcO6trggSWsglUOdTVzjG4LSh3.jpg"
+   }
+  },
+  {
+   "id": "f190",
+   "titolo": "Apocalypse Now",
+   "foto": {
+    "Frederic Forrest": "https://image.tmdb.org/t/p/w185/daSNber2lZjvxrlOR3WcEX0CFZM.jpg",
+    "Dennis Hopper": null
+   }
+  },
+  {
+   "id": "f196",
+   "titolo": "Inside Men",
+   "cast": "Lee Byung-hun",
+   "foto": {
+    "Lee Byung-hun": "https://image.tmdb.org/t/p/w185/5p5LDbZtnKhXDZL5227ExukbnRo.jpg",
+    "Baek Yoon-sik": null
+   }
+  },
+  {
+   "id": "f199",
+   "titolo": "The Pianist",
+   "foto": {
+    "Emilia Fox": "https://image.tmdb.org/t/p/w185/lZpNRsHAOW8m0f7bRfgUDmRRjo.jpg"
+   }
+  },
+  {
+   "id": "f213",
+   "titolo": "Being John Malkovich",
+   "foto": {
+    "Cameron Diaz": "https://image.tmdb.org/t/p/w185/tIWUyvmJayu8gtbrzCWC0L3H8kH.jpg"
+   }
+  },
+  {
+   "id": "f216",
+   "titolo": "Cold in July",
+   "foto": {
+    "Don Johnson": "https://image.tmdb.org/t/p/w185/6s6oav541p7xspCG6PvXut7knkP.jpg"
+   }
+  },
+  {
+   "id": "f224",
+   "titolo": "Big Fish",
+   "foto": {
+    "Ewan McGregor": "https://image.tmdb.org/t/p/w185/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg",
+    "Albert Finney": "https://image.tmdb.org/t/p/w185/v77sxrIQvkPmiqE4bODGocXgDTl.jpg",
+    "Jessica Lange": "https://image.tmdb.org/t/p/w185/aWcO6trggSWsglUOdTVzjG4LSh3.jpg"
+   }
+  },
+  {
+   "id": "f230",
+   "titolo": "Dead Man's Shoes",
+   "foto": {
+    "Paddy Considine": "https://image.tmdb.org/t/p/w185/yFDFSlF4J1m9P0kVwBTKIHB8LYk.jpg"
+   }
+  },
+  {
+   "id": "f236",
+   "titolo": "Pulp Fiction",
+   "foto": {
+    "Samuel L. Jackson": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg",
+    "Uma Thurman": "https://image.tmdb.org/t/p/w185/sBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg",
+    "Ving Rhames": "https://image.tmdb.org/t/p/w185/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
+   }
+  },
+  {
+   "id": "f243",
+   "titolo": "Dune",
+   "foto": {
+    "Rebecca Ferguson": "https://image.tmdb.org/t/p/w185/ra53cM1aNmdH0aFhj8yBqPOj2fb.jpg"
+   }
+  },
+  {
+   "id": "f256",
+   "titolo": "The Place Beyond the Pines",
+   "foto": {
+    "Bradley Cooper": "https://image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg",
+    "Eva Mendes": "https://image.tmdb.org/t/p/w185/4xptMw7AjNamFgfGt75sHaT0wsI.jpg",
+    "Rose Byrne": "https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg",
+    "Dane DeHaan": "https://image.tmdb.org/t/p/w185/uwl0WKqHj6ahsriOEPLks84T70j.jpg"
+   }
+  },
+  {
+   "id": "f262",
+   "titolo": "Independence Day",
+   "foto": {
+    "Randy Quaid": null
+   }
+  },
+  {
+   "id": "f265",
+   "titolo": "First Man",
+   "foto": {
+    "Claire Foy": "https://image.tmdb.org/t/p/w185/pI1lOswQWZRhc8TKu0MESulw9uF.jpg"
+   }
+  },
+  {
+   "id": "f272",
+   "titolo": "21 Jump Street",
+   "foto": {
+    "Dave Franco": "https://image.tmdb.org/t/p/w185/to7ee1xcCOpDSKMXjBIRuYEfbEc.jpg"
+   }
+  },
+  {
+   "id": "f278",
+   "titolo": "Battle Royale",
+   "cast": "Takeshi Kitano, Masanobu Ando, Hirohito Honda, Ryou Nitta, Sayaka Ikeda",
+   "foto": {
+    "Tatsuya Fujiwara": null
+   }
+  },
+  {
+   "id": "f284",
+   "titolo": "Blue Velvet",
+   "foto": {
+    "Dennis Hopper": "https://image.tmdb.org/t/p/w185/hfrzsJhkX7Vphe3pVYk8lA9BNfg.jpg"
+   }
+  },
+  {
+   "id": "f305",
+   "titolo": "Falling Down",
+   "foto": {
+    "Tuesday Weld": "https://image.tmdb.org/t/p/w185/yp9Ng5tjVhhws17CgVqWWEEbqrb.jpg"
+   }
+  },
+  {
+   "id": "f311",
+   "titolo": "Frailty",
+   "foto": {
+    "Jeremy Sumpter": "https://image.tmdb.org/t/p/w185/pycR7N2pLA1fYFdySq1fP2wW7rN.jpg"
+   }
+  },
+  {
+   "id": "f324",
+   "titolo": "Her",
+   "foto": {
+    "Scarlett Johansson": "https://image.tmdb.org/t/p/w185/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg",
+    "Amy Adams": null
+   }
+  },
+  {
+   "id": "f333",
+   "titolo": "La La Land",
+   "foto": {
+    "Emma Stone": "https://image.tmdb.org/t/p/w185/mstXxlDqhoK0s0molsNpskJ1wLH.jpg"
+   }
+  },
+  {
+   "id": "f336",
+   "titolo": "Lost in Translation",
+   "foto": {
+    "Scarlett Johansson": "https://image.tmdb.org/t/p/w185/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg"
+   }
+  },
+  {
+   "id": "f345",
+   "titolo": "Nocturnal Animals",
+   "foto": {
+    "Amy Adams": "https://image.tmdb.org/t/p/w185/gn0K6c6d1L6qQrRc86iL8uyIqiF.jpg"
+   }
+  },
+  {
+   "id": "f354",
+   "titolo": "Portrait of a Lady on Fire",
+   "foto": {
+    "Luàna Bajrami": "https://image.tmdb.org/t/p/w185/yjA6oAhxtRZfrC68VvAI8yOttA7.jpg"
+   }
+  },
+  {
+   "id": "f380",
+   "titolo": "The Zone of Interest",
+   "foto": {
+    "Sandra Hüller": "https://image.tmdb.org/t/p/w185/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
+   }
+  },
+  {
+   "id": "f404",
+   "titolo": "Under the Silver Lake",
+   "foto": {
+    "Andrew Garfield": "https://image.tmdb.org/t/p/w185/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg",
+    "Riley Keough": "https://image.tmdb.org/t/p/w185/du1FYr5dTQL6gCMX6ISnQBOxz2F.jpg",
+    "Topher Grace": "https://image.tmdb.org/t/p/w185/89sF57Br5lq8nrepS7HLzJ41QD1.jpg"
+   }
+  },
+  {
+   "id": "f407",
+   "titolo": "Vanilla Sky",
+   "foto": {
+    "Tom Cruise": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg",
+    "Cameron Diaz": "https://image.tmdb.org/t/p/w185/tIWUyvmJayu8gtbrzCWC0L3H8kH.jpg"
+   }
+  },
+  {
+   "id": "f413",
+   "titolo": "Wind River",
+   "foto": {
+    "Elizabeth Olsen": "https://image.tmdb.org/t/p/w185/vXz0E5lQKZS1RnlmcHSGbdR0CzG.jpg",
+    "Jon Bernthal": "https://image.tmdb.org/t/p/w185/bjcglF1IpDcZNs1HwFxakGpzBo6.jpg"
+   }
+  },
+  {
+   "id": "f439",
+   "titolo": "Dune: Part Three",
+   "cast": "Timothée Chalamet, Zendaya, Jason Momoa, Florence Pugh, Rebecca Ferguson",
+   "foto": {
+    "Zendaya": "https://image.tmdb.org/t/p/w185/qGkBlyn1AwQpuFnRARMRwj0iHZp.jpg",
+    "Florence Pugh": "https://image.tmdb.org/t/p/w185/2URrZb95t3kY6pLroKny3Enmabp.jpg",
+    "Austin Butler": null
+   }
+  },
+  {
+   "id": "f463",
+   "titolo": "Harry Potter and the Order of the Phoenix",
+   "foto": {
+    "Rupert Grint": "https://image.tmdb.org/t/p/w185/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg",
+    "Ralph Fiennes": null
+   }
+  },
+  {
+   "id": "f469",
+   "titolo": "The Amazing Spider-Man",
+   "foto": {
+    "Andrew Garfield": "https://image.tmdb.org/t/p/w185/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg",
+    "Emma Stone": "https://image.tmdb.org/t/p/w185/mstXxlDqhoK0s0molsNpskJ1wLH.jpg"
+   }
+  },
+  {
+   "id": "f472",
+   "titolo": "Spider-Man: Far From Home",
+   "foto": {
+    "Tom Holland": "https://image.tmdb.org/t/p/w185/adwEBb2sCSzqwnpVgNEG7irl1Ne.jpg",
+    "Samuel L. Jackson": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg",
+    "Zendaya": "https://image.tmdb.org/t/p/w185/qGkBlyn1AwQpuFnRARMRwj0iHZp.jpg"
+   }
+  },
+  {
+   "id": "f475",
+   "titolo": "Harry Potter and the Chamber of Secrets",
+   "foto": {
+    "Rupert Grint": "https://image.tmdb.org/t/p/w185/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg"
+   }
+  },
+  {
+   "id": "f478",
+   "titolo": "Harry Potter and the Deathly Hallows: Part 2",
+   "foto": {
+    "Rupert Grint": "https://image.tmdb.org/t/p/w185/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg",
+    "Ralph Fiennes": "https://image.tmdb.org/t/p/w185/pCnVXH1Uo2ODoOit4UXni8OD9VB.jpg"
+   }
+  }
+ ],
+ "series": [
+  {
+   "id": "s121",
+   "titolo": "The Penguin",
+   "cast": [
+    [
+     "Colin Farrell",
+     "Oz 'The Penguin' Cobb",
+     "https://image.tmdb.org/t/p/w185/5FdalJbrbZ5UCsED5rFrXpvbqJa.jpg"
+    ],
+    [
+     "Cristin Milioti",
+     "Sofia Falcone",
+     "https://image.tmdb.org/t/p/w185/aiOOWmej3qYSiR9cUs3lm5x5SkB.jpg"
+    ],
+    [
+     "Rhenzy Feliz",
+     "Victor Aguilar",
+     "https://image.tmdb.org/t/p/w185/9YPe3GgyWjG4D0GnTx9KzfvnO0L.jpg"
+    ],
+    [
+     "Deirdre O'Connell",
+     "Francis Cobb",
+     "https://image.tmdb.org/t/p/w185/14e0AZOZafenduP7O6oMLSL92RP.jpg"
+    ],
+    [
+     "Clancy Brown",
+     "Salvatore Maroni",
+     "https://image.tmdb.org/t/p/w185/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+    ],
+    [
+     "Carmen Ejogo",
+     "Eve Karlo",
+     "https://image.tmdb.org/t/p/w185/b2qi5NxOwoxK67LPz0MjVwjRcFp.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s123",
+   "titolo": "His Dark Materials",
+   "generi": [
+    "Fantascienza, Fantasy",
+    "Dramma",
+    "Azione, Avventura"
+   ]
+  },
+  {
+   "id": "s120",
+   "titolo": "The Mentalist",
+   "cast": [
+    [
+     "Simon Baker",
+     "Patrick Jane",
+     "https://image.tmdb.org/t/p/w185/oay0Lo2zl0lJdguptxgx1BK9Xq7.jpg"
+    ],
+    [
+     "Robin Tunney",
+     "Teresa Lisbon",
+     "https://image.tmdb.org/t/p/w185/vOmWyYNoVEaPPvoto4IW8dSXn7I.jpg"
+    ],
+    [
+     "Tim Kang",
+     "Kimball Cho",
+     "https://image.tmdb.org/t/p/w185/Ae7qMN6fJTut145qpeSn1NOu8yx.jpg"
+    ],
+    [
+     "Owain Yeoman",
+     "Wayne Rigsby",
+     "https://image.tmdb.org/t/p/w185/ubPMiDbNwgNhhAlDa4mIzuVZmXJ.jpg"
+    ],
+    [
+     "Amanda Righetti",
+     "Grace Van Pelt",
+     "https://image.tmdb.org/t/p/w185/7kKpYggBan6rYKFumeRSm0eDGqA.jpg"
+    ],
+    [
+     "Joe Adler",
+     "Jason Wylie",
+     "https://image.tmdb.org/t/p/w185/bsle7zqj6HBs6NYstkwDwQY7EEf.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s1",
+   "titolo": "Breaking Bad",
+   "cast": [
+    [
+     "Bryan Cranston",
+     "Walter White",
+     "https://image.tmdb.org/t/p/w185/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg"
+    ],
+    [
+     "Aaron Paul",
+     "Jesse Pinkman",
+     "https://image.tmdb.org/t/p/w185/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
+    ],
+    [
+     "Anna Gunn",
+     "Skyler White",
+     "https://image.tmdb.org/t/p/w185/adppyeu1a4REN3khtgmXusrapFi.jpg"
+    ],
+    [
+     "RJ Mitte",
+     "Walter White Jr.",
+     "https://image.tmdb.org/t/p/w185/sNPA92ZrssYhlaB1UA2pWcLD9db.jpg"
+    ],
+    [
+     "Dean Norris",
+     "Hank Schrader",
+     "https://image.tmdb.org/t/p/w185/mKRrEbsxAX3ro700HsViFArRM7l.jpg"
+    ],
+    [
+     "Betsy Brandt",
+     "Marie Schrader",
+     "https://image.tmdb.org/t/p/w185/xAnuzyjdMbQq9L1c4JNwXL52Wm4.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s4",
+   "titolo": "Friends",
+   "cast": [
+    [
+     "Jennifer Aniston",
+     "Rachel Green",
+     "https://image.tmdb.org/t/p/w185/PBSCmHDFdCMBhjx0EbXpTw4Z94.jpg"
+    ],
+    [
+     "Courteney Cox",
+     "Monica Geller",
+     "https://image.tmdb.org/t/p/w185/cSOORhCRPJiwKghozXVXrOBi3Tp.jpg"
+    ],
+    [
+     "Lisa Kudrow",
+     "Phoebe Buffay",
+     "https://image.tmdb.org/t/p/w185/ziatnwJRiBJIcc8jlk6xoClhfOy.jpg"
+    ],
+    [
+     "Matt LeBlanc",
+     "Joey Tribbiani",
+     "https://image.tmdb.org/t/p/w185/a7Fl1sLUq1UDJ4pHsnwpBdEiDEZ.jpg"
+    ],
+    [
+     "Matthew Perry",
+     "Chandler Bing",
+     "https://image.tmdb.org/t/p/w185/ecDzkLWPV1z0x31I1GTjNmLxAHk.jpg"
+    ],
+    [
+     "David Schwimmer",
+     "Ross Geller",
+     "https://image.tmdb.org/t/p/w185/XtKzJ9lM5Xwa7vCmE4xNHy6Owf.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s6",
+   "titolo": "Game of Thrones",
+   "cast": [
+    [
+     "Peter Dinklage",
+     "Tyrion 'The Halfman' Lannister",
+     "https://image.tmdb.org/t/p/w185/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+    ],
+    [
+     "Kit Harington",
+     "Jon Snow",
+     "https://image.tmdb.org/t/p/w185/iGXlJbExWwZmo9sUDsYuzf4Sv4y.jpg"
+    ],
+    [
+     "Nikolaj Coster-Waldau",
+     "Sir Jaime 'Kingslayer' Lannister",
+     "https://image.tmdb.org/t/p/w185/rpFOERbHkj7GWxkinUNiQ76sSGk.jpg"
+    ],
+    [
+     "Lena Headey",
+     "Cersei Lannister",
+     "https://image.tmdb.org/t/p/w185/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
+    ],
+    [
+     "Emilia Clarke",
+     "Daenerys Targaryen",
+     "https://image.tmdb.org/t/p/w185/iFY6t7Ux9r70WB7Sp0TTVz6eGtm.jpg"
+    ],
+    [
+     "Maisie Williams",
+     "Arya Stark",
+     "https://image.tmdb.org/t/p/w185/zk1rlBVci2fmnFhMezaPpa4kwZF.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s7",
+   "titolo": "La casa di carta"
+  },
+  {
+   "id": "s8",
+   "titolo": "Better Call Saul",
+   "cast": [
+    [
+     "Bob Odenkirk",
+     "Jimmy McGill",
+     "https://image.tmdb.org/t/p/w185/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+    ],
+    [
+     "Jonathan Banks",
+     "Mike Ehrmantraut",
+     "https://image.tmdb.org/t/p/w185/bswk26L13PvY4iMTwUTAsepXCLv.jpg"
+    ],
+    [
+     "Rhea Seehorn",
+     "Kim Wexler",
+     "https://image.tmdb.org/t/p/w185/tql4gvY8NfYvmAdmdp1olkwJnrq.jpg"
+    ],
+    [
+     "Patrick Fabian",
+     "Howard Hamlin",
+     "https://image.tmdb.org/t/p/w185/bbsYGlnvGUTTExcabKL1OIhcKyZ.jpg"
+    ],
+    [
+     "Michael Mando",
+     "Nacho Varga",
+     "https://image.tmdb.org/t/p/w185/gvM2wG66bjEpiirdeQdyG9EzUfv.jpg"
+    ],
+    [
+     "Giancarlo Esposito",
+     "Gus Fring",
+     "https://image.tmdb.org/t/p/w185/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s10",
+   "titolo": "Lost"
+  },
+  {
+   "id": "s11",
+   "titolo": "Band of Brothers",
+   "cast": [
+    [
+     "Michael Cudlitz",
+     "Denver (Bull) Randleman",
+     "https://image.tmdb.org/t/p/w185/1snLOta9L2DAhmOTvNIn7OSxzQC.jpg"
+    ],
+    [
+     "Rick Gomez",
+     "George Luz",
+     "https://image.tmdb.org/t/p/w185/gmVYPHJgmRVIzhaVYMns4kgBVqm.jpg"
+    ],
+    [
+     "Scott Grimes",
+     "Donald G. Malarkey",
+     "https://image.tmdb.org/t/p/w185/k5OCDhwZoFuNtN0o4EDkpBXQsFp.jpg"
+    ],
+    [
+     "Damian Lewis",
+     "Richard D. Winters",
+     "https://image.tmdb.org/t/p/w185/puOXtVatFnAxoOmsFO8z7KTfyJW.jpg"
+    ],
+    [
+     "Ron Livingston",
+     "Lewis Nixon",
+     "https://image.tmdb.org/t/p/w185/pr5CjWnkaf5WKTIYh8wtNufjmyb.jpg"
+    ],
+    [
+     "James Madio",
+     "Frank J. Perconte",
+     "https://image.tmdb.org/t/p/w185/v17uyHhMLooVWKjMRS4NoGeTPyB.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s13",
+   "titolo": "Squid Game",
+   "cast": [
+    [
+     "Lee Jung-jae",
+     "Seong Gi-hun / Player 456",
+     "https://image.tmdb.org/t/p/w185/lx8oiTXL9lIx78KOXlrlvNfoz43.jpg"
+    ],
+    [
+     "Lee Byung-hun",
+     "Front Man / Hwang In-ho",
+     "https://image.tmdb.org/t/p/w185/5p5LDbZtnKhXDZL5227ExukbnRo.jpg"
+    ],
+    [
+     "Kang Ae-sim",
+     "Jang Geum-ja / Player 149",
+     "https://image.tmdb.org/t/p/w185/mnUozozJf3VUpgi91ysfyxlRqs1.jpg"
+    ],
+    [
+     "Kang Ha-neul",
+     "Kang Dae-ho / Player 388",
+     "https://image.tmdb.org/t/p/w185/wkSSMlvNNH4uAy3wcQ9xVZ4yHfW.jpg"
+    ],
+    [
+     "David Lee",
+     "Park Min-su / Player 125",
+     "https://image.tmdb.org/t/p/w185/qWGDFlr47d2AJLtJsOEmfmaC21l.jpg"
+    ],
+    [
+     "Anupam Tripathi",
+     "Ali Abdul / Player 199",
+     "https://image.tmdb.org/t/p/w185/qiypxSxV93cIv7F4O2MeOpXNlsJ.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s14",
+   "titolo": "Peaky Blinders",
+   "cast": [
+    [
+     "Cillian Murphy",
+     "Thomas Shelby",
+     "https://image.tmdb.org/t/p/w185/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+    ],
+    [
+     "Paul Anderson",
+     "Arthur Shelby",
+     "https://image.tmdb.org/t/p/w185/nds5rTBZvJ4rEsP4N6OaoEgQDkW.jpg"
+    ],
+    [
+     "Sophie Rundle",
+     "Ada Shelby",
+     "https://image.tmdb.org/t/p/w185/8kZTjHZcvmGo1W53DXM2mjXex2A.jpg"
+    ],
+    [
+     "Helen McCrory",
+     "Polly Gray",
+     "https://image.tmdb.org/t/p/w185/dVtwKuGce3BhUcqfdpxFvpCT8YT.jpg"
+    ],
+    [
+     "Finn Cole",
+     "Michael Gray",
+     "https://image.tmdb.org/t/p/w185/yVWop3BSHbjIecYGqI1ToZIPR3T.jpg"
+    ],
+    [
+     "Ian Peck",
+     "Curly",
+     "https://image.tmdb.org/t/p/w185/efEJsO8xhDdpOkWR0ArLl34B47f.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s15",
+   "titolo": "The Expanse",
+   "cast": [
+    [
+     "Steven Strait",
+     "Jim Holden",
+     "https://image.tmdb.org/t/p/w185/m7heTGlIKOZJgWrTtY5TS3LaZxS.jpg"
+    ],
+    [
+     "Dominique Tipper",
+     "Naomi Nagata",
+     "https://image.tmdb.org/t/p/w185/tYsdlDNJON9hTdqrkFL0twkNTjo.jpg"
+    ],
+    [
+     "Wes Chatham",
+     "Amos Burton",
+     "https://image.tmdb.org/t/p/w185/lFoUyX8FZs3XvUWWItCm2ezvAEs.jpg"
+    ],
+    [
+     "Shohreh Aghdashloo",
+     "Chrisjen Avasarala",
+     "https://image.tmdb.org/t/p/w185/7josGC8QO9V6V8AuFdaS2tjUF8W.jpg"
+    ],
+    [
+     "Cas Anvar",
+     "Alex Kamal",
+     "https://image.tmdb.org/t/p/w185/ohEulMvF1Ji2osI3aSBVGb5FFUb.jpg"
+    ],
+    [
+     "Frankie Adams",
+     "Bobbie Draper",
+     "https://image.tmdb.org/t/p/w185/aAUHUSf0lh3OBRoaiCRL9ep8lfL.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s23",
+   "titolo": "Sex Education"
+  },
+  {
+   "id": "s24",
+   "titolo": "Succession"
+  },
+  {
+   "id": "s27",
+   "titolo": "Elite",
+   "cast": [
+    [
+     "Omar Ayuso",
+     "Omar Shanaa",
+     "https://image.tmdb.org/t/p/w185/c4bAqv3PoSVK4ov7cw076NNqg6f.jpg"
+    ],
+    [
+     "Itzan Escamilla",
+     "Samuel García Domínguez",
+     "https://image.tmdb.org/t/p/w185/hWCXTWXNytChyiUQUXbGIouW3am.jpg"
+    ],
+    [
+     "Valentina Zenere",
+     "Isadora Artiñan",
+     "https://image.tmdb.org/t/p/w185/5EfGAj1nOocsFb8Ffst5Ik48Gye.jpg"
+    ],
+    [
+     "André Lamoglia",
+     "Iván Carvalho",
+     "https://image.tmdb.org/t/p/w185/6kMkE1tPagXWRCQHAt2PYHyo6kD.jpg"
+    ],
+    [
+     "Miguel Bernardeau",
+     "Guzmán Nunier Osuna",
+     "https://image.tmdb.org/t/p/w185/aPyvMBnGaTeWkMStdHvdiiWxpBQ.jpg"
+    ],
+    [
+     "Arón Piper",
+     "Ander Muñoz",
+     "https://image.tmdb.org/t/p/w185/v4zaydubluolMYxKlzyQBfXCoP5.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s28",
+   "titolo": "Rick and Morty",
+   "cast": [
+    [
+     "Chris Parnell",
+     "Jerry Smith (voice)",
+     "https://image.tmdb.org/t/p/w185/9Ga03Y9TVIqTZJ4I9rfL740ibgJ.jpg"
+    ],
+    [
+     "Spencer Grammer",
+     "Summer Smith (voice)",
+     "https://image.tmdb.org/t/p/w185/1L8Y45RJo2YxUXl6ldIowQay1V7.jpg"
+    ],
+    [
+     "Sarah Chalke",
+     "Beth Smith (voice)",
+     "https://image.tmdb.org/t/p/w185/ycwiu89cpjqCtSNC5FjbJggjj5R.jpg"
+    ],
+    [
+     "Justin Roiland",
+     "Rick Sanchez / Morty Smith (voice)",
+     "https://image.tmdb.org/t/p/w185/wYApP38aXe6ZcEtlBAfNRxJTQQi.jpg"
+    ],
+    [
+     "Kari Wahlgren",
+     "Sharon Lewis (voice)",
+     "https://image.tmdb.org/t/p/w185/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg"
+    ],
+    [
+     "Tom Kenny",
+     "Mr. Stabby / Scientist #2 (voice)",
+     "https://image.tmdb.org/t/p/w185/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s29",
+   "titolo": "Lucifer",
+   "cast": [
+    [
+     "Tom Ellis",
+     "Lucifer Morningstar",
+     "https://image.tmdb.org/t/p/w185/zhjIyqpk5bsYgxsh5bSeS6VZtHm.jpg"
+    ],
+    [
+     "Lauren German",
+     "Chloe Decker",
+     "https://image.tmdb.org/t/p/w185/if1TbO8dSfPiDCMfy52nH7A2D7.jpg"
+    ],
+    [
+     "Kevin Alejandro",
+     "Dan Espinoza",
+     "https://image.tmdb.org/t/p/w185/bh4aQqP7kJzL2Ls9tj5OmhsBlqi.jpg"
+    ],
+    [
+     "D. B. Woodside",
+     "Amenadiel",
+     "https://image.tmdb.org/t/p/w185/xdyGewr108rQWojpYlKw2QjrxCz.jpg"
+    ],
+    [
+     "Lesley-Ann Brandt",
+     "Mazikeen 'Maze'",
+     "https://image.tmdb.org/t/p/w185/fW2ITcpENpNnHf4wuNltf3PSQTk.jpg"
+    ],
+    [
+     "Rachael Harris",
+     "Linda Martin",
+     "https://image.tmdb.org/t/p/w185/1O0zLB0gMcNIuttpG3omWb4ZAvF.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s31",
+   "titolo": "How I Met Your Mother",
+   "cast": [
+    [
+     "Josh Radnor",
+     "Ted Mosby",
+     "https://image.tmdb.org/t/p/w185/rHx4D70iRUkka5kl9064kOvmSQs.jpg"
+    ],
+    [
+     "Neil Patrick Harris",
+     "Barney Stinson",
+     "https://image.tmdb.org/t/p/w185/r2twLWLwDpKJ7JyhWsD1YsL7rJV.jpg"
+    ],
+    [
+     "Jason Segel",
+     "Marshall Eriksen",
+     "https://image.tmdb.org/t/p/w185/aG6tVNSbl1YEjN65G3luFYnWbUM.jpg"
+    ],
+    [
+     "Alyson Hannigan",
+     "Lily Aldrin",
+     "https://image.tmdb.org/t/p/w185/bO16z8rAzZWdjCga8dcbJ2AFAh2.jpg"
+    ],
+    [
+     "Cobie Smulders",
+     "Robin Scherbatsky",
+     "https://image.tmdb.org/t/p/w185/1b0mYokcGsfFRge4bjXlS5ihtek.jpg"
+    ],
+    [
+     "Lyndsy Fonseca",
+     "Daughter",
+     "https://image.tmdb.org/t/p/w185/xPbbiLpUpmaHIVnyR3BAfG1tm5S.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s32",
+   "titolo": "The Walking Dead",
+   "cast": [
+    [
+     "Norman Reedus",
+     "Daryl Dixon",
+     "https://image.tmdb.org/t/p/w185/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg"
+    ],
+    [
+     "Melissa McBride",
+     "Carol Peletier",
+     "https://image.tmdb.org/t/p/w185/2omPfeMdnicJqqvgKAU2iqVyD4Z.jpg"
+    ],
+    [
+     "Lauren Cohan",
+     "Maggie Greene",
+     "https://image.tmdb.org/t/p/w185/8WPbj506873QzrKwUFbjjniLuvD.jpg"
+    ],
+    [
+     "Danai Gurira",
+     "Michonne Hawthorne",
+     "https://image.tmdb.org/t/p/w185/z7H7QeQvr24vskGlANQhG43vozQ.jpg"
+    ],
+    [
+     "Andrew Lincoln",
+     "Rick Grimes",
+     "https://image.tmdb.org/t/p/w185/gR4RzQTDsMfVv8oEh2VRbO8LkFz.jpg"
+    ],
+    [
+     "Christian Serratos",
+     "Rosita Espinosa",
+     "https://image.tmdb.org/t/p/w185/jP07Elhu2eZdmjIB4fJiag5CfaD.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s34",
+   "titolo": "WandaVision"
+  },
+  {
+   "id": "s38",
+   "titolo": "The Leftovers"
+  },
+  {
+   "id": "s39",
+   "titolo": "Suits",
+   "cast": [
+    [
+     "Gabriel Macht",
+     "Harvey Specter",
+     "https://image.tmdb.org/t/p/w185/lacMH4Ju1x9AsKXm7mDkklSsPyV.jpg"
+    ],
+    [
+     "Rick Hoffman",
+     "Louis Litt",
+     "https://image.tmdb.org/t/p/w185/c9CKBkLtGtW1T8GRNUid0tQHaJY.jpg"
+    ],
+    [
+     "Sarah Rafferty",
+     "Donna Paulsen",
+     "https://image.tmdb.org/t/p/w185/Am3yPjKVbGWWn2Q1SB5wPz3yzgV.jpg"
+    ],
+    [
+     "Patrick J. Adams",
+     "Mike Ross",
+     "https://image.tmdb.org/t/p/w185/uJiuAHTsZAbfMi9bKRksWn4oHLf.jpg"
+    ],
+    [
+     "Meghan, Duchess of Sussex",
+     "Rachel Zane",
+     "https://image.tmdb.org/t/p/w185/c4l6MFR3Qrz3421hREII3S7cRHk.jpg"
+    ],
+    [
+     "Gina Torres",
+     "Jessica Pearson",
+     "https://image.tmdb.org/t/p/w185/ukDNHgvEgdU95eaw6pngiAPucv4.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s41",
+   "titolo": "Outer Banks"
+  },
+  {
+   "id": "s42",
+   "titolo": "Barry",
+   "cast": [
+    [
+     "Bill Hader",
+     "Barry Berkman",
+     "https://image.tmdb.org/t/p/w185/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg"
+    ],
+    [
+     "Sarah Goldberg",
+     "Sally Reed",
+     "https://image.tmdb.org/t/p/w185/9rQD9eAD7udsV06Q94UvsPg4qrI.jpg"
+    ],
+    [
+     "Anthony Carrigan",
+     "NoHo Hank",
+     "https://image.tmdb.org/t/p/w185/emyCDFrdEygDB5ySZLwUqk2wkLa.jpg"
+    ],
+    [
+     "Henry Winkler",
+     "Gene Cousineau",
+     "https://image.tmdb.org/t/p/w185/mGlSRA5RDswEDmY8oWEizXliShp.jpg"
+    ],
+    [
+     "Stephen Root",
+     "Monroe Fuches",
+     "https://image.tmdb.org/t/p/w185/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+    ],
+    [
+     "D'Arcy Carden",
+     "Natalie Greer",
+     "https://image.tmdb.org/t/p/w185/bizw9YGOniYz64X5pf8EwafAVLO.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s43",
+   "titolo": "Person of Interest"
+  },
+  {
+   "id": "s45",
+   "titolo": "Vikings",
+   "cast": [
+    [
+     "Katheryn Winnick",
+     "Lagertha",
+     "https://image.tmdb.org/t/p/w185/vQSqH3ybDWZHZIqX4NZKhOCXAhQ.jpg"
+    ],
+    [
+     "Gustaf Skarsgård",
+     "Floki",
+     "https://image.tmdb.org/t/p/w185/bfh0yP6Qr55jg9CGTGScXAw8Ftu.jpg"
+    ],
+    [
+     "Alexander Ludwig",
+     "Bjorn Lothbrok",
+     "https://image.tmdb.org/t/p/w185/3KpzKT4iGhNivSISQMe6EwpAmCi.jpg"
+    ],
+    [
+     "Georgia Hirst",
+     "Torvi",
+     "https://image.tmdb.org/t/p/w185/7xHIjmpI4jWUfB1EFiTMtYzpVXM.jpg"
+    ],
+    [
+     "Peter Franzén",
+     "King Harald Finehair",
+     "https://image.tmdb.org/t/p/w185/zJ8JV2TefLQIT5DzMinl5eoK5YH.jpg"
+    ],
+    [
+     "Alex Høgh Andersen",
+     "Ivar Lothbrok / Ivar the Boneless",
+     "https://image.tmdb.org/t/p/w185/kDO1gFqMnsV5gCQsMgEL9BZongX.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s46",
+   "titolo": "The Good Place",
+   "cast": [
+    [
+     "Kristen Bell",
+     "Eleanor Shellstrop",
+     "https://image.tmdb.org/t/p/w185/rP74dJXl7EjinGM0shQtUOlH5s2.jpg"
+    ],
+    [
+     "Ted Danson",
+     "Michael",
+     "https://image.tmdb.org/t/p/w185/2QUEYVhrKbOkRKeFEUnc5sJby6a.jpg"
+    ],
+    [
+     "William Jackson Harper",
+     "Chidi Anagonye",
+     "https://image.tmdb.org/t/p/w185/5Oy037YttIweiqNGaErkalNmH0G.jpg"
+    ],
+    [
+     "Jameela Jamil",
+     "Tahani Al-Jamil",
+     "https://image.tmdb.org/t/p/w185/e9RviCItpPoSwD79y4YYlDbIwM6.jpg"
+    ],
+    [
+     "Manny Jacinto",
+     "Jason Mendoza",
+     "https://image.tmdb.org/t/p/w185/jMbNV4nr5647r6CZJbT6nsnspMz.jpg"
+    ],
+    [
+     "D'Arcy Carden",
+     "Janet",
+     "https://image.tmdb.org/t/p/w185/bizw9YGOniYz64X5pf8EwafAVLO.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s49",
+   "titolo": "Manhunt",
+   "cast": [
+    [
+     "Gethin Anthony",
+     "FBI Agent Jack Brennan",
+     null
+    ],
+    [
+     "Arliss Howard",
+     "Earl Embry",
+     "https://image.tmdb.org/t/p/w185/28bQJ5fqLem4Ml7x9LZ7QEnwaTa.jpg"
+    ],
+    [
+     "Kelly Jenrette",
+     "Stacey Knox",
+     "https://image.tmdb.org/t/p/w185/8khV2zspNwDcV7lR7EGNuPNZ3fe.jpg"
+    ],
+    [
+     "Cameron Britton",
+     "Richard Jewell",
+     "https://image.tmdb.org/t/p/w185/9HFxi8ZnBiby3AQ7tBOPDxXFkCT.jpg"
+    ],
+    [
+     "Sam Worthington",
+     "Jim 'Fitz' Fitzgerald",
+     "https://image.tmdb.org/t/p/w185/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+    ],
+    [
+     "Ness Bautista",
+     "Joe Holliwell",
+     "https://image.tmdb.org/t/p/w185/9JrOV4lJlXCOaO6QG6wkq3eXbP6.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s52",
+   "titolo": "The Last of Us",
+   "cast": [
+    [
+     "Bella Ramsey",
+     "Ellie Williams",
+     "https://image.tmdb.org/t/p/w185/vDbgxc7RYawpB1wK7JDEj62j06H.jpg"
+    ],
+    [
+     "Pedro Pascal",
+     "Joel Miller",
+     "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    ],
+    [
+     "Gabriel Luna",
+     "Tommy Miller",
+     "https://image.tmdb.org/t/p/w185/bIPORtYxTJPEUJIThbZrpqf4A11.jpg"
+    ],
+    [
+     "Isabela Merced",
+     "Dina",
+     "https://image.tmdb.org/t/p/w185/7O5GWIH8IHwU4kGZIhC3JkGDiZr.jpg"
+    ],
+    [
+     "Young Mazino",
+     "Jesse",
+     "https://image.tmdb.org/t/p/w185/cRuVRx1DMe2hBkz5pssVqdpCtaQ.jpg"
+    ],
+    [
+     "Rutina Wesley",
+     "Maria",
+     "https://image.tmdb.org/t/p/w185/ujpdNAKxlv6TRI2mm0k3eSSZJkB.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s54",
+   "titolo": "Invincible",
+   "cast": [
+    [
+     "Steven Yeun",
+     "Mark Grayson / Invincible (voice)",
+     "https://image.tmdb.org/t/p/w185/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+    ],
+    [
+     "Sandra Oh",
+     "Debbie Grayson (voice)",
+     "https://image.tmdb.org/t/p/w185/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
+    ],
+    [
+     "J.K. Simmons",
+     "Nolan Grayson / Omni-Man (voice)",
+     "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    ],
+    [
+     "Gillian Jacobs",
+     "Eve / College Girl (voice)",
+     "https://image.tmdb.org/t/p/w185/tKpXn260glPElCKlFekKAACNWYn.jpg"
+    ],
+    [
+     "Walton Goggins",
+     "Cecil (voice)",
+     "https://image.tmdb.org/t/p/w185/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
+    ],
+    [
+     "Grey DeLisle",
+     "Shrinking Rae (voice)",
+     "https://image.tmdb.org/t/p/w185/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s58",
+   "titolo": "Fringe",
+   "cast": [
+    [
+     "Anna Torv",
+     "Olivia Dunham",
+     "https://image.tmdb.org/t/p/w185/muZIxj33R2EEJhm28c9hBd0AiRk.jpg"
+    ],
+    [
+     "Joshua Jackson",
+     "Peter Bishop",
+     "https://image.tmdb.org/t/p/w185/mH2a5YFd8J7upjjWwEzM75vitA2.jpg"
+    ],
+    [
+     "Jasika Nicole",
+     "Astrid Farnsworth",
+     "https://image.tmdb.org/t/p/w185/8Mh5BqATLCqCK1BVcu1icJsRsds.jpg"
+    ],
+    [
+     "John Noble",
+     "Walter Bishop",
+     "https://image.tmdb.org/t/p/w185/t9dB8uU27sQDaEEFMiQvp5sbrXU.jpg"
+    ],
+    [
+     "Lance Reddick",
+     "Phillip Broyles",
+     "https://image.tmdb.org/t/p/w185/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg"
+    ],
+    [
+     "Blair Brown",
+     "Nina Sharp",
+     "https://image.tmdb.org/t/p/w185/hnVybZLBUJNr93gCTwgRQRCkjpm.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s62",
+   "titolo": "Mindhunter",
+   "cast": [
+    [
+     "Jonathan Groff",
+     "Holden Ford",
+     "https://image.tmdb.org/t/p/w185/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
+    ],
+    [
+     "Holt McCallany",
+     "Bill Tench",
+     "https://image.tmdb.org/t/p/w185/xHnvYcJv6YEku9pIg8LoDNHWQy.jpg"
+    ],
+    [
+     "Anna Torv",
+     "Wendy Carr",
+     "https://image.tmdb.org/t/p/w185/muZIxj33R2EEJhm28c9hBd0AiRk.jpg"
+    ],
+    [
+     "Sonny Valicenti",
+     "ADT Serviceman",
+     "https://image.tmdb.org/t/p/w185/j3neEkxxuyf4EnOE2qH0NHuonCS.jpg"
+    ],
+    [
+     "Stacey Roca",
+     "Nancy Tench",
+     "https://image.tmdb.org/t/p/w185/sk7NshCULQUON7drnxTuqwD3Kv3.jpg"
+    ],
+    [
+     "Cotter Smith",
+     "Unit Chief Shepard",
+     "https://image.tmdb.org/t/p/w185/dmz3uYC2XLMulmvQYzqGVaqLmRw.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s63",
+   "titolo": "The Pitt"
+  },
+  {
+   "id": "s65",
+   "titolo": "Battlestar Galactica"
+  },
+  {
+   "id": "s67",
+   "titolo": "Boardwalk Empire",
+   "cast": [
+    [
+     "Steve Buscemi",
+     "Enoch 'Nucky' Thompson",
+     "https://image.tmdb.org/t/p/w185/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+    ],
+    [
+     "Kelly Macdonald",
+     "Margaret Schroeder",
+     "https://image.tmdb.org/t/p/w185/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
+    ],
+    [
+     "Michael Shannon",
+     "Nelson Van Alden",
+     "https://image.tmdb.org/t/p/w185/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+    ],
+    [
+     "Shea Whigham",
+     "Elias 'Eli' Thompson",
+     "https://image.tmdb.org/t/p/w185/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
+    ],
+    [
+     "Stephen Graham",
+     "Al Capone",
+     "https://image.tmdb.org/t/p/w185/yguEO9zFvuccq87kOJpFLsmUgvs.jpg"
+    ],
+    [
+     "Vincent Piazza",
+     "Charles 'Lucky' Luciano",
+     "https://image.tmdb.org/t/p/w185/cybUCnpnrvtfmJcF2vC2nBWzmKU.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s68",
+   "titolo": "Gotham",
+   "cast": [
+    [
+     "Ben McKenzie",
+     "James 'Jim' Gordon",
+     "https://image.tmdb.org/t/p/w185/2jlwhOXKakL6gk365u4gPkTtHHi.jpg"
+    ],
+    [
+     "Donal Logue",
+     "Harvey Bullock",
+     "https://image.tmdb.org/t/p/w185/5Rj850yVkIqsgCihtZLbkNSHbFb.jpg"
+    ],
+    [
+     "David Mazouz",
+     "Bruce Wayne",
+     "https://image.tmdb.org/t/p/w185/jc9RQJQTRWi5lrob8DCSt1sW5N0.jpg"
+    ],
+    [
+     "Sean Pertwee",
+     "Alfred Pennyworth",
+     "https://image.tmdb.org/t/p/w185/j4pAEMhKL5vA61ADrkxxLFtcI4c.jpg"
+    ],
+    [
+     "Robin Lord Taylor",
+     "Oswald Cobblepot",
+     "https://image.tmdb.org/t/p/w185/2LgeNkwtyKikKT5vhuXjazdqgzn.jpg"
+    ],
+    [
+     "Erin Richards",
+     "Barbara Kean",
+     "https://image.tmdb.org/t/p/w185/uVCvOipf16ifApCqrM5jdL427wu.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s69",
+   "titolo": "Sons of Anarchy",
+   "cast": [
+    [
+     "Charlie Hunnam",
+     "Jax Teller",
+     "https://image.tmdb.org/t/p/w185/5WIDrnY25Ps2RYu0zIzHSVuSt5n.jpg"
+    ],
+    [
+     "Katey Sagal",
+     "Gemma Teller Morrow",
+     "https://image.tmdb.org/t/p/w185/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg"
+    ],
+    [
+     "Tommy Flanagan",
+     "Filip 'Chibs' Telford",
+     "https://image.tmdb.org/t/p/w185/cwLJNAezwtCPHTq5YnWhtb8htLn.jpg"
+    ],
+    [
+     "Mark Boone Junior",
+     "Bobby Munson",
+     "https://image.tmdb.org/t/p/w185/zcYYnZNxOfMOLq7zL0hJheoVM2k.jpg"
+    ],
+    [
+     "Kim Coates",
+     "Alex 'Tig' Trager",
+     "https://image.tmdb.org/t/p/w185/brhVd2vTTBJNpM2ZrOFc6SnXCAd.jpg"
+    ],
+    [
+     "Theo Rossi",
+     "Juan Carlos 'Juice' Ortiz",
+     "https://image.tmdb.org/t/p/w185/344QE41Jileu4OE41cmYgBxc5BF.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s70",
+   "titolo": "Oz",
+   "cast": [
+    [
+     "Lee Tergesen",
+     "Tobias Beecher",
+     "https://image.tmdb.org/t/p/w185/qAldK2CeBVzeRZ9sqTd3zU9SiU1.jpg"
+    ],
+    [
+     "Harold Perrineau",
+     "Augustus Hill",
+     "https://image.tmdb.org/t/p/w185/bVSLpGUaislREbujmknOqadrxYM.jpg"
+    ],
+    [
+     "Dean Winters",
+     "Ryan O'Reily",
+     "https://image.tmdb.org/t/p/w185/zxgOZAYGxa2qmiZkJKGRIhwbGhG.jpg"
+    ],
+    [
+     "Eamonn Walker",
+     "Kareem Saïd",
+     "https://image.tmdb.org/t/p/w185/mJ2pENrcO4uRy2TNVUzg5cEI9b3.jpg"
+    ],
+    [
+     "Ernie Hudson",
+     "Leo Glynn",
+     "https://image.tmdb.org/t/p/w185/kgAdQA2ItCDVvKXufeDHc6Omiso.jpg"
+    ],
+    [
+     "Terry Kinney",
+     "Tim McManus",
+     "https://image.tmdb.org/t/p/w185/2Y6AeUUj1xUd5p7mRM9tFqUCN87.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s75",
+   "titolo": "The Night Of",
+   "cast": [
+    [
+     "Riz Ahmed",
+     "Nasir 'Naz' Khan",
+     "https://image.tmdb.org/t/p/w185/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg"
+    ],
+    [
+     "John Turturro",
+     "John Stone",
+     "https://image.tmdb.org/t/p/w185/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+    ],
+    [
+     "Bill Camp",
+     "Dennis Box",
+     "https://image.tmdb.org/t/p/w185/wxYyJSltCHwU0MTg838SllOlvNT.jpg"
+    ],
+    [
+     "Jeannie Berlin",
+     "Helen Weiss",
+     "https://image.tmdb.org/t/p/w185/sT1o2nVecNUgysnHV7g6KYTciXb.jpg"
+    ],
+    [
+     "Poorna Jagannathan",
+     "Safar Khan",
+     "https://image.tmdb.org/t/p/w185/o2BQX1tAgo47GGvpBy1k4LQLRs6.jpg"
+    ],
+    [
+     "Amara Karan",
+     "Chandra",
+     "https://image.tmdb.org/t/p/w185/7TmZdx6Z9C8E0gAWwfnXrYZQtgP.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s76",
+   "titolo": "Six Feet Under",
+   "cast": [
+    [
+     "Peter Krause",
+     "Nate Fisher",
+     "https://image.tmdb.org/t/p/w185/vjTIKHUBceaM3cBbtwwDE8mgaKn.jpg"
+    ],
+    [
+     "Michael C. Hall",
+     "David Fisher",
+     "https://image.tmdb.org/t/p/w185/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
+    ],
+    [
+     "Frances Conroy",
+     "Ruth Fisher",
+     "https://image.tmdb.org/t/p/w185/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
+    ],
+    [
+     "Lauren Ambrose",
+     "Claire Fisher",
+     "https://image.tmdb.org/t/p/w185/67oLiPwWKhy0zqdfm6NX9cXD5is.jpg"
+    ],
+    [
+     "Freddy Rodríguez",
+     "Federico Diaz",
+     "https://image.tmdb.org/t/p/w185/syCMZjteDnmWQa26NqOaVaRdYmj.jpg"
+    ],
+    [
+     "Mathew St. Patrick",
+     "Keith Charles",
+     "https://image.tmdb.org/t/p/w185/vi5SPtkQEztDkkQEm8cmDzDBDfA.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s77",
+   "titolo": "Severance",
+   "cast": [
+    [
+     "Adam Scott",
+     "Mark Scout",
+     "https://image.tmdb.org/t/p/w185/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+    ],
+    [
+     "Britt Lower",
+     "Helly Riggs",
+     "https://image.tmdb.org/t/p/w185/5XIcTMDSyj7hRICQAcnY9U83ujF.jpg"
+    ],
+    [
+     "Tramell Tillman",
+     "Seth Milchick",
+     "https://image.tmdb.org/t/p/w185/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg"
+    ],
+    [
+     "Zach Cherry",
+     "Dylan George",
+     "https://image.tmdb.org/t/p/w185/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
+    ],
+    [
+     "Patricia Arquette",
+     "Harmony Cobel",
+     "https://image.tmdb.org/t/p/w185/jeThSouMatiuRiLkjDvSBLHpmq0.jpg"
+    ],
+    [
+     "Jen Tullock",
+     "Devon Scout-Hale",
+     "https://image.tmdb.org/t/p/w185/91vck8hZ1VZGV6PTcwFWEEdzGE0.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s78",
+   "titolo": "Banshee",
+   "cast": [
+    [
+     "Antony Starr",
+     "Lucas Hood",
+     "https://image.tmdb.org/t/p/w185/xx3As5SWcE8vYOKZgtjDjqmT3jc.jpg"
+    ],
+    [
+     "Ivana Miličević",
+     "Anastasia / Carrie Hopewell",
+     "https://image.tmdb.org/t/p/w185/3bWPeAnqRwuCAoYBDig3E3cFx5m.jpg"
+    ],
+    [
+     "Hoon Lee",
+     "Job",
+     "https://image.tmdb.org/t/p/w185/3Ux4nTEfPySyZg6yBlu1uXR1TyT.jpg"
+    ],
+    [
+     "Frankie Faison",
+     "Sugar Bates",
+     "https://image.tmdb.org/t/p/w185/3717JOXK2Z8qelfyvScDGimfFBf.jpg"
+    ],
+    [
+     "Ulrich Thomsen",
+     "Kai Proctor",
+     "https://image.tmdb.org/t/p/w185/qjXAPbuO8CicunlQs07c1fbFG67.jpg"
+    ],
+    [
+     "Matt Servitto",
+     "Deputy Brock Lotus",
+     "https://image.tmdb.org/t/p/w185/3wxehP1Dp81D1pXSk8riU2oCLkG.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s79",
+   "titolo": "Silo"
+  },
+  {
+   "id": "s80",
+   "titolo": "The OA",
+   "cast": [
+    [
+     "Brit Marling",
+     "OA / Nina Azarova",
+     "https://image.tmdb.org/t/p/w185/38pSHsK7DKdOYmdeBOKqyunA45e.jpg"
+    ],
+    [
+     "Jason Isaacs",
+     "Dr. Hunter 'Hap' Percy",
+     "https://image.tmdb.org/t/p/w185/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+    ],
+    [
+     "Emory Cohen",
+     "Homer Roberts",
+     "https://image.tmdb.org/t/p/w185/mtummZcNxmcJQ1JIoQUcV3Fwb3.jpg"
+    ],
+    [
+     "Phyllis Smith",
+     "Elizabeth 'Betty' Broderick-Allen",
+     "https://image.tmdb.org/t/p/w185/h9w9pQbiderRWAC2mi7spjzuIGz.jpg"
+    ],
+    [
+     "Patrick Gibson",
+     "Steve Winchell",
+     "https://image.tmdb.org/t/p/w185/1pCUKn2BqJJB5IuktEZGgYw6hbt.jpg"
+    ],
+    [
+     "Brendan Meyer",
+     "Jesse",
+     "https://image.tmdb.org/t/p/w185/cSIsHQjie1xElTL86pCAvHL4ddB.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s81",
+   "titolo": "Daredevil",
+   "cast": [
+    [
+     "Charlie Cox",
+     "Matt Murdock / Daredevil",
+     "https://image.tmdb.org/t/p/w185/91fFBazOvuNjwjcES2b199Ukspn.jpg"
+    ],
+    [
+     "Deborah Ann Woll",
+     "Karen Page",
+     "https://image.tmdb.org/t/p/w185/btTnyvRLXOH0pz2SLBwyKbmnFhX.jpg"
+    ],
+    [
+     "Elden Henson",
+     "Foggy Nelson",
+     "https://image.tmdb.org/t/p/w185/8U5g30U76UJe0erbJdWjGLVz7NF.jpg"
+    ],
+    [
+     "Vincent D'Onofrio",
+     "Wilson Fisk / Kingpin",
+     "https://image.tmdb.org/t/p/w185/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg"
+    ],
+    [
+     "Royce Johnson",
+     "Sgt. Brett Mahoney",
+     "https://image.tmdb.org/t/p/w185/4okawO40v1qfTMJCUm9adg150MQ.jpg"
+    ],
+    [
+     "Geoffrey Cantor",
+     "Mitchell Ellison",
+     "https://image.tmdb.org/t/p/w185/z9yI8sMuqx0vM2BYFadPKue3GsV.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s82",
+   "titolo": "Deadwood",
+   "cast": [
+    [
+     "Timothy Olyphant",
+     "Seth Bullock",
+     "https://image.tmdb.org/t/p/w185/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg"
+    ],
+    [
+     "Ian McShane",
+     "Al Swearengen",
+     "https://image.tmdb.org/t/p/w185/rteBJYNgD1yGsHg2HGZAIrYHz1t.jpg"
+    ],
+    [
+     "Molly Parker",
+     "Alma Garret",
+     "https://image.tmdb.org/t/p/w185/yxDfAinBmVkx8HHzRlJz4KvSnf8.jpg"
+    ],
+    [
+     "Jim Beaver",
+     "Whitney Ellsworth",
+     "https://image.tmdb.org/t/p/w185/mvawGDw5ge5rxgMKhTSggasOyin.jpg"
+    ],
+    [
+     "W. Earl Brown",
+     "Dan Dority",
+     "https://image.tmdb.org/t/p/w185/oBHcJc65nUmopx6lVc9ZvYYARZz.jpg"
+    ],
+    [
+     "Dayton Callie",
+     "Charlie Utter",
+     "https://image.tmdb.org/t/p/w185/miB43H7L4OYY5aRSxhoScjcOxu3.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s83",
+   "titolo": "The Shield",
+   "cast": [
+    [
+     "Michael Chiklis",
+     "Vic Mackey",
+     "https://image.tmdb.org/t/p/w185/pAkKjbzxP6Z6Y5zAGpwmWQo1iji.jpg"
+    ],
+    [
+     "Catherine Dent",
+     "Danielle 'Danny' Sofer",
+     "https://image.tmdb.org/t/p/w185/yA76zSo5uu3X85nYH2iIKKxgan7.jpg"
+    ],
+    [
+     "Walton Goggins",
+     "Shane Vendrell",
+     "https://image.tmdb.org/t/p/w185/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
+    ],
+    [
+     "Michael Jace",
+     "Julien Lowe",
+     "https://image.tmdb.org/t/p/w185/dTHdnj0qfBx6sXr9cT4Xxu0AcIG.jpg"
+    ],
+    [
+     "Jay Karnes",
+     "Holland 'Dutch' Wagenbach",
+     "https://image.tmdb.org/t/p/w185/95DfDguAXfFfE7ZOdGQIvk5VheZ.jpg"
+    ],
+    [
+     "Benito Martinez",
+     "David Aceveda",
+     "https://image.tmdb.org/t/p/w185/3lPxnrPCs31lnliBNEssgxw7Qxg.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s85",
+   "titolo": "Atlanta",
+   "cast": [
+    [
+     "Donald Glover",
+     "Earnest 'Earn' Marks",
+     "https://image.tmdb.org/t/p/w185/jqVkQfeeEmdga1G0jpBwwXXwwSK.jpg"
+    ],
+    [
+     "Brian Tyree Henry",
+     "Alfred 'Paper Boi' Miles",
+     "https://image.tmdb.org/t/p/w185/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+    ],
+    [
+     "LaKeith Stanfield",
+     "Darius Epps",
+     "https://image.tmdb.org/t/p/w185/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg"
+    ],
+    [
+     "Zazie Beetz",
+     "Vanessa 'Van' Keefer",
+     "https://image.tmdb.org/t/p/w185/ijrT4pvALvxU0gphea4YxDnDh6e.jpg"
+    ],
+    [
+     "Khris Davis",
+     "Tracy",
+     "https://image.tmdb.org/t/p/w185/4MmqpY5tMgsw925tJAOWn9LrcWC.jpg"
+    ],
+    [
+     "Katt Williams",
+     "Uncle Willy",
+     "https://image.tmdb.org/t/p/w185/fYnrBTxywuWTHqoRkXj1lEvcNaO.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s86",
+   "titolo": "Fargo"
+  },
+  {
+   "id": "s88",
+   "titolo": "Lupin",
+   "cast": [
+    [
+     "Omar Sy",
+     "Assane Diop",
+     "https://image.tmdb.org/t/p/w185/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg"
+    ],
+    [
+     "Ludivine Sagnier",
+     "Claire",
+     "https://image.tmdb.org/t/p/w185/hd4fLjgtgNEidJOjuLNGfK1sOhm.jpg"
+    ],
+    [
+     "Soufiane Guerrab",
+     "Youssef Guedira",
+     "https://image.tmdb.org/t/p/w185/3KPutm0tNtt1CtFm6gyLPSqtOK2.jpg"
+    ],
+    [
+     "Shirine Boutella",
+     "Sofia Belkacem",
+     "https://image.tmdb.org/t/p/w185/4qBT877sIjMLycDBmahEpL1nwEk.jpg"
+    ],
+    [
+     "Etan Simon",
+     "Raoul Diop",
+     "https://image.tmdb.org/t/p/w185/uXF3yPXMQhIMkv2VA3dkIQPN813.jpg"
+    ],
+    [
+     "Antoine Gouy",
+     "Benjamin Ferel",
+     "https://image.tmdb.org/t/p/w185/g0KnDyYzYHNY3TQgcX3B26ILnTu.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s89",
+   "titolo": "The Last Kingdom",
+   "cast": [
+    [
+     "Alexander Dreymon",
+     "Uhtred of Bebbanburg",
+     "https://image.tmdb.org/t/p/w185/ifI2QhpUlAwiWNwdDsFMRlPovsk.jpg"
+    ],
+    [
+     "Eliza Butterworth",
+     "Aelswith",
+     "https://image.tmdb.org/t/p/w185/4Zy6flJGeEQAix9P0DmQT4rPAVM.jpg"
+    ],
+    [
+     "Arnas Fedaravičius",
+     "Sihtric",
+     "https://image.tmdb.org/t/p/w185/7WfcGugvkuPqEzu0cUJBeJPt1lD.jpg"
+    ],
+    [
+     "Mark Rowley",
+     "Finan",
+     "https://image.tmdb.org/t/p/w185/6Yj5fb9kbkQPeOyxZP3gjGdsnDu.jpg"
+    ],
+    [
+     "Emily Cox",
+     "Brida",
+     "https://image.tmdb.org/t/p/w185/vuCvqZKsfoAJSBwThbfGGbPROgv.jpg"
+    ],
+    [
+     "James Northcote",
+     "Aldhelm",
+     "https://image.tmdb.org/t/p/w185/7eON5XLEGFseOWhSXDh7h5JsF9H.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s91",
+   "titolo": "The Sopranos",
+   "cast": [
+    [
+     "James Gandolfini",
+     "Tony Soprano",
+     "https://image.tmdb.org/t/p/w185/vhtsFJZcfHdeDkFBoWMDzOS6xrP.jpg"
+    ],
+    [
+     "Edie Falco",
+     "Carmela Soprano",
+     "https://image.tmdb.org/t/p/w185/jS2Hnr5OmntpX0J7EpH70zAG0mz.jpg"
+    ],
+    [
+     "Jamie-Lynn Sigler",
+     "Meadow Soprano",
+     "https://image.tmdb.org/t/p/w185/Aur8H7qOzDUr9cRaqqOsCE5kLJp.jpg"
+    ],
+    [
+     "Robert Iler",
+     "A.J. Soprano",
+     "https://image.tmdb.org/t/p/w185/vfTbVoV1Bp2fcDVHaGOIiQppk3J.jpg"
+    ],
+    [
+     "Lorraine Bracco",
+     "Jennifer Melfi",
+     "https://image.tmdb.org/t/p/w185/tAtpCzN4sTOy1RHpMpJj52zTO4S.jpg"
+    ],
+    [
+     "Michael Imperioli",
+     "Christopher Moltisanti",
+     "https://image.tmdb.org/t/p/w185/bCDwQGrecRujCibI8rvsxEc91We.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s93",
+   "titolo": "24",
+   "cast": [
+    [
+     "Kiefer Sutherland",
+     "Jack Bauer",
+     "https://image.tmdb.org/t/p/w185/tK5zjdvao2NELns3bqT7PPqPeJI.jpg"
+    ],
+    [
+     "Mary Lynn Rajskub",
+     "Chloe O'Brian",
+     "https://image.tmdb.org/t/p/w185/oi94VPrp5Ur0nkIqyk6jRu8Eayz.jpg"
+    ],
+    [
+     "Carlos Bernard",
+     "Tony Almeida",
+     "https://image.tmdb.org/t/p/w185/oAHPWN2kHx3LEE8FtdUXxGqgGXq.jpg"
+    ],
+    [
+     "Dennis Haysbert",
+     "David Palmer",
+     "https://image.tmdb.org/t/p/w185/lcnjaw2CFN6q9eaes1jTYrUB0rb.jpg"
+    ],
+    [
+     "Elisha Cuthbert",
+     "Kim Bauer",
+     "https://image.tmdb.org/t/p/w185/qvBpzq3BjIexYKoJD8kpcT0JrTE.jpg"
+    ],
+    [
+     "Sarah Clarke",
+     "Nina Myers",
+     "https://image.tmdb.org/t/p/w185/bClQYkwMBVnXrVRs52TFbqX3oVE.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s94",
+   "titolo": "Brooklyn 99",
+   "cast": [
+    [
+     "Andy Samberg",
+     "Jake Peralta",
+     "https://image.tmdb.org/t/p/w185/jMXU5oG3i93SH1yhkpbBGskFiJl.jpg"
+    ],
+    [
+     "Melissa Fumero",
+     "Amy Santiago",
+     "https://image.tmdb.org/t/p/w185/mKwnGOzHr0lSIs8BzPGoJhT3F7I.jpg"
+    ],
+    [
+     "Terry Crews",
+     "Terry Jeffords",
+     "https://image.tmdb.org/t/p/w185/pxTY4SglLo5hFcMH00MxPeC5u55.jpg"
+    ],
+    [
+     "Joe Lo Truglio",
+     "Charles Boyle",
+     "https://image.tmdb.org/t/p/w185/lHqOK2LJWGtHACUOqhApFrs38eV.jpg"
+    ],
+    [
+     "Stephanie Beatriz",
+     "Rosa Diaz",
+     "https://image.tmdb.org/t/p/w185/7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg"
+    ],
+    [
+     "Andre Braugher",
+     "Raymond Holt",
+     "https://image.tmdb.org/t/p/w185/zdemT9c1U4Muxf7hi0iFq2zHNLd.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s95",
+   "titolo": "12 Monkeys",
+   "cast": [
+    [
+     "Aaron Stanford",
+     "James Cole",
+     "https://image.tmdb.org/t/p/w185/xt2c0vdTb6UmSFq6fl09iCcIFve.jpg"
+    ],
+    [
+     "Amanda Schull",
+     "Cassandra Railly",
+     "https://image.tmdb.org/t/p/w185/1u0zGqSDaWOQVYmnpUCmEZ50oJP.jpg"
+    ],
+    [
+     "Barbara Sukowa",
+     "Katarina Jones",
+     "https://image.tmdb.org/t/p/w185/lBPD683veT1RYdXqMAdAsldAtvI.jpg"
+    ],
+    [
+     "Emily Hampshire",
+     "Jennifer Goines",
+     "https://image.tmdb.org/t/p/w185/cw5F0VKKSVzRvQB4CMRXhs6WxoH.jpg"
+    ],
+    [
+     "Todd Stashwick",
+     "Deacon",
+     "https://image.tmdb.org/t/p/w185/seKRXV2HMS36ip4SfQq6PLRiLL2.jpg"
+    ],
+    [
+     "Andrew Gillies",
+     "Julian Adler",
+     "https://image.tmdb.org/t/p/w185/u2kf1FH3GsniNA5QwPOCx0xzfiT.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s100",
+   "titolo": "The Americans",
+   "cast": [
+    [
+     "Keri Russell",
+     "Elizabeth Jennings",
+     "https://image.tmdb.org/t/p/w185/4bLtisDjmCOemk3uC65NAlmdIjz.jpg"
+    ],
+    [
+     "Matthew Rhys",
+     "Philip Jennings",
+     "https://image.tmdb.org/t/p/w185/8uktKexgPn0tsW3dsXVNqkqiNh7.jpg"
+    ],
+    [
+     "Holly Taylor",
+     "Paige Jennings",
+     "https://image.tmdb.org/t/p/w185/4L31T8MryaStQ1UAp1EuBTOKqLk.jpg"
+    ],
+    [
+     "Keidrich Sellati",
+     "Henry Jennings",
+     "https://image.tmdb.org/t/p/w185/1IET3cOndkF5QDybmbP3kUojY7p.jpg"
+    ],
+    [
+     "Noah Emmerich",
+     "Stan Beeman",
+     "https://image.tmdb.org/t/p/w185/qwPPHYWJ3a9yRwFXicbbHsf60Nm.jpg"
+    ],
+    [
+     "Costa Ronin",
+     "Oleg Igorevich Burov",
+     "https://image.tmdb.org/t/p/w185/6PjUNZ6HYCT5PlQdXFI1ue2tOls.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s102",
+   "titolo": "Fallout",
+   "cast": [
+    [
+     "Ella Purnell",
+     "Lucy MacLean",
+     "https://image.tmdb.org/t/p/w185/jqrYg35GHuMGwGqEVUthqTLQnay.jpg"
+    ],
+    [
+     "Aaron Moten",
+     "Maximus",
+     "https://image.tmdb.org/t/p/w185/h2CJjnDEy2nCbCy6dWzXLmZ4p47.jpg"
+    ],
+    [
+     "Moisés Arias",
+     "Norm MacLean",
+     "https://image.tmdb.org/t/p/w185/fc7krDmEA4VkIY4KOJjpMXGdsfg.jpg"
+    ],
+    [
+     "Walton Goggins",
+     "The Ghoul / Cooper Howard",
+     "https://image.tmdb.org/t/p/w185/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
+    ],
+    [
+     "Frances Turner",
+     "Barb Howard",
+     "https://image.tmdb.org/t/p/w185/ik2MNJFA2CzeuGtdwrpgUJaidef.jpg"
+    ],
+    [
+     "Kyle MacLachlan",
+     "Overseer Hank MacLean",
+     "https://image.tmdb.org/t/p/w185/7gNyx8fYAUdOp2jpCEH3dyFbeV.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s103",
+   "titolo": "Limitless",
+   "generi": [
+    "Dramma",
+    "Commedia",
+    "Azione, Avventura"
+   ]
+  },
+  {
+   "id": "s104",
+   "titolo": "Hannibal",
+   "cast": [
+    [
+     "Mads Mikkelsen",
+     "Dr. Hannibal Lecter",
+     "https://image.tmdb.org/t/p/w185/AsX4bdvZ8UCayWTmAf9lAqOA8V7.jpg"
+    ],
+    [
+     "Hugh Dancy",
+     "Will Graham",
+     "https://image.tmdb.org/t/p/w185/6UIiS3nxdNTbIo0G2kFNXpcDKhE.jpg"
+    ],
+    [
+     "Laurence Fishburne",
+     "Jack Crawford",
+     "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+    ],
+    [
+     "Caroline Dhavernas",
+     "Dr. Alana Bloom",
+     "https://image.tmdb.org/t/p/w185/p3yP2JVSqcZGXUeLnuiJMBXERjF.jpg"
+    ],
+    [
+     "Aaron Abrams",
+     "Brian Zeller",
+     "https://image.tmdb.org/t/p/w185/uCtc7ouysFZ5dMwcTXiKw1ezuL.jpg"
+    ],
+    [
+     "Scott Thompson",
+     "Jimmy Price",
+     "https://image.tmdb.org/t/p/w185/lBvadhxdANl9JQo6HkK7ou4jWkS.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s105",
+   "titolo": "BoJack Horseman",
+   "cast": [
+    [
+     "Will Arnett",
+     "BoJack Horseman (voice)",
+     "https://image.tmdb.org/t/p/w185/cXupYqk2ERP13XBkw816skYdVDO.jpg"
+    ],
+    [
+     "Aaron Paul",
+     "Todd Chavez (voice)",
+     "https://image.tmdb.org/t/p/w185/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
+    ],
+    [
+     "Alison Brie",
+     "Diane Nguyen / Diana the Princess of Wales (voice)",
+     "https://image.tmdb.org/t/p/w185/uu16GiwYblS6IJV3o4qFSLWKXOC.jpg"
+    ],
+    [
+     "Amy Sedaris",
+     "Princess Carolyn (voice)",
+     "https://image.tmdb.org/t/p/w185/AjVjRYI1PaC11i4FqGSK1TkwOmq.jpg"
+    ],
+    [
+     "Paul F. Tompkins",
+     "Mr. Peanutbutter / Mr. Chocolate Hazelnut Spread (voice)",
+     "https://image.tmdb.org/t/p/w185/pL9v2aubEAOSW0lgrWyP0vvGr34.jpg"
+    ],
+    [
+     "Adam Conover",
+     "Ethan / A Ryan Seacrest Type / Paparazzi Blue Jay (voice)",
+     "https://image.tmdb.org/t/p/w185/tbVGWnkNPAgr8dthkRnIA6p7dBG.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s107",
+   "titolo": "Avatar: The Last Airbender",
+   "cast": [
+    [
+     "Zach Tyler Eisen",
+     "Aang (voice)",
+     "https://image.tmdb.org/t/p/w185/ifHd2Yoovlvu6FFEIxUsXVyrYUf.jpg"
+    ],
+    [
+     "Mae Whitman",
+     "Katara (voice)",
+     "https://image.tmdb.org/t/p/w185/y7fg9R5zvqDCZCUt3uwcyOoCOFp.jpg"
+    ],
+    [
+     "Jack De Sena",
+     "Sokka (voice)",
+     "https://image.tmdb.org/t/p/w185/i9VlMsPol6XIicnRZRiwmYSyE4P.jpg"
+    ],
+    [
+     "Dante Basco",
+     "Zuko (voice)",
+     "https://image.tmdb.org/t/p/w185/2bfQho7MEo4wAQTmC687FkXUoKU.jpg"
+    ],
+    [
+     "Dee Bradley Baker",
+     "Appa / Momo (voice)",
+     "https://image.tmdb.org/t/p/w185/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    ],
+    [
+     "Michaela Jill Murphy",
+     "Toph Beifong (voice)",
+     "https://image.tmdb.org/t/p/w185/4ghTS2mkdfHt4vNHIzDIyU1mVxT.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s108",
+   "titolo": "Over the Garden Wall",
+   "cast": [
+    [
+     "Elijah Wood",
+     "Wirt (voice)",
+     "https://image.tmdb.org/t/p/w185/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+    ],
+    [
+     "Collin Dean",
+     "Gregory (voice)",
+     "https://image.tmdb.org/t/p/w185/zh58W7LjGDh9sF4ZhKspb9tPIlL.jpg"
+    ],
+    [
+     "Melanie Lynskey",
+     "Beatrice (voice)",
+     "https://image.tmdb.org/t/p/w185/kzrWI1sTgnA0H7TCIKzDOUtOW4n.jpg"
+    ],
+    [
+     "Samuel Ramey",
+     "The Beast (voice)",
+     "https://image.tmdb.org/t/p/w185/mRUQ73oT1qBBWRhJ1ZgtXpi3O5O.jpg"
+    ],
+    [
+     "Christopher Lloyd",
+     "The Woodsman (voice)",
+     "https://image.tmdb.org/t/p/w185/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+    ],
+    [
+     "Jack Jones",
+     "Gregory's Frog (voice)",
+     "https://image.tmdb.org/t/p/w185/fl2OSRND6M7pPbJrFhlMPp6GOq3.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s109",
+   "titolo": "Eteros Ego",
+   "cast": [
+    [
+     "Samuel Akinola",
+     "Karim",
+     "https://image.tmdb.org/t/p/w185/q2VluRN1u99dx1V0mqerZZTalf7.jpg"
+    ],
+    [
+     "Kris Radanov",
+     "Doctor",
+     "https://image.tmdb.org/t/p/w185/hax6ODGXGl03Mw4bce9qtQUaUcJ.jpg"
+    ],
+    [
+     "Polydoros Vogiatzis",
+     "Thanos Kalafatas",
+     "https://image.tmdb.org/t/p/w185/x6YdjcJwwTMEfHL97xFiEqIncOb.jpg"
+    ]
+   ],
+   "generi": [
+    "Mistero",
+    "Crimine"
+   ]
+  },
+  {
+   "id": "s114",
+   "titolo": "Twin Peaks",
+   "cast": [
+    [
+     "Kyle MacLachlan",
+     "Dale Cooper / Dougie Jones",
+     "https://image.tmdb.org/t/p/w185/7gNyx8fYAUdOp2jpCEH3dyFbeV.jpg"
+    ],
+    [
+     "Michael Horse",
+     "Tommy 'Hawk' Hill",
+     "https://image.tmdb.org/t/p/w185/5111zpfxrX6Udb6rFgWQF2W5wNV.jpg"
+    ],
+    [
+     "Harry Goaz",
+     "Andy Brennan",
+     "https://image.tmdb.org/t/p/w185/oeWNUiLjboZG3UdKr4ZWKDnK3LZ.jpg"
+    ],
+    [
+     "Kimmy Robertson",
+     "Lucy Moran",
+     "https://image.tmdb.org/t/p/w185/nZAiIyKFNHfVdgEjvdBIPOb8m0B.jpg"
+    ],
+    [
+     "Dana Ashbrook",
+     "Bobby Briggs",
+     "https://image.tmdb.org/t/p/w185/sAR3KoRwOxV9sztnEuTi5nLrTlz.jpg"
+    ],
+    [
+     "Richard Beymer",
+     "Benjamin Horne",
+     "https://image.tmdb.org/t/p/w185/q0RQwBRnBFonTgXXDyE7I8MgucV.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s116",
+   "titolo": "Stranger Things"
+  },
+  {
+   "id": "s117",
+   "titolo": "Black Sails",
+   "cast": [
+    [
+     "Toby Stephens",
+     "Captain James Flint",
+     "https://image.tmdb.org/t/p/w185/1NCqxC8kMiKABrZ9Xgt4nNHGxaI.jpg"
+    ],
+    [
+     "Luke Arnold",
+     "John Silver",
+     "https://image.tmdb.org/t/p/w185/b19aJzhUAfyQXd0mtmDvLAyOth8.jpg"
+    ],
+    [
+     "Hannah New",
+     "Eleanor Guthrie",
+     "https://image.tmdb.org/t/p/w185/4U4xCtzINm0zjuqSrwmEbmUxJso.jpg"
+    ],
+    [
+     "Jessica Parker Kennedy",
+     "Max",
+     "https://image.tmdb.org/t/p/w185/gbRQ22Vg74HPWwXDbAlRkcSOVNR.jpg"
+    ],
+    [
+     "Toby Schmitz",
+     "Jack Rackham",
+     "https://image.tmdb.org/t/p/w185/z4lW0Ow2VQJS7j0o8fxqIGm2BBn.jpg"
+    ],
+    [
+     "Tom Hopper",
+     "William \"Billy Bones\" Manderly",
+     "https://image.tmdb.org/t/p/w185/4Bx09xFBXIWIhptQ10yJEPbB1HI.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s118",
+   "titolo": "The Queen's Gambit",
+   "cast": [
+    [
+     "Anya Taylor-Joy",
+     "Beth Harmon",
+     "https://image.tmdb.org/t/p/w185/yZpghhtKM2VZHDx6JGAZqAVU4PL.jpg"
+    ],
+    [
+     "Chloe Pirrie",
+     "Alice Harmon",
+     "https://image.tmdb.org/t/p/w185/t5pUoG5kDk8F0uNQ1reMD8Cd4V0.jpg"
+    ],
+    [
+     "Marcin Dorociński",
+     "Vasily Borgov",
+     "https://image.tmdb.org/t/p/w185/pyPUnMHxNPKKYxn8PehQJfSbZzO.jpg"
+    ],
+    [
+     "Matthew Dennis Lewis",
+     "Matt",
+     "https://image.tmdb.org/t/p/w185/e9n1gwjTgezUwvdJ3rfguukcSaY.jpg"
+    ],
+    [
+     "Russell Dennis Lewis",
+     "Mike",
+     "https://image.tmdb.org/t/p/w185/ldKPHjGhtInlnKkjm84LLQIw7a2.jpg"
+    ],
+    [
+     "Dolores Carbonari",
+     "Margaret",
+     "https://image.tmdb.org/t/p/w185/5RHzizKFX7SZmCTVg0g7MsD1UtW.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s119",
+   "titolo": "When They See Us",
+   "cast": [
+    [
+     "Asante Blackk",
+     "Young Kevin Richardson",
+     "https://image.tmdb.org/t/p/w185/mB0FG4VH5HXvjFuZ3W8aJO1bfVu.jpg"
+    ],
+    [
+     "Jharrel Jerome",
+     "Korey Wise",
+     "https://image.tmdb.org/t/p/w185/zH840Fv86TixTLVZKzPZJJacphd.jpg"
+    ],
+    [
+     "Ethan Herisse",
+     "Young Yusef Salaam",
+     "https://image.tmdb.org/t/p/w185/a4QSvqAmdBwN0xKlxSBsWaQMPat.jpg"
+    ],
+    [
+     "Marquis Rodriguez",
+     "Young Raymond Santana Jr.",
+     "https://image.tmdb.org/t/p/w185/cRBXdlvdX8f1W5EZGafQv5nXlXv.jpg"
+    ],
+    [
+     "Caleel Harris",
+     "Young Antron McCray",
+     "https://image.tmdb.org/t/p/w185/cZi0NxCQsQSEakTuOg75qukIGW6.jpg"
+    ],
+    [
+     "Marsha Stephanie Blake",
+     "Linda McCray",
+     "https://image.tmdb.org/t/p/w185/rmt9fiHA9i0A3pFuguhtODdXFIH.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s126",
+   "titolo": "The Mandalorian",
+   "cast": [
+    [
+     "Pedro Pascal",
+     "Din Djarin / The Mandalorian",
+     "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    ],
+    [
+     "Katee Sackhoff",
+     "Bo-Katan Kryze",
+     "https://image.tmdb.org/t/p/w185/kzcwfDDrgXnVgyTfcpG0obOn7Qk.jpg"
+    ],
+    [
+     "Misty Rosas",
+     "Frog Lady",
+     "https://image.tmdb.org/t/p/w185/aCa0ukemG7x3wAxtR1BM5v0BvrL.jpg"
+    ],
+    [
+     "Chris Bartlett",
+     "RA-7 (Performance Artist)",
+     "https://image.tmdb.org/t/p/w185/63o4rr3zUlfkKAxru94RSfosMo0.jpg"
+    ],
+    [
+     "Carl Weathers",
+     "Greef Karga",
+     "https://image.tmdb.org/t/p/w185/oUwtC5hEbcIZv53WPerZ9HhlSJR.jpg"
+    ],
+    [
+     "Emily Swallow",
+     "Armorer",
+     "https://image.tmdb.org/t/p/w185/8wS86vFMoDnfAJzOL9yNqvXcCpA.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s127",
+   "titolo": "Star Wars: The Clone Wars",
+   "cast": [
+    [
+     "Tom Kane",
+     "Yoda / Narrator (voice)",
+     "https://image.tmdb.org/t/p/w185/sq49aVP56G50Nr5kCL7Ove6Z9jE.jpg"
+    ],
+    [
+     "Matt Lanter",
+     "Lom Pyke (voice)",
+     "https://image.tmdb.org/t/p/w185/2ms8DR9n4wh9ZU6lIuqsE58LPT9.jpg"
+    ],
+    [
+     "James Arnold Taylor",
+     "Plo Koon (voice)",
+     "https://image.tmdb.org/t/p/w185/A6J14W5kxsuEKXaRkiOXBIROO9t.jpg"
+    ],
+    [
+     "Dee Bradley Baker",
+     "Clone Troopers (voice)",
+     "https://image.tmdb.org/t/p/w185/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    ],
+    [
+     "Ashley Eckstein",
+     "Ahsoka Tano (voice)",
+     "https://image.tmdb.org/t/p/w185/fIjLS6RAafEUOeReG5W51cA7dWY.jpg"
+    ],
+    [
+     "Matthew Wood",
+     "General Grievous / Poggle the Lesser / Battle Droids (voice)",
+     "https://image.tmdb.org/t/p/w185/u1UjHLTeS5Dregg85A3GICf7Nkf.jpg"
+    ]
+   ]
+  },
+  {
+   "id": "s128",
+   "titolo": "And Then There Were None"
+  }
+ ],
+ "anime": [
+  {
+   "id": "a41",
+   "title": "One Punch Man",
+   "proposte": [
+    {
+     "personaggio": "Garou",
+     "anilist_nome": "Garou",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png",
+     "anilist_char_id": 89277
+    }
+   ]
+  },
+  {
+   "id": "a57",
+   "title": "Sakamoto desu ga",
+   "proposte": [
+    {
+     "personaggio": "Sakamoto",
+     "anilist_nome": "Sakamoto",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b123574-BjW3yjFwphP0.jpg",
+     "anilist_char_id": 123574
+    }
+   ]
+  },
+  {
+   "id": "a125",
+   "title": "Komi-san",
+   "proposte": [
+    {
+     "personaggio": "Makeru Yamai",
+     "anilist_nome": "Makeru Yadano",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b130871-g7EkLNAqyAbe.png",
+     "anilist_char_id": 130871
+    }
+   ]
+  },
+  {
+   "id": "a172",
+   "title": "Sword Art Online",
+   "proposte": [
+    {
+     "personaggio": "Eugeo",
+     "anilist_nome": "Eugene",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b72903-sydZD4sXrDTw.png",
+     "anilist_char_id": 72903
+    }
+   ]
+  },
+  {
+   "id": "a6",
+   "title": "Jujutsu Kaisen",
+   "proposte": [
+    {
+     "personaggio": "Yuta Okkotsu",
+     "anilist_nome": "Yuuta Okkotsu",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b129571-GHJk7gviHOOw.jpg",
+     "anilist_char_id": 129571
+    }
+   ]
+  },
+  {
+   "id": "a10",
+   "title": "Horimiya",
+   "proposte": [
+    {
+     "personaggio": "Sota Hori",
+     "anilist_nome": "Souta Hori",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b66969-w9HNa7igeTeF.png",
+     "anilist_char_id": 66969
+    }
+   ]
+  },
+  {
+   "id": "a14",
+   "title": "Fullmetal Alchemist Brotherhood",
+   "proposte": [
+    {
+     "personaggio": "Father",
+     "anilist_nome": null,
+     "foto": null,
+     "anilist_char_id": null
+    }
+   ]
+  },
+  {
+   "id": "a18",
+   "title": "Chainsaw Man",
+   "proposte": [
+    {
+     "personaggio": "Reze",
+     "anilist_nome": "Reze",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b148740-ceAibPxLW8rR.png",
+     "anilist_char_id": 148740
+    }
+   ]
+  },
+  {
+   "id": "a22",
+   "title": "Naruto",
+   "proposte": [
+    {
+     "personaggio": "Obito Uchiha",
+     "anilist_nome": "Itachi Uchiha",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b14-9Kb1E5oel1ke.png",
+     "anilist_char_id": 14
+    }
+   ]
+  },
+  {
+   "id": "a30",
+   "title": "Tokyo Revengers",
+   "proposte": [
+    {
+     "personaggio": "Manjiro Sano (Mikey)",
+     "anilist_nome": "Manjirou Sano",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b145341-CuPldCLZMvvf.png",
+     "anilist_char_id": 145341
+    },
+    {
+     "personaggio": "Ken Ryuguji (Draken)",
+     "anilist_nome": "Ken Ryuuguji",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b145345-zyirrSsKIDCb.png",
+     "anilist_char_id": 145345
+    }
+   ]
+  },
+  {
+   "id": "a34",
+   "title": "Terror in Resonance",
+   "proposte": [
+    {
+     "personaggio": "Shibazaki",
+     "anilist_nome": "Shibazaki's Wife",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b174741-vVLJ1dxW0Qzo.png",
+     "anilist_char_id": 174741
+    }
+   ]
+  },
+  {
+   "id": "a58",
+   "title": "Inuyashiki",
+   "proposte": [
+    {
+     "personaggio": "Ichiro Inuyashiki",
+     "anilist_nome": "Ichirou Inuyashiki",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b123583-O5TgsLJBiN1k.jpg",
+     "anilist_char_id": 123583
+    },
+    {
+     "personaggio": "Hiro Shishigami",
+     "anilist_nome": "Hiro Shishigami",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/123581-XPE2OL85SDI7.jpg",
+     "anilist_char_id": 123581
+    },
+    {
+     "personaggio": "Shion Watanabe",
+     "anilist_nome": "Shion Watanabe",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b124301-W50V18RQWWu4.png",
+     "anilist_char_id": 124301
+    },
+    {
+     "personaggio": "Andou",
+     "anilist_nome": null,
+     "foto": null,
+     "anilist_char_id": null
+    }
+   ]
+  },
+  {
+   "id": "a74",
+   "title": "Yu-Gi-Oh ZEXAL",
+   "proposte": [
+    {
+     "personaggio": "Dr. Faker",
+     "anilist_nome": "Dr. Faker",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/44044.jpg",
+     "anilist_char_id": 44044
+    }
+   ]
+  },
+  {
+   "id": "a86",
+   "title": "Black Clover",
+   "proposte": [
+    {
+     "personaggio": "Klaus Lunettes",
+     "anilist_nome": "Klaus Lunettes",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b124437-3C1plJbD8jSn.png",
+     "anilist_char_id": 124437
+    }
+   ]
+  },
+  {
+   "id": "a98",
+   "title": "Edens Zero",
+   "proposte": [
+    {
+     "personaggio": "Pino",
+     "anilist_nome": "Nino",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b191279-M9RNRjrMsxEg.jpg",
+     "anilist_char_id": 191279
+    }
+   ]
+  },
+  {
+   "id": "a102",
+   "title": "Fruits Basket",
+   "proposte": [
+    {
+     "personaggio": "Yuki Sohma",
+     "anilist_nome": "Yuki Souma",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b208-5TmAqqh82wNe.png",
+     "anilist_char_id": 208
+    },
+    {
+     "personaggio": "Shigure Sohma",
+     "anilist_nome": "Shigure Souma",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b206-4HokrxTIqu7L.jpg",
+     "anilist_char_id": 206
+    },
+    {
+     "personaggio": "Kagura Sohma",
+     "anilist_nome": "Kagura Souma",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b366-5iIIhczrc3Qr.jpg",
+     "anilist_char_id": 366
+    },
+    {
+     "personaggio": "Hatsuharu Sohma",
+     "anilist_nome": "Hatsuharu Souma",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b369-NDFi2A2BzqO6.png",
+     "anilist_char_id": 369
+    },
+    {
+     "personaggio": "Momiji Sohma",
+     "anilist_nome": "Momiji Souma",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b367-Jc6wMVpL76Ib.png",
+     "anilist_char_id": 367
+    },
+    {
+     "personaggio": "Hatori Sohma",
+     "anilist_nome": "Hatori Souma",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b368-zJEE8gpxBb5f.jpg",
+     "anilist_char_id": 368
+    }
+   ]
+  },
+  {
+   "id": "a106",
+   "title": "Gintama",
+   "proposte": [
+    {
+     "personaggio": "Otae Shimura",
+     "anilist_nome": "Tae Shimura",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/n2944-XzeaielhUwAV.jpg",
+     "anilist_char_id": 2944
+    }
+   ]
+  },
+  {
+   "id": "a118",
+   "title": "Inazuma Eleven",
+   "proposte": [
+    {
+     "personaggio": "Ryugo Someoka",
+     "anilist_nome": "Ryuugo Someoka",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b29851-ZYdIel2caMLW.png",
+     "anilist_char_id": 29851
+    }
+   ]
+  },
+  {
+   "id": "a122",
+   "title": "Katekyou Hitman Reborn!",
+   "proposte": [
+    {
+     "personaggio": "Kyoko Sasagawa",
+     "anilist_nome": "Kyouko Sasagawa",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/1857.jpg",
+     "anilist_char_id": 1857
+    },
+    {
+     "personaggio": "Basil",
+     "anilist_nome": "Basil",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/2167.jpg",
+     "anilist_char_id": 2167
+    }
+   ]
+  },
+  {
+   "id": "a165",
+   "title": "Kenpuu Denki Berserk",
+   "proposte": [
+    {
+     "personaggio": "Guts",
+     "anilist_nome": "Guts",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b422-XTaiTuvRohsV.png",
+     "anilist_char_id": 422
+    },
+    {
+     "personaggio": "Griffith",
+     "anilist_nome": "Griffith",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b424-Jfrsf8I7zBps.png",
+     "anilist_char_id": 424
+    },
+    {
+     "personaggio": "Casca",
+     "anilist_nome": "Casca",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b423-AmVFCaJJOBsc.png",
+     "anilist_char_id": 423
+    },
+    {
+     "personaggio": "Judeau",
+     "anilist_nome": "Judeau",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b454-zAG2pjevq7OO.png",
+     "anilist_char_id": 454
+    },
+    {
+     "personaggio": "Pippin",
+     "anilist_nome": "Pippin",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b597-9VvkEo8hmdxg.png",
+     "anilist_char_id": 597
+    },
+    {
+     "personaggio": "Corkus",
+     "anilist_nome": "Corkus",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b599-bzDp9ze9vxFb.png",
+     "anilist_char_id": 599
+    },
+    {
+     "personaggio": "Rickert",
+     "anilist_nome": "Rickert",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b598-2r2X1nQmr3qP.jpg",
+     "anilist_char_id": 598
+    }
+   ]
+  },
+  {
+   "id": "a7",
+   "title": "Dr. Stone",
+   "proposte": [
+    {
+     "personaggio": "Ukyo Saionji",
+     "anilist_nome": "Ukyou Saionji",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b145064-cbgNBAEY9q4R.png",
+     "anilist_char_id": 145064
+    }
+   ]
+  },
+  {
+   "id": "a23",
+   "title": "JoJo's Bizarre Adventure",
+   "proposte": [
+    {
+     "personaggio": "Jotaro Kujo",
+     "anilist_nome": "Joutarou Kuujou",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b4003-gWDSEGbeOAll.png",
+     "anilist_char_id": 4003
+    }
+   ]
+  },
+  {
+   "id": "a31",
+   "title": "Kanata no Astra",
+   "proposte": [
+    {
+     "personaggio": "Yunhua Lu",
+     "anilist_nome": "Yun-Hua Lu",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b139436-1ehzIE6ALT9M.png",
+     "anilist_char_id": 139436
+    }
+   ]
+  },
+  {
+   "id": "a35",
+   "title": "Spy x Family",
+   "proposte": [
+    {
+     "personaggio": "Bond Forger",
+     "anilist_nome": "Loid Forger",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b138101-7NCB0Md8zA6G.png",
+     "anilist_char_id": 138101
+    }
+   ]
+  },
+  {
+   "id": "a39",
+   "title": "Btooom!",
+   "proposte": [
+    {
+     "personaggio": "Himiko Kinoshita",
+     "anilist_nome": "Hidemi Kinoshita",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b74431-oYG3xAULgJLy.png",
+     "anilist_char_id": 74431
+    }
+   ]
+  },
+  {
+   "id": "a47",
+   "title": "Pluto",
+   "proposte": [
+    {
+     "personaggio": "Brau1589",
+     "anilist_nome": "Brau-1589",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b22226-QHgeQdIxEyLW.png",
+     "anilist_char_id": 22226
+    }
+   ]
+  },
+  {
+   "id": "a59",
+   "title": "Toradora",
+   "proposte": [
+    {
+     "personaggio": "Ryuji Takasu",
+     "anilist_nome": "Ryuuji Takasu",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b12295-d45uTNeJHuus.png",
+     "anilist_char_id": 12295
+    },
+    {
+     "personaggio": "Taiga Aisaka",
+     "anilist_nome": "Taiga Aisaka",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b12064-7PDN3ylIeAZn.png",
+     "anilist_char_id": 12064
+    },
+    {
+     "personaggio": "Minori Kushieda",
+     "anilist_nome": "Minori Kushieda",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b12305-AdKOcp0az9mq.jpg",
+     "anilist_char_id": 12305
+    },
+    {
+     "personaggio": "Yusaku Kitamura",
+     "anilist_nome": "Yuusaku Kitamura",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b12306-Nb1orOh4UkpT.png",
+     "anilist_char_id": 12306
+    },
+    {
+     "personaggio": "Ami Kawashima",
+     "anilist_nome": "Ami Kawashima",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b13725-Vk30kjvVT82z.png",
+     "anilist_char_id": 13725
+    }
+   ]
+  },
+  {
+   "id": "a63",
+   "title": "Charlotte",
+   "proposte": [
+    {
+     "personaggio": "Jojiro Takajo",
+     "anilist_nome": "Joujirou Takajou",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b88952-0wmPqlWytiRx.png",
+     "anilist_char_id": 88952
+    }
+   ]
+  },
+  {
+   "id": "a75",
+   "title": "3-gatsu no Lion",
+   "proposte": [
+    {
+     "personaggio": "Kyoko Kubo",
+     "anilist_nome": "Kyouko Kouda",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b70293-lGH9JgtugKsZ.png",
+     "anilist_char_id": 70293
+    }
+   ]
+  },
+  {
+   "id": "a79",
+   "title": "Ao Ashi",
+   "proposte": [
+    {
+     "personaggio": "Kuroda Junnosuke",
+     "anilist_nome": null,
+     "foto": null,
+     "anilist_char_id": null
+    }
+   ]
+  },
+  {
+   "id": "a83",
+   "title": "Baccano!",
+   "proposte": [
+    {
+     "personaggio": "Czeslaw Meyer",
+     "anilist_nome": "Czesław Meyer",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b3063-zkwLabVw5Pi9.png",
+     "anilist_char_id": 3063
+    }
+   ]
+  },
+  {
+   "id": "a91",
+   "title": "Chi. Chikyuu no Undou ni Tsuite",
+   "proposte": [
+    {
+     "personaggio": "Yosaf",
+     "anilist_nome": "Gyosha",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+     "anilist_char_id": 352654
+    }
+   ]
+  },
+  {
+   "id": "a123",
+   "title": "Kingdom",
+   "proposte": [
+    {
+     "personaggio": "Wang Jian",
+     "anilist_nome": "Xiang Qiang",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b132052-T3qMaTZ49lJs.png",
+     "anilist_char_id": 132052
+    }
+   ]
+  },
+  {
+   "id": "a154",
+   "title": "Tensei shitara Slime Datta Ken",
+   "proposte": [
+    {
+     "personaggio": "Hakuro",
+     "anilist_nome": "Hakurou",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b131043-AyEdKg1Xkjrd.png",
+     "anilist_char_id": 131043
+    }
+   ]
+  },
+  {
+   "id": "a162",
+   "title": "Yuu☆Yuu☆Hakusho",
+   "proposte": [
+    {
+     "personaggio": "Toguro",
+     "anilist_nome": "Toguro Ani",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b8716-X0s42rAYhG4z.png",
+     "anilist_char_id": 8716
+    }
+   ]
+  },
+  {
+   "id": "a166",
+   "title": "Usagi Drop",
+   "proposte": [
+    {
+     "personaggio": "Daikichi Kawachi",
+     "anilist_nome": "Daikichi Kawachi",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/n12668-CU0ySRvjIo2q.png",
+     "anilist_char_id": 12668
+    },
+    {
+     "personaggio": "Rin Kaga",
+     "anilist_nome": "Rin Kaga",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b12669-txIOgp7as6ca.png",
+     "anilist_char_id": 12669
+    }
+   ]
+  },
+  {
+   "id": "a8",
+   "title": "Vinland Saga",
+   "proposte": [
+    {
+     "personaggio": "Thors",
+     "anilist_nome": null,
+     "foto": null,
+     "anilist_char_id": null
+    },
+    {
+     "personaggio": "Einar",
+     "anilist_nome": null,
+     "foto": null,
+     "anilist_char_id": null
+    }
+   ]
+  },
+  {
+   "id": "a16",
+   "title": "Death Note",
+   "proposte": [
+    {
+     "personaggio": "L",
+     "anilist_nome": null,
+     "foto": null,
+     "anilist_char_id": null
+    },
+    {
+     "personaggio": "Soichiro Yagami",
+     "anilist_nome": "Souichirou Yagami",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b1927-iaIWrFITyeJw.jpg",
+     "anilist_char_id": 1927
+    }
+   ]
+  },
+  {
+   "id": "a32",
+   "title": "Solo Leveling",
+   "proposte": [
+    {
+     "personaggio": "Sung Jinwoo",
+     "anilist_nome": null,
+     "foto": null,
+     "anilist_char_id": null
+    },
+    {
+     "personaggio": "Go Gunhee",
+     "anilist_nome": null,
+     "foto": null,
+     "anilist_char_id": null
+    },
+    {
+     "personaggio": "Woo Jinchul",
+     "anilist_nome": null,
+     "foto": null,
+     "anilist_char_id": null
+    },
+    {
+     "personaggio": "Yoo Jinho",
+     "anilist_nome": null,
+     "foto": null,
+     "anilist_char_id": null
+    },
+    {
+     "personaggio": "Baek Yoonho",
+     "anilist_nome": null,
+     "foto": null,
+     "anilist_char_id": null
+    },
+    {
+     "personaggio": "Sung Jinah",
+     "anilist_nome": "Sang-Min Ahn",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b306652-pwbDRuTHSVxb.png",
+     "anilist_char_id": 306652
+    },
+    {
+     "personaggio": "Sung Il-Hwan",
+     "anilist_nome": "Song-I Han",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b138793-eijpaPPkcipD.png",
+     "anilist_char_id": 138793
+    }
+   ]
+  },
+  {
+   "id": "a36",
+   "title": "Dororo",
+   "proposte": [
+    {
+     "personaggio": "Nui no Kata",
+     "anilist_nome": "Nuinokata",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/n133066-Y6qKsJkZNnhI.png",
+     "anilist_char_id": 133066
+    },
+    {
+     "personaggio": "Itachi",
+     "anilist_nome": "Itachi",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b136576-qp6PiEOVblUi.png",
+     "anilist_char_id": 136576
+    }
+   ]
+  },
+  {
+   "id": "a56",
+   "title": "Howl's Moving Castle",
+   "proposte": [
+    {
+     "personaggio": "Sophie Hatter",
+     "anilist_nome": "Sophie Hatter",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b508-ONXMgE281eHe.jpg",
+     "anilist_char_id": 508
+    },
+    {
+     "personaggio": "Howl",
+     "anilist_nome": "Howl",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b507-g9yz1GTLtPla.jpg",
+     "anilist_char_id": 507
+    },
+    {
+     "personaggio": "Calcifer",
+     "anilist_nome": "Calcifer",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b6752-T8tNirdJJ8rw.jpg",
+     "anilist_char_id": 6752
+    },
+    {
+     "personaggio": "Markl",
+     "anilist_nome": "Markl",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b509-6VwYgQtqu63T.jpg",
+     "anilist_char_id": 509
+    },
+    {
+     "personaggio": "Madame Suliman",
+     "anilist_nome": null,
+     "foto": null,
+     "anilist_char_id": null
+    }
+   ]
+  },
+  {
+   "id": "a64",
+   "title": "Evangelion",
+   "proposte": [
+    {
+     "personaggio": "Gendo Ikari",
+     "anilist_nome": "Gendou Ikari",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b1257-qByikcrE8KTG.png",
+     "anilist_char_id": 1257
+    }
+   ]
+  },
+  {
+   "id": "a88",
+   "title": "Boruto",
+   "proposte": [
+    {
+     "personaggio": "Shikadai Nara",
+     "anilist_nome": "Shikadai Nara",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/121442-mWU38debEYsQ.jpg",
+     "anilist_char_id": 121442
+    },
+    {
+     "personaggio": "Konohamaru Sarutobi",
+     "anilist_nome": "Konohamaru Sarutobi",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/n3889-gCUewPsRY2kD.png",
+     "anilist_char_id": 3889
+    },
+    {
+     "personaggio": "Sumire Kakei",
+     "anilist_nome": "Sumire Kakei",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b122209-gl4rHbQOa7IM.png",
+     "anilist_char_id": 122209
+    },
+    {
+     "personaggio": "Delta",
+     "anilist_nome": "Delta",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b130415-0L7qYVHsJaP4.jpg",
+     "anilist_char_id": 130415
+    },
+    {
+     "personaggio": "Jigen",
+     "anilist_nome": "Jigen",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b130418-OANoriz98qJi.png",
+     "anilist_char_id": 130418
+    }
+   ]
+  },
+  {
+   "id": "a131",
+   "title": "Mahou Shoujo Madoka Magica",
+   "proposte": [
+    {
+     "personaggio": "Kyubey",
+     "anilist_nome": "Kyuubey",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b38566-XzE2iqAodRQK.jpg",
+     "anilist_char_id": 38566
+    }
+   ]
+  },
+  {
+   "id": "a147",
+   "title": "Sen to Chihiro no Kamikakushi",
+   "proposte": [
+    {
+     "personaggio": "Kamaji",
+     "anilist_nome": "Kamajii",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b8301-ASa313sbbcI3.png",
+     "anilist_char_id": 8301
+    }
+   ]
+  },
+  {
+   "id": "a151",
+   "title": "Soul Eater",
+   "proposte": [
+    {
+     "personaggio": "Liz Thompson",
+     "anilist_nome": "Elizabeth Thompson",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b8445-7BIqYhg3OKMn.png",
+     "anilist_char_id": 8445
+    }
+   ]
+  },
+  {
+   "id": "a155",
+   "title": "Tonari no Totoro",
+   "proposte": [
+    {
+     "personaggio": "Nekobus",
+     "anilist_nome": "Nekobasu",
+     "foto": "https://s4.anilist.co/file/anilistcdn/character/large/271.jpg",
+     "anilist_char_id": 271
+    }
+   ]
+  }
+ ],
+ "manga": [
+  {
+   "id": "m1",
+   "title": "Slam Dunk",
+   "flags": [
+    [
+     "CAPITOLI",
+     "Somma nostri capitoli 188; AniList 276"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 20,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 276,
+    "volumi": 31,
+    "autori": [
+     "Takehiko Inoue (Story & Art)",
+     "Katsumi Tatsuzawa (Assistant)",
+     "Drik Sada (Translator (Portuguese))",
+     "Beth Kodama (Editing (Portuguese))",
+     "Agustín Gomez Sanz (Translator (Spanish))",
+     "Gustavo Figueiredo (Lettering (Portuguese: vols 1,2,4,5,8))",
+     "Joel Dias (Lettering (Portuguese))",
+     "Phueak (Translator (Thai))",
+     "Diógenes Dih (Editing (Portuguese: vol 13-20))",
+     "Tomoyuki Shima (Editor)",
+     "Martin Gericke (Translator (German))",
+     "Danilo de Assis (Lettering (Portuguese:vol 3))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 9,
+    "2": 10,
+    "3": 8,
+    "4": 9,
+    "5": 9,
+    "6": 9,
+    "7": 9,
+    "8": 9,
+    "9": 9,
+    "10": 9,
+    "11": 9,
+    "12": 9,
+    "13": 9,
+    "14": 9,
+    "15": 9,
+    "16": 9,
+    "17": 9,
+    "18": 9,
+    "19": 9,
+    "20": 9,
+    "21": 9,
+    "22": 4,
+    "23": 14,
+    "24": 9,
+    "25": 9,
+    "26": 9,
+    "27": 9,
+    "28": 9,
+    "29": 9,
+    "30": 9,
+    "31": 7,
+    "none": 7
+   }
+  },
+  {
+   "id": "m2",
+   "title": "Solo Leveling",
+   "flags": [
+    [
+     "CAPITOLI_SOSPETTI",
+     "28/28 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+    ],
+    [
+     "CAPITOLI",
+     "Somma nostri capitoli 28; AniList 201"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 28,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 201,
+    "volumi": 15,
+    "autori": [
+     "Seong-Rak Jang (Art (chs 1-179))",
+     "So-Ryeong Gi (Story (chs 1-92))",
+     "Chu-Gong (Original Story)",
+     "Hyeon-Gun (Story (chs 93-201))",
+     "Abigail Blackman (Lettering (English))",
+     "Adrianna Jarzębowska (Translator (Polish))",
+     "DISCIPLES (Art (chs 180-200))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 18,
+    "none": 22
+   }
+  },
+  {
+   "id": "m4",
+   "title": "20th Century Boys",
+   "flags": [
+    [
+     "CAPITOLI?",
+     "Edizione 'Deluxe edition': somma capitoli 265; originale 249"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 12,
+    "edition": "Deluxe edition"
+   },
+   "anilist": {
+    "capitoli": 249,
+    "volumi": 22,
+    "autori": [
+     "Naoki Urasawa (Story & Art)",
+     "Marc Bernabé (Translator (Spanish))",
+     "Akemi Wegmüller (Translator (English))",
+     "Josef Shanel (Translator (German))",
+     "Matthias Wissnet (Translator (German))",
+     "Freeman Wong (Lettering and Touch-up Art (English))",
+     "Elza Keiko (Lettering (Portuguese))",
+     "Dirce Miyamura (Translator (Portuguese))",
+     "Roberto Pesci (Translator (Italian))",
+     "Vincent Zouzoulkovsky (Translator (French))",
+     "Nicola Spano (Lettering (German))",
+     "Ram One (Lettering (Italian))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 1
+   }
+  },
+  {
+   "id": "m5",
+   "title": "Blame",
+   "flags": [
+    [
+     "CAPITOLI?",
+     "Edizione 'Master edition': somma capitoli 67; originale 1"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 6,
+    "edition": "Master edition"
+   },
+   "anilist": {
+    "capitoli": 1,
+    "volumi": null,
+    "autori": [
+     "Tsutomu Nihei (Story & Art)",
+     "Stephen Paul (Translator (English))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 7
+   }
+  },
+  {
+   "id": "m6",
+   "title": "Blue Lock",
+   "flags": [
+    [
+     "VOLUMI_INTERNI",
+     "totalVols 34 ma elenco volumi con capitoli ne ha 42"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 34,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": null,
+    "volumi": null,
+    "autori": [
+     "Tatsuya Endou (Assistant)",
+     "Muneyuki Kaneshiro (Story)",
+     "Yuusuke Nomura (Art)",
+     "Chris Burgener (Lettering (English))",
+     "Lilian Lebrun (Translator (French))",
+     "Nate Derr (Translator (English))",
+     "Agnieszka Zychma (Translator (Polish))",
+     "Yoda (Translator (Vietnamese))",
+     "Markus Lange (Translator (German))",
+     "Soutarou Nishii (Assistant)"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 2,
+    "18": 1,
+    "30": 7,
+    "31": 10,
+    "32": 9,
+    "33": 11,
+    "34": 9,
+    "35": 2,
+    "none": 100
+   }
+  },
+  {
+   "id": "m7",
+   "title": "The Killer Inside",
+   "flags": [
+    [
+     "CAPITOLI_SOSPETTI",
+     "11/11 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+    ],
+    [
+     "NON_TROVATO",
+     "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 11,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 98,
+    "volumi": 11,
+    "autori": [
+     "Hajime Inoryu (Story)",
+     "Shouta Itou (Art)",
+     "Jacqueline Fung (Translator (English))",
+     "Claudia Peter (Translator (German))",
+     "Anna Koike (Translator (Polish))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 3
+   }
+  },
+  {
+   "id": "m10",
+   "title": "Chainsaw Man",
+   "flags": [
+    [
+     "CAPITOLI",
+     "Somma nostri capitoli 208; AniList 232"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 23,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 232,
+    "volumi": 24,
+    "autori": [
+     "Tatsuki Fujimoto (Story & Art)",
+     "Hanachika Toyama (Assistant)",
+     "Norihito Sasaki (Assistant)",
+     "Sabrina Heep (Lettering (English))",
+     "Yukinobu Tatsu (Assistant)",
+     "Sébastien Ludmann (Translator (French))",
+     "Amanda Haley (Translator (English))",
+     "Felipe Monte (Translator (Portuguese))",
+     "Judit Moreno (Translator (Spanish))",
+     "Emilio Ros Casas (Translator (Spanish))",
+     "Erwan Lossois (Lettering (French))",
+     "Sou Nishida (Assistant)"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 9,
+    "2": 10,
+    "3": 10,
+    "4": 12,
+    "5": 10,
+    "6": 11,
+    "7": 10,
+    "8": 11,
+    "9": 9,
+    "10": 9,
+    "11": 9,
+    "12": 6,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 10,
+    "17": 10,
+    "18": 11,
+    "19": 12,
+    "20": 12,
+    "24": 1,
+    "none": 70
+   }
+  },
+  {
+   "id": "m18",
+   "title": "Shaman King",
+   "flags": [
+    [
+     "CAPITOLI_SOSPETTI",
+     "35/35 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+    ],
+    [
+     "CAPITOLI?",
+     "Edizione 'Final edition': somma capitoli 35; originale 288"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 35,
+    "edition": "Final edition"
+   },
+   "anilist": {
+    "capitoli": 288,
+    "volumi": 32,
+    "autori": [
+     "Hiroyuki Takei (Story & Art)",
+     "Kei Kawano (Assistant)",
+     "Katsunori Matsui (Assistant)",
+     "Yuusuke Takeyama (Assistant)",
+     "DAIGO (Assistant)",
+     "Youichirou Tanabe (Assistant)",
+     "José Carlos Assumpção (Lettering (Portuguese))",
+     "Arnaldo Oka (Translator (Portuguese))",
+     "Tor Lier (Translator (Norwegian: vol 1-8))",
+     "Ayako Koike (Translator (Spanish))",
+     "Torarika (Translator (Vietnamese))",
+     "Justyna Harasimiuk-Latoś (Translator (Polish))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "none": 8
+   }
+  },
+  {
+   "id": "m21",
+   "title": "Tokyo Revengers",
+   "flags": [
+    [
+     "VOLUMI_INTERNI",
+     "totalVols 31 ma elenco volumi con capitoli ne ha 37"
+    ],
+    [
+     "CAPITOLI",
+     "Somma nostri capitoli 319; AniList 279"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 31,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 279,
+    "volumi": 31,
+    "autori": [
+     "Ken Wakui (Story & Art)",
+     "Aurélien Estager (Translator (French))",
+     "Gemma Tarrés (Translator (Spanish))",
+     "Robert Harkins (Lettering (English))",
+     "Loris Usai (Translator (Italian))",
+     "So-Hyeon Park (Translator (Korean))",
+     "Renata Leitão (Translator (Portuguese))",
+     "Miro (Translator (Vietnamese))",
+     "Wojciech Gęszczak (Translator (Polish))",
+     "Yên Sương (Translator (Vietnamese))",
+     "Martin Bachernegg (Translator (German))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "none": 3
+   }
+  },
+  {
+   "id": "m29",
+   "title": "Tower of God",
+   "flags": [
+    [
+     "VOLUMI_INTERNI",
+     "totalVols 500 ma elenco volumi con capitoli ne ha 17"
+    ],
+    [
+     "CAPITOLI_SOSPETTI",
+     "16/17 volumi con 1 solo capitolo (probabile segnaposto): [11, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 500,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": null,
+    "volumi": null,
+    "autori": [
+     "SIU (Story & Art)"
+    ]
+   },
+   "mangadex_err": "'list' object has no attribute 'items'"
+  },
+  {
+   "id": "m30",
+   "title": "Ashita no Joe",
+   "flags": [
+    [
+     "CAPITOLI_SOSPETTI",
+     "13/13 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+    ],
+    [
+     "CAPITOLI?",
+     "Edizione 'Perfect edition': somma capitoli 13; originale 171"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 13,
+    "edition": "Perfect edition"
+   },
+   "anilist": {
+    "capitoli": 171,
+    "volumi": 20,
+    "autori": [
+     "Ikki Kajiwara (Story)",
+     "Sanbanchi Kawa (Assistant)",
+     "Tetsuya Chiba (Story & Art)",
+     "Akio Chiba (Assistant)",
+     "Teruo Miyahara (Editor)",
+     "Marc Bernabé (Translator (Spanish))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 10,
+    "2": 13,
+    "3": 15,
+    "4": 17,
+    "5": 17,
+    "6": 16,
+    "7": 15,
+    "8": 18,
+    "9": 19,
+    "10": 19,
+    "11": 16,
+    "12": 17,
+    "13": 14,
+    "14": 11,
+    "15": 14,
+    "16": 16,
+    "17": 19,
+    "18": 21,
+    "19": 24,
+    "20": 25,
+    "none": 1
+   }
+  },
+  {
+   "id": "m31",
+   "title": "Blue Period",
+   "flags": [
+    [
+     "CAPITOLI_SOSPETTI",
+     "11/18 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 4, 4, 1, 1, 1, 5, 5]"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 18,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 4,
+    "volumi": 1,
+    "autori": [
+     "Shiuko Kano (Story & Art)"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 2,
+    "none": 7
+   }
+  },
+  {
+   "id": "m36",
+   "title": "Fullmetal Alchemist",
+   "flags": [
+    [
+     "CAPITOLI?",
+     "Edizione 'Ultimate deluxe': somma capitoli 108; originale 116"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 18,
+    "edition": "Ultimate deluxe"
+   },
+   "anilist": {
+    "capitoli": 35,
+    "volumi": 6,
+    "autori": [
+     "Hiromu Arakawa (Illustration)",
+     "Makoto Inoue (Story)"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 2,
+    "none": 1
+   }
+  },
+  {
+   "id": "m38",
+   "title": "Homunculus",
+   "flags": [
+    [
+     "CAPITOLI_SOSPETTI",
+     "15/15 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+    ],
+    [
+     "CAPITOLI",
+     "Somma nostri capitoli 15; AniList 166"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 15,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 166,
+    "volumi": 15,
+    "autori": [
+     "Hideo Yamamoto (Story & Art)",
+     "Rina Mapa (Lettering (English))",
+     "Drik Sada (Translator (Portuguese))",
+     "Cerridwyn Graffham (Translator (English))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 9,
+    "2": 10,
+    "3": 12,
+    "4": 15,
+    "5": 13,
+    "6": 16,
+    "7": 15,
+    "8": 20,
+    "9": 20,
+    "10": 17,
+    "11": 16,
+    "12": 12,
+    "13": 12,
+    "14": 12,
+    "15": 14,
+    "none": 35
+   }
+  },
+  {
+   "id": "m40",
+   "title": "Houseki no Kuni",
+   "flags": [
+    [
+     "CAPITOLI",
+     "Somma nostri capitoli 108; AniList 120"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 13,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 120,
+    "volumi": 13,
+    "autori": [
+     "Haruko Ichikawa (Story & Art)",
+     "Alethea Nibley (Translator (English))",
+     "Evan Hayden (Lettering (English))",
+     "Athena Nibley (Translator (English))",
+     "Thiago Nojiri (Translator (Portuguese))",
+     "Anne-Sophie Thevenon (Translator (French))",
+     "Anne Demars (Lettering (French))",
+     "Cát Tường (Translator (Vietnamese))",
+     "Yasuko Tojo (Translator (Spanish))",
+     "Lauren Scanlan (Editing (English))",
+     "Thomas Lameth (Touch-up Art (French))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "none": 2
+   }
+  },
+  {
+   "id": "m41",
+   "title": "I Am Hero",
+   "flags": [
+    [
+     "CAPITOLI_SOSPETTI",
+     "22/22 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+    ],
+    [
+     "CAPITOLI",
+     "Somma nostri capitoli 22; AniList 265"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 22,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 265,
+    "volumi": 22,
+    "autori": [
+     "Kengo Hanazawa (Story & Art)",
+     "Marc Bernabé (Translator (Spanish))",
+     "Lídia Ivasa (Translator (Portuguese))",
+     "Ay Özgül (Translator (Turkish))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 1,
+    "9": 9,
+    "10": 12,
+    "11": 13,
+    "12": 13,
+    "13": 12,
+    "14": 12,
+    "15": 12,
+    "16": 12,
+    "17": 13,
+    "18": 12,
+    "19": 12,
+    "20": 5
+   }
+  },
+  {
+   "id": "m43",
+   "title": "Jagaaaaaan",
+   "flags": [
+    [
+     "CAPITOLI_SOSPETTI",
+     "13/14 volumi con 1 solo capitolo (probabile segnaposto): [7, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+    ],
+    [
+     "CAPITOLI",
+     "Somma nostri capitoli 20; AniList 163"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 14,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 163,
+    "volumi": 14,
+    "autori": [
+     "Muneyuki Kaneshiro (Story)",
+     "Kensuke Nishida (Art)",
+     "Emilio Ros Casas (Translator (Spanish))",
+     "Sascha Mandler (Translator (German))"
+    ]
+   },
+   "mangadex_err": "'list' object has no attribute 'items'"
+  },
+  {
+   "id": "m45",
+   "title": "Jujutsu Kaisen",
+   "flags": [
+    [
+     "VOLUMI_INTERNI",
+     "totalVols 30 ma elenco volumi con capitoli ne ha 33"
+    ],
+    [
+     "CAPITOLI",
+     "Somma nostri capitoli 297; AniList 272"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 30,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 272,
+    "volumi": 30,
+    "autori": [
+     "Shiro Usazaki (Assistant)",
+     "Gege Akutami (Story & Art)",
+     "Mizuki Yoda (Assistant)",
+     "Tatsuhiko Katayama (Editor)",
+     "Carlos Mingo (Translator (Spanish))",
+     "John Werry (Translator (English))",
+     "Fédoua Lamodière (Translator (French))",
+     "Lídia Ivasa (Translator (Portuguese))",
+     "Snir Aharon (Lettering (English))",
+     "Irene Telleria (Translator (Spanish))",
+     "Jeong-Un Lee (Translator (Korean))",
+     "Junya Fukuda (Editor)"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 7,
+    "8": 1,
+    "21": 10,
+    "22": 5,
+    "none": 1
+   }
+  },
+  {
+   "id": "m46",
+   "title": "Juujika no Rokunin",
+   "flags": [
+    [
+     "CAPITOLI_SOSPETTI",
+     "14/14 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+    ],
+    [
+     "CAPITOLI",
+     "Somma nostri capitoli 14; AniList 234"
+    ],
+    [
+     "AUTORI",
+     "Nostri ['Autore non confermato']; AniList ['Shiryuu  Nakatake', 'Frederic Malet']"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 14,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 234,
+    "volumi": 24,
+    "autori": [
+     "Shiryuu  Nakatake (Story & Art)",
+     "Frederic Malet (Translator (French))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 5,
+    "2": 10,
+    "3": 15,
+    "4": 13,
+    "5": 1,
+    "6": 1,
+    "16": 4,
+    "20": 1,
+    "21": 6,
+    "22": 9,
+    "23": 8,
+    "24": 9
+   }
+  },
+  {
+   "id": "m48",
+   "title": "Mushishi",
+   "flags": [
+    [
+     "CAPITOLI",
+     "Somma nostri capitoli 50; AniList 1"
+    ],
+    [
+     "GENERI",
+     "Nostri ['Fantasy', 'Mistero', 'Slice of Life']; AniList ['Horror']"
+    ],
+    [
+     "AUTORI",
+     "Nostri ['Yuki Urushibara']; AniList ['Kurage Asazuke']"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 10,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 17,
+    "volumi": 1,
+    "autori": [
+     "Yuki Urushibara (Story & Art)"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 1
+   }
+  },
+  {
+   "id": "m49",
+   "title": "Real",
+   "flags": [
+    [
+     "CAPITOLI_SOSPETTI",
+     "16/16 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 16,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 11,
+    "volumi": 1,
+    "autori": [
+     "Aruta Kusui (Story & Art)"
+    ]
+   }
+  },
+  {
+   "id": "m50",
+   "title": "Sekai no Owari no Hajimari ni",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ],
+    [
+     "AUTORI",
+     "Nostri ['Autore non confermato']; AniList ['Kei Tanaka']"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 4,
+    "volumi": 1,
+    "autori": [
+     "Kei Tanaka (Story & Art)"
+    ]
+   }
+  },
+  {
+   "id": "m51",
+   "title": "Record of Ragnarok",
+   "flags": [
+    [
+     "CAPITOLI_SOSPETTI",
+     "26/26 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 26,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": null,
+    "volumi": null,
+    "autori": [
+     "Takumi Fukui (Story)",
+     "Shinya Umemura (Story)",
+     "Azychika (Art)",
+     "Wojciech Gęszczak (Translator (Polish))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 9,
+    "2": 5,
+    "3": 6,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 4,
+    "8": 5,
+    "9": 5,
+    "10": 4,
+    "11": 4,
+    "12": 4,
+    "13": 4,
+    "14": 8,
+    "15": 6,
+    "16": 5,
+    "17": 5,
+    "18": 7,
+    "19": 6,
+    "20": 4,
+    "21": 6,
+    "22": 8,
+    "23": 7,
+    "24": 6,
+    "25": 5,
+    "26": 8,
+    "27": 8,
+    "28": 7,
+    "29": 6,
+    "none": 24
+   }
+  },
+  {
+   "id": "m53",
+   "title": "Sun-Ken Rock",
+   "flags": [
+    [
+     "CAPITOLI_SOSPETTI",
+     "25/25 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+    ],
+    [
+     "CAPITOLI",
+     "Somma nostri capitoli 25; AniList 181"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 25,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 181,
+    "volumi": 25,
+    "autori": [
+     "Boichi (Story & Art)",
+     "Delage Arnaud (Translator (French))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 7,
+    "2": 7,
+    "3": 7,
+    "4": 5,
+    "5": 8,
+    "6": 8,
+    "7": 5,
+    "8": 8,
+    "9": 6,
+    "10": 8,
+    "11": 10,
+    "12": 8,
+    "13": 9,
+    "14": 7,
+    "15": 4,
+    "16": 6,
+    "17": 7,
+    "18": 7,
+    "19": 8,
+    "20": 8,
+    "21": 8,
+    "22": 9,
+    "23": 8,
+    "24": 7,
+    "25": 8
+   }
+  },
+  {
+   "id": "m55",
+   "title": "The Horizon",
+   "flags": [
+    [
+     "CAPITOLI_SOSPETTI",
+     "3/3 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1]"
+    ],
+    [
+     "CAPITOLI?",
+     "Edizione 'Box': somma capitoli 3; originale 21"
+    ],
+    [
+     "AUTORI",
+     "Nostri ['Autore non confermato']; AniList ['Ji-Hun Jeong', 'Abigail Blackman']"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 3,
+    "edition": "Box"
+   },
+   "anilist": {
+    "capitoli": 21,
+    "volumi": 3,
+    "autori": [
+     "Ji-Hun Jeong (Story & Art)",
+     "Abigail Blackman (Lettering (English))"
+    ]
+   }
+  },
+  {
+   "id": "m57",
+   "title": "Dededemon Dededestruction",
+   "flags": [
+    [
+     "CAPITOLI_SOSPETTI",
+     "12/12 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+    ],
+    [
+     "NON_TROVATO",
+     "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 12,
+    "edition": ""
+   }
+  },
+  {
+   "id": "m68",
+   "title": "Rurouni Kenshin",
+   "flags": [
+    [
+     "CAPITOLI_SOSPETTI",
+     "22/22 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+    ],
+    [
+     "CAPITOLI?",
+     "Edizione 'Perfect edition': somma capitoli 22; originale 259"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 22,
+    "edition": "Perfect edition"
+   },
+   "anilist": {
+    "capitoli": 259,
+    "volumi": 28,
+    "autori": [
+     "Eiichirou Oda (Assistant)",
+     "Nobuhiro Watsuki (Story & Art)",
+     "Hiroyuki Takei (Assistant)",
+     "Shinya Suzuki (Assistant)",
+     "Mikio Itou (Assistant)",
+     "Gin Shinga (Assistant)",
+     "Marc Bernabé (Translator (Spanish))",
+     "Hisashi Sasaki (Editing)",
+     "Bakayaro! (Touch-up Art & Lettering (French))",
+     "Cassius Medaur (Editing (Portuguese))",
+     "Marcelo Del Greco (Editing (Portuguese))",
+     "Olivier Prézeau (Translator (French))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "2": 3
+   }
+  },
+  {
+   "id": "m70",
+   "title": "MPD Psycho",
+   "flags": [
+    [
+     "CAPITOLI_SOSPETTI",
+     "24/24 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+    ],
+    [
+     "CAPITOLI",
+     "Somma nostri capitoli 24; AniList 147"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 24,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 147,
+    "volumi": 24,
+    "autori": [
+     "Shouu Tajima (Art)",
+     "Eiji Ootsuka (Story)",
+     "Marc Bernabé (Translator (Spanish))",
+     "Drik Sada (Translator (Portuguese))",
+     "Beth Kodama (Lettering (Portuguese))",
+     "Martin Gericke (Translator (German))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 6,
+    "2": 12,
+    "3": 14,
+    "4": 12,
+    "5": 12,
+    "6": 12,
+    "7": 14,
+    "8": 12,
+    "9": 18,
+    "10": 18,
+    "11": 16,
+    "12": 16,
+    "13": 18,
+    "14": 12,
+    "15": 16,
+    "16": 12,
+    "17": 10,
+    "18": 12,
+    "19": 14,
+    "20": 5,
+    "21": 5,
+    "22": 5,
+    "23": 5,
+    "24": 4
+   }
+  },
+  {
+   "id": "m72",
+   "title": "Utsuro no Hako to Zero no Maria",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ],
+    [
+     "AUTORI",
+     "Nostri ['Autore non confermato']; AniList ['Eiji Mikage', 'Tetsuo', 'Luke Baker', 'Thien Thanh', 'Thuy Tram', 'Maarubi']"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 254,
+    "volumi": 7,
+    "autori": [
+     "Eiji Mikage (Story)",
+     "Tetsuo (Illustration)",
+     "Luke Baker (Translator (English))",
+     "Thien Thanh (Translator (Vietnamese, vol 1))",
+     "Thuy Tram (Translator (Vietnamese, vols 2-3))",
+     "Maarubi (Translator (Vietnamese, vol 4))",
+     "Katarzyna Podlipska (Translator (Polish))"
+    ]
+   }
+  },
+  {
+   "id": "m73",
+   "title": "Classroom of the Elite",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": null,
+    "volumi": null,
+    "autori": [
+     "Shunsaku Tomose (Character Design)",
+     "Shougo Kinugasa (Original Story)",
+     "Yuyu Ichino (Story & Art)",
+     "Bambi Eloriaga-Amago (Lettering (English, vols 1-11))",
+     "Roland Amago (Lettering (English))",
+     "Richard Tobin (Translator (English))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 8,
+    "2": 7,
+    "3": 9,
+    "4": 7,
+    "none": 5
+   }
+  },
+  {
+   "id": "m74",
+   "title": "Your Talent Is Mine",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ],
+    [
+     "AUTORI",
+     "Nostri ['Autore non confermato']; AniList ['Hao Fan', 'Wei CC', 'Jian Shen Wu Di']"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 106,
+    "volumi": null,
+    "autori": [
+     "Hao Fan (Story)",
+     "Wei CC (Art)",
+     "Jian Shen Wu Di (Original Story)"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 18,
+    "none": 82
+   }
+  },
+  {
+   "id": "m75",
+   "title": "The Beginning After the End",
+   "flags": [
+    [
+     "CAPITOLI_SOSPETTI",
+     "6/6 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1]"
+    ],
+    [
+     "NON_TROVATO",
+     "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 32,
+    "2": 36,
+    "3": 39,
+    "4": 43,
+    "5": 60,
+    "6": 63,
+    "7": 13,
+    "239": 2,
+    "none": 15
+   }
+  },
+  {
+   "id": "m76",
+   "title": "Leveling Up with the Gods",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ],
+    [
+     "NON_TROVATO",
+     "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 61,
+    "2": 58,
+    "3": 29
+   }
+  },
+  {
+   "id": "m77",
+   "title": "Poison Dragon",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ],
+    [
+     "NON_TROVATO",
+     "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": null,
+    "volumi": null,
+    "autori": [
+     "Senior (Original Story)",
+     "Yeong-Gwang (Art)",
+     "Sang-Won Sin (Story)",
+     "Mun-Gyeong Choi (Coloring)",
+     "Mun-Gyeong Choi (Background Art)"
+    ]
+   }
+  },
+  {
+   "id": "m78",
+   "title": "Return of the Crazy Demon",
+   "flags": [
+    [
+     "AUTORI",
+     "Nostri ['Autore non confermato']; AniList ['JP', 'Hi Lee', 'Jin-Seong Yu', 'Ra-Gi Yun', 'Ra-Gi Yun']"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": null,
+    "volumi": null,
+    "autori": [
+     "JP (Story)",
+     "Hi Lee (Art)",
+     "Jin-Seong Yu (Original Story)",
+     "Ra-Gi Yun (Background Art)",
+     "Ra-Gi Yun (Coloring)"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 127,
+    "none": 1
+   }
+  },
+  {
+   "id": "m79",
+   "title": "Return of the Unrivaled Spear Knight",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ],
+    [
+     "NON_TROVATO",
+     "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": null,
+    "volumi": null,
+    "autori": [
+     "Studio Inus (Art)",
+     "Cho-seonsaengnim (Original Story)",
+     "Hu-Sang Jo (Story)"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "2": 36,
+    "3": 27
+   }
+  },
+  {
+   "id": "m80",
+   "title": "Solo Max-Level Newbie",
+   "flags": [
+    [
+     "AUTORI",
+     "Nostri ['Sadoyeon']; AniList ['WAN.Z', 'Swing Bat', 'Maslow']"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": null,
+    "volumi": null,
+    "autori": [
+     "WAN.Z (Story)",
+     "Swing Bat (Art)",
+     "Maslow (Original Story)"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "none": 40
+   }
+  },
+  {
+   "id": "m81",
+   "title": "A Returner's Magic Should Be Special",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 228,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 268,
+    "volumi": null,
+    "autori": [
+     "Usonan (Original Story)",
+     "Wookjakga (Art)",
+     "Phil Christie (Lettering (English, Yen Press))",
+     "Micah Kim (Translator (English, Yen Press))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 70,
+    "2": 54,
+    "3": 32,
+    "5": 48
+   }
+  },
+  {
+   "id": "m82",
+   "title": "Great Mage Returns After 4000 Years",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ],
+    [
+     "AUTORI",
+     "Nostri ['Autore non confermato']; AniList ['Barnicle', 'Deok-Yong Kim', 'Nakhasan']"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": null,
+    "volumi": null,
+    "autori": [
+     "Nakhasan (Original Story)",
+     "Deok-Yong Kim (Art)",
+     "Barnicle (Story)"
+    ]
+   },
+   "mangadex_err": "'list' object has no attribute 'items'"
+  },
+  {
+   "id": "m83",
+   "title": "Nano Machine",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ],
+    [
+     "AUTORI",
+     "Nostri ['Han Jung Hoon', 'Bak Jong Hee']; AniList ['Geobalhan', 'Geumgangbulgoe', 'Hanjung Worya', 'Alexandra Dickmann']"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": null,
+    "volumi": null,
+    "autori": [
+     "Geobalhan (Story)",
+     "Geumgangbulgoe (Art)",
+     "Hanjung Worya (Original Story)",
+     "Alexandra Dickmann (Translator (German))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 1,
+    "2": 26,
+    "none": 125
+   }
+  },
+  {
+   "id": "m84",
+   "title": "Legend of the Northern Blade",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ],
+    [
+     "AUTORI",
+     "Nostri ['Autore non confermato']; AniList ['Hae-Min', 'U-Gak', 'Son']"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 202,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 202,
+    "volumi": null,
+    "autori": [
+     "U-Gak (Original Story)",
+     "Hae-Min (Story & Art)",
+     "Son (Assistant)"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "none": 3
+   }
+  },
+  {
+   "id": "m85",
+   "title": "Omniscient Reader's Viewpoint",
+   "flags": [
+    [
+     "CAPITOLI_SOSPETTI",
+     "4/4 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1]"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": null,
+    "volumi": null,
+    "autori": [
+     "Singsyong (Original Story)",
+     "Sleepy-C (Art)",
+     "UMI (Story)",
+     "Geomnem (Original Character Design)",
+     "Jessica Walther (Translator (German))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 1,
+    "none": 76
+   }
+  },
+  {
+   "id": "m86",
+   "title": "Mercenary Enrollment",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ],
+    [
+     "NON_TROVATO",
+     "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": null,
+    "volumi": null,
+    "autori": [
+     "YC (Story)",
+     "Rakyeon (Art)"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "none": 147
+   }
+  },
+  {
+   "id": "m87",
+   "title": "God Game",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ],
+    [
+     "AUTORI",
+     "Nostri ['Autore non confermato']; AniList ['Shuu Miyazaki', 'Nanakusa']"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 76,
+    "volumi": 8,
+    "autori": [
+     "Nanakusa (Illustration)",
+     "Shuu Miyazaki (Story)"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 5,
+    "2": 1
+   }
+  },
+  {
+   "id": "m88",
+   "title": "Her Summon",
+   "flags": [
+    [
+     "VOLUMI_INTERNI",
+     "totalVols 117 ma elenco volumi con capitoli ne ha 1"
+    ],
+    [
+     "AUTORI",
+     "Nostri ['Autore non confermato']; AniList ['Jin-Jun Park']"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 117,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 62,
+    "volumi": null,
+    "autori": [
+     "Jin-Jun Park (Story & Art)"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "none": 10
+   }
+  },
+  {
+   "id": "m89",
+   "title": "Reverend Insanity",
+   "flags": [
+    [
+     "CAPITOLI",
+     "Somma nostri capitoli 22; AniList 96 (serie in corso)"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 96,
+    "volumi": null,
+    "autori": [
+     "Gu Zhenren (Original Story)",
+     "Ran Hui Wenhua (Story & Art)"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "none": 97
+   }
+  },
+  {
+   "id": "m90",
+   "title": "Lord of Mysteries",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ],
+    [
+     "AUTORI",
+     "Nostri ['Cuttlefish That Loves Diving']; AniList ['Chun Ba', 'Yuanyan de Qiqiu', 'Ai Qianshui de Wuzei']"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": null,
+    "volumi": null,
+    "autori": [
+     "Ai Qianshui de Wuzei (Original Story)",
+     "Chun Ba (Story)",
+     "Yuanyan de Qiqiu (Art)"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "none": 15
+   }
+  },
+  {
+   "id": "m91",
+   "title": "Age of Adepts",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ],
+    [
+     "NON_TROVATO",
+     "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   }
+  },
+  {
+   "id": "m92",
+   "title": "House of Horrors",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ],
+    [
+     "AUTORI",
+     "Nostri ['Autore non confermato']; AniList ['Miyako Cojima']"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 10,
+    "volumi": 1,
+    "autori": [
+     "Miyako Cojima (Story & Art)"
+    ]
+   },
+   "mangadex_err": "'list' object has no attribute 'items'"
+  },
+  {
+   "id": "m93",
+   "title": "Warlock of the Magus World",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ],
+    [
+     "NON_TROVATO",
+     "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   }
+  },
+  {
+   "id": "m94",
+   "title": "Radiant",
+   "flags": [
+    [
+     "CAPITOLI",
+     "Somma nostri capitoli 148; AniList 1"
+    ],
+    [
+     "GENERI",
+     "Nostri ['Fantasy', 'Azione', 'Avventura']; AniList ['Hentai', 'Romance']"
+    ],
+    [
+     "AUTORI",
+     "Nostri ['Tony Valente']; AniList ['Niiro Ikuhana']"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 19,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": 10,
+    "volumi": 1,
+    "autori": [
+     "Kentarou (Story & Art)"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 5,
+    "2": 9,
+    "3": 9,
+    "4": 8,
+    "5": 8,
+    "6": 8,
+    "7": 8,
+    "8": 8,
+    "9": 8,
+    "10": 8,
+    "11": 8,
+    "12": 8,
+    "13": 8,
+    "14": 8,
+    "15": 8,
+    "16": 8,
+    "17": 8,
+    "18": 8,
+    "19": 8
+   }
+  },
+  {
+   "id": "m98",
+   "title": "Birth of the Demonic Sword",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ],
+    [
+     "NON_TROVATO",
+     "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   }
+  },
+  {
+   "id": "m99",
+   "title": "Galaxias",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ],
+    [
+     "GENERI",
+     "Nostri ['Sci-Fi']; AniList ['Action', 'Adventure', 'Fantasy']"
+    ],
+    [
+     "AUTORI",
+     "Nostri ['Autore non confermato']; AniList ['Ao Hatezaka', 'Nate Derr', 'Jan Ivan Concepcion', 'Katherine Tran']"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   },
+   "anilist": {
+    "capitoli": null,
+    "volumi": null,
+    "autori": [
+     "Jan Ivan Concepcion (Lettering (English))",
+     "Nate Derr (Translator (English))",
+     "Ao Hatezaka (Story & Art)",
+     "Katherine Tran (Editing (English))"
+    ]
+   },
+   "mangadex_capitoli_per_volume": {
+    "1": 5,
+    "2": 11,
+    "3": 10,
+    "none": 10
+   }
+  },
+  {
+   "id": "m96",
+   "title": "Orfani",
+   "flags": [
+    [
+     "CAPITOLI_SOSPETTI",
+     "16/16 volumi con 1 solo capitolo (probabile segnaposto): [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+    ],
+    [
+     "NON_TROVATO",
+     "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+    ]
+   ],
+   "nostro": {
+    "totalVols": 16,
+    "edition": ""
+   }
+  },
+  {
+   "id": "m97",
+   "title": "Qwest",
+   "flags": [
+    [
+     "CAPITOLI_MANCANTI",
+     "Nessun dato capitoli per volume"
+    ],
+    [
+     "NON_TROVATO",
+     "AniList: titolo non riconosciuto (titolo italiano/alternativo?)"
+    ]
+   ],
+   "nostro": {
+    "totalVols": null,
+    "edition": ""
+   }
+  }
+ ]
+}

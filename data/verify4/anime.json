@@ -1,0 +1,794 @@
+[
+ {
+  "id": "a41",
+  "title": "One Punch Man",
+  "proposte": [
+   {
+    "personaggio": "Garou",
+    "anilist_nome": "Garou",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b89277-xBGb4B5YISXg.png",
+    "anilist_char_id": 89277
+   }
+  ]
+ },
+ {
+  "id": "a57",
+  "title": "Sakamoto desu ga",
+  "proposte": [
+   {
+    "personaggio": "Sakamoto",
+    "anilist_nome": "Sakamoto",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b123574-BjW3yjFwphP0.jpg",
+    "anilist_char_id": 123574
+   }
+  ]
+ },
+ {
+  "id": "a125",
+  "title": "Komi-san",
+  "proposte": [
+   {
+    "personaggio": "Makeru Yamai",
+    "anilist_nome": "Makeru Yadano",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b130871-g7EkLNAqyAbe.png",
+    "anilist_char_id": 130871
+   }
+  ]
+ },
+ {
+  "id": "a172",
+  "title": "Sword Art Online",
+  "proposte": [
+   {
+    "personaggio": "Eugeo",
+    "anilist_nome": "Eugene",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b72903-sydZD4sXrDTw.png",
+    "anilist_char_id": 72903
+   }
+  ]
+ },
+ {
+  "id": "a6",
+  "title": "Jujutsu Kaisen",
+  "proposte": [
+   {
+    "personaggio": "Yuta Okkotsu",
+    "anilist_nome": "Yuuta Okkotsu",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b129571-GHJk7gviHOOw.jpg",
+    "anilist_char_id": 129571
+   }
+  ]
+ },
+ {
+  "id": "a10",
+  "title": "Horimiya",
+  "proposte": [
+   {
+    "personaggio": "Sota Hori",
+    "anilist_nome": "Souta Hori",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b66969-w9HNa7igeTeF.png",
+    "anilist_char_id": 66969
+   }
+  ]
+ },
+ {
+  "id": "a14",
+  "title": "Fullmetal Alchemist Brotherhood",
+  "proposte": [
+   {
+    "personaggio": "Father",
+    "anilist_nome": null,
+    "foto": null,
+    "anilist_char_id": null
+   }
+  ]
+ },
+ {
+  "id": "a18",
+  "title": "Chainsaw Man",
+  "proposte": [
+   {
+    "personaggio": "Reze",
+    "anilist_nome": "Reze",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b148740-ceAibPxLW8rR.png",
+    "anilist_char_id": 148740
+   }
+  ]
+ },
+ {
+  "id": "a22",
+  "title": "Naruto",
+  "proposte": [
+   {
+    "personaggio": "Obito Uchiha",
+    "anilist_nome": "Itachi Uchiha",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b14-9Kb1E5oel1ke.png",
+    "anilist_char_id": 14
+   }
+  ]
+ },
+ {
+  "id": "a30",
+  "title": "Tokyo Revengers",
+  "proposte": [
+   {
+    "personaggio": "Manjiro Sano (Mikey)",
+    "anilist_nome": "Manjirou Sano",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b145341-CuPldCLZMvvf.png",
+    "anilist_char_id": 145341
+   },
+   {
+    "personaggio": "Ken Ryuguji (Draken)",
+    "anilist_nome": "Ken Ryuuguji",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b145345-zyirrSsKIDCb.png",
+    "anilist_char_id": 145345
+   }
+  ]
+ },
+ {
+  "id": "a34",
+  "title": "Terror in Resonance",
+  "proposte": [
+   {
+    "personaggio": "Shibazaki",
+    "anilist_nome": "Shibazaki's Wife",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b174741-vVLJ1dxW0Qzo.png",
+    "anilist_char_id": 174741
+   }
+  ]
+ },
+ {
+  "id": "a58",
+  "title": "Inuyashiki",
+  "proposte": [
+   {
+    "personaggio": "Ichiro Inuyashiki",
+    "anilist_nome": "Ichirou Inuyashiki",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b123583-O5TgsLJBiN1k.jpg",
+    "anilist_char_id": 123583
+   },
+   {
+    "personaggio": "Hiro Shishigami",
+    "anilist_nome": "Hiro Shishigami",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/123581-XPE2OL85SDI7.jpg",
+    "anilist_char_id": 123581
+   },
+   {
+    "personaggio": "Shion Watanabe",
+    "anilist_nome": "Shion Watanabe",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b124301-W50V18RQWWu4.png",
+    "anilist_char_id": 124301
+   },
+   {
+    "personaggio": "Andou",
+    "anilist_nome": null,
+    "foto": null,
+    "anilist_char_id": null
+   }
+  ]
+ },
+ {
+  "id": "a74",
+  "title": "Yu-Gi-Oh ZEXAL",
+  "proposte": [
+   {
+    "personaggio": "Dr. Faker",
+    "anilist_nome": "Dr. Faker",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/44044.jpg",
+    "anilist_char_id": 44044
+   }
+  ]
+ },
+ {
+  "id": "a86",
+  "title": "Black Clover",
+  "proposte": [
+   {
+    "personaggio": "Klaus Lunettes",
+    "anilist_nome": "Klaus Lunettes",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b124437-3C1plJbD8jSn.png",
+    "anilist_char_id": 124437
+   }
+  ]
+ },
+ {
+  "id": "a98",
+  "title": "Edens Zero",
+  "proposte": [
+   {
+    "personaggio": "Pino",
+    "anilist_nome": "Nino",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b191279-M9RNRjrMsxEg.jpg",
+    "anilist_char_id": 191279
+   }
+  ]
+ },
+ {
+  "id": "a102",
+  "title": "Fruits Basket",
+  "proposte": [
+   {
+    "personaggio": "Yuki Sohma",
+    "anilist_nome": "Yuki Souma",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b208-5TmAqqh82wNe.png",
+    "anilist_char_id": 208
+   },
+   {
+    "personaggio": "Shigure Sohma",
+    "anilist_nome": "Shigure Souma",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b206-4HokrxTIqu7L.jpg",
+    "anilist_char_id": 206
+   },
+   {
+    "personaggio": "Kagura Sohma",
+    "anilist_nome": "Kagura Souma",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b366-5iIIhczrc3Qr.jpg",
+    "anilist_char_id": 366
+   },
+   {
+    "personaggio": "Hatsuharu Sohma",
+    "anilist_nome": "Hatsuharu Souma",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b369-NDFi2A2BzqO6.png",
+    "anilist_char_id": 369
+   },
+   {
+    "personaggio": "Momiji Sohma",
+    "anilist_nome": "Momiji Souma",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b367-Jc6wMVpL76Ib.png",
+    "anilist_char_id": 367
+   },
+   {
+    "personaggio": "Hatori Sohma",
+    "anilist_nome": "Hatori Souma",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b368-zJEE8gpxBb5f.jpg",
+    "anilist_char_id": 368
+   }
+  ]
+ },
+ {
+  "id": "a106",
+  "title": "Gintama",
+  "proposte": [
+   {
+    "personaggio": "Otae Shimura",
+    "anilist_nome": "Tae Shimura",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/n2944-XzeaielhUwAV.jpg",
+    "anilist_char_id": 2944
+   }
+  ]
+ },
+ {
+  "id": "a118",
+  "title": "Inazuma Eleven",
+  "proposte": [
+   {
+    "personaggio": "Ryugo Someoka",
+    "anilist_nome": "Ryuugo Someoka",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b29851-ZYdIel2caMLW.png",
+    "anilist_char_id": 29851
+   }
+  ]
+ },
+ {
+  "id": "a122",
+  "title": "Katekyou Hitman Reborn!",
+  "proposte": [
+   {
+    "personaggio": "Kyoko Sasagawa",
+    "anilist_nome": "Kyouko Sasagawa",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/1857.jpg",
+    "anilist_char_id": 1857
+   },
+   {
+    "personaggio": "Basil",
+    "anilist_nome": "Basil",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/2167.jpg",
+    "anilist_char_id": 2167
+   }
+  ]
+ },
+ {
+  "id": "a165",
+  "title": "Kenpuu Denki Berserk",
+  "proposte": [
+   {
+    "personaggio": "Guts",
+    "anilist_nome": "Guts",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b422-XTaiTuvRohsV.png",
+    "anilist_char_id": 422
+   },
+   {
+    "personaggio": "Griffith",
+    "anilist_nome": "Griffith",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b424-Jfrsf8I7zBps.png",
+    "anilist_char_id": 424
+   },
+   {
+    "personaggio": "Casca",
+    "anilist_nome": "Casca",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b423-AmVFCaJJOBsc.png",
+    "anilist_char_id": 423
+   },
+   {
+    "personaggio": "Judeau",
+    "anilist_nome": "Judeau",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b454-zAG2pjevq7OO.png",
+    "anilist_char_id": 454
+   },
+   {
+    "personaggio": "Pippin",
+    "anilist_nome": "Pippin",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b597-9VvkEo8hmdxg.png",
+    "anilist_char_id": 597
+   },
+   {
+    "personaggio": "Corkus",
+    "anilist_nome": "Corkus",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b599-bzDp9ze9vxFb.png",
+    "anilist_char_id": 599
+   },
+   {
+    "personaggio": "Rickert",
+    "anilist_nome": "Rickert",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b598-2r2X1nQmr3qP.jpg",
+    "anilist_char_id": 598
+   }
+  ]
+ },
+ {
+  "id": "a7",
+  "title": "Dr. Stone",
+  "proposte": [
+   {
+    "personaggio": "Ukyo Saionji",
+    "anilist_nome": "Ukyou Saionji",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b145064-cbgNBAEY9q4R.png",
+    "anilist_char_id": 145064
+   }
+  ]
+ },
+ {
+  "id": "a23",
+  "title": "JoJo's Bizarre Adventure",
+  "proposte": [
+   {
+    "personaggio": "Jotaro Kujo",
+    "anilist_nome": "Joutarou Kuujou",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b4003-gWDSEGbeOAll.png",
+    "anilist_char_id": 4003
+   }
+  ]
+ },
+ {
+  "id": "a31",
+  "title": "Kanata no Astra",
+  "proposte": [
+   {
+    "personaggio": "Yunhua Lu",
+    "anilist_nome": "Yun-Hua Lu",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b139436-1ehzIE6ALT9M.png",
+    "anilist_char_id": 139436
+   }
+  ]
+ },
+ {
+  "id": "a35",
+  "title": "Spy x Family",
+  "proposte": [
+   {
+    "personaggio": "Bond Forger",
+    "anilist_nome": "Loid Forger",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b138101-7NCB0Md8zA6G.png",
+    "anilist_char_id": 138101
+   }
+  ]
+ },
+ {
+  "id": "a39",
+  "title": "Btooom!",
+  "proposte": [
+   {
+    "personaggio": "Himiko Kinoshita",
+    "anilist_nome": "Hidemi Kinoshita",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b74431-oYG3xAULgJLy.png",
+    "anilist_char_id": 74431
+   }
+  ]
+ },
+ {
+  "id": "a47",
+  "title": "Pluto",
+  "proposte": [
+   {
+    "personaggio": "Brau1589",
+    "anilist_nome": "Brau-1589",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b22226-QHgeQdIxEyLW.png",
+    "anilist_char_id": 22226
+   }
+  ]
+ },
+ {
+  "id": "a59",
+  "title": "Toradora",
+  "proposte": [
+   {
+    "personaggio": "Ryuji Takasu",
+    "anilist_nome": "Ryuuji Takasu",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b12295-d45uTNeJHuus.png",
+    "anilist_char_id": 12295
+   },
+   {
+    "personaggio": "Taiga Aisaka",
+    "anilist_nome": "Taiga Aisaka",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b12064-7PDN3ylIeAZn.png",
+    "anilist_char_id": 12064
+   },
+   {
+    "personaggio": "Minori Kushieda",
+    "anilist_nome": "Minori Kushieda",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b12305-AdKOcp0az9mq.jpg",
+    "anilist_char_id": 12305
+   },
+   {
+    "personaggio": "Yusaku Kitamura",
+    "anilist_nome": "Yuusaku Kitamura",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b12306-Nb1orOh4UkpT.png",
+    "anilist_char_id": 12306
+   },
+   {
+    "personaggio": "Ami Kawashima",
+    "anilist_nome": "Ami Kawashima",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b13725-Vk30kjvVT82z.png",
+    "anilist_char_id": 13725
+   }
+  ]
+ },
+ {
+  "id": "a63",
+  "title": "Charlotte",
+  "proposte": [
+   {
+    "personaggio": "Jojiro Takajo",
+    "anilist_nome": "Joujirou Takajou",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b88952-0wmPqlWytiRx.png",
+    "anilist_char_id": 88952
+   }
+  ]
+ },
+ {
+  "id": "a75",
+  "title": "3-gatsu no Lion",
+  "proposte": [
+   {
+    "personaggio": "Kyoko Kubo",
+    "anilist_nome": "Kyouko Kouda",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b70293-lGH9JgtugKsZ.png",
+    "anilist_char_id": 70293
+   }
+  ]
+ },
+ {
+  "id": "a79",
+  "title": "Ao Ashi",
+  "proposte": [
+   {
+    "personaggio": "Kuroda Junnosuke",
+    "anilist_nome": null,
+    "foto": null,
+    "anilist_char_id": null
+   }
+  ]
+ },
+ {
+  "id": "a83",
+  "title": "Baccano!",
+  "proposte": [
+   {
+    "personaggio": "Czeslaw Meyer",
+    "anilist_nome": "Czesław Meyer",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b3063-zkwLabVw5Pi9.png",
+    "anilist_char_id": 3063
+   }
+  ]
+ },
+ {
+  "id": "a91",
+  "title": "Chi. Chikyuu no Undou ni Tsuite",
+  "proposte": [
+   {
+    "personaggio": "Yosaf",
+    "anilist_nome": "Gyosha",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "anilist_char_id": 352654
+   }
+  ]
+ },
+ {
+  "id": "a123",
+  "title": "Kingdom",
+  "proposte": [
+   {
+    "personaggio": "Wang Jian",
+    "anilist_nome": "Xiang Qiang",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b132052-T3qMaTZ49lJs.png",
+    "anilist_char_id": 132052
+   }
+  ]
+ },
+ {
+  "id": "a154",
+  "title": "Tensei shitara Slime Datta Ken",
+  "proposte": [
+   {
+    "personaggio": "Hakuro",
+    "anilist_nome": "Hakurou",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b131043-AyEdKg1Xkjrd.png",
+    "anilist_char_id": 131043
+   }
+  ]
+ },
+ {
+  "id": "a162",
+  "title": "Yuu☆Yuu☆Hakusho",
+  "proposte": [
+   {
+    "personaggio": "Toguro",
+    "anilist_nome": "Toguro Ani",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b8716-X0s42rAYhG4z.png",
+    "anilist_char_id": 8716
+   }
+  ]
+ },
+ {
+  "id": "a166",
+  "title": "Usagi Drop",
+  "proposte": [
+   {
+    "personaggio": "Daikichi Kawachi",
+    "anilist_nome": "Daikichi Kawachi",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/n12668-CU0ySRvjIo2q.png",
+    "anilist_char_id": 12668
+   },
+   {
+    "personaggio": "Rin Kaga",
+    "anilist_nome": "Rin Kaga",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b12669-txIOgp7as6ca.png",
+    "anilist_char_id": 12669
+   }
+  ]
+ },
+ {
+  "id": "a8",
+  "title": "Vinland Saga",
+  "proposte": [
+   {
+    "personaggio": "Thors",
+    "anilist_nome": null,
+    "foto": null,
+    "anilist_char_id": null
+   },
+   {
+    "personaggio": "Einar",
+    "anilist_nome": null,
+    "foto": null,
+    "anilist_char_id": null
+   }
+  ]
+ },
+ {
+  "id": "a16",
+  "title": "Death Note",
+  "proposte": [
+   {
+    "personaggio": "L",
+    "anilist_nome": null,
+    "foto": null,
+    "anilist_char_id": null
+   },
+   {
+    "personaggio": "Soichiro Yagami",
+    "anilist_nome": "Souichirou Yagami",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b1927-iaIWrFITyeJw.jpg",
+    "anilist_char_id": 1927
+   }
+  ]
+ },
+ {
+  "id": "a32",
+  "title": "Solo Leveling",
+  "proposte": [
+   {
+    "personaggio": "Sung Jinwoo",
+    "anilist_nome": null,
+    "foto": null,
+    "anilist_char_id": null
+   },
+   {
+    "personaggio": "Go Gunhee",
+    "anilist_nome": null,
+    "foto": null,
+    "anilist_char_id": null
+   },
+   {
+    "personaggio": "Woo Jinchul",
+    "anilist_nome": null,
+    "foto": null,
+    "anilist_char_id": null
+   },
+   {
+    "personaggio": "Yoo Jinho",
+    "anilist_nome": null,
+    "foto": null,
+    "anilist_char_id": null
+   },
+   {
+    "personaggio": "Baek Yoonho",
+    "anilist_nome": null,
+    "foto": null,
+    "anilist_char_id": null
+   },
+   {
+    "personaggio": "Sung Jinah",
+    "anilist_nome": "Sang-Min Ahn",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b306652-pwbDRuTHSVxb.png",
+    "anilist_char_id": 306652
+   },
+   {
+    "personaggio": "Sung Il-Hwan",
+    "anilist_nome": "Song-I Han",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b138793-eijpaPPkcipD.png",
+    "anilist_char_id": 138793
+   }
+  ]
+ },
+ {
+  "id": "a36",
+  "title": "Dororo",
+  "proposte": [
+   {
+    "personaggio": "Nui no Kata",
+    "anilist_nome": "Nuinokata",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/n133066-Y6qKsJkZNnhI.png",
+    "anilist_char_id": 133066
+   },
+   {
+    "personaggio": "Itachi",
+    "anilist_nome": "Itachi",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b136576-qp6PiEOVblUi.png",
+    "anilist_char_id": 136576
+   }
+  ]
+ },
+ {
+  "id": "a56",
+  "title": "Howl's Moving Castle",
+  "proposte": [
+   {
+    "personaggio": "Sophie Hatter",
+    "anilist_nome": "Sophie Hatter",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b508-ONXMgE281eHe.jpg",
+    "anilist_char_id": 508
+   },
+   {
+    "personaggio": "Howl",
+    "anilist_nome": "Howl",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b507-g9yz1GTLtPla.jpg",
+    "anilist_char_id": 507
+   },
+   {
+    "personaggio": "Calcifer",
+    "anilist_nome": "Calcifer",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b6752-T8tNirdJJ8rw.jpg",
+    "anilist_char_id": 6752
+   },
+   {
+    "personaggio": "Markl",
+    "anilist_nome": "Markl",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b509-6VwYgQtqu63T.jpg",
+    "anilist_char_id": 509
+   },
+   {
+    "personaggio": "Madame Suliman",
+    "anilist_nome": null,
+    "foto": null,
+    "anilist_char_id": null
+   }
+  ]
+ },
+ {
+  "id": "a64",
+  "title": "Evangelion",
+  "proposte": [
+   {
+    "personaggio": "Gendo Ikari",
+    "anilist_nome": "Gendou Ikari",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b1257-qByikcrE8KTG.png",
+    "anilist_char_id": 1257
+   }
+  ]
+ },
+ {
+  "id": "a88",
+  "title": "Boruto",
+  "proposte": [
+   {
+    "personaggio": "Shikadai Nara",
+    "anilist_nome": "Shikadai Nara",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/121442-mWU38debEYsQ.jpg",
+    "anilist_char_id": 121442
+   },
+   {
+    "personaggio": "Konohamaru Sarutobi",
+    "anilist_nome": "Konohamaru Sarutobi",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/n3889-gCUewPsRY2kD.png",
+    "anilist_char_id": 3889
+   },
+   {
+    "personaggio": "Sumire Kakei",
+    "anilist_nome": "Sumire Kakei",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b122209-gl4rHbQOa7IM.png",
+    "anilist_char_id": 122209
+   },
+   {
+    "personaggio": "Delta",
+    "anilist_nome": "Delta",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b130415-0L7qYVHsJaP4.jpg",
+    "anilist_char_id": 130415
+   },
+   {
+    "personaggio": "Jigen",
+    "anilist_nome": "Jigen",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b130418-OANoriz98qJi.png",
+    "anilist_char_id": 130418
+   }
+  ]
+ },
+ {
+  "id": "a131",
+  "title": "Mahou Shoujo Madoka Magica",
+  "proposte": [
+   {
+    "personaggio": "Kyubey",
+    "anilist_nome": "Kyuubey",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b38566-XzE2iqAodRQK.jpg",
+    "anilist_char_id": 38566
+   }
+  ]
+ },
+ {
+  "id": "a147",
+  "title": "Sen to Chihiro no Kamikakushi",
+  "proposte": [
+   {
+    "personaggio": "Kamaji",
+    "anilist_nome": "Kamajii",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b8301-ASa313sbbcI3.png",
+    "anilist_char_id": 8301
+   }
+  ]
+ },
+ {
+  "id": "a151",
+  "title": "Soul Eater",
+  "proposte": [
+   {
+    "personaggio": "Liz Thompson",
+    "anilist_nome": "Elizabeth Thompson",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/b8445-7BIqYhg3OKMn.png",
+    "anilist_char_id": 8445
+   }
+  ]
+ },
+ {
+  "id": "a155",
+  "title": "Tonari no Totoro",
+  "proposte": [
+   {
+    "personaggio": "Nekobus",
+    "anilist_nome": "Nekobasu",
+    "foto": "https://s4.anilist.co/file/anilistcdn/character/large/271.jpg",
+    "anilist_char_id": 271
+   }
+  ]
+ }
+]

@@ -1,0 +1,3239 @@
+[
+ {
+  "id": "m1",
+  "title": "Slam Dunk",
+  "ours": {
+   "totalVols": 20,
+   "volsOwned": 20,
+   "volsRead": 20,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.0,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "VOLUMI_IT",
+    "Nostro 20; AnimeClick 'Slam Dunk' ultimo volume 24 (48 uscite)"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Slam Dunk",
+    "maxVol": 24,
+    "count": 48,
+    "score": 1.0,
+    "all": [
+     "Slam Dunk Illustration Book: max vol 0, 2 uscite",
+     "Inoue Takehiko Illustrations: max vol 0, 1 uscite",
+     "Plus/Slam Dunk Illustrations 2: max vol 0, 2 uscite",
+     "The First Slam Dunk re:Source: max vol 0, 1 uscite",
+     "Slam Dunk: max vol 24, 48 uscite",
+     "Slam Dunk (Planet Manga Ed. 1997): max vol 62, 62 uscite",
+     "Slam Dunk + Figurine Panini Basketball '98-'99: max vol 35, 1 uscite",
+     "Slam Dunk Collection: max vol 31, 34 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 30051,
+    "title": "SLAM DUNK",
+    "volumes": 31,
+    "chapters": 276,
+    "status": "FINISHED",
+    "year": 1990,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m2",
+  "title": "Solo Leveling",
+  "ours": {
+   "totalVols": 27,
+   "volsOwned": 0,
+   "volsRead": 27,
+   "edition": "",
+   "volType": "VOL",
+   "price": 10.0,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "VOLUMI_IT",
+    "Nostro 27; AnimeClick 'Solo Leveling' ultimo volume 28 (28 uscite)"
+   ],
+   [
+    "VOLUMI",
+    "Nostro 27 > volumi originali 15 (AniList, serie conclusa)"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Solo Leveling",
+    "maxVol": 28,
+    "count": 28,
+    "score": 1.0,
+    "all": [
+     "Solo Leveling: max vol 28, 28 uscite",
+     "Solo Leveling Limited Edition: max vol 26, 3 uscite",
+     "Solo Leveling - Variant Anime: max vol 21, 2 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 105398,
+    "title": "Na Honjaman Level Up",
+    "volumes": 15,
+    "chapters": 201,
+    "status": "FINISHED",
+    "year": 2018,
+    "country": "KR"
+   }
+  }
+ },
+ {
+  "id": "m3",
+  "title": "La ragazza in riva al mare",
+  "ours": {
+   "totalVols": 2,
+   "volsOwned": 0,
+   "volsRead": 2,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.5,
+   "status": "completed"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "La ragazza in riva al mare",
+    "maxVol": 2,
+    "count": 6,
+    "score": 1.0,
+    "all": [
+     "La ragazza in riva al mare: max vol 2, 6 uscite"
+    ]
+   }
+  }
+ },
+ {
+  "id": "m4",
+  "title": "20th Century Boys",
+  "ours": {
+   "totalVols": 12,
+   "volsOwned": 12,
+   "volsRead": 3,
+   "edition": "Deluxe edition",
+   "volType": "VOL",
+   "price": 14.0,
+   "status": "in_progress"
+  },
+  "flags": [
+   [
+    "VOLUMI_IT",
+    "Nostro 12; AnimeClick '20th Century Boys Ultimate Deluxe Edition' ultimo volume 11 (11 uscite)"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "20th Century Boys Ultimate Deluxe Edition",
+    "maxVol": 11,
+    "count": 11,
+    "score": 0.93,
+    "all": [
+     "20th Century Boys: max vol 22, 107 uscite",
+     "20th Century Boys Ultimate Deluxe Edition: max vol 11, 11 uscite",
+     "20th Century Boys Ultimate Deluxe Edition Starter Pack: max vol 0, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 30003,
+    "title": "20 Seiki Shounen",
+    "volumes": 22,
+    "chapters": 249,
+    "status": "FINISHED",
+    "year": 1999,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m5",
+  "title": "Blame",
+  "ours": {
+   "totalVols": 6,
+   "volsOwned": 6,
+   "volsRead": 0,
+   "edition": "Master edition",
+   "volType": "VOL",
+   "price": 17.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Blame! Master Edition",
+    "maxVol": 6,
+    "count": 6,
+    "score": 1.05,
+    "all": [
+     "Blame! And so on: max vol 0, 1 uscite",
+     "Blame: max vol 10, 10 uscite",
+     "Blame! Deluxe: max vol 5, 8 uscite",
+     "Blame! Ultimate Deluxe Collection: max vol 1, 1 uscite",
+     "Blame! Nuova Edizione: max vol 10, 10 uscite",
+     "Nihei Starter Pack: max vol 0, 1 uscite",
+     "Blame! Master Edition: max vol 6, 6 uscite",
+     "Blame! Master Edition - Cofanetto: max vol 0, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 141020,
+    "title": "BLAME",
+    "volumes": null,
+    "chapters": 1,
+    "status": "FINISHED",
+    "year": 1995,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m6",
+  "title": "Blue Lock",
+  "ours": {
+   "totalVols": 32,
+   "volsOwned": 21,
+   "volsRead": 15,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.5,
+   "status": "in_progress"
+  },
+  "flags": [
+   [
+    "VOLUMI_IT",
+    "Nostro 32; AnimeClick 'Blue Lock' ultimo volume 35 (35 uscite)"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Blue Lock",
+    "maxVol": 35,
+    "count": 35,
+    "score": 1.0,
+    "all": [
+     "Blue Lock: max vol 35, 35 uscite",
+     "Blue Lock - Variant Panini: max vol 1, 1 uscite",
+     "Blue Lock - Variant Anime: max vol 1, 1 uscite",
+     "Blue Lock - Variant Inter: max vol 1, 1 uscite",
+     "Blue Lock Coloring Book: max vol 0, 1 uscite",
+     "Blue Lock - Variant World Cup Celebration: max vol 34, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 106130,
+    "title": "Blue Lock",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2018,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m7",
+  "title": "The Killer Inside",
+  "ours": {
+   "totalVols": 11,
+   "volsOwned": 11,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "The Killer Inside",
+    "maxVol": 11,
+    "count": 11,
+    "score": 1.0,
+    "all": [
+     "The Killer Inside: max vol 11, 11 uscite"
+    ]
+   }
+  }
+ },
+ {
+  "id": "m8",
+  "title": "La fine del mondo e prima dell'alba",
+  "ours": {
+   "totalVols": 1,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 12.9,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "La fine del mondo e prima dell'alba",
+    "maxVol": 0,
+    "count": 4,
+    "score": 1.0,
+    "all": [
+     "La fine del mondo e prima dell'alba: max vol 0, 4 uscite"
+    ]
+   }
+  }
+ },
+ {
+  "id": "m9",
+  "title": "Il prezzo di una vita",
+  "ours": {
+   "totalVols": 3,
+   "volsOwned": 3,
+   "volsRead": 0,
+   "edition": "Box",
+   "volType": "VOL",
+   "price": 6.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EDIZIONE?",
+    "Nessun gruppo AnimeClick coincide con 'Il prezzo di una vita Box': Il prezzo di una vita - I sold my life for ten thousand yen per year: max vol 3, 3 uscite; Il prezzo di una vita - I sold my life for ten thousand yen per year Box: max vol 0, 1 uscite"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Il prezzo di una vita - I sold my life for ten thousand yen per year Box",
+    "maxVol": 0,
+    "count": 1,
+    "score": 0.51,
+    "all": [
+     "Il prezzo di una vita - I sold my life for ten thousand yen per year: max vol 3, 3 uscite",
+     "Il prezzo di una vita - I sold my life for ten thousand yen per year Box: max vol 0, 1 uscite"
+    ]
+   }
+  }
+ },
+ {
+  "id": "m10",
+  "title": "Chainsaw Man",
+  "ours": {
+   "totalVols": 22,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "VOLUMI_IT",
+    "Nostro 22; AnimeClick 'Chainsaw Man' ultimo volume 23 (32 uscite)"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Chainsaw Man",
+    "maxVol": 23,
+    "count": 32,
+    "score": 1.0,
+    "all": [
+     "Chainsaw Man Variant: max vol 12, 2 uscite",
+     "Chainsaw Man: max vol 23, 32 uscite",
+     "Chainsaw Man - Discovery Edition: max vol 1, 1 uscite",
+     "Chainsaw Man - Cofanetto: max vol 0, 1 uscite",
+     "Chainsaw Man - Cofanetto Vuoto: max vol 0, 1 uscite",
+     "Chainsaw Man Calendario 2023: max vol 0, 1 uscite",
+     "Chainsaw Man Calendario 2023 con variant: max vol 0, 1 uscite",
+     "Chainsaw Man Christmas Variant: max vol 1, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 105778,
+    "title": "Chainsaw Man",
+    "volumes": 24,
+    "chapters": 232,
+    "status": "FINISHED",
+    "year": 2018,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m11",
+  "title": "Dr. Stone",
+  "ours": {
+   "totalVols": 27,
+   "volsOwned": 27,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.2,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Dr.Stone",
+    "maxVol": 27,
+    "count": 27,
+    "score": 1.0,
+    "all": [
+     "Dr.Stone: max vol 27, 27 uscite",
+     "Dr.Stone Limited Edition: max vol 1, 1 uscite",
+     "Dr.Stone Variant Cover Edition: max vol 27, 2 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 98416,
+    "title": "Dr. STONE",
+    "volumes": 27,
+    "chapters": 236,
+    "status": "FINISHED",
+    "year": 2017,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m12",
+  "title": "All You Need Is Kill",
+  "ours": {
+   "totalVols": 1,
+   "volsOwned": 1,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 15.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "VOLUMI_IT",
+    "Nostro 1; AnimeClick 'All You Need is Kill' ultimo volume 2 (2 uscite)"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "All You Need is Kill",
+    "maxVol": 2,
+    "count": 2,
+    "score": 1.0,
+    "all": [
+     "All You Need is Kill: max vol 2, 2 uscite",
+     "All You Need is Kill - Complete Edition: max vol 0, 2 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 85215,
+    "title": "All You Need Is Kill",
+    "volumes": 2,
+    "chapters": 17,
+    "status": "FINISHED",
+    "year": 2014,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m13",
+  "title": "Made in Abyss",
+  "ours": {
+   "totalVols": 14,
+   "volsOwned": 14,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.5,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 86551,
+    "title": "Made in Abyss",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2012,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m14",
+  "title": "Monster",
+  "ours": {
+   "totalVols": 9,
+   "volsOwned": 9,
+   "volsRead": 0,
+   "edition": "Deluxe edition",
+   "volType": "VOL",
+   "price": 13.2,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Monster Deluxe",
+    "maxVol": 9,
+    "count": 41,
+    "score": 0.83,
+    "all": [
+     "Monster: max vol 18, 18 uscite",
+     "Monster Deluxe: max vol 9, 41 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 30001,
+    "title": "MONSTER",
+    "volumes": 18,
+    "chapters": 162,
+    "status": "FINISHED",
+    "year": 1994,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m15",
+  "title": "One Piece",
+  "ours": {
+   "totalVols": 109,
+   "volsOwned": 109,
+   "volsRead": 109,
+   "edition": "New edition",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "completed"
+  },
+  "flags": [
+   [
+    "VOLUMI_IT",
+    "Nostro 109; AnimeClick 'One Piece New Edition' ultimo volume 112 (112 uscite)"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "One Piece New Edition",
+    "maxVol": 112,
+    "count": 112,
+    "score": 1.05,
+    "all": [
+     "One Piece: max vol 114, 114 uscite",
+     "One Piece - Ristampa corretta: max vol 51, 1 uscite",
+     "One Piece Celebration Edition: max vol 100, 3 uscite",
+     "One Piece Variant: max vol 111, 1 uscite",
+     "One Piece Limited Edition: max vol 114, 1 uscite",
+     "One Piece New Edition: max vol 112, 112 uscite",
+     "One Piece - 20th Anniversary Limited Edition - Silver: max vol 0, 1 uscite",
+     "One Piece - 20th Anniversary Limited Edition - Gold: max vol 0, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 30013,
+    "title": "ONE PIECE",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 1997,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m16",
+  "title": "One Punch Man",
+  "ours": {
+   "totalVols": 35,
+   "volsOwned": 33,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "VOLUMI_IT",
+    "Nostro 35; AnimeClick 'One-Punch Man' ultimo volume 36 (84 uscite)"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "One-Punch Man",
+    "maxVol": 36,
+    "count": 84,
+    "score": 1.0,
+    "all": [
+     "One-Punch Man: max vol 36, 84 uscite",
+     "One-Punch Man Variant FX: max vol 1, 1 uscite",
+     "One-Punch Man - Discovery Edition: max vol 1, 1 uscite",
+     "One-Punch Man Christmas Variant: max vol 1, 1 uscite",
+     "One-Punch Man Variant: max vol 36, 18 uscite",
+     "One-Punch Man Instant Variant: max vol 33, 1 uscite",
+     "One-Punch Man Fanbook: Tutto Sugli Eroi: max vol 0, 2 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 74347,
+    "title": "One Punch-Man",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2012,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m17",
+  "title": "Planetes",
+  "ours": {
+   "totalVols": 1,
+   "volsOwned": 1,
+   "volsRead": 0,
+   "edition": "Complete edition",
+   "volType": "VOL",
+   "price": 45.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Planetes Complete Edition",
+    "maxVol": 0,
+    "count": 2,
+    "score": 1.05,
+    "all": [
+     "Planetes: max vol 4, 4 uscite",
+     "Planetes Deluxe: max vol 3, 4 uscite",
+     "Planetes Complete Edition: max vol 0, 2 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 30481,
+    "title": "Planetes",
+    "volumes": 4,
+    "chapters": 28,
+    "status": "FINISHED",
+    "year": 1999,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m18",
+  "title": "Shaman King",
+  "ours": {
+   "totalVols": 35,
+   "volsOwned": 35,
+   "volsRead": 0,
+   "edition": "Final edition",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EDIZIONE?",
+    "Nessun gruppo AnimeClick coincide con 'Shaman King Final edition': Le bizzarre avventure di JoJo: Steel Ball Run: max vol 24, 40 uscite"
+   ],
+   [
+    "VOLUMI",
+    "Nostro 35 > volumi originali 32 (AniList, serie conclusa)"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Le bizzarre avventure di JoJo: Steel Ball Run",
+    "maxVol": 24,
+    "count": 40,
+    "score": 0.18,
+    "all": [
+     "Le bizzarre avventure di JoJo: Steel Ball Run: max vol 24, 40 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 30050,
+    "title": "Shaman King",
+    "volumes": 32,
+    "chapters": 288,
+    "status": "FINISHED",
+    "year": 1998,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m19",
+  "title": "Attack on Titan",
+  "ours": {
+   "totalVols": 34,
+   "volsOwned": 34,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.2,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EDIZIONE?",
+    "Nessun gruppo AnimeClick coincide con 'Attack on Titan': L'Attacco dei Giganti - Discovery Edition: max vol 1, 1 uscite; L'Attacco dei Giganti: max vol 34, 125 uscite; L'Attacco dei Giganti Variant: max vol 33, 3 uscite; L'Attacco dei Giganti - Bundle con Short Stories: max vol 30, 1 uscite"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "L'Attacco dei Giganti",
+    "maxVol": 34,
+    "count": 125,
+    "score": 0.53,
+    "all": [
+     "L'Attacco dei Giganti - Discovery Edition: max vol 1, 1 uscite",
+     "L'Attacco dei Giganti: max vol 34, 125 uscite",
+     "L'Attacco dei Giganti Variant: max vol 33, 3 uscite",
+     "L'Attacco dei Giganti - Bundle con Short Stories: max vol 30, 1 uscite",
+     "L'Attacco dei Giganti - Bundle con Short Stories 2: max vol 31, 1 uscite",
+     "L'Attacco dei Giganti - Bundle con Short Stories 3: max vol 32, 1 uscite",
+     "L'Attacco dei Giganti - Bundle con Short Stories 4: max vol 33, 1 uscite",
+     "L'Attacco dei Giganti - Colossal Edition: max vol 12, 13 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 53390,
+    "title": "Shingeki no Kyojin",
+    "volumes": 34,
+    "chapters": 141,
+    "status": "FINISHED",
+    "year": 2009,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m20",
+  "title": "Fire Punch",
+  "ours": {
+   "totalVols": 8,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.2,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Fire Punch",
+    "maxVol": 8,
+    "count": 8,
+    "score": 1.0,
+    "all": [
+     "Fire Punch: max vol 8, 8 uscite",
+     "Fire Punch Complete Box: max vol 0, 1 uscite",
+     "Fire Punch - Box vuoto: max vol 0, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 87170,
+    "title": "Fire Punch",
+    "volumes": 8,
+    "chapters": 83,
+    "status": "FINISHED",
+    "year": 2016,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m21",
+  "title": "Tokyo Revengers",
+  "ours": {
+   "totalVols": 31,
+   "volsOwned": 25,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.2,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Tokyo Revengers",
+    "maxVol": 31,
+    "count": 31,
+    "score": 1.0,
+    "all": [
+     "Tokyo Revengers Manji Gang Pack: max vol 0, 1 uscite",
+     "Tokyo Revengers: max vol 31, 31 uscite",
+     "Tokyo Revengers Variant Limited Edition: max vol 1, 1 uscite",
+     "Tokyo Revengers Character Book: max vol 0, 3 uscite",
+     "Tokyo Revengers Pack: max vol 0, 4 uscite",
+     "Tokyo Revengers Variant MangaYo!: max vol 31, 1 uscite",
+     "Tokyo Revengers Greatest Hits Cut Price: max vol 1, 1 uscite",
+     "Tokyo Revengers (La Gazzetta dello Sport): max vol 31, 31 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 102988,
+    "title": "Tokyo卍Revengers",
+    "volumes": 31,
+    "chapters": 279,
+    "status": "FINISHED",
+    "year": 2017,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m22",
+  "title": "Vinland Saga",
+  "ours": {
+   "totalVols": 29,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.5,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Vinland Saga",
+    "maxVol": 29,
+    "count": 29,
+    "score": 1.0,
+    "all": [
+     "Vinland Saga: max vol 29, 29 uscite",
+     "Vinland Saga Variant MangaYo!: max vol 1, 1 uscite",
+     "Vinland Saga Tribute Variant: max vol 1, 1 uscite",
+     "Vinland Saga Celebration Edition: max vol 29, 1 uscite",
+     "Vinland Saga Official Guidebook: max vol 0, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 30642,
+    "title": "Vinland Saga",
+    "volumes": 29,
+    "chapters": 224,
+    "status": "FINISHED",
+    "year": 2005,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m23",
+  "title": "Alita",
+  "ours": {
+   "totalVols": 3,
+   "volsOwned": 3,
+   "volsRead": 0,
+   "edition": "Panzer edition",
+   "volType": "VOL",
+   "price": 25.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Alita Panzer Edition",
+    "maxVol": 3,
+    "count": 3,
+    "score": 1.05,
+    "all": [
+     "Alita Battle Angel: max vol 18, 18 uscite",
+     "Alita Collection: max vol 11, 11 uscite",
+     "Alita New Edition: max vol 9, 18 uscite",
+     "Alita Panzer Edition - Cofanetto Completo: max vol 0, 1 uscite",
+     "Alita Panzer Edition: max vol 3, 3 uscite",
+     "The Best of Planet Manga – Steelbox Collection: Alita: max vol 0, 1 uscite",
+     "Alita Panzer - Variant 30th: max vol 1, 1 uscite"
+    ]
+   }
+  }
+ },
+ {
+  "id": "m24",
+  "title": "Akira",
+  "ours": {
+   "totalVols": 6,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "New edition",
+   "volType": "VOL",
+   "price": 21.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Akira New Edition",
+    "maxVol": 6,
+    "count": 6,
+    "score": 1.05,
+    "all": [
+     "Akira: max vol 38, 51 uscite",
+     "Akira - Raccolta Cartonata: max vol 11, 11 uscite",
+     "Akira Club: max vol 0, 1 uscite",
+     "Akira Anime Comics: max vol 5, 5 uscite",
+     "Akira Collection - Cofanetto vuoto: max vol 0, 2 uscite",
+     "Akira Collection - Cofanetto completo: max vol 0, 2 uscite",
+     "Akira Collection: max vol 6, 21 uscite",
+     "Akira New Edition: max vol 6, 6 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 30664,
+    "title": "AKIRA",
+    "volumes": 6,
+    "chapters": 120,
+    "status": "FINISHED",
+    "year": 1982,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m25",
+  "title": "Alice in Borderland",
+  "ours": {
+   "totalVols": 10,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 12.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "VOLUMI_IT",
+    "Nostro 10; AnimeClick 'Alice in Borderland' ultimo volume 18 (27 uscite)"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Alice in Borderland",
+    "maxVol": 18,
+    "count": 27,
+    "score": 1.0,
+    "all": [
+     "Alice in Borderland: max vol 18, 27 uscite",
+     "Alice in Borderland Variant Popstore: max vol 1, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 63031,
+    "title": "Imawa no Kuni no Alice",
+    "volumes": 18,
+    "chapters": 87,
+    "status": "FINISHED",
+    "year": 2010,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m26",
+  "title": "Berserk",
+  "ours": {
+   "totalVols": 14,
+   "volsOwned": 14,
+   "volsRead": 0,
+   "edition": "Deluxe edition",
+   "volType": "VOL",
+   "price": 50.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Berserk Deluxe Edition",
+    "maxVol": 14,
+    "count": 14,
+    "score": 1.05,
+    "all": [
+     "Berserk Illustration Book: max vol 0, 1 uscite",
+     "Berserk: max vol 86, 86 uscite",
+     "Berserk Bundle: max vol 0, 1 uscite",
+     "Berserk Collection: max vol 43, 60 uscite",
+     "Berserk Collection Special Edition: max vol 41, 1 uscite",
+     "Berserk 30th Anniversary - Cofanetto: max vol 43, 1 uscite",
+     "Berserk Collection - Variant Fumetterie: max vol 42, 1 uscite",
+     "Berserk Collection - Variant Panini.it: max vol 42, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 30002,
+    "title": "Berserk",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 1989,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m27",
+  "title": "Kaijuu no. 8",
+  "ours": {
+   "totalVols": 16,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.2,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Kaiju No. 8",
+    "maxVol": 16,
+    "count": 16,
+    "score": 0.95,
+    "all": [
+     "Kaiju No. 8 Monstrous Box: max vol 0, 1 uscite",
+     "Kaiju No. 8 Variant Cover Edition: max vol 5, 2 uscite",
+     "Kaiju No. 8 Limited Edition: max vol 1, 1 uscite",
+     "Kaiju No. 8 Start Edition: max vol 1, 1 uscite",
+     "Kaiju No. 8: max vol 16, 16 uscite",
+     "Kaiju No. 8 Celebration Edition: max vol 16, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 120760,
+    "title": "Kaijuu 8-gou",
+    "volumes": 16,
+    "chapters": 129,
+    "status": "FINISHED",
+    "year": 2020,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m28",
+  "title": "Dandadan",
+  "ours": {
+   "totalVols": 18,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "VOLUMI_IT",
+    "Nostro 18; AnimeClick 'Dandadan' ultimo volume 23 (23 uscite)"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Dandadan",
+    "maxVol": 23,
+    "count": 23,
+    "score": 1.0,
+    "all": [
+     "Dandadan Daizukan Fanbook: max vol 0, 1 uscite",
+     "Dandadan: max vol 23, 23 uscite",
+     "Dandadan Variant Edition: max vol 20, 3 uscite",
+     "Dandadan Deep Space Variant: max vol 1, 1 uscite",
+     "Dandadan Limited Edition: max vol 4, 1 uscite",
+     "Dandadan Deluxe Edition: max vol 19, 2 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 132029,
+    "title": "Dandadan",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2021,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m29",
+  "title": "Tower of God",
+  "ours": {
+   "totalVols": 500,
+   "volsOwned": 0,
+   "volsRead": 67,
+   "edition": "",
+   "volType": "CAP",
+   "price": 0.0,
+   "status": "in_progress"
+  },
+  "flags": [
+   [
+    "VOLUMI_IT",
+    "Nostro 500; AnimeClick 'Tower of God' ultimo volume 18 (18 uscite)"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Tower of God",
+    "maxVol": 18,
+    "count": 18,
+    "score": 1.0,
+    "all": [
+     "Tower of God: max vol 18, 18 uscite",
+     "Tower of God Variant Cover Edition: max vol 1, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 85143,
+    "title": "Sinui Tap",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2010,
+    "country": "KR"
+   }
+  }
+ },
+ {
+  "id": "m30",
+  "title": "Ashita no Joe",
+  "ours": {
+   "totalVols": 13,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "Perfect edition",
+   "volType": "VOL",
+   "price": 8.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Rocky Joe Perfect Edition",
+    "maxVol": 13,
+    "count": 13,
+    "score": 0.83,
+    "all": [
+     "Rocky Joe: max vol 20, 20 uscite",
+     "Rocky Joe Perfect Edition: max vol 13, 13 uscite",
+     "Rocky Joe Perfect Edition Variant MangaYo!: max vol 1, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 31303,
+    "title": "Ashita no Joe",
+    "volumes": 20,
+    "chapters": 171,
+    "status": "FINISHED",
+    "year": 1968,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m31",
+  "title": "Blue Period",
+  "ours": {
+   "totalVols": 17,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "VOLUMI_IT",
+    "Nostro 17; AnimeClick 'Blue Period' ultimo volume 18 (18 uscite)"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Blue Period",
+    "maxVol": 18,
+    "count": 18,
+    "score": 1.0,
+    "all": [
+     "Blue Period: max vol 18, 18 uscite",
+     "Blue Period Variant MangaYo!: max vol 1, 1 uscite",
+     "Blue Period Special Edition: max vol 8, 1 uscite",
+     "Blue Period Variant con coloring book: max vol 16, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 107237,
+    "title": "Blue Period",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2017,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m32",
+  "title": "Bleach",
+  "ours": {
+   "totalVols": 74,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Bleach",
+    "maxVol": 74,
+    "count": 286,
+    "score": 1.0,
+    "all": [
+     "All Color But The Black: max vol 0, 2 uscite",
+     "Bleach: max vol 74, 286 uscite",
+     "The Best of Planet Manga – Steelbox Collection: Bleach: max vol 0, 1 uscite",
+     "Bleach Gold: max vol 74, 74 uscite",
+     "Bleach Gold Deluxe: max vol 74, 74 uscite",
+     "Bleach Official Bootleg: max vol 0, 1 uscite",
+     "Bleach Variant Lenticolare: max vol 74, 1 uscite",
+     "Bleach (Corriere dello Sport): max vol 48, 48 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 30012,
+    "title": "BLEACH",
+    "volumes": 74,
+    "chapters": 706,
+    "status": "FINISHED",
+    "year": 2001,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m33",
+  "title": "Dorohedoro",
+  "ours": {
+   "totalVols": 23,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EDIZIONE?",
+    "Nessun gruppo AnimeClick coincide con 'Dorohedoro': Kappa - La scena dell'inferno: max vol 0, 1 uscite"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Kappa - La scena dell'inferno",
+    "maxVol": 0,
+    "count": 1,
+    "score": 0.12,
+    "all": [
+     "Kappa - La scena dell'inferno: max vol 0, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 31133,
+    "title": "Dorohedoro",
+    "volumes": 23,
+    "chapters": 191,
+    "status": "FINISHED",
+    "year": 2000,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m34",
+  "title": "Deadman Wonderland",
+  "ours": {
+   "totalVols": 13,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Deadman Wonderland",
+    "maxVol": 13,
+    "count": 30,
+    "score": 1.0,
+    "all": [
+     "Deadman Wonderland: max vol 13, 30 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 33986,
+    "title": "Deadman Wonderland",
+    "volumes": 13,
+    "chapters": 58,
+    "status": "FINISHED",
+    "year": 2007,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m35",
+  "title": "Death Note",
+  "ours": {
+   "totalVols": 6,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "Black edition",
+   "volType": "VOL",
+   "price": 18.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Death Note Black Edition",
+    "maxVol": 6,
+    "count": 28,
+    "score": 1.05,
+    "all": [
+     "[Artbook] Blanc et Noir - Obata Takeshi Illustrations: max vol 0, 1 uscite",
+     "Death Note: max vol 13, 118 uscite",
+     "The Best of Planet Manga – Steelbox Collection: Death Note: max vol 0, 1 uscite",
+     "Death Note Gold: max vol 12, 19 uscite",
+     "Death Note Gold Deluxe: max vol 12, 12 uscite",
+     "Death Note Black Edition: max vol 6, 28 uscite",
+     "Death Note Black Edition - Cofanetto Completo: max vol 0, 3 uscite",
+     "Death Note Black Edition - Guida alla lettura (con box vuoto allegato): max vol 0, 2 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 30021,
+    "title": "DEATH NOTE",
+    "volumes": 12,
+    "chapters": 108,
+    "status": "FINISHED",
+    "year": 2003,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m36",
+  "title": "Fullmetal Alchemist",
+  "ours": {
+   "totalVols": 18,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "Ultimate deluxe",
+   "volType": "VOL",
+   "price": 12.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Fullmetal Alchemist Ultimate Deluxe Edition",
+    "maxVol": 18,
+    "count": 18,
+    "score": 0.95,
+    "all": [
+     "Fullmetal Alchemist TV Animation Artbook: max vol 0, 1 uscite",
+     "Hiromu Arakawa Artwoks Fullmetal Alchemist: max vol 0, 1 uscite",
+     "The Art of Fullmetal Alchemist: max vol 0, 1 uscite",
+     "The Art of Fullmetal Alchemist 2: max vol 0, 1 uscite",
+     "Fullmetal Alchemist: max vol 27, 155 uscite",
+     "Fullmetal Alchemist + Card Game: max vol 8, 1 uscite",
+     "Fullmetal Alchemist Character Guide: max vol 0, 2 uscite",
+     "Fullmetal Alchemist Gold: max vol 27, 27 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 30025,
+    "title": "Hagane no Renkinjutsushi",
+    "volumes": 27,
+    "chapters": 116,
+    "status": "FINISHED",
+    "year": 2001,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m37",
+  "title": "GTO",
+  "ours": {
+   "totalVols": 13,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "Deluxe black edition",
+   "volType": "VOL",
+   "price": 10.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Big G.T.O. Deluxe Black Edition",
+    "maxVol": 13,
+    "count": 13,
+    "score": 0.94,
+    "all": [
+     "Big G.T.O.: max vol 13, 13 uscite",
+     "Big G.T.O. Box: max vol 4, 4 uscite",
+     "Big G.T.O. Deluxe: max vol 13, 26 uscite",
+     "Big G.T.O. Deluxe Box: max vol 0, 2 uscite",
+     "G.T.O.: max vol 25, 25 uscite",
+     "Big G.T.O. Deluxe Red Metal Variant MangaYo!: max vol 1, 1 uscite",
+     "Big G.T.O. Deluxe Black Edition: max vol 13, 13 uscite",
+     "Big G.T.O. Deluxe Black Edition Box: max vol 0, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 30336,
+    "title": "GTO",
+    "volumes": 25,
+    "chapters": 208,
+    "status": "FINISHED",
+    "year": 1997,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m38",
+  "title": "Homunculus",
+  "ours": {
+   "totalVols": 15,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Homunculus",
+    "maxVol": 15,
+    "count": 55,
+    "score": 1.0,
+    "all": [
+     "Homunculus: max vol 15, 55 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 30936,
+    "title": "Homunculus",
+    "volumes": 15,
+    "chapters": 166,
+    "status": "FINISHED",
+    "year": 2003,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m39",
+  "title": "Oyasumi Punpun",
+  "ours": {
+   "totalVols": 7,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "New edition",
+   "volType": "VOL",
+   "price": 15.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Buonanotte, PunPun - New Edition",
+    "maxVol": 7,
+    "count": 7,
+    "score": 0.81,
+    "all": [
+     "Buonanotte Punpun: max vol 13, 35 uscite",
+     "Buonanotte, PunPun - New Edition: max vol 7, 7 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 34632,
+    "title": "Oyasumi Punpun",
+    "volumes": 13,
+    "chapters": 147,
+    "status": "FINISHED",
+    "year": 2007,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m40",
+  "title": "Houseki no Kuni",
+  "ours": {
+   "totalVols": 13,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EDIZIONE?",
+    "Nessun gruppo AnimeClick coincide con 'Houseki no Kuni': Land of the Lustrous: max vol 13, 13 uscite; Land of the Lustrous Jacket Variant Double-face: max vol 13, 1 uscite"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Land of the Lustrous Jacket Variant Double-face",
+    "maxVol": 13,
+    "count": 1,
+    "score": 0.28,
+    "all": [
+     "Land of the Lustrous: max vol 13, 13 uscite",
+     "Land of the Lustrous Jacket Variant Double-face: max vol 13, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 74489,
+    "title": "Houseki no Kuni",
+    "volumes": 13,
+    "chapters": 120,
+    "status": "FINISHED",
+    "year": 2012,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m41",
+  "title": "I Am Hero",
+  "ours": {
+   "totalVols": 22,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.9,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "I am a hero",
+    "maxVol": 22,
+    "count": 22,
+    "score": 1.0,
+    "all": [
+     "I am a hero: max vol 22, 22 uscite",
+     "I am a hero Variant: max vol 1, 1 uscite",
+     "I am a Hero - Nuova edizione: max vol 22, 22 uscite",
+     "I am a Hero - Nuova edizione Variant MangaYo!: max vol 1, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 44440,
+    "title": "I Am a Hero",
+    "volumes": 22,
+    "chapters": 265,
+    "status": "FINISHED",
+    "year": 2009,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m43",
+  "title": "Jagaaaaaan",
+  "ours": {
+   "totalVols": 14,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EDIZIONE?",
+    "Nessun gruppo AnimeClick coincide con 'Jagaaaaaan': Jagan: max vol 14, 14 uscite; Jagan - Variant cover edition: max vol 1, 1 uscite"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Jagan",
+    "maxVol": 14,
+    "count": 14,
+    "score": 0.67,
+    "all": [
+     "Jagan: max vol 14, 14 uscite",
+     "Jagan - Variant cover edition: max vol 1, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 98328,
+    "title": "Jagaaaaaan",
+    "volumes": 14,
+    "chapters": 163,
+    "status": "FINISHED",
+    "year": 2017,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m44",
+  "title": "Solanin",
+  "ours": {
+   "totalVols": 1,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "Complete edition",
+   "volType": "VOL",
+   "price": 17.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Solanin Complete Edition",
+    "maxVol": 0,
+    "count": 2,
+    "score": 1.05,
+    "all": [
+     "Solanin: max vol 2, 6 uscite",
+     "Solanin Complete Edition: max vol 0, 2 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 33731,
+    "title": "Solanin",
+    "volumes": 2,
+    "chapters": 30,
+    "status": "FINISHED",
+    "year": 2005,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m45",
+  "title": "Jujutsu Kaisen",
+  "ours": {
+   "totalVols": 30,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.2,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EDIZIONE?",
+    "Nessun gruppo AnimeClick coincide con 'Jujutsu Kaisen': Jujutsu Kaisen Official Fanbook: max vol 0, 1 uscite; Jujutsu Kaisen - Sorcery Fight - Edizione Early Access: max vol 1, 1 uscite; Jujutsu Kaisen - Sorcery Fight - Variant: max vol 30, 5 uscite; Jujutsu Kaisen - Sorcery Fight - Fashion Variant: max vol 1, 1 uscite"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Jujutsu Kaisen - Sorcery Fight",
+    "maxVol": 30,
+    "count": 55,
+    "score": 0.67,
+    "all": [
+     "Jujutsu Kaisen Official Fanbook: max vol 0, 1 uscite",
+     "Jujutsu Kaisen - Sorcery Fight - Edizione Early Access: max vol 1, 1 uscite",
+     "Jujutsu Kaisen - Sorcery Fight - Variant: max vol 30, 5 uscite",
+     "Jujutsu Kaisen - Sorcery Fight - Fashion Variant: max vol 1, 1 uscite",
+     "Jujutsu Kaisen Christmas Variant: max vol 1, 1 uscite",
+     "Jujutsu Kaisen - Sorcery Fight - Discovery Edition: max vol 1, 1 uscite",
+     "Jujutsu Kaisen - Sorcery Fight: max vol 30, 55 uscite",
+     "Jujutsu Kaisen - Sorcery Fight Framebox: max vol 0, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 101517,
+    "title": "Jujutsu Kaisen",
+    "volumes": 30,
+    "chapters": 272,
+    "status": "FINISHED",
+    "year": 2018,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m46",
+  "title": "Juujika no Rokunin",
+  "ours": {
+   "totalVols": 14,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EDIZIONE?",
+    "Nessun gruppo AnimeClick coincide con 'Juujika no Rokunin': X6 - Crucisix: max vol 15, 15 uscite"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "X6 - Crucisix",
+    "maxVol": 15,
+    "count": 15,
+    "score": 0.21,
+    "all": [
+     "X6 - Crucisix: max vol 15, 15 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 116671,
+    "title": "Juujika no Rokunin",
+    "volumes": 24,
+    "chapters": 234,
+    "status": "FINISHED",
+    "year": 2020,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m47",
+  "title": "Kingdom",
+  "ours": {
+   "totalVols": 74,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.9,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "VOLUMI_IT",
+    "Nostro 74; AnimeClick 'Kingdom' ultimo volume 76 (76 uscite)"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Kingdom",
+    "maxVol": 76,
+    "count": 76,
+    "score": 1.0,
+    "all": [
+     "Kingdom: max vol 76, 76 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 46765,
+    "title": "Kingdom",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2006,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m48",
+  "title": "Mushishi",
+  "ours": {
+   "totalVols": 10,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Mushishi",
+    "maxVol": 10,
+    "count": 10,
+    "score": 1.0,
+    "all": [
+     "Mushishi: max vol 10, 10 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 217702,
+    "title": "Mushishi",
+    "volumes": null,
+    "chapters": 1,
+    "status": "FINISHED",
+    "year": 2026,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m49",
+  "title": "Real",
+  "ours": {
+   "totalVols": 16,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.5,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Real",
+    "maxVol": 16,
+    "count": 39,
+    "score": 1.0,
+    "all": [
+     "Real: max vol 16, 39 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 30657,
+    "title": "Real",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 1999,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m50",
+  "title": "Sekai no Owari no Hajimari ni",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 96223,
+    "title": "Sekai no Owari no Hajimari ni",
+    "volumes": 1,
+    "chapters": 4,
+    "status": "FINISHED",
+    "year": 2014,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m51",
+  "title": "Record of Ragnarok",
+  "ours": {
+   "totalVols": 25,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "VOLUMI_IT",
+    "Nostro 25; AnimeClick 'Record of Ragnarok' ultimo volume 26 (26 uscite)"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Record of Ragnarok",
+    "maxVol": 26,
+    "count": 26,
+    "score": 1.0,
+    "all": [
+     "Record of Ragnarok: max vol 26, 26 uscite",
+     "Record of Ragnarok Variant: max vol 1, 1 uscite",
+     "Record of Ragnarok - Limited Edition: max vol 15, 1 uscite",
+     "Record of Ragnarock 19 + Lo strano caso di Jack lo Squartatore 1 bundle: max vol 0, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 107098,
+    "title": "Shuumatsu no Valkyrie",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2017,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m52",
+  "title": "Spy x Family",
+  "ours": {
+   "totalVols": 16,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "VOLUMI_IT",
+    "Nostro 16; AnimeClick 'Spy X Family' ultimo volume 17 (31 uscite)"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Spy X Family",
+    "maxVol": 17,
+    "count": 31,
+    "score": 1.0,
+    "all": [
+     "Spy X Family Early Access: max vol 1, 1 uscite",
+     "Spy X Family: max vol 17, 31 uscite",
+     "Spy X Family Variant: max vol 3, 3 uscite",
+     "Spy X Family Christmas Variant: max vol 1, 1 uscite",
+     "The Best of Planet Manga – Steelbox Collection: Spy x Family: max vol 0, 1 uscite",
+     "Spy X Family Calendario 2024: max vol 0, 1 uscite",
+     "Spy X Family Calendario 2024 con variant: max vol 0, 1 uscite",
+     "Spy x Family Official Fanbook Eyes Only: max vol 0, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 108556,
+    "title": "SPY×FAMILY",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2019,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m53",
+  "title": "Sun-Ken Rock",
+  "ours": {
+   "totalVols": 25,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Sun Ken Rock",
+    "maxVol": 25,
+    "count": 25,
+    "score": 1.0,
+    "all": [
+     "The Art of Boichi: max vol 0, 1 uscite",
+     "Sun Ken Rock: max vol 25, 25 uscite",
+     "Sun Ken Rock - 10th Anniversary Celebration Variant: max vol 1, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 38848,
+    "title": "Sun-Ken Rock",
+    "volumes": 25,
+    "chapters": 181,
+    "status": "FINISHED",
+    "year": 2006,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m54",
+  "title": "Tegamibachi",
+  "ours": {
+   "totalVols": 20,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.2,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EDIZIONE?",
+    "Nessun gruppo AnimeClick coincide con 'Tegamibachi': Letter Bee: max vol 20, 22 uscite"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Letter Bee",
+    "maxVol": 20,
+    "count": 22,
+    "score": 0.29,
+    "all": [
+     "Letter Bee: max vol 20, 22 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 31709,
+    "title": "Tegami Bachi",
+    "volumes": 20,
+    "chapters": 100,
+    "status": "FINISHED",
+    "year": 2006,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m55",
+  "title": "The Horizon",
+  "ours": {
+   "totalVols": 3,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "Box",
+   "volType": "VOL",
+   "price": 15.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "FONTE_NON_RAGGIUNGIBILE",
+    "AniList non risponde"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "The Horizon Box",
+    "maxVol": 0,
+    "count": 1,
+    "score": 1.05,
+    "all": [
+     "The Horizon: max vol 3, 3 uscite",
+     "The Horizon Box: max vol 0, 1 uscite"
+    ]
+   }
+  }
+ },
+ {
+  "id": "m56",
+  "title": "The Promised Neverland",
+  "ours": {
+   "totalVols": 20,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "The Promised Neverland",
+    "maxVol": 20,
+    "count": 20,
+    "score": 1.0,
+    "all": [
+     "The Promised Neverland - Starter Pack: max vol 0, 1 uscite",
+     "The Promised Neverland: max vol 20, 20 uscite",
+     "The Promised Neverland Variant Popstore: max vol 1, 1 uscite",
+     "The Promised Neverland - Grace Field Collection Set: max vol 3, 3 uscite",
+     "The Promised Neverland Artbook: max vol 0, 1 uscite",
+     "The Promised Neverland Variant Feltrinelli: max vol 1, 1 uscite",
+     "The Promised Neverland Greatest Hits Cut Price: max vol 1, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 87423,
+    "title": "Yakusoku no Neverland",
+    "volumes": 20,
+    "chapters": 181,
+    "status": "FINISHED",
+    "year": 2016,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m57",
+  "title": "Dededemon Dededestruction",
+  "ours": {
+   "totalVols": 10,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "VOLUMI_IT",
+    "Nostro 10; AnimeClick 'Dead Dead Demon’s Dededededestruction' ultimo volume 12 (19 uscite)"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Dead Dead Demon’s Dededededestruction",
+    "maxVol": 12,
+    "count": 19,
+    "score": 0.82,
+    "all": [
+     "Dead Dead Demon’s Dededededestruction: max vol 12, 19 uscite"
+    ]
+   }
+  }
+ },
+ {
+  "id": "m58",
+  "title": "Beastars",
+  "ours": {
+   "totalVols": 22,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.5,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Beastars",
+    "maxVol": 22,
+    "count": 36,
+    "score": 1.0,
+    "all": [
+     "Beastars: max vol 22, 36 uscite",
+     "Beastars Variant: max vol 1, 1 uscite",
+     "Beastars Variant Lucca: max vol 1, 1 uscite",
+     "L'arta di Paru Itagaki: max vol 0, 1 uscite",
+     "Paru Itagaki Portfolio: max vol 0, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 98587,
+    "title": "BEASTARS",
+    "volumes": 22,
+    "chapters": 196,
+    "status": "FINISHED",
+    "year": 2016,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m59",
+  "title": "Gantz",
+  "ours": {
+   "totalVols": 37,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "New edition",
+   "volType": "VOL",
+   "price": 4.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EDIZIONE?",
+    "Nessun gruppo AnimeClick coincide con 'Gantz New edition': Gantz: max vol 37, 38 uscite; Gantz - Nuova Edizione: max vol 37, 42 uscite"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Gantz - Nuova Edizione",
+    "maxVol": 37,
+    "count": 42,
+    "score": 0.76,
+    "all": [
+     "Gantz: max vol 37, 38 uscite",
+     "Gantz - Nuova Edizione: max vol 37, 42 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 30564,
+    "title": "GANTZ",
+    "volumes": 37,
+    "chapters": 383,
+    "status": "FINISHED",
+    "year": 2000,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m60",
+  "title": "Claymore",
+  "ours": {
+   "totalVols": 27,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "New edition",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Claymore New Edition",
+    "maxVol": 27,
+    "count": 27,
+    "score": 1.05,
+    "all": [
+     "Claymore: max vol 27, 27 uscite",
+     "Claymore New Edition: max vol 27, 27 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 30583,
+    "title": "CLAYMORE",
+    "volumes": 27,
+    "chapters": 159,
+    "status": "FINISHED",
+    "year": 2001,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m61",
+  "title": "To Your Eternity",
+  "ours": {
+   "totalVols": 25,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 97830,
+    "title": "Fumetsu no Anata e",
+    "volumes": 25,
+    "chapters": 202,
+    "status": "FINISHED",
+    "year": 2016,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m62",
+  "title": "Hanako-kun",
+  "ours": {
+   "totalVols": 25,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EDIZIONE?",
+    "Nessun gruppo AnimeClick coincide con 'Hanako-kun': Hanako kun - I sette misteri dell'Accademia Kamome: max vol 26, 26 uscite; Hanako kun - Art Work: max vol 0, 1 uscite; Hanako kun - Art Work 2: max vol 0, 1 uscite; Hanako kun - I sette misteri dell'Accademia Kamome Greatest Hits Cut Price: max vol 1, 1 uscite"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Hanako kun - Art Work",
+    "maxVol": 0,
+    "count": 1,
+    "score": 0.69,
+    "all": [
+     "Hanako kun - I sette misteri dell'Accademia Kamome: max vol 26, 26 uscite",
+     "Hanako kun - Art Work: max vol 0, 1 uscite",
+     "Hanako kun - Art Work 2: max vol 0, 1 uscite",
+     "Hanako kun - I sette misteri dell'Accademia Kamome Greatest Hits Cut Price: max vol 1, 1 uscite"
+    ]
+   }
+  }
+ },
+ {
+  "id": "m63",
+  "title": "Hell's Paradise",
+  "ours": {
+   "totalVols": 13,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EDIZIONE?",
+    "Nessun gruppo AnimeClick coincide con 'Hell's Paradise': Hell's Paradise – Jigokuraku: max vol 13, 13 uscite"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Hell's Paradise – Jigokuraku",
+    "maxVol": 13,
+    "count": 13,
+    "score": 0.73,
+    "all": [
+     "Hell's Paradise – Jigokuraku: max vol 13, 13 uscite"
+    ]
+   }
+  }
+ },
+ {
+  "id": "m64",
+  "title": "Spice & Wolf",
+  "ours": {
+   "totalVols": 8,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "Double edition",
+   "volType": "VOL",
+   "price": 13.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Spice and Wolf - Double Edition",
+    "maxVol": 8,
+    "count": 8,
+    "score": 0.98,
+    "all": [
+     "Spice and Wolf: max vol 16, 17 uscite",
+     "Spice and Wolf - Double Edition: max vol 8, 8 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 39115,
+    "title": "Ookami to Koushinryou",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2006,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m65",
+  "title": "Komi-san",
+  "ours": {
+   "totalVols": 37,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EDIZIONE?",
+    "Nessun gruppo AnimeClick coincide con 'Komi-san': Komi Can't Communicate: max vol 37, 37 uscite; Komi Can't Communicate Variant Edition Games Academy: max vol 1, 1 uscite; Komi Can't Communicate - Graduation Variant: max vol 37, 1 uscite"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Komi Can't Communicate",
+    "maxVol": 37,
+    "count": 37,
+    "score": 0.47,
+    "all": [
+     "Komi Can't Communicate: max vol 37, 37 uscite",
+     "Komi Can't Communicate Variant Edition Games Academy: max vol 1, 1 uscite",
+     "Komi Can't Communicate - Graduation Variant: max vol 37, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 106899,
+    "title": "Nekomimi-san",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2018,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m66",
+  "title": "No Longer Human",
+  "ours": {
+   "totalVols": 1,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "Complete edition",
+   "volType": "VOL",
+   "price": 25.0,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EDIZIONE?",
+    "Nessun gruppo AnimeClick coincide con 'No Longer Human Complete edition': Lo squalificato: max vol 3, 3 uscite; Lo squalificato - Complete Edition: max vol 0, 1 uscite"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Lo squalificato - Complete Edition",
+    "maxVol": 0,
+    "count": 1,
+    "score": 0.64,
+    "all": [
+     "Lo squalificato: max vol 3, 3 uscite",
+     "Lo squalificato - Complete Edition: max vol 0, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 43290,
+    "title": "Ningen Shikkaku",
+    "volumes": 3,
+    "chapters": 12,
+    "status": "FINISHED",
+    "year": 2009,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m67",
+  "title": "Pandora Hearts",
+  "ours": {
+   "totalVols": 13,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "New edition",
+   "volType": "VOL",
+   "price": 12.9,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Pandora Hearts New Edition",
+    "maxVol": 13,
+    "count": 13,
+    "score": 1.05,
+    "all": [
+     "Pandora Hearts: max vol 24, 24 uscite",
+     "Pandora Hearts Official Guide 8.5 - Mine of Mine: max vol 0, 1 uscite",
+     "Pandora Hearts Official Guide 18.5 - Evidence: max vol 0, 1 uscite",
+     "Pandora Hearts Official Guide 24+1 - Last Dance: max vol 0, 1 uscite",
+     "Pandora Hearts New Edition: max vol 13, 13 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 33031,
+    "title": "Pandora Hearts",
+    "volumes": 24,
+    "chapters": 107,
+    "status": "FINISHED",
+    "year": 2006,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m68",
+  "title": "Rurouni Kenshin",
+  "ours": {
+   "totalVols": 22,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "Perfect edition",
+   "volType": "VOL",
+   "price": 9.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Rurouni Kenshin Perfect Edition",
+    "maxVol": 22,
+    "count": 22,
+    "score": 1.05,
+    "all": [
+     "Kenshin: max vol 28, 28 uscite",
+     "Rurouni Kenshin Perfect Edition: max vol 22, 22 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 30022,
+    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "volumes": 28,
+    "chapters": 259,
+    "status": "FINISHED",
+    "year": 1994,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m69",
+  "title": "Frieren",
+  "ours": {
+   "totalVols": 14,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "EDIZIONE?",
+    "Nessun gruppo AnimeClick coincide con 'Frieren': Frieren - Oltre la fine del viaggio Variant: max vol 1, 1 uscite; Frieren - Oltre la fine del viaggio - Official Fanbook: max vol 0, 1 uscite; Frieren - Oltre la fine del viaggio Variant Popstore: max vol 1, 1 uscite; Frieren - Oltre la fine del viaggio: max vol 15, 15 uscite"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Frieren - Oltre la fine del viaggio",
+    "maxVol": 15,
+    "count": 15,
+    "score": 0.38,
+    "all": [
+     "Frieren - Oltre la fine del viaggio Variant: max vol 1, 1 uscite",
+     "Frieren - Oltre la fine del viaggio - Official Fanbook: max vol 0, 1 uscite",
+     "Frieren - Oltre la fine del viaggio Variant Popstore: max vol 1, 1 uscite",
+     "Frieren - Oltre la fine del viaggio: max vol 15, 15 uscite",
+     "Frieren - Oltre la fine del viaggio - Edizione deluxe: max vol 15, 3 uscite",
+     "Frieren - Oltre la fine del viaggio - Art Works: max vol 1, 1 uscite"
+    ]
+   }
+  }
+ },
+ {
+  "id": "m70",
+  "title": "MPD Psycho",
+  "ours": {
+   "totalVols": 24,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.6,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "MPD Psycho",
+    "maxVol": 24,
+    "count": 39,
+    "score": 1.0,
+    "all": [
+     "MPD Psycho Pack: max vol 0, 1 uscite",
+     "MPD Psycho: max vol 24, 39 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 30740,
+    "title": "Tajuu Jinkaku Tantei Psycho",
+    "volumes": 24,
+    "chapters": 147,
+    "status": "FINISHED",
+    "year": 1996,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m71",
+  "title": "Grand Blue",
+  "ours": {
+   "totalVols": 3,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 6.5,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "VOLUMI_IT",
+    "Nostro 3; AnimeClick 'Grand Blue' ultimo volume 4 (7 uscite)"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Grand Blue",
+    "maxVol": 4,
+    "count": 7,
+    "score": 1.0,
+    "all": [
+     "Grand Blue Variant: max vol 1, 1 uscite",
+     "Grand Blue Variant Romics: max vol 1, 1 uscite",
+     "Grand Blue: max vol 4, 7 uscite",
+     "Grand Blue Variant Edition Cut Price: max vol 3, 3 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 87395,
+    "title": "Grand Blue",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2014,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m72",
+  "title": "Utsuro no Hako to Zero no Maria",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 85134,
+    "title": "Utsuro no Hako to Zero no Maria",
+    "volumes": 7,
+    "chapters": 254,
+    "status": "FINISHED",
+    "year": 2009,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m73",
+  "title": "Classroom of the Elite",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 94970,
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+    "volumes": 14,
+    "chapters": 110,
+    "status": "FINISHED",
+    "year": 2015,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m74",
+  "title": "Your Talent Is Mine",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 138366,
+    "title": "Wo Neng Fu Zhi Tian Fu",
+    "volumes": null,
+    "chapters": 106,
+    "status": "FINISHED",
+    "year": 2021,
+    "country": "CN"
+   }
+  }
+ },
+ {
+  "id": "m75",
+  "title": "The Beginning After the End",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "CAP",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {}
+ },
+ {
+  "id": "m76",
+  "title": "Leveling Up with the Gods",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {}
+ },
+ {
+  "id": "m77",
+  "title": "Poison Dragon",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {}
+ },
+ {
+  "id": "m78",
+  "title": "Return of the Crazy Demon",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 137304,
+    "title": "Gwangmahoegwi",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2021,
+    "country": "KR"
+   }
+  }
+ },
+ {
+  "id": "m79",
+  "title": "Return of the Unrivaled Spear Knight",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {}
+ },
+ {
+  "id": "m80",
+  "title": "Solo Max-Level Newbie",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 137280,
+    "title": "Na Honja Mallep Newbie",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2021,
+    "country": "KR"
+   }
+  }
+ },
+ {
+  "id": "m81",
+  "title": "A Returner's Magic Should Be Special",
+  "ours": {
+   "totalVols": 228,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "CAP",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 105393,
+    "title": "Gwihwanjaui Mabeobeun Teukbyeolhaeya Hamnida",
+    "volumes": null,
+    "chapters": 268,
+    "status": "FINISHED",
+    "year": 2018,
+    "country": "KR"
+   }
+  }
+ },
+ {
+  "id": "m82",
+  "title": "Great Mage Returns After 4000 Years",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 118424,
+    "title": "4000 Nyeon Mane Gwihwanhan Daemadosa",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2020,
+    "country": "KR"
+   }
+  }
+ },
+ {
+  "id": "m83",
+  "title": "Nano Machine",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 120980,
+    "title": "Nano Machine",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2020,
+    "country": "KR"
+   }
+  }
+ },
+ {
+  "id": "m84",
+  "title": "Legend of the Northern Blade",
+  "ours": {
+   "totalVols": 202,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "CAP",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 119521,
+    "title": "Bukgeom Jeongi",
+    "volumes": null,
+    "chapters": 202,
+    "status": "FINISHED",
+    "year": 2019,
+    "country": "KR"
+   }
+  }
+ },
+ {
+  "id": "m85",
+  "title": "Omniscient Reader's Viewpoint",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "animeclick": {
+    "matched": "Omniscient Reader's Viewpoint",
+    "maxVol": 8,
+    "count": 8,
+    "score": 1.0,
+    "all": [
+     "Omniscient Reader's Viewpoint: max vol 8, 8 uscite"
+    ]
+   }
+  }
+ },
+ {
+  "id": "m86",
+  "title": "Mercenary Enrollment",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {}
+ },
+ {
+  "id": "m87",
+  "title": "God Game",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 94831,
+    "title": "Kamisama Game",
+    "volumes": 8,
+    "chapters": 76,
+    "status": "FINISHED",
+    "year": 2005,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m88",
+  "title": "Her Summon",
+  "ours": {
+   "totalVols": 117,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "CAP",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 107720,
+    "title": "Geunyeoui Sohwansu",
+    "volumes": null,
+    "chapters": 62,
+    "status": "FINISHED",
+    "year": 2018,
+    "country": "KR"
+   }
+  }
+ },
+ {
+  "id": "m89",
+  "title": "Reverend Insanity",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 108050,
+    "title": "Gu Zhenren",
+    "volumes": null,
+    "chapters": 96,
+    "status": "CANCELLED",
+    "year": 2018,
+    "country": "CN"
+   }
+  }
+ },
+ {
+  "id": "m90",
+  "title": "Lord of Mysteries",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 188249,
+    "title": "Guimi Zhi Zhu",
+    "volumes": null,
+    "chapters": null,
+    "status": "RELEASING",
+    "year": 2025,
+    "country": "CN"
+   }
+  }
+ },
+ {
+  "id": "m91",
+  "title": "Age of Adepts",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {}
+ },
+ {
+  "id": "m92",
+  "title": "House of Horrors",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 152119,
+    "title": "Kaiki no Yakata",
+    "volumes": 1,
+    "chapters": 10,
+    "status": "FINISHED",
+    "year": 1997,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m93",
+  "title": "Warlock of the Magus World",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {}
+ },
+ {
+  "id": "m94",
+  "title": "Radiant",
+  "ours": {
+   "totalVols": 19,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 7.9,
+   "status": "to_watch"
+  },
+  "flags": [
+   [
+    "VOLUMI_IT",
+    "Nostro 19; AnimeClick 'Radiant' ultimo volume 20 (29 uscite)"
+   ]
+  ],
+  "src": {
+   "animeclick": {
+    "matched": "Radiant",
+    "maxVol": 20,
+    "count": 29,
+    "score": 1.0,
+    "all": [
+     "Radiant: max vol 20, 29 uscite",
+     "Radiant Variant: max vol 10, 2 uscite",
+     "L'arte di Radiant: max vol 0, 1 uscite"
+    ]
+   },
+   "anilist": {
+    "id": 137453,
+    "title": "Sanran",
+    "volumes": null,
+    "chapters": 1,
+    "status": "FINISHED",
+    "year": 2017,
+    "country": "JP"
+   }
+  }
+ },
+ {
+  "id": "m95",
+  "title": "Aqualung",
+  "ours": {
+   "totalVols": 5,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 18.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {}
+ },
+ {
+  "id": "m96",
+  "title": "Orfani",
+  "ours": {
+   "totalVols": 16,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.9,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {}
+ },
+ {
+  "id": "m97",
+  "title": "Qwest",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {}
+ },
+ {
+  "id": "m98",
+  "title": "Birth of the Demonic Sword",
+  "ours": {
+   "totalVols": null,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 0.0,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {}
+ },
+ {
+  "id": "m42",
+  "title": "Imawa no Kuni no Alice",
+  "ours": {
+   "totalVols": 18,
+   "volsOwned": 0,
+   "volsRead": 0,
+   "edition": "",
+   "volType": "VOL",
+   "price": 5.2,
+   "status": "to_watch"
+  },
+  "flags": [],
+  "src": {
+   "anilist": {
+    "id": 63031,
+    "title": "Imawa no Kuni no Alice",
+    "volumes": 18,
+    "chapters": 87,
+    "status": "FINISHED",
+    "year": 2010,
+    "country": "JP"
+   }
+  }
+ }
+]
