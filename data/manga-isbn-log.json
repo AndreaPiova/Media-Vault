@@ -827,22 +827,7 @@
  "m22": {
   "title": "Vinland Saga",
   "edition": "",
-  "done": [
-   [
-    5,
-    "amazon",
-    "9788864200873",
-    "Vinland Saga. Vol. 5",
-    640
-   ],
-   [
-    12,
-    "amazon",
-    "9788864205120",
-    "Vinland Saga. Vol. 12",
-    640
-   ]
-  ],
+  "done": [],
   "notfound": [
    [
     3,
@@ -863,11 +848,6 @@
     8,
     "9788864201337",
     "Vinland Saga. Vol. 8"
-   ],
-   [
-    9,
-    "9788864201481",
-    "Vinland Saga. Vol. 9"
    ],
    [
     10,
