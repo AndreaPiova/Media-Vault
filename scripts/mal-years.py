@@ -10,15 +10,25 @@ def j(url,**kw):
 def norm(s):
     s=unicodedata.normalize("NFD",(s or "").lower()); s="".join(c for c in s if not unicodedata.combining(c)); return re.sub(r"[^a-z0-9]+"," ",s).strip()
 inp=json.load(open("scripts/mal-years-input.json",encoding="utf-8")); out={"nf":[],"op":[]}
+Q="query($q:String){Page(perPage:6){media(search:$q,type:ANIME){id idMal format episodes startDate{year} title{romaji english}}}}"
+def al(q):
+    for i in range(5):
+        try:
+            r=S.post("https://graphql.anilist.co",json={"query":Q,"variables":{"q":q}},timeout=40)
+            if r.status_code==429: time.sleep(int(r.headers.get("Retry-After",20))); continue
+            return (r.json().get("data") or {}).get("Page",{}).get("media") or []
+        except Exception: time.sleep(3)
+    return []
 for x in inp["nf"]:
-    d=j("https://api.jikan.moe/v4/anime",params={"q":x["label"],"limit":8}) or {}; time.sleep(1.3)
-    n=norm(x["label"]); best=None
-    for a in d.get("data",[]):
-        names=[a.get("title"),a.get("title_english"),a.get("title_japanese")]+[t["title"] for t in a.get("titles",[])]
-        sc=(100 if any(norm(v)==n for v in names) else 40 if any(n in norm(v) or norm(v) in n for v in names if v) else 0)
-        if sc and (best is None or sc>best[0]): best=(sc,a)
-    a=best and best[1]
-    out["nf"].append({**x,"mal":a and {"id":a["mal_id"],"title":a["title"],"type":a.get("type"),"year":(a.get("aired") or {}).get("prop",{}).get("from",{}).get("year"),"eps":a.get("episodes")},"cands":[(c["mal_id"],c["title"],(c.get("aired") or {}).get("prop",{}).get("from",{}).get("year")) for c in (d.get("data") or [])[:3]]})
+    n=norm(x["label"]); variants=[x["label"],re.sub(r"^[^:]+:\s*","",x["label"]),x["label"].replace("Kimetsu no Yaiba: ","").replace("Kaguya-sama: Love is War - ","Kaguya-sama wa Kokurasetai ")]
+    cands=[];seen=set()
+    for v in variants:
+        for m in al(v):
+            if m["id"] in seen: continue
+            seen.add(m["id"]); cands.append({"id":m["idMal"],"title":m["title"]["romaji"],"en":m["title"]["english"],"fmt":m["format"],"year":m["startDate"]["year"],"eps":m["episodes"],"score":(100 if n in (norm(m["title"]["romaji"]),norm(m["title"]["english"])) else 0)})
+        time.sleep(0.8)
+    cands.sort(key=lambda c:-c["score"])
+    out["nf"].append({**x,"mal":cands[0] if cands else None,"cands":[(c["title"],c["year"],c["fmt"],c["eps"]) for c in cands[:4]]})
 # One Piece: data di messa in onda per episodio (TVMaze)
 sh=j("https://api.tvmaze.com/lookup/shows",params={"imdb":"tt0388629"}); eps=j("https://api.tvmaze.com/shows/%s/episodes"%sh["id"],params={"specials":0}) or []
 eps=sorted([e for e in eps if e.get("airdate")],key=lambda e:(e["season"],e["number"]))
