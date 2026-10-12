@@ -34,9 +34,10 @@ def best(e):
         if top and top[0].width>=700: break
     return top
 log={}
-for n in range(1,23):
+DONE={1,2,7,8,10,11,12,13,14,15,16,17,18,22}
+for n in [x for x in range(1,23) if x not in DONE]:
     cands=[]
-    for q in [f'I am a hero nuova edizione {n}',f'I am a hero - nuova edizione vol. {n}',f'I am a hero {n} panini planet manga nuova edizione']:
+    for q in [f'I am a hero. Nuova ediz.. Vol. {n}',f'I am a hero nuova ediz vol {n}',f'hero kengo hanazawa nuova ediz {n}',f'I am a hero nuova edizione {n}',f'I am a hero - nuova edizione vol. {n}',f'I am a hero {n} panini planet manga nuova edizione']:
         r=get('https://www.ibs.it/search/?ts=as&query='+up.quote_plus(q)); time.sleep(0.7)
         if not r: continue
         for e,nm in re.findall(r'"item_id":"(\d{13})","item_name":"([^"]+)"',r.text):
@@ -45,6 +46,12 @@ for n in range(1,23):
             m=re.search(r'(\d+)\s*$',t)
             if m and int(m.group(1))==n and 'variant' not in t and 'nuova' in t: cands.append((e,nm))
         if cands: break
+    if not cands:
+        for q in [f'9788834 I am a hero {n}',f'I am a hero {n}']:
+            r=get('https://www.ibs.it/search/?ts=as&query='+up.quote_plus(q)); time.sleep(0.7)
+            for e,nm in re.findall(r'"item_id":"(\d{13})","item_name":"([^"]+)"',r.text if r else ''):
+                t=norm(nm); m=re.search(r'(\d+)\s*$',t)
+                if 'hero' in t and 'nuova' in t and m and int(m.group(1))==n and 'variant' not in t: cands.append((e,nm))
     cands=list(dict.fromkeys(cands)); rec=dict(cands=cands)
     for e,nm in cands:
         top=best(e)
@@ -52,4 +59,4 @@ for n in range(1,23):
             im,src=top; im.thumbnail((640,960)); fn=f'covers/manga/manga_i_am_hero_vol{n}.jpg'
             im.save(fn,'JPEG',quality=88); rec.update(used=[e,nm,src,im.width]); break
     log[n]=rec; print(n,rec,flush=True)
-json.dump(log,open('data/iah-log.json','w'),ensure_ascii=False,indent=1)
+json.dump(log,open('data/iah-log2.json','w'),ensure_ascii=False,indent=1)
