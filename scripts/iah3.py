@@ -41,6 +41,7 @@ for q in ['I am a hero nuova ediz.','I am a hero nuova edizione','I am a hero Pa
     r=get('https://www.libraccio.it/src/?FT='+up.quote_plus(q)); time.sleep(1)
     if not r: continue
     t=r.text
+    if 'I am a hero nuova edizione'==q: open('data/iah-lib.html','w').write(t)
     pairs=re.findall(r'/libro/(97888\d{8})\.html[^>]*>\s*([^<]{3,140}?)\s*<',t)
     pairs+=re.findall(r'href="[^"]*?(97888\d{8})[^"]*"[^>]*title="([^"]{3,140})"',t)
     log.setdefault('ctx',{})[q]=[t[max(0,m.start()-150):m.end()+150].replace('\n',' ') for m in list(re.finditer(r'9788834907054',t))[:1]]
