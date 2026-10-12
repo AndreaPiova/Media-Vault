@@ -37,13 +37,11 @@ def best(e):
 log={}
 MISS=[3,4,5,6,9,19,20,21]
 found={}
-for q in ['I am a hero nuova ediz.','I am a hero nuova edizione','I am a hero Panini','I am a hero Hanazawa']+[f'I am a hero nuova ediz. {n}' for n in MISS]:
+for q in ['I am a hero nuova ediz.','I am a hero nuova edizione']+[f'I am a hero nuova ediz. vol. {n}' for n in MISS]+[f'I am a hero nuova ediz {n}' for n in MISS]+[f'kengo hanazawa i am a hero vol {n}' for n in MISS]:
     r=get('https://www.libraccio.it/src/?FT='+up.quote_plus(q)); time.sleep(1)
     if not r: continue
     t=r.text
-    if 'I am a hero nuova edizione'==q: open('data/iah-lib.html','w').write(t)
-    pairs=re.findall(r'/libro/(97888\d{8})\.html[^>]*>\s*([^<]{3,140}?)\s*<',t)
-    pairs+=re.findall(r'href="[^"]*?(97888\d{8})[^"]*"[^>]*title="([^"]{3,140})"',t)
+    pairs=[(e,re.sub(r'[-.]+',' ',sl)) for e,sl in re.findall(r'/libro/(97888\d{8})/[^/]+/([^"]+?)\.html',t)]
     log.setdefault('ctx',{})[q]=[t[max(0,m.start()-150):m.end()+150].replace('\n',' ') for m in list(re.finditer(r'9788834907054',t))[:1]]
     for e,nm in pairs:
         k=norm(nm)
