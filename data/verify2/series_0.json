@@ -3759,7 +3759,7 @@
    ],
    [
     "FOTO_CAST",
-    "Foto diversa da TMDB: ['Holt McCallany', 'Anna Torv']"
+    "Foto diversa da TMDB: ['Anna Torv']"
    ]
   ],
   "src": {
@@ -5354,12 +5354,7 @@
     "Eric Kripke"
    ]
   },
-  "flags": [
-   [
-    "CAST",
-    "Non nel cast TMDB: ['תומר קאפון']; TMDB top: ['Karl Urban', 'Jack Quaid', 'Antony Starr', 'Erin Moriarty', 'Laz Alonso', 'Chace Crawford', 'Karen Fukuhara', 'Nathan Mitchell']"
-   ]
-  ],
+  "flags": [],
   "src": {
    "tmdb": {
     "name": "The Boys",
@@ -6408,7 +6403,7 @@
     ],
     "imdb": "tt16288804"
    },
-   "poster_dist": 1,
+   "poster_dist": 2,
    "imdb": {
     "year": 2023,
     "end": 2023,
@@ -6555,7 +6550,7 @@
   "flags": [
    [
     "FOTO_CAST",
-    "Foto diversa da TMDB: ['Millie Bobby Brown', 'Caleb McLaughlin', 'Charlie Heaton']"
+    "Foto diversa da TMDB: ['Winona Ryder', 'Millie Bobby Brown', 'Caleb McLaughlin', 'Charlie Heaton']"
    ]
   ],
   "src": {
