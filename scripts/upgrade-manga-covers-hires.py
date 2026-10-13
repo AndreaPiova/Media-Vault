@@ -12,6 +12,7 @@ S = requests.Session(); S.headers.update(UA)
 ONLY = set(x.strip() for x in os.environ.get('ONLY', '').split(',') if x.strip())
 
 def slug(s):
+    s = s.replace('&', ' and ')
     s = unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode().lower()
     return re.sub(r'[^a-z0-9]+', '_', s).strip('_')
 def norm(s):
@@ -74,12 +75,11 @@ def fetch_img(ean):
     return im if im.width >= 250 and im.height >= 300 else None
 
 def load_items():
-    t = open('index.html', encoding='utf8').read(); i = t.index('const MANGA_RAW=['); blk = t[i:t.index('];', i)]
-    items = {}
-    for m in re.finditer(r'\["(m\d+)","((?:[^"\\]|\\.)*)","\w+",[^,]*,"[^"]*",(\d+|null),[^,]*,[^,]*,[^,]*,"([^"]*)","(\w+)"', blk):
-        mid, title, vols, ed, typ = m.groups()
-        if vols != 'null' and typ == 'VOL' and int(vols) > 0:
-            items[mid] = dict(id=mid, title=title.replace('\\"', '"').replace("\\'", "'"), vols=int(vols), ed=ed)
+    import json
+    d = json.load(open('data/v43.json', encoding='utf8')); items = {}
+    for r in d['MANGA_RAW']:
+        if r[10] == 'VOL' and r[5] and int(r[5]) > 0:
+            items[r[0]] = dict(id=r[0], title=r[1], vols=int(r[5]), ed=r[9] or '')
     return items
 
 def commit(msg):
