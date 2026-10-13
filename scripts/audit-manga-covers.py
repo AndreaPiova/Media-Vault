@@ -10,6 +10,7 @@ for it in sorted(items.values(),key=lambda x:x['title'].lower()):
     m=[];l=[]
     for n in range(1,it['vols']+1):
         fn=f'{OUT}/{base}_vol{n}.jpg'; tot+=1
+        if it['vols']==1 and not os.path.exists(fn) and os.path.exists(f'{OUT}/{base}.jpg'): fn=f'{OUT}/{base}.jpg'
         if not os.path.exists(fn): m.append(n); miss+=1
         elif Image.open(fn).width<400: l.append(n); low+=1
     rows.append(dict(id=it['id'],title=it['title'],edition=it['ed'],vols=it['vols'],missing=m,low=l))

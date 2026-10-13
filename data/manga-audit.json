@@ -36,11 +36,9 @@
  {
   "id": "m12",
   "title": "All You Need Is Kill",
-  "edition": "",
+  "edition": "Complete edition",
   "vols": 1,
-  "missing": [
-   1
-  ],
+  "missing": [],
   "low": []
  },
  {
@@ -107,7 +105,7 @@
   "id": "m6",
   "title": "Blue Lock",
   "edition": "",
-  "vols": 32,
+  "vols": 34,
   "missing": [],
   "low": []
  },
@@ -115,7 +113,7 @@
   "id": "m31",
   "title": "Blue Period",
   "edition": "",
-  "vols": 17,
+  "vols": 18,
   "missing": [],
   "low": []
  },
@@ -123,9 +121,11 @@
   "id": "m10",
   "title": "Chainsaw Man",
   "edition": "",
-  "vols": 22,
+  "vols": 23,
   "missing": [],
-  "low": []
+  "low": [
+   23
+  ]
  },
  {
   "id": "m60",
@@ -139,7 +139,7 @@
   "id": "m28",
   "title": "Dandadan",
   "edition": "",
-  "vols": 18,
+  "vols": 22,
   "missing": [],
   "low": []
  },
@@ -163,17 +163,9 @@
   "id": "m57",
   "title": "Dededemon Dededestruction",
   "edition": "",
-  "vols": 10,
+  "vols": 12,
   "missing": [],
-  "low": [
-   4,
-   5,
-   6,
-   7,
-   8,
-   9,
-   10
-  ]
+  "low": []
  },
  {
   "id": "m33",
@@ -203,8 +195,10 @@
   "id": "m69",
   "title": "Frieren",
   "edition": "",
-  "vols": 14,
-  "missing": [],
+  "vols": 15,
+  "missing": [
+   15
+  ],
   "low": []
  },
  {
@@ -213,9 +207,7 @@
   "edition": "Ultimate deluxe",
   "vols": 18,
   "missing": [],
-  "low": [
-   17
-  ]
+  "low": []
  },
  {
   "id": "m59",
@@ -224,43 +216,7 @@
   "vols": 37,
   "missing": [],
   "low": [
-   1,
-   2,
-   3,
-   4,
-   5,
-   6,
-   7,
-   8,
-   9,
-   10,
-   11,
-   12,
-   13,
-   14,
-   15,
-   16,
-   17,
-   18,
-   19,
-   20,
-   21,
-   22,
-   23,
-   24,
-   25,
-   26,
-   27,
-   28,
-   29,
-   30,
-   31,
-   32,
-   33,
-   34,
-   35,
-   36,
-   37
+   9
   ]
  },
  {
@@ -316,26 +272,6 @@
   "title": "I Am Hero",
   "edition": "",
   "vols": 22,
-  "missing": [],
-  "low": [
-   2,
-   6,
-   17
-  ]
- },
- {
-  "id": "m9",
-  "title": "Il prezzo di una vita",
-  "edition": "Box",
-  "vols": 3,
-  "missing": [],
-  "low": []
- },
- {
-  "id": "m42",
-  "title": "Imawa no Kuni no Alice",
-  "edition": "",
-  "vols": 18,
   "missing": [
    1,
    2,
@@ -354,7 +290,23 @@
    15,
    16,
    17,
-   18
+   18,
+   19,
+   20,
+   21,
+   22
+  ],
+  "low": []
+ },
+ {
+  "id": "m9",
+  "title": "Il prezzo di una vita",
+  "edition": "Box",
+  "vols": 3,
+  "missing": [
+   1,
+   2,
+   3
   ],
   "low": []
  },
@@ -394,7 +346,7 @@
   "id": "m47",
   "title": "Kingdom",
   "edition": "",
-  "vols": 74,
+  "vols": 76,
   "missing": [],
   "low": []
  },
@@ -436,9 +388,7 @@
   "edition": "Deluxe edition",
   "vols": 9,
   "missing": [],
-  "low": [
-   1
-  ]
+  "low": []
  },
  {
   "id": "m70",
@@ -488,9 +438,12 @@
   "id": "m15",
   "title": "One Piece",
   "edition": "New edition",
-  "vols": 109,
+  "vols": 111,
   "missing": [],
-  "low": []
+  "low": [
+   110,
+   111
+  ]
  },
  {
   "id": "m16",
@@ -498,9 +451,7 @@
   "edition": "",
   "vols": 35,
   "missing": [],
-  "low": [
-   30
-  ]
+  "low": []
  },
  {
   "id": "m96",
@@ -536,9 +487,7 @@
   "title": "Planetes",
   "edition": "Complete edition",
   "vols": 1,
-  "missing": [
-   1
-  ],
+  "missing": [],
   "low": []
  },
  {
@@ -555,27 +504,13 @@
   "edition": "",
   "vols": 16,
   "missing": [],
-  "low": [
-   3,
-   5,
-   6,
-   7,
-   8,
-   9,
-   10,
-   11,
-   12,
-   13,
-   14,
-   15,
-   16
-  ]
+  "low": []
  },
  {
   "id": "m51",
   "title": "Record of Ragnarok",
   "edition": "",
-  "vols": 25,
+  "vols": 26,
   "missing": [],
   "low": []
  },
@@ -615,7 +550,7 @@
   "id": "m2",
   "title": "Solo Leveling",
   "edition": "",
-  "vols": 27,
+  "vols": 28,
   "missing": [],
   "low": []
  },
@@ -625,9 +560,7 @@
   "edition": "Double edition",
   "vols": 8,
   "missing": [],
-  "low": [
-   1
-  ]
+  "low": []
  },
  {
   "id": "m52",
@@ -688,19 +621,7 @@
   "edition": "",
   "vols": 11,
   "missing": [],
-  "low": [
-   1,
-   2,
-   3,
-   4,
-   5,
-   6,
-   7,
-   8,
-   9,
-   10,
-   11
-  ]
+  "low": []
  },
  {
   "id": "m56",
@@ -732,13 +653,6 @@
   "edition": "",
   "vols": 29,
   "missing": [],
-  "low": [
-   3,
-   4,
-   7,
-   8,
-   10,
-   11
-  ]
+  "low": []
  }
 ]
