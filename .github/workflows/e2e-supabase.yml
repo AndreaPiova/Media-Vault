@@ -1,0 +1,26 @@
+name: E2E Supabase (sola lettura)
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+      - run: pip install cryptography
+      - run: python scripts/e2e.py
+        env:
+          SB_VAULT_KEY: ${{ secrets.SB_VAULT_KEY }}
+      - run: npm install jsdom
+      - run: node scripts/e2e.js
+      - run: |
+          git config user.name "mediavault-bot"; git config user.email "bot@users.noreply.github.com"
+          git rm -q --ignore-unmatch scripts/app.enc
+          git add e2e.json
+          git commit -m "E2E Supabase (file cifrato rimosso)" || echo nothing
+          git pull --rebase -X theirs || true
+          git push
