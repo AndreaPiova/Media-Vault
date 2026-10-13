@@ -20,9 +20,7 @@
   "title": "Alice in Borderland",
   "edition": "",
   "vols": 10,
-  "missing": [
-   10
-  ],
+  "missing": [],
   "low": []
  },
  {
@@ -39,16 +37,6 @@
   "edition": "Complete edition",
   "vols": 1,
   "missing": [],
-  "low": []
- },
- {
-  "id": "m95",
-  "title": "Aqualung",
-  "edition": "",
-  "vols": 5,
-  "missing": [
-   5
-  ],
   "low": []
  },
  {
@@ -89,9 +77,7 @@
   "edition": "Master edition",
   "vols": 6,
   "missing": [],
-  "low": [
-   6
-  ]
+  "low": []
  },
  {
   "id": "m32",
@@ -123,9 +109,7 @@
   "edition": "",
   "vols": 23,
   "missing": [],
-  "low": [
-   23
-  ]
+  "low": []
  },
  {
   "id": "m60",
@@ -196,9 +180,7 @@
   "title": "Frieren",
   "edition": "",
   "vols": 15,
-  "missing": [
-   15
-  ],
+  "missing": [],
   "low": []
  },
  {
@@ -215,9 +197,7 @@
   "edition": "New edition",
   "vols": 37,
   "missing": [],
-  "low": [
-   9
-  ]
+  "low": []
  },
  {
   "id": "m71",
@@ -454,19 +434,6 @@
   "low": []
  },
  {
-  "id": "m96",
-  "title": "Orfani",
-  "edition": "",
-  "vols": 16,
-  "missing": [
-   13,
-   14,
-   15,
-   16
-  ],
-  "low": []
- },
- {
   "id": "m39",
   "title": "Oyasumi Punpun",
   "edition": "New edition",
@@ -585,7 +552,6 @@
   "vols": 20,
   "missing": [],
   "low": [
-   1,
    2,
    3,
    4,
@@ -593,18 +559,13 @@
    6,
    7,
    8,
-   9,
    10,
    11,
    12,
    13,
    14,
    15,
-   16,
-   17,
-   18,
-   19,
-   20
+   19
   ]
  },
  {
