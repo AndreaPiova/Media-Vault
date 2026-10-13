@@ -5,6 +5,10 @@ import importlib.util
 sp=importlib.util.spec_from_file_location('h','scripts/upgrade-manga-covers-hires.py'); h=importlib.util.module_from_spec(sp); sp.loader.exec_module(h)
 items=h.load_items(); OUT='covers/manga'
 rows=[];tot=0;miss=0;low=0
+import json as _j
+_d=_j.load(open('data/v43.json')); LIBRI={h.slug(r[1]) for r in _d['LIBRI_RAW']}
+ACCEPT={('Chainsaw Man',23)}
+items={k:v for k,v in items.items() if h.slug(v['title']) not in LIBRI}
 for it in sorted(items.values(),key=lambda x:x['title'].lower()):
     base='manga_'+h.slug(it['title'])+('_'+h.slug(it['ed']) if it['ed'] else '')
     m=[];l=[]
@@ -12,7 +16,7 @@ for it in sorted(items.values(),key=lambda x:x['title'].lower()):
         fn=f'{OUT}/{base}_vol{n}.jpg'; tot+=1
         if it['vols']==1 and not os.path.exists(fn) and os.path.exists(f'{OUT}/{base}.jpg'): fn=f'{OUT}/{base}.jpg'
         if not os.path.exists(fn): m.append(n); miss+=1
-        elif Image.open(fn).width<400: l.append(n); low+=1
+        elif Image.open(fn).width<400 and (it['title'],n) not in ACCEPT: l.append(n); low+=1
     rows.append(dict(id=it['id'],title=it['title'],edition=it['ed'],vols=it['vols'],missing=m,low=l))
 json.dump(rows,open('data/manga-audit.json','w'),ensure_ascii=False,indent=1)
 def rng(a):
