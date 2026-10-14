@@ -7,20 +7,14 @@ def g(u):
     try: return S.get(u,timeout=30)
     except Exception: return None
 urls={}
-for su in ('https://www.starcomics.com/sitemap.xml','https://www.starcomics.com/sitemap_fumetti.xml'):
-    r=g(su)
-    if r and r.status_code==200:
-        subs=re.findall(r'<loc>([^<]+)</loc>',r.text)
-        for s in subs:
-            if s.endswith('.xml'):
-                rr=g(s)
-                if rr and rr.status_code==200: subs2=re.findall(r'<loc>([^<]+)</loc>',rr.text)
-                else: subs2=[]
-            else: subs2=[s]
-            for u in subs2:
-                m=re.search(r'/fumetto/(?:greatest-\d+-)?one-piece-new-edition-(\d+)/?$',u)
-                if m: urls.setdefault(int(m.group(1)),u)
-print('sitemap found',len(urls),flush=True)
+for pg in range(1,15):
+    r=g('https://www.starcomics.com/autori-fumetti/eiichiro-oda'+(f'?pagina={pg}' if pg>1 else ''))
+    if not r or r.status_code!=200: print('page',pg,'fail'); continue
+    for m in re.finditer(r'href="((?:https://www\.starcomics\.com)?/fumetto/[^"]*one-piece-new-edition-(\d+))"',r.text):
+        u=m.group(1); u=u if u.startswith('http') else 'https://www.starcomics.com'+u
+        urls.setdefault(int(m.group(2)),u)
+    time.sleep(0.5)
+print('found',len(urls),sorted(urls),flush=True)
 log={}
 for n in range(1,112):
     cands=[urls[n]] if n in urls else []
