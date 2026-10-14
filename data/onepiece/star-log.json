@@ -1,452 +1,546 @@
 {
  "1": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-1-1200px",
-  [
-   1200,
-   1827
-  ]
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-1",
+  null
  ],
  "2": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-2-1200px",
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-2",
+  null
+ ],
+ "3": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-3",
+  null
+ ],
+ "4": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-4",
+  null
+ ],
+ "5": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-5",
+  null
+ ],
+ "6": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-6",
+  null
+ ],
+ "7": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-7",
+  null
+ ],
+ "8": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-8",
+  null
+ ],
+ "9": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-9",
+  null
+ ],
+ "10": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-10",
+  null
+ ],
+ "11": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-11",
+  null
+ ],
+ "12": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-12",
+  null
+ ],
+ "13": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-13",
+  null
+ ],
+ "14": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-14",
+  null
+ ],
+ "15": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-15",
+  null
+ ],
+ "16": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-16",
+  null
+ ],
+ "17": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-17",
+  null
+ ],
+ "18": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-18",
+  null
+ ],
+ "19": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-19",
+  null
+ ],
+ "20": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-20",
+  null
+ ],
+ "21": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-21",
+  null
+ ],
+ "22": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-22",
+  null
+ ],
+ "23": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-23",
+  null
+ ],
+ "24": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-24",
+  null
+ ],
+ "25": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-25",
+  null
+ ],
+ "26": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-26",
+  null
+ ],
+ "27": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-27",
+  null
+ ],
+ "28": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-28",
+  null
+ ],
+ "29": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-29",
+  null
+ ],
+ "30": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-30",
+  null
+ ],
+ "31": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-31",
+  null
+ ],
+ "32": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-32",
+  null
+ ],
+ "33": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-33",
+  null
+ ],
+ "34": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-34",
+  null
+ ],
+ "35": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-35",
+  null
+ ],
+ "36": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-36",
+  null
+ ],
+ "37": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-37",
+  null
+ ],
+ "38": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-38",
+  null
+ ],
+ "39": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-39",
+  null
+ ],
+ "40": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-40",
+  null
+ ],
+ "41": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-41",
+  null
+ ],
+ "42": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-42",
+  null
+ ],
+ "43": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-43",
+  null
+ ],
+ "44": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-44",
+  null
+ ],
+ "45": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-45",
+  null
+ ],
+ "46": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-46",
+  null
+ ],
+ "47": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-47",
+  null
+ ],
+ "48": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-48",
+  null
+ ],
+ "49": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-49",
+  null
+ ],
+ "50": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-50",
+  null
+ ],
+ "51": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-51",
+  null
+ ],
+ "52": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-52",
+  null
+ ],
+ "53": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-53",
+  null
+ ],
+ "54": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-54",
+  null
+ ],
+ "55": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-55",
+  null
+ ],
+ "56": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-56",
+  null
+ ],
+ "57": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-57",
+  null
+ ],
+ "58": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-58",
+  null
+ ],
+ "59": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-59",
+  null
+ ],
+ "60": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-60",
+  null
+ ],
+ "61": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-61",
+  null
+ ],
+ "62": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-62",
+  null
+ ],
+ "63": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-63",
+  null
+ ],
+ "64": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-64",
+  null
+ ],
+ "65": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-65",
+  null
+ ],
+ "66": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-66",
+  null
+ ],
+ "67": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-67",
+  null
+ ],
+ "68": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-68",
+  null
+ ],
+ "69": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-69",
+  null
+ ],
+ "70": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-70",
+  null
+ ],
+ "71": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-71",
+  null
+ ],
+ "72": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-72",
+  null
+ ],
+ "73": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-73",
+  null
+ ],
+ "74": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-74",
+  null
+ ],
+ "75": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-75",
+  null
+ ],
+ "76": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-76",
+  null
+ ],
+ "77": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-77",
+  null
+ ],
+ "78": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-78",
+  null
+ ],
+ "79": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-79",
+  null
+ ],
+ "80": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-80",
+  null
+ ],
+ "81": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-81",
+  null
+ ],
+ "82": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-82",
+  null
+ ],
+ "83": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-83",
+  null
+ ],
+ "84": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-84",
+  null
+ ],
+ "85": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-85",
+  null
+ ],
+ "86": [
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-86",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-ne86-1200px",
   [
    1200,
    1827
   ]
  ],
- "3": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-3",
-  404
- ],
- "4": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-4",
-  404
- ],
- "5": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-5",
-  404
- ],
- "6": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-6",
-  404
- ],
- "7": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-7",
-  404
- ],
- "8": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-8",
-  404
- ],
- "9": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-9",
-  404
- ],
- "10": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-10",
-  404
- ],
- "11": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-11",
-  404
- ],
- "12": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-12",
-  404
- ],
- "13": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-13",
-  404
- ],
- "14": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-14",
-  404
- ],
- "15": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-15",
-  404
- ],
- "16": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-16",
-  404
- ],
- "17": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-17",
-  404
- ],
- "18": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-18",
-  404
- ],
- "19": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-19",
-  404
- ],
- "20": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-20",
-  404
- ],
- "21": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-21",
-  404
- ],
- "22": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-22",
-  404
- ],
- "23": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-23",
-  404
- ],
- "24": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-24",
-  404
- ],
- "25": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-25",
-  404
- ],
- "26": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-26",
-  404
- ],
- "27": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-27",
-  404
- ],
- "28": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-28",
-  404
- ],
- "29": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-29",
-  404
- ],
- "30": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-30",
-  404
- ],
- "31": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-31",
-  404
- ],
- "32": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-32",
-  404
- ],
- "33": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-33",
-  404
- ],
- "34": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-34",
-  404
- ],
- "35": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-35",
-  404
- ],
- "36": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-36",
-  404
- ],
- "37": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-37",
-  404
- ],
- "38": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-38",
-  404
- ],
- "39": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-39",
-  404
- ],
- "40": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-40",
-  404
- ],
- "41": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-41",
-  404
- ],
- "42": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-42",
-  404
- ],
- "43": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-43",
-  404
- ],
- "44": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-44",
-  404
- ],
- "45": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-45",
-  404
- ],
- "46": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-46",
-  404
- ],
- "47": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-47",
-  404
- ],
- "48": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-48",
-  404
- ],
- "49": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-49",
-  404
- ],
- "50": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-50",
-  404
- ],
- "51": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-51",
-  404
- ],
- "52": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-52",
-  404
- ],
- "53": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-53",
-  404
- ],
- "54": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-54",
-  404
- ],
- "55": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-55",
-  404
- ],
- "56": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-56",
-  404
- ],
- "57": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-57",
-  404
- ],
- "58": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-58",
-  404
- ],
- "59": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-59",
-  404
- ],
- "60": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-60",
-  404
- ],
- "61": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-61",
-  404
- ],
- "62": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-62",
-  404
- ],
- "63": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-63",
-  404
- ],
- "64": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-64",
-  404
- ],
- "65": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-65",
-  404
- ],
- "66": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-66",
-  404
- ],
- "67": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-67",
-  404
- ],
- "68": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-68",
-  404
- ],
- "69": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-69",
-  404
- ],
- "70": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-70",
-  404
- ],
- "71": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-71",
-  404
- ],
- "72": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-72",
-  404
- ],
- "73": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-73",
-  404
- ],
- "74": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-74",
-  404
- ],
- "75": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-75",
-  404
- ],
- "76": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-76",
-  404
- ],
- "77": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-77",
-  404
- ],
- "78": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-78",
-  404
- ],
- "79": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-79",
-  404
- ],
- "80": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-80",
-  404
- ],
- "81": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-81",
-  404
- ],
- "82": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-82",
-  404
- ],
- "83": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-83",
-  404
- ],
- "84": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-84",
-  404
- ],
- "85": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-85",
-  404
- ],
- "86": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-86",
-  404
- ],
  "87": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-87",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-87",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-ne87-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "88": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-88",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-88",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-ne88-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "89": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-89",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-89",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-ne89-1200px",
+  [
+   1200,
+   1826
+  ]
  ],
  "90": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-90",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-90",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-ne90-1200px",
+  [
+   1200,
+   1826
+  ]
  ],
  "91": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-91",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-91",
+  null
  ],
  "92": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-92",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-92",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-ne92-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "93": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-93",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-93",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-newedition-93-1200px",
+  [
+   1200,
+   1825
+  ]
  ],
  "94": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-94",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-94",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-ne-94-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "95": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-95",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-95",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-ne-95-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "96": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-96",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-96",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-newedition-96-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "97": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-97",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-97",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-ne-97-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "98": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-98",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-98",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-ne-98-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "99": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-99",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-99",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-ne-99-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "100": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-100",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-100",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-ne-100-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "101": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-101",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-101",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-101-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "102": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-102",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-102",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-newedition-102-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "103": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-103",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-103",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-ne-103-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "104": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-104",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-104",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-ne-104-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "105": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-105",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-105",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-newedition-105-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "106": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-106",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-106",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-newedition-106-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "107": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-107",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-107",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-newedition-107-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "108": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-108",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-108",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-newedition-108-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "109": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-109",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-109",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-newedition-109-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "110": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-110",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-110",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-newedition-110-1200px",
+  [
+   1200,
+   1827
+  ]
  ],
  "111": [
-  "https://www.starcomics.com/files/immagini/fumetti-cover/one-piece-new-edition-111",
-  404
+  "https://www.starcomics.com/fumetto/one-piece-new-edition-111",
+  "https://www.starcomics.com/files/immagini/fumetti-cover/onepiece-newedition-1200px",
+  [
+   1200,
+   1827
+  ]
  ]
 }
