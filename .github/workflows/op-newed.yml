@@ -1,0 +1,21 @@
+name: One Piece new edition covers
+on:
+  push:
+    paths: ['scripts/op-newed.trigger']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: manga-publisher }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests pillow
+      - run: |
+          git config user.name "mediavault-bot"
+          git config user.email "bot@users.noreply.github.com"
+      - run: python scripts/op-newed.py
