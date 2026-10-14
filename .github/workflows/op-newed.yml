@@ -1,7 +1,7 @@
 name: One Piece new edition covers
 on:
   push:
-    paths: ['scripts/op-star.trigger']
+    paths: ['scripts/op-alt.trigger']
   workflow_dispatch:
 permissions:
   contents: write
@@ -18,4 +18,4 @@ jobs:
       - run: |
           git config user.name "mediavault-bot"
           git config user.email "bot@users.noreply.github.com"
-      - run: python scripts/op-star.py
+      - run: python scripts/op-alt.py
