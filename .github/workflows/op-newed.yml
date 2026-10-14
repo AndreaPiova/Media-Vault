@@ -1,7 +1,7 @@
 name: One Piece new edition covers
 on:
   push:
-    paths: ['scripts/lowfix.trigger']
+    paths: ['scripts/lowfix2.trigger']
   workflow_dispatch:
 permissions:
   contents: write
@@ -18,4 +18,4 @@ jobs:
       - run: |
           git config user.name "mediavault-bot"
           git config user.email "bot@users.noreply.github.com"
-      - run: python scripts/lowfix.py
+      - run: python scripts/lowfix2.py
