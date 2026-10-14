@@ -1,0 +1,31 @@
+{
+ "preflight_con_x-vault-key": {
+  "status": 200,
+  "allow_origin": "*",
+  "allow_headers": "apikey,authorization,content-type,x-vault-key",
+  "allow_methods": "GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS,TRACE,CONNECT"
+ },
+ "preflight_con_x-client-info": {
+  "status": 200,
+  "allow_origin": "*",
+  "allow_headers": "apikey,authorization,content-type,x-client-info",
+  "allow_methods": "GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS,TRACE,CONNECT"
+ },
+ "preflight_PATCH_prefer": {
+  "status": 200,
+  "allow_origin": "*",
+  "allow_headers": "apikey,authorization,content-type,prefer,x-vault-key",
+  "allow_methods": "GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS,TRACE,CONNECT"
+ },
+ "preflight_solo_standard": {
+  "status": 200,
+  "allow_origin": "*",
+  "allow_headers": "apikey,authorization,content-type",
+  "allow_methods": "GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS,TRACE,CONNECT"
+ },
+ "GET_con_origin": {
+  "status": 200,
+  "allow_origin": "null",
+  "body": "[{\"id\":\"a1\"}]"
+ }
+}
