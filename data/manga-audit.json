@@ -375,7 +375,8 @@
   "title": "MPD Psycho",
   "edition": "",
   "vols": 24,
-  "missing": [
+  "missing": [],
+  "low": [
    12,
    13,
    14,
@@ -389,8 +390,7 @@
    22,
    23,
    24
-  ],
-  "low": []
+  ]
  },
  {
   "id": "m48",
@@ -420,10 +420,7 @@
   "edition": "New edition",
   "vols": 111,
   "missing": [],
-  "low": [
-   110,
-   111
-  ]
+  "low": []
  },
  {
   "id": "m16",
