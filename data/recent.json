@@ -1,0 +1,464 @@
+{
+ "status": 200,
+ "secondi": 1.27,
+ "righe": [
+  {
+   "id": "f406",
+   "cat": "films",
+   "rev": 2,
+   "deleted": false,
+   "device": "dev-94726r",
+   "updated_at": "2026-10-15T21:30:33.528452+00:00",
+   "campi": [
+    "id",
+    "notes",
+    "rating",
+    "status"
+   ],
+   "voto": 6.8
+  },
+  {
+   "id": "f331",
+   "cat": "films",
+   "rev": 2,
+   "deleted": false,
+   "device": "dev-94726r",
+   "updated_at": "2026-10-15T21:29:33.951595+00:00",
+   "campi": [
+    "id",
+    "notes",
+    "rating",
+    "status"
+   ],
+   "voto": 7.2
+  },
+  {
+   "id": "a90",
+   "cat": "anime",
+   "rev": 2,
+   "deleted": false,
+   "device": "dev-94726r",
+   "updated_at": "2026-10-14T08:38:18.0811+00:00",
+   "campi": [
+    "epsWatched",
+    "id",
+    "notes",
+    "rating",
+    "status"
+   ],
+   "voto": 6.3
+  },
+  {
+   "id": "a7",
+   "cat": "anime",
+   "rev": 2,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-13T05:19:13.356745+00:00",
+   "campi": [
+    "epsWatched",
+    "id",
+    "rating",
+    "status"
+   ],
+   "voto": 9.2
+  },
+  {
+   "id": "a67",
+   "cat": "anime",
+   "rev": 2,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-13T05:19:12.876015+00:00",
+   "campi": [
+    "epsWatched",
+    "id",
+    "rating",
+    "status"
+   ],
+   "voto": 4.3
+  },
+  {
+   "id": "a6",
+   "cat": "anime",
+   "rev": 2,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-13T05:19:12.393955+00:00",
+   "campi": [
+    "epsWatched",
+    "id",
+    "rating",
+    "status"
+   ],
+   "voto": 9.3
+  },
+  {
+   "id": "a46",
+   "cat": "anime",
+   "rev": 2,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-13T05:19:11.986614+00:00",
+   "campi": [
+    "epsWatched",
+    "id",
+    "rating",
+    "status"
+   ],
+   "voto": 7.3
+  },
+  {
+   "id": "a42",
+   "cat": "anime",
+   "rev": 2,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-13T05:19:11.550415+00:00",
+   "campi": [
+    "epsWatched",
+    "id",
+    "rating",
+    "status"
+   ],
+   "voto": 7.4
+  },
+  {
+   "id": "a41",
+   "cat": "anime",
+   "rev": 2,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-13T05:19:11.107302+00:00",
+   "campi": [
+    "epsWatched",
+    "id",
+    "rating",
+    "status"
+   ],
+   "voto": 7.5
+  },
+  {
+   "id": "a35",
+   "cat": "anime",
+   "rev": 2,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-13T05:19:10.676516+00:00",
+   "campi": [
+    "epsWatched",
+    "id",
+    "rating",
+    "status"
+   ],
+   "voto": 7.8
+  },
+  {
+   "id": "a30",
+   "cat": "anime",
+   "rev": 2,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-13T05:19:10.220553+00:00",
+   "campi": [
+    "epsWatched",
+    "id",
+    "rating",
+    "status"
+   ],
+   "voto": 8
+  },
+  {
+   "id": "a28",
+   "cat": "anime",
+   "rev": 2,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-13T05:19:09.828964+00:00",
+   "campi": [
+    "epsWatched",
+    "id",
+    "rating",
+    "status"
+   ],
+   "voto": 8.1
+  },
+  {
+   "id": "a24",
+   "cat": "anime",
+   "rev": 2,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-13T05:19:09.421188+00:00",
+   "campi": [
+    "epsWatched",
+    "id",
+    "rating",
+    "status"
+   ],
+   "voto": 8.2
+  },
+  {
+   "id": "a23",
+   "cat": "anime",
+   "rev": 2,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-13T05:19:08.957752+00:00",
+   "campi": [
+    "epsWatched",
+    "id",
+    "rating",
+    "status"
+   ],
+   "voto": 8.2
+  },
+  {
+   "id": "a2",
+   "cat": "anime",
+   "rev": 2,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-13T05:19:08.567875+00:00",
+   "campi": [
+    "epsWatched",
+    "id",
+    "rating",
+    "status"
+   ],
+   "voto": 10
+  },
+  {
+   "id": "s6",
+   "cat": "series",
+   "rev": 3,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-13T05:19:08.117304+00:00",
+   "campi": [
+    "epsWatched",
+    "genres",
+    "id",
+    "rating",
+    "status",
+    "trama",
+    "yearEnd"
+   ],
+   "voto": 9.2
+  },
+  {
+   "id": "s4",
+   "cat": "series",
+   "rev": 3,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-13T05:19:07.705244+00:00",
+   "campi": [
+    "epsWatched",
+    "genres",
+    "id",
+    "rating",
+    "status",
+    "trama",
+    "yearEnd"
+   ],
+   "voto": 9.5
+  },
+  {
+   "id": "s3",
+   "cat": "series",
+   "rev": 3,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-13T05:19:07.265484+00:00",
+   "campi": [
+    "epsWatched",
+    "genres",
+    "id",
+    "rating",
+    "status",
+    "trama",
+    "yearEnd"
+   ],
+   "voto": 9
+  },
+  {
+   "id": "s20",
+   "cat": "series",
+   "rev": 3,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-13T05:19:06.797869+00:00",
+   "campi": [
+    "epsWatched",
+    "genres",
+    "id",
+    "rating",
+    "status",
+    "trama",
+    "yearEnd"
+   ],
+   "voto": 7
+  },
+  {
+   "id": "s10",
+   "cat": "series",
+   "rev": 3,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-13T05:19:06.070215+00:00",
+   "campi": [
+    "epsWatched",
+    "genres",
+    "id",
+    "rating",
+    "status",
+    "trama",
+    "yearEnd"
+   ],
+   "voto": 8.3
+  },
+  {
+   "id": "s113",
+   "cat": "series",
+   "rev": 3,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-11T10:16:36.494558+00:00",
+   "campi": [
+    "epsWatched",
+    "genres",
+    "id",
+    "status",
+    "trama",
+    "yearEnd"
+   ],
+   "voto": null
+  },
+  {
+   "id": "s111",
+   "cat": "series",
+   "rev": 3,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-10T18:51:29.646884+00:00",
+   "campi": [
+    "epsWatched",
+    "genres",
+    "id",
+    "status",
+    "trama",
+    "yearEnd"
+   ],
+   "voto": null
+  },
+  {
+   "id": "s109",
+   "cat": "series",
+   "rev": 3,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-10T18:51:28.84689+00:00",
+   "campi": [
+    "epsWatched",
+    "genres",
+    "id",
+    "status",
+    "trama",
+    "yearEnd"
+   ],
+   "voto": null
+  },
+  {
+   "id": "s93",
+   "cat": "series",
+   "rev": 3,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-10T18:51:28.013566+00:00",
+   "campi": [
+    "epsWatched",
+    "genres",
+    "id",
+    "status",
+    "trama",
+    "yearEnd"
+   ],
+   "voto": null
+  },
+  {
+   "id": "mv90",
+   "cat": "manga_variant",
+   "rev": 2,
+   "deleted": false,
+   "device": "patch",
+   "updated_at": "2026-10-10T08:13:56.743808+00:00",
+   "campi": [
+    "circulation",
+    "id",
+    "publisher",
+    "qty",
+    "value",
+    "vstatus",
+    "year"
+   ],
+   "voto": null
+  }
+ ],
+ "download_1000_righe": {
+  "status": 200,
+  "secondi": 0.49,
+  "kb": 274
+ },
+ "attive": "0-0/1076",
+ "storico": [
+  {
+   "id": "f406",
+   "action": "UPDATE",
+   "rev": 1,
+   "changed_at": "2026-10-15T21:30:33.528452+00:00"
+  },
+  {
+   "id": "f331",
+   "action": "UPDATE",
+   "rev": 1,
+   "changed_at": "2026-10-15T21:29:33.951595+00:00"
+  },
+  {
+   "id": "a90",
+   "action": "UPDATE",
+   "rev": 1,
+   "changed_at": "2026-10-14T08:38:18.0811+00:00"
+  },
+  {
+   "id": "a7",
+   "action": "UPDATE",
+   "rev": 1,
+   "changed_at": "2026-10-13T05:19:13.356745+00:00"
+  },
+  {
+   "id": "a67",
+   "action": "UPDATE",
+   "rev": 1,
+   "changed_at": "2026-10-13T05:19:12.876015+00:00"
+  },
+  {
+   "id": "a6",
+   "action": "UPDATE",
+   "rev": 1,
+   "changed_at": "2026-10-13T05:19:12.393955+00:00"
+  },
+  {
+   "id": "a46",
+   "action": "UPDATE",
+   "rev": 1,
+   "changed_at": "2026-10-13T05:19:11.986614+00:00"
+  },
+  {
+   "id": "a42",
+   "action": "UPDATE",
+   "rev": 1,
+   "changed_at": "2026-10-13T05:19:11.550415+00:00"
+  }
+ ]
+}
