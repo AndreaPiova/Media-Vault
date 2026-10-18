@@ -58,6 +58,27 @@ export function parseAnimeClickEditions(html) {
   return [...groups.values()].map((g) => ({ group: g.group, maxVol: g.maxVol, count: g.vols.size }));
 }
 
+// Se la pagina arriva tramite un servizio di lettura web il testo e' in markdown: [Titolo N](url/edizione/ID/slug)
+export function parseAnimeClickMarkdown(md) {
+  if (!md) return [];
+  const re = /\[([^\]]+)\]\((?:https?:\/\/(?:www\.)?animeclick\.it)?(?:\/public\/app\.php)?\/edizione\/(\d+)\/([^)\s?#]+)\)/gi;
+  const groups = new Map();
+  let m;
+  while ((m = re.exec(md))) {
+    const title = m[1].replace(/\s+/g, ' ').trim();
+    if (!title || title.startsWith('![')) continue;
+    const slug = decodeURIComponent(m[3]).toLowerCase();
+    const vm = title.match(/(\d+)\s*$/);
+    const vol = vm ? parseInt(vm[1], 10) : null;
+    const group = (vm ? title.slice(0, vm.index) : title).trim();
+    if (!groups.has(slug)) groups.set(slug, { group, maxVol: 0, vols: new Set() });
+    const g = groups.get(slug);
+    if (vol) { g.vols.add(vol); if (vol > g.maxVol) g.maxVol = vol; }
+    else { g.vols.add(1); if (g.maxVol < 1) g.maxVol = 1; }
+  }
+  return [...groups.values()].map((g) => ({ group: g.group, maxVol: g.maxVol, count: g.vols.size }));
+}
+
 export function parseMangaVariantList(html, slug) {
   if (!html) return [];
   const re = new RegExp(`href=["']https://mangavariant\\.com/variant/${slug}/([a-z0-9\\-]+)/?["']`, 'gi');
@@ -85,14 +106,20 @@ async function main() {
 
     if (cfg.animeclick && cfg.animeclick.id && cfg.animeclick.slug) {
       const { id, slug } = cfg.animeclick;
-      let r = await fetchText(`https://www.animeclick.it/manga/${id}/${slug}/edizioni`);
+      const page = `https://www.animeclick.it/manga/${id}/${slug}/edizioni`;
+      let r = await fetchText(page);
       let editions = parseAnimeClickEditions(r.text);
-      if (!editions.length) { // secondo indirizzo con lo stesso contenuto
-        await sleep(DELAY_MS);
-        r = await fetchText(`https://www.animeclick.it/public/app.php/manga/${id}/${slug}/edizioni`);
-        editions = parseAnimeClickEditions(r.text);
+      let via = 'diretto';
+      if (!editions.length && r.status === 403) { // AnimeClick blocca gli indirizzi dei server: passo da un servizio di lettura web
+        await sleep(3200);
+        r = await fetchText(`https://r.jina.ai/${page}`);
+        editions = parseAnimeClickMarkdown(r.text);
+        if (!editions.length) editions = parseAnimeClickEditions(r.text);
+        via = 'jina';
+        await sleep(3200);
       }
       entry.status = r.status;
+      entry.via = via;
       console.log(`  AnimeClick: ${editions.length} edizioni (HTTP ${r.status})`);
       if (editions.length) { entry.editions = editions; okCount++; }
       else { entry.error = r.error || 'pagina letta ma nessuna edizione riconosciuta'; if (!entry.editions) entry.editions = []; failCount++; }
