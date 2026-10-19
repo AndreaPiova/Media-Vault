@@ -27,7 +27,7 @@
         "count": 8
       }
     ],
-    "lastChecked": "2026-10-18T21:07:34.453Z",
+    "lastChecked": "2026-10-19T05:18:38.742Z",
     "status": 200,
     "via": "jina"
   },
@@ -54,7 +54,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-10-18T21:07:45.574Z",
+    "lastChecked": "2026-10-19T05:18:38.742Z",
     "status": 200,
     "via": "jina"
   },
@@ -66,7 +66,7 @@
         "count": 11
       }
     ],
-    "lastChecked": "2026-10-18T21:07:55.346Z",
+    "lastChecked": "2026-10-19T05:18:38.742Z",
     "status": 200,
     "via": "jina"
   },
@@ -78,569 +78,785 @@
         "count": 6
       }
     ],
-    "lastChecked": "2026-10-18T21:08:12.356Z",
+    "lastChecked": "2026-10-19T05:18:38.742Z",
     "status": 200,
     "via": "jina"
   },
   "m5": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:08:20.260Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "Blame! And so on",
+        "maxVol": 4,
+        "count": 2
+      },
+      {
+        "group": "Blame",
+        "maxVol": 9,
+        "count": 9
+      }
+    ],
+    "lastChecked": "2026-10-19T05:09:35.182Z",
+    "status": 200,
+    "via": "jina"
   },
   "m6": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:08:28.020Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "Blue Lock",
+        "maxVol": 55,
+        "count": 20
+      }
+    ],
+    "lastChecked": "2026-10-19T05:09:52.237Z",
+    "status": 200,
+    "via": "jina"
   },
   "m7": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:08:35.812Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "The Killer Inside",
+        "maxVol": 41,
+        "count": 18
+      }
+    ],
+    "lastChecked": "2026-10-19T05:10:09.167Z",
+    "status": 200,
+    "via": "jina"
   },
   "m8": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:08:43.580Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "La fine del mondo e prima dell'alba",
+        "maxVol": 42,
+        "count": 5
+      }
+    ],
+    "lastChecked": "2026-10-19T05:10:26.161Z",
+    "status": 200,
+    "via": "jina"
   },
   "m9": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:08:51.497Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "Il prezzo di una vita - I sold my life for ten thousand yen per year",
+        "maxVol": 62,
+        "count": 7
+      },
+      {
+        "group": "Il prezzo di una vita - I sold my life for ten thousand yen per year Box",
+        "maxVol": 67,
+        "count": 3
+      }
+    ],
+    "lastChecked": "2026-10-19T05:10:43.355Z",
+    "status": 200,
+    "via": "jina"
   },
   "m10": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:08:59.564Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "Chainsaw Man Variant",
+        "maxVol": 19,
+        "count": 4
+      },
+      {
+        "group": "Chainsaw Man",
+        "maxVol": 113,
+        "count": 13
+      },
+      {
+        "group": "Chainsaw Man - Discovery Edition",
+        "maxVol": 9,
+        "count": 3
+      }
+    ],
+    "lastChecked": "2026-10-19T05:11:02.407Z",
+    "status": 200,
+    "via": "jina"
   },
   "m11": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:09:07.357Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "Dr.Stone",
+        "maxVol": 76,
+        "count": 15
+      },
+      {
+        "group": "Dr.Stone Limited Edition",
+        "maxVol": 26,
+        "count": 2
+      },
+      {
+        "group": "Dr.Stone Variant Cover Edition",
+        "maxVol": 14,
+        "count": 2
+      }
+    ],
+    "lastChecked": "2026-10-19T05:11:19.984Z",
+    "status": 200,
+    "via": "jina"
   },
   "m12": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:09:15.126Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "All You Need is Kill",
+        "maxVol": 58,
+        "count": 5
+      },
+      {
+        "group": "All You Need is Kill - Complete Edition",
+        "maxVol": 15,
+        "count": 3
+      }
+    ],
+    "lastChecked": "2026-10-19T05:11:37.614Z",
+    "status": 200,
+    "via": "jina"
   },
   "m13": {
     "editions": [],
     "variants": [],
-    "lastChecked": "2026-10-18T21:09:38.011Z",
-    "status": 403,
+    "lastChecked": "2026-10-19T05:12:08.587Z",
+    "status": 200,
     "via": "jina",
-    "error": "HTTP 403"
+    "error": "pagina letta ma nessuna edizione riconosciuta"
   },
   "m14": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:09:45.788Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "Monster",
+        "maxVol": 30,
+        "count": 15
+      }
+    ],
+    "lastChecked": "2026-10-19T05:12:26.520Z",
+    "status": 200,
+    "via": "jina"
   },
   "m15": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:09:53.539Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "One Piece",
+        "maxVol": 84,
+        "count": 18
+      }
+    ],
+    "lastChecked": "2026-10-19T05:12:46.807Z",
+    "status": 200,
+    "via": "jina"
   },
   "m16": {
-    "editions": [],
+    "editions": [
+      {
+        "group": "One-Punch Man",
+        "maxVol": 98,
+        "count": 8
+      },
+      {
+        "group": "One-Punch Man Variant FX",
+        "maxVol": 27,
+        "count": 4
+      },
+      {
+        "group": "One-Punch Man - Discovery Edition",
+        "maxVol": 14,
+        "count": 2
+      },
+      {
+        "group": "One-Punch Man Christmas Variant",
+        "maxVol": 6,
+        "count": 2
+      }
+    ],
     "variants": [],
-    "lastChecked": "2026-10-18T21:10:16.387Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "lastChecked": "2026-10-19T05:13:19.416Z",
+    "status": 200,
+    "via": "jina"
   },
   "m17": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:10:24.151Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "Planetes",
+        "maxVol": 26,
+        "count": 7
+      },
+      {
+        "group": "Planetes Deluxe",
+        "maxVol": 37,
+        "count": 5
+      },
+      {
+        "group": "Planetes Complete Edition",
+        "maxVol": 19,
+        "count": 3
+      }
+    ],
+    "lastChecked": "2026-10-19T05:13:36.381Z",
+    "status": 200,
+    "via": "jina"
   },
   "m18": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:10:31.905Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "Le bizzarre avventure di JoJo: Steel Ball Run",
+        "maxVol": 10,
+        "count": 10
+      }
+    ],
+    "lastChecked": "2026-10-19T05:13:54.677Z",
+    "status": 200,
+    "via": "jina"
   },
   "m19": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:10:39.667Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "L'Attacco dei Giganti - Discovery Edition",
+        "maxVol": 18,
+        "count": 2
+      },
+      {
+        "group": "L'Attacco dei Giganti",
+        "maxVol": 138,
+        "count": 9
+      }
+    ],
+    "lastChecked": "2026-10-19T05:14:12.996Z",
+    "status": 200,
+    "via": "jina"
   },
   "m20": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:10:47.426Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "Fire Punch",
+        "maxVol": 70,
+        "count": 16
+      },
+      {
+        "group": "Fire Punch Complete Box",
+        "maxVol": 8,
+        "count": 2
+      },
+      {
+        "group": "Fire Punch - Box vuoto",
+        "maxVol": 1,
+        "count": 1
+      }
+    ],
+    "lastChecked": "2026-10-19T05:14:30.912Z",
+    "status": 200,
+    "via": "jina"
   },
   "m21": {
-    "editions": [],
+    "editions": [
+      {
+        "group": "Tokyo Revengers Manji Gang Pack",
+        "maxVol": 46,
+        "count": 2
+      },
+      {
+        "group": "Tokyo Revengers",
+        "maxVol": 73,
+        "count": 15
+      },
+      {
+        "group": "Tokyo Revengers Variant Limited Edition",
+        "maxVol": 3,
+        "count": 2
+      }
+    ],
     "variants": [],
-    "lastChecked": "2026-10-18T21:11:10.344Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "lastChecked": "2026-10-19T05:15:05.073Z",
+    "status": 200,
+    "via": "jina"
   },
   "m22": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:11:18.709Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "Vinland Saga",
+        "maxVol": 96,
+        "count": 16
+      },
+      {
+        "group": "Vinland Saga Variant MangaYo!",
+        "maxVol": 1,
+        "count": 1
+      },
+      {
+        "group": "Vinland Saga Tribute Variant",
+        "maxVol": 2,
+        "count": 2
+      }
+    ],
+    "lastChecked": "2026-10-19T05:15:23.462Z",
+    "status": 200,
+    "via": "jina"
   },
   "m23": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:11:26.478Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "Alita Battle Angel",
+        "maxVol": 14,
+        "count": 11
+      }
+    ],
+    "lastChecked": "2026-10-19T05:15:41.820Z",
+    "status": 200,
+    "via": "jina"
   },
   "m24": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:11:34.231Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "Akira",
+        "maxVol": 11,
+        "count": 11
+      }
+    ],
+    "lastChecked": "2026-10-19T05:15:59.074Z",
+    "status": 200,
+    "via": "jina"
   },
   "m25": {
-    "editions": [],
+    "editions": [
+      {
+        "group": "Alice in Borderland",
+        "maxVol": 18,
+        "count": 12
+      }
+    ],
     "variants": [],
-    "lastChecked": "2026-10-18T21:11:57.244Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "lastChecked": "2026-10-19T05:16:31.076Z",
+    "status": 200,
+    "via": "jina"
   },
   "m26": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:12:04.999Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "Berserk Illustration Book",
+        "maxVol": 8,
+        "count": 2
+      },
+      {
+        "group": "Berserk",
+        "maxVol": 21,
+        "count": 14
+      }
+    ],
+    "lastChecked": "2026-10-19T05:16:50.387Z",
+    "status": 200,
+    "via": "jina"
   },
   "m27": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:12:12.750Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "Kaiju No. 8 Monstrous Box",
+        "maxVol": 32,
+        "count": 2
+      },
+      {
+        "group": "Kaiju No. 8 Variant Cover Edition",
+        "maxVol": 16,
+        "count": 4
+      },
+      {
+        "group": "Kaiju No. 8 Limited Edition",
+        "maxVol": 20,
+        "count": 2
+      },
+      {
+        "group": "Kaiju No. 8 Start Edition",
+        "maxVol": 5,
+        "count": 2
+      },
+      {
+        "group": "Kaiju No. 8",
+        "maxVol": 63,
+        "count": 12
+      }
+    ],
+    "lastChecked": "2026-10-19T05:17:08.124Z",
+    "status": 200,
+    "via": "jina"
   },
   "m28": {
-    "editions": [],
-    "lastChecked": "2026-10-18T21:12:20.720Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "editions": [
+      {
+        "group": "Dandadan Daizukan Fanbook",
+        "maxVol": 5,
+        "count": 2
+      },
+      {
+        "group": "Dandadan",
+        "maxVol": 73,
+        "count": 11
+      },
+      {
+        "group": "Dandadan Variant Edition",
+        "maxVol": 25,
+        "count": 5
+      },
+      {
+        "group": "Dandadan Deep Space Variant",
+        "maxVol": 4,
+        "count": 2
+      },
+      {
+        "group": "Dandadan Limited Edition",
+        "maxVol": 12,
+        "count": 4
+      }
+    ],
+    "lastChecked": "2026-10-19T05:17:26.097Z",
+    "status": 200,
+    "via": "jina"
   },
   "m30": {
-    "editions": [],
+    "editions": [
+      {
+        "group": "Rocky Joe",
+        "maxVol": 15,
+        "count": 11
+      }
+    ],
     "variants": [],
-    "lastChecked": "2026-10-18T21:12:43.837Z",
-    "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "lastChecked": "2026-10-19T05:17:59.580Z",
+    "status": 200,
+    "via": "jina"
   },
   "m29": {
     "editions": [],
     "variants": [],
-    "lastChecked": "2026-10-18T21:13:06.890Z",
+    "lastChecked": "2026-10-19T05:18:14.367Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m31": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:13:14.638Z",
+    "lastChecked": "2026-10-19T05:18:14.368Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m32": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:13:22.417Z",
+    "lastChecked": "2026-10-19T05:18:14.368Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m33": {
     "editions": [],
     "variants": [],
-    "lastChecked": "2026-10-18T21:13:45.311Z",
+    "lastChecked": "2026-10-19T05:18:29.078Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m34": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:13:53.058Z",
+    "lastChecked": "2026-10-19T05:18:29.079Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m35": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:14:00.925Z",
+    "lastChecked": "2026-10-19T05:18:29.079Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m36": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:14:08.711Z",
+    "lastChecked": "2026-10-19T05:18:29.079Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m37": {
     "editions": [],
     "variants": [],
-    "lastChecked": "2026-10-18T21:14:31.499Z",
+    "lastChecked": "2026-10-19T05:18:33.455Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m38": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:14:39.301Z",
+    "lastChecked": "2026-10-19T05:18:33.455Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m39": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:14:47.068Z",
+    "lastChecked": "2026-10-19T05:18:33.455Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m40": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:14:54.827Z",
+    "lastChecked": "2026-10-19T05:18:33.455Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m41": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:15:02.572Z",
+    "lastChecked": "2026-10-19T05:18:33.455Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m44": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:15:10.333Z",
+    "lastChecked": "2026-10-19T05:18:33.455Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m43": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:15:18.111Z",
+    "lastChecked": "2026-10-19T05:18:33.455Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m45": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:15:25.867Z",
+    "lastChecked": "2026-10-19T05:18:33.455Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m46": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:15:33.621Z",
+    "lastChecked": "2026-10-19T05:18:33.455Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m47": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:15:41.571Z",
+    "lastChecked": "2026-10-19T05:18:33.455Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m48": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:15:49.333Z",
+    "lastChecked": "2026-10-19T05:18:33.455Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m49": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:15:57.105Z",
+    "lastChecked": "2026-10-19T05:18:33.455Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m51": {
     "editions": [],
     "variants": [],
-    "lastChecked": "2026-10-18T21:16:20.223Z",
+    "lastChecked": "2026-10-19T05:18:34.777Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m52": {
     "editions": [],
     "variants": [],
-    "lastChecked": "2026-10-18T21:16:43.394Z",
+    "lastChecked": "2026-10-19T05:18:36.098Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m53": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:16:51.169Z",
+    "lastChecked": "2026-10-19T05:18:36.099Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m54": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:16:58.917Z",
+    "lastChecked": "2026-10-19T05:18:36.099Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m55": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:17:06.672Z",
+    "lastChecked": "2026-10-19T05:18:36.099Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m56": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:17:14.968Z",
+    "lastChecked": "2026-10-19T05:18:36.099Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m57": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:17:22.721Z",
+    "lastChecked": "2026-10-19T05:18:36.099Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m70": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:17:30.798Z",
+    "lastChecked": "2026-10-19T05:18:36.099Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m58": {
     "editions": [],
     "variants": [],
-    "lastChecked": "2026-10-18T21:17:53.658Z",
+    "lastChecked": "2026-10-19T05:18:37.420Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m59": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:18:01.415Z",
+    "lastChecked": "2026-10-19T05:18:37.421Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m60": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:18:09.170Z",
+    "lastChecked": "2026-10-19T05:18:37.421Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m61": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:18:16.930Z",
+    "lastChecked": "2026-10-19T05:18:37.421Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m62": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:18:24.684Z",
+    "lastChecked": "2026-10-19T05:18:37.421Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m63": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:18:32.438Z",
+    "lastChecked": "2026-10-19T05:18:37.421Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m64": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:18:40.350Z",
+    "lastChecked": "2026-10-19T05:18:37.421Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m65": {
     "editions": [],
     "variants": [],
-    "lastChecked": "2026-10-18T21:19:03.250Z",
+    "lastChecked": "2026-10-19T05:18:38.741Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m66": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:19:11.182Z",
+    "lastChecked": "2026-10-19T05:18:38.741Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m67": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:19:18.962Z",
+    "lastChecked": "2026-10-19T05:18:38.741Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m68": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:19:26.726Z",
+    "lastChecked": "2026-10-19T05:18:38.741Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m69": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:19:34.469Z",
+    "lastChecked": "2026-10-19T05:18:38.741Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m71": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:19:42.220Z",
+    "lastChecked": "2026-10-19T05:18:38.741Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m73": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:19:50.241Z",
+    "lastChecked": "2026-10-19T05:18:38.741Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m94": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:19:58.006Z",
+    "lastChecked": "2026-10-19T05:18:38.741Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "m99": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:20:05.766Z",
+    "lastChecked": "2026-10-19T05:18:38.741Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   },
   "watch_m50": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.741Z"
   },
   "watch_m72": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.741Z"
   },
   "watch_m74": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.741Z"
   },
   "watch_m75": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.741Z"
   },
   "watch_m76": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.741Z"
   },
   "watch_m77": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.741Z"
   },
   "watch_m78": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.741Z"
   },
   "watch_m79": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.741Z"
   },
   "watch_m80": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.742Z"
   },
   "watch_m81": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.742Z"
   },
   "watch_m82": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.742Z"
   },
   "watch_m83": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.742Z"
   },
   "watch_m84": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.742Z"
   },
   "watch_m86": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.742Z"
   },
   "watch_m87": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.742Z"
   },
   "watch_m88": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.742Z"
   },
   "watch_m89": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.742Z"
   },
   "watch_m90": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.742Z"
   },
   "watch_m91": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.742Z"
   },
   "watch_m92": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.742Z"
   },
   "watch_m93": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.742Z"
   },
   "watch_m98": {
-    "lastChecked": "2026-10-18T21:20:05.766Z"
+    "lastChecked": "2026-10-19T05:18:38.742Z"
   },
   "m85": {
     "editions": [],
-    "lastChecked": "2026-10-18T21:20:13.525Z",
+    "lastChecked": "2026-10-19T05:18:38.742Z",
     "status": 403,
-    "via": "jina",
-    "error": "HTTP 403"
+    "via": "jina"
   }
 }
