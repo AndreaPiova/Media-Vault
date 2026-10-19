@@ -116,7 +116,7 @@ async function main() {
         r = await fetchText(page); via = 'diretto';
         if (!r.text && mode === 'auto') { await sleep(JINA_GAP_MS); r = await fetchText(`https://r.jina.ai/${page}`); via = 'jina'; }
       }
-      writeFileSync(`data/debug/${fname}.txt`, `URL ${page}\nVIA ${via} HTTP ${r.status}\n` + String(r.text || r.error).slice(0, 60000));
+      writeFileSync(`data/debug/${fname}.txt`, `URL ${page}\nVIA ${via} HTTP ${r.status}\n` + String(r.text || r.error).slice(0, 900000));
       console.log(`debug ${fname}: ${via} HTTP ${r.status} ${String(r.text || '').length} caratteri`);
       await sleep(JINA_GAP_MS);
     }
