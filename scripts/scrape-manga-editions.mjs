@@ -101,13 +101,16 @@ async function main() {
   if (existsSync('data/debug-ids.json')) {
     const ids = JSON.parse(readFileSync('data/debug-ids.json', 'utf8'));
     mkdirSync('data/debug', { recursive: true });
+    let n = 0;
     for (const id of ids) {
-      const ac = sources[id] && sources[id].animeclick; if (!ac) continue;
-      const page = `https://www.animeclick.it/manga/${ac.id}/${ac.slug}/edizioni`;
+      const isUrl = String(id).startsWith('http');
+      const ac = isUrl ? { id: 0, slug: '' } : (sources[id] && sources[id].animeclick); if (!ac) continue;
+      const page = isUrl ? id : `https://www.animeclick.it/manga/${ac.id}/${ac.slug}/edizioni`;
+      const fname = isUrl ? `url_${n++}` : id;
       let r = await fetchText(page); let via = 'diretto';
       if (!r.text) { await sleep(JINA_GAP_MS); r = await fetchText(`https://r.jina.ai/${page}`); via = 'jina'; }
-      writeFileSync(`data/debug/${id}.txt`, `VIA ${via} HTTP ${r.status}\n` + String(r.text || r.error).slice(0, 60000));
-      console.log(`debug ${id}: ${via} HTTP ${r.status} ${String(r.text || '').length} caratteri`);
+      writeFileSync(`data/debug/${fname}.txt`, `URL ${page}\nVIA ${via} HTTP ${r.status}\n` + String(r.text || r.error).slice(0, 60000));
+      console.log(`debug ${fname}: ${via} HTTP ${r.status} ${String(r.text || '').length} caratteri`);
       await sleep(JINA_GAP_MS);
     }
     return;
