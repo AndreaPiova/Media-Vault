@@ -2,7 +2,7 @@
 // Legge data/manga-sources.json, interroga AnimeClick (edizioni italiane) e MangaVariant (variant)
 // e scrive data/manga-editions.json. Se una pagina non si legge, NON cancella i dati precedenti:
 // salva invece "status" e "error" per ogni titolo, cosi' si capisce subito cosa e' andato storto.
-import { readFileSync, writeFileSync, existsSync } from 'fs';
+import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
 
 const SOURCES_PATH = 'data/manga-sources.json';
 const OUTPUT_PATH = 'data/manga-editions.json';
@@ -97,6 +97,21 @@ async function main() {
     return;
   }
   const sources = JSON.parse(readFileSync(SOURCES_PATH, 'utf8'));
+  // Modalita' diagnostica: se esiste data/debug-ids.json (elenco di id) salvo il testo grezzo ricevuto in data/debug/<id>.txt e non tocco i risultati
+  if (existsSync('data/debug-ids.json')) {
+    const ids = JSON.parse(readFileSync('data/debug-ids.json', 'utf8'));
+    mkdirSync('data/debug', { recursive: true });
+    for (const id of ids) {
+      const ac = sources[id] && sources[id].animeclick; if (!ac) continue;
+      const page = `https://www.animeclick.it/manga/${ac.id}/${ac.slug}/edizioni`;
+      let r = await fetchText(page); let via = 'diretto';
+      if (!r.text) { await sleep(JINA_GAP_MS); r = await fetchText(`https://r.jina.ai/${page}`); via = 'jina'; }
+      writeFileSync(`data/debug/${id}.txt`, `VIA ${via} HTTP ${r.status}\n` + String(r.text || r.error).slice(0, 60000));
+      console.log(`debug ${id}: ${via} HTTP ${r.status} ${String(r.text || '').length} caratteri`);
+      await sleep(JINA_GAP_MS);
+    }
+    return;
+  }
   const result = existsSync(OUTPUT_PATH) ? JSON.parse(readFileSync(OUTPUT_PATH, 'utf8')) : {};
   let okCount = 0, failCount = 0;
 
