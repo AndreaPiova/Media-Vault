@@ -1,0 +1,3 @@
+URL https://www.magicpress.it/products.json?limit=3
+VIA diretto HTTP 0
+rete: fetch failed

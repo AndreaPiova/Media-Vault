@@ -1,0 +1,3 @@
+URL https://www.animeclick.it/news
+VIA diretto HTTP 403
+HTTP 403
