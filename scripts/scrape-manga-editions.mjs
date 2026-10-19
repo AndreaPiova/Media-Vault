@@ -7,6 +7,8 @@ import { readFileSync, writeFileSync, existsSync } from 'fs';
 const SOURCES_PATH = 'data/manga-sources.json';
 const OUTPUT_PATH = 'data/manga-editions.json';
 const DELAY_MS = 1200;
+const MAX_ANIMECLICK_PER_RUN = parseInt(process.env.MAX_ANIMECLICK || '25', 10); // il servizio di lettura web ha un limite: ogni esecuzione copre i titoli piu' vecchi
+const JINA_GAP_MS = 6500;
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -98,25 +100,28 @@ async function main() {
   const result = existsSync(OUTPUT_PATH) ? JSON.parse(readFileSync(OUTPUT_PATH, 'utf8')) : {};
   let okCount = 0, failCount = 0;
 
-  for (const [mangaId, cfg] of Object.entries(sources)) {
-    if (mangaId.startsWith('_')) continue;
+  const age = (id) => { const e = result[id]; if (!e || !e.editions || !e.editions.length) return -1; return Date.parse(e.lastChecked || 0) || 0; };
+  const queue = Object.entries(sources).filter(([k]) => !k.startsWith('_')).sort((a, b) => age(a[0]) - age(b[0]));
+  let acCount = 0;
+  for (const [mangaId, cfg] of queue) {
     console.log(`\n--- ${mangaId} (${cfg.title || ''}) ---`);
     const entry = result[mangaId] || {};
     delete entry.error;
 
-    if (cfg.animeclick && cfg.animeclick.id && cfg.animeclick.slug) {
+    if (cfg.animeclick && cfg.animeclick.id && cfg.animeclick.slug && acCount++ < MAX_ANIMECLICK_PER_RUN) {
       const { id, slug } = cfg.animeclick;
       const page = `https://www.animeclick.it/manga/${id}/${slug}/edizioni`;
       let r = await fetchText(page);
       let editions = parseAnimeClickEditions(r.text);
       let via = 'diretto';
       if (!editions.length && r.status === 403) { // AnimeClick blocca gli indirizzi dei server: passo da un servizio di lettura web
-        await sleep(3200);
+        await sleep(JINA_GAP_MS);
         r = await fetchText(`https://r.jina.ai/${page}`);
+        if (r.status === 403 || r.status === 429) { await sleep(20000); r = await fetchText(`https://r.jina.ai/${page}`); }
         editions = parseAnimeClickMarkdown(r.text);
         if (!editions.length) editions = parseAnimeClickEditions(r.text);
         via = 'jina';
-        await sleep(3200);
+        await sleep(JINA_GAP_MS);
       }
       entry.status = r.status;
       entry.via = via;
