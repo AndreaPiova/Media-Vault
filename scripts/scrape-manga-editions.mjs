@@ -13,7 +13,7 @@ const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-async function fetchText(url) {
+async function fetchText(url, extraHeaders = {}) {
   let last = { text: null, status: 0, error: 'nessun tentativo' };
   for (let attempt = 0; attempt < 3; attempt++) {
     try {
@@ -22,6 +22,7 @@ async function fetchText(url) {
           'User-Agent': UA,
           'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
           'Accept-Language': 'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
+          ...extraHeaders,
         },
         redirect: 'follow',
       });
@@ -103,12 +104,18 @@ async function main() {
     mkdirSync('data/debug', { recursive: true });
     let n = 0;
     for (const id of ids) {
-      const isUrl = String(id).startsWith('http');
+      const sid = String(id);
+      const mode = sid.startsWith('html:') ? 'html' : sid.startsWith('raw:') ? 'raw' : 'auto';
+      const isUrl = mode !== 'auto' ? true : sid.startsWith('http');
       const ac = isUrl ? { id: 0, slug: '' } : (sources[id] && sources[id].animeclick); if (!ac) continue;
-      const page = isUrl ? id : `https://www.animeclick.it/manga/${ac.id}/${ac.slug}/edizioni`;
+      const page = isUrl ? sid.replace(/^(html|raw):/, '') : `https://www.animeclick.it/manga/${ac.id}/${ac.slug}/edizioni`;
       const fname = isUrl ? `url_${n++}` : id;
-      let r = await fetchText(page); let via = 'diretto';
-      if (!r.text) { await sleep(JINA_GAP_MS); r = await fetchText(`https://r.jina.ai/${page}`); via = 'jina'; }
+      let r, via;
+      if (mode === 'html') { r = await fetchText(`https://r.jina.ai/${page}`, { 'X-Return-Format': 'html' }); via = 'jina-html'; }
+      else {
+        r = await fetchText(page); via = 'diretto';
+        if (!r.text && mode === 'auto') { await sleep(JINA_GAP_MS); r = await fetchText(`https://r.jina.ai/${page}`); via = 'jina'; }
+      }
       writeFileSync(`data/debug/${fname}.txt`, `URL ${page}\nVIA ${via} HTTP ${r.status}\n` + String(r.text || r.error).slice(0, 60000));
       console.log(`debug ${fname}: ${via} HTTP ${r.status} ${String(r.text || '').length} caratteri`);
       await sleep(JINA_GAP_MS);
