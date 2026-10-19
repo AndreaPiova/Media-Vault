@@ -1,25 +1,239 @@
-URL https://www.animeclick.it/manga/9544/20th-century-boys/edizioni?p=2
+URL https://www.animeclick.it/manga/9551/slam-dunk
 VIA jina HTTP 200
-Title: 20th Century Boys
+Title: Slam Dunk
 
-URL Source: https://www.animeclick.it/manga/9544/20th-century-boys/edizioni?p=2
+URL Source: https://www.animeclick.it/manga/9551/slam-dunk
 
 Markdown Content:
-Visualizza elementi
+*   [Anime](https://www.animeclick.it/manga/9551/slam-dunk#)
+    *   [Anime](https://www.animeclick.it/anime)
+    *   
+* * *
 
-Edizione:
+    *   [Ricerca avanzata](https://www.animeclick.it/ricerca/anime)
+    *   [Calendario Episodi](https://www.animeclick.it/calendario-anime)
+    *   [Lista Streaming](https://www.animeclick.it/listastreaming)
+    *   [Recensioni](https://www.animeclick.it/recensioni/anime)
+    *   [FansubDB.it](http://fansubdb.it/)
 
-| Copertina | Titolo | Note | Prezzo | Uscita | Editore | Voti |
-| --- | --- | --- | --- | --- | --- | --- |
-| ![Image 1](https://www.animeclick.it/images/Manga_Cover/20TH%20CENTURY%20BOYS%201.jpg) | [20th Century Boys 1](https://www.animeclick.it/edizione/130/20th-century-boys)[![Image 2](https://www.animeclick.it/bundles/accommon/images/MangaYo2.svg)](https://mangayo.it/r/animeclick/130?term=20th-century-boys1&utm_source=animeclick&utm_medium=lista_volumi "Compra su MangaYo!") | Primo | 7,00€ | 25/07/2002 | ![Image 3: Italia](https://www.animeclick.it/immagini/bandiere/16/IT.png) Panini Comics | [28](https://www.animeclick.it/edizione/130/20th-century-boys)[0](https://www.animeclick.it/edizione/130/20th-century-boys)[0](https://www.animeclick.it/edizione/130/20th-century-boys) |
-| ![Image 4](https://www.animeclick.it/images/Manga_Cover/925496789_1.jpg) | [20th Century Boys 1](https://www.animeclick.it/edizione/549273/20th-century-boys)[![Image 5](https://www.animeclick.it/bundles/accommon/images/MangaYo2.svg)](https://mangayo.it/r/animeclick/549273?term=20th-century-boys1&utm_source=animeclick&utm_medium=lista_volumi "Compra su MangaYo!") | 1° Ristampa Primo | 7,00€ | 05/12/2003 | ![Image 6: Italia](https://www.animeclick.it/immagini/bandiere/16/IT.png) Panini Comics | [1](https://www.animeclick.it/edizione/549273/20th-century-boys)[0](https://www.animeclick.it/edizione/549273/20th-century-boys)[0](https://www.animeclick.it/edizione/549273/20th-century-boys) |
-| ![Image 7](https://www.animeclick.it/images/Manga_Cover/20TH%20CENTURY%20BOYS%201.jpg) | [20th Century Boys 1](https://www.animeclick.it/edizione/276569/20th-century-boys)[![Image 8](https://www.animeclick.it/bundles/accommon/images/MangaYo2.svg)](https://mangayo.it/r/animeclick/276569?term=20th-century-boys1&utm_source=animeclick&utm_medium=lista_volumi "Compra su MangaYo!") | 2° Ristampa Primo | 7,00€ | 14/06/2009 | ![Image 9: Italia](https://www.animeclick.it/immagini/bandiere/16/IT.png) Panini Comics | [2](https://www.animeclick.it/edizione/276569/20th-century-boys)[1](https://www.animeclick.it/edizione/276569/20th-century-boys)[0](https://www.animeclick.it/edizione/276569/20th-century-boys) |
-| ![Image 10](https://www.animeclick.it/images/Manga_Cover/20thCenturyBoysRistampa01.jpg) | [20th Century Boys 1](https://www.animeclick.it/edizione/849655/20th-century-boys)[![Image 11](https://www.animeclick.it/bundles/accommon/images/MangaYo2.svg)](https://mangayo.it/r/animeclick/849655?term=20th-century-boys1&utm_source=animeclick&utm_medium=lista_volumi "Compra su MangaYo!") | 3° Ristampa | 7,00€ | 31/03/2011 | ![Image 12: Italia](https://www.animeclick.it/immagini/bandiere/16/IT.png) Panini Comics | [6](https://www.animeclick.it/edizione/849655/20th-century-boys)[2](https://www.animeclick.it/edizione/849655/20th-century-boys)[0](https://www.animeclick.it/edizione/849655/20th-century-boys) |
-| ![Image 13](https://www.animeclick.it/images/Manga_Cover/1474073972_20thCenturyBoysRistampa01.jpg) | [20th Century Boys 1](https://www.animeclick.it/edizione/2640790/20th-century-boys)[![Image 14](https://www.animeclick.it/bundles/accommon/images/MangaYo2.svg)](https://mangayo.it/r/animeclick/2640790?term=20th-century-boys1&utm_source=animeclick&utm_medium=lista_volumi "Compra su MangaYo!") | 4° Ristampa Primo | 7,00€ | 29/11/2014 | ![Image 15: Italia](https://www.animeclick.it/immagini/bandiere/16/IT.png) Panini Comics | [1](https://www.animeclick.it/edizione/2640790/20th-century-boys)[0](https://www.animeclick.it/edizione/2640790/20th-century-boys)[0](https://www.animeclick.it/edizione/2640790/20th-century-boys) |
-| ![Image 16](https://www.animeclick.it/images/Manga_Cover/1976234965_20thCenturyBoysRistampa01.jpg) | [20th Century Boys 1](https://www.animeclick.it/edizione/2814233/20th-century-boys)[![Image 17](https://www.animeclick.it/bundles/accommon/images/MangaYo2.svg)](https://mangayo.it/r/animeclick/2814233?term=20th-century-boys1&utm_source=animeclick&utm_medium=lista_volumi "Compra su MangaYo!") | 5° Ristampa Primo | 7,00€ | 20/06/2015 | ![Image 18: Italia](https://www.animeclick.it/immagini/bandiere/16/IT.png) Panini Comics | [3](https://www.animeclick.it/edizione/2814233/20th-century-boys)[0](https://www.animeclick.it/edizione/2814233/20th-century-boys)[0](https://www.animeclick.it/edizione/2814233/20th-century-boys) |
-| ![Image 19](https://www.animeclick.it/immagini/manga/20th_Century_Boys/edizioni/20th%20Century%20Boys-edizione-3081016.jpg) | [20th Century Boys 1](https://www.animeclick.it/edizione/3081016/20th-century-boys)[![Image 20](https://www.animeclick.it/bundles/accommon/images/MangaYo2.svg)](https://mangayo.it/r/animeclick/3081016?term=20th-century-boys1&utm_source=animeclick&utm_medium=lista_volumi "Compra su MangaYo!") | 6° Ristampa Primo | 7,50€ | 30/05/2019 | ![Image 21: Italia](https://www.animeclick.it/immagini/bandiere/16/IT.png) Panini Comics | [1](https://www.animeclick.it/edizione/3081016/20th-century-boys)[0](https://www.animeclick.it/edizione/3081016/20th-century-boys)[0](https://www.animeclick.it/edizione/3081016/20th-century-boys) |
-| ![Image 22](https://www.animeclick.it/immagini/manga/20th_Century_Boys/edizioni/20th%20Century%20Boys-edizione-3088872.jpg) | [20th Century Boys 1](https://www.animeclick.it/edizione/3088872/20th-century-boys)[![Image 23](https://www.animeclick.it/bundles/accommon/images/MangaYo2.svg)](https://mangayo.it/r/animeclick/3088872?term=20th-century-boys1&utm_source=animeclick&utm_medium=lista_volumi "Compra su MangaYo!") | 7° Ristampa Primo | 7,50€ | 30/09/2021 | ![Image 24: Italia](https://www.animeclick.it/immagini/bandiere/16/IT.png) Panini Comics | [2](https://www.animeclick.it/edizione/3088872/20th-century-boys)[0](https://www.animeclick.it/edizione/3088872/20th-century-boys)[0](https://www.animeclick.it/edizione/3088872/20th-century-boys) |
-| ![Image 25](https://www.animeclick.it/images/Manga_Cover/20th-century-boys-1.jpg) | [20th Century Boys 2](https://www.animeclick.it/edizione/362/20th-century-boys)[![Image 26](https://www.animeclick.it/bundles/accommon/images/MangaYo2.svg)](https://mangayo.it/r/animeclick/362?term=20th-century-boys2&utm_source=animeclick&utm_medium=lista_volumi "Compra su MangaYo!") |  | 7,00€ | 26/09/2002 | ![Image 27: Italia](https://www.animeclick.it/immagini/bandiere/16/IT.png) Panini Comics | [22](https://www.animeclick.it/edizione/362/20th-century-boys)[0](https://www.animeclick.it/edizione/362/20th-century-boys)[0](https://www.animeclick.it/edizione/362/20th-century-boys) |
-| ![Image 28](https://www.animeclick.it/images/Manga_Cover/994487557_2.jpg) | [20th Century Boys 2](https://www.animeclick.it/edizione/549274/20th-century-boys)[![Image 29](https://www.animeclick.it/bundles/accommon/images/MangaYo2.svg)](https://mangayo.it/r/animeclick/549274?term=20th-century-boys2&utm_source=animeclick&utm_medium=lista_volumi "Compra su MangaYo!") | 1° Ristampa | 7,00€ | 05/12/2003 | ![Image 30: Italia](https://www.animeclick.it/immagini/bandiere/16/IT.png) Panini Comics | [2](https://www.animeclick.it/edizione/549274/20th-century-boys)[0](https://www.animeclick.it/edizione/549274/20th-century-boys)[0](https://www.animeclick.it/edizione/549274/20th-century-boys) |
+*   [Manga](https://www.animeclick.it/manga/9551/slam-dunk#)
+    *   [Manga](https://www.animeclick.it/manga)
+    *   
+* * *
 
-Vista da 1 a 10 di 119 elementi
+    *   [Ricerca avanzata](https://www.animeclick.it/ricerca/manga)
+    *   [Calendario uscite](https://www.animeclick.it/calendario-manga)
+    *   [Recensioni](https://www.animeclick.it/recensioni/manga)
+    *   [Elenco Fumetterie](https://www.animeclick.it/fumetterie)
+
+*   [Novel](https://www.animeclick.it/manga/9551/slam-dunk#)
+    *   [Ricerca avanzata](https://www.animeclick.it/ricerca/novel)
+    *   [Calendario uscite](https://www.animeclick.it/calendario-novel)
+    *   [Recensioni](https://www.animeclick.it/recensioni/novel)
+
+*   [Drama](https://www.animeclick.it/manga/9551/slam-dunk#)
+    *   [Drama](https://www.animeclick.it/drama)
+    *   
+* * *
+
+    *   [Ricerca avanzata](https://www.animeclick.it/ricerca/drama)
+    *   [Calendario Episodi](https://www.animeclick.it/calendario-drama)
+
+*   [Videogiochi](https://www.animeclick.it/manga/9551/slam-dunk#)
+    *   [Videogiochi](https://www.animeclick.it/videogiochi)
+    *   
+* * *
+
+    *   [Ricerca avanzata](https://www.animeclick.it/ricerca/game)
+    *   [Calendario uscite](https://www.animeclick.it/calendario-videogiochi)
+    *   [Recensioni](https://www.animeclick.it/recensioni/game)
+
+*   [Cerca](https://www.animeclick.it/manga/9551/slam-dunk#)
+    *   [Notizie](https://www.animeclick.it/archivio)
+    *   [Anime](https://www.animeclick.it/ricerca/anime)
+    *   [Manga](https://www.animeclick.it/ricerca/manga)
+    *   [Drama](https://www.animeclick.it/ricerca/drama)
+    *   [Light Novel](https://www.animeclick.it/ricerca/novel)
+    *   [Videogiochi](https://www.animeclick.it/ricerca/game)
+
+*   [Community](https://www.animeclick.it/manga/9551/slam-dunk#)
+    *   [Calendario](https://www.animeclick.it/calendario)
+    *   [Blog](https://www.animeclick.it/blog)
+    *   [Social](https://www.animeclick.it/social)
+    *   [Utenti](https://www.animeclick.it/utenti)
+    *   
+* * *
+
+    *   [Staff AnimeClick](https://www.animeclick.it/staff)
+    *   [Regolamento](https://www.animeclick.it/news/20645-regole-e-norme-per-i-commenti-utente)
+    *   [Contattaci](https://www.animeclick.it/contattaci)
+
+[![Image 1: logo AnimeClick.it](https://www.animeclick.it/bundles/accommon/images/logo_gatto.png)](https://www.animeclick.it/)
+
+LUNEDÌ 19 OTTOBRE 2026
+
+  
+
+*   [Dettagli](https://www.animeclick.it/manga/9551/slam-dunk#dettagli)
+*   [Volumetti](https://www.animeclick.it/manga/9551/slam-dunk/edizioni#edizioni)
+*   [Recensioni](https://www.animeclick.it/manga/9551/slam-dunk/recensioni#recensioni)
+*   [Consigli](https://www.animeclick.it/manga/9551/slam-dunk/consigli#consigli)
+*   [Relazioni](https://www.animeclick.it/manga/9551/slam-dunk/relazioni#relazioni)
+*   [Discussioni](https://www.animeclick.it/manga/9551/slam-dunk/blog#blog)
+*   [Notizie](https://www.animeclick.it/manga/9551/slam-dunk/notizie#notizie)
+
+Scopri di più
+
+Streaming Anime
+
+Manga fisici
+
+Trova Manga
+
+ANiME
+
+Anime
+
+ANIME
+
+anime
+
+Guida TV Oggi
+
+Fumetti giapponesi
+
+Comic
+
+  
+
+[![Image 2: copertina](https://www.animeclick.it/immagini/manga/Slam_Dunk/cover/Slam_Dunk-cover-thumb.jpg)](https://www.animeclick.it/immagini/manga/Slam_Dunk/cover/Slam_Dunk-cover.jpg)
+
+[![Image 3](https://www.animeclick.it/bundles/accommon/images/MangaYo3.svg)](https://mangayo.it/r/animeclick/9551?term=slam-dunk&utm_source=animeclick&utm_medium=scheda_opera "Cerca su MangaYo!")
+
+  
+
+Titolo originale Slam Dunk Titolo inglese Slam Dunk Titolo Kanji スラムダンク Nazionalità![Image 4: bandiera nazione](https://www.animeclick.it/immagini/bandiere/16/JP.png) Giappone Casa Editrice[Shueisha](https://www.animeclick.it/autore/874/shueisha "Vai alla scheda dell'autore.")Storia[Takehiko Inoue](https://www.animeclick.it/autore/3991/takehiko-inoue "Vai alla scheda dell'autore.")Disegni[Takehiko Inoue](https://www.animeclick.it/autore/3991/takehiko-inoue "Vai alla scheda dell'autore.")Categoria[Shounen](https://www.animeclick.it/esplora/manga/categoria/Shounen "Ricerca opere in questa categoria")Genere[Commedia](https://www.animeclick.it/esplora/manga/genere/Commedia "Ricerca opere con di questo genere")[Demenziale](https://www.animeclick.it/esplora/manga/genere/Demenziale "Ricerca opere con di questo genere")[Scolastico](https://www.animeclick.it/esplora/manga/genere/Scolastico "Ricerca opere con di questo genere")[Sport](https://www.animeclick.it/esplora/manga/genere/Sport "Ricerca opere con di questo genere")Anno[1990](https://www.animeclick.it/esplora/manga/anno/1990 "Ricerca opere dello stesso anno") - 1996  Volumi 31 Capitoli 276 Stato in patria completato Stato in Italia completato Disponibilità[D/Visual](https://www.animeclick.it/esplora/manga/dispo/D%2FVisual "Ricerca opere di questo editore")[Panini Comics](https://www.animeclick.it/esplora/manga/dispo/Panini%2520Comics "Ricerca opere di questo editore") ([compralo su Mangayo!](https://mangayo.it/r/animeclick/9551?term=slam-dunk&utm_source=animeclick&utm_medium=scheda_opera)) Valutazione cc**9,186** (#1 in manga)(1084 valutazioni con 77[recensioni](https://www.animeclick.it/manga/9551/slam-dunk/recensioni)) [![Image 5: Calcolo della valutazione](https://www.animeclick.it/bundles/accommon/images/help_opera.png)](https://www.animeclick.it/news/57496-come-sono-calcolate-le-valutazioni-delle-opere-del-network)Opinioni[1998 22 18](https://www.animeclick.it/manga/9551/slam-dunk/edizioni) - **98,57%** promosso Serializzato su[Shuukan Shounen Jump](https://www.animeclick.it/rivista/2/shuukan-shounen-jump "Shuukan Shounen Jump")Immagini 6 (by Suboshi)Tag generici[Allenamento](https://www.animeclick.it/manga/tags/allenamento "Ricerca per tag")[Amore-non-corrisposto](https://www.animeclick.it/manga/tags/amore-non-corrisposto "Ricerca per tag")[Basket-Pallacanestro](https://www.animeclick.it/manga/tags/basket-pallacanestro "Ricerca per tag")[crescita-dei-protagonisti](https://www.animeclick.it/manga/tags/crescita-dei-protagonisti "Ricerca per tag")[Lavoro-di-squadra](https://www.animeclick.it/manga/tags/lavoro-di-squadra "Ricerca per tag")[Opera-vincitrice-di-premi](https://www.animeclick.it/manga/tags/opera-vincitrice-di-premi "Ricerca per tag")[Shogakukan-Manga-Award](https://www.animeclick.it/manga/tags/shogakukan-manga-award "Ricerca per tag")[Sottotrama-romantica](https://www.animeclick.it/manga/tags/sottotrama-romantica "Ricerca per tag")[Tornei](https://www.animeclick.it/manga/tags/tornei "Ricerca per tag")Nella tua lista Per utilizzare la tua lista personale devi essere [registrato](https://www.animeclick.it/register/ "Registrati al sito!"). Nelle liste come 351 In lettura, 1282 Completo, 33 Pausa, 33 Sospeso, 27 Da rileggere, 442 Da leggere - **drop rate: 1,91%**
+
+  
+
+[![Image 6: premio](https://www.animeclick.it/immagini/premi/neko_oro.png)](https://www.animeclick.it/news/84703-nekoawards-manga-vincono-beastars-e-slam-dunk)
+
+[![Image 7: premio](https://www.animeclick.it/immagini/premi/neko_argento.png)](https://www.animeclick.it/news/84611-nekoawards-manga-vincono-tokyo-ghoulre-e-the-promised-neverland-12)
+
+[![Image 8: premio](https://www.animeclick.it/immagini/premi/neko_argento.png)](https://www.animeclick.it/news/94033-nekoawards-2022-tutti-i-vincitori-manga)
+
+**Trama:** Hanamichi Sakuragi è una matricola del liceo Shohoku ed è sostanzialmente un attaccabrighe che non passa certo inosservato con i suoi capelli rossi fuori dal comune e con la sua altezza. Entrerà nel mondo del basket dopo essersi innamorato di una ragazza che si chiama Haruko, alla quale questo sport piace molto... quindi per conquistarla decide di entrare nella squadra di basket della sua scuola... anche se è totalmente a digiuno di questo sport, di cui non conosce nemmeno le regole! Gli inizi non saranno quindi certo dei più semplici, ma sotto sotto si potrà pian piano scoprire in lui un talento innato per questo sport!
+
+  
+
+Per favore spendete 5 minuti per darci una mano, se siete registrati potrete anche guadagnare dai **3 ai 10 punti** utente. Le **recensioni sono moderate**, leggete il [vademecum del recensore](https://www.animeclick.it/news/55234-vademecum-del-buon-recensore) per non rischiare di vedervela disattivata. Mi raccomando, leggetelo ;-)
+
+* * *
+
+Utente
+
+Email (facoltativo):
+
+  
+
+Recensione (almeno 500 caratteri):
+
+Caratteri 0
+
+Volumi Letti:
+
+Voto:
+
+  
+
+[![Image 9: Slam Dunk](https://www.animeclick.it/immagini/manga/Slam_Dunk/gallery/Slam_Dunk-59a5fa074bf8c.jpg)](https://www.animeclick.it/immagini/manga/Slam_Dunk/gallery_original/Slam_Dunk-59a5fa074bf8c.jpg)
+
+[![Image 10: Slam Dunk](https://www.animeclick.it/immagini/manga/Slam_Dunk/gallery/Slam_Dunk-59a5fa0d40043.jpg)](https://www.animeclick.it/immagini/manga/Slam_Dunk/gallery_original/Slam_Dunk-59a5fa0d40043.jpg)
+
+[![Image 11: Slam Dunk](https://www.animeclick.it/immagini/manga/Slam_Dunk/gallery/Slam_Dunk-59a5fa12316c6.jpg)](https://www.animeclick.it/immagini/manga/Slam_Dunk/gallery_original/Slam_Dunk-59a5fa12316c6.jpg)
+
+[![Image 12: Slam Dunk](https://www.animeclick.it/immagini/manga/Slam_Dunk/gallery/Slam_Dunk-59a5fa18dc845.jpg)](https://www.animeclick.it/immagini/manga/Slam_Dunk/gallery_original/Slam_Dunk-59a5fa18dc845.jpg)
+
+[![Image 13: Slam Dunk](https://www.animeclick.it/immagini/manga/Slam_Dunk/gallery/Slam_Dunk-59a5fa1e95f74.jpg)](https://www.animeclick.it/immagini/manga/Slam_Dunk/gallery_original/Slam_Dunk-59a5fa1e95f74.jpg)
+
+[![Image 14: Slam Dunk](https://www.animeclick.it/immagini/manga/Slam_Dunk/gallery/Slam_Dunk-59a5fa264bdb4.jpg)](https://www.animeclick.it/immagini/manga/Slam_Dunk/gallery_original/Slam_Dunk-59a5fa264bdb4.jpg)
+
+Immagini riprodotte in misura limitata a fini divulgativi, di critica e recensione, senza finalità sostitutive o concorrenziali rispetto alle opere originali (art. 70 L. 633/1941; art. 5.3.d Dir. 2001/29/CE). I diritti appartengono ai rispettivi titolari. © Shueisha
+
+Ultima uscita
+
+[![Image 15: Immagine evento](https://www.animeclick.it/manga/9551/slam-dunk) #### Panini Comics ![Image 16](https://www.animeclick.it/immagini/bandiere/16/IT.png) ##### Slam Dunk ### The First Slam Dunk re:Source](https://www.animeclick.it/edizione/3097922/the-first-slam-dunk-re-source)
+
+News
+
+[![Image 17: Troppi fan di Slam Dunk: l'iconico passaggio a livello ora è un problema per Kamakura](https://www.animeclick.it/prove/img_tmp/109397-3df17e65cb2cd075.jpg)](https://www.animeclick.it/news/109397-troppi-fan-di-slam-dunk-liconico-passaggio-a-livello-ora-e-un-problema-per-kamakura)
+
+##### [Troppi fan di Slam Dunk: l'iconico passaggio a livello ora è un problema per Kamakura](https://www.animeclick.it/news/109397-troppi-fan-di-slam-dunk-liconico-passaggio-a-livello-ora-e-un-problema-per-kamakura)
+
+[![Image 18: I manga/anime (s)consigliati dall'utenza di AnimeClick.it (04/01/2026)](https://www.animeclick.it/prove/img_tmp/108932-b82a524327188336.jpg)](https://www.animeclick.it/news/108932-i-mangaanime-sconsigliati-dallutenza-di-animeclickit-04012026)
+
+##### [I manga/anime (s)consigliati dall'utenza di AnimeClick.it (04/01/2026)](https://www.animeclick.it/news/108932-i-mangaanime-sconsigliati-dallutenza-di-animeclickit-04012026)
+
+[![Image 19: Addio al doppiatore Tomomichi Nishimura](https://www.animeclick.it/prove/img_tmp/109061-248d2bbbbf5b7844.jpg)](https://www.animeclick.it/news/109061-addio-al-doppiatore-tomomichi-nishimura)
+
+##### [Addio al doppiatore Tomomichi Nishimura](https://www.animeclick.it/news/109061-addio-al-doppiatore-tomomichi-nishimura)
+
+[![Image 20: The First Slam Dunk: unboxing della Blu Ray 4K Steelbook di Anime Factory](https://www.animeclick.it/prove/img_tmp/105538-83da3bf2a119f906.jpg)](https://www.animeclick.it/news/105538-the-first-slam-dunk-unboxing-della-blu-ray-4k-steelbook-di-anime-factory)
+
+##### [The First Slam Dunk: unboxing della Blu Ray 4K Steelbook di Anime Factory](https://www.animeclick.it/news/105538-the-first-slam-dunk-unboxing-della-blu-ray-4k-steelbook-di-anime-factory)
+
+[![Image 21: Box Office Giappone: Last Mile sempre primo per la terza settimana consecutiva](https://www.animeclick.it/prove/img_tmp/104631-34492d2e6a859d22.jpeg)](https://www.animeclick.it/news/104631-box-office-giappone-last-mile-sempre-primo-per-la-terza-settimana-consecutiva)
+
+##### [Box Office Giappone: Last Mile sempre primo per la terza settimana consecutiva](https://www.animeclick.it/news/104631-box-office-giappone-last-mile-sempre-primo-per-la-terza-settimana-consecutiva)
+
+[![Image 22: Box Office Giappone: Last Mile ancora al primo posto per la seconda settimana](https://www.animeclick.it/prove/img_tmp/104567-3db1bae89d41c17b.jpeg)](https://www.animeclick.it/news/104567-box-office-giappone-last-mile-ancora-al-primo-posto-per-la-seconda-settimana)
+
+##### [Box Office Giappone: Last Mile ancora al primo posto per la seconda settimana](https://www.animeclick.it/news/104567-box-office-giappone-last-mile-ancora-al-primo-posto-per-la-seconda-settimana)
+
+[![Image 23: Box Office Giappone: tornano in classifica Haikyu e The First Slam Dunk](https://www.animeclick.it/prove/img_tmp/104463-fdc7d5d0c3ca9f40.jpg)](https://www.animeclick.it/news/104463-box-office-giappone-tornano-in-classifica-haikyu-e-the-first-slam-dunk)
+
+##### [Box Office Giappone: tornano in classifica Haikyu e The First Slam Dunk](https://www.animeclick.it/news/104463-box-office-giappone-tornano-in-classifica-haikyu-e-the-first-slam-dunk)
+
+[![Image 24: Olimpiadi Parigi 2024: suona l'opening di Haikyuu, e omaggio di Slam Dunk](https://www.animeclick.it/prove/img_tmp/104289-024eff7b2e25fb3a.jpg)](https://www.animeclick.it/news/104289-olimpiadi-parigi-2024-suona-opening-di-haikyuu-e-omaggio-di-slam-dunk)
+
+##### [Olimpiadi Parigi 2024: suona l'opening di Haikyuu, e omaggio di Slam Dunk](https://www.animeclick.it/news/104289-olimpiadi-parigi-2024-suona-opening-di-haikyuu-e-omaggio-di-slam-dunk)
+
+[![Image 25: The First Take: le intramontabili hit di Slam Dunk e Hana Yori Dango in versione studio](https://www.animeclick.it/prove/img_tmp/104107-e6c2954c6c530680.jpg)](https://www.animeclick.it/news/104107-the-first-take-le-intramontabili-hit-di-slam-dunk-e-hana-yori-dango-in-versione-studio)
+
+##### [The First Take: le intramontabili hit di Slam Dunk e Hana Yori Dango in versione studio](https://www.animeclick.it/news/104107-the-first-take-le-intramontabili-hit-di-slam-dunk-e-hana-yori-dango-in-versione-studio)
+
+[![Image 26: Slam Dunk](https://www.animeclick.it/images/serie/SlamDunk/SlamDunk-cover-thumb.jpg)](https://www.animeclick.it/anime/530/slam-dunk)
+
+##### [Slam Dunk](https://www.animeclick.it/anime/530/slam-dunk)
+
+[![Image 27: Slam Dunk 10 Days After](https://www.animeclick.it/images/manga/SlamDunk10DaysAfter/SlamDunk10DaysAfter1-thumb.jpg)](https://www.animeclick.it/manga/10300/slam-dunk-10-days-after)
+
+##### [Slam Dunk 10 Days After](https://www.animeclick.it/manga/10300/slam-dunk-10-days-after)
+
+Scopri di più
+
+Comics
+
+Leggi Comics
+
+Abbonamento Manga
+
+Notizie Anime Manga
+
+Merchandise Anime
+
+Guarda Film
+
+film
+
+Leggi Fumetti
+
+  
+
+[![Image 28: Slam Dunk - National Champions, Sakuragi Hanamichi!](https://www.animeclick.it/images/serie/SlamDunkMovie2/SlamDunkMovie2-cover-thumb.jpg)](https://www.animeclick.it/anime/2438/slam-dunk-movie-2)
+
+##### [Slam Dunk - National Champions, Sakuragi Hanamichi!](https://www.animeclick.it/anime/2438/slam-dunk-movie-2)
+
+AnimeClick.it è un sito amatoriale gestito dall'associazione culturale NO PROFIT **[Associazione NewType Media](http://www.antme.it/)**. L'Associazione NewType Media, così come il sito AnimeClick.it da essa gestito, non perseguono alcun fine di lucro, e ai sensi del L.n. 383/2000 tutti i proventi delle attività svolte sono destinati allo svolgimento delle attività istituzionali statutariamente previste, ed in nessun caso possono essere divisi fra gli associati, anche in forme indirette.  
+ Associazione NewType Media | Codice Fiscale: 04036010231 Sede legale: Via Cattaneo 15 - 37060 Sona (VR)  
+ Salvo diversa indicazione, i contenuti redazionali di AnimeClick.it sono distribuiti con licenza [Creative Commons Attribuzione - Non commerciale - Non opere derivate 4.0 Internazionale (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.it). [Termini e condizioni](https://www.animeclick.it/termini-di-servizio). [Privacy policy](https://www.animeclick.it/privacy).
