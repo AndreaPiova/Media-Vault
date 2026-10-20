@@ -27,7 +27,7 @@
         "count": 8
       }
     ],
-    "lastChecked": "2026-10-19T10:20:46.715Z",
+    "lastChecked": "2026-10-20T05:23:49.348Z",
     "status": 200,
     "via": "jina"
   },
@@ -54,7 +54,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-10-19T10:20:46.715Z",
+    "lastChecked": "2026-10-20T05:23:49.348Z",
     "status": 200,
     "via": "jina"
   },
@@ -66,7 +66,7 @@
         "count": 11
       }
     ],
-    "lastChecked": "2026-10-19T10:20:46.715Z",
+    "lastChecked": "2026-10-20T05:23:49.348Z",
     "status": 200,
     "via": "jina"
   },
@@ -78,7 +78,7 @@
         "count": 6
       }
     ],
-    "lastChecked": "2026-10-19T10:20:46.715Z",
+    "lastChecked": "2026-10-20T05:23:49.348Z",
     "status": 200,
     "via": "jina"
   },
@@ -95,7 +95,7 @@
         "count": 9
       }
     ],
-    "lastChecked": "2026-10-19T10:19:49.073Z",
+    "lastChecked": "2026-10-20T05:23:44.173Z",
     "status": 200,
     "via": "jina"
   },
@@ -107,7 +107,7 @@
         "count": 20
       }
     ],
-    "lastChecked": "2026-10-19T10:19:49.073Z",
+    "lastChecked": "2026-10-20T05:23:44.173Z",
     "status": 200,
     "via": "jina"
   },
@@ -119,7 +119,7 @@
         "count": 18
       }
     ],
-    "lastChecked": "2026-10-19T10:19:49.073Z",
+    "lastChecked": "2026-10-20T05:23:44.173Z",
     "status": 200,
     "via": "jina"
   },
@@ -131,7 +131,7 @@
         "count": 5
       }
     ],
-    "lastChecked": "2026-10-19T10:19:49.073Z",
+    "lastChecked": "2026-10-20T05:23:44.173Z",
     "status": 200,
     "via": "jina"
   },
@@ -148,7 +148,7 @@
         "count": 3
       }
     ],
-    "lastChecked": "2026-10-19T10:19:49.073Z",
+    "lastChecked": "2026-10-20T05:23:44.173Z",
     "status": 200,
     "via": "jina"
   },
@@ -170,7 +170,7 @@
         "count": 3
       }
     ],
-    "lastChecked": "2026-10-19T10:19:49.073Z",
+    "lastChecked": "2026-10-20T05:23:44.173Z",
     "status": 200,
     "via": "jina"
   },
@@ -192,7 +192,7 @@
         "count": 2
       }
     ],
-    "lastChecked": "2026-10-19T10:19:49.073Z",
+    "lastChecked": "2026-10-20T05:23:44.173Z",
     "status": 200,
     "via": "jina"
   },
@@ -209,16 +209,16 @@
         "count": 3
       }
     ],
-    "lastChecked": "2026-10-19T10:19:49.073Z",
+    "lastChecked": "2026-10-20T05:23:44.173Z",
     "status": 200,
     "via": "jina"
   },
   "m13": {
     "editions": [],
     "variants": [],
-    "lastChecked": "2026-10-19T10:10:23.805Z",
+    "lastChecked": "2026-10-20T05:20:11.556Z",
     "status": 200,
-    "via": "jina",
+    "via": "jina-html",
     "error": "pagina letta ma nessuna edizione riconosciuta"
   },
   "m14": {
@@ -229,7 +229,7 @@
         "count": 15
       }
     ],
-    "lastChecked": "2026-10-19T10:19:49.073Z",
+    "lastChecked": "2026-10-20T05:23:44.173Z",
     "status": 200,
     "via": "jina"
   },
@@ -241,7 +241,7 @@
         "count": 18
       }
     ],
-    "lastChecked": "2026-10-19T10:19:49.073Z",
+    "lastChecked": "2026-10-20T05:23:44.173Z",
     "status": 200,
     "via": "jina"
   },
@@ -269,7 +269,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-19T10:20:03.460Z",
+    "lastChecked": "2026-10-20T05:23:45.466Z",
     "status": 200,
     "via": "jina"
   },
@@ -291,7 +291,7 @@
         "count": 3
       }
     ],
-    "lastChecked": "2026-10-19T10:20:03.460Z",
+    "lastChecked": "2026-10-20T05:23:45.466Z",
     "status": 200,
     "via": "jina"
   },
@@ -303,7 +303,7 @@
         "count": 10
       }
     ],
-    "lastChecked": "2026-10-19T10:20:03.461Z",
+    "lastChecked": "2026-10-20T05:23:45.466Z",
     "status": 200,
     "via": "jina"
   },
@@ -320,7 +320,7 @@
         "count": 9
       }
     ],
-    "lastChecked": "2026-10-19T10:20:03.461Z",
+    "lastChecked": "2026-10-20T05:23:45.466Z",
     "status": 200,
     "via": "jina"
   },
@@ -342,7 +342,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-10-19T10:20:03.461Z",
+    "lastChecked": "2026-10-20T05:23:45.466Z",
     "status": 200,
     "via": "jina"
   },
@@ -365,7 +365,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-19T10:20:17.953Z",
+    "lastChecked": "2026-10-20T05:23:46.760Z",
     "status": 200,
     "via": "jina"
   },
@@ -387,7 +387,7 @@
         "count": 2
       }
     ],
-    "lastChecked": "2026-10-19T10:20:17.953Z",
+    "lastChecked": "2026-10-20T05:23:46.760Z",
     "status": 200,
     "via": "jina"
   },
@@ -399,7 +399,7 @@
         "count": 11
       }
     ],
-    "lastChecked": "2026-10-19T10:20:17.953Z",
+    "lastChecked": "2026-10-20T05:23:46.760Z",
     "status": 200,
     "via": "jina"
   },
@@ -411,7 +411,7 @@
         "count": 11
       }
     ],
-    "lastChecked": "2026-10-19T10:20:17.953Z",
+    "lastChecked": "2026-10-20T05:23:46.760Z",
     "status": 200,
     "via": "jina"
   },
@@ -424,7 +424,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-19T10:20:32.370Z",
+    "lastChecked": "2026-10-20T05:23:48.054Z",
     "status": 200,
     "via": "jina"
   },
@@ -441,7 +441,7 @@
         "count": 14
       }
     ],
-    "lastChecked": "2026-10-19T10:20:32.370Z",
+    "lastChecked": "2026-10-20T05:23:48.054Z",
     "status": 200,
     "via": "jina"
   },
@@ -473,7 +473,7 @@
         "count": 12
       }
     ],
-    "lastChecked": "2026-10-19T10:20:32.370Z",
+    "lastChecked": "2026-10-20T05:23:48.054Z",
     "status": 200,
     "via": "jina"
   },
@@ -505,7 +505,7 @@
         "count": 4
       }
     ],
-    "lastChecked": "2026-10-19T10:20:32.370Z",
+    "lastChecked": "2026-10-20T05:23:48.054Z",
     "status": 200,
     "via": "jina"
   },
@@ -518,79 +518,201 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-19T10:20:46.714Z",
+    "lastChecked": "2026-10-20T05:23:49.348Z",
     "status": 200,
     "via": "jina"
   },
   "m29": {
     "editions": [
       {
+        "slug": "tower-of-god",
+        "pub": "Star Comics",
         "group": "Tower of God",
-        "maxVol": 23,
-        "count": 12
+        "maxVol": 18,
+        "count": 18,
+        "first": "2021-06-16",
+        "last": "2026-09-08"
       },
       {
+        "slug": "tower-of-god-variant-cover-edition",
+        "pub": "Star Comics",
         "group": "Tower of God Variant Cover Edition",
-        "maxVol": 5,
-        "count": 3
+        "maxVol": 1,
+        "count": 1,
+        "first": "",
+        "last": ""
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-19T10:10:59.606Z",
+    "lastChecked": "2026-10-20T05:23:11.999Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m31": {
     "editions": [
       {
+        "slug": "blue-period",
+        "pub": "JPOP",
         "group": "Blue Period",
-        "maxVol": 67,
-        "count": 15
+        "maxVol": 18,
+        "count": 18,
+        "first": "2020-09-16",
+        "last": "2026-09-02"
       },
       {
+        "slug": "blue-period-variant-mangayo",
+        "pub": "MangaYo!",
         "group": "Blue Period Variant MangaYo!",
-        "maxVol": 6,
-        "count": 2
+        "maxVol": 1,
+        "count": 1,
+        "first": "2021-11-15",
+        "last": "2021-11-15"
       },
       {
+        "slug": "blue-period-special-edition",
+        "pub": "JPOP",
         "group": "Blue Period Special Edition",
         "maxVol": 8,
-        "count": 3
+        "count": 1,
+        "first": "2022-01-13",
+        "last": "2022-01-13"
+      },
+      {
+        "slug": "blue-period-variant-con-coloring-book",
+        "pub": "JPOP",
+        "group": "Blue Period Variant con coloring book",
+        "maxVol": 16,
+        "count": 1,
+        "first": "2025-07-23",
+        "last": "2025-07-23"
       }
     ],
-    "lastChecked": "2026-10-19T10:11:16.817Z",
+    "lastChecked": "2026-10-20T05:23:20.404Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m32": {
     "editions": [
       {
-        "group": "All Color But The Black",
-        "maxVol": 3,
-        "count": 3
+        "slug": "bleach",
+        "pub": "Panini Comics",
+        "group": "Bleach",
+        "maxVol": 74,
+        "count": 74,
+        "first": "2006-05-11",
+        "last": "2017-11-02"
       },
       {
-        "group": "Bleach",
-        "maxVol": 24,
-        "count": 8
+        "slug": "bleach-gold",
+        "pub": "Panini Comics",
+        "group": "Bleach Gold",
+        "maxVol": 74,
+        "count": 74,
+        "first": "2009-04-26",
+        "last": "2019-10-24"
+      },
+      {
+        "slug": "bleach-gold-deluxe",
+        "pub": "Panini Comics",
+        "group": "Bleach Gold Deluxe",
+        "maxVol": 74,
+        "count": 74,
+        "first": "2009-04-26",
+        "last": "2019-10-24"
+      },
+      {
+        "slug": "bleach-la-gazzetta-dello-sport",
+        "pub": "La Gazzetta dello Sport",
+        "group": "Bleach (La Gazzetta dello Sport)",
+        "maxVol": 74,
+        "count": 74,
+        "first": "2023-04-19",
+        "last": "2024-09-11"
+      },
+      {
+        "slug": "bleach-corriere-dello-sport",
+        "pub": "Il Corriere dello Sport",
+        "group": "Bleach (Corriere dello Sport)",
+        "maxVol": 48,
+        "count": 48,
+        "first": "2017-07-01",
+        "last": "2018-05-26"
+      },
+      {
+        "slug": "bleach-variant-lenticolare",
+        "pub": "Panini Comics",
+        "group": "Bleach Variant Lenticolare",
+        "maxVol": 74,
+        "count": 1,
+        "first": "2017-11-02",
+        "last": "2017-11-02"
+      },
+      {
+        "slug": "bleach-christmas-variant",
+        "pub": "Panini Comics",
+        "group": "Bleach Christmas Variant",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2022-12-22",
+        "last": "2022-12-22"
+      },
+      {
+        "slug": "all-color-but-the-black",
+        "pub": "Panini Comics",
+        "group": "All Color But The Black",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2008-07-10",
+        "last": "2008-07-10"
+      },
+      {
+        "slug": "the-best-of-planet-manga-steelbox-collection-bleach",
+        "pub": "Panini Comics",
+        "group": "The Best of Planet Manga – Steelbox Collection: Bleach",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2020-12-17",
+        "last": "2020-12-17"
+      },
+      {
+        "slug": "bleach-official-bootleg",
+        "pub": "Panini Comics",
+        "group": "Bleach Official Bootleg",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2017-10-26",
+        "last": "2017-10-26"
+      },
+      {
+        "slug": "bleach-brave-souls-official-artworks",
+        "pub": "Panini Comics",
+        "group": "Bleach Brave Souls - Official Artworks",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2024-04-18",
+        "last": "2024-04-18"
       }
     ],
-    "lastChecked": "2026-10-19T10:11:46.441Z",
+    "lastChecked": "2026-10-20T05:23:30.172Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m33": {
     "editions": [
       {
+        "slug": "kappa-la-scena-dellinferno",
+        "pub": "Ronin Manga",
         "group": "Kappa - La scena dell'inferno",
-        "maxVol": 6,
-        "count": 2
+        "maxVol": 0,
+        "count": 0,
+        "first": "2012-11-17",
+        "last": "2012-11-17"
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-19T10:12:18.331Z",
+    "lastChecked": "2026-10-20T05:23:40.292Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m34": {
     "editions": [
@@ -600,7 +722,7 @@
         "count": 8
       }
     ],
-    "lastChecked": "2026-10-19T10:12:35.354Z",
+    "lastChecked": "2026-10-20T05:23:40.292Z",
     "status": 200,
     "via": "jina"
   },
@@ -617,7 +739,7 @@
         "count": 8
       }
     ],
-    "lastChecked": "2026-10-19T10:12:54.296Z",
+    "lastChecked": "2026-10-20T05:23:40.292Z",
     "status": 200,
     "via": "jina"
   },
@@ -689,7 +811,7 @@
         "count": 3
       }
     ],
-    "lastChecked": "2026-10-19T10:13:25.209Z",
+    "lastChecked": "2026-10-20T05:23:40.292Z",
     "status": 200,
     "via": "jina"
   },
@@ -702,7 +824,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-19T10:13:56.899Z",
+    "lastChecked": "2026-10-20T05:23:41.585Z",
     "status": 200,
     "via": "jina"
   },
@@ -714,7 +836,7 @@
         "count": 11
       }
     ],
-    "lastChecked": "2026-10-19T10:14:14.441Z",
+    "lastChecked": "2026-10-20T05:23:41.585Z",
     "status": 200,
     "via": "jina"
   },
@@ -726,7 +848,7 @@
         "count": 10
       }
     ],
-    "lastChecked": "2026-10-19T10:14:32.148Z",
+    "lastChecked": "2026-10-20T05:23:41.586Z",
     "status": 200,
     "via": "jina"
   },
@@ -738,7 +860,7 @@
         "count": 18
       }
     ],
-    "lastChecked": "2026-10-19T10:14:56.637Z",
+    "lastChecked": "2026-10-20T05:23:41.586Z",
     "status": 200,
     "via": "jina"
   },
@@ -755,7 +877,7 @@
         "count": 2
       }
     ],
-    "lastChecked": "2026-10-19T10:15:16.350Z",
+    "lastChecked": "2026-10-20T05:23:41.586Z",
     "status": 200,
     "via": "jina"
   },
@@ -772,7 +894,7 @@
         "count": 3
       }
     ],
-    "lastChecked": "2026-10-19T10:15:33.851Z",
+    "lastChecked": "2026-10-20T05:23:41.586Z",
     "status": 200,
     "via": "jina"
   },
@@ -789,7 +911,7 @@
         "count": 3
       }
     ],
-    "lastChecked": "2026-10-19T10:15:52.706Z",
+    "lastChecked": "2026-10-20T05:23:41.586Z",
     "status": 200,
     "via": "jina"
   },
@@ -831,7 +953,7 @@
         "count": 8
       }
     ],
-    "lastChecked": "2026-10-19T10:16:10.212Z",
+    "lastChecked": "2026-10-20T05:23:41.586Z",
     "status": 200,
     "via": "jina"
   },
@@ -843,7 +965,7 @@
         "count": 11
       }
     ],
-    "lastChecked": "2026-10-19T10:16:29.527Z",
+    "lastChecked": "2026-10-20T05:23:41.586Z",
     "status": 200,
     "via": "jina"
   },
@@ -855,7 +977,7 @@
         "count": 18
       }
     ],
-    "lastChecked": "2026-10-19T10:16:47.051Z",
+    "lastChecked": "2026-10-20T05:23:41.586Z",
     "status": 200,
     "via": "jina"
   },
@@ -867,7 +989,7 @@
         "count": 14
       }
     ],
-    "lastChecked": "2026-10-19T10:17:04.868Z",
+    "lastChecked": "2026-10-20T05:23:41.586Z",
     "status": 200,
     "via": "jina"
   },
@@ -879,7 +1001,7 @@
         "count": 9
       }
     ],
-    "lastChecked": "2026-10-19T10:17:21.988Z",
+    "lastChecked": "2026-10-20T05:23:41.586Z",
     "status": 200,
     "via": "jina"
   },
@@ -897,7 +1019,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-19T10:17:53.567Z",
+    "lastChecked": "2026-10-20T05:23:42.879Z",
     "status": 200,
     "via": "jina"
   },
@@ -925,7 +1047,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-19T10:18:25.381Z",
+    "lastChecked": "2026-10-20T05:23:44.173Z",
     "status": 200,
     "via": "jina"
   },
@@ -947,7 +1069,7 @@
         "count": 2
       }
     ],
-    "lastChecked": "2026-10-19T10:18:46.112Z",
+    "lastChecked": "2026-10-20T05:23:44.173Z",
     "status": 200,
     "via": "jina"
   },
@@ -959,7 +1081,7 @@
         "count": 11
       }
     ],
-    "lastChecked": "2026-10-19T10:19:03.242Z",
+    "lastChecked": "2026-10-20T05:23:44.173Z",
     "status": 200,
     "via": "jina"
   },
@@ -976,196 +1098,720 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-10-19T10:19:20.372Z",
+    "lastChecked": "2026-10-20T05:23:44.173Z",
     "status": 200,
     "via": "jina"
   },
   "m56": {
-    "editions": [],
-    "lastChecked": "2026-10-19T10:19:20.372Z",
-    "status": 403,
-    "via": "jina"
+    "editions": [
+      {
+        "slug": "the-promised-neverland",
+        "pub": "JPOP",
+        "group": "The Promised Neverland",
+        "maxVol": 20,
+        "count": 20,
+        "first": "2018-01-31",
+        "last": "2021-03-31"
+      },
+      {
+        "slug": "the-promised-neverland-grace-field-collection-set",
+        "pub": "JPOP",
+        "group": "The Promised Neverland - Grace Field Collection Set",
+        "maxVol": 3,
+        "count": 3,
+        "first": "2020-02-26",
+        "last": "2022-10-19"
+      },
+      {
+        "slug": "the-promised-neverland-variant-popstore",
+        "pub": "PopStore",
+        "group": "The Promised Neverland Variant Popstore",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2018-01-31",
+        "last": "2018-01-31"
+      },
+      {
+        "slug": "the-promised-neverland-variant-feltrinelli",
+        "pub": "Feltrinelli",
+        "group": "The Promised Neverland Variant Feltrinelli",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2022-04-28",
+        "last": "2022-04-28"
+      },
+      {
+        "slug": "the-promised-neverland-greatest-hits-cut-price",
+        "pub": "JPOP",
+        "group": "The Promised Neverland Greatest Hits Cut Price",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2024-09-18",
+        "last": "2024-09-18"
+      },
+      {
+        "slug": "the-promised-neverland-starter-pack",
+        "pub": "JPOP",
+        "group": "The Promised Neverland - Starter Pack",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2019-12-11",
+        "last": "2019-12-11"
+      },
+      {
+        "slug": "the-promised-neverland-artbook",
+        "pub": "JPOP",
+        "group": "The Promised Neverland Artbook",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2022-09-28",
+        "last": "2022-09-28"
+      }
+    ],
+    "lastChecked": "2026-10-20T05:20:19.946Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m57": {
-    "editions": [],
-    "lastChecked": "2026-10-19T10:19:20.372Z",
-    "status": 403,
-    "via": "jina"
+    "editions": [
+      {
+        "slug": "dead-dead-demons-dededededestruction",
+        "pub": "Panini Comics",
+        "group": "Dead Dead Demon’s Dededededestruction",
+        "maxVol": 12,
+        "count": 12,
+        "first": "2017-02-23",
+        "last": "2022-09-29"
+      }
+    ],
+    "lastChecked": "2026-10-20T05:20:28.292Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m70": {
-    "editions": [],
-    "lastChecked": "2026-10-19T10:19:20.372Z",
-    "status": 403,
-    "via": "jina"
+    "editions": [
+      {
+        "slug": "mpd-psycho",
+        "pub": "Panini Comics",
+        "group": "MPD Psycho",
+        "maxVol": 24,
+        "count": 24,
+        "first": "2004-05-15",
+        "last": "2017-03-02"
+      },
+      {
+        "slug": "mpd-psycho-pack",
+        "pub": "Panini Comics",
+        "group": "MPD Psycho Pack",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2011-12-17",
+        "last": "2011-12-17"
+      }
+    ],
+    "lastChecked": "2026-10-20T05:20:36.591Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m58": {
-    "editions": [],
+    "editions": [
+      {
+        "slug": "beastars",
+        "pub": "Panini Comics",
+        "group": "Beastars",
+        "maxVol": 22,
+        "count": 22,
+        "first": "2019-03-14",
+        "last": "2021-12-16"
+      },
+      {
+        "slug": "beastars-variant",
+        "pub": "Panini Comics",
+        "group": "Beastars Variant",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2019-03-14",
+        "last": "2019-03-14"
+      },
+      {
+        "slug": "beastars-variant-lucca",
+        "pub": "Panini Comics",
+        "group": "Beastars Variant Lucca",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2026-10-28",
+        "last": "2026-10-28"
+      },
+      {
+        "slug": "larte-di-paru-itagaki",
+        "pub": "Panini Comics",
+        "group": "L'arte di Paru Itagaki",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2026-10-28",
+        "last": "2026-10-28"
+      },
+      {
+        "slug": "paru-itagaki-portfolio",
+        "pub": "Panini Comics",
+        "group": "Paru Itagaki Portfolio",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2026-10-28",
+        "last": "2026-10-28"
+      }
+    ],
     "variants": [],
-    "lastChecked": "2026-10-19T10:19:34.701Z",
-    "status": 403,
-    "via": "jina"
+    "lastChecked": "2026-10-20T05:20:47.036Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m59": {
-    "editions": [],
-    "lastChecked": "2026-10-19T10:19:34.701Z",
-    "status": 403,
-    "via": "jina"
+    "editions": [
+      {
+        "slug": "gantz",
+        "pub": "Panini Comics",
+        "group": "Gantz",
+        "maxVol": 37,
+        "count": 37,
+        "first": "2002-03-21",
+        "last": "2014-03-08"
+      },
+      {
+        "slug": "gantz-nuova-edizione",
+        "pub": "Panini Comics",
+        "group": "Gantz - Nuova Edizione",
+        "maxVol": 37,
+        "count": 37,
+        "first": "2015-12-19",
+        "last": "2018-12-13"
+      }
+    ],
+    "lastChecked": "2026-10-20T05:20:55.363Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m60": {
-    "editions": [],
-    "lastChecked": "2026-10-19T10:19:34.701Z",
-    "status": 403,
-    "via": "jina"
+    "editions": [
+      {
+        "slug": "claymore",
+        "pub": "Star Comics",
+        "group": "Claymore",
+        "maxVol": 27,
+        "count": 27,
+        "first": "2005-06-09",
+        "last": "2015-06-13"
+      },
+      {
+        "slug": "claymore-new-edition",
+        "pub": "Star Comics",
+        "group": "Claymore New Edition",
+        "maxVol": 27,
+        "count": 27,
+        "first": "2022-10-28",
+        "last": "2025-02-11"
+      }
+    ],
+    "lastChecked": "2026-10-20T05:21:03.599Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m61": {
     "editions": [],
-    "lastChecked": "2026-10-19T10:19:34.701Z",
-    "status": 403,
-    "via": "jina"
+    "lastChecked": "2026-10-20T05:21:11.867Z",
+    "status": 200,
+    "via": "jina-html",
+    "error": "pagina letta ma nessuna edizione riconosciuta"
   },
   "m62": {
-    "editions": [],
-    "lastChecked": "2026-10-19T10:19:34.701Z",
-    "status": 403,
-    "via": "jina"
+    "editions": [
+      {
+        "slug": "hanako-kun-i-sette-misteri-dellaccademia-kamome",
+        "pub": "JPOP",
+        "group": "Hanako kun - I sette misteri dell'Accademia Kamome",
+        "maxVol": 26,
+        "count": 26,
+        "first": "2020-10-14",
+        "last": "2026-11-30"
+      },
+      {
+        "slug": "hanako-kun-i-sette-misteri-dellaccademia-kamome-special-edition-ghost-hotels-cafè-picture-book",
+        "pub": "JPOP",
+        "group": "Hanako kun - I sette misteri dell’Accademia Kamome Special Edition + Ghost Hotel’s Cafè Picture Book",
+        "maxVol": 11,
+        "count": 1,
+        "first": "2021-09-22",
+        "last": "2021-09-22"
+      },
+      {
+        "slug": "hanako-kun-art-work-2",
+        "pub": "JPOP",
+        "group": "Hanako kun - Art Work",
+        "maxVol": 2,
+        "count": 1,
+        "first": "2023-12-20",
+        "last": "2023-12-20"
+      },
+      {
+        "slug": "hanako-kun-i-sette-misteri-dellaccademia-kamome-greatest-hits-cut-price",
+        "pub": "JPOP",
+        "group": "Hanako kun - I sette misteri dell'Accademia Kamome Greatest Hits Cut Price",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2024-10-23",
+        "last": "2024-10-23"
+      },
+      {
+        "slug": "hanako-kun-art-work",
+        "pub": "JPOP",
+        "group": "Hanako kun - Art Work",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2022-10-12",
+        "last": "2022-10-12"
+      }
+    ],
+    "lastChecked": "2026-10-20T05:21:20.163Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m63": {
-    "editions": [],
-    "lastChecked": "2026-10-19T10:19:34.701Z",
-    "status": 403,
-    "via": "jina"
+    "editions": [
+      {
+        "slug": "hells-paradise-jigokuraku",
+        "pub": "JPOP",
+        "group": "Hell's Paradise – Jigokuraku",
+        "maxVol": 13,
+        "count": 13,
+        "first": "2019-10-16",
+        "last": "2021-11-24"
+      }
+    ],
+    "lastChecked": "2026-10-20T05:21:28.342Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m64": {
-    "editions": [],
-    "lastChecked": "2026-10-19T10:19:34.701Z",
-    "status": 403,
-    "via": "jina"
+    "editions": [
+      {
+        "slug": "spice-and-wolf",
+        "pub": "Panini Comics",
+        "group": "Spice and Wolf",
+        "maxVol": 16,
+        "count": 16,
+        "first": "2011-11-12",
+        "last": "2018-10-18"
+      },
+      {
+        "slug": "spice-and-wolf-double-edition",
+        "pub": "Panini Comics",
+        "group": "Spice and Wolf - Double Edition",
+        "maxVol": 8,
+        "count": 8,
+        "first": "2021-01-28",
+        "last": "2022-03-31"
+      }
+    ],
+    "lastChecked": "2026-10-20T05:21:36.615Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m65": {
-    "editions": [],
+    "editions": [
+      {
+        "slug": "komi-cant-communicate",
+        "pub": "JPOP",
+        "group": "Komi Can't Communicate",
+        "maxVol": 37,
+        "count": 37,
+        "first": "2020-09-30",
+        "last": "2025-12-10"
+      },
+      {
+        "slug": "komi-cant-communicate-variant-edition-games-academy",
+        "pub": "Games Academy",
+        "group": "Komi Can't Communicate Variant Edition Games Academy",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2021-12-18",
+        "last": "2021-12-18"
+      },
+      {
+        "slug": "komi-cant-communicate-graduation-variant",
+        "pub": "JPOP",
+        "group": "Komi Can't Communicate - Graduation Variant",
+        "maxVol": 37,
+        "count": 1,
+        "first": "2025-12-10",
+        "last": "2025-12-10"
+      }
+    ],
     "variants": [],
-    "lastChecked": "2026-10-19T10:19:49.072Z",
-    "status": 403,
-    "via": "jina"
+    "lastChecked": "2026-10-20T05:21:46.677Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m66": {
-    "editions": [],
-    "lastChecked": "2026-10-19T10:19:49.072Z",
-    "status": 403,
-    "via": "jina"
+    "editions": [
+      {
+        "slug": "lo-squalificato",
+        "pub": "Panini Comics",
+        "group": "Lo squalificato",
+        "maxVol": 3,
+        "count": 3,
+        "first": "2014-04-05",
+        "last": "2014-06-14"
+      },
+      {
+        "slug": "lo-squalificato-complete-edition",
+        "pub": "Panini Comics",
+        "group": "Lo squalificato - Complete Edition",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2020-07-23",
+        "last": "2020-07-23"
+      }
+    ],
+    "lastChecked": "2026-10-20T05:21:54.794Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m67": {
-    "editions": [],
-    "lastChecked": "2026-10-19T10:19:49.072Z",
-    "status": 403,
-    "via": "jina"
+    "editions": [
+      {
+        "slug": "pandora-hearts",
+        "pub": "Star Comics",
+        "group": "Pandora Hearts",
+        "maxVol": 24,
+        "count": 24,
+        "first": "2012-11-03",
+        "last": "2016-03-02"
+      },
+      {
+        "slug": "pandora-hearts-new-edition",
+        "pub": "Star Comics",
+        "group": "Pandora Hearts New Edition",
+        "maxVol": 13,
+        "count": 13,
+        "first": "2024-04-30",
+        "last": "2026-03-24"
+      },
+      {
+        "slug": "pandora-hearts-official-guide-8.5-mine-of-mine",
+        "pub": "Star Comics",
+        "group": "Pandora Hearts Official Guide 8.5 - Mine of Mine",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2015-04-04",
+        "last": "2015-04-04"
+      },
+      {
+        "slug": "pandora-hearts-official-guide-18.5-evidence",
+        "pub": "Star Comics",
+        "group": "Pandora Hearts Official Guide 18.5 - Evidence",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2016-07-06",
+        "last": "2016-07-06"
+      },
+      {
+        "slug": "pandora-hearts-official-guide-24-1-last-dance",
+        "pub": "Star Comics",
+        "group": "Pandora Hearts Official Guide 24+1 - Last Dance",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2016-12-01",
+        "last": "2016-12-01"
+      }
+    ],
+    "lastChecked": "2026-10-20T05:22:03.316Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m68": {
-    "editions": [],
-    "lastChecked": "2026-10-19T10:19:49.072Z",
-    "status": 403,
-    "via": "jina"
+    "editions": [
+      {
+        "slug": "kenshin",
+        "pub": "Star Comics",
+        "group": "Kenshin",
+        "maxVol": 28,
+        "count": 28,
+        "first": "2001-04-01",
+        "last": "2003-07-10"
+      },
+      {
+        "slug": "rurouni-kenshin-perfect-edition",
+        "pub": "Star Comics",
+        "group": "Rurouni Kenshin Perfect Edition",
+        "maxVol": 22,
+        "count": 22,
+        "first": "2022-03-23",
+        "last": "2025-11-04"
+      }
+    ],
+    "lastChecked": "2026-10-20T05:22:11.782Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m69": {
-    "editions": [],
-    "lastChecked": "2026-10-19T10:19:49.072Z",
-    "status": 403,
-    "via": "jina"
+    "editions": [
+      {
+        "slug": "frieren-oltre-la-fine-del-viaggio",
+        "pub": "JPOP",
+        "group": "Frieren - Oltre la fine del viaggio",
+        "maxVol": 15,
+        "count": 15,
+        "first": "2021-10-13",
+        "last": "2026-06-24"
+      },
+      {
+        "slug": "frieren-oltre-la-fine-del-viaggio-edizione-deluxe",
+        "pub": "JPOP",
+        "group": "Frieren - Oltre la fine del viaggio - Edizione deluxe",
+        "maxVol": 15,
+        "count": 3,
+        "first": "2024-04-24",
+        "last": "2026-06-24"
+      },
+      {
+        "slug": "frieren-oltre-la-fine-del-viaggio-variant",
+        "pub": "JPOP",
+        "group": "Frieren - Oltre la fine del viaggio Variant",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2021-10-13",
+        "last": "2021-10-13"
+      },
+      {
+        "slug": "frieren-oltre-la-fine-del-viaggio-variant-popstore",
+        "pub": "PopStore",
+        "group": "Frieren - Oltre la fine del viaggio Variant Popstore",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2021-10-13",
+        "last": "2021-10-13"
+      },
+      {
+        "slug": "frieren-oltre-la-fine-del-viaggio-art-works",
+        "pub": "JPOP",
+        "group": "Frieren - Oltre la fine del viaggio - Art Works",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2024-09-25",
+        "last": "2024-09-25"
+      },
+      {
+        "slug": "frieren-oltre-la-fine-del-viaggio-official-fanbook",
+        "pub": "JPOP",
+        "group": "Frieren - Oltre la fine del viaggio - Official Fanbook",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2026-03-31",
+        "last": "2026-03-31"
+      }
+    ],
+    "lastChecked": "2026-10-20T05:22:20.274Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m71": {
-    "editions": [],
-    "lastChecked": "2026-10-19T10:19:49.072Z",
-    "status": 403,
-    "via": "jina"
+    "editions": [
+      {
+        "slug": "grand-blue",
+        "pub": "JPOP",
+        "group": "Grand Blue",
+        "maxVol": 4,
+        "count": 4,
+        "first": "2026-11-30",
+        "last": "2026-12-31"
+      },
+      {
+        "slug": "grand-blue",
+        "pub": "Goen",
+        "group": "Grand Blue",
+        "maxVol": 3,
+        "count": 3,
+        "first": "2023-03-31",
+        "last": "2023-05-26"
+      },
+      {
+        "slug": "grand-blue-variant-edition-cut-price",
+        "pub": "JPOP",
+        "group": "Grand Blue Variant Edition Cut Price",
+        "maxVol": 3,
+        "count": 3,
+        "first": "2026-10-28",
+        "last": "2026-11-30"
+      },
+      {
+        "slug": "grand-blue-variant",
+        "pub": "Goen",
+        "group": "Grand Blue Variant",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2023-03-31",
+        "last": "2023-03-31"
+      },
+      {
+        "slug": "grand-blue-variant-romics",
+        "pub": "Goen",
+        "group": "Grand Blue Variant Romics",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2023-03-30",
+        "last": "2023-03-30"
+      }
+    ],
+    "lastChecked": "2026-10-20T05:22:28.435Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m73": {
     "editions": [],
-    "lastChecked": "2026-10-19T10:19:49.072Z",
-    "status": 403,
-    "via": "jina"
+    "lastChecked": "2026-10-20T05:22:36.905Z",
+    "status": 200,
+    "via": "jina-html",
+    "error": "pagina letta ma nessuna edizione riconosciuta"
   },
   "m94": {
-    "editions": [],
-    "lastChecked": "2026-10-19T10:19:49.072Z",
-    "status": 403,
-    "via": "jina"
+    "editions": [
+      {
+        "slug": "radiant",
+        "pub": "JPOP",
+        "group": "Radiant",
+        "maxVol": 20,
+        "count": 20,
+        "first": "2019-10-02",
+        "last": "2026-11-30"
+      },
+      {
+        "slug": "radiant",
+        "pub": "Mangasenpai",
+        "group": "Radiant",
+        "maxVol": 9,
+        "count": 9,
+        "first": "2017-03-15",
+        "last": "2019-05-09"
+      },
+      {
+        "slug": "radiant-variant",
+        "pub": "Mangasenpai",
+        "group": "Radiant Variant",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2018-10-15",
+        "last": "2018-10-15"
+      },
+      {
+        "slug": "radiant-variant",
+        "pub": "JPOP",
+        "group": "Radiant Variant",
+        "maxVol": 10,
+        "count": 1,
+        "first": "2019-10-02",
+        "last": "2019-10-02"
+      },
+      {
+        "slug": "larte-di-radiant",
+        "pub": "JPOP",
+        "group": "L'arte di Radiant",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2026-11-30",
+        "last": "2026-11-30"
+      }
+    ],
+    "lastChecked": "2026-10-20T05:22:45.331Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m99": {
     "editions": [],
-    "lastChecked": "2026-10-19T10:19:49.073Z",
-    "status": 403,
-    "via": "jina"
+    "lastChecked": "2026-10-20T05:22:53.612Z",
+    "status": 200,
+    "via": "jina-html",
+    "error": "pagina letta ma nessuna edizione riconosciuta"
   },
   "watch_m50": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m72": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m74": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m75": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m76": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m77": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m78": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m79": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m80": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m81": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m82": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m83": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m84": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m86": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m87": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m88": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m89": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m90": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m91": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m92": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m93": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "watch_m98": {
-    "lastChecked": "2026-10-19T10:19:49.073Z"
+    "lastChecked": "2026-10-20T05:22:53.612Z"
   },
   "m85": {
-    "editions": [],
-    "lastChecked": "2026-10-19T10:19:49.073Z",
-    "status": 403,
-    "via": "jina"
+    "editions": [
+      {
+        "slug": "omniscient-readers-viewpoint",
+        "pub": "Panini Comics",
+        "group": "Omniscient Reader's Viewpoint",
+        "maxVol": 8,
+        "count": 8,
+        "first": "2026-04-30",
+        "last": "2026-11-30"
+      }
+    ],
+    "lastChecked": "2026-10-20T05:23:02.057Z",
+    "status": 200,
+    "via": "jina-html"
   }
 }
