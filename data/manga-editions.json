@@ -2,221 +2,559 @@
   "m1": {
     "editions": [
       {
-        "group": "Slam Dunk Illustration Book",
-        "maxVol": 1,
-        "count": 1
+        "slug": "slam-dunk-planet-manga-ed.-1997",
+        "pub": "Panini Comics",
+        "group": "Slam Dunk (Planet Manga Ed. 1997)",
+        "maxVol": 62,
+        "count": 62,
+        "first": "1997-10-30",
+        "last": "2000-06-22"
       },
       {
-        "group": "Inoue Takehiko Illustrations",
-        "maxVol": 2,
-        "count": 2
+        "slug": "slam-dunk-collection",
+        "pub": "Panini Comics",
+        "group": "Slam Dunk Collection",
+        "maxVol": 31,
+        "count": 31,
+        "first": "2001-12-20",
+        "last": "2004-06-17"
       },
       {
-        "group": "Plus/Slam Dunk Illustrations",
-        "maxVol": 6,
-        "count": 3
-      },
-      {
-        "group": "The First Slam Dunk re:Source",
-        "maxVol": 6,
-        "count": 2
-      },
-      {
+        "slug": "slam-dunk",
+        "pub": "D/Visual",
         "group": "Slam Dunk",
-        "maxVol": 88,
-        "count": 8
+        "maxVol": 24,
+        "count": 24,
+        "first": "2010-02-21",
+        "last": "2012-12-22"
+      },
+      {
+        "slug": "slam-dunk",
+        "pub": "Panini Comics",
+        "group": "Slam Dunk",
+        "maxVol": 20,
+        "count": 20,
+        "first": "2019-09-12",
+        "last": "2021-05-20"
+      },
+      {
+        "slug": "slam-dunk-deluxe",
+        "pub": "Panini Comics",
+        "group": "Slam Dunk Deluxe",
+        "maxVol": 10,
+        "count": 10,
+        "first": "2006-10-12",
+        "last": "2008-06-12"
+      },
+      {
+        "slug": "slam-dunk-collection-vhs",
+        "pub": "Panini Comics",
+        "group": "Slam Dunk Collection + Vhs",
+        "maxVol": 7,
+        "count": 2,
+        "first": "2002-04-18",
+        "last": "2002-06-20"
+      },
+      {
+        "slug": "plus-slam-dunk-illustrations-2",
+        "pub": "Panini Comics",
+        "group": "Plus/Slam Dunk Illustrations",
+        "maxVol": 2,
+        "count": 1,
+        "first": "2020-09-03",
+        "last": "2020-09-03"
+      },
+      {
+        "slug": "slam-dunk-figurine-panini-basketball-98-99",
+        "pub": "Panini Comics",
+        "group": "Slam Dunk + Figurine Panini Basketball '98-'99",
+        "maxVol": 35,
+        "count": 1,
+        "first": "1999-05-13",
+        "last": "1999-05-13"
+      },
+      {
+        "slug": "slam-dunk-illustration-book",
+        "pub": "Panini Comics",
+        "group": "Slam Dunk Illustration Book",
+        "maxVol": 0,
+        "count": 0,
+        "first": "1999-01-31",
+        "last": "1999-01-31"
+      },
+      {
+        "slug": "inoue-takehiko-illustrations",
+        "pub": "Panini Comics",
+        "group": "Inoue Takehiko Illustrations",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2024-01-11",
+        "last": "2024-01-11"
+      },
+      {
+        "slug": "the-first-slam-dunk-re-source",
+        "pub": "Panini Comics",
+        "group": "The First Slam Dunk re:Source",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2024-03-21",
+        "last": "2024-03-21"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:49.348Z",
+    "lastChecked": "2026-10-20T07:11:16.286Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m2": {
     "editions": [
       {
+        "slug": "solo-leveling",
+        "pub": "Star Comics",
         "group": "Solo Leveling",
-        "maxVol": 53,
-        "count": 11
+        "maxVol": 28,
+        "count": 28,
+        "first": "2021-04-21",
+        "last": "2026-09-22"
       },
       {
+        "slug": "solo-leveling-limited-edition",
+        "pub": "Star Comics",
         "group": "Solo Leveling Limited Edition",
-        "maxVol": 31,
-        "count": 3
+        "maxVol": 26,
+        "count": 2,
+        "first": "2021-04-21",
+        "last": "2026-03-31"
       },
       {
+        "slug": "solo-leveling-variant-anime",
+        "pub": "Star Comics",
         "group": "Solo Leveling Variant Anime",
-        "maxVol": 4,
-        "count": 2
+        "maxVol": 21,
+        "count": 2,
+        "first": "2024-04-02",
+        "last": "2025-02-25"
       },
       {
+        "slug": "solo-leveling-variant",
+        "pub": "Star Comics",
         "group": "Solo Leveling Variant",
         "maxVol": 1,
-        "count": 1
+        "count": 1,
+        "first": "2026-10-28",
+        "last": "2026-10-28"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:49.348Z",
+    "lastChecked": "2026-10-20T07:11:26.631Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m3": {
     "editions": [
       {
+        "slug": "la-ragazza-in-riva-al-mare",
+        "pub": "Panini Comics",
         "group": "La ragazza in riva al mare",
-        "maxVol": 29,
-        "count": 11
+        "maxVol": 2,
+        "count": 2,
+        "first": "2012-06-23",
+        "last": "2013-11-16"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:49.348Z",
+    "lastChecked": "2026-10-20T07:11:34.972Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m4": {
     "editions": [
       {
+        "slug": "20th-century-boys",
+        "pub": "Panini Comics",
         "group": "20th Century Boys",
-        "maxVol": 28,
-        "count": 6
+        "maxVol": 22,
+        "count": 22,
+        "first": "2002-07-25",
+        "last": "2007-06-28"
+      },
+      {
+        "slug": "20th-century-boys-ultimate-deluxe-edition",
+        "pub": "Panini Comics",
+        "group": "20th Century Boys Ultimate Deluxe Edition",
+        "maxVol": 11,
+        "count": 11,
+        "first": "2021-12-16",
+        "last": "2023-03-02"
+      },
+      {
+        "slug": "20th-century-boys-ultimate-deluxe-edition-starter-pack",
+        "pub": "Panini Comics",
+        "group": "20th Century Boys Ultimate Deluxe Edition Starter Pack",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2023-12-21",
+        "last": "2023-12-21"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:49.348Z",
+    "lastChecked": "2026-10-20T07:11:43.590Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m5": {
     "editions": [
       {
-        "group": "Blame! And so on",
-        "maxVol": 4,
-        "count": 2
+        "slug": "blame",
+        "pub": "Panini Comics",
+        "group": "Blame",
+        "maxVol": 10,
+        "count": 10,
+        "first": "2000-03-16",
+        "last": "2004-11-18"
       },
       {
-        "group": "Blame",
-        "maxVol": 9,
-        "count": 9
+        "slug": "blame-nuova-edizione",
+        "pub": "Panini Comics",
+        "group": "Blame! Nuova Edizione",
+        "maxVol": 10,
+        "count": 10,
+        "first": "2015-11-07",
+        "last": "2018-01-25"
+      },
+      {
+        "slug": "blame-master-edition",
+        "pub": "Panini Comics",
+        "group": "Blame! Master Edition",
+        "maxVol": 6,
+        "count": 6,
+        "first": "2022-02-24",
+        "last": "2022-02-24"
+      },
+      {
+        "slug": "blame-master-edition-white",
+        "pub": "Panini Comics",
+        "group": "Blame! Master Edition - White",
+        "maxVol": 6,
+        "count": 6,
+        "first": "2024-08-29",
+        "last": "2024-08-29"
+      },
+      {
+        "slug": "blame-deluxe",
+        "pub": "Panini Comics",
+        "group": "Blame! Deluxe",
+        "maxVol": 5,
+        "count": 5,
+        "first": "2011-10-22",
+        "last": "2012-07-22"
+      },
+      {
+        "slug": "blame-ultimate-deluxe-collection",
+        "pub": "Panini Comics",
+        "group": "Blame! Ultimate Deluxe Collection",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2019-10-31",
+        "last": "2019-10-31"
+      },
+      {
+        "slug": "blame-and-so-on",
+        "pub": "Panini Comics",
+        "group": "Blame! And so on",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2015-10-31",
+        "last": "2015-10-31"
+      },
+      {
+        "slug": "nihei-starter-pack",
+        "pub": "Panini Comics",
+        "group": "Nihei Starter Pack",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2015-10-31",
+        "last": "2015-10-31"
+      },
+      {
+        "slug": "blame-master-edition-cofanetto",
+        "pub": "Panini Comics",
+        "group": "Blame! Master Edition - Cofanetto",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2022-02-24",
+        "last": "2022-02-24"
+      },
+      {
+        "slug": "blame-master-edition-white-cofanetto",
+        "pub": "Panini Comics",
+        "group": "Blame! Master Edition - White - Cofanetto",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2024-08-29",
+        "last": "2024-08-29"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:44.173Z",
+    "lastChecked": "2026-10-20T07:11:52.400Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m6": {
     "editions": [
       {
+        "slug": "blue-lock",
+        "pub": "Panini Comics",
         "group": "Blue Lock",
-        "maxVol": 55,
-        "count": 20
+        "maxVol": 35,
+        "count": 35,
+        "first": "2021-07-29",
+        "last": "2026-10-15"
+      },
+      {
+        "slug": "blue-lock-variant-panini",
+        "pub": "Panini Comics",
+        "group": "Blue Lock - Variant Panini",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2023-03-02",
+        "last": "2023-03-02"
+      },
+      {
+        "slug": "blue-lock-variant-anime",
+        "pub": "Panini Comics",
+        "group": "Blue Lock - Variant Anime",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2024-02-29",
+        "last": "2024-02-29"
+      },
+      {
+        "slug": "blue-lock-variant-inter",
+        "pub": "Panini Comics",
+        "group": "Blue Lock - Variant Inter",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2024-07-04",
+        "last": "2024-07-04"
+      },
+      {
+        "slug": "blue-lock-variant-world-cup-celebration",
+        "pub": "Panini Comics",
+        "group": "Blue Lock - Variant World Cup Celebration",
+        "maxVol": 34,
+        "count": 1,
+        "first": "2026-10-01",
+        "last": "2026-10-01"
+      },
+      {
+        "slug": "blue-lock-coloring-book",
+        "pub": "Panini Comics",
+        "group": "Blue Lock Coloring Book",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2025-06-05",
+        "last": "2025-06-05"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:44.173Z",
+    "lastChecked": "2026-10-20T07:12:00.905Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m7": {
     "editions": [
       {
+        "slug": "the-killer-inside",
+        "pub": "Panini Comics",
         "group": "The Killer Inside",
-        "maxVol": 41,
-        "count": 18
+        "maxVol": 11,
+        "count": 11,
+        "first": "2020-06-04",
+        "last": "2022-03-10"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:44.173Z",
+    "lastChecked": "2026-10-20T07:12:09.367Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m8": {
     "editions": [
       {
+        "slug": "la-fine-del-mondo-e-prima-dellalba",
+        "pub": "Panini Comics",
         "group": "La fine del mondo e prima dell'alba",
-        "maxVol": 42,
-        "count": 5
+        "maxVol": 0,
+        "count": 0,
+        "first": "2011-02-13",
+        "last": "2011-02-13"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:44.173Z",
+    "lastChecked": "2026-10-20T07:12:18.020Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m9": {
     "editions": [
       {
+        "slug": "il-prezzo-di-una-vita-i-sold-my-life-for-ten-thousand-yen-per-year",
+        "pub": "JPOP",
         "group": "Il prezzo di una vita - I sold my life for ten thousand yen per year",
-        "maxVol": 62,
-        "count": 7
+        "maxVol": 3,
+        "count": 3,
+        "first": "2019-07-17",
+        "last": "2019-09-25"
       },
       {
+        "slug": "il-prezzo-di-una-vita-i-sold-my-life-for-ten-thousand-yen-per-year-box",
+        "pub": "JPOP",
         "group": "Il prezzo di una vita - I sold my life for ten thousand yen per year Box",
-        "maxVol": 67,
-        "count": 3
+        "maxVol": 0,
+        "count": 0,
+        "first": "2019-07-17",
+        "last": "2019-07-17"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:44.173Z",
+    "lastChecked": "2026-10-20T07:12:26.627Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m10": {
     "editions": [
       {
-        "group": "Chainsaw Man Variant",
-        "maxVol": 19,
-        "count": 4
-      },
-      {
+        "slug": "chainsaw-man",
+        "pub": "Panini Comics",
         "group": "Chainsaw Man",
-        "maxVol": 113,
-        "count": 13
+        "maxVol": 23,
+        "count": 23,
+        "first": "2020-10-22",
+        "last": "2026-09-10"
       },
       {
+        "slug": "chainsaw-man-variant",
+        "pub": "Panini Comics",
+        "group": "Chainsaw Man Variant",
+        "maxVol": 12,
+        "count": 2,
+        "first": "2020-10-22",
+        "last": "2023-04-20"
+      },
+      {
+        "slug": "chainsaw-man-discovery-edition",
+        "pub": "Panini Comics",
         "group": "Chainsaw Man - Discovery Edition",
-        "maxVol": 9,
-        "count": 3
+        "maxVol": 1,
+        "count": 1,
+        "first": "2023-04-20",
+        "last": "2023-04-20"
+      },
+      {
+        "slug": "chainsaw-man-calendario-2023",
+        "pub": "Panini Comics",
+        "group": "Chainsaw Man Calendario",
+        "maxVol": 2023,
+        "count": 1,
+        "first": "2022-10-27",
+        "last": "2022-10-27"
+      },
+      {
+        "slug": "chainsaw-man-christmas-variant",
+        "pub": "Panini Comics",
+        "group": "Chainsaw Man Christmas Variant",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2026-11-30",
+        "last": "2026-11-30"
+      },
+      {
+        "slug": "chainsaw-man-cofanetto",
+        "pub": "Panini Comics",
+        "group": "Chainsaw Man - Cofanetto",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2022-06-30",
+        "last": "2022-06-30"
+      },
+      {
+        "slug": "chainsaw-man-cofanetto-vuoto",
+        "pub": "Panini Comics",
+        "group": "Chainsaw Man - Cofanetto Vuoto",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2022-06-30",
+        "last": "2022-06-30"
+      },
+      {
+        "slug": "chainsaw-man-calendario-2023-con-variant",
+        "pub": "Panini Comics",
+        "group": "Chainsaw Man Calendario 2023 con variant",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2022-10-27",
+        "last": "2022-10-27"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:44.173Z",
+    "lastChecked": "2026-10-20T07:12:35.034Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m11": {
     "editions": [
       {
+        "slug": "dr.stone",
+        "pub": "Star Comics",
         "group": "Dr.Stone",
-        "maxVol": 76,
-        "count": 15
+        "maxVol": 27,
+        "count": 27,
+        "first": "2018-11-01",
+        "last": "2025-05-06"
       },
       {
-        "group": "Dr.Stone Limited Edition",
-        "maxVol": 26,
-        "count": 2
-      },
-      {
+        "slug": "dr.stone-variant-cover-edition",
+        "pub": "Star Comics",
         "group": "Dr.Stone Variant Cover Edition",
-        "maxVol": 14,
-        "count": 2
+        "maxVol": 27,
+        "count": 2,
+        "first": "2018-11-01",
+        "last": "2025-05-06"
+      },
+      {
+        "slug": "dr.stone-limited-edition",
+        "pub": "Star Comics",
+        "group": "Dr.Stone Limited Edition",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2018-11-01",
+        "last": "2018-11-01"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:44.173Z",
+    "lastChecked": "2026-10-20T07:12:43.355Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m12": {
     "editions": [
       {
+        "slug": "all-you-need-is-kill",
+        "pub": "Panini Comics",
         "group": "All You Need is Kill",
-        "maxVol": 58,
-        "count": 5
+        "maxVol": 2,
+        "count": 2,
+        "first": "2014-06-21",
+        "last": "2014-09-20"
       },
       {
+        "slug": "all-you-need-is-kill-complete-edition",
+        "pub": "Panini Comics",
         "group": "All You Need is Kill - Complete Edition",
-        "maxVol": 15,
-        "count": 3
+        "maxVol": 0,
+        "count": 0,
+        "first": "2020-02-27",
+        "last": "2020-02-27"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:44.173Z",
+    "lastChecked": "2026-10-20T07:12:52.236Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m13": {
     "editions": [],
     "variants": [],
-    "lastChecked": "2026-10-20T05:20:11.556Z",
+    "lastChecked": "2026-10-20T07:13:02.634Z",
     "status": 200,
     "via": "jina-html",
     "error": "pagina letta ma nessuna edizione riconosciuta"
@@ -224,209 +562,935 @@
   "m14": {
     "editions": [
       {
+        "slug": "monster",
+        "pub": "Panini Comics",
         "group": "Monster",
-        "maxVol": 30,
-        "count": 15
+        "maxVol": 18,
+        "count": 18,
+        "first": "2003-10-09",
+        "last": "2005-03-17"
+      },
+      {
+        "slug": "monster-deluxe",
+        "pub": "Panini Comics",
+        "group": "Monster Deluxe",
+        "maxVol": 9,
+        "count": 9,
+        "first": "2010-10-31",
+        "last": "2012-02-18"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:44.173Z",
+    "lastChecked": "2026-10-20T07:13:11.378Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m15": {
     "editions": [
       {
+        "slug": "one-piece",
+        "pub": "Star Comics",
         "group": "One Piece",
-        "maxVol": 84,
-        "count": 18
+        "maxVol": 114,
+        "count": 114,
+        "first": "2001-07-01",
+        "last": "2026-10-06"
+      },
+      {
+        "slug": "one-piece-new-edition",
+        "pub": "Star Comics",
+        "group": "One Piece New Edition",
+        "maxVol": 112,
+        "count": 112,
+        "first": "2008-02-20",
+        "last": "2027-01-19"
+      },
+      {
+        "slug": "one-piece-gazzetta-dello-sport",
+        "pub": "La Gazzetta dello Sport",
+        "group": "One Piece (Gazzetta dello Sport)",
+        "maxVol": 110,
+        "count": 110,
+        "first": "2016-04-23",
+        "last": "2025-08-08"
+      },
+      {
+        "slug": "one-piece-celebration-edition",
+        "pub": "Star Comics",
+        "group": "One Piece Celebration Edition",
+        "maxVol": 100,
+        "count": 3,
+        "first": "2021-08-25",
+        "last": "2022-04-20"
+      },
+      {
+        "slug": "io-sono-one-piece",
+        "pub": "Mondadori",
+        "group": "Io sono One Piece",
+        "maxVol": 3,
+        "count": 3,
+        "first": "2018-10-23",
+        "last": "2025-10-21"
+      },
+      {
+        "slug": "one-piece-color-walk",
+        "pub": "Star Comics",
+        "group": "One Piece Color Walk",
+        "maxVol": 2,
+        "count": 2,
+        "first": "2003-10-01",
+        "last": "2012-01-21"
+      },
+      {
+        "slug": "one-piece-quiz-book",
+        "pub": "Star Comics",
+        "group": "One Piece Quiz Book",
+        "maxVol": 3,
+        "count": 2,
+        "first": "2018-11-21",
+        "last": "2023-03-15"
+      },
+      {
+        "slug": "one-piece-gold-il-film-anime-comics",
+        "pub": "Star Comics",
+        "group": "One Piece Gold: Il Film - Anime Comics",
+        "maxVol": 2,
+        "count": 2,
+        "first": "2018-05-02",
+        "last": "2018-06-01"
+      },
+      {
+        "slug": "one-piece-strong-world-il-film-avventura-sulle-isole-volanti-anime-comics",
+        "pub": "Star Comics",
+        "group": "One Piece Strong World: Il Film - Avventura sulle isole volanti - Anime Comics",
+        "maxVol": 2,
+        "count": 2,
+        "first": "2019-09-04",
+        "last": "2019-10-02"
+      },
+      {
+        "slug": "one-piece-il-film-stampede-anime-comics",
+        "pub": "Star Comics",
+        "group": "One Piece Il Film: Stampede - Anime Comics",
+        "maxVol": 2,
+        "count": 2,
+        "first": "2021-05-05",
+        "last": "2021-06-01"
+      },
+      {
+        "slug": "one-piece-z-il-film-anime-comics",
+        "pub": "Star Comics",
+        "group": "One Piece Z: Il Film - Anime Comics",
+        "maxVol": 2,
+        "count": 2,
+        "first": "2021-07-07",
+        "last": "2021-08-04"
+      },
+      {
+        "slug": "one-piece-film-red-anime-comics",
+        "pub": "Star Comics",
+        "group": "One Piece Film: Red - Anime Comics",
+        "maxVol": 2,
+        "count": 2,
+        "first": "2024-09-03",
+        "last": "2024-10-01"
+      },
+      {
+        "slug": "one-piece-ristampa-corretta",
+        "pub": "Star Comics",
+        "group": "One Piece - Ristampa corretta",
+        "maxVol": 51,
+        "count": 1,
+        "first": "2009-05-31",
+        "last": "2009-05-31"
+      },
+      {
+        "slug": "one-piece-variant",
+        "pub": "Star Comics",
+        "group": "One Piece Variant",
+        "maxVol": 111,
+        "count": 1,
+        "first": "2025-09-23",
+        "last": "2025-09-23"
+      },
+      {
+        "slug": "one-piece-limited-edition",
+        "pub": "Star Comics",
+        "group": "One Piece Limited Edition",
+        "maxVol": 114,
+        "count": 1,
+        "first": "2026-10-06",
+        "last": "2026-10-06"
+      },
+      {
+        "slug": "one-piece-20th-anniversary-limited-edition-silver",
+        "pub": "Star Comics",
+        "group": "One Piece - 20th Anniversary Limited Edition - Silver",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2017-11-08",
+        "last": "2017-11-08"
+      },
+      {
+        "slug": "one-piece-20th-anniversary-limited-edition-gold",
+        "pub": "Star Comics",
+        "group": "One Piece - 20th Anniversary Limited Edition - Gold",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2017-11-02",
+        "last": "2017-11-02"
+      },
+      {
+        "slug": "one-piece-anime-comics-pack",
+        "pub": "Star Comics",
+        "group": "One Piece - Anime Comics Pack",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2020-10-28",
+        "last": "2020-10-28"
+      },
+      {
+        "slug": "one-piece-le-ricette-piratesche-di-sanji",
+        "pub": "Star Comics",
+        "group": "One Piece - Le ricette piratesche di Sanji",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2021-10-29",
+        "last": "2021-10-29"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:44.173Z",
+    "lastChecked": "2026-10-20T07:13:21.007Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m16": {
     "editions": [
       {
+        "slug": "one-punch-man",
+        "pub": "Panini Comics",
         "group": "One-Punch Man",
-        "maxVol": 98,
-        "count": 8
+        "maxVol": 36,
+        "count": 36,
+        "first": "2016-04-07",
+        "last": "2026-11-12"
       },
       {
+        "slug": "one-punch-man-variant",
+        "pub": "Panini Comics",
+        "group": "One-Punch Man Variant",
+        "maxVol": 36,
+        "count": 18,
+        "first": "2020-01-16",
+        "last": "2026-11-12"
+      },
+      {
+        "slug": "one-punch-man-variant-fx",
+        "pub": "Panini Comics",
         "group": "One-Punch Man Variant FX",
-        "maxVol": 27,
-        "count": 4
+        "maxVol": 1,
+        "count": 1,
+        "first": "2016-04-07",
+        "last": "2016-04-07"
       },
       {
+        "slug": "one-punch-man-discovery-edition",
+        "pub": "Panini Comics",
         "group": "One-Punch Man - Discovery Edition",
-        "maxVol": 14,
-        "count": 2
+        "maxVol": 1,
+        "count": 1,
+        "first": "2020-03-19",
+        "last": "2020-03-19"
       },
       {
+        "slug": "one-punch-man-christmas-variant",
+        "pub": "Panini Comics",
         "group": "One-Punch Man Christmas Variant",
-        "maxVol": 6,
-        "count": 2
+        "maxVol": 1,
+        "count": 1,
+        "first": "2022-12-22",
+        "last": "2022-12-22"
+      },
+      {
+        "slug": "one-punch-man-instant-variant",
+        "pub": "Panini Comics",
+        "group": "One-Punch Man Instant Variant",
+        "maxVol": 33,
+        "count": 1,
+        "first": "2026-01-29",
+        "last": "2026-01-29"
+      },
+      {
+        "slug": "one-punch-man-fanbook-tutto-sugli-eroi",
+        "pub": "Panini Comics",
+        "group": "One-Punch Man Fanbook: Tutto Sugli Eroi",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2018-04-26",
+        "last": "2018-04-26"
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-20T05:23:45.466Z",
+    "lastChecked": "2026-10-20T07:13:31.435Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m17": {
     "editions": [
       {
+        "slug": "planetes",
+        "pub": "Panini Comics",
         "group": "Planetes",
-        "maxVol": 26,
-        "count": 7
+        "maxVol": 4,
+        "count": 4,
+        "first": "2003-05-22",
+        "last": "2005-02-17"
       },
       {
+        "slug": "planetes-deluxe",
+        "pub": "Panini Comics",
         "group": "Planetes Deluxe",
-        "maxVol": 37,
-        "count": 5
+        "maxVol": 3,
+        "count": 3,
+        "first": "2012-07-14",
+        "last": "2012-11-24"
       },
       {
+        "slug": "planetes-complete-edition",
+        "pub": "Panini Comics",
         "group": "Planetes Complete Edition",
-        "maxVol": 19,
-        "count": 3
+        "maxVol": 0,
+        "count": 0,
+        "first": "2019-07-11",
+        "last": "2019-07-11"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:45.466Z",
+    "lastChecked": "2026-10-20T07:13:39.718Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m18": {
     "editions": [
       {
+        "slug": "le-bizzarre-avventure-di-jojo-steel-ball-run",
+        "pub": "Star Comics",
         "group": "Le bizzarre avventure di JoJo: Steel Ball Run",
-        "maxVol": 10,
-        "count": 10
+        "maxVol": 24,
+        "count": 24,
+        "first": "2006-03-09",
+        "last": "2019-07-03"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:45.466Z",
+    "lastChecked": "2026-10-20T07:13:48.590Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m19": {
     "editions": [
       {
-        "group": "L'Attacco dei Giganti - Discovery Edition",
-        "maxVol": 18,
-        "count": 2
+        "slug": "lattacco-dei-giganti",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti",
+        "maxVol": 34,
+        "count": 34,
+        "first": "2012-03-17",
+        "last": "2021-10-28"
       },
       {
-        "group": "L'Attacco dei Giganti",
-        "maxVol": 138,
-        "count": 9
+        "slug": "lattacco-dei-giganti-colossal-edition",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti - Colossal Edition",
+        "maxVol": 12,
+        "count": 12,
+        "first": "2019-01-17",
+        "last": "2022-10-27"
+      },
+      {
+        "slug": "lattacco-dei-giganti-cofanetto",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti - Cofanetto",
+        "maxVol": 7,
+        "count": 7,
+        "first": "2020-12-24",
+        "last": "2023-04-13"
+      },
+      {
+        "slug": "lattacco-dei-giganti-cofanetto-vuoto",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti - Cofanetto vuoto",
+        "maxVol": 7,
+        "count": 7,
+        "first": "2020-12-24",
+        "last": "2023-04-13"
+      },
+      {
+        "slug": "lattacco-dei-giganti-full-color-edition",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti Full Color Edition",
+        "maxVol": 4,
+        "count": 4,
+        "first": "2025-09-25",
+        "last": "2025-09-25"
+      },
+      {
+        "slug": "lattacco-dei-giganti-variant",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti Variant",
+        "maxVol": 33,
+        "count": 3,
+        "first": "2014-05-10",
+        "last": "2021-08-12"
+      },
+      {
+        "slug": "lattacco-dei-giganti-discovery-edition",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti - Discovery Edition",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2019-01-17",
+        "last": "2019-01-17"
+      },
+      {
+        "slug": "lattacco-dei-giganti-bundle-con-short-stories",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti - Bundle con Short Stories",
+        "maxVol": 30,
+        "count": 1,
+        "first": "2020-05-21",
+        "last": "2020-05-21"
+      },
+      {
+        "slug": "lattacco-dei-giganti-bundle-con-short-stories-2",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti - Bundle con Short Stories 2",
+        "maxVol": 31,
+        "count": 1,
+        "first": "2020-08-27",
+        "last": "2020-08-27"
+      },
+      {
+        "slug": "lattacco-dei-giganti-bundle-con-short-stories-3",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti - Bundle con Short Stories 3",
+        "maxVol": 32,
+        "count": 1,
+        "first": "2021-02-25",
+        "last": "2021-02-25"
+      },
+      {
+        "slug": "lattacco-dei-giganti-bundle-con-short-stories-4",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti - Bundle con Short Stories 4",
+        "maxVol": 33,
+        "count": 1,
+        "first": "2021-06-24",
+        "last": "2021-06-24"
+      },
+      {
+        "slug": "lattacco-dei-giganti-bundle-con-short-stories-5",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti - Bundle con Short Stories 5",
+        "maxVol": 34,
+        "count": 1,
+        "first": "2021-10-28",
+        "last": "2021-10-28"
+      },
+      {
+        "slug": "lattacco-dei-giganti-bundle-beginning",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti - Bundle \"Beginning\"",
+        "maxVol": 34,
+        "count": 1,
+        "first": "2021-10-28",
+        "last": "2021-10-28"
+      },
+      {
+        "slug": "lattacco-dei-giganti-fashion-variant",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti Fashion Variant",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2023-05-18",
+        "last": "2023-05-18"
+      },
+      {
+        "slug": "lattacco-dei-giganti-variant-anime",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti - Variant Anime",
+        "maxVol": 34,
+        "count": 1,
+        "first": "2024-01-25",
+        "last": "2024-01-25"
+      },
+      {
+        "slug": "lattacco-dei-giganti-variant-agenda-perpetua",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti Variant + Agenda perpetua",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2024-11-28",
+        "last": "2024-11-28"
+      },
+      {
+        "slug": "lattacco-dei-giganti-inside",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti - Inside",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2014-09-27",
+        "last": "2014-09-27"
+      },
+      {
+        "slug": "lattacco-dei-giganti-outside",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti - Outside",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2014-11-08",
+        "last": "2014-11-08"
+      },
+      {
+        "slug": "lattacco-dei-giganti-super-pack",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti Super Pack",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2014-09-27",
+        "last": "2014-09-27"
+      },
+      {
+        "slug": "lattacco-dei-giganti-coloring-book",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti - Coloring Book",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2017-10-26",
+        "last": "2017-10-26"
+      },
+      {
+        "slug": "la-scienza-immaginaria-de-lattacco-dei-giganti",
+        "pub": "Panini Comics",
+        "group": "La scienza immaginaria de \"L'Attacco dei Giganti\"",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2016-06-09",
+        "last": "2016-06-09"
+      },
+      {
+        "slug": "lattacco-dei-giganti-segnale-di-contrattacco",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti - Segnale di contrattacco",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2017-03-23",
+        "last": "2017-03-23"
+      },
+      {
+        "slug": "the-best-of-planet-manga-steelbox-collection-lattacco-dei-giganti",
+        "pub": "Panini Comics",
+        "group": "The Best of Planet Manga – Steelbox Collection: L'Attacco dei Giganti",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2022-06-30",
+        "last": "2022-06-30"
+      },
+      {
+        "slug": "lattacco-dei-giganti-la-guida-definitiva-ai-personaggi",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti - La guida definitiva ai personaggi",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2022-10-27",
+        "last": "2022-10-27"
+      },
+      {
+        "slug": "lattacco-dei-giganti-short-stories-omnibus",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti - Short Stories Omnibus",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2025-06-19",
+        "last": "2025-06-19"
+      },
+      {
+        "slug": "lattacco-dei-giganti-full-color-edition-cofanetto",
+        "pub": "Panini Comics",
+        "group": "L'Attacco dei Giganti Full Color Edition Cofanetto",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2025-09-25",
+        "last": "2025-09-25"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:45.466Z",
+    "lastChecked": "2026-10-20T07:13:57.671Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m20": {
     "editions": [
       {
+        "slug": "fire-punch",
+        "pub": "Star Comics",
         "group": "Fire Punch",
-        "maxVol": 70,
-        "count": 16
-      },
-      {
-        "group": "Fire Punch Complete Box",
         "maxVol": 8,
-        "count": 2
+        "count": 8,
+        "first": "2017-06-21",
+        "last": "2018-12-19"
       },
       {
+        "slug": "fire-punch-complete-box",
+        "pub": "Star Comics",
+        "group": "Fire Punch Complete Box",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2022-10-28",
+        "last": "2022-10-28"
+      },
+      {
+        "slug": "fire-punch-box-vuoto",
+        "pub": "Star Comics",
         "group": "Fire Punch - Box vuoto",
-        "maxVol": 1,
-        "count": 1
+        "maxVol": 0,
+        "count": 0,
+        "first": "2022-10-28",
+        "last": "2022-10-28"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:45.466Z",
+    "lastChecked": "2026-10-20T07:14:06.119Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m21": {
     "editions": [
       {
-        "group": "Tokyo Revengers Manji Gang Pack",
-        "maxVol": 46,
-        "count": 2
-      },
-      {
+        "slug": "tokyo-revengers",
+        "pub": "JPOP",
         "group": "Tokyo Revengers",
-        "maxVol": 73,
-        "count": 15
+        "maxVol": 31,
+        "count": 31,
+        "first": "2021-02-17",
+        "last": "2023-11-29"
       },
       {
-        "group": "Tokyo Revengers Variant Limited Edition",
+        "slug": "tokyo-revengers-la-gazzetta-dello-sport",
+        "pub": "La Gazzetta dello Sport",
+        "group": "Tokyo Revengers (La Gazzetta dello Sport)",
+        "maxVol": 31,
+        "count": 31,
+        "first": "2025-03-07",
+        "last": "2025-10-03"
+      },
+      {
+        "slug": "tokyo-revengers-character-book-la-gazzetta-dello-sport",
+        "pub": "La Gazzetta dello Sport",
+        "group": "Tokyo Revengers Character Book (La Gazzetta dello Sport)",
         "maxVol": 3,
-        "count": 2
+        "count": 3,
+        "first": "2025-11-28",
+        "last": "2025-12-12"
+      },
+      {
+        "slug": "tokyo-revengers-variant-limited-edition",
+        "pub": "ALF - Associazione Librerie del Fumetto",
+        "group": "Tokyo Revengers Variant Limited Edition",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2021-10-23",
+        "last": "2021-10-23"
+      },
+      {
+        "slug": "tokyo-revengers-variant-mangayo",
+        "pub": "MangaYo!",
+        "group": "Tokyo Revengers Variant MangaYo!",
+        "maxVol": 31,
+        "count": 1,
+        "first": "2023-12-04",
+        "last": "2023-12-04"
+      },
+      {
+        "slug": "tokyo-revengers-greatest-hits-cut-price",
+        "pub": "JPOP",
+        "group": "Tokyo Revengers Greatest Hits Cut Price",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2024-05-22",
+        "last": "2024-05-22"
+      },
+      {
+        "slug": "tokyo-revengers-manji-gang-pack",
+        "pub": "JPOP",
+        "group": "Tokyo Revengers Manji Gang Pack",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2021-02-03",
+        "last": "2021-02-03"
+      },
+      {
+        "slug": "tokyo-revengers-character-book",
+        "pub": "JPOP",
+        "group": "Tokyo Revengers Character Book",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2022-11-09",
+        "last": "2023-05-10"
+      },
+      {
+        "slug": "tokyo-revengers-pack",
+        "pub": "JPOP",
+        "group": "Tokyo Revengers Pack",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2022-11-03",
+        "last": "2023-08-30"
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-20T05:23:46.760Z",
+    "lastChecked": "2026-10-20T07:14:16.614Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m22": {
     "editions": [
       {
+        "slug": "vinland-saga",
+        "pub": "Star Comics",
         "group": "Vinland Saga",
-        "maxVol": 96,
-        "count": 16
+        "maxVol": 29,
+        "count": 29,
+        "first": "2010-02-14",
+        "last": "2026-05-05"
       },
       {
+        "slug": "vinland-saga-variant-mangayo",
+        "pub": "Star Comics",
         "group": "Vinland Saga Variant MangaYo!",
         "maxVol": 1,
-        "count": 1
+        "count": 1,
+        "first": "2025-02-25",
+        "last": "2025-02-25"
       },
       {
+        "slug": "vinland-saga-tribute-variant",
+        "pub": "Star Comics",
         "group": "Vinland Saga Tribute Variant",
-        "maxVol": 2,
-        "count": 2
+        "maxVol": 1,
+        "count": 1,
+        "first": "2026-05-05",
+        "last": "2026-05-05"
+      },
+      {
+        "slug": "vinland-saga-celebration-edition",
+        "pub": "Star Comics",
+        "group": "Vinland Saga Celebration Edition",
+        "maxVol": 29,
+        "count": 1,
+        "first": "2026-05-05",
+        "last": "2026-05-05"
+      },
+      {
+        "slug": "vinland-saga-official-guidebook",
+        "pub": "Star Comics",
+        "group": "Vinland Saga Official Guidebook",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2026-05-05",
+        "last": "2026-05-05"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:46.760Z",
+    "lastChecked": "2026-10-20T07:14:25.173Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m23": {
     "editions": [
       {
+        "slug": "alita-battle-angel",
+        "pub": "Panini Comics",
         "group": "Alita Battle Angel",
-        "maxVol": 14,
-        "count": 11
+        "maxVol": 18,
+        "count": 18,
+        "first": "1997-02-01",
+        "last": "1998-07-01"
+      },
+      {
+        "slug": "alita-collection",
+        "pub": "Panini Comics",
+        "group": "Alita Collection",
+        "maxVol": 11,
+        "count": 11,
+        "first": "2001-03-08",
+        "last": "2002-11-07"
+      },
+      {
+        "slug": "alita-new-edition",
+        "pub": "Panini Comics",
+        "group": "Alita New Edition",
+        "maxVol": 9,
+        "count": 9,
+        "first": "2016-11-03",
+        "last": "2017-07-06"
+      },
+      {
+        "slug": "alita-panzer-edition",
+        "pub": "Panini Comics",
+        "group": "Alita Panzer Edition",
+        "maxVol": 3,
+        "count": 3,
+        "first": "2019-02-14",
+        "last": "2019-02-14"
+      },
+      {
+        "slug": "alita-panzer-variant-30th",
+        "pub": "Panini Comics",
+        "group": "Alita Panzer - Variant 30th",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2024-11-28",
+        "last": "2024-11-28"
+      },
+      {
+        "slug": "alita-panzer-edition-cofanetto-completo",
+        "pub": "Panini Comics",
+        "group": "Alita Panzer Edition - Cofanetto Completo",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2019-02-14",
+        "last": "2019-02-14"
+      },
+      {
+        "slug": "the-best-of-planet-manga-steelbox-collection-alita",
+        "pub": "Panini Comics",
+        "group": "The Best of Planet Manga – Steelbox Collection: Alita",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2023-09-20",
+        "last": "2023-09-20"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:46.760Z",
+    "lastChecked": "2026-10-20T07:14:33.783Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m24": {
     "editions": [
       {
+        "slug": "akira",
+        "pub": "Glénat Italia",
         "group": "Akira",
+        "maxVol": 36,
+        "count": 36,
+        "first": "1990-04-01",
+        "last": "1994-10-01"
+      },
+      {
+        "slug": "akira",
+        "pub": "Panini Comics",
+        "group": "Akira",
+        "maxVol": 38,
+        "count": 15,
+        "first": "1997-04-03",
+        "last": "2000-10-01"
+      },
+      {
+        "slug": "akira-raccolta-cartonata",
+        "pub": "Glénat Italia",
+        "group": "Akira - Raccolta Cartonata",
         "maxVol": 11,
-        "count": 11
+        "count": 11,
+        "first": "1990-06-02",
+        "last": "1993-04-02"
+      },
+      {
+        "slug": "akira-collection",
+        "pub": "Panini Comics",
+        "group": "Akira Collection",
+        "maxVol": 6,
+        "count": 6,
+        "first": "2005-09-22",
+        "last": "2006-02-09"
+      },
+      {
+        "slug": "akira-new-edition",
+        "pub": "Panini Comics",
+        "group": "Akira New Edition",
+        "maxVol": 6,
+        "count": 6,
+        "first": "2021-03-18",
+        "last": "2021-08-19"
+      },
+      {
+        "slug": "akira-anime-comics",
+        "pub": "Panini Comics",
+        "group": "Akira Anime Comics",
+        "maxVol": 5,
+        "count": 5,
+        "first": "2005-04-01",
+        "last": "2005-08-01"
+      },
+      {
+        "slug": "akira-club",
+        "pub": "Panini Comics",
+        "group": "Akira Club",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2007-07-26",
+        "last": "2007-07-26"
+      },
+      {
+        "slug": "akira-collection-cofanetto-vuoto",
+        "pub": "Panini Comics",
+        "group": "Akira Collection - Cofanetto vuoto",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2013-07-20",
+        "last": "2013-07-20"
+      },
+      {
+        "slug": "akira-collection-cofanetto-completo",
+        "pub": "Panini Comics",
+        "group": "Akira Collection - Cofanetto completo",
+        "maxVol": 0,
+        "count": 0,
+        "first": "2013-08-31",
+        "last": "2013-08-31"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:46.760Z",
+    "lastChecked": "2026-10-20T07:14:42.238Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m25": {
     "editions": [
       {
+        "slug": "alice-in-borderland",
+        "pub": "Flashbook Edizioni",
         "group": "Alice in Borderland",
         "maxVol": 18,
-        "count": 12
+        "count": 18,
+        "first": "2013-11-09",
+        "last": "2017-02-16"
+      },
+      {
+        "slug": "alice-in-borderland",
+        "pub": "JPOP",
+        "group": "Alice in Borderland",
+        "maxVol": 9,
+        "count": 9,
+        "first": "2022-03-02",
+        "last": "2023-06-07"
+      },
+      {
+        "slug": "alice-in-borderland-variant-popstore",
+        "pub": "PopStore",
+        "group": "Alice in Borderland Variant Popstore",
+        "maxVol": 1,
+        "count": 1,
+        "first": "2022-03-02",
+        "last": "2022-03-02"
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-20T05:23:48.054Z",
+    "lastChecked": "2026-10-20T07:14:53.038Z",
     "status": 200,
-    "via": "jina"
+    "via": "jina-html"
   },
   "m26": {
     "editions": [
@@ -441,7 +1505,7 @@
         "count": 14
       }
     ],
-    "lastChecked": "2026-10-20T05:23:48.054Z",
+    "lastChecked": "2026-10-20T07:14:53.038Z",
     "status": 200,
     "via": "jina"
   },
@@ -473,7 +1537,7 @@
         "count": 12
       }
     ],
-    "lastChecked": "2026-10-20T05:23:48.054Z",
+    "lastChecked": "2026-10-20T07:14:53.038Z",
     "status": 200,
     "via": "jina"
   },
@@ -505,7 +1569,7 @@
         "count": 4
       }
     ],
-    "lastChecked": "2026-10-20T05:23:48.054Z",
+    "lastChecked": "2026-10-20T07:14:53.038Z",
     "status": 200,
     "via": "jina"
   },
@@ -518,7 +1582,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-20T05:23:49.348Z",
+    "lastChecked": "2026-10-20T07:14:54.389Z",
     "status": 200,
     "via": "jina"
   },
@@ -544,7 +1608,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-20T05:23:11.999Z",
+    "lastChecked": "2026-10-20T07:15:02.495Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -587,7 +1651,7 @@
         "last": "2025-07-23"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:20.404Z",
+    "lastChecked": "2026-10-20T07:15:02.495Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -693,7 +1757,7 @@
         "last": "2024-04-18"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:30.172Z",
+    "lastChecked": "2026-10-20T07:15:02.495Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -710,7 +1774,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-20T05:23:40.292Z",
+    "lastChecked": "2026-10-20T07:15:03.846Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -722,7 +1786,7 @@
         "count": 8
       }
     ],
-    "lastChecked": "2026-10-20T05:23:40.292Z",
+    "lastChecked": "2026-10-20T07:14:54.389Z",
     "status": 200,
     "via": "jina"
   },
@@ -739,7 +1803,7 @@
         "count": 8
       }
     ],
-    "lastChecked": "2026-10-20T05:23:40.292Z",
+    "lastChecked": "2026-10-20T07:14:54.389Z",
     "status": 200,
     "via": "jina"
   },
@@ -811,7 +1875,7 @@
         "count": 3
       }
     ],
-    "lastChecked": "2026-10-20T05:23:40.292Z",
+    "lastChecked": "2026-10-20T07:14:54.389Z",
     "status": 200,
     "via": "jina"
   },
@@ -824,7 +1888,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-20T05:23:41.585Z",
+    "lastChecked": "2026-10-20T07:14:55.740Z",
     "status": 200,
     "via": "jina"
   },
@@ -836,7 +1900,7 @@
         "count": 11
       }
     ],
-    "lastChecked": "2026-10-20T05:23:41.585Z",
+    "lastChecked": "2026-10-20T07:14:55.740Z",
     "status": 200,
     "via": "jina"
   },
@@ -848,7 +1912,7 @@
         "count": 10
       }
     ],
-    "lastChecked": "2026-10-20T05:23:41.586Z",
+    "lastChecked": "2026-10-20T07:14:55.740Z",
     "status": 200,
     "via": "jina"
   },
@@ -860,7 +1924,7 @@
         "count": 18
       }
     ],
-    "lastChecked": "2026-10-20T05:23:41.586Z",
+    "lastChecked": "2026-10-20T07:14:55.740Z",
     "status": 200,
     "via": "jina"
   },
@@ -877,7 +1941,7 @@
         "count": 2
       }
     ],
-    "lastChecked": "2026-10-20T05:23:41.586Z",
+    "lastChecked": "2026-10-20T07:14:55.740Z",
     "status": 200,
     "via": "jina"
   },
@@ -894,7 +1958,7 @@
         "count": 3
       }
     ],
-    "lastChecked": "2026-10-20T05:23:41.586Z",
+    "lastChecked": "2026-10-20T07:14:55.740Z",
     "status": 200,
     "via": "jina"
   },
@@ -911,7 +1975,7 @@
         "count": 3
       }
     ],
-    "lastChecked": "2026-10-20T05:23:41.586Z",
+    "lastChecked": "2026-10-20T07:14:55.740Z",
     "status": 200,
     "via": "jina"
   },
@@ -953,7 +2017,7 @@
         "count": 8
       }
     ],
-    "lastChecked": "2026-10-20T05:23:41.586Z",
+    "lastChecked": "2026-10-20T07:14:55.740Z",
     "status": 200,
     "via": "jina"
   },
@@ -965,7 +2029,7 @@
         "count": 11
       }
     ],
-    "lastChecked": "2026-10-20T05:23:41.586Z",
+    "lastChecked": "2026-10-20T07:14:55.740Z",
     "status": 200,
     "via": "jina"
   },
@@ -977,7 +2041,7 @@
         "count": 18
       }
     ],
-    "lastChecked": "2026-10-20T05:23:41.586Z",
+    "lastChecked": "2026-10-20T07:14:55.740Z",
     "status": 200,
     "via": "jina"
   },
@@ -989,7 +2053,7 @@
         "count": 14
       }
     ],
-    "lastChecked": "2026-10-20T05:23:41.586Z",
+    "lastChecked": "2026-10-20T07:14:55.740Z",
     "status": 200,
     "via": "jina"
   },
@@ -1001,7 +2065,7 @@
         "count": 9
       }
     ],
-    "lastChecked": "2026-10-20T05:23:41.586Z",
+    "lastChecked": "2026-10-20T07:14:55.740Z",
     "status": 200,
     "via": "jina"
   },
@@ -1019,7 +2083,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-20T05:23:42.879Z",
+    "lastChecked": "2026-10-20T07:14:57.091Z",
     "status": 200,
     "via": "jina"
   },
@@ -1047,7 +2111,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-20T05:23:44.173Z",
+    "lastChecked": "2026-10-20T07:14:58.442Z",
     "status": 200,
     "via": "jina"
   },
@@ -1069,7 +2133,7 @@
         "count": 2
       }
     ],
-    "lastChecked": "2026-10-20T05:23:44.173Z",
+    "lastChecked": "2026-10-20T07:14:58.442Z",
     "status": 200,
     "via": "jina"
   },
@@ -1081,7 +2145,7 @@
         "count": 11
       }
     ],
-    "lastChecked": "2026-10-20T05:23:44.173Z",
+    "lastChecked": "2026-10-20T07:14:58.442Z",
     "status": 200,
     "via": "jina"
   },
@@ -1098,7 +2162,7 @@
         "count": 1
       }
     ],
-    "lastChecked": "2026-10-20T05:23:44.173Z",
+    "lastChecked": "2026-10-20T07:14:58.442Z",
     "status": 200,
     "via": "jina"
   },
@@ -1168,7 +2232,7 @@
         "last": "2022-09-28"
       }
     ],
-    "lastChecked": "2026-10-20T05:20:19.946Z",
+    "lastChecked": "2026-10-20T07:14:58.443Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1184,7 +2248,7 @@
         "last": "2022-09-29"
       }
     ],
-    "lastChecked": "2026-10-20T05:20:28.292Z",
+    "lastChecked": "2026-10-20T07:14:58.443Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1209,7 +2273,7 @@
         "last": "2011-12-17"
       }
     ],
-    "lastChecked": "2026-10-20T05:20:36.591Z",
+    "lastChecked": "2026-10-20T07:14:58.443Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1262,7 +2326,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-20T05:20:47.036Z",
+    "lastChecked": "2026-10-20T07:14:59.794Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1287,7 +2351,7 @@
         "last": "2018-12-13"
       }
     ],
-    "lastChecked": "2026-10-20T05:20:55.363Z",
+    "lastChecked": "2026-10-20T07:14:59.794Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1312,16 +2376,15 @@
         "last": "2025-02-11"
       }
     ],
-    "lastChecked": "2026-10-20T05:21:03.599Z",
+    "lastChecked": "2026-10-20T07:14:59.794Z",
     "status": 200,
     "via": "jina-html"
   },
   "m61": {
     "editions": [],
-    "lastChecked": "2026-10-20T05:21:11.867Z",
+    "lastChecked": "2026-10-20T07:14:58.442Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m62": {
     "editions": [
@@ -1371,7 +2434,7 @@
         "last": "2022-10-12"
       }
     ],
-    "lastChecked": "2026-10-20T05:21:20.163Z",
+    "lastChecked": "2026-10-20T07:14:59.794Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1387,7 +2450,7 @@
         "last": "2021-11-24"
       }
     ],
-    "lastChecked": "2026-10-20T05:21:28.342Z",
+    "lastChecked": "2026-10-20T07:14:59.794Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1412,7 +2475,7 @@
         "last": "2022-03-31"
       }
     ],
-    "lastChecked": "2026-10-20T05:21:36.615Z",
+    "lastChecked": "2026-10-20T07:14:59.794Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1447,7 +2510,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-20T05:21:46.677Z",
+    "lastChecked": "2026-10-20T07:15:01.144Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1472,7 +2535,7 @@
         "last": "2020-07-23"
       }
     ],
-    "lastChecked": "2026-10-20T05:21:54.794Z",
+    "lastChecked": "2026-10-20T07:15:01.144Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1524,7 +2587,7 @@
         "last": "2016-12-01"
       }
     ],
-    "lastChecked": "2026-10-20T05:22:03.316Z",
+    "lastChecked": "2026-10-20T07:15:01.144Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1549,7 +2612,7 @@
         "last": "2025-11-04"
       }
     ],
-    "lastChecked": "2026-10-20T05:22:11.782Z",
+    "lastChecked": "2026-10-20T07:15:01.144Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1610,7 +2673,7 @@
         "last": "2026-03-31"
       }
     ],
-    "lastChecked": "2026-10-20T05:22:20.274Z",
+    "lastChecked": "2026-10-20T07:15:01.144Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1662,16 +2725,15 @@
         "last": "2023-03-30"
       }
     ],
-    "lastChecked": "2026-10-20T05:22:28.435Z",
+    "lastChecked": "2026-10-20T07:15:01.144Z",
     "status": 200,
     "via": "jina-html"
   },
   "m73": {
     "editions": [],
-    "lastChecked": "2026-10-20T05:22:36.905Z",
+    "lastChecked": "2026-10-20T07:14:58.442Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m94": {
     "editions": [
@@ -1721,82 +2783,81 @@
         "last": "2026-11-30"
       }
     ],
-    "lastChecked": "2026-10-20T05:22:45.331Z",
+    "lastChecked": "2026-10-20T07:15:01.144Z",
     "status": 200,
     "via": "jina-html"
   },
   "m99": {
     "editions": [],
-    "lastChecked": "2026-10-20T05:22:53.612Z",
+    "lastChecked": "2026-10-20T07:14:58.442Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "watch_m50": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.442Z"
   },
   "watch_m72": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.442Z"
   },
   "watch_m74": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.442Z"
   },
   "watch_m75": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.442Z"
   },
   "watch_m76": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.442Z"
   },
   "watch_m77": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.442Z"
   },
   "watch_m78": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.442Z"
   },
   "watch_m79": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.442Z"
   },
   "watch_m80": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.443Z"
   },
   "watch_m81": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.443Z"
   },
   "watch_m82": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.443Z"
   },
   "watch_m83": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.443Z"
   },
   "watch_m84": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.443Z"
   },
   "watch_m86": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.443Z"
   },
   "watch_m87": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.443Z"
   },
   "watch_m88": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.443Z"
   },
   "watch_m89": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.443Z"
   },
   "watch_m90": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.443Z"
   },
   "watch_m91": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.443Z"
   },
   "watch_m92": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.443Z"
   },
   "watch_m93": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.443Z"
   },
   "watch_m98": {
-    "lastChecked": "2026-10-20T05:22:53.612Z"
+    "lastChecked": "2026-10-20T07:14:58.443Z"
   },
   "m85": {
     "editions": [
@@ -1810,7 +2871,7 @@
         "last": "2026-11-30"
       }
     ],
-    "lastChecked": "2026-10-20T05:23:02.057Z",
+    "lastChecked": "2026-10-20T07:15:01.144Z",
     "status": 200,
     "via": "jina-html"
   }
