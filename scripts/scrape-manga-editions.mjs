@@ -167,7 +167,7 @@ async function main() {
   const result = existsSync(OUTPUT_PATH) ? JSON.parse(readFileSync(OUTPUT_PATH, 'utf8')) : {};
   let okCount = 0, failCount = 0;
 
-  const age = (id) => { const e = result[id]; if (!e || !e.editions || !e.editions.length) return -1; return Date.parse(e.lastChecked || 0) || 0; };
+  const age = (id) => { const e = result[id]; if (!e || !e.editions || !e.editions.length || !e.editions[0].slug) return -1; return Date.parse(e.lastChecked || 0) || 0; }; // dati vecchi (senza indirizzo) = da rifare per primi
   const queue = Object.entries(sources).filter(([k]) => !k.startsWith('_')).sort((a, b) => age(a[0]) - age(b[0]));
   let acCount = 0;
   for (const [mangaId, cfg] of queue) {
@@ -200,6 +200,7 @@ async function main() {
       await sleep(DELAY_MS);
     }
 
+    if (cfg.refEdition) entry.ref = cfg.refEdition; // scelta manuale dell'edizione da seguire (indirizzo + editore)
     entry.lastChecked = new Date().toISOString();
     result[mangaId] = entry;
   }
