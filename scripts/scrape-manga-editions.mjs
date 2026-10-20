@@ -61,7 +61,49 @@ export function parseAnimeClickEditions(html) {
   return [...groups.values()].map((g) => ({ group: g.group, maxVol: g.maxVol, count: g.vols.size }));
 }
 
-// Se la pagina arriva tramite un servizio di lettura web il testo e' in markdown: [Titolo N](url/edizione/ID/slug)
+
+// ---- Parser v3: legge le righe della tabella #table-edizioni dell'HTML completo, scarta le ristampe ----
+const decodeHtml = (s) => s.replace(/&#(\d+);/g, (_, n) => String.fromCharCode(parseInt(n, 10))).replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCharCode(parseInt(n, 16))).replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/&#0?39;|&apos;/g, "'").replace(/&quot;/g, '"').replace(/&agrave;/g, 'à').replace(/&egrave;/g, 'è').replace(/&eacute;/g, 'é').replace(/&ograve;/g, 'ò').replace(/&ugrave;/g, 'ù').replace(/&igrave;/g, 'ì');
+const cellText = (h) => decodeHtml(h.replace(/<[^>]*>/g, ' ')).replace(/[\u00a0\s]+/g, ' ').trim();
+const isoDate = (d) => { const m = /(\d{2})\/(\d{2})\/(\d{4})/.exec(d || ''); return m ? `${m[3]}-${m[2]}-${m[1]}` : ''; };
+
+export function parseAnimeClickTable(html) {
+  if (!html) return [];
+  const rows = [];
+  const trRe = /<tr[^>]*>([\s\S]*?)<\/tr>/gi;
+  let m;
+  while ((m = trRe.exec(html))) {
+    const tds = [...m[1].matchAll(/<td[^>]*>([\s\S]*?)<\/td>/gi)].map((x) => x[1]);
+    if (tds.length < 6) continue;
+    const link = /href="[^"]*?\/edizione\/(\d+)\/([^"?#]+)"[^>]*>\s*([^<]+?)\s*</i.exec(tds[2]) || /href="[^"]*?\/edizione\/(\d+)\/([^"?#]+)"[^>]*>\s*([^<]+?)\s*</i.exec(m[1]);
+    if (!link) continue;
+    rows.push({
+      eid: link[1], slug: decodeURIComponent(link[2]).toLowerCase(), title: decodeHtml(link[3]).replace(/\s+/g, ' ').trim(),
+      note: cellText(tds[3]), price: cellText(tds[4]), date: isoDate(cellText(tds[5])), pub: tds[6] ? cellText(tds[6]) : '',
+    });
+  }
+  return rows;
+}
+
+// Raggruppa per edizione (indirizzo + editore). Le ristampe NON vengono mai contate.
+export function groupEditions(rows) {
+  const groups = new Map();
+  for (const r of rows) {
+    if (/ristampa/i.test(r.note)) continue;
+    const key = `${r.slug}|${r.pub}`;
+    if (!groups.has(key)) groups.set(key, { slug: r.slug, pub: r.pub, group: r.title.replace(/\s*\d+\s*$/, '').trim() || r.title, vols: new Set(), first: '', last: '', lastVolTitle: '' });
+    const g = groups.get(key);
+    const vm = /(\d+)\s*$/.exec(r.title);
+    if (vm) g.vols.add(parseInt(vm[1], 10));
+    if (r.date) { if (!g.first || r.date < g.first) g.first = r.date; if (!g.last || r.date > g.last) g.last = r.date; }
+  }
+  return [...groups.values()].map((g) => ({
+    slug: g.slug, pub: g.pub, group: g.group,
+    maxVol: g.vols.size ? Math.max(...g.vols) : 0, count: g.vols.size, first: g.first, last: g.last,
+  })).sort((a, b) => b.count - a.count);
+}
+
+// (vecchio) Se la pagina arriva tramite un servizio di lettura web il testo e' in markdown: [Titolo N](url/edizione/ID/slug)
 export function parseAnimeClickMarkdown(md) {
   if (!md) return [];
   const re = /\[([^\]]+)\]\((?:https?:\/\/(?:www\.)?animeclick\.it)?(?:\/public\/app\.php)?\/edizione\/(\d+)\/([^)\s?#]+)\)/gi;
@@ -136,18 +178,11 @@ async function main() {
     if (cfg.animeclick && cfg.animeclick.id && cfg.animeclick.slug && acCount++ < MAX_ANIMECLICK_PER_RUN) {
       const { id, slug } = cfg.animeclick;
       const page = `https://www.animeclick.it/manga/${id}/${slug}/edizioni`;
-      let r = await fetchText(page);
-      let editions = parseAnimeClickEditions(r.text);
-      let via = 'diretto';
-      if (!editions.length && r.status === 403) { // AnimeClick blocca gli indirizzi dei server: passo da un servizio di lettura web
-        await sleep(JINA_GAP_MS);
-        r = await fetchText(`https://r.jina.ai/${page}`);
-        if (r.status === 403 || r.status === 429) { await sleep(20000); r = await fetchText(`https://r.jina.ai/${page}`); }
-        editions = parseAnimeClickMarkdown(r.text);
-        if (!editions.length) editions = parseAnimeClickEditions(r.text);
-        via = 'jina';
-        await sleep(JINA_GAP_MS);
-      }
+      let r = await fetchText(`https://r.jina.ai/${page}`, { 'X-Return-Format': 'html' });
+      if (r.status === 403 || r.status === 429) { await sleep(20000); r = await fetchText(`https://r.jina.ai/${page}`, { 'X-Return-Format': 'html' }); }
+      const editions = groupEditions(parseAnimeClickTable(r.text));
+      const via = 'jina-html';
+      await sleep(JINA_GAP_MS);
       entry.status = r.status;
       entry.via = via;
       console.log(`  AnimeClick: ${editions.length} edizioni (HTTP ${r.status})`);
