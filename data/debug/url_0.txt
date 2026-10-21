@@ -12,7 +12,7 @@ VIA jina-html HTTP 200
 
         if(cookieEnabled){
             document.cookie = 'cookietest=1; expires=Thu, 01-Jan-1970 00:00:01 GMT';
-            document.location.href = decodeURIComponent('%2F%3Fc%3Dpanini%26e%3Dpaniniitaly%26t%3Dhttps%253A%252F%252Fwww.panini.it%252Fshp_ita_it%252Ffumetti-e-manga%252Fmanga.html%26cid%3Den-GB%26tsr%3D1792531567%26tsh%3Da5af9ea9768f6a42fc2c3097f94af044e8b2cefcc8db2935faaee53c6793f139');
+            document.location.href = decodeURIComponent('%2F%3Fc%3Dpanini%26e%3Dpaniniitaly%26t%3Dhttps%253A%252F%252Fwww.panini.it%252Fshp_ita_it%252Ffumetti-e-manga%252Fmanga.html%26cid%3Den-GB%26tsr%3D1792576520%26tsh%3Db2d8a38ad6ecd4878f4ded91e456ec508f5c469fd98acaedb1049bade584b85b');
         } else {
             setTimeout(function () {
                 document.querySelector('.nocookies').classList.remove('hidden');
