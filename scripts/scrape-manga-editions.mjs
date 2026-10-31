@@ -91,15 +91,17 @@ export function groupEditions(rows) {
   for (const r of rows) {
     if (/ristampa/i.test(r.note)) continue;
     const key = `${r.slug}|${r.pub}`;
-    if (!groups.has(key)) groups.set(key, { slug: r.slug, pub: r.pub, group: r.title.replace(/\s*\d+\s*$/, '').trim() || r.title, vols: new Set(), first: '', last: '', lastVolTitle: '' });
+    if (!groups.has(key)) groups.set(key, { slug: r.slug, pub: r.pub, group: r.title.replace(/\s*\d+\s*$/, '').trim() || r.title, vols: new Set(), first: '', last: '', lastVolTitle: '', ups: [] });
     const g = groups.get(key);
     const vm = /(\d+)\s*$/.exec(r.title);
     if (vm) g.vols.add(parseInt(vm[1], 10));
+    if (vm && r.date && r.date >= new Date().toISOString().slice(0, 10)) g.ups.push({ vol: parseInt(vm[1], 10), date: r.date, price: r.price || '' });
     if (r.date) { if (!g.first || r.date < g.first) g.first = r.date; if (!g.last || r.date > g.last) g.last = r.date; }
   }
   return [...groups.values()].map((g) => ({
     slug: g.slug, pub: g.pub, group: g.group,
     maxVol: g.vols.size ? Math.max(...g.vols) : 0, count: g.vols.size, first: g.first, last: g.last,
+    next: g.ups.length ? g.ups.slice().sort((a, b) => a.date.localeCompare(b.date))[0] : null,
   })).sort((a, b) => b.count - a.count);
 }
 
