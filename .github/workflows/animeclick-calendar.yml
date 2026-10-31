@@ -1,0 +1,33 @@
+name: Calendario uscite manga AnimeClick
+
+on:
+  schedule:
+    - cron: '30 5 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Leggi il calendario
+        run: node scripts/scrape-animeclick-calendar.mjs
+
+      - name: Commit risultati (solo se cambiati)
+        run: |
+          git config user.name "manga-calendar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/animeclick-calendar.json
+          git add data/debug 2>/dev/null || true
+          git diff --staged --quiet && echo "Nessuna modifica, salto il commit" || git commit -m "Aggiorna calendario uscite manga [automatico]"
+          git push
