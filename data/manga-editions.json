@@ -8,7 +8,8 @@
         "maxVol": 62,
         "count": 62,
         "first": "1997-10-30",
-        "last": "2000-06-22"
+        "last": "2000-06-22",
+        "next": null
       },
       {
         "slug": "slam-dunk-collection",
@@ -17,7 +18,8 @@
         "maxVol": 31,
         "count": 31,
         "first": "2001-12-20",
-        "last": "2004-06-17"
+        "last": "2004-06-17",
+        "next": null
       },
       {
         "slug": "slam-dunk",
@@ -26,7 +28,8 @@
         "maxVol": 24,
         "count": 24,
         "first": "2010-02-21",
-        "last": "2012-12-22"
+        "last": "2012-12-22",
+        "next": null
       },
       {
         "slug": "slam-dunk",
@@ -35,7 +38,8 @@
         "maxVol": 20,
         "count": 20,
         "first": "2019-09-12",
-        "last": "2021-05-20"
+        "last": "2021-05-20",
+        "next": null
       },
       {
         "slug": "slam-dunk-deluxe",
@@ -44,7 +48,8 @@
         "maxVol": 10,
         "count": 10,
         "first": "2006-10-12",
-        "last": "2008-06-12"
+        "last": "2008-06-12",
+        "next": null
       },
       {
         "slug": "slam-dunk-collection-vhs",
@@ -53,7 +58,8 @@
         "maxVol": 7,
         "count": 2,
         "first": "2002-04-18",
-        "last": "2002-06-20"
+        "last": "2002-06-20",
+        "next": null
       },
       {
         "slug": "plus-slam-dunk-illustrations-2",
@@ -62,7 +68,8 @@
         "maxVol": 2,
         "count": 1,
         "first": "2020-09-03",
-        "last": "2020-09-03"
+        "last": "2020-09-03",
+        "next": null
       },
       {
         "slug": "slam-dunk-figurine-panini-basketball-98-99",
@@ -71,7 +78,8 @@
         "maxVol": 35,
         "count": 1,
         "first": "1999-05-13",
-        "last": "1999-05-13"
+        "last": "1999-05-13",
+        "next": null
       },
       {
         "slug": "slam-dunk-illustration-book",
@@ -80,7 +88,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "1999-01-31",
-        "last": "1999-01-31"
+        "last": "1999-01-31",
+        "next": null
       },
       {
         "slug": "inoue-takehiko-illustrations",
@@ -89,7 +98,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2024-01-11",
-        "last": "2024-01-11"
+        "last": "2024-01-11",
+        "next": null
       },
       {
         "slug": "the-first-slam-dunk-re-source",
@@ -98,10 +108,11 @@
         "maxVol": 0,
         "count": 0,
         "first": "2024-03-21",
-        "last": "2024-03-21"
+        "last": "2024-03-21",
+        "next": null
       }
     ],
-    "lastChecked": "2026-10-31T10:51:22.748Z",
+    "lastChecked": "2026-10-31T18:22:51.999Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -144,7 +155,7 @@
         "last": "2026-10-28"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:22.749Z",
+    "lastChecked": "2026-10-31T18:22:51.999Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -160,7 +171,7 @@
         "last": "2013-11-16"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:22.749Z",
+    "lastChecked": "2026-10-31T18:22:51.999Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -194,7 +205,7 @@
         "last": "2023-12-21"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:22.749Z",
+    "lastChecked": "2026-10-31T18:22:51.999Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -291,7 +302,7 @@
         "last": "2024-08-29"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:22.749Z",
+    "lastChecked": "2026-10-31T18:22:51.999Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -352,7 +363,7 @@
         "last": "2025-06-05"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:22.749Z",
+    "lastChecked": "2026-10-31T18:22:51.999Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -368,7 +379,7 @@
         "last": "2022-03-10"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:22.749Z",
+    "lastChecked": "2026-10-31T18:22:51.999Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -384,7 +395,7 @@
         "last": "2011-02-13"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:22.749Z",
+    "lastChecked": "2026-10-31T18:22:51.999Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -409,7 +420,7 @@
         "last": "2019-07-17"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:22.749Z",
+    "lastChecked": "2026-10-31T18:22:51.999Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -488,7 +499,7 @@
         "last": "2022-10-27"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:22.749Z",
+    "lastChecked": "2026-10-31T18:22:51.999Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -522,7 +533,7 @@
         "last": "2018-11-01"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:22.749Z",
+    "lastChecked": "2026-10-31T18:22:51.999Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -547,14 +558,14 @@
         "last": "2020-02-27"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:22.749Z",
+    "lastChecked": "2026-10-31T18:22:51.999Z",
     "status": 200,
     "via": "jina-html"
   },
   "m13": {
     "editions": [],
     "variants": [],
-    "lastChecked": "2026-10-31T10:47:48.494Z",
+    "lastChecked": "2026-10-31T18:18:37.226Z",
     "status": 200,
     "via": "jina-html",
     "error": "pagina letta ma nessuna edizione riconosciuta"
@@ -580,7 +591,7 @@
         "last": "2012-02-18"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:22.749Z",
+    "lastChecked": "2026-10-31T18:22:51.999Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -758,7 +769,7 @@
         "last": "2021-10-29"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:22.749Z",
+    "lastChecked": "2026-10-31T18:22:51.999Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -829,7 +840,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-31T10:51:25.901Z",
+    "lastChecked": "2026-10-31T18:23:22.467Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -863,7 +874,7 @@
         "last": "2019-07-11"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:25.901Z",
+    "lastChecked": "2026-10-31T18:23:22.467Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -879,7 +890,7 @@
         "last": "2019-07-03"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:25.901Z",
+    "lastChecked": "2026-10-31T18:23:22.467Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1120,7 +1131,7 @@
         "last": "2025-09-25"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:25.901Z",
+    "lastChecked": "2026-10-31T18:23:22.467Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1154,7 +1165,7 @@
         "last": "2022-10-28"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:25.901Z",
+    "lastChecked": "2026-10-31T18:23:22.467Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1243,7 +1254,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-31T10:51:27.237Z",
+    "lastChecked": "2026-10-31T18:23:37.548Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1295,7 +1306,7 @@
         "last": "2026-05-05"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:27.238Z",
+    "lastChecked": "2026-10-31T18:23:37.548Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1365,7 +1376,7 @@
         "last": "2023-09-20"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:27.238Z",
+    "lastChecked": "2026-10-31T18:23:37.548Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1453,7 +1464,7 @@
         "last": "2013-08-31"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:27.238Z",
+    "lastChecked": "2026-10-31T18:23:37.548Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1488,7 +1499,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-31T10:51:28.573Z",
+    "lastChecked": "2026-10-31T18:23:52.581Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1501,7 +1512,8 @@
         "maxVol": 86,
         "count": 86,
         "first": "1996-08-01",
-        "last": "2026-07-30"
+        "last": "2026-07-30",
+        "next": null
       },
       {
         "slug": "berserk-collection",
@@ -1510,7 +1522,8 @@
         "maxVol": 43,
         "count": 43,
         "first": "2000-04-27",
-        "last": "2026-07-30"
+        "last": "2026-07-30",
+        "next": null
       },
       {
         "slug": "berserk-collection-serie-nera",
@@ -1519,7 +1532,8 @@
         "maxVol": 42,
         "count": 42,
         "first": "2007-06-21",
-        "last": "2024-09-26"
+        "last": "2024-09-26",
+        "next": null
       },
       {
         "slug": "berserk-maximum",
@@ -1528,7 +1542,8 @@
         "maxVol": 27,
         "count": 27,
         "first": "2004-06-10",
-        "last": "2023-03-23"
+        "last": "2023-03-23",
+        "next": null
       },
       {
         "slug": "berserk-deluxe-edition",
@@ -1537,7 +1552,8 @@
         "maxVol": 14,
         "count": 14,
         "first": "2022-11-17",
-        "last": "2026-04-02"
+        "last": "2026-04-02",
+        "next": null
       },
       {
         "slug": "berserk-collection-serie-nera-cofanetto",
@@ -1546,7 +1562,8 @@
         "maxVol": 8,
         "count": 8,
         "first": "2020-12-24",
-        "last": "2024-01-25"
+        "last": "2024-01-25",
+        "next": null
       },
       {
         "slug": "berserk-collection-serie-nera-cofanetto-vuoto",
@@ -1555,7 +1572,8 @@
         "maxVol": 8,
         "count": 8,
         "first": "2020-12-24",
-        "last": "2024-01-25"
+        "last": "2024-01-25",
+        "next": null
       },
       {
         "slug": "berserk-collection-special-edition",
@@ -1564,7 +1582,8 @@
         "maxVol": 41,
         "count": 1,
         "first": "2022-12-22",
-        "last": "2022-12-22"
+        "last": "2022-12-22",
+        "next": null
       },
       {
         "slug": "berserk-30th-anniversary-cofanetto",
@@ -1573,7 +1592,8 @@
         "maxVol": 43,
         "count": 1,
         "first": "2026-07-30",
-        "last": "2026-07-30"
+        "last": "2026-07-30",
+        "next": null
       },
       {
         "slug": "berserk-collection-variant-fumetterie",
@@ -1582,7 +1602,8 @@
         "maxVol": 42,
         "count": 1,
         "first": "2024-06-13",
-        "last": "2024-06-13"
+        "last": "2024-06-13",
+        "next": null
       },
       {
         "slug": "berserk-collection-variant-panini.it",
@@ -1591,7 +1612,8 @@
         "maxVol": 42,
         "count": 1,
         "first": "2024-06-13",
-        "last": "2024-06-13"
+        "last": "2024-06-13",
+        "next": null
       },
       {
         "slug": "berserk-deluxe-eclipse-limited",
@@ -1600,7 +1622,8 @@
         "maxVol": 1,
         "count": 1,
         "first": "2022-11-29",
-        "last": "2022-11-29"
+        "last": "2022-11-29",
+        "next": null
       },
       {
         "slug": "berserk-deluxe-instant-variant",
@@ -1609,7 +1632,8 @@
         "maxVol": 14,
         "count": 1,
         "first": "2026-06-18",
-        "last": "2026-06-18"
+        "last": "2026-06-18",
+        "next": null
       },
       {
         "slug": "berserk-collection-serie-nera-con-tarocchi",
@@ -1618,7 +1642,8 @@
         "maxVol": 42,
         "count": 1,
         "first": "2024-10-10",
-        "last": "2024-10-10"
+        "last": "2024-10-10",
+        "next": null
       },
       {
         "slug": "berserk-collection-serie-nera-con-tarocchi-variant-black",
@@ -1627,7 +1652,8 @@
         "maxVol": 42,
         "count": 1,
         "first": "2026-02-05",
-        "last": "2026-02-05"
+        "last": "2026-02-05",
+        "next": null
       },
       {
         "slug": "berserk-collection-con-puzzle",
@@ -1636,7 +1662,8 @@
         "maxVol": 43,
         "count": 1,
         "first": "2026-07-30",
-        "last": "2026-07-30"
+        "last": "2026-07-30",
+        "next": null
       },
       {
         "slug": "berserk-illustration-book",
@@ -1645,7 +1672,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2002-10-31",
-        "last": "2002-10-31"
+        "last": "2002-10-31",
+        "next": null
       },
       {
         "slug": "berserk-bundle",
@@ -1654,7 +1682,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2024-06-13",
-        "last": "2024-06-13"
+        "last": "2024-06-13",
+        "next": null
       },
       {
         "slug": "berserk-official-guide-book",
@@ -1663,7 +1692,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2018-11-08",
-        "last": "2018-11-08"
+        "last": "2018-11-08",
+        "next": null
       },
       {
         "slug": "the-best-of-planet-manga-steelbox-collection-berserk-collection",
@@ -1672,7 +1702,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2024-04-09",
-        "last": "2024-04-09"
+        "last": "2024-04-09",
+        "next": null
       },
       {
         "slug": "larte-di-berserk",
@@ -1681,10 +1712,11 @@
         "maxVol": 0,
         "count": 0,
         "first": "2026-04-16",
-        "last": "2026-04-16"
+        "last": "2026-04-16",
+        "next": null
       }
     ],
-    "lastChecked": "2026-10-31T10:48:23.005Z",
+    "lastChecked": "2026-10-31T18:19:11.555Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1697,7 +1729,8 @@
         "maxVol": 16,
         "count": 16,
         "first": "2022-03-23",
-        "last": "2026-04-28"
+        "last": "2026-04-28",
+        "next": null
       },
       {
         "slug": "kaiju-no.-8-variant-cover-edition",
@@ -1706,7 +1739,8 @@
         "maxVol": 5,
         "count": 2,
         "first": "2022-03-23",
-        "last": "2022-10-26"
+        "last": "2022-10-26",
+        "next": null
       },
       {
         "slug": "kaiju-no.-8-limited-edition",
@@ -1715,7 +1749,8 @@
         "maxVol": 1,
         "count": 1,
         "first": "2022-03-23",
-        "last": "2022-03-23"
+        "last": "2022-03-23",
+        "next": null
       },
       {
         "slug": "kaiju-no.-8-start-edition",
@@ -1724,7 +1759,8 @@
         "maxVol": 1,
         "count": 1,
         "first": "2024-06-18",
-        "last": "2024-06-18"
+        "last": "2024-06-18",
+        "next": null
       },
       {
         "slug": "kaiju-no.-8-celebration-edition",
@@ -1733,7 +1769,8 @@
         "maxVol": 16,
         "count": 1,
         "first": "2026-04-28",
-        "last": "2026-04-28"
+        "last": "2026-04-28",
+        "next": null
       },
       {
         "slug": "kaiju-no.-8-monstrous-box",
@@ -1742,10 +1779,11 @@
         "maxVol": 0,
         "count": 0,
         "first": "2022-03-16",
-        "last": "2022-03-16"
+        "last": "2022-03-16",
+        "next": null
       }
     ],
-    "lastChecked": "2026-10-31T10:48:31.511Z",
+    "lastChecked": "2026-10-31T18:19:20.497Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1758,7 +1796,8 @@
         "maxVol": 23,
         "count": 23,
         "first": "2022-09-21",
-        "last": "2026-10-07"
+        "last": "2026-10-07",
+        "next": null
       },
       {
         "slug": "dandadan-variant-edition",
@@ -1767,7 +1806,8 @@
         "maxVol": 20,
         "count": 2,
         "first": "2022-09-21",
-        "last": "2025-10-29"
+        "last": "2025-10-29",
+        "next": null
       },
       {
         "slug": "dandadan-deluxe-edition",
@@ -1776,7 +1816,8 @@
         "maxVol": 19,
         "count": 2,
         "first": "2023-05-31",
-        "last": "2025-07-23"
+        "last": "2025-07-23",
+        "next": null
       },
       {
         "slug": "dandadan-deep-space-variant",
@@ -1785,7 +1826,8 @@
         "maxVol": 1,
         "count": 1,
         "first": "2024-10-09",
-        "last": "2024-10-09"
+        "last": "2024-10-09",
+        "next": null
       },
       {
         "slug": "dandadan-variant-edition",
@@ -1794,7 +1836,8 @@
         "maxVol": 2,
         "count": 1,
         "first": "2022-10-12",
-        "last": "2022-10-12"
+        "last": "2022-10-12",
+        "next": null
       },
       {
         "slug": "dandadan-limited-edition",
@@ -1803,7 +1846,8 @@
         "maxVol": 4,
         "count": 1,
         "first": "2023-01-11",
-        "last": "2023-01-11"
+        "last": "2023-01-11",
+        "next": null
       },
       {
         "slug": "dandadan-daizukan-fanbook",
@@ -1812,10 +1856,11 @@
         "maxVol": 0,
         "count": 0,
         "first": "2025-12-17",
-        "last": "2025-12-17"
+        "last": "2025-12-17",
+        "next": null
       }
     ],
-    "lastChecked": "2026-10-31T10:48:39.905Z",
+    "lastChecked": "2026-10-31T18:19:29.096Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1828,7 +1873,8 @@
         "maxVol": 20,
         "count": 20,
         "first": "2002-10-19",
-        "last": "2004-05-20"
+        "last": "2004-05-20",
+        "next": null
       },
       {
         "slug": "rocky-joe-perfect-edition",
@@ -1837,7 +1883,8 @@
         "maxVol": 13,
         "count": 13,
         "first": "2017-03-01",
-        "last": "2018-02-28"
+        "last": "2018-02-28",
+        "next": null
       },
       {
         "slug": "rocky-joe-perfect-edition-variant-mangayo",
@@ -1846,11 +1893,12 @@
         "maxVol": 1,
         "count": 1,
         "first": "2025-04-09",
-        "last": "2025-04-09"
+        "last": "2025-04-09",
+        "next": null
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-31T10:48:50.289Z",
+    "lastChecked": "2026-10-31T18:19:53.008Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1876,7 +1924,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-31T10:51:32.581Z",
+    "lastChecked": "2026-10-31T18:24:38.026Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1919,7 +1967,7 @@
         "last": "2025-07-23"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:32.581Z",
+    "lastChecked": "2026-10-31T18:24:38.026Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2025,7 +2073,7 @@
         "last": "2024-04-18"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:32.581Z",
+    "lastChecked": "2026-10-31T18:24:38.027Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2042,7 +2090,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-31T10:51:33.918Z",
+    "lastChecked": "2026-10-31T18:24:53.058Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2055,10 +2103,11 @@
         "maxVol": 13,
         "count": 13,
         "first": "2010-01-24",
-        "last": "2014-02-15"
+        "last": "2014-02-15",
+        "next": null
       }
     ],
-    "lastChecked": "2026-10-31T10:48:59.200Z",
+    "lastChecked": "2026-10-31T18:20:01.820Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2071,7 +2120,8 @@
         "maxVol": 12,
         "count": 12,
         "first": "2006-10-19",
-        "last": "2008-12-18"
+        "last": "2008-12-18",
+        "next": null
       },
       {
         "slug": "death-note-gold",
@@ -2080,7 +2130,8 @@
         "maxVol": 12,
         "count": 12,
         "first": "2008-03-06",
-        "last": "2009-11-08"
+        "last": "2009-11-08",
+        "next": null
       },
       {
         "slug": "death-note-gold-deluxe",
@@ -2089,7 +2140,8 @@
         "maxVol": 12,
         "count": 12,
         "first": "2008-03-06",
-        "last": "2009-11-08"
+        "last": "2009-11-08",
+        "next": null
       },
       {
         "slug": "death-note-black-edition",
@@ -2098,7 +2150,8 @@
         "maxVol": 6,
         "count": 6,
         "first": "2012-11-17",
-        "last": "2013-09-28"
+        "last": "2013-09-28",
+        "next": null
       },
       {
         "slug": "death-note-variant-2023",
@@ -2107,7 +2160,8 @@
         "maxVol": 1,
         "count": 1,
         "first": "2023-11-02",
-        "last": "2023-11-02"
+        "last": "2023-11-02",
+        "next": null
       },
       {
         "slug": "death-note-christmas-variant",
@@ -2116,7 +2170,8 @@
         "maxVol": 1,
         "count": 1,
         "first": "2024-11-21",
-        "last": "2024-11-21"
+        "last": "2024-11-21",
+        "next": null
       },
       {
         "slug": "artbook-blanc-et-noir-obata-takeshi-illustrations",
@@ -2125,7 +2180,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2015-04-04",
-        "last": "2015-04-04"
+        "last": "2015-04-04",
+        "next": null
       },
       {
         "slug": "the-best-of-planet-manga-steelbox-collection-death-note",
@@ -2134,7 +2190,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2021-01-28",
-        "last": "2021-01-28"
+        "last": "2021-01-28",
+        "next": null
       },
       {
         "slug": "death-note-black-edition-cofanetto-completo",
@@ -2143,7 +2200,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2016-11-17",
-        "last": "2016-11-17"
+        "last": "2016-11-17",
+        "next": null
       },
       {
         "slug": "death-note-black-edition-guida-alla-lettura-con-box-vuoto-allegato",
@@ -2152,7 +2210,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2016-11-17",
-        "last": "2016-11-17"
+        "last": "2016-11-17",
+        "next": null
       },
       {
         "slug": "death-note-complete-edition",
@@ -2161,10 +2220,11 @@
         "maxVol": 0,
         "count": 0,
         "first": "2021-07-29",
-        "last": "2021-07-29"
+        "last": "2021-07-29",
+        "next": null
       }
     ],
-    "lastChecked": "2026-10-31T10:49:08.499Z",
+    "lastChecked": "2026-10-31T18:20:10.837Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2177,7 +2237,8 @@
         "maxVol": 27,
         "count": 27,
         "first": "2006-07-13",
-        "last": "2011-09-03"
+        "last": "2011-09-03",
+        "next": null
       },
       {
         "slug": "fullmetal-alchemist-gold",
@@ -2186,7 +2247,8 @@
         "maxVol": 27,
         "count": 27,
         "first": "2008-02-20",
-        "last": "2011-12-17"
+        "last": "2011-12-17",
+        "next": null
       },
       {
         "slug": "fullmetal-alchemist-gold-deluxe",
@@ -2195,7 +2257,8 @@
         "maxVol": 27,
         "count": 27,
         "first": "2008-02-20",
-        "last": "2011-12-17"
+        "last": "2011-12-17",
+        "next": null
       },
       {
         "slug": "fullmetal-alchemist-ultimate-deluxe-edition",
@@ -2204,7 +2267,8 @@
         "maxVol": 18,
         "count": 18,
         "first": "2021-05-06",
-        "last": "2023-01-12"
+        "last": "2023-01-12",
+        "next": null
       },
       {
         "slug": "the-art-of-fullmetal-alchemist-2",
@@ -2213,7 +2277,8 @@
         "maxVol": 2,
         "count": 1,
         "first": "2011-10-29",
-        "last": "2011-10-29"
+        "last": "2011-10-29",
+        "next": null
       },
       {
         "slug": "fullmetal-alchemist-card-game",
@@ -2222,7 +2287,8 @@
         "maxVol": 8,
         "count": 1,
         "first": "2006-12-04",
-        "last": "2006-12-04"
+        "last": "2006-12-04",
+        "next": null
       },
       {
         "slug": "fullmetal-alchemist-tv-animation-artbook",
@@ -2231,7 +2297,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2007-07-25",
-        "last": "2007-07-25"
+        "last": "2007-07-25",
+        "next": null
       },
       {
         "slug": "hiromu-arakawa-artwoks-fullmetal-alchemist",
@@ -2240,7 +2307,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2019-02-21",
-        "last": "2019-02-21"
+        "last": "2019-02-21",
+        "next": null
       },
       {
         "slug": "the-art-of-fullmetal-alchemist",
@@ -2249,7 +2317,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2008-09-08",
-        "last": "2008-09-08"
+        "last": "2008-09-08",
+        "next": null
       },
       {
         "slug": "fullmetal-alchemist-character-guide",
@@ -2258,7 +2327,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2015-06-27",
-        "last": "2015-06-27"
+        "last": "2015-06-27",
+        "next": null
       },
       {
         "slug": "fullmetal-alchemist-ultimate-deluxe-edition-starter-pack",
@@ -2267,7 +2337,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2023-11-02",
-        "last": "2023-11-02"
+        "last": "2023-11-02",
+        "next": null
       },
       {
         "slug": "the-best-of-planet-manga-steelbox-collection-fullmetal-alchemist",
@@ -2276,7 +2347,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2022-05-25",
-        "last": "2022-05-25"
+        "last": "2022-05-25",
+        "next": null
       },
       {
         "slug": "fullmetal-alchemist-20th-anniversary-book",
@@ -2285,10 +2357,11 @@
         "maxVol": 0,
         "count": 0,
         "first": "2023-05-04",
-        "last": "2023-05-04"
+        "last": "2023-05-04",
+        "next": null
       }
     ],
-    "lastChecked": "2026-10-31T10:49:17.396Z",
+    "lastChecked": "2026-10-31T18:20:21.094Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2301,7 +2374,8 @@
         "maxVol": 25,
         "count": 25,
         "first": "2003-08-06",
-        "last": "2005-10-26"
+        "last": "2005-10-26",
+        "next": null
       },
       {
         "slug": "big-g.t.o.",
@@ -2310,7 +2384,8 @@
         "maxVol": 13,
         "count": 13,
         "first": "2006-10-16",
-        "last": "2007-11-14"
+        "last": "2007-11-14",
+        "next": null
       },
       {
         "slug": "big-g.t.o.-deluxe",
@@ -2319,7 +2394,8 @@
         "maxVol": 13,
         "count": 13,
         "first": "2017-01-26",
-        "last": "2019-09-12"
+        "last": "2019-09-12",
+        "next": null
       },
       {
         "slug": "big-g.t.o.-deluxe-black-edition",
@@ -2328,7 +2404,8 @@
         "maxVol": 13,
         "count": 13,
         "first": "2022-02-11",
-        "last": "2023-01-20"
+        "last": "2023-01-20",
+        "next": null
       },
       {
         "slug": "big-g.t.o.-box",
@@ -2337,7 +2414,8 @@
         "maxVol": 4,
         "count": 4,
         "first": "2009-04-12",
-        "last": "2009-04-26"
+        "last": "2009-04-26",
+        "next": null
       },
       {
         "slug": "big-g.t.o.-deluxe-red-metal-variant-mangayo",
@@ -2346,7 +2424,8 @@
         "maxVol": 1,
         "count": 1,
         "first": "2022-03-25",
-        "last": "2022-03-25"
+        "last": "2022-03-25",
+        "next": null
       },
       {
         "slug": "big-g.t.o.-deluxe-box",
@@ -2355,7 +2434,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2016-10-26",
-        "last": "2019-09-12"
+        "last": "2019-09-12",
+        "next": null
       },
       {
         "slug": "big-g.t.o.-deluxe-black-edition-box",
@@ -2364,11 +2444,12 @@
         "maxVol": 0,
         "count": 0,
         "first": "2025-10-31",
-        "last": "2025-10-31"
+        "last": "2025-10-31",
+        "next": null
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-31T10:49:28.075Z",
+    "lastChecked": "2026-10-31T18:20:45.440Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2381,10 +2462,11 @@
         "maxVol": 15,
         "count": 15,
         "first": "2005-09-08",
-        "last": "2012-05-31"
+        "last": "2012-05-31",
+        "next": null
       }
     ],
-    "lastChecked": "2026-10-31T10:49:36.641Z",
+    "lastChecked": "2026-10-31T18:20:54.229Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2397,7 +2479,8 @@
         "maxVol": 13,
         "count": 13,
         "first": "2011-04-16",
-        "last": "2014-08-02"
+        "last": "2014-08-02",
+        "next": null
       },
       {
         "slug": "buonanotte-punpun-new-edition",
@@ -2406,10 +2489,11 @@
         "maxVol": 7,
         "count": 7,
         "first": "2025-08-28",
-        "last": "2026-02-26"
+        "last": "2026-02-26",
+        "next": null
       }
     ],
-    "lastChecked": "2026-10-31T10:49:45.216Z",
+    "lastChecked": "2026-10-31T18:21:02.709Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2422,7 +2506,8 @@
         "maxVol": 13,
         "count": 13,
         "first": "2020-05-27",
-        "last": "2025-04-02"
+        "last": "2025-04-02",
+        "next": null
       },
       {
         "slug": "land-of-the-lustrous-jacket-variant-double-face",
@@ -2431,10 +2516,11 @@
         "maxVol": 13,
         "count": 1,
         "first": "2025-04-02",
-        "last": "2025-04-02"
+        "last": "2025-04-02",
+        "next": null
       }
     ],
-    "lastChecked": "2026-10-31T10:49:53.778Z",
+    "lastChecked": "2026-10-31T18:21:11.165Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2447,7 +2533,8 @@
         "maxVol": 22,
         "count": 22,
         "first": "2022-04-28",
-        "last": "2024-01-31"
+        "last": "2024-01-31",
+        "next": null
       },
       {
         "slug": "i-am-a-hero",
@@ -2456,7 +2543,8 @@
         "maxVol": 16,
         "count": 16,
         "first": "2011-08-30",
-        "last": "2016-05-18"
+        "last": "2016-05-18",
+        "next": null
       },
       {
         "slug": "i-am-a-hero",
@@ -2465,7 +2553,8 @@
         "maxVol": 22,
         "count": 6,
         "first": "2016-11-30",
-        "last": "2017-10-18"
+        "last": "2017-10-18",
+        "next": null
       },
       {
         "slug": "i-am-a-hero-variant",
@@ -2474,7 +2563,8 @@
         "maxVol": 1,
         "count": 1,
         "first": "2013-04-27",
-        "last": "2013-04-27"
+        "last": "2013-04-27",
+        "next": null
       },
       {
         "slug": "i-am-a-hero-nuova-edizione-variant-mangayo",
@@ -2483,10 +2573,11 @@
         "maxVol": 1,
         "count": 1,
         "first": "2022-04-28",
-        "last": "2022-04-28"
+        "last": "2022-04-28",
+        "next": null
       }
     ],
-    "lastChecked": "2026-10-31T10:50:02.759Z",
+    "lastChecked": "2026-10-31T18:21:19.792Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2499,7 +2590,8 @@
         "maxVol": 2,
         "count": 2,
         "first": "2010-10-17",
-        "last": "2010-12-12"
+        "last": "2010-12-12",
+        "next": null
       },
       {
         "slug": "solanin-complete-edition",
@@ -2508,10 +2600,11 @@
         "maxVol": 0,
         "count": 0,
         "first": "2019-12-12",
-        "last": "2019-12-12"
+        "last": "2019-12-12",
+        "next": null
       }
     ],
-    "lastChecked": "2026-10-31T10:50:11.236Z",
+    "lastChecked": "2026-10-31T18:21:28.052Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2524,7 +2617,8 @@
         "maxVol": 14,
         "count": 14,
         "first": "2018-10-10",
-        "last": "2023-01-11"
+        "last": "2023-01-11",
+        "next": null
       },
       {
         "slug": "jagan-variant-cover-edition",
@@ -2533,10 +2627,11 @@
         "maxVol": 1,
         "count": 1,
         "first": "2018-10-10",
-        "last": "2018-10-10"
+        "last": "2018-10-10",
+        "next": null
       }
     ],
-    "lastChecked": "2026-10-31T10:50:19.844Z",
+    "lastChecked": "2026-10-31T18:21:36.547Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2549,7 +2644,8 @@
         "maxVol": 30,
         "count": 30,
         "first": "2019-10-31",
-        "last": "2025-10-30"
+        "last": "2025-10-30",
+        "next": null
       },
       {
         "slug": "jujutsu-kaisen-sorcery-fight-variant",
@@ -2558,7 +2654,8 @@
         "maxVol": 30,
         "count": 5,
         "first": "2019-10-31",
-        "last": "2025-10-30"
+        "last": "2025-10-30",
+        "next": null
       },
       {
         "slug": "jujutsu-kaisen-sorcery-fight-variant-amazon-e-libreria",
@@ -2567,7 +2664,8 @@
         "maxVol": 30,
         "count": 2,
         "first": "2025-10-30",
-        "last": "2025-10-30"
+        "last": "2025-10-30",
+        "next": null
       },
       {
         "slug": "jujutsu-kaisen-sorcery-fight-edizione-early-access",
@@ -2576,7 +2674,8 @@
         "maxVol": 1,
         "count": 1,
         "first": "2019-10-31",
-        "last": "2019-10-31"
+        "last": "2019-10-31",
+        "next": null
       },
       {
         "slug": "jujutsu-kaisen-sorcery-fight-fashion-variant",
@@ -2585,7 +2684,8 @@
         "maxVol": 1,
         "count": 1,
         "first": "2021-08-04",
-        "last": "2021-08-04"
+        "last": "2021-08-04",
+        "next": null
       },
       {
         "slug": "jujutsu-kaisen-christmas-variant",
@@ -2594,7 +2694,8 @@
         "maxVol": 1,
         "count": 1,
         "first": "2023-11-30",
-        "last": "2023-11-30"
+        "last": "2023-11-30",
+        "next": null
       },
       {
         "slug": "jujutsu-kaisen-sorcery-fight-discovery-edition",
@@ -2603,7 +2704,8 @@
         "maxVol": 1,
         "count": 1,
         "first": "2025-10-30",
-        "last": "2025-10-30"
+        "last": "2025-10-30",
+        "next": null
       },
       {
         "slug": "jujutsu-kaisen-calendario-2023",
@@ -2612,7 +2714,8 @@
         "maxVol": 2023,
         "count": 1,
         "first": "2022-10-27",
-        "last": "2022-10-27"
+        "last": "2022-10-27",
+        "next": null
       },
       {
         "slug": "jujutsu-kaisen-guida-allanime-stagione-1",
@@ -2621,7 +2724,8 @@
         "maxVol": 1,
         "count": 1,
         "first": "2026-10-15",
-        "last": "2026-10-15"
+        "last": "2026-10-15",
+        "next": null
       },
       {
         "slug": "jujutsu-kaisen-official-fanbook",
@@ -2630,7 +2734,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2022-10-27",
-        "last": "2022-10-27"
+        "last": "2022-10-27",
+        "next": null
       },
       {
         "slug": "jujutsu-kaisen-sorcery-fight-framebox",
@@ -2639,7 +2744,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2025-06-26",
-        "last": "2025-06-26"
+        "last": "2025-06-26",
+        "next": null
       },
       {
         "slug": "jujutsu-kaisen-sorcery-fight-cofanetto",
@@ -2648,7 +2754,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2025-10-30",
-        "last": "2025-10-30"
+        "last": "2025-10-30",
+        "next": null
       },
       {
         "slug": "jujutsu-kaisen-calendario-2023-con-variant",
@@ -2657,7 +2764,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2022-10-27",
-        "last": "2022-10-27"
+        "last": "2022-10-27",
+        "next": null
       },
       {
         "slug": "jujutsu-kaisen-instant-variant-bundle",
@@ -2666,7 +2774,8 @@
         "maxVol": 0,
         "count": 0,
         "first": "2026-01-29",
-        "last": "2026-01-29"
+        "last": "2026-01-29",
+        "next": null
       },
       {
         "slug": "jujutsu-kaisen-coloring-book-bagliore-rosso",
@@ -2675,10 +2784,11 @@
         "maxVol": 0,
         "count": 0,
         "first": "2026-10-15",
-        "last": "2026-10-15"
+        "last": "2026-10-15",
+        "next": null
       }
     ],
-    "lastChecked": "2026-10-31T10:50:28.745Z",
+    "lastChecked": "2026-10-31T18:21:45.762Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2691,10 +2801,11 @@
         "maxVol": 15,
         "count": 15,
         "first": "2024-01-30",
-        "last": "2026-09-22"
+        "last": "2026-09-22",
+        "next": null
       }
     ],
-    "lastChecked": "2026-10-31T10:50:37.502Z",
+    "lastChecked": "2026-10-31T18:21:54.088Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2707,7 +2818,12 @@
         "maxVol": 77,
         "count": 50,
         "first": "2016-09-14",
-        "last": "2026-11-30"
+        "last": "2026-11-30",
+        "next": {
+          "vol": 77,
+          "date": "2026-11-30",
+          "price": "6,90 €"
+        }
       },
       {
         "slug": "kingdom",
@@ -2716,10 +2832,11 @@
         "maxVol": 27,
         "count": 27,
         "first": "2011-06-30",
-        "last": "2016-05-18"
+        "last": "2016-05-18",
+        "next": null
       }
     ],
-    "lastChecked": "2026-10-31T10:50:46.449Z",
+    "lastChecked": "2026-10-31T18:22:02.752Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2732,10 +2849,11 @@
         "maxVol": 10,
         "count": 10,
         "first": "2009-11-22",
-        "last": "2010-08-22"
+        "last": "2010-08-22",
+        "next": null
       }
     ],
-    "lastChecked": "2026-10-31T10:50:54.975Z",
+    "lastChecked": "2026-10-31T18:22:10.962Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2748,10 +2866,11 @@
         "maxVol": 16,
         "count": 16,
         "first": "2004-09-02",
-        "last": "2026-05-28"
+        "last": "2026-05-28",
+        "next": null
       }
     ],
-    "lastChecked": "2026-10-31T10:51:03.539Z",
+    "lastChecked": "2026-10-31T18:22:19.464Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2764,7 +2883,8 @@
         "maxVol": 26,
         "count": 26,
         "first": "2020-10-21",
-        "last": "2026-08-25"
+        "last": "2026-08-25",
+        "next": null
       },
       {
         "slug": "record-of-ragnarok-variant",
@@ -2773,7 +2893,8 @@
         "maxVol": 1,
         "count": 1,
         "first": "2026-04-30",
-        "last": "2026-04-30"
+        "last": "2026-04-30",
+        "next": null
       },
       {
         "slug": "record-of-ragnarok-limited-edition",
@@ -2782,7 +2903,8 @@
         "maxVol": 15,
         "count": 1,
         "first": "2023-05-17",
-        "last": "2023-05-17"
+        "last": "2023-05-17",
+        "next": null
       },
       {
         "slug": "record-of-ragnarock-19-lo-strano-caso-di-jack-lo-squartatore-1-bundle",
@@ -2791,11 +2913,12 @@
         "maxVol": 0,
         "count": 0,
         "first": "2024-05-07",
-        "last": "2024-05-07"
+        "last": "2024-05-07",
+        "next": null
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-31T10:51:13.810Z",
+    "lastChecked": "2026-10-31T18:22:43.219Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2875,7 +2998,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-31T10:51:24.564Z",
+    "lastChecked": "2026-10-31T18:23:07.172Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2909,7 +3032,7 @@
         "last": "2017-02-22"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:24.564Z",
+    "lastChecked": "2026-10-31T18:23:07.172Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2925,7 +3048,7 @@
         "last": "2016-09-01"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:24.564Z",
+    "lastChecked": "2026-10-31T18:23:07.173Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2950,7 +3073,7 @@
         "last": "2025-11-19"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:24.564Z",
+    "lastChecked": "2026-10-31T18:23:07.173Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3020,7 +3143,7 @@
         "last": "2022-09-28"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:28.573Z",
+    "lastChecked": "2026-10-31T18:23:52.581Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3036,7 +3159,7 @@
         "last": "2022-09-29"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:28.573Z",
+    "lastChecked": "2026-10-31T18:23:52.581Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3061,7 +3184,7 @@
         "last": "2011-12-17"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:28.573Z",
+    "lastChecked": "2026-10-31T18:23:52.581Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3114,7 +3237,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-31T10:51:29.909Z",
+    "lastChecked": "2026-10-31T18:24:07.678Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3139,7 +3262,7 @@
         "last": "2018-12-13"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:29.909Z",
+    "lastChecked": "2026-10-31T18:24:07.678Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3164,13 +3287,13 @@
         "last": "2025-02-11"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:29.909Z",
+    "lastChecked": "2026-10-31T18:24:07.678Z",
     "status": 200,
     "via": "jina-html"
   },
   "m61": {
     "editions": [],
-    "lastChecked": "2026-10-31T10:47:56.584Z",
+    "lastChecked": "2026-10-31T18:18:45.318Z",
     "status": 200,
     "via": "jina-html",
     "error": "pagina letta ma nessuna edizione riconosciuta"
@@ -3223,7 +3346,7 @@
         "last": "2022-10-12"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:29.909Z",
+    "lastChecked": "2026-10-31T18:24:07.678Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3239,7 +3362,7 @@
         "last": "2021-11-24"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:29.909Z",
+    "lastChecked": "2026-10-31T18:24:07.678Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3264,7 +3387,7 @@
         "last": "2022-03-31"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:29.909Z",
+    "lastChecked": "2026-10-31T18:24:07.678Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3299,7 +3422,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-10-31T10:51:31.246Z",
+    "lastChecked": "2026-10-31T18:24:22.861Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3324,7 +3447,7 @@
         "last": "2020-07-23"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:31.246Z",
+    "lastChecked": "2026-10-31T18:24:22.861Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3376,7 +3499,7 @@
         "last": "2016-12-01"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:31.246Z",
+    "lastChecked": "2026-10-31T18:24:22.861Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3401,7 +3524,7 @@
         "last": "2025-11-04"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:31.246Z",
+    "lastChecked": "2026-10-31T18:24:22.861Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3462,7 +3585,7 @@
         "last": "2026-03-31"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:31.246Z",
+    "lastChecked": "2026-10-31T18:24:22.861Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3514,13 +3637,13 @@
         "last": "2023-03-30"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:31.246Z",
+    "lastChecked": "2026-10-31T18:24:22.861Z",
     "status": 200,
     "via": "jina-html"
   },
   "m73": {
     "editions": [],
-    "lastChecked": "2026-10-31T10:48:04.954Z",
+    "lastChecked": "2026-10-31T18:18:53.844Z",
     "status": 200,
     "via": "jina-html",
     "error": "pagina letta ma nessuna edizione riconosciuta"
@@ -3573,82 +3696,82 @@
         "last": "2026-11-30"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:31.246Z",
+    "lastChecked": "2026-10-31T18:24:22.861Z",
     "status": 200,
     "via": "jina-html"
   },
   "m99": {
     "editions": [],
-    "lastChecked": "2026-10-31T10:48:13.675Z",
+    "lastChecked": "2026-10-31T18:19:02.110Z",
     "status": 200,
     "via": "jina-html",
     "error": "pagina letta ma nessuna edizione riconosciuta"
   },
   "watch_m50": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m72": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m74": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m75": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m76": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m77": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m78": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m79": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m80": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m81": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m82": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m83": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m84": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m86": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m87": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m88": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m89": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m90": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m91": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m92": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m93": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "watch_m98": {
-    "lastChecked": "2026-10-31T10:48:13.675Z"
+    "lastChecked": "2026-10-31T18:19:02.110Z"
   },
   "m85": {
     "editions": [
@@ -3662,7 +3785,7 @@
         "last": "2026-11-30"
       }
     ],
-    "lastChecked": "2026-10-31T10:51:31.246Z",
+    "lastChecked": "2026-10-31T18:24:22.861Z",
     "status": 200,
     "via": "jina-html"
   }
