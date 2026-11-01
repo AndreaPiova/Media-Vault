@@ -1,0 +1,957 @@
+{
+ "manga": {
+  "Gachiakuta": {
+   "cands": [
+    {
+     "id": "192aa767-2479-42c1-9780-8d65a2efd36a",
+     "title": "Gachiakuta",
+     "year": 2022,
+     "lastVolume": "",
+     "lastChapter": "",
+     "status": "hiatus"
+    }
+   ],
+   "agg": {
+    "192aa767-2479-42c1-9780-8d65a2efd36a": {
+     "15": [
+      "123"
+     ],
+     "19": [
+      "173"
+     ],
+     "none": [
+      "1",
+      "2",
+      "3",
+      "162.2"
+     ]
+    }
+   }
+  },
+  "Aposimz": {
+   "cands": [
+    {
+     "id": "936771f7-eec8-45bd-b1fa-d5802a9cfd06",
+     "title": "APOSIMZ",
+     "year": 2017,
+     "lastVolume": "9",
+     "lastChapter": "54",
+     "status": "completed"
+    },
+    {
+     "id": "96818419-90d6-4e45-8f48-aefa30d3739d",
+     "title": "APOSIMZ (Official Colored)",
+     "year": null,
+     "lastVolume": null,
+     "lastChapter": null,
+     "status": "ongoing"
+    }
+   ],
+   "agg": {
+    "936771f7-eec8-45bd-b1fa-d5802a9cfd06": {
+     "0": [
+      "none"
+     ]
+    },
+    "96818419-90d6-4e45-8f48-aefa30d3739d": {}
+   }
+  },
+  "Battle Royale": {
+   "cands": [
+    {
+     "id": "8fcee9b9-ed14-4eb7-a3ab-2310d508ac76",
+     "title": "Battle Royale",
+     "year": 2000,
+     "lastVolume": "15",
+     "lastChapter": "119",
+     "status": "completed"
+    },
+    {
+     "id": "805ff299-b5ed-4887-90ef-bece73d182e5",
+     "title": "Isekai Battle Royale",
+     "year": 2022,
+     "lastVolume": "",
+     "lastChapter": "",
+     "status": "ongoing"
+    },
+    {
+     "id": "368b0e4a-881d-43cc-ae47-324bdd18aed3",
+     "title": "CRBR: Crazy Raccoon Battle Royale",
+     "year": 2025,
+     "lastVolume": "",
+     "lastChapter": "",
+     "status": "ongoing"
+    },
+    {
+     "id": "0f7363f4-dbc8-4041-a029-ec23ec53dbc4",
+     "title": "Otogibanashi Battle Royale",
+     "year": 2016,
+     "lastVolume": "4",
+     "lastChapter": "17",
+     "status": "completed"
+    },
+    {
+     "id": "fb0fbf40-e31f-4f19-83fb-34a3b3c923df",
+     "title": "Battle Royale II - Blitz Royale",
+     "year": 2003,
+     "lastVolume": "2",
+     "lastChapter": "19",
+     "status": "completed"
+    },
+    {
+     "id": "84aca1d2-ea43-41b3-a060-f14f44719d3d",
+     "title": "Battle Royale: Enforcers",
+     "year": 2022,
+     "lastVolume": "",
+     "lastChapter": "",
+     "status": "ongoing"
+    },
+    {
+     "id": "590d1ee9-df00-4ce4-9f22-d78ef0ca9b56",
+     "title": "Touhou - Touhou Battle Royale (Pageratta) (Doujinshi)",
+     "year": null,
+     "lastVolume": "",
+     "lastChapter": "",
+     "status": "completed"
+    },
+    {
+     "id": "2b872949-6c7c-4994-87aa-47fbdd60c789",
+     "title": "Dungeon Battle Royale",
+     "year": 2020,
+     "lastVolume": null,
+     "lastChapter": null,
+     "status": "ongoing"
+    }
+   ],
+   "agg": {
+    "8fcee9b9-ed14-4eb7-a3ab-2310d508ac76": {
+     "1": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+     ],
+     "2": [
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "16.5"
+     ],
+     "3": [
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "24.5"
+     ],
+     "4": [
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32"
+     ],
+     "5": [
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "39.5"
+     ],
+     "6": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47"
+     ],
+     "7": [
+      "48",
+      "49",
+      "50",
+      "51",
+      "52",
+      "53",
+      "54",
+      "55"
+     ],
+     "8": [
+      "56",
+      "57",
+      "58",
+      "59",
+      "60",
+      "61",
+      "62",
+      "63"
+     ],
+     "9": [
+      "64",
+      "65",
+      "66",
+      "67",
+      "68",
+      "69",
+      "70",
+      "71"
+     ],
+     "10": [
+      "72",
+      "73",
+      "74",
+      "75",
+      "76",
+      "77",
+      "78",
+      "79"
+     ],
+     "11": [
+      "80",
+      "81",
+      "82",
+      "83",
+      "84",
+      "85",
+      "86",
+      "87"
+     ],
+     "12": [
+      "88",
+      "89",
+      "90",
+      "91",
+      "92",
+      "93",
+      "94",
+      "95"
+     ],
+     "13": [
+      "96",
+      "97",
+      "98",
+      "99",
+      "100",
+      "101",
+      "102",
+      "103"
+     ],
+     "14": [
+      "104",
+      "105",
+      "106",
+      "107",
+      "108",
+      "109",
+      "110",
+      "111"
+     ],
+     "15": [
+      "112",
+      "113",
+      "114",
+      "115",
+      "116",
+      "117",
+      "118",
+      "119"
+     ]
+    },
+    "805ff299-b5ed-4887-90ef-bece73d182e5": {
+     "3": [
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "16.5"
+     ],
+     "4": [
+      "17",
+      "18",
+      "19",
+      "20"
+     ]
+    },
+    "368b0e4a-881d-43cc-ae47-324bdd18aed3": {
+     "none": [
+      "0",
+      "1",
+      "2"
+     ]
+    },
+    "0f7363f4-dbc8-4041-a029-ec23ec53dbc4": {
+     "none": [
+      "1"
+     ]
+    }
+   }
+  },
+  "Soul Eater": {
+   "cands": [
+    {
+     "id": "53ef1720-7a5d-40ad-90b0-2f9ca0a1ab01",
+     "title": "Soul Eater",
+     "year": 2004,
+     "lastVolume": "25",
+     "lastChapter": "113",
+     "status": "completed"
+    },
+    {
+     "id": "cf051c84-8ae1-4623-8fe3-ae8b28c621f2",
+     "title": "The Revenge of the Soul Eater",
+     "year": 2020,
+     "lastVolume": "",
+     "lastChapter": "10",
+     "status": "cancelled"
+    },
+    {
+     "id": "3ff93bfc-2a86-45b7-985a-f8cc655bfa7d",
+     "title": "Hangyaku no Soul Eater - Tamashii no Hoshokusha to Shoujotachi",
+     "year": 2024,
+     "lastVolume": "",
+     "lastChapter": "",
+     "status": "ongoing"
+    },
+    {
+     "id": "5a8cf324-048b-43fe-beb1-125a374bc81f",
+     "title": "Soul Eater Not!",
+     "year": 2011,
+     "lastVolume": "5",
+     "lastChapter": "42",
+     "status": "completed"
+    },
+    {
+     "id": "83285f96-f799-43c0-8c59-9e2dfa06b0b7",
+     "title": "Ga-rei: Tsuina no Shou",
+     "year": 2007,
+     "lastVolume": "1",
+     "lastChapter": "4",
+     "status": "completed"
+    }
+   ],
+   "agg": {
+    "53ef1720-7a5d-40ad-90b0-2f9ca0a1ab01": {},
+    "cf051c84-8ae1-4623-8fe3-ae8b28c621f2": {
+     "1": [
+      "1.1",
+      "1.2",
+      "1.3",
+      "2.1",
+      "2.2",
+      "3"
+     ],
+     "2": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+     ]
+    },
+    "3ff93bfc-2a86-45b7-985a-f8cc655bfa7d": {},
+    "5a8cf324-048b-43fe-beb1-125a374bc81f": {}
+   }
+  }
+ },
+ "anilist": {
+  "97986": {
+   "Media": {
+    "title": {
+     "romaji": "Made in Abyss",
+     "english": "Made in Abyss"
+    },
+    "characters": {
+     "edges": [
+      {
+       "role": "MAIN",
+       "node": {
+        "name": {
+         "full": "Riko"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122443-Md7TtolADEJh.png"
+        }
+       }
+      },
+      {
+       "role": "MAIN",
+       "node": {
+        "name": {
+         "full": "Reg"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122444-9rGUpcjwygHD.png"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Nanachi"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122445-5uDu8wMy8Jxi.png"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Bondrewd"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122463-p4o7qOTJ2Lba.jpg"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Ouzen"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122464-xnYajKbuEa29.jpg"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Lyza"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122465-YHQVVPnVZZX1.png"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Nat"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/122748-UQiYQ5OjzkGT.jpg"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Shiggy"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/122749-moyrPEkfL7gv.jpg"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Marulk"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/123145-wWYcJ3SOF426.png"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Hablog"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b123185-lOJJvAS0tqF0.jpg"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Kiwi"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/123186-lgKM1zM7SB1F.jpg"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Jiruo"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b123188-9yVeXsmPmtAY.png"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Mitty"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125877-nFoMWC2T67Tx.jpg"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Simred"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b153051-oZj2GhZmROrK.jpg"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Ilim"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b161973-2zHM5lJmpYdZ.png"
+        }
+       }
+      },
+      {
+       "role": "BACKGROUND",
+       "node": {
+        "name": {
+         "full": "Narrator"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+        }
+       }
+      },
+      {
+       "role": "BACKGROUND",
+       "node": {
+        "name": {
+         "full": "Mio"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b158387-RVQ6H9f5UAB5.jpg"
+        }
+       }
+      },
+      {
+       "role": "BACKGROUND",
+       "node": {
+        "name": {
+         "full": "Laffi"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b158388-R8wUwY1L7f6M.jpg"
+        }
+       }
+      },
+      {
+       "role": "BACKGROUND",
+       "node": {
+        "name": {
+         "full": "Tankutsuka"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b158389-AIaFUHHGk2PQ.jpg"
+        }
+       }
+      },
+      {
+       "role": "BACKGROUND",
+       "node": {
+        "name": {
+         "full": "Zapo-jii"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b158390-noLe1BQtJaar.jpg"
+        }
+       }
+      },
+      {
+       "role": "BACKGROUND",
+       "node": {
+        "name": {
+         "full": "Yelme"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b158391-YBTEHKJjbDpJ.jpg"
+        }
+       }
+      },
+      {
+       "role": "BACKGROUND",
+       "node": {
+        "name": {
+         "full": "Beruchero"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b158393-qppg4MLksXWk.jpg"
+        }
+       }
+      },
+      {
+       "role": "BACKGROUND",
+       "node": {
+        "name": {
+         "full": "Torka"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b161856-dGUiQzIWBDgd.png"
+        }
+       }
+      },
+      {
+       "role": "BACKGROUND",
+       "node": {
+        "name": {
+         "full": "Srajo"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b237657-xy3NNFfdGSeI.png"
+        }
+       }
+      },
+      {
+       "role": "BACKGROUND",
+       "node": {
+        "name": {
+         "full": "Wakuna"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b237658-clwt7FpCVskD.jpg"
+        }
+       }
+      }
+     ]
+    }
+   }
+  },
+  "101348": {
+   "Media": {
+    "title": {
+     "romaji": "VINLAND SAGA",
+     "english": "Vinland Saga"
+    },
+    "characters": {
+     "edges": [
+      {
+       "role": "MAIN",
+       "node": {
+        "name": {
+         "full": "Thorfinn Karlsefni"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b10138-zOPrka0ddZOR.png"
+        }
+       }
+      },
+      {
+       "role": "MAIN",
+       "node": {
+        "name": {
+         "full": "Askeladd"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13020-ZdiYlNmpRUNS.png"
+        }
+       }
+      },
+      {
+       "role": "MAIN",
+       "node": {
+        "name": {
+         "full": "Canute Svenson"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17438-NwyOSMxycmck.png"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Thors Snorresson"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13021-XJAVDHwMWek2.png"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Thorkell"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b17440-XvYe5JY862ZT.png"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Bjorn"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19485-GqL2A0NKp3Tf.png"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Leif Erikson"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19486-XRzBNqoLb5Le.png"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Willibald"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b20704-N5pntGOae3F4.jpg"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Ylva"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b27876-Oji0y5oi88oc.jpg"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Sweyn"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b27957-1eAJeuybBavR.png"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Ragnar"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82533-EN57FGoTIHn3.png"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Floki"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82537-8WGHoXQcaKNI.jpg"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Halfdan"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b140356-GtF803Q3VytA.png"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Ari"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b140357-4RwRiP5fFFhl.png"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Helga"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141589-z9PsqosVAEpr.jpg"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Asgeir"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141590-2XC1g81PDAnu.png"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Torgrim"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141591-N9phXav8yAv5.png"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Atli"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141592-mCB6PhQSb0z0.png"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Mimi"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141593-Yvmnhb2uGwRA.png"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Lydia"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156501-9Px2PIJmwSC4.jpg"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Olaf"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156502-OhqRlwPpcmgd.png"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Asser"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156503-mSIcfRrmQmbp.jpg"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Gorm"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156504-G7E94N4uF2Kr.jpg"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Faxi"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156505-MCgdO8ZmLvCE.jpg"
+        }
+       }
+      },
+      {
+       "role": "SUPPORTING",
+       "node": {
+        "name": {
+         "full": "Mols"
+        },
+        "image": {
+         "large": "https://s4.anilist.co/file/anilistcdn/character/large/b156507-5iLWRqhPPEkV.jpg"
+        }
+       }
+      }
+     ]
+    }
+   }
+  },
+  "101517": null
+ }
+}
