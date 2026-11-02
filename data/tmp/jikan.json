@@ -1,15 +1,362 @@
 {
- "Jujutsu Kaisen 0": [],
- "Made in Abyss Fukaki Tamashii no Reimei": [],
- "Psycho-Pass Sinners of the System Case.1": [],
- "Psycho-Pass Sinners of the System Case.2": [],
- "Psycho-Pass Sinners of the System Case.3": [],
- "Psycho-Pass 3 First Inspector": [],
- "Psycho-Pass Providence": [],
- "Overlord Sei Oukoku-hen": [],
- "Kimetsu no Yaiba Mugenjou-hen": [],
- "Kaguya-sama wa Kokurasetai First Kiss wa Owaranai": [],
- "Made in Abyss Tabidachi no Yoake": [],
- "Made in Abyss Hourou Suru Tasogare": [],
- "onepiece": []
+ "Jujutsu Kaisen 0": [
+  {
+   "id": 131573,
+   "idMal": 48561,
+   "title": {
+    "romaji": "Jujutsu Kaisen 0",
+    "english": "JUJUTSU KAISEN 0"
+   },
+   "seasonYear": 2021,
+   "startDate": {
+    "year": 2021
+   },
+   "duration": 105,
+   "episodes": 1,
+   "format": "MOVIE"
+  }
+ ],
+ "Made in Abyss: Fukaki Tamashii no Reimei": [
+  {
+   "id": 100643,
+   "idMal": 36862,
+   "title": {
+    "romaji": "Made in Abyss: Fukaki Tamashii no Reimei",
+    "english": "Made in Abyss: Dawn of the Deep Soul"
+   },
+   "seasonYear": 2020,
+   "startDate": {
+    "year": 2020
+   },
+   "duration": 105,
+   "episodes": 1,
+   "format": "MOVIE"
+  }
+ ],
+ "Psycho-Pass: Sinners of the System": [
+  {
+   "id": 102649,
+   "idMal": 37440,
+   "title": {
+    "romaji": "PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu",
+    "english": "PSYCHO-PASS: Sinners of the System 1 - Crime and Punishment"
+   },
+   "seasonYear": 2019,
+   "startDate": {
+    "year": 2019
+   },
+   "duration": 60,
+   "episodes": 1,
+   "format": "MOVIE"
+  },
+  {
+   "id": 104382,
+   "idMal": 37441,
+   "title": {
+    "romaji": "PSYCHO-PASS Sinners of the System Case 2: First Guardian",
+    "english": "PSYCHO-PASS: Sinners of the System 2 - First Guardian"
+   },
+   "seasonYear": 2019,
+   "startDate": {
+    "year": 2019
+   },
+   "duration": 60,
+   "episodes": 1,
+   "format": "MOVIE"
+  },
+  {
+   "id": 104990,
+   "idMal": 37442,
+   "title": {
+    "romaji": "PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni ____",
+    "english": "PSYCHO-PASS: Sinners of the System 3 - On the Other Side of Love and Hate"
+   },
+   "seasonYear": 2019,
+   "startDate": {
+    "year": 2019
+   },
+   "duration": 67,
+   "episodes": 1,
+   "format": "MOVIE"
+  }
+ ],
+ "Psycho-Pass 3: First Inspector": [],
+ "Psycho-Pass: Providence": [
+  {
+   "id": 153687,
+   "idMal": 52747,
+   "title": {
+    "romaji": "PSYCHO-PASS PROVIDENCE",
+    "english": "PSYCHO-PASS: Providence"
+   },
+   "seasonYear": 2023,
+   "startDate": {
+    "year": 2023
+   },
+   "duration": 120,
+   "episodes": 1,
+   "format": "MOVIE"
+  }
+ ],
+ "Overlord: Sei Oukoku-hen": [
+  {
+   "id": 133845,
+   "idMal": 48896,
+   "title": {
+    "romaji": "Overlord: Sei Oukoku-hen",
+    "english": "OVERLORD: The Sacred Kingdom"
+   },
+   "seasonYear": 2024,
+   "startDate": {
+    "year": 2024
+   },
+   "duration": 135,
+   "episodes": 1,
+   "format": "MOVIE"
+  }
+ ],
+ "Kimetsu no Yaiba: Mugen Jou-hen": [],
+ "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai": [],
+ "onepiece": [
+  {
+   "id": 459,
+   "idMal": 459,
+   "title": {
+    "romaji": "ONE PIECE (Movie)",
+    "english": "ONE PIECE: The Movie"
+   },
+   "seasonYear": 2000,
+   "startDate": {
+    "year": 2000
+   },
+   "duration": 50,
+   "episodes": 1,
+   "format": "MOVIE"
+  },
+  {
+   "id": 460,
+   "idMal": 460,
+   "title": {
+    "romaji": "ONE PIECE: Nejimaki-jima no Bouken",
+    "english": "One Piece: Clockwork Island Adventure"
+   },
+   "seasonYear": 2001,
+   "startDate": {
+    "year": 2001
+   },
+   "duration": 55,
+   "episodes": 1,
+   "format": "MOVIE"
+  },
+  {
+   "id": 461,
+   "idMal": 461,
+   "title": {
+    "romaji": "ONE PIECE: Chinjuu-jima no Chopper Oukoku",
+    "english": "One Piece: Chopper’s Kingdom on the Island of Strange Animals"
+   },
+   "seasonYear": 2002,
+   "startDate": {
+    "year": 2002
+   },
+   "duration": 55,
+   "episodes": 1,
+   "format": "MOVIE"
+  },
+  {
+   "id": 462,
+   "idMal": 462,
+   "title": {
+    "romaji": "ONE PIECE THE MOVIE: Dead End no Bouken",
+    "english": "One Piece The Movie: The Dead End Adventure"
+   },
+   "seasonYear": 2003,
+   "startDate": {
+    "year": 2003
+   },
+   "duration": 95,
+   "episodes": 1,
+   "format": "MOVIE"
+  },
+  {
+   "id": 463,
+   "idMal": 463,
+   "title": {
+    "romaji": "ONE PIECE: Norowareta Seiken",
+    "english": "One Piece: The Curse of the Sacred Sword"
+   },
+   "seasonYear": 2004,
+   "startDate": {
+    "year": 2004
+   },
+   "duration": 95,
+   "episodes": 1,
+   "format": "MOVIE"
+  },
+  {
+   "id": 464,
+   "idMal": 464,
+   "title": {
+    "romaji": "ONE PIECE THE MOVIE: Omatsuri Danshaku to Himitsu no Shima",
+    "english": "One Piece: Baron Omatsuri and the Secret Island"
+   },
+   "seasonYear": 2005,
+   "startDate": {
+    "year": 2005
+   },
+   "duration": 91,
+   "episodes": 1,
+   "format": "MOVIE"
+  },
+  {
+   "id": 465,
+   "idMal": 465,
+   "title": {
+    "romaji": "ONE PIECE THE MOVIE: Karakuri-jou no Mecha Kyohei",
+    "english": "One Piece: Mega Mecha Soldier of Karakuri Castle"
+   },
+   "seasonYear": 2006,
+   "startDate": {
+    "year": 2006
+   },
+   "duration": 94,
+   "episodes": 1,
+   "format": "MOVIE"
+  },
+  {
+   "id": 2107,
+   "idMal": 2107,
+   "title": {
+    "romaji": "ONE PIECE: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi",
+    "english": "One Piece: The Desert Princess and the Pirates, Adventures in Alabasta"
+   },
+   "seasonYear": 2007,
+   "startDate": {
+    "year": 2007
+   },
+   "duration": 90,
+   "episodes": 1,
+   "format": "MOVIE"
+  },
+  {
+   "id": 3848,
+   "idMal": 3848,
+   "title": {
+    "romaji": "ONE PIECE THE MOVIE: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+    "english": "One Piece: Episode Of Chopper +: The Miracle Winter Cherry Blossom"
+   },
+   "seasonYear": 2008,
+   "startDate": {
+    "year": 2008
+   },
+   "duration": 113,
+   "episodes": 1,
+   "format": "MOVIE"
+  },
+  {
+   "id": 4155,
+   "idMal": 4155,
+   "title": {
+    "romaji": "ONE PIECE FILM: STRONG WORLD",
+    "english": "One Piece Film: Strong World"
+   },
+   "seasonYear": 2009,
+   "startDate": {
+    "year": 2009
+   },
+   "duration": 113,
+   "episodes": 1,
+   "format": "MOVIE"
+  },
+  {
+   "id": 12859,
+   "idMal": 12859,
+   "title": {
+    "romaji": "ONE PIECE FILM: Z",
+    "english": "One Piece Film: Z"
+   },
+   "seasonYear": 2012,
+   "startDate": {
+    "year": 2012
+   },
+   "duration": 107,
+   "episodes": 1,
+   "format": "MOVIE"
+  },
+  {
+   "id": 21335,
+   "idMal": 31490,
+   "title": {
+    "romaji": "ONE PIECE FILM: GOLD",
+    "english": "One Piece Film: Gold"
+   },
+   "seasonYear": 2016,
+   "startDate": {
+    "year": 2016
+   },
+   "duration": 120,
+   "episodes": 1,
+   "format": "MOVIE"
+  },
+  {
+   "id": 105143,
+   "idMal": 38234,
+   "title": {
+    "romaji": "ONE PIECE STAMPEDE",
+    "english": "One Piece: Stampede"
+   },
+   "seasonYear": 2019,
+   "startDate": {
+    "year": 2019
+   },
+   "duration": 101,
+   "episodes": 1,
+   "format": "MOVIE"
+  },
+  {
+   "id": 141902,
+   "idMal": 50410,
+   "title": {
+    "romaji": "ONE PIECE FILM: RED",
+    "english": "One Piece Film: Red"
+   },
+   "seasonYear": 2022,
+   "startDate": {
+    "year": 2022
+   },
+   "duration": 115,
+   "episodes": 1,
+   "format": "MOVIE"
+  },
+  {
+   "id": 215855,
+   "idMal": 64858,
+   "title": {
+    "romaji": "ONE PIECE FILM: GOD VALLEY",
+    "english": null
+   },
+   "seasonYear": 2027,
+   "startDate": {
+    "year": 2027
+   },
+   "duration": null,
+   "episodes": 1,
+   "format": "MOVIE"
+  },
+  {
+   "id": 215856,
+   "idMal": 64859,
+   "title": {
+    "romaji": "ONE PIECE FILM: BAAD",
+    "english": null
+   },
+   "seasonYear": null,
+   "startDate": {
+    "year": 2029
+   },
+   "duration": null,
+   "episodes": 1,
+   "format": "MOVIE"
+  }
+ ]
 }
