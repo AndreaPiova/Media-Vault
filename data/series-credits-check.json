@@ -1,0 +1,5451 @@
+[
+{
+"id": "s121",
+"title": "The Penguin",
+"tmdb": 194764,
+"how": "manuale",
+"tmdb_name": "The Penguin",
+"tmdb_year": "2024",
+"file_year": "2024",
+"creators_file": [
+"Lauren LeFranc"
+],
+"creators_tmdb": [
+"Lauren LeFranc"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Lauren LeFranc",
+"problem": "foto mancante",
+"tmdb_img": "/8OTJuIucLbUjIurI2yzgvMSneQg.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Deirdre O'Connell",
+"problem": "foto diversa",
+"file": "/14e0AZOZafenduP7O6oMLSL92RP.jpg",
+"tmdb_img": "/6RYdyHbJxheX9aCwRg2bhPIIFrv.jpg"
+},
+{
+"name": "Michael Kelly",
+"problem": "foto diversa",
+"file": "/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg",
+"tmdb_img": "/8V6RKWbbx8lyt3Xxz9B1OAPvHRt.jpg"
+}
+],
+"top_missing": []
+},
+{
+"id": "s122",
+"title": "1899",
+"tmdb": 90669,
+"how": "manuale",
+"tmdb_name": "1899",
+"tmdb_year": "2022",
+"file_year": "2022",
+"creators_file": [
+"Baran bo Odar",
+"Jantje Friese"
+],
+"creators_tmdb": [
+"Jantje Friese",
+"Baran bo Odar"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Baran bo Odar",
+"problem": "foto mancante",
+"tmdb_img": "/3CfxoYPDPgFZ6jJMBOXCO5zhhEQ.jpg"
+},
+{
+"name": "Jantje Friese",
+"problem": "foto mancante",
+"tmdb_img": "/1FPWxHCzCmiLlmCAf7Gze6jkWP7.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s123",
+"title": "His Dark Materials",
+"tmdb": 68507,
+"how": "manuale",
+"tmdb_name": "His Dark Materials",
+"tmdb_year": "2019",
+"file_year": "2019",
+"creators_file": [
+"Jack Thorne"
+],
+"creators_tmdb": [
+"Jack Thorne"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Jack Thorne",
+"problem": "foto mancante",
+"tmdb_img": "/siVfYSurwcIrplOc0vP3DiJAVN2.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Kit Connor",
+"eps": 22,
+"role": "Pantalaimon (voice)",
+"img": "/1zx8xbJd8cUmNBertjzSuajCIGx.jpg"
+},
+{
+"name": "Will Keen",
+"eps": 20,
+"role": "Father MacPhail",
+"img": "/dtErvubLEIjGPpLppBATdFpZ4NR.jpg"
+}
+]
+},
+{
+"id": "s124",
+"title": "Dark Matter",
+"tmdb": 196322,
+"how": "manuale",
+"tmdb_name": "Dark Matter",
+"tmdb_year": "2024",
+"file_year": "2024",
+"creators_file": [
+"Blake Crouch"
+],
+"creators_tmdb": [
+"Blake Crouch"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Blake Crouch",
+"problem": "foto mancante",
+"tmdb_img": "/4MUYqLslh3Yxm7EsEOj11aJka9W.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s125",
+"title": "Arcane",
+"tmdb": 94605,
+"how": "manuale",
+"tmdb_name": "Arcane",
+"tmdb_year": "2021",
+"file_year": "2021",
+"creators_file": [
+"Christian Linke",
+"Alex Yee"
+],
+"creators_tmdb": [
+"Christian Linke",
+"Alex Yee"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Christian Linke",
+"problem": "foto mancante",
+"tmdb_img": "/u1uCJkmVSeLQC1CwSB7UzXAVbqO.jpg"
+},
+{
+"name": "Alex Yee",
+"problem": "foto mancante",
+"tmdb_img": "/kvRKbXZcCnM6d1vcND4917iQ4kp.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Toks Olagundoye",
+"eps": 14,
+"role": "Mel Medarda (voice)",
+"img": "/2tKnfTA0gh6QnTcHb18hj8o70uG.jpg"
+},
+{
+"name": "Harry Lloyd",
+"eps": 14,
+"role": "Viktor (voice)",
+"img": "/qZSf6OzRpDaZdOCX6pynSRp6jVV.jpg"
+},
+{
+"name": "Katie Leung",
+"eps": 14,
+"role": "Caitlyn (voice)",
+"img": "/9gztOAk27dpZVspSJpb27ek7LlT.jpg"
+},
+{
+"name": "JB Blanc",
+"eps": 13,
+"role": "Warwick (voice)",
+"img": "/fHLyXboPlBDo1aoAl085YqaPjO8.jpg"
+}
+]
+},
+{
+"id": "s120",
+"title": "The Mentalist",
+"tmdb": 5920,
+"how": "manuale",
+"tmdb_name": "The Mentalist",
+"tmdb_year": "2008",
+"file_year": "2008",
+"creators_file": [
+"Bruno Heller"
+],
+"creators_tmdb": [
+"Bruno Heller"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Bruno Heller",
+"problem": "foto mancante",
+"tmdb_img": "/k33JqtocSqI13tf8QKTLbGQKrL4.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Aunjanue Ellis-Taylor",
+"eps": 17,
+"role": "Madeleine Hightower",
+"img": "/e54DfgDyS67xdtomYODFule6Ofa.jpg"
+},
+{
+"name": "Michael Gaston",
+"eps": 17,
+"role": "Gale Bertram",
+"img": "/lXhqiW4J1n9bnbfwz0Kdf2sjGLU.jpg"
+}
+]
+},
+{
+"id": "s1",
+"title": "Breaking Bad",
+"tmdb": 1396,
+"how": "manuale",
+"tmdb_name": "Breaking Bad",
+"tmdb_year": "2008",
+"file_year": "2008",
+"creators_file": [
+"Vince Gilligan"
+],
+"creators_tmdb": [
+"Vince Gilligan"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Vince Gilligan",
+"problem": "foto mancante",
+"tmdb_img": "/wJIxATESjzsjSgvRhVavOmdamXc.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Giancarlo Esposito",
+"problem": "foto diversa",
+"file": "/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg",
+"tmdb_img": "/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+}
+],
+"top_missing": []
+},
+{
+"id": "s2",
+"title": "The 100",
+"tmdb": 48866,
+"how": "manuale",
+"tmdb_name": "The 100",
+"tmdb_year": "2014",
+"file_year": "2014",
+"creators_file": [
+"Jason Rothenberg"
+],
+"creators_tmdb": [
+"Jason Rothenberg"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Jason Rothenberg",
+"problem": "foto mancante",
+"tmdb_img": "/til8ctr5vjQ8BGCgJuGjhfXf7Ka.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Jarod Joseph",
+"eps": 100,
+"role": "Nathan Miller",
+"img": "/vh6t5Muz7c1gus4ZkljLgTWMtEX.jpg"
+},
+{
+"name": "Paige Turco",
+"eps": 85,
+"role": "Abigail Griffin",
+"img": "/k1GyxA5YmN5qUpH5YzIe2zAoGgP.jpg"
+},
+{
+"name": "Henry Ian Cusick",
+"eps": 74,
+"role": "Marcus Kane",
+"img": "/kgPbmYVVP0q0I5bSPdyNyjBOJik.jpg"
+}
+]
+},
+{
+"id": "s3",
+"title": "Prison Break",
+"tmdb": 2288,
+"how": "manuale",
+"tmdb_name": "Prison Break",
+"tmdb_year": "2005",
+"file_year": "2005",
+"creators_file": [
+"Paul Scheuring"
+],
+"creators_tmdb": [
+"Paul T. Scheuring"
+],
+"creators_missing_in_file": [
+"Paul T. Scheuring"
+],
+"creators_extra_in_file": [
+"Paul Scheuring"
+],
+"creator_photo_issues": [
+{
+"name": "Paul Scheuring",
+"problem": "foto mancante (creatore non in TMDB)"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Rockmond Dunbar",
+"eps": 53,
+"role": "Benjamin 'C-Note' Franklin",
+"img": "/gim7zIrYkbKWsp2Kod7fp74fWyI.jpg"
+}
+]
+},
+{
+"id": "s4",
+"title": "Friends",
+"tmdb": 1668,
+"how": "manuale",
+"tmdb_name": "Friends",
+"tmdb_year": "1994",
+"file_year": "1994",
+"creators_file": [
+"David Crane",
+"Marta Kauffman"
+],
+"creators_tmdb": [
+"Marta Kauffman",
+"David Crane"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "David Crane",
+"problem": "foto mancante",
+"tmdb_img": "/1NYo5ZYCSqoxQ5sqXLMDm3cqvKp.jpg"
+},
+{
+"name": "Marta Kauffman",
+"problem": "foto mancante",
+"tmdb_img": "/AsX4ZOoQP5oQVLiA51zdRiTNKTm.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Lea Thompson",
+"problem": "foto diversa",
+"file": "/n7qTKpbAbr2P1RlcW1Lq1NhckQ2.jpg",
+"tmdb_img": "/85E9NTEfkRdUdK4kTrrnk5of25w.jpg"
+}
+],
+"top_missing": [
+{
+"name": "James Michael Tyler",
+"eps": 145,
+"role": "Gunther",
+"img": "/iv0sg7UaJz85boUfHtej31QQDvP.jpg"
+},
+{
+"name": "Elliott Gould",
+"eps": 19,
+"role": "Jack Geller",
+"img": "/vqjRBbuqXOvalAx5JZEaWx6kQOw.jpg"
+}
+]
+},
+{
+"id": "s5",
+"title": "The Last Dance",
+"tmdb": 79525,
+"how": "manuale",
+"tmdb_name": "The Last Dance",
+"tmdb_year": "2020",
+"file_year": "2020",
+"creators_file": [
+"Jason Hehir"
+],
+"creators_tmdb": [
+"Michael Tollin"
+],
+"creators_missing_in_file": [
+"Michael Tollin"
+],
+"creators_extra_in_file": [
+"Jason Hehir"
+],
+"creator_photo_issues": [
+{
+"name": "Jason Hehir",
+"problem": "foto mancante (creatore non in TMDB)"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Deloris Jordan",
+"eps": 6,
+"role": "Self",
+"img": null
+},
+{
+"name": "John Paxson",
+"eps": 6,
+"role": "Self",
+"img": "/zhDpuyqf0XYFEGsupLhjXWo1iVa.jpg"
+},
+{
+"name": "David Stern",
+"eps": 5,
+"role": "Self",
+"img": null
+}
+]
+},
+{
+"id": "s6",
+"title": "Game of Thrones",
+"tmdb": 1399,
+"how": "manuale",
+"tmdb_name": "Game of Thrones",
+"tmdb_year": "2011",
+"file_year": "2011",
+"creators_file": [
+"David Benioff",
+"D.B. Weiss"
+],
+"creators_tmdb": [
+"David Benioff",
+"D. B. Weiss"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "David Benioff",
+"problem": "foto mancante",
+"tmdb_img": "/xvNN5huL0X8yJ7h3IZfGG4O2zBD.jpg"
+},
+{
+"name": "D.B. Weiss",
+"problem": "foto mancante",
+"tmdb_img": "/6Wt006TIQoDSSnl0YaKihfn3w7K.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Sean Bean",
+"problem": "foto diversa",
+"file": "/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg",
+"tmdb_img": "/tAPWubSNDEGzA3AzUAmMiBAZfCe.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Isaac Hempstead Wright",
+"eps": 73,
+"role": "Brandon 'Bran' Stark",
+"img": "/g6ZreLmGrrOzaUCGVFRNPAWfcso.jpg"
+},
+{
+"name": "Sophie Turner",
+"eps": 73,
+"role": "Sansa Stark",
+"img": "/8ur4aHFakVCinWk0cvrGO8qAUhv.jpg"
+}
+]
+},
+{
+"id": "s7",
+"title": "La Casa di Carta",
+"tmdb": 71446,
+"how": "manuale",
+"tmdb_name": "Money Heist",
+"tmdb_year": "2017",
+"file_year": "2017",
+"creators_file": [
+"Álex Pina"
+],
+"creators_tmdb": [
+"Álex Pina"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Álex Pina",
+"problem": "foto mancante",
+"tmdb_img": "/hMKcFPRKo0I4WLBvkvppyBFDGr8.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Rodrigo de la Serna",
+"problem": "foto diversa",
+"file": "/hArSCSwj92ItqVMni7D8ehInnU5.jpg",
+"tmdb_img": "/yUngw2JLFYewHJq1oqx5JnNVpnW.jpg"
+}
+],
+"top_missing": []
+},
+{
+"id": "s8",
+"title": "Better Call Saul",
+"tmdb": 60059,
+"how": "manuale",
+"tmdb_name": "Better Call Saul",
+"tmdb_year": "2015",
+"file_year": "2015",
+"creators_file": [
+"Vince Gilligan",
+"Peter Gould"
+],
+"creators_tmdb": [
+"Vince Gilligan",
+"Peter Gould"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Vince Gilligan",
+"problem": "foto mancante",
+"tmdb_img": "/wJIxATESjzsjSgvRhVavOmdamXc.jpg"
+},
+{
+"name": "Peter Gould",
+"problem": "foto mancante",
+"tmdb_img": "/a2dJSpUiXQ2NAxqSzztr6WsnhOJ.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Giancarlo Esposito",
+"problem": "foto diversa",
+"file": "/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg",
+"tmdb_img": "/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+},
+{
+"name": "Chris Mulkey",
+"problem": "foto diversa",
+"file": "/kpJid21QcIBGvwP0Bddvw0p8wEl.jpg",
+"tmdb_img": "/51SbuIbzmpbDYtv5gvcqB9Ysu91.jpg"
+}
+],
+"top_missing": []
+},
+{
+"id": "s9",
+"title": "Dexter",
+"tmdb": 1405,
+"how": "manuale",
+"tmdb_name": "Dexter",
+"tmdb_year": "2006",
+"file_year": "2006",
+"creators_file": [
+"James Manos Jr."
+],
+"creators_tmdb": [
+"James Manos Jr."
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "James Manos Jr.",
+"problem": "foto mancante",
+"tmdb_img": "/iFPjg94U6LFZnp6oaN1Twift0Hn.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Julie Benz",
+"problem": "foto diversa",
+"file": "/avcCYkQjRM7qgE0MZ5VXcK3XcKz.jpg",
+"tmdb_img": "/4rLq98jWRAOJIMzGZW0bB5Y6fGX.jpg"
+},
+{
+"name": "James Remar",
+"problem": "foto diversa",
+"file": "/ctMVpFDKKWCty60lLORf3IoJcv9.jpg",
+"tmdb_img": "/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg"
+}
+],
+"top_missing": []
+},
+{
+"id": "s10",
+"title": "Lost",
+"tmdb": 4607,
+"how": "manuale",
+"tmdb_name": "Lost",
+"tmdb_year": "2004",
+"file_year": "2004",
+"creators_file": [
+"J.J. Abrams",
+"Damon Lindelof",
+"Jeffrey Lieber"
+],
+"creators_tmdb": [
+"J.J. Abrams",
+"Damon Lindelof",
+"Jeffrey Lieber"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "J.J. Abrams",
+"problem": "foto mancante",
+"tmdb_img": "/k4IWd2RV5kY1kAL2VgKQwFvnCLP.jpg"
+},
+{
+"name": "Damon Lindelof",
+"problem": "foto mancante",
+"tmdb_img": "/9V75oRAKiI0chdg1wGh1wPqaXsG.jpg"
+},
+{
+"name": "Jeffrey Lieber",
+"problem": "foto mancante",
+"tmdb_img": "/rxu3tvB8h4T4H8kvpPJQ5ECDlp4.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Evangeline Lilly",
+"problem": "foto diversa",
+"file": "/zgztLIWTJZm3vjGU7ezhF8GXESJ.jpg",
+"tmdb_img": "/pJHX2jd7ytre3NQbF9nlyWUqxH3.jpg"
+},
+{
+"name": "Ian Somerhalder",
+"problem": "foto diversa",
+"file": "/tSrMGbxGYhda5f2870mfTtn9CG7.jpg",
+"tmdb_img": "/apHL76YNbdPmRlkv8uUfRgRBCwv.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Harold Perrineau",
+"eps": 118,
+"role": "Michael Dawson",
+"img": "/bVSLpGUaislREbujmknOqadrxYM.jpg"
+}
+]
+},
+{
+"id": "s11",
+"title": "Band of Brothers",
+"tmdb": 4613,
+"how": "manuale",
+"tmdb_name": "Band of Brothers",
+"tmdb_year": "2001",
+"file_year": "2001",
+"creators_file": [
+"Tom Hanks",
+"Steven Spielberg"
+],
+"creators_tmdb": [],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Tom Hanks",
+"problem": "foto mancante (creatore non in TMDB)"
+},
+{
+"name": "Steven Spielberg",
+"problem": "foto mancante (creatore non in TMDB)"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s12",
+"title": "Chernobyl",
+"tmdb": 87108,
+"how": "manuale",
+"tmdb_name": "Chernobyl",
+"tmdb_year": "2019",
+"file_year": "2019",
+"creators_file": [
+"Craig Mazin"
+],
+"creators_tmdb": [
+"Craig Mazin"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Craig Mazin",
+"problem": "foto mancante",
+"tmdb_img": "/uEhna6qcMuyU5TP7irpTUZ2ZsZc.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Jared Harris",
+"problem": "foto diversa",
+"file": "/jAyPWkmge3BqXtgxIG9MfXBzOGj.jpg",
+"tmdb_img": "/r9nIq0jPz1oBm4WwtlZhqlsX8p0.jpg"
+},
+{
+"name": "Robert Emms",
+"problem": "foto diversa",
+"file": "/wyg6tXDnY5AOvmg3neQQhCsKtg.jpg",
+"tmdb_img": "/gAUB9R1MnGBgg2UbI2LOYWikCyr.jpg"
+}
+],
+"top_missing": []
+},
+{
+"id": "s13",
+"title": "Squid Game",
+"tmdb": 93405,
+"how": "manuale",
+"tmdb_name": "Squid Game",
+"tmdb_year": "2021",
+"file_year": "2021",
+"creators_file": [
+"Hwang Dong-hyuk"
+],
+"creators_tmdb": [
+"Hwang Dong-hyuk"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Hwang Dong-hyuk",
+"problem": "foto mancante",
+"tmdb_img": "/xyr3b04ayyJtA5ZN3L0Af10WKIR.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "임시완",
+"problem": "non nel cast TMDB"
+},
+{
+"name": "위하준",
+"problem": "non nel cast TMDB"
+},
+{
+"name": "조유리",
+"problem": "non nel cast TMDB"
+},
+{
+"name": "Lee Byung-hun",
+"problem": "foto diversa",
+"file": "/j7SUd9Qi8iOxgrQGb3nQyEYcXur.jpg",
+"tmdb_img": "/5p5LDbZtnKhXDZL5227ExukbnRo.jpg"
+},
+{
+"name": "정호연",
+"problem": "non nel cast TMDB"
+},
+{
+"name": "박규영",
+"problem": "non nel cast TMDB"
+},
+{
+"name": "박해수",
+"problem": "non nel cast TMDB"
+},
+{
+"name": "이진욱",
+"problem": "non nel cast TMDB"
+},
+{
+"name": "양동근",
+"problem": "non nel cast TMDB"
+},
+{
+"name": "박성훈",
+"problem": "non nel cast TMDB"
+}
+],
+"top_missing": [
+{
+"name": "Wi Ha-jun",
+"eps": 22,
+"role": "Detective Hwang Jun-ho",
+"img": "/tEZuIaMESdBw4LfNq3vshGR4VlP.jpg"
+},
+{
+"name": "Jeon Young-soo",
+"eps": 16,
+"role": "Subway Announcement (voice)",
+"img": null
+},
+{
+"name": "Yim Si-wan",
+"eps": 13,
+"role": "Lee Myung-gi / Player 333",
+"img": "/xhItkYqo5DnFunTLBe65npwi0Me.jpg"
+},
+{
+"name": "Jo Yuri",
+"eps": 13,
+"role": "Kim Jun-hee / Player 222",
+"img": "/4GwoDQFPwpaKldOTpGrIJUzBa9h.jpg"
+},
+{
+"name": "Park Gyu-young",
+"eps": 13,
+"role": "Kang No-eul / Guard 011",
+"img": "/8VWU3V1omprZmqk3Jk8EhDvwF6D.jpg"
+}
+]
+},
+{
+"id": "s14",
+"title": "Peaky Blinders",
+"tmdb": 60574,
+"how": "manuale",
+"tmdb_name": "Peaky Blinders",
+"tmdb_year": "2013",
+"file_year": "2013",
+"creators_file": [
+"Steven Knight"
+],
+"creators_tmdb": [
+"Steven Knight"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Steven Knight",
+"problem": "foto mancante",
+"tmdb_img": "/vmM9j2yXI8A3AccX3YgOEZHQWcO.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Finn Cole",
+"eps": 28,
+"role": "Michael Gray",
+"img": "/yVWop3BSHbjIecYGqI1ToZIPR3T.jpg"
+},
+{
+"name": "Ian Peck",
+"eps": 27,
+"role": "Curly",
+"img": "/efEJsO8xhDdpOkWR0ArLl34B47f.jpg"
+},
+{
+"name": "Ned Dennehy",
+"eps": 26,
+"role": "Charlie Strong",
+"img": "/gSEtkD9YwYnIPbnagDc797kMVJ2.jpg"
+}
+]
+},
+{
+"id": "s15",
+"title": "The Expanse",
+"tmdb": 63639,
+"how": "manuale",
+"tmdb_name": "The Expanse",
+"tmdb_year": "2015",
+"file_year": "2015",
+"creators_file": [
+"Mark Fergus",
+"Hawk Ostby"
+],
+"creators_tmdb": [
+"Mark Fergus",
+"Hawk Ostby"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Mark Fergus",
+"problem": "foto mancante",
+"tmdb_img": "/d4KsPbLTyDiudrBVjTfVm82WATA.jpg"
+},
+{
+"name": "Hawk Ostby",
+"problem": "foto mancante",
+"tmdb_img": "/w34js6H3uW0TZxp33Bne39V1g7v.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s16",
+"title": "The Punisher",
+"tmdb": 67178,
+"how": "manuale",
+"tmdb_name": "Marvel's The Punisher",
+"tmdb_year": "2017",
+"file_year": "2017",
+"creators_file": [
+"Steve Lightfoot"
+],
+"creators_tmdb": [
+"Steve Lightfoot"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Steve Lightfoot",
+"problem": "foto mancante",
+"tmdb_img": "/2CPBXSicKlQO0xnhmYgEhWUGL42.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s17",
+"title": "Lost in Space",
+"tmdb": 75758,
+"how": "manuale",
+"tmdb_name": "Lost in Space",
+"tmdb_year": "2018",
+"file_year": "2018",
+"creators_file": [
+"Zack Estrin",
+"Matt Sazama",
+"Burk Sharpless"
+],
+"creators_tmdb": [
+"Irwin Allen"
+],
+"creators_missing_in_file": [
+"Irwin Allen"
+],
+"creators_extra_in_file": [
+"Zack Estrin",
+"Matt Sazama",
+"Burk Sharpless"
+],
+"creator_photo_issues": [
+{
+"name": "Zack Estrin",
+"problem": "foto mancante (creatore non in TMDB)"
+},
+{
+"name": "Matt Sazama",
+"problem": "foto mancante (creatore non in TMDB)"
+},
+{
+"name": "Burk Sharpless",
+"problem": "foto mancante (creatore non in TMDB)"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s18",
+"title": "Umbrella Academy",
+"tmdb": 75006,
+"how": "manuale",
+"tmdb_name": "The Umbrella Academy",
+"tmdb_year": "2019",
+"file_year": "2019",
+"creators_file": [
+"Steve Blackman"
+],
+"creators_tmdb": [
+"Steve Blackman"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Steve Blackman",
+"problem": "foto mancante",
+"tmdb_img": "/ui2tZkndNgit4Gsb4nRPzKyjPZx.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Elliot Page",
+"problem": "foto diversa",
+"file": "/wSdlM4Qyoi5AGj5eIIp8Bm0Sfkz.jpg",
+"tmdb_img": "/nXO8DE4biVXY4UDYP0NdIY1zvXS.jpg"
+}
+],
+"top_missing": []
+},
+{
+"id": "s19",
+"title": "The Office",
+"tmdb": 2316,
+"how": "manuale",
+"tmdb_name": "The Office",
+"tmdb_year": "2005",
+"file_year": "2005",
+"creators_file": [
+"Greg Daniels",
+"Ricky Gervais",
+"Stephen Merchant"
+],
+"creators_tmdb": [
+"Greg Daniels"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [
+"Ricky Gervais",
+"Stephen Merchant"
+],
+"creator_photo_issues": [
+{
+"name": "Greg Daniels",
+"problem": "foto mancante",
+"tmdb_img": "/2lplV4pxfpEL7Rpdr7YFXmGx84x.jpg"
+},
+{
+"name": "Ricky Gervais",
+"problem": "foto mancante (creatore non in TMDB)"
+},
+{
+"name": "Stephen Merchant",
+"problem": "foto mancante (creatore non in TMDB)"
+}
+],
+"cast_issues": [
+{
+"name": "Ellie Kemper",
+"problem": "foto diversa",
+"file": "/2PmzhjJTr8zme7VuTIE1Nc1n5YL.jpg",
+"tmdb_img": "/2rWtHAdr1lXQBzxOcVZ3CyYPDEI.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Leslie David Baker",
+"eps": 186,
+"role": "Stanley Hudson",
+"img": "/9h3xlV5IYqKinlQCW1ouU7sjwWF.jpg"
+},
+{
+"name": "Brian Baumgartner",
+"eps": 186,
+"role": "Kevin Malone",
+"img": "/1O7ECkD4mOKAgMAbQADBpTKBzOP.jpg"
+},
+{
+"name": "Angela Kinsey",
+"eps": 186,
+"role": "Angela Martin",
+"img": "/qHFidnMcFqUWdMFyjmXufBlYckd.jpg"
+},
+{
+"name": "Kate Flannery",
+"eps": 184,
+"role": "Meredith Palmer",
+"img": "/wFXWKB2IUyB6Cu08PyovyBAm9WT.jpg"
+},
+{
+"name": "Phyllis Smith",
+"eps": 184,
+"role": "Phyllis Lapin",
+"img": "/h9w9pQbiderRWAC2mi7spjzuIGz.jpg"
+}
+]
+},
+{
+"id": "s20",
+"title": "Happy Days",
+"tmdb": 3845,
+"how": "manuale",
+"tmdb_name": "Happy Days",
+"tmdb_year": "1974",
+"file_year": "1974",
+"creators_file": [
+"Garry Marshall"
+],
+"creators_tmdb": [
+"Garry Marshall"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Garry Marshall",
+"problem": "foto mancante",
+"tmdb_img": "/uYVagiSCH4gj3BcYownQySVwfy7.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Henry Winkler",
+"problem": "foto diversa",
+"file": "/mGlSRA5RDswEDmY8oWEizXliShp.jpg",
+"tmdb_img": "/5Y51B0maVYvKRoS43lwlYh1M52X.jpg"
+}
+],
+"top_missing": []
+},
+{
+"id": "s21",
+"title": "I Robinson",
+"tmdb": 1759,
+"how": "manuale",
+"tmdb_name": "The Cosby Show",
+"tmdb_year": "1984",
+"file_year": "1984",
+"creators_file": [
+"Ed. Weinberger",
+"Michael J. Leeson",
+"Bill Cosby"
+],
+"creators_tmdb": [
+"Bill Cosby",
+"Michael J. Leeson",
+"Ed. Weinberger"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Bill Cosby",
+"problem": "foto mancante",
+"tmdb_img": "/oN2wqTSYNrMliATEijuBYV4vi9z.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Lisa Bonet",
+"problem": "foto diversa",
+"file": "/gzvRPbJxnDarHEa3YltnN35aYRx.jpg",
+"tmdb_img": "/o9S5oHpNnQAv3miXQ9kfbkCzOcU.jpg"
+}
+],
+"top_missing": []
+},
+{
+"id": "s22",
+"title": "Vis a Vis",
+"tmdb": 62455,
+"how": "manuale",
+"tmdb_name": "Locked Up",
+"tmdb_year": "2015",
+"file_year": "2015",
+"creators_file": [
+"Iván Escobar",
+"Álex Pina"
+],
+"creators_tmdb": [
+"Álex Pina",
+"Daniel Écija",
+"Iván Escobar",
+"Esther Martínez Lobato"
+],
+"creators_missing_in_file": [
+"Daniel Écija",
+"Esther Martínez Lobato"
+],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Álex Pina",
+"problem": "foto mancante",
+"tmdb_img": "/hMKcFPRKo0I4WLBvkvppyBFDGr8.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Marta Aledo",
+"eps": 40,
+"role": "Tere González",
+"img": null
+}
+]
+},
+{
+"id": "s23",
+"title": "Sex Education",
+"tmdb": 81356,
+"how": "manuale",
+"tmdb_name": "Sex Education",
+"tmdb_year": "2019",
+"file_year": "2019",
+"creators_file": [
+"Laurie Nunn"
+],
+"creators_tmdb": [
+"Laurie Nunn"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [],
+"cast_issues": [
+{
+"name": "Mimi Keene",
+"problem": "foto diversa",
+"file": "/yC4gDbUHJ0ANo7nACi87VrU7KoZ.jpg",
+"tmdb_img": "/7bUgfaycm0f6PgEn3eLo8oANByO.jpg"
+},
+{
+"name": "Tanya Reynolds",
+"problem": "foto diversa",
+"file": "/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg",
+"tmdb_img": "/vvuOMMdNCizVvclhDb6ZAZa9BOR.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Alistair Petrie",
+"eps": 32,
+"role": "Michael Groff",
+"img": "/b6KUFhtWtmmTIcs7gL9kZktzJzl.jpg"
+}
+]
+},
+{
+"id": "s24",
+"title": "Succession",
+"tmdb": 76331,
+"how": "manuale",
+"tmdb_name": "Succession",
+"tmdb_year": "2018",
+"file_year": "2018",
+"creators_file": [
+"Jesse Armstrong"
+],
+"creators_tmdb": [
+"Jesse Armstrong"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Jesse Armstrong",
+"problem": "foto mancante",
+"tmdb_img": "/v2BvEzPuqrgcvElZF3sFjJoSZ0w.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Nicholas Braun",
+"problem": "foto diversa",
+"file": "/b2I6bZptuld3pjlVkYIy4DtMKGg.jpg",
+"tmdb_img": "/mpKcO5QZqD0yVC91wArLUNGubGz.jpg"
+},
+{
+"name": "Dagmara Dominczyk",
+"problem": "foto diversa",
+"file": "/i1f78OP3G6pksgCcu6AxPgZYEmv.jpg",
+"tmdb_img": "/zoZ8cJNOgAsU1rxSbhhziSTOJbZ.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Peter Friedman",
+"eps": 39,
+"role": "Frank Vernon",
+"img": "/3pyU0yQsRIqSZw1fYapFRXJ3EHp.jpg"
+}
+]
+},
+{
+"id": "s25",
+"title": "Ragnarok",
+"tmdb": 91557,
+"how": "manuale",
+"tmdb_name": "Ragnarok",
+"tmdb_year": "2020",
+"file_year": "2020",
+"creators_file": [
+"Adam Price"
+],
+"creators_tmdb": [
+"Adam Price",
+"Emilie Lebech Kaae"
+],
+"creators_missing_in_file": [
+"Emilie Lebech Kaae"
+],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Adam Price",
+"problem": "foto mancante",
+"tmdb_img": "/eJiR7YJilbjZodKpc8oMjmn8Pd.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Odd-Magnus Williamson",
+"eps": 16,
+"role": "Erik Eidsvoll",
+"img": "/clkF2apRZNcRzswp60eKvL5Jc0d.jpg"
+}
+]
+},
+{
+"id": "s26",
+"title": "13 Reasons Why",
+"tmdb": 66788,
+"how": "manuale",
+"tmdb_name": "13 Reasons Why",
+"tmdb_year": "2017",
+"file_year": "2017",
+"creators_file": [
+"Brian Yorkey"
+],
+"creators_tmdb": [
+"Brian Yorkey",
+"Jay Asher"
+],
+"creators_missing_in_file": [
+"Jay Asher"
+],
+"creators_extra_in_file": [],
+"creator_photo_issues": [],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s27",
+"title": "Elite",
+"tmdb": 76669,
+"how": "manuale",
+"tmdb_name": "Elite",
+"tmdb_year": "2018",
+"file_year": "2018",
+"creators_file": [
+"Carlos Montero",
+"Darío Madrona"
+],
+"creators_tmdb": [
+"Darío Madrona",
+"Carlos Montero"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Carlos Montero",
+"problem": "foto mancante",
+"tmdb_img": "/frBHENPeEk10a9cs7hL1emISyCB.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "María Pedraza",
+"problem": "foto diversa",
+"file": "/vplV2C0DbvxIHHRNwQpxBUhMxej.jpg",
+"tmdb_img": "/biQf2iBQ4eXNSRh3tfHDm2qZSXs.jpg"
+},
+{
+"name": "Ester Expósito",
+"problem": "foto diversa",
+"file": "/p6VTokjlBYQLoCaUX06ibMVsp5j.jpg",
+"tmdb_img": "/xoktRKmZQbNokVRIk9Ff1XJXMEg.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Miguel Bernardeau",
+"eps": 32,
+"role": "Guzmán Nunier Osuna",
+"img": "/aPyvMBnGaTeWkMStdHvdiiWxpBQ.jpg"
+},
+{
+"name": "Arón Piper",
+"eps": 32,
+"role": "Ander Muñoz",
+"img": "/v4zaydubluolMYxKlzyQBfXCoP5.jpg"
+},
+{
+"name": "Georgina Amorós",
+"eps": 32,
+"role": "Cayetana Grajera Pondo",
+"img": "/wgRAxcSZ20Ze26HzcO4EeKIraU1.jpg"
+},
+{
+"name": "Claudia Salas",
+"eps": 32,
+"role": "Rebeka Parrilla Lopez",
+"img": "/jfLi59P55yQeyjfD8UVf4DilXpt.jpg"
+}
+]
+},
+{
+"id": "s28",
+"title": "Rick and Morty",
+"tmdb": 60625,
+"how": "manuale",
+"tmdb_name": "Rick and Morty",
+"tmdb_year": "2013",
+"file_year": "2013",
+"creators_file": [
+"Justin Roiland",
+"Dan Harmon"
+],
+"creators_tmdb": [
+"Dan Harmon",
+"Justin Roiland"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Justin Roiland",
+"problem": "foto mancante",
+"tmdb_img": "/wYApP38aXe6ZcEtlBAfNRxJTQQi.jpg"
+},
+{
+"name": "Dan Harmon",
+"problem": "foto mancante",
+"tmdb_img": "/gDwFosoyPTd0pmnKParzGj3kaMg.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Lil Pump",
+"problem": "non nel cast TMDB"
+}
+],
+"top_missing": [
+{
+"name": "Kari Wahlgren",
+"eps": 44,
+"role": "Rick's Computer (voice)",
+"img": "/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg"
+},
+{
+"name": "Tom Kenny",
+"eps": 33,
+"role": "Pawnshop Clerk (voice)",
+"img": "/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg"
+},
+{
+"name": "Ryan Ridley",
+"eps": 33,
+"role": "Trunkman / Bachelor (voice)",
+"img": "/mSFssRpQl6ax2QrYTxBBfluVgy2.jpg"
+},
+{
+"name": "Dan Harmon",
+"eps": 32,
+"role": "Council Of Glorzos Member (voice)",
+"img": "/gDwFosoyPTd0pmnKParzGj3kaMg.jpg"
+}
+]
+},
+{
+"id": "s29",
+"title": "Lucifer",
+"tmdb": 63174,
+"how": "manuale",
+"tmdb_name": "Lucifer",
+"tmdb_year": "2016",
+"file_year": "2016",
+"creators_file": [
+"Tom Kapinos"
+],
+"creators_tmdb": [
+"Tom Kapinos"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Tom Kapinos",
+"problem": "foto mancante",
+"tmdb_img": "/ol7GfeO0OIDCWGYzlg1LDLmwluO.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s30",
+"title": "Sherlock",
+"tmdb": 19885,
+"how": "manuale",
+"tmdb_name": "Sherlock",
+"tmdb_year": "2010",
+"file_year": "2010",
+"creators_file": [
+"Steven Moffat",
+"Mark Gatiss"
+],
+"creators_tmdb": [
+"Mark Gatiss",
+"Steven Moffat"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Steven Moffat",
+"problem": "foto mancante",
+"tmdb_img": "/fjW3laJlDnHxQbuj9LLc6EYEDy.jpg"
+},
+{
+"name": "Mark Gatiss",
+"problem": "foto mancante",
+"tmdb_img": "/rkZKKDRbnGqqg2fjd5iPYDS4syy.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Louise Brealey",
+"problem": "foto diversa",
+"file": "/c7K2WWGZVA4tKWT0gBcPoLwmz3C.jpg",
+"tmdb_img": "/l7j5q2r4LNp0VOtfr3C9JbtaC8a.jpg"
+},
+{
+"name": "Vinette Robinson",
+"problem": "foto diversa",
+"file": "/8hhfJbSfsD4T8o82bHuR1kIElpJ.jpg",
+"tmdb_img": "/bGX5h30ozEZb5PQuNrXt0gbOcQF.jpg"
+},
+{
+"name": "Tanya Moodie",
+"problem": "foto diversa",
+"file": "/2q8dUtZuZZzb6pgD4ptKvRu5Dew.jpg",
+"tmdb_img": "/zGGeWUCOXH5ktWnNcdSUUPyVbHv.jpg"
+}
+],
+"top_missing": []
+},
+{
+"id": "s31",
+"title": "How I Met Your Mother",
+"tmdb": 1100,
+"how": "manuale",
+"tmdb_name": "How I Met Your Mother",
+"tmdb_year": "2005",
+"file_year": "2005",
+"creators_file": [
+"Carter Bays",
+"Craig Thomas"
+],
+"creators_tmdb": [
+"Craig Thomas",
+"Carter Bays"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Carter Bays",
+"problem": "foto mancante",
+"tmdb_img": "/gi24Me8YVMEqG5IqDn9WAPpOubA.jpg"
+},
+{
+"name": "Craig Thomas",
+"problem": "foto mancante",
+"tmdb_img": "/11piamBSf0YsGvH06OtMPGVG4mU.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Lyndsy Fonseca",
+"eps": 65,
+"role": "Daughter",
+"img": "/xPbbiLpUpmaHIVnyR3BAfG1tm5S.jpg"
+},
+{
+"name": "David Henrie",
+"eps": 65,
+"role": "Son",
+"img": "/1NuD0ltILDRRCMfmLPHM8bSfzhb.jpg"
+}
+]
+},
+{
+"id": "s32",
+"title": "The Walking Dead",
+"tmdb": 1402,
+"how": "manuale",
+"tmdb_name": "The Walking Dead",
+"tmdb_year": "2010",
+"file_year": "2010",
+"creators_file": [
+"Frank Darabont"
+],
+"creators_tmdb": [
+"Frank Darabont"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Frank Darabont",
+"problem": "foto mancante",
+"tmdb_img": "/vZ50guP86otYTiBSGfi35GNHWVf.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Christian Serratos",
+"eps": 124,
+"role": "Rosita Espinosa",
+"img": "/jP07Elhu2eZdmjIB4fJiag5CfaD.jpg"
+},
+{
+"name": "Josh McDermitt",
+"eps": 121,
+"role": "Eugene Porter",
+"img": "/9K7zFdSRWMMDyf0UO7Kqx71S5fg.jpg"
+},
+{
+"name": "Chandler Riggs",
+"eps": 115,
+"role": "Carl Grimes",
+"img": "/bN2BtSPbZKijm8Bpp9hkxMxyv25.jpg"
+}
+]
+},
+{
+"id": "s34",
+"title": "WandaVision",
+"tmdb": 85271,
+"how": "manuale",
+"tmdb_name": "WandaVision",
+"tmdb_year": "2021",
+"file_year": "2021",
+"creators_file": [
+"Jac Schaeffer"
+],
+"creators_tmdb": [
+"Jac Schaeffer"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Jac Schaeffer",
+"problem": "foto mancante",
+"tmdb_img": "/uYtwvLURoRVaZkRGaJs9QUX2mDx.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Elizabeth Olsen",
+"problem": "foto diversa",
+"file": "/wIU675y4dofIDVuhaNWPizJNtep.jpg",
+"tmdb_img": "/vXz0E5lQKZS1RnlmcHSGbdR0CzG.jpg"
+},
+{
+"name": "Paul Bettany",
+"problem": "foto diversa",
+"file": "/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg",
+"tmdb_img": "/awlH20l93cgHOIDPNP6FCnGuIJy.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Selena Anduze",
+"eps": 6,
+"role": "Agent Rodriguez",
+"img": "/15m6yIUm9NxFIwkVLR92Thri7nf.jpg"
+},
+{
+"name": "Josh Stamberg",
+"eps": 6,
+"role": "Director Hayward",
+"img": "/h3WKQr0771BfvrDWpqxOVUlZCOm.jpg"
+}
+]
+},
+{
+"id": "s35",
+"title": "Narcos",
+"tmdb": 63351,
+"how": "manuale",
+"tmdb_name": "Narcos",
+"tmdb_year": "2015",
+"file_year": "2015",
+"creators_file": [
+"Chris Brancato",
+"Carlo Bernard",
+"Doug Miro"
+],
+"creators_tmdb": [
+"Chris Brancato",
+"Doug Miro",
+"Carlo Bernard"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Paulina García",
+"eps": 15,
+"role": "Hermilda Gaviria",
+"img": "/tNlCDdvzkGyvdv2SbWzkQdpV5xA.jpg"
+}
+]
+},
+{
+"id": "s36",
+"title": "Mad Men",
+"tmdb": 1104,
+"how": "manuale",
+"tmdb_name": "Mad Men",
+"tmdb_year": "2007",
+"file_year": "2007",
+"creators_file": [
+"Matthew Weiner"
+],
+"creators_tmdb": [
+"Matthew Weiner"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Matthew Weiner",
+"problem": "foto mancante",
+"tmdb_img": "/s8aoKDSUhNAiil0P2JHnZKresrH.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s37",
+"title": "True Detective",
+"tmdb": 46648,
+"how": "manuale",
+"tmdb_name": "True Detective",
+"tmdb_year": "2014",
+"file_year": "2014",
+"creators_file": [
+"Nic Pizzolatto"
+],
+"creators_tmdb": [
+"Nic Pizzolatto",
+"Issa López"
+],
+"creators_missing_in_file": [
+"Issa López"
+],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Nic Pizzolatto",
+"problem": "foto mancante",
+"tmdb_img": "/fzBUlNWTyZVsmMBeURqWBk5Gwlo.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Michelle Monaghan",
+"eps": 8,
+"role": "Maggie Hart",
+"img": "/z5j4HVHEYf1RR9eiz1QkcxaSExZ.jpg"
+},
+{
+"name": "Rachel McAdams",
+"eps": 8,
+"role": "Antigone 'Ani' Bezzerides",
+"img": "/2DPh6KoNg0p57vvGc6N468zr3ct.jpg"
+}
+]
+},
+{
+"id": "s38",
+"title": "The Leftovers",
+"tmdb": 54344,
+"how": "manuale",
+"tmdb_name": "The Leftovers",
+"tmdb_year": "2014",
+"file_year": "2014",
+"creators_file": [
+"Damon Lindelof",
+"Tom Perrotta"
+],
+"creators_tmdb": [
+"Damon Lindelof",
+"Tom Perrotta"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Damon Lindelof",
+"problem": "foto mancante",
+"tmdb_img": "/9V75oRAKiI0chdg1wGh1wPqaXsG.jpg"
+},
+{
+"name": "Tom Perrotta",
+"problem": "foto mancante",
+"tmdb_img": "/gg6LmsrRpDwOoQ4GkIw6w3N19c5.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Justin Theroux",
+"problem": "foto diversa",
+"file": "/vnI9L0rXBAw1HeC0Q8hJGeJMGAW.jpg",
+"tmdb_img": "/6YuPMsLDMoD5BRkzWIjllwFFt5Y.jpg"
+},
+{
+"name": "Margaret Qualley",
+"problem": "foto diversa",
+"file": "/4LeaweyyTXCNs9V5swAuU4gGgZC.jpg",
+"tmdb_img": "/r5WeMrU4YLJqRRE3joeOrBVicAH.jpg"
+}
+],
+"top_missing": []
+},
+{
+"id": "s39",
+"title": "Suits",
+"tmdb": 37680,
+"how": "manuale",
+"tmdb_name": "Suits",
+"tmdb_year": "2011",
+"file_year": "2011",
+"creators_file": [
+"Aaron Korsh"
+],
+"creators_tmdb": [
+"Aaron Korsh"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Aaron Korsh",
+"problem": "foto mancante",
+"tmdb_img": "/vP9N4uomVcL2s2YXasILA6REWek.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s40",
+"title": "Ozark",
+"tmdb": 69740,
+"how": "manuale",
+"tmdb_name": "Ozark",
+"tmdb_year": "2017",
+"file_year": "2017",
+"creators_file": [
+"Bill Dubuque",
+"Mark Williams"
+],
+"creators_tmdb": [
+"Bill Dubuque",
+"Mark Williams"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Bill Dubuque",
+"problem": "foto mancante",
+"tmdb_img": "/fOasIvmeoPExyNTfKEGa4XqhmW.jpg"
+},
+{
+"name": "Mark Williams",
+"problem": "foto mancante",
+"tmdb_img": "/dmOeFb4qxG5TmDy1RW8CBzCCEOT.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Julia Garner",
+"problem": "foto diversa",
+"file": "/gpLpOBoHz5VF1IZhfWQNqJvDTWp.jpg",
+"tmdb_img": "/2JHzTzO6G9ELyOBpDv3otAFzWlG.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Lisa Emery",
+"eps": 37,
+"role": "Darlene Snell",
+"img": "/n1BUX990xFUXtvY8fDkbUox6sHh.jpg"
+}
+]
+},
+{
+"id": "s41",
+"title": "Outer Banks",
+"tmdb": 100757,
+"how": "manuale",
+"tmdb_name": "Outer Banks",
+"tmdb_year": "2020",
+"file_year": "2020",
+"creators_file": [
+"Josh Pate",
+"Jonas Pate",
+"Shannon Burke"
+],
+"creators_tmdb": [
+"Josh Pate",
+"Shannon Burke",
+"Jonas Pate"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Josh Pate",
+"problem": "foto mancante",
+"tmdb_img": "/9AwNBQK1E2m8xUDa4RlbCGJp00Y.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Madison Bailey",
+"problem": "foto diversa",
+"file": "/gek9J8CUwAcLfehsUZXzqglo6Af.jpg",
+"tmdb_img": "/tCQKV0zCymQHRz9juO0nid7yc2K.jpg"
+},
+{
+"name": "Rudy Pankow",
+"problem": "foto diversa",
+"file": "/204FlvdJL9mLRkJP1tuJpg01Ml8.jpg",
+"tmdb_img": "/ohMjjBvdXEM6fVfrgO2sKmpcQqC.jpg"
+}
+],
+"top_missing": []
+},
+{
+"id": "s42",
+"title": "Barry",
+"tmdb": 73107,
+"how": "manuale",
+"tmdb_name": "Barry",
+"tmdb_year": "2018",
+"file_year": "2018",
+"creators_file": [
+"Alec Berg",
+"Bill Hader"
+],
+"creators_tmdb": [
+"Alec Berg",
+"Bill Hader"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Alec Berg",
+"problem": "foto mancante",
+"tmdb_img": "/8qCkqxlyxrSybMnUWf85XQ11qMB.jpg"
+},
+{
+"name": "Bill Hader",
+"problem": "foto mancante",
+"tmdb_img": "/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Henry Winkler",
+"problem": "foto diversa",
+"file": "/mGlSRA5RDswEDmY8oWEizXliShp.jpg",
+"tmdb_img": "/5Y51B0maVYvKRoS43lwlYh1M52X.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Michael Irby",
+"eps": 18,
+"role": "Cristobal Sifuentes",
+"img": "/9cX8pKujyAlOyqGSAgvKNdA3qRj.jpg"
+},
+{
+"name": "Darrell Britt-Gibson",
+"eps": 17,
+"role": "Jermaine Jefrint",
+"img": "/cCfTL6qkctE088J3qr8qtgGrZa1.jpg"
+}
+]
+},
+{
+"id": "s43",
+"title": "Person of Interest",
+"tmdb": 1411,
+"how": "manuale",
+"tmdb_name": "Person of Interest",
+"tmdb_year": "2011",
+"file_year": "2011",
+"creators_file": [
+"Jonathan Nolan"
+],
+"creators_tmdb": [
+"Jonathan Nolan"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Jonathan Nolan",
+"problem": "foto mancante",
+"tmdb_img": "/qgTOwfg2B4C0ZFGAP4EnRZ7domo.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Sarah Shahi",
+"problem": "foto diversa",
+"file": "/ySf1nvBBzoiACB5xM5Rj18XisRo.jpg",
+"tmdb_img": "/shiLCJNyvi9xlUZw4bTuRkhrKpm.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Amy Acker",
+"eps": 81,
+"role": "Root",
+"img": "/9lpLwfscOoG4jyYIH761SRnm09U.jpg"
+},
+{
+"name": "John Nolan",
+"eps": 29,
+"role": "John Greer",
+"img": "/7cxsJPPPxdyLVFMmtvj6uaGSqWW.jpg"
+}
+]
+},
+{
+"id": "s44",
+"title": "Broadchurch",
+"tmdb": 1427,
+"how": "manuale",
+"tmdb_name": "Broadchurch",
+"tmdb_year": "2013",
+"file_year": "2013",
+"creators_file": [
+"Chris Chibnall"
+],
+"creators_tmdb": [
+"Chris Chibnall"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Chris Chibnall",
+"problem": "foto mancante",
+"tmdb_img": "/14AL2GwF5HuiyiKSEPpz22FONA8.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "David Tennant",
+"problem": "foto diversa",
+"file": "/mGfrEMbxjUWjek1WDSq1j4TULIR.jpg",
+"tmdb_img": "/syFdcmvI86Pn5YYfZLZlbkvCsj3.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Arthur Darvill",
+"eps": 24,
+"role": "Reverend Paul Coates",
+"img": "/igHv8StqS2xKIG70t84HwndpvRb.jpg"
+},
+{
+"name": "Carolyn Pickles",
+"eps": 24,
+"role": "Maggie Radcliffe",
+"img": "/yc3fB4sIZhtwl5usWCRQDToo6BF.jpg"
+},
+{
+"name": "Kumud Pant",
+"eps": 24,
+"role": "Court Guard",
+"img": "/6qYgWw2lI6SnzpMk6Nt7loaH7yy.jpg"
+},
+{
+"name": "Adam Wilson",
+"eps": 21,
+"role": "Tom Miller",
+"img": "/cYzG0AixTgt9UXDVssTSj76ymkx.jpg"
+}
+]
+},
+{
+"id": "s45",
+"title": "Vikings",
+"tmdb": 44217,
+"how": "manuale",
+"tmdb_name": "Vikings",
+"tmdb_year": "2013",
+"file_year": "2013",
+"creators_file": [
+"Michael Hirst"
+],
+"creators_tmdb": [
+"Michael Hirst"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Michael Hirst",
+"problem": "foto mancante",
+"tmdb_img": "/70lhWPCdSPv7aGpaoAPk9h6sFOR.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Georgia Hirst",
+"eps": 69,
+"role": "Torvi",
+"img": "/7xHIjmpI4jWUfB1EFiTMtYzpVXM.jpg"
+}
+]
+},
+{
+"id": "s46",
+"title": "The Good Place",
+"tmdb": 66573,
+"how": "manuale",
+"tmdb_name": "The Good Place",
+"tmdb_year": "2016",
+"file_year": "2016",
+"creators_file": [
+"Michael Schur"
+],
+"creators_tmdb": [
+"Michael Schur"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Michael Schur",
+"problem": "foto mancante",
+"tmdb_img": "/uFqjvTHNCfThf9ahEIYWFkszm9c.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Marc Evan Jackson",
+"eps": 21,
+"role": "Shawn",
+"img": "/4TWP0nlhkxkZ5XzzZuz3RCoZjFX.jpg"
+},
+{
+"name": "Tiya Sircar",
+"eps": 18,
+"role": "Vicky / Denise",
+"img": "/ySOwYAheNWApnu9TBJkziNthMA6.jpg"
+}
+]
+},
+{
+"id": "s47",
+"title": "Snowfall",
+"tmdb": 71694,
+"how": "manuale",
+"tmdb_name": "Snowfall",
+"tmdb_year": "2017",
+"file_year": "2017",
+"creators_file": [
+"John Singleton",
+"Eric Amadio",
+"Dave Andron"
+],
+"creators_tmdb": [
+"Eric Amadio",
+"Dave Andron",
+"John Singleton"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "John Singleton",
+"problem": "foto mancante",
+"tmdb_img": "/at8EhmErucwWIUFaXfhnKIuUUgF.jpg"
+},
+{
+"name": "Eric Amadio",
+"problem": "foto mancante",
+"tmdb_img": "/lkyxcgNh5OTNSJvQeNT9byGPqYL.jpg"
+},
+{
+"name": "Dave Andron",
+"problem": "foto mancante",
+"tmdb_img": "/AaHw5bY8oov5RqbMjsaEAn73fVj.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s48",
+"title": "The Blacklist",
+"tmdb": 46952,
+"how": "manuale",
+"tmdb_name": "The Blacklist",
+"tmdb_year": "2013",
+"file_year": "2013",
+"creators_file": [
+"Jon Bokenkamp"
+],
+"creators_tmdb": [
+"Jon Bokenkamp"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Jon Bokenkamp",
+"problem": "foto mancante",
+"tmdb_img": "/dhH9oElislVwxUUyt9jTT7jA3OK.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s49",
+"title": "Manhunt",
+"tmdb": 72597,
+"how": "manuale",
+"tmdb_name": "Manhunt",
+"tmdb_year": "2017",
+"file_year": "2017",
+"creators_file": [
+"Andrew Sodroski",
+"Jim Clemente",
+"Tony Gittelson",
+"Andrew Zinnes",
+"David Coggeshall"
+],
+"creators_tmdb": [
+"Andrew Sodroski",
+"Jim Clemente",
+"Tony Gittelson"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [
+"Andrew Zinnes",
+"David Coggeshall"
+],
+"creator_photo_issues": [
+{
+"name": "Andrew Zinnes",
+"problem": "foto mancante (creatore non in TMDB)"
+},
+{
+"name": "David Coggeshall",
+"problem": "foto mancante (creatore non in TMDB)"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Cameron Britton",
+"eps": 9,
+"role": "Richard Jewell",
+"img": "/9HFxi8ZnBiby3AQ7tBOPDxXFkCT.jpg"
+},
+{
+"name": "Sam Worthington",
+"eps": 8,
+"role": "Jim 'Fitz' Fitzgerald",
+"img": "/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+},
+{
+"name": "Ness Bautista",
+"eps": 8,
+"role": "Joe Holliwell",
+"img": "/9JrOV4lJlXCOaO6QG6wkq3eXbP6.jpg"
+},
+{
+"name": "Jeremy Bobb",
+"eps": 7,
+"role": "Stan Cole",
+"img": "/4f4nYrCuwEbgEPFOK78SdSwoKuT.jpg"
+},
+{
+"name": "Ben Weber",
+"eps": 7,
+"role": "Andy Genelli",
+"img": "/lfOEZ4uR6PiCywECX3BqItE7XOL.jpg"
+}
+]
+},
+{
+"id": "s50",
+"title": "After Life",
+"tmdb": 79410,
+"how": "manuale",
+"tmdb_name": "After Life",
+"tmdb_year": "2019",
+"file_year": "2019",
+"creators_file": [
+"Ricky Gervais"
+],
+"creators_tmdb": [
+"Ricky Gervais"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Ricky Gervais",
+"problem": "foto mancante",
+"tmdb_img": "/z293wonhuF0aYQtg1ROOSl1LObf.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s51",
+"title": "Gli Anelli del Potere",
+"tmdb": 84773,
+"how": "manuale",
+"tmdb_name": "The Lord of the Rings: The Rings of Power",
+"tmdb_year": "2022",
+"file_year": "2022",
+"creators_file": [
+"J.D. Payne",
+"Patrick McKay"
+],
+"creators_tmdb": [
+"Patrick McKay",
+"John D. Payne"
+],
+"creators_missing_in_file": [
+"John D. Payne"
+],
+"creators_extra_in_file": [
+"J.D. Payne"
+],
+"creator_photo_issues": [
+{
+"name": "J.D. Payne",
+"problem": "foto mancante (creatore non in TMDB)"
+},
+{
+"name": "Patrick McKay",
+"problem": "foto mancante",
+"tmdb_img": "/mzPLmSrqMQkQc0n8Kft07Han3zu.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s52",
+"title": "The Last of Us",
+"tmdb": 100088,
+"how": "manuale",
+"tmdb_name": "The Last of Us",
+"tmdb_year": "2023",
+"file_year": "2023",
+"creators_file": [
+"Craig Mazin",
+"Neil Druckmann"
+],
+"creators_tmdb": [
+"Neil Druckmann",
+"Craig Mazin"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Craig Mazin",
+"problem": "foto mancante",
+"tmdb_img": "/uEhna6qcMuyU5TP7irpTUZ2ZsZc.jpg"
+},
+{
+"name": "Neil Druckmann",
+"problem": "foto mancante",
+"tmdb_img": "/bVUsM4aYiHbeSYE1xAw2H5Z1ANU.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Rutina Wesley",
+"eps": 5,
+"role": "Maria",
+"img": "/ujpdNAKxlv6TRI2mm0k3eSSZJkB.jpg"
+},
+{
+"name": "Samuel Hoeksema",
+"eps": 4,
+"role": "Clicker",
+"img": "/6TEscmA3aFBkdWX2DuozcUhHkBK.jpg"
+},
+{
+"name": "Danny Ramirez",
+"eps": 4,
+"role": "Manny Alvarez",
+"img": "/7ZvcfWA5O5ULiupbHZtGGEPwnpI.jpg"
+}
+]
+},
+{
+"id": "s53",
+"title": "Mr. Robot",
+"tmdb": 62560,
+"how": "manuale",
+"tmdb_name": "Mr. Robot",
+"tmdb_year": "2015",
+"file_year": "2015",
+"creators_file": [
+"Sam Esmail"
+],
+"creators_tmdb": [
+"Sam Esmail"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Sam Esmail",
+"problem": "foto mancante",
+"tmdb_img": "/mej39wMtNDsOI5HklLb65QAiM6K.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Rami Malek",
+"problem": "foto diversa",
+"file": "/drLMI978uj3Rpc1TcIJarKf3Jfi.jpg",
+"tmdb_img": "/8ykTeTRSYd2MKF5uLBvD93X5KMJ.jpg"
+}
+],
+"top_missing": []
+},
+{
+"id": "s54",
+"title": "Invincible",
+"tmdb": 95557,
+"how": "manuale",
+"tmdb_name": "INVINCIBLE",
+"tmdb_year": "2021",
+"file_year": "2021",
+"creators_file": [
+"Robert Kirkman"
+],
+"creators_tmdb": [],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Robert Kirkman",
+"problem": "foto mancante (creatore non in TMDB)"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Gillian Jacobs",
+"eps": 27,
+"role": "Eve / College Girl (voice)",
+"img": "/tKpXn260glPElCKlFekKAACNWYn.jpg"
+},
+{
+"name": "Walton Goggins",
+"eps": 26,
+"role": "Cecil (voice)",
+"img": "/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
+},
+{
+"name": "Grey DeLisle",
+"eps": 26,
+"role": "Monster Girl / Helga / Nurse (voice)",
+"img": "/anib3yRL9GyUvTkYNHWxQPlXLUH.jpg"
+},
+{
+"name": "Chris Diamantopoulos",
+"eps": 24,
+"role": "Donald / Villain (voice)",
+"img": "/oenBtpk0RTId4wacQKYU4cPcq8Z.jpg"
+},
+{
+"name": "Ross Marquand",
+"eps": 21,
+"role": "Immortal / Aquarus / Bi-Plane / Kursk (voice)",
+"img": "/2CxkVPimin0c2v7fUK3MGjgEnLt.jpg"
+}
+]
+},
+{
+"id": "s55",
+"title": "Westworld",
+"tmdb": 63247,
+"how": "manuale",
+"tmdb_name": "Westworld",
+"tmdb_year": "2016",
+"file_year": "2016",
+"creators_file": [
+"Jonathan Nolan",
+"Lisa Joy"
+],
+"creators_tmdb": [
+"Jonathan Nolan",
+"Lisa Joy"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Jonathan Nolan",
+"problem": "foto mancante",
+"tmdb_img": "/qgTOwfg2B4C0ZFGAP4EnRZ7domo.jpg"
+},
+{
+"name": "Lisa Joy",
+"problem": "foto mancante",
+"tmdb_img": "/3MfahHunri6zikX0kfK4oKHn6SJ.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Luke Hemsworth",
+"eps": 34,
+"role": "Ashley Stubbs",
+"img": "/djq5j4VVUxpnCvrTnqaax4n3pqD.jpg"
+}
+]
+},
+{
+"id": "s56",
+"title": "A Knight of the Seven Kingdoms",
+"tmdb": 224372,
+"how": "manuale",
+"tmdb_name": "A Knight of the Seven Kingdoms",
+"tmdb_year": "2026",
+"file_year": "2026",
+"creators_file": [
+"George R.R. Martin",
+"Ira Parker"
+],
+"creators_tmdb": [
+"George R.R. Martin",
+"Ira Parker"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "George R.R. Martin",
+"problem": "foto mancante",
+"tmdb_img": "/1A7W0L9dZz0rCN1oj6h8YUvusdN.jpg"
+},
+{
+"name": "Ira Parker",
+"problem": "foto mancante",
+"tmdb_img": "/nT54vjithriZtxaTCKXv8vQgTLw.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Sam Spruell",
+"problem": "foto diversa",
+"file": "/nTyK3HlqdlJZqjpwTVf4Xo5LkYw.jpg",
+"tmdb_img": "/5xQOHz3uUy20zsUMABaIsAXKFcI.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Daniel Ings",
+"eps": 6,
+"role": "Ser Lyonel 'The Laughing Storm' Baratheon",
+"img": "/oupwxNxbTwNEknTFo2jKlrXZsl6.jpg"
+},
+{
+"name": "Danny Webb",
+"eps": 5,
+"role": "Ser Arlan of Pennytree",
+"img": "/e7OhVUIsfGWYIrYxwD1KEWF7afP.jpg"
+},
+{
+"name": "Cara Harris",
+"eps": 5,
+"role": "Lady Gwin",
+"img": "/dGeyhdZYCdzCGJ79ikeBUHnIbb5.jpg"
+},
+{
+"name": "Shaun Thomas",
+"eps": 5,
+"role": "Ser Raymun 'The Reluctant' Fossoway",
+"img": "/ePJXE8H0akIsP0gyJ2Z8v3eBavk.jpg"
+}
+]
+},
+{
+"id": "s57",
+"title": "House of the Dragon",
+"tmdb": 94997,
+"how": "manuale",
+"tmdb_name": "House of the Dragon",
+"tmdb_year": "2022",
+"file_year": "2022",
+"creators_file": [
+"Ryan Condal",
+"Miguel Sapochnik"
+],
+"creators_tmdb": [
+"George R.R. Martin",
+"Ryan J. Condal"
+],
+"creators_missing_in_file": [
+"George R.R. Martin",
+"Ryan J. Condal"
+],
+"creators_extra_in_file": [
+"Ryan Condal",
+"Miguel Sapochnik"
+],
+"creator_photo_issues": [
+{
+"name": "Ryan Condal",
+"problem": "foto mancante (creatore non in TMDB)"
+},
+{
+"name": "Miguel Sapochnik",
+"problem": "foto mancante (creatore non in TMDB)"
+}
+],
+"cast_issues": [
+{
+"name": "James Norton",
+"problem": "foto diversa",
+"file": "/3i9z9MkUCrlOGdMRw00j2vScxGC.jpg",
+"tmdb_img": "/9aoZjSVw6jTvV4ioi7KdH1wfgC2.jpg"
+},
+{
+"name": "Bethany Antonia",
+"problem": "foto diversa",
+"file": "/rje6QOy7CcYlopZVOzkflfRMa0G.jpg",
+"tmdb_img": "/iSFmjIFFDYy8ld0oPSHV3zjFXuH.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Kurt Egyiawan",
+"eps": 21,
+"role": "Maester Orwyle",
+"img": "/bLzmxAmUxRj8wwxzlpaKKdg2Ccf.jpg"
+},
+{
+"name": "Emma D'Arcy",
+"eps": 20,
+"role": "Queen Rhaenyra Targaryen",
+"img": "/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
+}
+]
+},
+{
+"id": "s58",
+"title": "Fringe",
+"tmdb": 1705,
+"how": "manuale",
+"tmdb_name": "Fringe",
+"tmdb_year": "2008",
+"file_year": "2008",
+"creators_file": [
+"J.J. Abrams",
+"Alex Kurtzman",
+"Roberto Orci"
+],
+"creators_tmdb": [
+"Alex Kurtzman",
+"Roberto Orci",
+"J.J. Abrams"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "J.J. Abrams",
+"problem": "foto mancante",
+"tmdb_img": "/k4IWd2RV5kY1kAL2VgKQwFvnCLP.jpg"
+},
+{
+"name": "Alex Kurtzman",
+"problem": "foto mancante",
+"tmdb_img": "/uDZxuaV19OYMhN7vuuVg1bSlqUM.jpg"
+},
+{
+"name": "Roberto Orci",
+"problem": "foto mancante",
+"tmdb_img": "/mkc51BZ6dYg843frBA9flomxFda.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Leonard Nimoy",
+"eps": 87,
+"role": "Dr. William Bell",
+"img": "/9KaiO5eNzJtB4zB2inmNWR0GTRI.jpg"
+},
+{
+"name": "Seth Gabel",
+"eps": 34,
+"role": "Lincoln Lee",
+"img": "/kY5UB2E1Rr08ikaa48om4x5ZV8Z.jpg"
+}
+]
+},
+{
+"id": "s59",
+"title": "Doctor Who",
+"tmdb": 57243,
+"how": "manuale",
+"tmdb_name": "Doctor Who",
+"tmdb_year": "2005",
+"file_year": "2005",
+"creators_file": [
+"Sydney Newman",
+"Russell T Davies"
+],
+"creators_tmdb": [],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Sydney Newman",
+"problem": "foto mancante (creatore non in TMDB)"
+},
+{
+"name": "Russell T Davies",
+"problem": "foto mancante (creatore non in TMDB)"
+}
+],
+"cast_issues": [
+{
+"name": "David Tennant",
+"problem": "foto diversa",
+"file": "/mGfrEMbxjUWjek1WDSq1j4TULIR.jpg",
+"tmdb_img": "/syFdcmvI86Pn5YYfZLZlbkvCsj3.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Karen Gillan",
+"eps": 40,
+"role": "Amy Pond",
+"img": "/qYx8CflXVq48nGKX1IJsDrAj0sT.jpg"
+},
+{
+"name": "Nicholas Briggs",
+"eps": 38,
+"role": "Skaldak (voice)",
+"img": "/7QUxZVfw8WqUSxPVHrhmRtXGFUl.jpg"
+},
+{
+"name": "Peter Capaldi",
+"eps": 37,
+"role": "Caecilius",
+"img": "/r5bEXZBOSA89SZvv4jjqa4iSgst.jpg"
+},
+{
+"name": "Billie Piper",
+"eps": 31,
+"role": "Rose Tyler",
+"img": "/yCzwrP8iPQac943hW3nNA4ViuDd.jpg"
+}
+]
+},
+{
+"id": "s60",
+"title": "Narcos Mexico",
+"tmdb": 80968,
+"how": "manuale",
+"tmdb_name": "Narcos: Mexico",
+"tmdb_year": "2018",
+"file_year": "2018",
+"creators_file": [
+"Carlo Bernard",
+"Chris Brancato",
+"Doug Miro"
+],
+"creators_tmdb": [
+"Chris Brancato",
+"Carlo Bernard",
+"Doug Miro"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Scoot McNairy",
+"eps": 29,
+"role": "Narrator (voice) (uncredited)",
+"img": "/oP2LJEqupxVZ2XdEW1lN5Q5LF3M.jpg"
+},
+{
+"name": "Manuel Masalva",
+"eps": 22,
+"role": "Ramón Arellano Felix",
+"img": "/mqf7pWyiZLovaSRlUJzoqsV2PG2.jpg"
+}
+]
+},
+{
+"id": "s61",
+"title": "The Big Bang Theory",
+"tmdb": 1418,
+"how": "manuale",
+"tmdb_name": "The Big Bang Theory",
+"tmdb_year": "2007",
+"file_year": "2007",
+"creators_file": [
+"Chuck Lorre",
+"Bill Prady"
+],
+"creators_tmdb": [
+"Chuck Lorre",
+"Bill Prady"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Chuck Lorre",
+"problem": "foto mancante",
+"tmdb_img": "/8OTRD3d6N0GKy1Z0LJaWZ3MVxXr.jpg"
+},
+{
+"name": "Bill Prady",
+"problem": "foto mancante",
+"tmdb_img": "/voM7AngVEko9ZzNFuv0F53AMTzu.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s62",
+"title": "Mindhunter",
+"tmdb": 67744,
+"how": "manuale",
+"tmdb_name": "MINDHUNTER",
+"tmdb_year": "2017",
+"file_year": "2017",
+"creators_file": [
+"Joe Penhall"
+],
+"creators_tmdb": [
+"Joe Penhall"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Joe Penhall",
+"problem": "foto mancante",
+"tmdb_img": "/9dXtvOKfFyeAp8jNBxM0OAqosWv.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Holt McCallany",
+"problem": "foto diversa",
+"file": "/xHnvYcJv6YEku9pIg8LoDNHWQy.jpg",
+"tmdb_img": "/b1FEXFQ8ZnvXhVrMqCv5mTJ8aW3.jpg"
+},
+{
+"name": "Anna Torv",
+"problem": "foto diversa",
+"file": "/2oOYpdlQyNQfXvtyaoAHNsWhqZz.jpg",
+"tmdb_img": "/muZIxj33R2EEJhm28c9hBd0AiRk.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Sonny Valicenti",
+"eps": 15,
+"role": "ADT Serviceman",
+"img": "/j3neEkxxuyf4EnOE2qH0NHuonCS.jpg"
+}
+]
+},
+{
+"id": "s63",
+"title": "The Pitt",
+"tmdb": 250307,
+"how": "manuale",
+"tmdb_name": "The Pitt",
+"tmdb_year": "2025",
+"file_year": "2025",
+"creators_file": [
+"R. Scott Gemmill"
+],
+"creators_tmdb": [
+"R. Scott Gemmill"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "R. Scott Gemmill",
+"problem": "foto mancante",
+"tmdb_img": "/yhZV8Yl3ToOlNxsNCIQ20BiVN4K.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Supriya Ganesh",
+"problem": "foto diversa",
+"file": "/y2yELu52rp2vKjUJ0iDaAkX39BQ.jpg",
+"tmdb_img": "/575OVjibWikBVA3kOqQ6Jdxn5qi.jpg"
+},
+{
+"name": "Fiona Dourif",
+"problem": "foto diversa",
+"file": "/kV5726ehAEu6sxD5cuvI7Iq0dNC.jpg",
+"tmdb_img": "/gs0aMwWWJ2FRY4sSvvAefIT5sAC.jpg"
+}
+],
+"top_missing": []
+},
+{
+"id": "s64",
+"title": "Black Mirror",
+"tmdb": 42009,
+"how": "manuale",
+"tmdb_name": "Black Mirror",
+"tmdb_year": "2011",
+"file_year": "2011",
+"creators_file": [
+"Charlie Brooker"
+],
+"creators_tmdb": [
+"Charlie Brooker"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Charlie Brooker",
+"problem": "foto mancante",
+"tmdb_img": "/dmdLd5I4cnpCZzoITm26NOwu6Rn.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Jesse Plemons",
+"eps": 2,
+"role": "Robert Daly",
+"img": "/og4I51GsuwohdPgoELOHVMMqMre.jpg"
+},
+{
+"name": "Cristin Milioti",
+"eps": 2,
+"role": "Nanette Cole",
+"img": "/aiOOWmej3qYSiR9cUs3lm5x5SkB.jpg"
+},
+{
+"name": "Jimmi Simpson",
+"eps": 2,
+"role": "James Walton",
+"img": "/gerE8VqXfFyAs3QhbUlwEuZllKq.jpg"
+},
+{
+"name": "Milanka Brooks",
+"eps": 2,
+"role": "Elena Tulaska",
+"img": "/4sDiOjNh2YITCKRWvNmtYVXSssN.jpg"
+},
+{
+"name": "Osy Ikhile",
+"eps": 2,
+"role": "Nate Packer",
+"img": "/slg4iOhtcVmj2ekXIkkEGotitZS.jpg"
+},
+{
+"name": "Paul G. Raymond",
+"eps": 2,
+"role": "Kabir Dudani",
+"img": "/28pPNcmHZuH4XM4eUHoFGZF6LGA.jpg"
+},
+{
+"name": "Monica Dolan",
+"eps": 2,
+"role": "CS Linda Grace",
+"img": "/lR61knP6P7ESFYUapWNhG22TA3s.jpg"
+},
+{
+"name": "Daniel Lapaine",
+"eps": 2,
+"role": "Max",
+"img": "/5usnxFLjVgrJjY9T3Pvpy51Foh.jpg"
+}
+]
+},
+{
+"id": "s65",
+"title": "Battlestar Galactica",
+"tmdb": 1972,
+"how": "manuale",
+"tmdb_name": "Battlestar Galactica",
+"tmdb_year": "2004",
+"file_year": "2004",
+"creators_file": [
+"Glen A. Larson",
+"Ronald D. Moore"
+],
+"creators_tmdb": [
+"Glen A. Larson",
+"Ronald D. Moore"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Glen A. Larson",
+"problem": "foto mancante",
+"tmdb_img": "/pGR6aRtBDuj1MRH06NyjhTGuB98.jpg"
+},
+{
+"name": "Ronald D. Moore",
+"problem": "foto mancante",
+"tmdb_img": "/6A086Blwpv0nuckrzPgvETlkfo1.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Edward James Olmos",
+"problem": "foto diversa",
+"file": "/mXnilUrQBIMLHSQkPjQk99mX70x.jpg",
+"tmdb_img": "/yleTij2PUEgaMLw8xYbLAt7UqIo.jpg"
+}
+],
+"top_missing": []
+},
+{
+"id": "s66",
+"title": "From",
+"tmdb": 124364,
+"how": "manuale",
+"tmdb_name": "FROM",
+"tmdb_year": "2022",
+"file_year": "2022",
+"creators_file": [
+"John Griffin"
+],
+"creators_tmdb": [
+"John Griffin"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "John Griffin",
+"problem": "foto mancante",
+"tmdb_img": "/lAIA3ECbx2ZtMUiOyqTbWNvKTdO.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s67",
+"title": "Boardwalk Empire",
+"tmdb": 1621,
+"how": "manuale",
+"tmdb_name": "Boardwalk Empire",
+"tmdb_year": "2010",
+"file_year": "2010",
+"creators_file": [
+"Terence Winter"
+],
+"creators_tmdb": [
+"Terence Winter"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Terence Winter",
+"problem": "foto mancante",
+"tmdb_img": "/6zXJtYwjH9njuAcyCIeZXngVOgR.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Michael Kenneth Williams",
+"eps": 56,
+"role": "Albert 'Chalky' White",
+"img": "/mafEXtGlT1qYjGmZtbjo7Ep5qK3.jpg"
+},
+{
+"name": "Paul Sparks",
+"eps": 56,
+"role": "Mieczysław 'Mickey' Doyle",
+"img": "/cQnCJI94lje55gZ7kEQ7YZUQPDb.jpg"
+}
+]
+},
+{
+"id": "s68",
+"title": "Gotham",
+"tmdb": 60708,
+"how": "manuale",
+"tmdb_name": "Gotham",
+"tmdb_year": "2014",
+"file_year": "2014",
+"creators_file": [
+"Bruno Heller"
+],
+"creators_tmdb": [
+"Bruno Heller"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Bruno Heller",
+"problem": "foto mancante",
+"tmdb_img": "/k33JqtocSqI13tf8QKTLbGQKrL4.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s69",
+"title": "Sons of Anarchy",
+"tmdb": 1409,
+"how": "manuale",
+"tmdb_name": "Sons of Anarchy",
+"tmdb_year": "2008",
+"file_year": "2008",
+"creators_file": [
+"Kurt Sutter"
+],
+"creators_tmdb": [
+"Kurt Sutter"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Kurt Sutter",
+"problem": "foto mancante",
+"tmdb_img": "/A4c9xpj2VuZXGvSv6z1S912Xwnd.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Katey Sagal",
+"problem": "foto diversa",
+"file": "/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg",
+"tmdb_img": "/sHUOn4iF35X3qinAUqZPpZq9sxl.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Dayton Callie",
+"eps": 88,
+"role": "Wayne Unser",
+"img": "/miB43H7L4OYY5aRSxhoScjcOxu3.jpg"
+},
+{
+"name": "Ron Perlman",
+"eps": 79,
+"role": "Clay Morrow",
+"img": "/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg"
+}
+]
+},
+{
+"id": "s70",
+"title": "Oz",
+"tmdb": 3322,
+"how": "manuale",
+"tmdb_name": "Oz",
+"tmdb_year": "1997",
+"file_year": "1997",
+"creators_file": [
+"Tom Fontana"
+],
+"creators_tmdb": [
+"Tom Fontana"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Tom Fontana",
+"problem": "foto mancante",
+"tmdb_img": "/xrgcRu8zvcLPtzQ7IoKqGFgZwYl.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Rita Moreno",
+"eps": 56,
+"role": "Sister Peter Marie Reimondo",
+"img": "/zB0M77jr7tmsmWHEr2bWO2Xq66L.jpg"
+},
+{
+"name": "J.K. Simmons",
+"eps": 56,
+"role": "Vernon Schillinger",
+"img": "/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+}
+]
+},
+{
+"id": "s71",
+"title": "The End of the F***ing World",
+"tmdb": 74577,
+"how": "manuale",
+"tmdb_name": "The End of the F***ing World",
+"tmdb_year": "2017",
+"file_year": "2017",
+"creators_file": [
+"Charlie Covell"
+],
+"creators_tmdb": [
+"Jonathan Entwistle"
+],
+"creators_missing_in_file": [
+"Jonathan Entwistle"
+],
+"creators_extra_in_file": [
+"Charlie Covell"
+],
+"creator_photo_issues": [
+{
+"name": "Charlie Covell",
+"problem": "foto mancante (creatore non in TMDB)"
+}
+],
+"cast_issues": [
+{
+"name": "Emma Appleton",
+"problem": "foto diversa",
+"file": "/uhiofRP6LV7lhFR1toPVlPBqlcd.jpg",
+"tmdb_img": "/cqIaIVynuhDljNsNuZmRCB0rfAS.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Jack Veal",
+"eps": 5,
+"role": "Little James",
+"img": "/59JTd0HUKOUG9cOZud2bUL9weRA.jpg"
+},
+{
+"name": "Navin Chowdhry",
+"eps": 5,
+"role": "Tony",
+"img": "/1Wnf0VF5Wg6tGqhx6kFD76HuTCT.jpg"
+}
+]
+},
+{
+"id": "s72",
+"title": "Shameless",
+"tmdb": 34307,
+"how": "manuale",
+"tmdb_name": "Shameless",
+"tmdb_year": "2011",
+"file_year": "2011",
+"creators_file": [
+"John Wells",
+"Paul Abbott"
+],
+"creators_tmdb": [
+"Paul Abbott",
+"John Wells"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "John Wells",
+"problem": "foto mancante",
+"tmdb_img": "/j1cEQmFdSkew87UjO354qeppo1G.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s73",
+"title": "House of Cards",
+"tmdb": 1425,
+"how": "manuale",
+"tmdb_name": "House of Cards",
+"tmdb_year": "2013",
+"file_year": "2013",
+"creators_file": [
+"Beau Willimon"
+],
+"creators_tmdb": [
+"Beau Willimon"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Beau Willimon",
+"problem": "foto mancante",
+"tmdb_img": "/8BTQK12ibYIWPAPSkQktsTnrX99.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Michael Kelly",
+"problem": "foto diversa",
+"file": "/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg",
+"tmdb_img": "/8V6RKWbbx8lyt3Xxz9B1OAPvHRt.jpg"
+},
+{
+"name": "Kate Mara",
+"problem": "foto diversa",
+"file": "/xZYD8wYHMmN9dMMPiohnKEFoTGx.jpg",
+"tmdb_img": "/t8a9iWAZrkdKjRG8jmtT27bJf0W.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Derek Cecil",
+"eps": 53,
+"role": "Seth Grayson",
+"img": "/5tfWfeb3391oBfuEo3xst8563ij.jpg"
+},
+{
+"name": "Mahershala Ali",
+"eps": 45,
+"role": "Remy Danton",
+"img": "/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg"
+},
+{
+"name": "Boris McGiver",
+"eps": 42,
+"role": "Tom Hammerschmidt",
+"img": "/mwVp5Pt7gMhEHPsijU8niPRljiW.jpg"
+}
+]
+},
+{
+"id": "s75",
+"title": "The Night Of",
+"tmdb": 66276,
+"how": "manuale",
+"tmdb_name": "The Night Of",
+"tmdb_year": "2016",
+"file_year": "2016",
+"creators_file": [
+"Steven Zaillian",
+"Richard Price"
+],
+"creators_tmdb": [
+"Richard Price",
+"Steven Zaillian"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Steven Zaillian",
+"problem": "foto mancante",
+"tmdb_img": "/a8OqAfO2m7TAuewIS0dOv4ip1Vr.jpg"
+},
+{
+"name": "Richard Price",
+"problem": "foto mancante",
+"tmdb_img": "/nK2efymwH8qBPYR6YW7Nd0yyE9o.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "پیمان معادی",
+"problem": "non nel cast TMDB"
+}
+],
+"top_missing": [
+{
+"name": "Payman Maadi",
+"eps": 8,
+"role": "Salim Khan",
+"img": "/96dWXnLoCI32jiSSnn2jweaAjBU.jpg"
+},
+{
+"name": "Syam M. Lafi",
+"eps": 6,
+"role": "Hasan Khan",
+"img": null
+}
+]
+},
+{
+"id": "s76",
+"title": "Six Feet Under",
+"tmdb": 1274,
+"how": "manuale",
+"tmdb_name": "Six Feet Under",
+"tmdb_year": "2001",
+"file_year": "2001",
+"creators_file": [
+"Alan Ball"
+],
+"creators_tmdb": [
+"Alan Ball"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Alan Ball",
+"problem": "foto mancante",
+"tmdb_img": "/jCYOYfFa6u0mX1oehnCTeDvpIK8.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Rachel Griffiths",
+"eps": 63,
+"role": "Brenda Chenowith",
+"img": "/n7rKwLjZmbkBKWBwhj9SYzsRaF6.jpg"
+},
+{
+"name": "Justina Machado",
+"eps": 63,
+"role": "Vanessa Diaz",
+"img": "/j5FaJXoyhMHlqv1l6TBdt1CH1oO.jpg"
+}
+]
+},
+{
+"id": "s77",
+"title": "Severance",
+"tmdb": 95396,
+"how": "manuale",
+"tmdb_name": "Severance",
+"tmdb_year": "2022",
+"file_year": "2022",
+"creators_file": [
+"Dan Erickson"
+],
+"creators_tmdb": [
+"Dan Erickson"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Dan Erickson",
+"problem": "foto mancante",
+"tmdb_img": "/qzQ30V43kbVoMjJXRw6ydkicXEP.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s78",
+"title": "Banshee",
+"tmdb": 41727,
+"how": "manuale",
+"tmdb_name": "Banshee",
+"tmdb_year": "2013",
+"file_year": "2013",
+"creators_file": [
+"Jonathan Tropper",
+"David Schickler"
+],
+"creators_tmdb": [
+"David Schickler",
+"Jonathan Tropper"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Jonathan Tropper",
+"problem": "foto mancante",
+"tmdb_img": "/8cyJtu5Jja9Rw6uZNkKotL1F2rc.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Lili Simmons",
+"eps": 38,
+"role": "Rebecca Bowman",
+"img": "/h1X7C95cwYoDX45Fe4Zk6KzIhCV.jpg"
+},
+{
+"name": "Ryann Shane",
+"eps": 38,
+"role": "Deva Hopewell",
+"img": "/giaYi11nw4LiI4S8l6dQ7u6FJu3.jpg"
+}
+]
+},
+{
+"id": "s79",
+"title": "Silo",
+"tmdb": 125988,
+"how": "manuale",
+"tmdb_name": "Silo",
+"tmdb_year": "2023",
+"file_year": "2023",
+"creators_file": [
+"Graham Yost"
+],
+"creators_tmdb": [
+"Graham Yost"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Graham Yost",
+"problem": "foto mancante",
+"tmdb_img": "/zbaUcbYdFU28bGoi6F2lJo0XUaX.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Rebecca Ferguson",
+"problem": "foto diversa",
+"file": "/ra53cM1aNmdH0aFhj8yBqPOj2fb.jpg",
+"tmdb_img": "/ty8ZPzaCBBlqIr5qzpOXI24iC8j.jpg"
+},
+{
+"name": "Jessica Brown Findlay",
+"problem": "foto diversa",
+"file": "/zaqkavcb9ur0W1h1QAxJfKnCJ2h.jpg",
+"tmdb_img": "/5wNnhFn9hixduXa60Nqygl0Sgev.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Tim Robbins",
+"eps": 31,
+"role": "Bernard Holland",
+"img": "/3FfJMIVwXgsIXbAT8ECBSZJAncR.jpg"
+},
+{
+"name": "Harriet Walter",
+"eps": 22,
+"role": "Martha Walker",
+"img": "/vH8JrqdHaoFeGos44XeKTNuQMKE.jpg"
+}
+]
+},
+{
+"id": "s80",
+"title": "The OA",
+"tmdb": 69061,
+"how": "manuale",
+"tmdb_name": "The OA",
+"tmdb_year": "2016",
+"file_year": "2016",
+"creators_file": [
+"Brit Marling",
+"Zal Batmanglij"
+],
+"creators_tmdb": [
+"Brit Marling",
+"Zal Batmanglij"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Brit Marling",
+"problem": "foto mancante",
+"tmdb_img": "/38pSHsK7DKdOYmdeBOKqyunA45e.jpg"
+},
+{
+"name": "Zal Batmanglij",
+"problem": "foto mancante",
+"tmdb_img": "/pyJyWBRwHdaVBBrZdPxYiGNiMxc.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Brandon Perea",
+"eps": 16,
+"role": "Alfonso 'French' Sosa",
+"img": "/hEzljVgsho0Uwd8tg7AGB5Uy3Lr.jpg"
+},
+{
+"name": "Will Brill",
+"eps": 16,
+"role": "Scott Brown",
+"img": "/eTPXcvxlquT8ppKnwAe2a3CzI90.jpg"
+}
+]
+},
+{
+"id": "s81",
+"title": "Daredevil",
+"tmdb": 61889,
+"how": "manuale",
+"tmdb_name": "Marvel's Daredevil",
+"tmdb_year": "2015",
+"file_year": "2015",
+"creators_file": [
+"Drew Goddard"
+],
+"creators_tmdb": [
+"Drew Goddard"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Drew Goddard",
+"problem": "foto mancante",
+"tmdb_img": "/2ff2wbCu0kc61JDHgBiPSqtb3e3.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Royce Johnson",
+"eps": 18,
+"role": "Sgt. Brett Mahoney",
+"img": "/4okawO40v1qfTMJCUm9adg150MQ.jpg"
+},
+{
+"name": "Geoffrey Cantor",
+"eps": 16,
+"role": "Mitchell Ellison",
+"img": "/z9yI8sMuqx0vM2BYFadPKue3GsV.jpg"
+},
+{
+"name": "Jay Ali",
+"eps": 13,
+"role": "Rahul 'Ray' Nadeem",
+"img": "/1g4OYoBZxIsIYBvZQ1W2wn21LJJ.jpg"
+}
+]
+},
+{
+"id": "s82",
+"title": "Deadwood",
+"tmdb": 1406,
+"how": "manuale",
+"tmdb_name": "Deadwood",
+"tmdb_year": "2004",
+"file_year": "2004",
+"creators_file": [
+"David Milch"
+],
+"creators_tmdb": [
+"David Milch"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "David Milch",
+"problem": "foto mancante",
+"tmdb_img": "/iwrjFR9JmpwgolCrdFpyGAb4Axz.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Timothy Olyphant",
+"problem": "foto diversa",
+"file": "/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg",
+"tmdb_img": "/ccQzw9I1BYBv0HHVJr4cvAWjtkI.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Brad Dourif",
+"eps": 36,
+"role": "Amos Cochran",
+"img": "/ex7AmuHM3owhUetYZAyOmN1ehWS.jpg"
+},
+{
+"name": "John Hawkes",
+"eps": 36,
+"role": "Sol Star",
+"img": "/c0mDB6TApVcJ3LLM1gicjyUeD5A.jpg"
+}
+]
+},
+{
+"id": "s83",
+"title": "The Shield",
+"tmdb": 1414,
+"how": "manuale",
+"tmdb_name": "The Shield",
+"tmdb_year": "2002",
+"file_year": "2002",
+"creators_file": [
+"Shawn Ryan"
+],
+"creators_tmdb": [
+"Shawn Ryan"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Shawn Ryan",
+"problem": "foto mancante",
+"tmdb_img": "/49EdiYMjYg0FzTI10zPyubxIPk7.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "CCH Pounder",
+"eps": 88,
+"role": "Claudette Wyms",
+"img": "/yLOU0qA5MwJyoKMc0e4HyZz4oFV.jpg"
+},
+{
+"name": "Cathy Cahlin Ryan",
+"eps": 83,
+"role": "Corrine Mackey",
+"img": "/kYqvWykKzUQYhoI3YcY4cTE84ps.jpg"
+}
+]
+},
+{
+"id": "s84",
+"title": "Utopia",
+"tmdb": 46511,
+"how": "manuale",
+"tmdb_name": "Utopia",
+"tmdb_year": "2013",
+"file_year": "2013",
+"creators_file": [
+"Dennis Kelly"
+],
+"creators_tmdb": [
+"Dennis Kelly"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Dennis Kelly",
+"problem": "foto mancante",
+"tmdb_img": "/rBxbtWZ0vghvDfihJzxhWQqPKFQ.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s85",
+"title": "Atlanta",
+"tmdb": 65495,
+"how": "manuale",
+"tmdb_name": "Atlanta",
+"tmdb_year": "2016",
+"file_year": "2016",
+"creators_file": [
+"Donald Glover"
+],
+"creators_tmdb": [
+"Donald Glover"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Donald Glover",
+"problem": "foto mancante",
+"tmdb_img": "/jqVkQfeeEmdga1G0jpBwwXXwwSK.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Zazie Beetz",
+"problem": "foto diversa",
+"file": "/ijrT4pvALvxU0gphea4YxDnDh6e.jpg",
+"tmdb_img": "/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Diane Sellers",
+"eps": 2,
+"role": "Lorraine",
+"img": "/2e00pN04z7GnhVtxdAa2XpFmnN5.jpg"
+},
+{
+"name": "Rick Holmes",
+"eps": 2,
+"role": "Craig Allen",
+"img": "/Jz89l3kVVkBvp010w2fmCBFF1t.jpg"
+}
+]
+},
+{
+"id": "s86",
+"title": "Fargo",
+"tmdb": 60622,
+"how": "manuale",
+"tmdb_name": "Fargo",
+"tmdb_year": "2014",
+"file_year": "2014",
+"creators_file": [
+"Noah Hawley"
+],
+"creators_tmdb": [
+"Noah Hawley"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Noah Hawley",
+"problem": "foto mancante",
+"tmdb_img": "/pxVP1lywEBA9y8x5Xe3kM7m4ai3.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Juno Temple",
+"problem": "foto diversa",
+"file": "/vwCjlWQLQWbmcUT2Lwn9G0O8r2.jpg",
+"tmdb_img": "/n20TNExAma6q9iVcWtPRxLl7pEc.jpg"
+},
+{
+"name": "Ewan McGregor",
+"problem": "foto diversa",
+"file": "/aEmyadfRXTmmR7UW7OXsm5a6smS.jpg",
+"tmdb_img": "/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg"
+},
+{
+"name": "Sam Spruell",
+"problem": "foto diversa",
+"file": "/nTyK3HlqdlJZqjpwTVf4Xo5LkYw.jpg",
+"tmdb_img": "/5xQOHz3uUy20zsUMABaIsAXKFcI.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Jason Schwartzman",
+"eps": 12,
+"role": "Josto Fadda",
+"img": "/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
+},
+{
+"name": "Jessie Buckley",
+"eps": 11,
+"role": "Oraetta Mayflower",
+"img": "/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
+},
+{
+"name": "Ben Whishaw",
+"eps": 11,
+"role": "Patrick 'Rabbi' Milligan",
+"img": "/e74Cz65ifeNb9zHfUTvF5rTix0d.jpg"
+},
+{
+"name": "Jack Huston",
+"eps": 11,
+"role": "Odis Weff",
+"img": "/qWGoZaUbeuaOLbDvyP5txYr9Hct.jpg"
+},
+{
+"name": "Salvatore Esposito",
+"eps": 11,
+"role": "Gaetano Fadda",
+"img": "/lvTeMD1NqYmYbaH0jYek2oXaSvR.jpg"
+}
+]
+},
+{
+"id": "s87",
+"title": "3 Body Problem",
+"tmdb": 108545,
+"how": "manuale",
+"tmdb_name": "3 Body Problem",
+"tmdb_year": "2024",
+"file_year": "2024",
+"creators_file": [
+"David Benioff",
+"D.B. Weiss",
+"Alexander Woo"
+],
+"creators_tmdb": [
+"David Benioff",
+"D. B. Weiss",
+"Alexander Woo"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "David Benioff",
+"problem": "foto mancante",
+"tmdb_img": "/xvNN5huL0X8yJ7h3IZfGG4O2zBD.jpg"
+},
+{
+"name": "D.B. Weiss",
+"problem": "foto mancante",
+"tmdb_img": "/6Wt006TIQoDSSnl0YaKihfn3w7K.jpg"
+},
+{
+"name": "Alexander Woo",
+"problem": "foto mancante",
+"tmdb_img": "/ofJkxzm7zoQW1Uw7CSLCyigBn8I.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s88",
+"title": "Lupin",
+"tmdb": 96677,
+"how": "manuale",
+"tmdb_name": "Lupin",
+"tmdb_year": "2021",
+"file_year": "2021",
+"creators_file": [
+"Louis Leterrier",
+"George Kay"
+],
+"creators_tmdb": [
+"George Kay",
+"François Uzan",
+"Marie Roussin",
+"Florent Meyer",
+"Tigran Rosine"
+],
+"creators_missing_in_file": [
+"François Uzan",
+"Marie Roussin",
+"Florent Meyer",
+"Tigran Rosine"
+],
+"creators_extra_in_file": [
+"Louis Leterrier"
+],
+"creator_photo_issues": [
+{
+"name": "Louis Leterrier",
+"problem": "foto mancante (creatore non in TMDB)"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Ludivine Sagnier",
+"eps": 25,
+"role": "Claire Laurent",
+"img": "/hd4fLjgtgNEidJOjuLNGfK1sOhm.jpg"
+},
+{
+"name": "Soufiane Guerrab",
+"eps": 25,
+"role": "Youssef Guédira",
+"img": "/3KPutm0tNtt1CtFm6gyLPSqtOK2.jpg"
+},
+{
+"name": "Shirine Boutella",
+"eps": 24,
+"role": "Sofia Belkacem",
+"img": "/4qBT877sIjMLycDBmahEpL1nwEk.jpg"
+},
+{
+"name": "Antoine Gouy",
+"eps": 22,
+"role": "Benjamin Férel",
+"img": "/g0KnDyYzYHNY3TQgcX3B26ILnTu.jpg"
+},
+{
+"name": "Mamadou Haïdara",
+"eps": 20,
+"role": "Young Assane Diop",
+"img": "/pEcfv4SuxqJ0GDjwW5IInb1ct8w.jpg"
+},
+{
+"name": "Clotilde Hesme",
+"eps": 17,
+"role": "Juliette Pellegrini",
+"img": "/hPWDBjjk0OJaMdiVRaUBL7jeAcZ.jpg"
+},
+{
+"name": "Etan Simon",
+"eps": 16,
+"role": "Raoul Diop",
+"img": "/uXF3yPXMQhIMkv2VA3dkIQPN813.jpg"
+}
+]
+},
+{
+"id": "s89",
+"title": "The Last Kingdom",
+"tmdb": 63333,
+"how": "manuale",
+"tmdb_name": "The Last Kingdom",
+"tmdb_year": "2015",
+"file_year": "2015",
+"creators_file": [
+"Stephen Butchard"
+],
+"creators_tmdb": [
+"Stephen Butchard"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Millie Brady",
+"eps": 31,
+"role": "Aethelflaed",
+"img": "/rCMJ6hS6qMta17X6QzmNDqLdm38.jpg"
+},
+{
+"name": "Timothy Innes",
+"eps": 30,
+"role": "King Edward",
+"img": "/aUxpcqfSZjgi0BItJdjp156kilF.jpg"
+}
+]
+},
+{
+"id": "s90",
+"title": "The Wire",
+"tmdb": 1438,
+"how": "manuale",
+"tmdb_name": "The Wire",
+"tmdb_year": "2002",
+"file_year": "2002",
+"creators_file": [
+"David Simon"
+],
+"creators_tmdb": [
+"David Simon"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "David Simon",
+"problem": "foto mancante",
+"tmdb_img": "/rby7VXKgmcQtkgTHCWW6dE3sWF4.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Domenick Lombardozzi",
+"eps": 57,
+"role": "Herc Hauk",
+"img": "/kLUR7XZRrINEqTFi8gUrzKpW74R.jpg"
+}
+]
+},
+{
+"id": "s91",
+"title": "The Sopranos",
+"tmdb": 1398,
+"how": "manuale",
+"tmdb_name": "The Sopranos",
+"tmdb_year": "1999",
+"file_year": "1999",
+"creators_file": [
+"David Chase"
+],
+"creators_tmdb": [
+"David Chase"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "David Chase",
+"problem": "foto mancante",
+"tmdb_img": "/jv6o40ugYcutRRMYDVJxvaqQ9aj.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Michael Imperioli",
+"problem": "foto diversa",
+"file": "/bCDwQGrecRujCibI8rvsxEc91We.jpg",
+"tmdb_img": "/jfoEHR6BRMg8emtujXdM3G4JHIm.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Steven Van Zandt",
+"eps": 86,
+"role": "Silvio Dante",
+"img": "/okh4QNQrGG647y5HnGSXAFFoIlp.jpg"
+},
+{
+"name": "Tony Sirico",
+"eps": 86,
+"role": "Paulie Gualtieri",
+"img": "/yiTvFhaPlVIWETNObwqB72hgNeI.jpg"
+}
+]
+},
+{
+"id": "s92",
+"title": "The Boys",
+"tmdb": 76479,
+"how": "manuale",
+"tmdb_name": "The Boys",
+"tmdb_year": "2019",
+"file_year": "2019",
+"creators_file": [
+"Eric Kripke"
+],
+"creators_tmdb": [
+"Eric Kripke"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Eric Kripke",
+"problem": "foto mancante",
+"tmdb_img": "/dd7EgfOEKPqQxWtBfAvjYZahbSc.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Chace Crawford",
+"problem": "foto diversa",
+"file": "/wz7s1JT3bYi2vd4fWwmLT809cnT.jpg",
+"tmdb_img": "/yWZILsr2mBQBCG1LOcCYYshIbts.jpg"
+},
+{
+"name": "תומר קאפון",
+"problem": "non nel cast TMDB"
+}
+],
+"top_missing": [
+{
+"name": "Tomer Capone",
+"eps": 40,
+"role": "Serge / Frenchie",
+"img": "/r6s7dkYZUJpd00C7p9itT6Gp8XB.jpg"
+}
+]
+},
+{
+"id": "s93",
+"title": "24",
+"tmdb": 1973,
+"how": "manuale",
+"tmdb_name": "24",
+"tmdb_year": "2001",
+"file_year": "2001",
+"creators_file": [
+"Joel Surnow",
+"Robert Cochran"
+],
+"creators_tmdb": [
+"Robert Cochran",
+"Joel Surnow"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Joel Surnow",
+"problem": "foto mancante",
+"tmdb_img": "/71hDIWgWJod7kkz146MP1MxO7q.jpg"
+},
+{
+"name": "Robert Cochran",
+"problem": "foto mancante",
+"tmdb_img": "/5nuQ4ZdAeKCy5BB0LzmvzWxQDXE.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Carlos Bernard",
+"eps": 116,
+"role": "Tony Almeida",
+"img": "/oAHPWN2kHx3LEE8FtdUXxGqgGXq.jpg"
+},
+{
+"name": "James Morrison",
+"eps": 64,
+"role": "Bill Buchanan",
+"img": "/awmr0NIBPUgCxYCgmLbkv05rYgF.jpg"
+}
+]
+},
+{
+"id": "s94",
+"title": "Brooklyn Nine-Nine",
+"tmdb": 48891,
+"how": "manuale",
+"tmdb_name": "Brooklyn Nine-Nine",
+"tmdb_year": "2013",
+"file_year": "2013",
+"creators_file": [
+"Dan Goor",
+"Michael Schur"
+],
+"creators_tmdb": [
+"Daniel J. Goor",
+"Michael Schur"
+],
+"creators_missing_in_file": [
+"Daniel J. Goor"
+],
+"creators_extra_in_file": [
+"Dan Goor"
+],
+"creator_photo_issues": [
+{
+"name": "Dan Goor",
+"problem": "foto mancante (creatore non in TMDB)"
+},
+{
+"name": "Michael Schur",
+"problem": "foto mancante",
+"tmdb_img": "/uFqjvTHNCfThf9ahEIYWFkszm9c.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s95",
+"title": "12 Monkeys",
+"tmdb": 60948,
+"how": "manuale",
+"tmdb_name": "12 Monkeys",
+"tmdb_year": "2015",
+"file_year": "2015",
+"creators_file": [
+"Terry Matalas",
+"Travis Fickett"
+],
+"creators_tmdb": [
+"Terry Matalas",
+"Travis Fickett"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Terry Matalas",
+"problem": "foto mancante",
+"tmdb_img": "/4NDGDtltOwDSpy5pTHFFVuyEMmd.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Kirk Acevedo",
+"eps": 33,
+"role": "José Ramse",
+"img": "/jFUHECwo7L3KOZ0HxCQytl90qed.jpg"
+},
+{
+"name": "Alisen Richmond-Peck",
+"eps": 33,
+"role": "Striking Woman",
+"img": "/jKf27PDUjzz3rTxbDgC2IGctzik.jpg"
+}
+]
+},
+{
+"id": "s96",
+"title": "The Killing",
+"tmdb": 34415,
+"how": "manuale",
+"tmdb_name": "The Killing",
+"tmdb_year": "2011",
+"file_year": "2011",
+"creators_file": [
+"Veena Sud"
+],
+"creators_tmdb": [
+"Veena Sud"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Veena Sud",
+"problem": "foto mancante",
+"tmdb_img": "/i06xVLU9mfnBGjk02n5orXzKUZM.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Kristin Lehman",
+"problem": "foto diversa",
+"file": "/solF0MIx48QCtiLeBistP0fpd66.jpg",
+"tmdb_img": "/boMsJj80ISyjDp4cvSprURTWJ0I.jpg"
+}
+],
+"top_missing": []
+},
+{
+"id": "s97",
+"title": "Luther",
+"tmdb": 1426,
+"how": "manuale",
+"tmdb_name": "Luther",
+"tmdb_year": "2010",
+"file_year": "2010",
+"creators_file": [
+"Neil Cross"
+],
+"creators_tmdb": [
+"Neil Cross"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Neil Cross",
+"problem": "foto mancante",
+"tmdb_img": "/yYZbS84qIlZ9N7Ek9QjG3evl6yw.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Warren Brown",
+"eps": 15,
+"role": "Justin Ripley",
+"img": "/dZrT8aByjdripQ0nnaRVd32bfjQ.jpg"
+},
+{
+"name": "Ruth Wilson",
+"eps": 13,
+"role": "Alice Morgan",
+"img": "/fdFVatb9pt5dfT9tDK8tikKWafS.jpg"
+},
+{
+"name": "Paul McGann",
+"eps": 10,
+"role": "Mark North",
+"img": "/4NAtQI30CAaJuQRiot9twe7J9t9.jpg"
+}
+]
+},
+{
+"id": "s98",
+"title": "The Bridge",
+"tmdb": 45016,
+"how": "manuale",
+"tmdb_name": "The Bridge",
+"tmdb_year": "2011",
+"file_year": "2011",
+"creators_file": [
+"Hans Rosenfeldt"
+],
+"creators_tmdb": [
+"Hans Rosenfeldt"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Hans Rosenfeldt",
+"problem": "foto mancante",
+"tmdb_img": "/iukYdvbOhae1twOXB7lYcp84M12.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Mikael Birkkjær",
+"problem": "non nel cast TMDB"
+},
+{
+"name": "Ellen Hillingsø",
+"problem": "non nel cast TMDB"
+},
+{
+"name": "Anders Mossling",
+"problem": "non nel cast TMDB"
+}
+],
+"top_missing": [
+{
+"name": "Sarah Boberg",
+"eps": 32,
+"role": "Lillian Larsen",
+"img": "/gbQxeD9KXPU0ro3ZkUaDfmUe6o.jpg"
+},
+{
+"name": "Puk Scharbau",
+"eps": 19,
+"role": "Mette Rohde",
+"img": "/bukzZfwhiyScpP3fARIRY4hPle1.jpg"
+},
+{
+"name": "Gabriel Flores Jair",
+"eps": 15,
+"role": "Pathologist",
+"img": "/2yl41wrLZyNd2p7JUlYKCzGBucP.jpg"
+}
+]
+},
+{
+"id": "s99",
+"title": "Le Bureau",
+"tmdb": 62476,
+"how": "manuale",
+"tmdb_name": "The Bureau",
+"tmdb_year": "2015",
+"file_year": "2015",
+"creators_file": [
+"Éric Rochant"
+],
+"creators_tmdb": [
+"Éric Rochant"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Éric Rochant",
+"problem": "foto mancante",
+"tmdb_img": "/zKumGjTFPwx749EX0wHw6ZYOdBI.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Олексій Горбунов",
+"problem": "non nel cast TMDB"
+}
+],
+"top_missing": [
+{
+"name": "Irina Muluile",
+"eps": 50,
+"role": "\"La Mule\"",
+"img": "/b9VWwudclfo8kgAuzhUS3Zrhgnm.jpg"
+},
+{
+"name": "Alexandre Brasseur",
+"eps": 50,
+"role": "\"Pépé\"",
+"img": "/6fmUMUKXkmGUMadlqK2kM7IMYBk.jpg"
+}
+]
+},
+{
+"id": "s100",
+"title": "The Americans",
+"tmdb": 46533,
+"how": "manuale",
+"tmdb_name": "The Americans",
+"tmdb_year": "2013",
+"file_year": "2013",
+"creators_file": [
+"Joe Weisberg"
+],
+"creators_tmdb": [
+"Joe Weisberg"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Joe Weisberg",
+"problem": "foto mancante",
+"tmdb_img": "/s0ss4dUEf2hobIXAgdqI1qH6fPT.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Lev Gorn",
+"eps": 51,
+"role": "Arkady Ivanovich Zotov",
+"img": "/2cblHPwJPOPJbn92dwxF83QqrJh.jpg"
+},
+{
+"name": "Alison Wright",
+"eps": 46,
+"role": "Martha Hanson",
+"img": "/yVdCk5eWk5syRrBdxjrnJ1O2Rpg.jpg"
+}
+]
+},
+{
+"id": "s101",
+"title": "Dark",
+"tmdb": 70523,
+"how": "manuale",
+"tmdb_name": "Dark",
+"tmdb_year": "2017",
+"file_year": "2017",
+"creators_file": [
+"Baran bo Odar",
+"Jantje Friese"
+],
+"creators_tmdb": [
+"Baran bo Odar",
+"Jantje Friese"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Baran bo Odar",
+"problem": "foto mancante",
+"tmdb_img": "/3CfxoYPDPgFZ6jJMBOXCO5zhhEQ.jpg"
+},
+{
+"name": "Jantje Friese",
+"problem": "foto mancante",
+"tmdb_img": "/1FPWxHCzCmiLlmCAf7Gze6jkWP7.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Oliver Masucci",
+"problem": "foto diversa",
+"file": "/u3ndWBPECxyKf6CRAZqjlJ92hQw.jpg",
+"tmdb_img": "/fjJc03z1cOlMxLZbC1qihsq3C37.jpg"
+},
+{
+"name": "Jördis Triebel",
+"problem": "foto diversa",
+"file": "/ccKpVED4GwvqpbDpSDvZ5a7Be2Z.jpg",
+"tmdb_img": "/jpetRzlJix0vpUM1PyhAEgt1R3b.jpg"
+}
+],
+"top_missing": []
+},
+{
+"id": "s102",
+"title": "Fallout",
+"tmdb": 106379,
+"how": "manuale",
+"tmdb_name": "Fallout",
+"tmdb_year": "2024",
+"file_year": "2024",
+"creators_file": [
+"Geneva Robertson-Dworet",
+"Graham Wagner"
+],
+"creators_tmdb": [
+"Graham Wagner",
+"Geneva Robertson-Dworet"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Geneva Robertson-Dworet",
+"problem": "foto mancante",
+"tmdb_img": "/nZb4ki7bFZYfWlWetjivYxnnnRx.jpg"
+},
+{
+"name": "Graham Wagner",
+"problem": "foto mancante",
+"tmdb_img": "/5mQ8bOEe8z0rhNgATRgjS9NtjLI.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Dave Register",
+"eps": 10,
+"role": "Chet",
+"img": "/bJYuf9SpvFPPsjfA7GG4LMgARmB.jpg"
+},
+{
+"name": "Leslie Uggams",
+"eps": 9,
+"role": "Betty Pearson",
+"img": "/8zQO5GNWQwJG4we5AYfjopblRFe.jpg"
+}
+]
+},
+{
+"id": "s103",
+"title": "Limitless",
+"tmdb": 62687,
+"how": "manuale",
+"tmdb_name": "Limitless",
+"tmdb_year": "2015",
+"file_year": "2015",
+"creators_file": [
+"Craig Sweeny"
+],
+"creators_tmdb": [
+"Craig Sweeny"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Craig Sweeny",
+"problem": "foto mancante",
+"tmdb_img": "/6udgZNScvTq4eASUNsxEL1mW3YI.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s104",
+"title": "Hannibal",
+"tmdb": 40008,
+"how": "manuale",
+"tmdb_name": "Hannibal",
+"tmdb_year": "2013",
+"file_year": "2013",
+"creators_file": [
+"Bryan Fuller"
+],
+"creators_tmdb": [
+"Bryan Fuller"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Bryan Fuller",
+"problem": "foto mancante",
+"tmdb_img": "/yeGxbuZ1Wzv8qhTDkdrIQfxKGkW.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s105",
+"title": "BoJack Horseman",
+"tmdb": 61222,
+"how": "manuale",
+"tmdb_name": "BoJack Horseman",
+"tmdb_year": "2014",
+"file_year": "2014",
+"creators_file": [
+"Raphael Bob-Waksberg"
+],
+"creators_tmdb": [
+"Raphael Bob-Waksberg"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Raphael Bob-Waksberg",
+"problem": "foto mancante",
+"tmdb_img": "/2ktN8lJhecCKG77nlDm3dISbnxk.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Alison Brie",
+"problem": "foto diversa",
+"file": "/smqYVStfIHDYKTu8T1BA2LnhdF9.jpg",
+"tmdb_img": "/uu16GiwYblS6IJV3o4qFSLWKXOC.jpg"
+},
+{
+"name": "Fred Tatasciore",
+"problem": "foto diversa",
+"file": "/xodxYKRC9mdvgquTdqpmYldliJ3.jpg",
+"tmdb_img": "/8YCIAGSWcxeTmPfOWMtVjLSwGOH.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Adam Conover",
+"eps": 17,
+"role": "Tour Guide / Paparazzi Blue Jay (voice)",
+"img": "/tbVGWnkNPAgr8dthkRnIA6p7dBG.jpg"
+},
+{
+"name": "Keith Olbermann",
+"eps": 17,
+"role": "Tom Jumbo-Grumbo (voice)",
+"img": "/9cN15bmj7dtDQeZS93IKe4NTVUZ.jpg"
+},
+{
+"name": "Patton Oswalt",
+"eps": 14,
+"role": "Dr. Pepin (Walnut Springs) (voice)",
+"img": "/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
+}
+]
+},
+{
+"id": "s106",
+"title": "Gravity Falls",
+"tmdb": 40075,
+"how": "manuale",
+"tmdb_name": "Gravity Falls",
+"tmdb_year": "2012",
+"file_year": "2012",
+"creators_file": [
+"Alex Hirsch"
+],
+"creators_tmdb": [
+"Alex Hirsch"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Alex Hirsch",
+"problem": "foto mancante",
+"tmdb_img": "/pGoKJKbqI3AwcmQkmEKG9jBXdcw.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Matt Chapman",
+"eps": 21,
+"role": "Puppeteer (voice)",
+"img": null
+},
+{
+"name": "Kevin Michael Richardson",
+"eps": 15,
+"role": "Sheriff Blubs / Additional Voices (voice)",
+"img": "/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+},
+{
+"name": "Carl Faruolo",
+"eps": 14,
+"role": "Grenda (voice)",
+"img": null
+}
+]
+},
+{
+"id": "s107",
+"title": "Avatar: The Last Airbender",
+"tmdb": 246,
+"how": "manuale",
+"tmdb_name": "Avatar: The Last Airbender",
+"tmdb_year": "2005",
+"file_year": "2005",
+"creators_file": [
+"Michael Dante DiMartino",
+"Bryan Konietzko"
+],
+"creators_tmdb": [
+"Michael Dante DiMartino",
+"Bryan Konietzko"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Michael Dante DiMartino",
+"problem": "foto mancante",
+"tmdb_img": "/8ey06cRWYe5TlKl5tyYQf57kknw.jpg"
+},
+{
+"name": "Bryan Konietzko",
+"problem": "foto mancante",
+"tmdb_img": "/5lPnGvtATjmPakR96dqPW3v4u8q.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Grey DeLisle",
+"problem": "foto diversa",
+"file": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg",
+"tmdb_img": "/anib3yRL9GyUvTkYNHWxQPlXLUH.jpg"
+}
+],
+"top_missing": []
+},
+{
+"id": "s108",
+"title": "Over the Garden Wall",
+"tmdb": 61617,
+"how": "manuale",
+"tmdb_name": "Over the Garden Wall",
+"tmdb_year": "2014",
+"file_year": "2014",
+"creators_file": [
+"Patrick McHale"
+],
+"creators_tmdb": [
+"Patrick McHale"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Patrick McHale",
+"problem": "foto mancante",
+"tmdb_img": "/LI52FbJ23GnsPz6NExUJmSi0XS.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "John Cleese",
+"eps": 2,
+"role": "Adelaide (voice)",
+"img": "/nQpBf77cStmR35V0XOinm2zZMWG.jpg"
+},
+{
+"name": "Sam Marin",
+"eps": 2,
+"role": "Old Man Langtree (voice)",
+"img": "/fWNACxcmaVQSJilCBCfqHoEbbLy.jpg"
+}
+]
+},
+{
+"id": "s109",
+"title": "Eteros Ego",
+"tmdb": 90621,
+"how": "manuale",
+"tmdb_name": "The Other Me",
+"tmdb_year": "2019",
+"file_year": "2019",
+"creators_file": [
+"Sotiris Tsafoulias",
+"Katerina Filiotou"
+],
+"creators_tmdb": [
+"Sotiris Tsafoulias"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [
+"Katerina Filiotou"
+],
+"creator_photo_issues": [
+{
+"name": "Sotiris Tsafoulias",
+"problem": "foto mancante",
+"tmdb_img": "/3fp2YJW7UlQCEYZB6VEgXizqPpE.jpg"
+},
+{
+"name": "Katerina Filiotou",
+"problem": "foto mancante (creatore non in TMDB)"
+}
+],
+"cast_issues": [
+{
+"name": "Pygmalion Dadakaridis",
+"problem": "non nel cast TMDB"
+},
+{
+"name": "Marianna Toumasatou",
+"problem": "foto diversa",
+"file": "/4oHFXHBFiOlPJWKTtdsgjAAcNm7.jpg",
+"tmdb_img": "/bUSFEscUQQoS4fcgDNIaMeNVtIx.jpg"
+},
+{
+"name": "Vasilis Risvas",
+"problem": "non nel cast TMDB"
+}
+],
+"top_missing": [
+{
+"name": "Pigmalion Dadakaridis",
+"eps": 24,
+"role": "Dimitris Lainis",
+"img": "/xR2Imx1ykXG0lep5K1YOab9pyix.jpg"
+}
+]
+},
+{
+"id": "s111",
+"title": "Aspirants",
+"tmdb": 124411,
+"how": "manuale",
+"tmdb_name": "Aspirants",
+"tmdb_year": "2021",
+"file_year": "2021",
+"creators_file": [
+"Arunabh Kumar",
+"Shreyansh Pandey",
+"Deepesh Sumitra Jagdish"
+],
+"creators_tmdb": [
+"Arunabh Kumar",
+"Shreyansh Pandey",
+"Deepesh Sumitra Jagdish"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Deepesh Sumitra Jagdish",
+"problem": "foto mancante",
+"tmdb_img": "/xUBZkO4HBBOQvPfja06pGuEBgdG.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Namita Dubey",
+"eps": 15,
+"role": "Dhairya",
+"img": null
+},
+{
+"name": "Tengam Celine",
+"eps": 10,
+"role": "Deepa Nabam",
+"img": null
+}
+]
+},
+{
+"id": "s112",
+"title": "Berlino",
+"tmdb": 146176,
+"how": "manuale",
+"tmdb_name": "Berlin",
+"tmdb_year": "2023",
+"file_year": "2023",
+"creators_file": [
+"Álex Pina",
+"Esther Martínez Lobato"
+],
+"creators_tmdb": [
+"Álex Pina",
+"Esther Martínez Lobato"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Álex Pina",
+"problem": "foto mancante",
+"tmdb_img": "/hMKcFPRKo0I4WLBvkvppyBFDGr8.jpg"
+},
+{
+"name": "Esther Martínez Lobato",
+"problem": "foto mancante",
+"tmdb_img": "/eKfsOq2lUAT1UpPAx6iRyhT6OE8.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s113",
+"title": "Persona",
+"tmdb": 77994,
+"how": "manuale",
+"tmdb_name": "Persona",
+"tmdb_year": "2018",
+"file_year": "2018",
+"creators_file": [
+"Lee Kyoung-mi",
+"Kim Jong-kwan",
+"Jeon Go-woon",
+"Lim Pil-sung"
+],
+"creators_tmdb": [
+"Hakan Günday"
+],
+"creators_missing_in_file": [
+"Hakan Günday"
+],
+"creators_extra_in_file": [
+"Lee Kyoung-mi",
+"Kim Jong-kwan",
+"Jeon Go-woon",
+"Lim Pil-sung"
+],
+"creator_photo_issues": [
+{
+"name": "Lee Kyoung-mi",
+"problem": "foto mancante (creatore non in TMDB)"
+},
+{
+"name": "Kim Jong-kwan",
+"problem": "foto mancante (creatore non in TMDB)"
+},
+{
+"name": "Jeon Go-woon",
+"problem": "foto mancante (creatore non in TMDB)"
+},
+{
+"name": "Lim Pil-sung",
+"problem": "foto mancante (creatore non in TMDB)"
+}
+],
+"cast_issues": [
+{
+"name": "Cansu Dere",
+"problem": "senza foto",
+"tmdb_img": "/erjCquhIaIGkgumxnS4LKMpZChe.jpg"
+},
+{
+"name": "Necip Memili",
+"problem": "senza foto",
+"tmdb_img": "/d1jeBnsh30FkL5I196HHz85dz7h.jpg"
+},
+{
+"name": "Metin Akdülger",
+"problem": "senza foto",
+"tmdb_img": "/70DE1rB7nGSECpFE6sQKxPU3mfQ.jpg"
+}
+],
+"top_missing": [
+{
+"name": "İbrahim Selim",
+"eps": 12,
+"role": "Sefa",
+"img": "/3EAJVfqgEZCM17RTWfUIEJ1iKv3.jpg"
+},
+{
+"name": "Fırat Topkorur",
+"eps": 12,
+"role": "Firuz",
+"img": "/aGOToGKoPQVFZG5Etbj0TTJJxSh.jpg"
+}
+]
+},
+{
+"id": "s114",
+"title": "Twin Peaks",
+"tmdb": 1920,
+"how": "manuale",
+"tmdb_name": "Twin Peaks",
+"tmdb_year": "1990",
+"file_year": "1990",
+"creators_file": [
+"Mark Frost",
+"David Lynch"
+],
+"creators_tmdb": [
+"Mark Frost",
+"David Lynch"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Mark Frost",
+"problem": "foto mancante",
+"tmdb_img": "/oJuLEkHUW7YTTvOGw30NMjMZPvB.jpg"
+},
+{
+"name": "David Lynch",
+"problem": "foto mancante",
+"tmdb_img": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Dana Ashbrook",
+"problem": "foto diversa",
+"file": "/sAR3KoRwOxV9sztnEuTi5nLrTlz.jpg",
+"tmdb_img": "/Aj2y03r4pEoyvr2Ed1m28aQNmMs.jpg"
+},
+{
+"name": "Harry Goaz",
+"problem": "foto diversa",
+"file": "/uITv4Ri24uokr44qFBxnWS7Emzg.jpg",
+"tmdb_img": "/oeWNUiLjboZG3UdKr4ZWKDnK3LZ.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Michael Horse",
+"eps": 44,
+"role": "Tommy 'Hawk' Hill",
+"img": "/5111zpfxrX6Udb6rFgWQF2W5wNV.jpg"
+},
+{
+"name": "Kimmy Robertson",
+"eps": 39,
+"role": "Lucy Brennan",
+"img": "/nZAiIyKFNHfVdgEjvdBIPOb8m0B.jpg"
+},
+{
+"name": "Mädchen Amick",
+"eps": 37,
+"role": "Shelly",
+"img": "/Af47IaCUF9BYzmGBycZiKjqIwYf.jpg"
+}
+]
+},
+{
+"id": "s116",
+"title": "Stranger Things",
+"tmdb": 66732,
+"how": "manuale",
+"tmdb_name": "Stranger Things",
+"tmdb_year": "2016",
+"file_year": "2016",
+"creators_file": [
+"Matt Duffer",
+"Ross Duffer"
+],
+"creators_tmdb": [
+"Ross Duffer",
+"Matt Duffer"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Matt Duffer",
+"problem": "foto mancante",
+"tmdb_img": "/xaBSTbWWVmKcZN5RoIzPiF5RzZj.jpg"
+},
+{
+"name": "Ross Duffer",
+"problem": "foto mancante",
+"tmdb_img": "/AnZhpHzHKy0IWwn9KxkukXXWNte.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Caleb McLaughlin",
+"problem": "foto diversa",
+"file": "/wWy6kWlTiHc5HfOWsoKtwNFEsIR.jpg",
+"tmdb_img": "/4jVS3EziBn7bf97ErxkW7jsdiLM.jpg"
+}
+],
+"top_missing": []
+},
+{
+"id": "s117",
+"title": "Black Sails",
+"tmdb": 47665,
+"how": "manuale",
+"tmdb_name": "Black Sails",
+"tmdb_year": "2014",
+"file_year": "2014",
+"creators_file": [
+"Jonathan E. Steinberg",
+"Robert Levine"
+],
+"creators_tmdb": [
+"Robert Levine",
+"Jonathan E. Steinberg"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Jonathan E. Steinberg",
+"problem": "foto mancante",
+"tmdb_img": "/vI3o4bfRkabbJiNcbBPtiRVKVfR.jpg"
+},
+{
+"name": "Robert Levine",
+"problem": "foto mancante",
+"tmdb_img": "/kmB14z6AnBvRogMH6zSh1KpQpy5.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": []
+},
+{
+"id": "s118",
+"title": "The Queen's Gambit",
+"tmdb": 87739,
+"how": "manuale",
+"tmdb_name": "The Queen's Gambit",
+"tmdb_year": "2020",
+"file_year": "2020",
+"creators_file": [
+"Scott Frank"
+],
+"creators_tmdb": [
+"Scott Frank",
+"Allan Scott"
+],
+"creators_missing_in_file": [
+"Allan Scott"
+],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Scott Frank",
+"problem": "foto mancante",
+"tmdb_img": "/xoaCq1717lTUl89dHU4WdO1BM2L.jpg"
+}
+],
+"cast_issues": [],
+"top_missing": [
+{
+"name": "Marcin Dorociński",
+"eps": 5,
+"role": "Vasily Borgov",
+"img": "/pyPUnMHxNPKKYxn8PehQJfSbZzO.jpg"
+},
+{
+"name": "Janina Elkin",
+"eps": 4,
+"role": "Borgov's Wife",
+"img": "/qIr7wSTTawDM8KaPWJ9yMIShwQ5.jpg"
+},
+{
+"name": "Harry Melling",
+"eps": 4,
+"role": "Harry Beltik",
+"img": "/pecqrci8S0yROqyd80K5s8LTaAR.jpg"
+}
+]
+},
+{
+"id": "s119",
+"title": "When They See Us",
+"tmdb": 81355,
+"how": "manuale",
+"tmdb_name": "When They See Us",
+"tmdb_year": "2019",
+"file_year": "2019",
+"creators_file": [
+"Ava DuVernay"
+],
+"creators_tmdb": [
+"Ava DuVernay"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Ava DuVernay",
+"problem": "foto mancante",
+"tmdb_img": "/84rc8I3Wf5zkCWGMNeTtmRekHW0.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Michael K. Williams",
+"problem": "non nel cast TMDB"
+}
+],
+"top_missing": [
+{
+"name": "Michael Kenneth Williams",
+"eps": 4,
+"role": "Bobby McCray",
+"img": "/mafEXtGlT1qYjGmZtbjo7Ep5qK3.jpg"
+}
+]
+},
+{
+"id": "s126",
+"title": "The Mandalorian",
+"tmdb": 82856,
+"how": "manuale",
+"tmdb_name": "The Mandalorian",
+"tmdb_year": "2019",
+"file_year": "2019",
+"creators_file": [
+"Jon Favreau"
+],
+"creators_tmdb": [
+"Jon Favreau"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Jon Favreau",
+"problem": "foto mancante",
+"tmdb_img": "/8MtRRnEHaBSw8Ztdl8saXiw1egP.jpg"
+}
+],
+"cast_issues": [
+{
+"name": "Julia Jones",
+"problem": "foto diversa",
+"file": "/5MDt4lh6Zwrv5aCJfTV2i3rxwXl.jpg",
+"tmdb_img": "/sXxhcP2UyQUnNXXi20OMpVzxtBM.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Misty Rosas",
+"eps": 10,
+"role": "Frog Lady",
+"img": "/aCa0ukemG7x3wAxtR1BM5v0BvrL.jpg"
+},
+{
+"name": "Chris Bartlett",
+"eps": 10,
+"role": "Teacher Droid Performer",
+"img": "/63o4rr3zUlfkKAxru94RSfosMo0.jpg"
+},
+{
+"name": "Carl Weathers",
+"eps": 10,
+"role": "Greef Karga",
+"img": "/oUwtC5hEbcIZv53WPerZ9HhlSJR.jpg"
+},
+{
+"name": "Emily Swallow",
+"eps": 9,
+"role": "Armorer",
+"img": "/jlgPZqdMsQaVv30oMqc40LzHYIw.jpg"
+},
+{
+"name": "Brendan Wayne",
+"eps": 9,
+"role": "Mandalorian Warrior",
+"img": "/klsNR0ld4NjURhhn3PYZetFkaCK.jpg"
+},
+{
+"name": "Giancarlo Esposito",
+"eps": 9,
+"role": "Moff Gideon",
+"img": "/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+}
+]
+},
+{
+"id": "s127",
+"title": "Star Wars: The Clone Wars",
+"tmdb": 4194,
+"how": "manuale",
+"tmdb_name": "Star Wars: The Clone Wars",
+"tmdb_year": "2008",
+"file_year": "2008",
+"creators_file": [
+"George Lucas",
+"Dave Filoni"
+],
+"creators_tmdb": [
+"George Lucas"
+],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [
+"Dave Filoni"
+],
+"creator_photo_issues": [
+{
+"name": "George Lucas",
+"problem": "foto mancante",
+"tmdb_img": "/mDLDvsx8PaZoEThkBdyaG1JxPdf.jpg"
+},
+{
+"name": "Dave Filoni",
+"problem": "foto mancante (creatore non in TMDB)"
+}
+],
+"cast_issues": [
+{
+"name": "David Tennant",
+"problem": "foto diversa",
+"file": "/mGfrEMbxjUWjek1WDSq1j4TULIR.jpg",
+"tmdb_img": "/syFdcmvI86Pn5YYfZLZlbkvCsj3.jpg"
+},
+{
+"name": "James Arnold Taylor",
+"problem": "foto diversa",
+"file": "/sSthBDGT8HBd2hXRNPymA6D0ov8.jpg",
+"tmdb_img": "/A6J14W5kxsuEKXaRkiOXBIROO9t.jpg"
+}
+],
+"top_missing": [
+{
+"name": "Ian Abercrombie",
+"eps": 29,
+"role": "Darth Sidious / Pirate #2 (voice)",
+"img": "/fKAYk2Fp5GzKizw4wlUgNPIt136.jpg"
+}
+]
+},
+{
+"id": "s128",
+"title": "And Then There Were None",
+"tmdb": 64684,
+"how": "manuale",
+"tmdb_name": "And Then There Were None",
+"tmdb_year": "2015",
+"file_year": "2015",
+"creators_file": [
+"Sarah Phelps"
+],
+"creators_tmdb": [],
+"creators_missing_in_file": [],
+"creators_extra_in_file": [],
+"creator_photo_issues": [
+{
+"name": "Sarah Phelps",
+"problem": "foto mancante (creatore non in TMDB)"
+}
+],
+"cast_issues": [],
+"top_missing": []
+}
+]
