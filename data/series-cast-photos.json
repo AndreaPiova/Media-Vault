@@ -1,94 +1,26 @@
 {
- "s104": {
-  "Scott Thompson": {
-   "found": "Scott Thompson",
-   "profile": "/lBvadhxdANl9JQo6HkK7ou4jWkS.jpg",
-   "roles": [
-    "Jimmy Price"
-   ],
-   "episodes": 27
-  },
-  "Aaron Abrams": {
-   "found": "Aaron Abrams",
-   "profile": "/uCtc7ouysFZ5dMwcTXiKw1ezuL.jpg",
-   "roles": [
-    "Brian Zeller"
-   ],
-   "episodes": 27
-  },
-  "Raúl Esparza": {
-   "found": "Raúl Esparza",
-   "profile": "/m0qln1HWU0u29x4kAww719bndAw.jpg",
-   "roles": [
-    "Dr. Frederick Chilton"
-   ],
-   "episodes": 12
-  },
-  "Kacey Rohl": {
-   "found": "Kacey Rohl",
-   "profile": "/q8GJEM0Efuz2LLeEIdXQFOAHNRL.jpg",
-   "roles": [
-    "Abigail Hobbs"
-   ],
-   "episodes": 13
-  }
- },
- "s117": {
-  "Zach McGowan": {
-   "found": "Zach McGowan",
-   "profile": "/hX7UXULOo6PBALjUgl2gYKx9ZNw.jpg",
-   "roles": [
-    "Captain Charles Vane"
-   ],
-   "episodes": 28
-  },
-  "Clara Paget": {
-   "found": "Clara Paget",
-   "profile": "/8Z3cGEoXy5g1oMCIJfmwPcCXd3H.jpg",
-   "roles": [
-    "Anne Bonny"
-   ],
-   "episodes": 38
-  },
-  "Mark Ryan": {
-   "found": "Mark Ryan",
-   "profile": "/9I0mFMnJJutVwVsCJhh3PtfqtFv.jpg",
-   "roles": [
-    "Hal Gates"
-   ],
-   "episodes": 18
-  }
- },
  "s119": {
-  "Aunjanue Ellis-Taylor": {
-   "found": "Aunjanue Ellis-Taylor",
-   "profile": "/e54DfgDyS67xdtomYODFule6Ofa.jpg",
+  "Michael Kenneth Williams": {
+   "found": "Michael Kenneth Williams",
+   "profile": "/mafEXtGlT1qYjGmZtbjo7Ep5qK3.jpg",
    "roles": [
-    "Sharonne Salaam"
+    "Bobby McCray"
    ],
    "episodes": 4
   },
-  "Niecy Nash-Betts": {
-   "found": "Niecy Nash-Betts",
-   "profile": "/1QblRt1zawcjTHrdXyzAwtdXKYl.jpg",
-   "roles": [
-    "Deloris Wise"
-   ],
-   "episodes": 4
-  },
-  "Felicity Huffman": {
-   "found": "Felicity Huffman",
-   "profile": "/jiNWZu8YZqOKRHaxRM4tbvBKyfP.jpg",
-   "roles": [
-    "Linda Fairstein"
-   ],
-   "episodes": 4
-  },
-  "Michael K. Williams": {
+  "Michael Williams": {
    "found": null,
    "profile": null,
    "roles": [],
    "episodes": null
+  },
+  "Williams": {
+   "found": "Michael Kenneth Williams",
+   "profile": "/mafEXtGlT1qYjGmZtbjo7Ep5qK3.jpg",
+   "roles": [
+    "Bobby McCray"
+   ],
+   "episodes": 4
   }
  }
 }
