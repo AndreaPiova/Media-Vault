@@ -1,0 +1,103 @@
+{
+ "search": [
+  {
+   "id": 309974,
+   "name": "Love Unseen Beneath the Clear Night Sky",
+   "orig": "透明な夜に駆ける君と、目に見えない恋をした。",
+   "date": "2026-07-06"
+  },
+  {
+   "id": 305814,
+   "name": "Love Unseen Beneath the Clear Night Sky",
+   "orig": "透明な夜に駆ける君と、目に見えない恋をした。",
+   "date": "2025-12-12"
+  }
+ ],
+ "tmdb": 309974,
+ "name": "Love Unseen Beneath the Clear Night Sky",
+ "episodes": 12,
+ "seasons": [
+  {
+   "n": 1,
+   "eps": 12,
+   "date": "2026-07-06",
+   "poster": "/VFf7AIm3MmT0732y3ukh9hRZOE.jpg"
+  }
+ ],
+ "status": "Ended",
+ "first": "2026-07-06",
+ "last": "2026-09-21",
+ "runtime": [
+  24
+ ],
+ "genres": [
+  "Animation",
+  "Drama"
+ ],
+ "overview_it": "Kakeru Sorano, un tranquillo studente al primo anno di università che tende a evitare gli altri, incontra Koharu Fuyutsuki, una ragazza cieca che affronta il mondo con una serena positività. Quando lei pronuncia le parole \"Vorrei tanto vedere i fuochi d'artificio, un giorno\", qualcosa in Kakeru cambia. Mentre i due si avvicinano sempre di più, uniti da piccoli momenti e da una comune solitudine, il ragazzo inizia a cercare un modo per esaudire il suo desiderio.",
+ "overview_en": "Kakeru Sorano, a quiet university freshman who avoids others, meets Koharu Fuyutsuki, a blind girl who faces the world with quiet brightness. When she says, “I want to see fireworks someday,” something in Kakeru shifts. As they grow closer through small moments and shared loneliness, he searches for a way to make her wish come true.",
+ "poster": "/orV0LKMAjKZzY1NJVEIwUFjLvWq.jpg",
+ "backdrop": "/g9MeGvfwHXldvVOttIybvaNfLEM.jpg",
+ "studios": [
+  "Makaria",
+  "Shochiku",
+  "SB Creative",
+  "viviON",
+  "AT-X",
+  "CLARE VOICE"
+ ],
+ "created_by": [],
+ "cast": [
+  {
+   "name": "Miyu Irino",
+   "role": "Kakeru Sorano (voice)",
+   "eps": 12
+  },
+  {
+   "name": "Saori Hayami",
+   "role": "Koharu Fuyutsuki (voice)",
+   "eps": 12
+  },
+  {
+   "name": "Konomi Kohara",
+   "role": "Yuuko Hayase (voice)",
+   "eps": 11
+  },
+  {
+   "name": "Yohei Azakami",
+   "role": "Ushio Narumi (voice)",
+   "eps": 11
+  },
+  {
+   "name": "Ryuichi Kijima",
+   "role": "Yuichi Kotomugi (voice)",
+   "eps": 4
+  },
+  {
+   "name": "Mamiko Noto",
+   "role": "Haruka Fuyutsuki (voice)",
+   "eps": 4
+  },
+  {
+   "name": "Mifuyu Nakajima",
+   "role": "Volunteer Recruitment Officer Kiriyama-san (voice)",
+   "eps": 3
+  },
+  {
+   "name": "Haruna Kawasaki",
+   "role": "Bright and Sparkly Tsumugi-chan (voice)",
+   "eps": 3
+  },
+  {
+   "name": "Kazuya Kanzaki",
+   "role": "Barista (voice)",
+   "eps": 2
+  },
+  {
+   "name": "Mikoto Nakai",
+   "role": "Water Bus Announcement (voice)",
+   "eps": 2
+  }
+ ],
+ "poster_saved": true
+}
