@@ -1,0 +1,5769 @@
+{
+"anime": {
+"a1": {
+"via": "titolo",
+"anilist": {
+"id": 16498,
+"titolo": "Attack on Titan",
+"formato": "TV",
+"anno": 2013
+},
+"genres": [
+"Action",
+"Drama",
+"Fantasy",
+"Mystery"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Eren Yeager",
+"Mikasa Ackerman",
+"Armin Arlert"
+],
+"foto_diverse": [
+{
+"name": "Levi Ackerman",
+"foto_id": 40881,
+"anilist_id": 45627,
+"anilist_name": "Levi",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png"
+}
+]
+},
+"a2": {
+"via": "titolo",
+"anilist": {
+"id": 21,
+"titolo": "ONE PIECE",
+"formato": "TV",
+"anno": 1999
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Drama",
+"Fantasy"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Monkey D. Rufy",
+"Roronoa Zoro",
+"Sanji",
+"Nico Robin",
+"Nami",
+"Tony Tony Chopper",
+"Usopp",
+"Brook",
+"Franky",
+"Jinbe"
+],
+"foto_diverse": []
+},
+"a3": {
+"via": "titolo",
+"anilist": {
+"id": 136,
+"titolo": "Hunter x Hunter",
+"formato": "TV",
+"anno": 1999
+},
+"genres": [
+"Action",
+"Adventure",
+"Fantasy"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Killua Zoldyck",
+"Kurapika",
+"Gon Freecss",
+"Leorio Paladiknight"
+],
+"foto_diverse": []
+},
+"a4": {
+"via": "titolo",
+"anilist": {
+"id": 20954,
+"titolo": "A Silent Voice",
+"formato": "MOVIE",
+"anno": 2016
+},
+"genres": [
+"Drama",
+"Romance",
+"Slice of Life"
+],
+"mancanti": [
+{
+"name": "Shouya Ishida",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b80491-NK6pxb6oH61P.png"
+}
+],
+"principali_nel_file": [
+"Shoko Nishimiya"
+],
+"foto_diverse": []
+},
+"a5": {
+"via": "id MAL",
+"anilist": {
+"id": 21519,
+"titolo": "Your Name.",
+"formato": "MOVIE",
+"anno": 2016
+},
+"genres": [
+"Drama",
+"Romance",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Mitsuha Miyamizu",
+"Taki Tachibana"
+],
+"foto_diverse": []
+},
+"a6": {
+"via": "titolo",
+"anilist": {
+"id": 113415,
+"titolo": "JUJUTSU KAISEN",
+"formato": "TV",
+"anno": 2020
+},
+"genres": [
+"Action",
+"Drama",
+"Supernatural"
+],
+"mancanti": [
+{
+"name": "Yuuji Itadori",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b127212-FVm2tD0erQ5B.png"
+}
+],
+"principali_nel_file": [
+"Satoru Gojo",
+"Megumi Fushiguro",
+"Nobara Kugisaki"
+],
+"foto_diverse": []
+},
+"a7": {
+"via": "titolo",
+"anilist": {
+"id": 105333,
+"titolo": "Dr. STONE",
+"formato": "TV",
+"anno": 2019
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Sci-Fi"
+],
+"mancanti": [
+{
+"name": "Senkuu Ishigami",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b124142-XUO1g7wRqkaT.png"
+},
+{
+"name": "Tsukasa Shishiou",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b124144-KOjcmhunbvYn.png"
+},
+{
+"name": "Taiju Ooki",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b124146-TeXd4r0upuIX.jpg"
+}
+],
+"principali_nel_file": [
+"Kohaku",
+"Chrome",
+"Yuzuriha Ogawa"
+],
+"foto_diverse": []
+},
+"a8": {
+"via": "titolo",
+"anilist": {
+"id": 101348,
+"titolo": "Vinland Saga",
+"formato": "TV",
+"anno": 2019
+},
+"genres": [
+"Action",
+"Adventure",
+"Drama"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Thorfinn",
+"Askeladd",
+"Canute"
+],
+"foto_diverse": []
+},
+"a9": {
+"via": "titolo",
+"anilist": {
+"id": 97986,
+"titolo": "Made in Abyss",
+"formato": "TV",
+"anno": 2017
+},
+"genres": [
+"Adventure",
+"Drama",
+"Fantasy",
+"Horror",
+"Mystery",
+"Sci-Fi"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Reg",
+"Riko"
+],
+"foto_diverse": []
+},
+"a10": {
+"via": "titolo",
+"anilist": {
+"id": 124080,
+"titolo": "Horimiya",
+"formato": "TV",
+"anno": 2021
+},
+"genres": [
+"Comedy",
+"Romance",
+"Slice of Life"
+],
+"mancanti": [
+{
+"name": "Kyouko Hori",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b66171-o2vk3689wWFK.png"
+}
+],
+"principali_nel_file": [
+"Izumi Miyamura"
+],
+"foto_diverse": []
+},
+"a11": {
+"via": "titolo",
+"anilist": {
+"id": 11771,
+"titolo": "Kuroko's Basketball",
+"formato": "TV",
+"anno": 2012
+},
+"genres": [
+"Comedy",
+"Sports"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Tetsuya Kuroko",
+"Taiga Kagami"
+],
+"foto_diverse": []
+},
+"a12": {
+"via": "titolo",
+"anilist": {
+"id": 20623,
+"titolo": "Parasyte -the maxim-",
+"formato": "TV",
+"anno": 2014
+},
+"genres": [
+"Action",
+"Drama",
+"Horror",
+"Psychological",
+"Sci-Fi"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Shinichi Izumi",
+"Migi"
+],
+"foto_diverse": []
+},
+"a13": {
+"via": "titolo",
+"anilist": {
+"id": 21234,
+"titolo": "ERASED",
+"formato": "TV",
+"anno": 2016
+},
+"genres": [
+"Drama",
+"Mystery",
+"Psychological",
+"Supernatural",
+"Thriller"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Satoru Fujinuma",
+"Kayo Hinazuki"
+],
+"foto_diverse": []
+},
+"a14": {
+"via": "titolo",
+"anilist": {
+"id": 5114,
+"titolo": "Fullmetal Alchemist: Brotherhood",
+"formato": "TV",
+"anno": 2009
+},
+"genres": [
+"Action",
+"Adventure",
+"Drama",
+"Fantasy"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Edward Elric",
+"Alphonse Elric"
+],
+"foto_diverse": []
+},
+"a15": {
+"via": "titolo",
+"anilist": {
+"id": 9253,
+"titolo": "Steins;Gate",
+"formato": "TV",
+"anno": 2011
+},
+"genres": [
+"Drama",
+"Psychological",
+"Sci-Fi",
+"Thriller"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Kurisu Makise",
+"Rintaro Okabe",
+"Mayuri Shiina",
+"Suzuha Amane",
+"Itaru Hashida"
+],
+"foto_diverse": []
+},
+"a16": {
+"via": "titolo",
+"anilist": {
+"id": 1535,
+"titolo": "Death Note",
+"formato": "TV",
+"anno": 2006
+},
+"genres": [
+"Mystery",
+"Psychological",
+"Supernatural",
+"Thriller"
+],
+"mancanti": [],
+"principali_nel_file": [
+"L",
+"Light Yagami",
+"Ryuk",
+"Misa Amane",
+"Mello",
+"Near"
+],
+"foto_diverse": []
+},
+"a17": {
+"via": "id MAL",
+"anilist": {
+"id": 1575,
+"titolo": "Code Geass: Lelouch of the Rebellion",
+"formato": "TV",
+"anno": 2006
+},
+"genres": [
+"Action",
+"Drama",
+"Mecha",
+"Sci-Fi",
+"Thriller"
+],
+"mancanti": [
+{
+"name": "Kallen Stadtfeld",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b558-8tSMZ4a0LWrn.jpg"
+}
+],
+"principali_nel_file": [
+"Lelouch Lamperouge",
+"C.C.",
+"Suzaku Kururugi"
+],
+"foto_diverse": []
+},
+"a18": {
+"via": "titolo",
+"anilist": {
+"id": 127230,
+"titolo": "Chainsaw Man",
+"formato": "TV",
+"anno": 2022
+},
+"genres": [
+"Action",
+"Drama",
+"Horror",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Makima",
+"Denji",
+"Power",
+"Aki Hayakawa"
+],
+"foto_diverse": []
+},
+"a19": {
+"via": "titolo",
+"anilist": {
+"id": 2001,
+"titolo": "Gurren Lagann",
+"formato": "TV",
+"anno": 2007
+},
+"genres": [
+"Action",
+"Comedy",
+"Drama",
+"Mecha",
+"Romance",
+"Sci-Fi"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Kamina",
+"Simon",
+"Yoko Littner",
+"Nia Teppelin"
+],
+"foto_diverse": []
+},
+"a20": {
+"via": "titolo",
+"anilist": {
+"id": 120377,
+"titolo": "Cyberpunk: Edgerunners",
+"formato": "ONA",
+"anno": 2022
+},
+"genres": [
+"Action",
+"Drama",
+"Psychological",
+"Sci-Fi"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Lucy",
+"David Martinez"
+],
+"foto_diverse": []
+},
+"a21": {
+"via": "titolo",
+"anilist": {
+"id": 155783,
+"titolo": "Tengoku Daimakyo",
+"formato": "TV",
+"anno": 2023
+},
+"genres": [
+"Adventure",
+"Mystery",
+"Sci-Fi",
+"Thriller"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Kiruko",
+"Maru"
+],
+"foto_diverse": []
+},
+"a22": {
+"via": "titolo",
+"anilist": {
+"id": 20,
+"titolo": "Naruto",
+"formato": "TV",
+"anno": 2002
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Drama",
+"Fantasy",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Kakashi Hatake",
+"Naruto Uzumaki",
+"Sasuke Uchiha",
+"Sakura Haruno"
+],
+"foto_diverse": []
+},
+"a23": {
+"via": "titolo",
+"anilist": {
+"id": 666,
+"titolo": "JoJo's Bizarre Adventure",
+"formato": "OVA",
+"anno": 1993
+},
+"genres": [
+"Action",
+"Adventure",
+"Drama",
+"Horror",
+"Supernatural"
+],
+"mancanti": [
+{
+"name": "Mohammed Avdol",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b8946-BumWgNGkPP9W.jpg"
+}
+],
+"principali_nel_file": [
+"Joseph Joestar",
+"Jotaro Kujo",
+"Kakyoin Noriaki",
+"Polnareff",
+"Iggy"
+],
+"foto_diverse": []
+},
+"a24": {
+"via": "titolo",
+"anilist": {
+"id": 101921,
+"titolo": "Kaguya-sama: Love is War",
+"formato": "TV",
+"anno": 2019
+},
+"genres": [
+"Comedy",
+"Psychological",
+"Romance",
+"Slice of Life"
+],
+"mancanti": [
+{
+"name": "Yuu Ishigami",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b121102-tiQFxnSEIAwm.png"
+}
+],
+"principali_nel_file": [
+"Kaguya Shinomiya",
+"Chika Fujiwara",
+"Miyuki Shirogane"
+],
+"foto_diverse": []
+},
+"a25": {
+"via": "titolo",
+"anilist": {
+"id": 20755,
+"titolo": "Assassination Classroom",
+"formato": "TV",
+"anno": 2015
+},
+"genres": [
+"Action",
+"Comedy",
+"Drama",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Koro-sensei",
+"Nagisa Shiota"
+],
+"foto_diverse": []
+},
+"a26": {
+"via": "titolo",
+"anilist": {
+"id": 132405,
+"titolo": "My Dress-Up Darling",
+"formato": "TV",
+"anno": 2022
+},
+"genres": [
+"Comedy",
+"Ecchi",
+"Romance",
+"Slice of Life"
+],
+"mancanti": [
+{
+"name": "Wakana Gojou",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b133678-IitCgjDxQGgu.png"
+}
+],
+"principali_nel_file": [
+"Marin Kitagawa"
+],
+"foto_diverse": []
+},
+"a27": {
+"via": "id MAL",
+"anilist": {
+"id": 129201,
+"titolo": "Summer Time Rendering",
+"formato": "TV",
+"anno": 2022
+},
+"genres": [
+"Action",
+"Drama",
+"Mystery",
+"Supernatural",
+"Thriller"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Mio Kofune",
+"Shinpei Ajiro",
+"Hizuru Minakata",
+"Ushio Kofune"
+],
+"foto_diverse": []
+},
+"a28": {
+"via": "titolo",
+"anilist": {
+"id": 98659,
+"titolo": "Classroom of the Elite",
+"formato": "TV",
+"anno": 2017
+},
+"genres": [
+"Drama",
+"Psychological"
+],
+"mancanti": [
+{
+"name": "Airi Sakura",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b123215-sMQJk35TqQv4.jpg"
+}
+],
+"principali_nel_file": [
+"Kiyotaka Ayanokoji",
+"Suzune Horikita",
+"Kikyo Kushida"
+],
+"foto_diverse": []
+},
+"a29": {
+"via": "titolo",
+"anilist": {
+"id": 128893,
+"titolo": "Hell’s Paradise",
+"formato": "TV",
+"anno": 2023
+},
+"genres": [
+"Action",
+"Adventure",
+"Mystery",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Gabimaru",
+"Sagiri",
+"Toma Sagiri"
+],
+"foto_diverse": []
+},
+"a30": {
+"via": "titolo",
+"anilist": {
+"id": 120120,
+"titolo": "Tokyo Revengers",
+"formato": "TV",
+"anno": 2021
+},
+"genres": [
+"Action",
+"Drama",
+"Romance",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Manjiro Sano (Mikey)",
+"Ken Ryuguji (Draken)",
+"Takemichi Hanagaki"
+],
+"foto_diverse": []
+},
+"a31": {
+"via": "titolo",
+"anilist": {
+"id": 107663,
+"titolo": "ASTRA LOST IN SPACE",
+"formato": "TV",
+"anno": 2019
+},
+"genres": [
+"Adventure",
+"Mystery",
+"Sci-Fi"
+],
+"mancanti": [
+{
+"name": "Luca Esposito",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b139437-84E5W3JMfzRU.png"
+},
+{
+"name": "Yun-Hua Lu",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b139436-1ehzIE6ALT9M.png"
+}
+],
+"principali_nel_file": [
+"Kanata Hoshijima",
+"Aries Spring",
+"Ulgar Zweig",
+"Zack Walker",
+"Quitterie Raffaeli",
+"Charce Lacroix",
+"Funicia Raffaeli"
+],
+"foto_diverse": []
+},
+"a32": {
+"via": "titolo",
+"anilist": {
+"id": 151807,
+"titolo": "Solo Leveling",
+"formato": "TV",
+"anno": 2024
+},
+"genres": [
+"Action",
+"Adventure",
+"Fantasy"
+],
+"mancanti": [
+{
+"name": "Jin-U Seong",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png"
+}
+],
+"principali_nel_file": [],
+"foto_diverse": []
+},
+"a33": {
+"via": "titolo",
+"anilist": {
+"id": 137822,
+"titolo": "BLUE LOCK",
+"formato": "TV",
+"anno": 2022
+},
+"genres": [
+"Action",
+"Drama",
+"Sports"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Meguru Bachira",
+"Yoichi Isagi",
+"Hyoma Chigiri",
+"Rensuke Kunigami"
+],
+"foto_diverse": []
+},
+"a34": {
+"via": "titolo",
+"anilist": {
+"id": 20661,
+"titolo": "Terror in Resonance",
+"formato": "TV",
+"anno": 2014
+},
+"genres": [
+"Drama",
+"Mystery",
+"Psychological",
+"Thriller"
+],
+"mancanti": [
+{
+"name": "Kenjirou Shibasaki",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/88302.jpg"
+}
+],
+"principali_nel_file": [
+"Twelve",
+"Nine",
+"Lisa Mishima"
+],
+"foto_diverse": []
+},
+"a35": {
+"via": "titolo",
+"anilist": {
+"id": 140960,
+"titolo": "SPY x FAMILY",
+"formato": "TV",
+"anno": 2022
+},
+"genres": [
+"Action",
+"Comedy",
+"Slice of Life",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Yor Forger",
+"Anya Forger",
+"Loid Forger"
+],
+"foto_diverse": []
+},
+"a36": {
+"via": "titolo",
+"anilist": {
+"id": 101347,
+"titolo": "Dororo",
+"formato": "TV",
+"anno": 2019
+},
+"genres": [
+"Action",
+"Adventure",
+"Drama",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Hyakkimaru",
+"Dororo"
+],
+"foto_diverse": []
+},
+"a37": {
+"via": "titolo",
+"anilist": {
+"id": 115230,
+"titolo": "Tower of God",
+"formato": "TV",
+"anno": 2020
+},
+"genres": [
+"Action",
+"Adventure",
+"Drama",
+"Fantasy",
+"Mystery"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Khun Aguero Agnis",
+"Bam",
+"Rak Wraithraiser",
+"Rachel"
+],
+"foto_diverse": []
+},
+"a38": {
+"via": "titolo",
+"anilist": {
+"id": 141014,
+"titolo": "Tomodachi Game",
+"formato": "ONA",
+"anno": 2022
+},
+"genres": [
+"Drama",
+"Mystery",
+"Psychological",
+"Thriller"
+],
+"mancanti": [
+{
+"name": "Yuuichi Katagiri",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b122064-p5x9pgsdjj4W.jpg"
+},
+{
+"name": "Tenji Mikasa",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b127639-xhIRxtOdTnim.jpg"
+}
+],
+"principali_nel_file": [
+"Shiho Sawaragi",
+"Yutori Kokorogi",
+"Makoto Shibe"
+],
+"foto_diverse": []
+},
+"a39": {
+"via": "titolo",
+"anilist": {
+"id": 14345,
+"titolo": "BTOOOM!",
+"formato": "TV",
+"anno": 2012
+},
+"genres": [
+"Action",
+"Psychological",
+"Sci-Fi"
+],
+"mancanti": [
+{
+"name": "Ryouta Sakamoto",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b49657-nzR3zSiM9Q2z.png"
+}
+],
+"principali_nel_file": [
+"Himiko Kinoshita"
+],
+"foto_diverse": []
+},
+"a40": {
+"via": "titolo",
+"anilist": {
+"id": 100922,
+"titolo": "Grand Blue Dreaming",
+"formato": "TV",
+"anno": 2018
+},
+"genres": [
+"Comedy",
+"Slice of Life",
+"Sports"
+],
+"mancanti": [
+{
+"name": "Kouhei Imamura",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b125917-FBK4DlUGycsr.jpg"
+}
+],
+"principali_nel_file": [
+"Chisa Kotegawa",
+"Iori Kitahara",
+"Aina Yoshiwara"
+],
+"foto_diverse": []
+},
+"a41": {
+"via": "titolo",
+"anilist": {
+"id": 21087,
+"titolo": "One-Punch Man",
+"formato": "TV",
+"anno": 2015
+},
+"genres": [
+"Action",
+"Comedy",
+"Sci-Fi",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Saitama",
+"Genos"
+],
+"foto_diverse": []
+},
+"a42": {
+"via": "titolo",
+"anilist": {
+"id": 21459,
+"titolo": "My Hero Academia",
+"formato": "TV",
+"anno": 2016
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Katsuki Bakugo",
+"Izuku Midoriya",
+"All Might",
+"Ochaco Uraraka"
+],
+"foto_diverse": []
+},
+"a43": {
+"via": "titolo",
+"anilist": {
+"id": 20849,
+"titolo": "God Eater",
+"formato": "TV",
+"anno": 2015
+},
+"genres": [
+"Action",
+"Sci-Fi"
+],
+"mancanti": [
+{
+"name": "Alisa Ilichina Amiella",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b37154-RandT6dKNHlS.png"
+}
+],
+"principali_nel_file": [
+"Lenka Utsugi"
+],
+"foto_diverse": []
+},
+"a44": {
+"via": "titolo",
+"anilist": {
+"id": 20596,
+"titolo": "Blue Spring Ride",
+"formato": "TV",
+"anno": 2014
+},
+"genres": [
+"Drama",
+"Romance",
+"Slice of Life"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Kou Mabuchi",
+"Futaba Yoshioka"
+],
+"foto_diverse": []
+},
+"a45": {
+"via": "titolo",
+"anilist": {
+"id": 101759,
+"titolo": "The Promised Neverland",
+"formato": "TV",
+"anno": 2019
+},
+"genres": [
+"Drama",
+"Fantasy",
+"Horror",
+"Mystery",
+"Psychological",
+"Thriller"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Ray",
+"Norman",
+"Emma"
+],
+"foto_diverse": []
+},
+"a46": {
+"via": "id MAL",
+"anilist": {
+"id": 101922,
+"titolo": "Demon Slayer: Kimetsu no Yaiba",
+"formato": "TV",
+"anno": 2019
+},
+"genres": [
+"Action",
+"Adventure",
+"Drama",
+"Fantasy",
+"Supernatural"
+],
+"mancanti": [
+{
+"name": "Tanjirou Kamado",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png"
+}
+],
+"principali_nel_file": [
+"Inosuke Hashibira",
+"Nezuko Kamado",
+"Zenitsu Agatsuma"
+],
+"foto_diverse": []
+},
+"a47": {
+"via": "titolo",
+"anilist": {
+"id": 99088,
+"titolo": "PLUTO",
+"formato": "ONA",
+"anno": 2023
+},
+"genres": [
+"Action",
+"Drama",
+"Mecha",
+"Mystery",
+"Psychological",
+"Sci-Fi",
+"Thriller"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Gesicht",
+"Atom"
+],
+"foto_diverse": []
+},
+"a48": {
+"via": "titolo",
+"anilist": {
+"id": 113596,
+"titolo": "Josee, the Tiger and the Fish",
+"formato": "MOVIE",
+"anno": 2020
+},
+"genres": [
+"Drama",
+"Romance",
+"Slice of Life"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Josee",
+"Tsuneo Suzukawa"
+],
+"foto_diverse": []
+},
+"a49": {
+"via": "titolo",
+"anilist": {
+"id": 99750,
+"titolo": "I Want to Eat Your Pancreas",
+"formato": "MOVIE",
+"anno": 2018
+},
+"genres": [
+"Drama",
+"Romance",
+"Slice of Life"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Sakura Yamauchi",
+"Haruki Shiga"
+],
+"foto_diverse": []
+},
+"a50": {
+"via": "titolo",
+"anilist": {
+"id": 21507,
+"titolo": "Mob Psycho 100",
+"formato": "TV",
+"anno": 2016
+},
+"genres": [
+"Action",
+"Comedy",
+"Drama",
+"Psychological",
+"Slice of Life",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Arataka Reigen",
+"Shigeo Kageyama",
+"Dimple",
+"Ekubo",
+"Ritsu Kageyama"
+],
+"foto_diverse": []
+},
+"a51": {
+"via": "titolo",
+"anilist": {
+"id": 19815,
+"titolo": "No Game, No Life",
+"formato": "TV",
+"anno": 2014
+},
+"genres": [
+"Adventure",
+"Comedy",
+"Ecchi",
+"Fantasy"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Shiro",
+"Sora",
+"Jibril",
+"Stephanie Dola"
+],
+"foto_diverse": []
+},
+"a52": {
+"via": "titolo",
+"anilist": {
+"id": 9989,
+"titolo": "Anohana: The Flower We Saw That Day",
+"formato": "TV",
+"anno": 2011
+},
+"genres": [
+"Drama",
+"Romance",
+"Slice of Life",
+"Supernatural"
+],
+"mancanti": [
+{
+"name": "Naruko Anjou",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b40593-3N05kRft0s8d.jpg"
+}
+],
+"principali_nel_file": [
+"Menma Honma",
+"Jinta Yadomi",
+"Tetsudo Hisakawa",
+"Atsumu Matsuyuki",
+"Chiriko Tsurumi"
+],
+"foto_diverse": []
+},
+"a53": {
+"via": "titolo",
+"anilist": {
+"id": 99420,
+"titolo": "Girls' Last Tour",
+"formato": "TV",
+"anno": 2017
+},
+"genres": [
+"Adventure",
+"Sci-Fi",
+"Slice of Life"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Chito",
+"Yuuri"
+],
+"foto_diverse": []
+},
+"a54": {
+"via": "titolo",
+"anilist": {
+"id": 110353,
+"titolo": "DECA-DENCE",
+"formato": "TV",
+"anno": 2020
+},
+"genres": [
+"Action",
+"Adventure",
+"Sci-Fi"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Natsume",
+"Kaburagi"
+],
+"foto_diverse": []
+},
+"a55": {
+"via": "titolo",
+"anilist": {
+"id": 20807,
+"titolo": "Prison School",
+"formato": "TV",
+"anno": 2015
+},
+"genres": [
+"Comedy",
+"Ecchi"
+],
+"mancanti": [
+{
+"name": "Reiji Andou",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/64855-dqYSdXomkkBS.png"
+}
+],
+"principali_nel_file": [
+"Gakuto Sudo",
+"Takehito Morokuzu",
+"Kiyoshi Fujino",
+"Jouji Nezu",
+"Shingo Wakamoto"
+],
+"foto_diverse": [
+{
+"name": "Chiyo Kurihara",
+"foto_id": 64859,
+"anilist_id": 64857,
+"anilist_name": "Kurihara",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b64857-77lOiS9FSocO.png"
+}
+]
+},
+"a56": {
+"via": "titolo",
+"anilist": {
+"id": 431,
+"titolo": "Howl‘s Moving Castle",
+"formato": "MOVIE",
+"anno": 2004
+},
+"genres": [
+"Adventure",
+"Drama",
+"Fantasy",
+"Romance"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Howl",
+"Sophie Hatter"
+],
+"foto_diverse": []
+},
+"a57": {
+"via": "titolo",
+"anilist": {
+"id": 21595,
+"titolo": "Haven't You Heard? I'm Sakamoto",
+"formato": "TV",
+"anno": 2016
+},
+"genres": [
+"Comedy",
+"Slice of Life"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Sakamoto"
+],
+"foto_diverse": []
+},
+"a58": {
+"via": "titolo",
+"anilist": {
+"id": 97922,
+"titolo": "INUYASHIKI LAST HERO",
+"formato": "TV",
+"anno": 2017
+},
+"genres": [
+"Action",
+"Drama",
+"Psychological",
+"Sci-Fi"
+],
+"mancanti": [
+{
+"name": "Ichirou Inuyashiki",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b123583-O5TgsLJBiN1k.jpg"
+}
+],
+"principali_nel_file": [
+"Hiro Shishigami"
+],
+"foto_diverse": []
+},
+"a59": {
+"via": "titolo",
+"anilist": {
+"id": 4224,
+"titolo": "Toradora!",
+"formato": "TV",
+"anno": 2008
+},
+"genres": [
+"Comedy",
+"Drama",
+"Romance",
+"Slice of Life"
+],
+"mancanti": [
+{
+"name": "Ryuuji Takasu",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b12295-d45uTNeJHuus.png"
+},
+{
+"name": "Yuusaku Kitamura",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b12306-Nb1orOh4UkpT.png"
+}
+],
+"principali_nel_file": [
+"Taiga Aisaka",
+"Ami Kawashima",
+"Minori Kushieda"
+],
+"foto_diverse": []
+},
+"a60": {
+"via": "titolo",
+"anilist": {
+"id": 128547,
+"titolo": "ODDTAXI",
+"formato": "TV",
+"anno": 2021
+},
+"genres": [
+"Drama",
+"Mystery",
+"Psychological",
+"Thriller"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Odokawa"
+],
+"foto_diverse": []
+},
+"a61": {
+"via": "titolo",
+"anilist": {
+"id": 124845,
+"titolo": "WONDER EGG PRIORITY",
+"formato": "TV",
+"anno": 2021
+},
+"genres": [
+"Action",
+"Drama",
+"Fantasy",
+"Mystery",
+"Psychological",
+"Sci-Fi",
+"Thriller"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Ai Ohto",
+"Rika Kawai",
+"Momoe Sawaki",
+"Neiru Aonuma"
+],
+"foto_diverse": []
+},
+"a62": {
+"via": "titolo",
+"anilist": {
+"id": 20931,
+"titolo": "Death Parade",
+"formato": "TV",
+"anno": 2015
+},
+"genres": [
+"Drama",
+"Mystery",
+"Psychological",
+"Supernatural",
+"Thriller"
+],
+"mancanti": [
+{
+"name": "Kurokami no Onna",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b82037-xvKHWk4AE4df.png"
+}
+],
+"principali_nel_file": [
+"Decim",
+"Nona",
+"Ginti"
+],
+"foto_diverse": []
+},
+"a63": {
+"via": "titolo",
+"anilist": {
+"id": 20997,
+"titolo": "Charlotte",
+"formato": "TV",
+"anno": 2015
+},
+"genres": [
+"Comedy",
+"Drama",
+"Romance",
+"Sci-Fi",
+"Supernatural"
+],
+"mancanti": [
+{
+"name": "Joujirou Takajou",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b88952-0wmPqlWytiRx.png"
+}
+],
+"principali_nel_file": [
+"Nao Tomori",
+"Yuu Otosaka",
+"Ayumi Otosaka",
+"Yusa Kurobane"
+],
+"foto_diverse": []
+},
+"a64": {
+"via": "id MAL",
+"anilist": {
+"id": 30,
+"titolo": "Neon Genesis Evangelion",
+"formato": "TV",
+"anno": 1995
+},
+"genres": [
+"Action",
+"Drama",
+"Mecha",
+"Mystery",
+"Psychological",
+"Sci-Fi"
+],
+"mancanti": [
+{
+"name": "Asuka Langley Souryuu",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b94-d631a3Z2KPvd.png"
+}
+],
+"principali_nel_file": [
+"Rei Ayanami",
+"Shinji Ikari",
+"Misato Katsuragi"
+],
+"foto_diverse": []
+},
+"a65": {
+"via": "titolo",
+"anilist": {
+"id": 98314,
+"titolo": "Kakegurui",
+"formato": "TV",
+"anno": 2017
+},
+"genres": [
+"Drama",
+"Mystery",
+"Psychological"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Yumeko Jabami",
+"Mary Saotome",
+"Ryota Suzui"
+],
+"foto_diverse": []
+},
+"a66": {
+"via": "titolo",
+"anilist": {
+"id": 10408,
+"titolo": "Into the Forest of Fireflies' Light",
+"formato": "MOVIE",
+"anno": 2011
+},
+"genres": [
+"Drama",
+"Fantasy",
+"Romance",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Gin",
+"Hotaru Takegawa"
+],
+"foto_diverse": []
+},
+"a67": {
+"via": "titolo",
+"anilist": {
+"id": 20832,
+"titolo": "Overlord",
+"formato": "TV",
+"anno": 2015
+},
+"genres": [
+"Action",
+"Adventure",
+"Fantasy"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Ainz Ooal Gown"
+],
+"foto_diverse": []
+},
+"a68": {
+"via": "titolo",
+"anilist": {
+"id": 16782,
+"titolo": "The Garden of Words",
+"formato": "MOVIE",
+"anno": 2013
+},
+"genres": [
+"Drama",
+"Psychological",
+"Romance",
+"Slice of Life"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Yukari Yukino",
+"Takao Akizuki"
+],
+"foto_diverse": []
+},
+"a69": {
+"via": "titolo",
+"anilist": {
+"id": 20613,
+"titolo": "Akame ga Kill!",
+"formato": "TV",
+"anno": 2014
+},
+"genres": [
+"Action",
+"Adventure",
+"Drama",
+"Fantasy",
+"Horror",
+"Psychological",
+"Thriller"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Akame",
+"Mine",
+"Leone",
+"Tatsumi",
+"Lubbock"
+],
+"foto_diverse": []
+},
+"a70": {
+"via": "titolo",
+"anilist": {
+"id": 21051,
+"titolo": "NANBAKA",
+"formato": "TV",
+"anno": 2016
+},
+"genres": [
+"Action",
+"Comedy",
+"Drama"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Jyugo",
+"Nico",
+"Uno",
+"Hajime Sugoroku",
+"Rock"
+],
+"foto_diverse": []
+},
+"a71": {
+"via": "titolo",
+"anilist": {
+"id": 20605,
+"titolo": "Tokyo Ghoul",
+"formato": "TV",
+"anno": 2014
+},
+"genres": [
+"Action",
+"Drama",
+"Horror",
+"Mystery",
+"Psychological",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Ken Kaneki",
+"Touka Kirishima"
+],
+"foto_diverse": []
+},
+"a72": {
+"via": "titolo",
+"anilist": {
+"id": 13125,
+"titolo": "From the New World",
+"formato": "TV",
+"anno": 2012
+},
+"genres": [
+"Drama",
+"Horror",
+"Mystery",
+"Psychological",
+"Sci-Fi",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Saki Watanabe",
+"Maria Akizuki",
+"Shun Aonuma",
+"Satoru Asahina",
+"Mamoru Itou"
+],
+"foto_diverse": []
+},
+"a73": {
+"via": "titolo",
+"anilist": {
+"id": 99629,
+"titolo": "Angels of Death",
+"formato": "TV",
+"anno": 2018
+},
+"genres": [
+"Action",
+"Adventure",
+"Horror",
+"Psychological",
+"Thriller"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Zack",
+"Rachel Gardner"
+],
+"foto_diverse": []
+},
+"a74": {
+"via": "titolo",
+"anilist": {
+"id": 10015,
+"titolo": "Yu-Gi-Oh! Zexal",
+"formato": "TV",
+"anno": 2011
+},
+"genres": [
+"Action",
+"Fantasy"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Yuma Tsukumo",
+"Astral",
+"Kotori Mizuki"
+],
+"foto_diverse": []
+},
+"a75": {
+"via": "titolo",
+"anilist": {
+"id": 21366,
+"titolo": "March comes in like a lion",
+"formato": "TV",
+"anno": 2016
+},
+"genres": [
+"Drama",
+"Slice of Life"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Rei Kiriyama",
+"Hinata Kawamoto",
+"Akari Kawamoto"
+],
+"foto_diverse": []
+},
+"a76": {
+"via": "titolo",
+"anilist": {
+"id": 103572,
+"titolo": "The Quintessential Quintuplets",
+"formato": "TV",
+"anno": 2019
+},
+"genres": [
+"Comedy",
+"Drama",
+"Romance",
+"Slice of Life"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Itsuki Nakano",
+"Miku Nakano",
+"Nino Nakano",
+"Yotsuba Nakano",
+"Ichika Nakano",
+"Fuutarou Uesugi"
+],
+"foto_diverse": []
+},
+"a77": {
+"via": "titolo",
+"anilist": {
+"id": 116589,
+"titolo": "86 EIGHTY-SIX",
+"formato": "TV",
+"anno": 2021
+},
+"genres": [
+"Action",
+"Drama",
+"Mecha",
+"Sci-Fi"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Vladilena Milize",
+"Shinei Nouzen"
+],
+"foto_diverse": []
+},
+"a78": {
+"via": "titolo",
+"anilist": {
+"id": 6547,
+"titolo": "Angel Beats!",
+"formato": "TV",
+"anno": 2010
+},
+"genres": [
+"Action",
+"Comedy",
+"Drama",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Kanade Tachibana",
+"Yuri Nakamura",
+"Yui",
+"Yuzuru Otonashi",
+"Hideki Hinata",
+"Ayato Naoi"
+],
+"foto_diverse": []
+},
+"a79": {
+"via": "titolo",
+"anilist": {
+"id": 134732,
+"titolo": "Aoashi",
+"formato": "TV",
+"anno": 2022
+},
+"genres": [
+"Drama",
+"Sports"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Ashito Aoi"
+],
+"foto_diverse": []
+},
+"a80": {
+"via": "titolo",
+"anilist": {
+"id": 9919,
+"titolo": "Blue Exorcist",
+"formato": "TV",
+"anno": 2011
+},
+"genres": [
+"Action",
+"Fantasy",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Rin Okumura",
+"Satan",
+"Yukio Okumura"
+],
+"foto_diverse": [
+{
+"name": "Satan",
+"foto_id": 48449,
+"anilist_id": 24482,
+"anilist_name": "Rin Okumura",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b24482-E6087V4uAVqL.jpg"
+}
+]
+},
+"a81": {
+"via": "titolo",
+"anilist": {
+"id": 170942,
+"titolo": "Blue Box",
+"formato": "ONA",
+"anno": 2024
+},
+"genres": [
+"Romance",
+"Slice of Life",
+"Sports"
+],
+"mancanti": [
+{
+"name": "Hina Chouno",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b218648-kXxXy8lPkeGV.png"
+}
+],
+"principali_nel_file": [
+"Chinatsu Kano",
+"Taiki Inomata"
+],
+"foto_diverse": []
+},
+"a82": {
+"via": "titolo",
+"anilist": {
+"id": 2402,
+"titolo": "Tomorrow's Joe",
+"formato": "TV",
+"anno": 1970
+},
+"genres": [
+"Action",
+"Drama",
+"Slice of Life",
+"Sports"
+],
+"mancanti": [
+{
+"name": "Tooru Rikiishi",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b20185-A2ItKKrpgfcB.png"
+}
+],
+"principali_nel_file": [
+"Joe Yabuki",
+"Danpei Tange",
+"Yoko Shiraki"
+],
+"foto_diverse": []
+},
+"a83": {
+"via": "titolo",
+"anilist": {
+"id": 2251,
+"titolo": "Baccano!",
+"formato": "TV",
+"anno": 2007
+},
+"genres": [
+"Action",
+"Mystery",
+"Supernatural"
+],
+"mancanti": [
+{
+"name": "Jacuzzi Splot",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b3500-YEmpuaayWHua.png"
+},
+{
+"name": "Czesław Meyer",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b3063-zkwLabVw5Pi9.png"
+},
+{
+"name": "Luck Gandor",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b3873-McB0RQvD2Ohi.png"
+},
+{
+"name": "Maiza Avaro",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b3498-nCCeiqkLIJv0.png"
+}
+],
+"principali_nel_file": [
+"Miria Harvent",
+"Isaac Dian",
+"Claire Stanfield",
+"Firo Prochainezo",
+"Ladd Russo",
+"Chane Laforet",
+"Ennis"
+],
+"foto_diverse": []
+},
+"a84": {
+"via": "titolo",
+"anilist": {
+"id": 5081,
+"titolo": "Bakemonogatari",
+"formato": "TV",
+"anno": 2009
+},
+"genres": [
+"Comedy",
+"Drama",
+"Mystery",
+"Psychological",
+"Romance",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Hitagi Senjougahara",
+"Koyomi Araragi",
+"Tsubasa Hanekawa",
+"Nadeko Sengoku",
+"Mayoi Hachikuji",
+"Suruga Kanbaru"
+],
+"foto_diverse": []
+},
+"a85": {
+"via": "titolo",
+"anilist": {
+"id": 100388,
+"titolo": "BANANA FISH",
+"formato": "TV",
+"anno": 2018
+},
+"genres": [
+"Action",
+"Drama",
+"Psychological",
+"Thriller"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Ash Lynx",
+"Eiji Okumura"
+],
+"foto_diverse": []
+},
+"a86": {
+"via": "titolo",
+"anilist": {
+"id": 97940,
+"titolo": "Black Clover",
+"formato": "TV",
+"anno": 2017
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Fantasy"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Asta",
+"Noelle Silva",
+"Yuno"
+],
+"foto_diverse": []
+},
+"a87": {
+"via": "titolo",
+"anilist": {
+"id": 269,
+"titolo": "Bleach",
+"formato": "TV",
+"anno": 2004
+},
+"genres": [
+"Action",
+"Adventure",
+"Supernatural"
+],
+"mancanti": [
+{
+"name": "Uryuu Ishida",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b564-a6LJitrjSfKC.jpg"
+}
+],
+"principali_nel_file": [
+"Ichigo Kurosaki",
+"Rukia Kuchiki",
+"Orihime Inoue",
+"Renji Abarai",
+"Yasutora Sado"
+],
+"foto_diverse": []
+},
+"a88": {
+"via": "override MAL",
+"anilist": {
+"id": 97938,
+"titolo": "Boruto: Naruto Next Generations",
+"formato": "TV",
+"anno": 2017
+},
+"genres": [
+"Action",
+"Adventure",
+"Fantasy"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Boruto Uzumaki",
+"Sarada Uchiha",
+"Mitsuki",
+"Kawaki"
+],
+"foto_diverse": []
+},
+"a89": {
+"via": "titolo",
+"anilist": {
+"id": 21311,
+"titolo": "Bungo Stray Dogs",
+"formato": "TV",
+"anno": 2016
+},
+"genres": [
+"Action",
+"Comedy",
+"Mystery",
+"Supernatural"
+],
+"mancanti": [
+{
+"name": "Ryuunosuke Akutagawa",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b89199-h8tHKG8vKPNZ.png"
+}
+],
+"principali_nel_file": [
+"Osamu Dazai",
+"Atsushi Nakajima",
+"Doppo Kunikida"
+],
+"foto_diverse": []
+},
+"a90": {
+"via": "titolo",
+"anilist": {
+"id": 1689,
+"titolo": "5 Centimeters per Second",
+"formato": "MOVIE",
+"anno": 2007
+},
+"genres": [
+"Drama",
+"Romance",
+"Slice of Life"
+],
+"mancanti": [
+{
+"name": "Takaki Tohno",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b1810-mqwzwrC5XnOW.png"
+}
+],
+"principali_nel_file": [
+"Akari Shinohara",
+"Kanae Sumida"
+],
+"foto_diverse": []
+},
+"a91": {
+"via": "titolo",
+"anilist": {
+"id": 151514,
+"titolo": "Orb: On the Movements of the Earth",
+"formato": "TV",
+"anno": 2024
+},
+"genres": [
+"Drama",
+"Psychological"
+],
+"mancanti": [
+{
+"name": "Badeni",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b279999-VKadGXZplQiE.png"
+},
+{
+"name": "Nowak",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b279996-MdHZp8RFDafh.png"
+},
+{
+"name": "Jolenta",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b279998-Jxzcihblmclf.png"
+},
+{
+"name": "Draka",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b280003-Fu17utO1VAsD.png"
+},
+{
+"name": "Schmitt",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b280005-7OvMzRzuFVPx.png"
+}
+],
+"principali_nel_file": [
+"Rafal",
+"Oczy"
+],
+"foto_diverse": []
+},
+"a92": {
+"via": "titolo",
+"anilist": {
+"id": 2167,
+"titolo": "Clannad",
+"formato": "TV",
+"anno": 2007
+},
+"genres": [
+"Comedy",
+"Drama",
+"Romance",
+"Slice of Life",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Tomoya Okazaki",
+"Nagisa Furukawa",
+"Tomoyo Sakagami",
+"Fuko Ibuki",
+"Kyou Fujibayashi",
+"Kotomi Ichinose",
+"Youhei Sunohara",
+"Ryou Fujibayashi"
+],
+"foto_diverse": []
+},
+"a93": {
+"via": "titolo",
+"anilist": {
+"id": 1818,
+"titolo": "Claymore",
+"formato": "TV",
+"anno": 2007
+},
+"genres": [
+"Action",
+"Adventure",
+"Fantasy",
+"Horror"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Clare",
+"Raki"
+],
+"foto_diverse": []
+},
+"a94": {
+"via": "titolo",
+"anilist": {
+"id": 1,
+"titolo": "Cowboy Bebop",
+"formato": "TV",
+"anno": 1998
+},
+"genres": [
+"Action",
+"Adventure",
+"Drama",
+"Sci-Fi"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Spike Spiegel",
+"Faye Valentine",
+"Edward",
+"Jet Black"
+],
+"foto_diverse": []
+},
+"a95": {
+"via": "titolo",
+"anilist": {
+"id": 1482,
+"titolo": "D.Gray-man",
+"formato": "TV",
+"anno": 2006
+},
+"genres": [
+"Action",
+"Adventure",
+"Drama",
+"Fantasy"
+],
+"mancanti": [
+{
+"name": "Yuu Kanda",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b140-vbv18x2l0tDw.png"
+}
+],
+"principali_nel_file": [
+"Allen Walker",
+"Lavi",
+"Lenalee Lee"
+],
+"foto_diverse": []
+},
+"a96": {
+"via": "titolo",
+"anilist": {
+"id": 171018,
+"titolo": "DAN DA DAN",
+"formato": "TV",
+"anno": 2024
+},
+"genres": [
+"Action",
+"Comedy",
+"Drama",
+"Romance",
+"Sci-Fi",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Momo Ayase",
+"Ken Takakura"
+],
+"foto_diverse": []
+},
+"a97": {
+"via": "titolo",
+"anilist": {
+"id": 98460,
+"titolo": "Devilman Crybaby",
+"formato": "ONA",
+"anno": 2018
+},
+"genres": [
+"Action",
+"Drama",
+"Horror",
+"Psychological",
+"Supernatural"
+],
+"mancanti": [
+{
+"name": "Akira Fudou",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b2456-rTjIXMLPHTu2.jpg"
+}
+],
+"principali_nel_file": [
+"Ryo Asuka",
+"Miki Makimura"
+],
+"foto_diverse": []
+},
+"a98": {
+"via": "titolo",
+"anilist": {
+"id": 119683,
+"titolo": "EDENS ZERO",
+"formato": "TV",
+"anno": 2021
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Fantasy",
+"Sci-Fi"
+],
+"mancanti": [
+{
+"name": "Homura Kougetsu",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b134910-s5J23uA2Jkow.png"
+},
+{
+"name": "Hermit Mio",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b154652-cI8zW1FoUVxP.jpg"
+},
+{
+"name": "Sister  Ivry",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b154653-JRXVBIFjAOTz.jpg"
+},
+{
+"name": "Witch  Regret",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b154254-62DER4tnyGed.png"
+}
+],
+"principali_nel_file": [
+"Shiki Granbell",
+"Rebecca Bluegarden",
+"Weisz Steiner",
+"Happy",
+"Pino"
+],
+"foto_diverse": []
+},
+"a99": {
+"via": "titolo",
+"anilist": {
+"id": 105310,
+"titolo": "Fire Force",
+"formato": "TV",
+"anno": 2019
+},
+"genres": [
+"Action",
+"Drama",
+"Sci-Fi",
+"Supernatural"
+],
+"mancanti": [
+{
+"name": "Akitaru Oubi",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b130712-N38fiCh2y0CX.png"
+}
+],
+"principali_nel_file": [
+"Iris",
+"Shinra Kusakabe",
+"Arthur Boyle",
+"Maki Oze",
+"Tamaki Kotatsu",
+"Takehisa Hinawa"
+],
+"foto_diverse": []
+},
+"a100": {
+"via": "titolo",
+"anilist": {
+"id": 6702,
+"titolo": "Fairy Tail",
+"formato": "TV",
+"anno": 2009
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Fantasy"
+],
+"mancanti": [
+{
+"name": "Charlés",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b22723-tAU59GCaf2H4.png"
+}
+],
+"principali_nel_file": [
+"Erza Scarlet",
+"Natsu Dragneel",
+"Lucy Heartfilia",
+"Gray Fullbuster",
+"Happy",
+"Wendy Marvell"
+],
+"foto_diverse": [
+{
+"name": "Zeref Dragneel",
+"foto_id": 5187,
+"anilist_id": 37720,
+"anilist_name": "Zeref",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/37720-WfpaYoeW2OkV.jpg"
+}
+]
+},
+"a101": {
+"via": "titolo",
+"anilist": {
+"id": 10087,
+"titolo": "Fate/Zero",
+"formato": "TV",
+"anno": 2011
+},
+"genres": [
+"Action",
+"Drama",
+"Fantasy",
+"Supernatural"
+],
+"mancanti": [
+{
+"name": "Diarmuid  Ua Duibhne",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b16022-rdonZr99a9XO.png"
+},
+{
+"name": "Gilles de Rais",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b16024-MZXEjshw6q6B.png"
+},
+{
+"name": "Ryuunosuke Uryuu",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b16019-nFljwebXHDqc.png"
+},
+{
+"name": "Kayneth Archibald El-Melloi",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b16028-ISNmfeK28uCj.png"
+}
+],
+"principali_nel_file": [
+"Saber",
+"Gilgamesh",
+"Kiritsugu Emiya",
+"Iskandar",
+"Kirei Kotomine",
+"Waver Velvet",
+"Irisviel von Einzbern",
+"Kariya Matou",
+"Tokiomi Tohsaka"
+],
+"foto_diverse": []
+},
+"a102": {
+"via": "titolo",
+"anilist": {
+"id": 120,
+"titolo": "Fruits Basket",
+"formato": "TV",
+"anno": 2001
+},
+"genres": [
+"Comedy",
+"Drama",
+"Romance",
+"Slice of Life",
+"Supernatural"
+],
+"mancanti": [
+{
+"name": "Yuki Souma",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b208-5TmAqqh82wNe.png"
+},
+{
+"name": "Shigure Souma",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b206-4HokrxTIqu7L.jpg"
+}
+],
+"principali_nel_file": [
+"Kyo Sohma",
+"Tohru Honda"
+],
+"foto_diverse": []
+},
+"a103": {
+"via": "titolo",
+"anilist": {
+"id": 114535,
+"titolo": "To Your Eternity",
+"formato": "TV",
+"anno": 2021
+},
+"genres": [
+"Adventure",
+"Drama",
+"Fantasy",
+"Psychological",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Fushi"
+],
+"foto_diverse": []
+},
+"a104": {
+"via": "titolo",
+"anilist": {
+"id": 178025,
+"titolo": "Gachiakuta",
+"formato": "TV",
+"anno": 2025
+},
+"genres": [
+"Action",
+"Drama",
+"Fantasy"
+],
+"mancanti": [
+{
+"name": "Riyou Reaper",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b275749-fglzDjaLZh1H.png"
+}
+],
+"principali_nel_file": [
+"Enjin",
+"Rudo",
+"Zanka"
+],
+"foto_diverse": []
+},
+"a105": {
+"via": "titolo",
+"anilist": {
+"id": 820,
+"titolo": "Legend of the Galactic Heroes",
+"formato": "OVA",
+"anno": 1988
+},
+"genres": [
+"Drama",
+"Sci-Fi"
+],
+"mancanti": [
+{
+"name": "Oskar von Reuenthal",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b6026-JN6eL036UiyU.png"
+},
+{
+"name": "Wolfgang Mittermeyer",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b12778-JBkV46RACdf5.png"
+},
+{
+"name": "Walter von Schönkopf",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b5897-8NIMQ45FQqbb.png"
+},
+{
+"name": "Hildegard von Mariendorf",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b12911-QXpGihTiSSJM.png"
+},
+{
+"name": "Frederica Greenhill",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b17789-1MMW4uRFD7Qp.png"
+},
+{
+"name": "Dusty Attenborough",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/n3869-bbAt9rac2s3H.png"
+}
+],
+"principali_nel_file": [
+"Yang Wenli",
+"Reinhard von Lohengramm",
+"Paul von Oberstein",
+"Siegfried Kircheis",
+"Julian Mintz"
+],
+"foto_diverse": []
+},
+"a106": {
+"via": "titolo",
+"anilist": {
+"id": 918,
+"titolo": "Gintama",
+"formato": "TV",
+"anno": 2006
+},
+"genres": [
+"Action",
+"Comedy",
+"Drama",
+"Sci-Fi"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Gintoki Sakata",
+"Kagura",
+"Shinpachi Shimura",
+"Sadaharu"
+],
+"foto_diverse": []
+},
+"a107": {
+"via": "titolo",
+"anilist": {
+"id": 99699,
+"titolo": "Golden Kamuy",
+"formato": "TV",
+"anno": 2018
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Saichi Sugimoto",
+"Asirpa",
+"Yoshitake Shiraishi"
+],
+"foto_diverse": []
+},
+"a108": {
+"via": "titolo",
+"anilist": {
+"id": 110349,
+"titolo": "Great Pretender",
+"formato": "ONA",
+"anno": 2020
+},
+"genres": [
+"Action",
+"Comedy",
+"Drama",
+"Thriller"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Laurent Thierry",
+"Abigail Jones",
+"Makoto Edamura",
+"Cynthia Moore"
+],
+"foto_diverse": []
+},
+"a109": {
+"via": "titolo",
+"anilist": {
+"id": 245,
+"titolo": "GTO: Great Teacher Onizuka",
+"formato": "TV",
+"anno": 1999
+},
+"genres": [
+"Comedy",
+"Drama",
+"Slice of Life"
+],
+"mancanti": [
+{
+"name": "Tomoko Nomura",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/6231.jpg"
+},
+{
+"name": "Kunio Murai",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/4119.jpg"
+},
+{
+"name": "Hiroshi Uchiyamada",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/6238.jpg"
+},
+{
+"name": "Miyabi Aizawa",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/6232.jpg"
+}
+],
+"principali_nel_file": [
+"Eikichi Onizuka",
+"Urumi Kanzaki",
+"Yoshito Kikuchi",
+"Azusa Fuyutsuki",
+"Noboru Yoshikawa"
+],
+"foto_diverse": []
+},
+"a110": {
+"via": "titolo",
+"anilist": {
+"id": 10271,
+"titolo": "Kaiji - Against All Rules",
+"formato": "TV",
+"anno": 2011
+},
+"genres": [
+"Psychological",
+"Thriller"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Kaiji Itou"
+],
+"foto_diverse": []
+},
+"a111": {
+"via": "titolo",
+"anilist": {
+"id": 387,
+"titolo": "Haibane Renmei",
+"formato": "TV",
+"anno": 2002
+},
+"genres": [
+"Drama",
+"Fantasy",
+"Mystery",
+"Psychological",
+"Slice of Life"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Reki",
+"Rakka"
+],
+"foto_diverse": []
+},
+"a112": {
+"via": "titolo",
+"anilist": {
+"id": 20464,
+"titolo": "HAIKYU!!",
+"formato": "TV",
+"anno": 2014
+},
+"genres": [
+"Comedy",
+"Drama",
+"Sports"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Shoyo Hinata",
+"Tobio Kageyama"
+],
+"foto_diverse": []
+},
+"a113": {
+"via": "titolo",
+"anilist": {
+"id": 19647,
+"titolo": "Hajime No Ippo: The Fighting! - Rising -",
+"formato": "TV",
+"anno": 2013
+},
+"genres": [
+"Comedy",
+"Drama",
+"Sports"
+],
+"mancanti": [
+{
+"name": "Tatsuya Kimura",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b847-Rp9l5vkXT79E.jpg"
+},
+{
+"name": "Manabu Itagaki",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b5184-ZllG2KJqeuc2.jpg"
+}
+],
+"principali_nel_file": [
+"Ippo Makunouchi",
+"Mamoru Takamura",
+"Genji Kamogawa",
+"Masaru Aoki"
+],
+"foto_diverse": []
+},
+"a114": {
+"via": "titolo",
+"anilist": {
+"id": 777,
+"titolo": "Hellsing Ultimate",
+"formato": "OVA",
+"anno": 2006
+},
+"genres": [
+"Action",
+"Horror",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Alucard",
+"Seras Victoria",
+"Integra Hellsing"
+],
+"foto_diverse": []
+},
+"a115": {
+"via": "titolo",
+"anilist": {
+"id": 578,
+"titolo": "Grave of the Fireflies",
+"formato": "MOVIE",
+"anno": 1988
+},
+"genres": [
+"Drama"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Setsuko",
+"Seita"
+],
+"foto_diverse": []
+},
+"a116": {
+"via": "titolo",
+"anilist": {
+"id": 98707,
+"titolo": "Land of the Lustrous",
+"formato": "TV",
+"anno": 2017
+},
+"genres": [
+"Action",
+"Drama",
+"Fantasy",
+"Mystery",
+"Psychological"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Phosphophyllite"
+],
+"foto_diverse": []
+},
+"a117": {
+"via": "titolo",
+"anilist": {
+"id": 12189,
+"titolo": "Hyouka",
+"formato": "TV",
+"anno": 2012
+},
+"genres": [
+"Mystery",
+"Romance",
+"Slice of Life"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Houtarou Oreki",
+"Eru Chitanda",
+"Mayaka Ibara",
+"Satoshi Fukube"
+],
+"foto_diverse": []
+},
+"a118": {
+"via": "titolo",
+"anilist": {
+"id": 5231,
+"titolo": "Inazuma Eleven",
+"formato": "TV",
+"anno": 2008
+},
+"genres": [
+"Drama",
+"Sports",
+"Supernatural"
+],
+"mancanti": [
+{
+"name": "Shuuya Gouenji",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b16413-CpiNlFdblxau.png"
+}
+],
+"principali_nel_file": [
+"Mamoru Endou",
+"Yuuto Kidou"
+],
+"foto_diverse": []
+},
+"a119": {
+"via": "titolo",
+"anilist": {
+"id": 108463,
+"titolo": "Toilet-bound Hanako-kun",
+"formato": "TV",
+"anno": 2020
+},
+"genres": [
+"Action",
+"Comedy",
+"Drama",
+"Mystery",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Hanako-kun",
+"Nene Yashiro",
+"Kou Minamoto"
+],
+"foto_diverse": []
+},
+"a120": {
+"via": "titolo",
+"anilist": {
+"id": 130298,
+"titolo": "The Eminence in Shadow",
+"formato": "TV",
+"anno": 2022
+},
+"genres": [
+"Action",
+"Comedy",
+"Fantasy"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Cid Kagenou",
+"Alpha",
+"Beta"
+],
+"foto_diverse": []
+},
+"a121": {
+"via": "titolo",
+"anilist": {
+"id": 153288,
+"titolo": "Kaiju No. 8",
+"formato": "TV",
+"anno": 2024
+},
+"genres": [
+"Action",
+"Sci-Fi"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Kafka Hibino",
+"Reno Ichikawa",
+"Kikoru Shinomiya"
+],
+"foto_diverse": []
+},
+"a122": {
+"via": "titolo",
+"anilist": {
+"id": 1604,
+"titolo": "REBORN!",
+"formato": "TV",
+"anno": 2006
+},
+"genres": [
+"Action",
+"Comedy",
+"Sci-Fi",
+"Slice of Life",
+"Supernatural"
+],
+"mancanti": [
+{
+"name": "Kyouya Hibari",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b1858-eqEEzEUEzAkH.jpg"
+},
+{
+"name": "Ryouhei Sasagawa",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b1861-mjcnbnpixWjR.png"
+}
+],
+"principali_nel_file": [
+"Tsunayoshi Sawada",
+"Hayato Gokudera",
+"Reborn",
+"Takeshi Yamamoto",
+"Rokudo Mukuro",
+"Lambo",
+"Chrome Dokuro"
+],
+"foto_diverse": []
+},
+"a123": {
+"via": "titolo",
+"anilist": {
+"id": 12031,
+"titolo": "Kingdom",
+"formato": "TV",
+"anno": 2012
+},
+"genres": [
+"Action",
+"Drama"
+],
+"mancanti": [
+{
+"name": "Lei Qiang",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b65445-bdvFkod8JpZ1.jpg"
+},
+{
+"name": "Liao Diao He",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b65407-Thy96GwaSNdf.png"
+}
+],
+"principali_nel_file": [
+"Xin",
+"Ying Zheng"
+],
+"foto_diverse": []
+},
+"a124": {
+"via": "titolo",
+"anilist": {
+"id": 3466,
+"titolo": "Kino no Tabi: the Beautiful World - Tou no Kuni: Free Lance",
+"formato": "OVA",
+"anno": 2005
+},
+"genres": [
+"Adventure",
+"Fantasy",
+"Psychological"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Kino",
+"Hermes"
+],
+"foto_diverse": []
+},
+"a125": {
+"via": "titolo",
+"anilist": {
+"id": 133965,
+"titolo": "Komi Can’t Communicate",
+"formato": "TV",
+"anno": 2021
+},
+"genres": [
+"Comedy",
+"Romance",
+"Slice of Life"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Shouko Komi",
+"Hitohito Tadano",
+"Najimi Osana"
+],
+"foto_diverse": []
+},
+"a126": {
+"via": "titolo",
+"anilist": {
+"id": 43,
+"titolo": "Ghost in the Shell",
+"formato": "MOVIE",
+"anno": 1995
+},
+"genres": [
+"Action",
+"Psychological",
+"Sci-Fi"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Motoko Kusanagi",
+"Batou",
+"Togusa"
+],
+"foto_diverse": []
+},
+"a174": {
+"via": "titolo",
+"anilist": {
+"id": 468,
+"titolo": "Ghost in the Shell 2: Innocence",
+"formato": "MOVIE",
+"anno": 2004
+},
+"genres": [
+"Action",
+"Psychological",
+"Sci-Fi"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Batou",
+"Togusa"
+],
+"foto_diverse": []
+},
+"a127": {
+"via": "titolo",
+"anilist": {
+"id": 21196,
+"titolo": "Kabaneri of the Iron Fortress",
+"formato": "TV",
+"anno": 2016
+},
+"genres": [
+"Action",
+"Drama",
+"Fantasy",
+"Horror",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Mumei",
+"Ikoma"
+],
+"foto_diverse": []
+},
+"a128": {
+"via": "titolo",
+"anilist": {
+"id": 161645,
+"titolo": "The Apothecary Diaries",
+"formato": "TV",
+"anno": 2023
+},
+"genres": [
+"Drama",
+"Mystery"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Maomao",
+"Jinshi"
+],
+"foto_diverse": []
+},
+"a129": {
+"via": "titolo",
+"anilist": {
+"id": 17265,
+"titolo": "Log Horizon",
+"formato": "TV",
+"anno": 2013
+},
+"genres": [
+"Action",
+"Adventure",
+"Fantasy"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Shiroe",
+"Akatsuki",
+"Naotsugu"
+],
+"foto_diverse": []
+},
+"a130": {
+"via": "override MAL",
+"anilist": {
+"id": 14513,
+"titolo": "Magi: The Labyrinth of Magic",
+"formato": "TV",
+"anno": 2012
+},
+"genres": [
+"Action",
+"Adventure",
+"Fantasy"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Morgiana",
+"Alibaba Saluja",
+"Aladdin"
+],
+"foto_diverse": []
+},
+"a131": {
+"via": "titolo",
+"anilist": {
+"id": 9756,
+"titolo": "Puella Magi Madoka Magica",
+"formato": "TV",
+"anno": 2011
+},
+"genres": [
+"Action",
+"Drama",
+"Fantasy",
+"Mahou Shoujo",
+"Psychological",
+"Thriller"
+],
+"mancanti": [
+{
+"name": "Kyouko Sakura",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b40006-zOwYYimuiO3m.png"
+},
+{
+"name": "Kyuubey",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b38566-XzE2iqAodRQK.jpg"
+}
+],
+"principali_nel_file": [
+"Homura Akemi",
+"Madoka Kaname",
+"Sayaka Miki",
+"Mami Tomoe"
+],
+"foto_diverse": []
+},
+"a132": {
+"via": "titolo",
+"anilist": {
+"id": 19,
+"titolo": "Monster",
+"formato": "TV",
+"anno": 2004
+},
+"genres": [
+"Drama",
+"Horror",
+"Mystery",
+"Psychological",
+"Thriller"
+],
+"mancanti": [
+{
+"name": "Heinrich Runge",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b721-VSOxZHBedxtD.png"
+}
+],
+"principali_nel_file": [
+"Johan Liebert",
+"Kenzo Tenma",
+"Nina Fortner",
+"Eva Heinemann"
+],
+"foto_diverse": []
+},
+"a133": {
+"via": "titolo",
+"anilist": {
+"id": 457,
+"titolo": "MUSHI-SHI",
+"formato": "TV",
+"anno": 2005
+},
+"genres": [
+"Adventure",
+"Fantasy",
+"Mystery",
+"Psychological",
+"Slice of Life",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Ginko"
+],
+"foto_diverse": []
+},
+"a134": {
+"via": "titolo",
+"anilist": {
+"id": 108465,
+"titolo": "Mushoku Tensei: Jobless Reincarnation",
+"formato": "TV",
+"anno": 2021
+},
+"genres": [
+"Adventure",
+"Drama",
+"Ecchi",
+"Fantasy"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Roxy Migurdia",
+"Rudeus Greyrat",
+"Eris Boreas Greyrat",
+"Sylphiette",
+"Ruijerd Superdia"
+],
+"foto_diverse": []
+},
+"a135": {
+"via": "titolo",
+"anilist": {
+"id": 1210,
+"titolo": "Welcome to the N-H-K",
+"formato": "TV",
+"anno": 2006
+},
+"genres": [
+"Comedy",
+"Drama",
+"Psychological",
+"Romance",
+"Slice of Life"
+],
+"mancanti": [
+{
+"name": "Tatsuhiro Satou",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b1839-siyzvmskIwLk.png"
+}
+],
+"principali_nel_file": [
+"Misaki Nakahara",
+"Kaoru Yamazaki"
+],
+"foto_diverse": []
+},
+"a136": {
+"via": "id MAL",
+"anilist": {
+"id": 20789,
+"titolo": "The Seven Deadly Sins",
+"formato": "TV",
+"anno": 2014
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Ecchi",
+"Fantasy",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Ban",
+"Meliodas",
+"King",
+"Diane",
+"Elizabeth Liones",
+"Gowther",
+"Hawk"
+],
+"foto_diverse": []
+},
+"a137": {
+"via": "titolo",
+"anilist": {
+"id": 20447,
+"titolo": "Noragami",
+"formato": "TV",
+"anno": 2014
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Yato",
+"Hiyori Iki",
+"Yukine"
+],
+"foto_diverse": []
+},
+"a138": {
+"via": "titolo",
+"anilist": {
+"id": 150672,
+"titolo": "OSHI NO KO",
+"formato": "TV",
+"anno": 2023
+},
+"genres": [
+"Drama",
+"Mystery",
+"Psychological",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Kana Arima",
+"Aquamarine Hoshino",
+"Ruby Hoshino"
+],
+"foto_diverse": []
+},
+"a139": {
+"via": "titolo",
+"anilist": {
+"id": 113717,
+"titolo": "Ranking of Kings",
+"formato": "TV",
+"anno": 2021
+},
+"genres": [
+"Action",
+"Adventure",
+"Drama",
+"Fantasy"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Bojji",
+"Kage"
+],
+"foto_diverse": []
+},
+"a140": {
+"via": "titolo",
+"anilist": {
+"id": 437,
+"titolo": "Perfect Blue",
+"formato": "MOVIE",
+"anno": 1998
+},
+"genres": [
+"Drama",
+"Horror",
+"Psychological",
+"Thriller"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Mima Kirigoe"
+],
+"foto_diverse": []
+},
+"a141": {
+"via": "titolo",
+"anilist": {
+"id": 20872,
+"titolo": "Plastic Memories",
+"formato": "TV",
+"anno": 2015
+},
+"genres": [
+"Drama",
+"Romance",
+"Sci-Fi",
+"Slice of Life"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Isla",
+"Tsukasa Mizugaki"
+],
+"foto_diverse": []
+},
+"a142": {
+"via": "titolo",
+"anilist": {
+"id": 13601,
+"titolo": "PSYCHO-PASS",
+"formato": "TV",
+"anno": 2012
+},
+"genres": [
+"Action",
+"Psychological",
+"Sci-Fi",
+"Thriller"
+],
+"mancanti": [
+{
+"name": "Shinya Kougami",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b68315-f9RBjyJCoj95.jpg"
+},
+{
+"name": "Shougo Makishima",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/n69725-Seck1SZfwQiR.jpg"
+}
+],
+"principali_nel_file": [
+"Akane Tsunemori"
+],
+"foto_diverse": []
+},
+"a143": {
+"via": "titolo",
+"anilist": {
+"id": 6114,
+"titolo": "Rainbow",
+"formato": "TV",
+"anno": 2010
+},
+"genres": [
+"Drama",
+"Psychological",
+"Thriller"
+],
+"mancanti": [
+{
+"name": "Rokurouta Sakuragi",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b31741-t3hrdLsHwFof.jpg"
+},
+{
+"name": "Mario Minakami",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b31742-0MsdSOjIxza9.png"
+},
+{
+"name": "Noboru Maeda",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/31746.jpg"
+},
+{
+"name": "Ryuuji Nomoto",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b31735-gG1yEJ4WTJ3Q.png"
+},
+{
+"name": "Mansaku Matsuura",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b31749-QxIx7Xt8FYJ6.png"
+}
+],
+"principali_nel_file": [
+"Joe Wakabayashi",
+"Heitai Suzuki"
+],
+"foto_diverse": []
+},
+"a144": {
+"via": "titolo",
+"anilist": {
+"id": 21355,
+"titolo": "Re:ZERO -Starting Life in Another World-",
+"formato": "TV",
+"anno": 2016
+},
+"genres": [
+"Action",
+"Adventure",
+"Drama",
+"Fantasy",
+"Psychological",
+"Romance",
+"Thriller"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Emilia",
+"Rem",
+"Subaru Natsuki",
+"Ram"
+],
+"foto_diverse": []
+},
+"a145": {
+"via": "titolo",
+"anilist": {
+"id": 19469,
+"titolo": "Saiki Kusuo no Ψ-nan (ONA)",
+"formato": "ONA",
+"anno": 2013
+},
+"genres": [
+"Slice of Life",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Kusuo Saiki"
+],
+"foto_diverse": []
+},
+"a146": {
+"via": "titolo",
+"anilist": {
+"id": 171046,
+"titolo": "Rascal Does Not Dream of Santa Claus",
+"formato": "TV",
+"anno": 2025
+},
+"genres": [
+"Drama",
+"Mystery",
+"Psychological",
+"Romance",
+"Supernatural"
+],
+"mancanti": [
+{
+"name": "Uzuki Hirokawa",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b144797-4Wbf9gYygNNC.png"
+},
+{
+"name": "Ikumi Akagi",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b264045-DenCJsXEmYCG.png"
+},
+{
+"name": "Miniskirt Santa",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b350441-hdQABUVKOxZm.png"
+},
+{
+"name": "Sara Himeji",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b308060-5VBtm5YbfAEx.png"
+}
+],
+"principali_nel_file": [
+"Mai Sakurajima",
+"Sakuta Azusagawa",
+"Nodoka Toyohama"
+],
+"foto_diverse": []
+},
+"a147": {
+"via": "titolo",
+"anilist": {
+"id": 199,
+"titolo": "Spirited Away",
+"formato": "MOVIE",
+"anno": 2001
+},
+"genres": [
+"Adventure",
+"Drama",
+"Fantasy",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Haku",
+"Chihiro Ogino"
+],
+"foto_diverse": []
+},
+"a148": {
+"via": "titolo",
+"anilist": {
+"id": 151970,
+"titolo": "Shangri-La Frontier",
+"formato": "TV",
+"anno": 2023
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Fantasy",
+"Sci-Fi"
+],
+"mancanti": [
+{
+"name": "Rakurou Hizutome",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b271367-RM6DwXf1D0gu.png"
+}
+],
+"principali_nel_file": [],
+"foto_diverse": []
+},
+"a149": {
+"via": "titolo",
+"anilist": {
+"id": 20665,
+"titolo": "Your lie in April",
+"formato": "TV",
+"anno": 2014
+},
+"genres": [
+"Drama",
+"Music",
+"Romance",
+"Slice of Life"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Kaori Miyazono",
+"Kousei Arima",
+"Ryouta Watari",
+"Tsubaki Sawabe"
+],
+"foto_diverse": []
+},
+"a150": {
+"via": "titolo",
+"anilist": {
+"id": 170,
+"titolo": "Slam Dunk",
+"formato": "TV",
+"anno": 1993
+},
+"genres": [
+"Comedy",
+"Drama",
+"Slice of Life",
+"Sports"
+],
+"mancanti": [
+{
+"name": "Ryouta Miyagi",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b312-QZ0Jv451096U.png"
+}
+],
+"principali_nel_file": [
+"Hanamichi Sakuragi",
+"Hisashi Mitsui",
+"Kaede Rukawa",
+"Takenori Akagi"
+],
+"foto_diverse": []
+},
+"a151": {
+"via": "titolo",
+"anilist": {
+"id": 3588,
+"titolo": "Soul Eater",
+"formato": "TV",
+"anno": 2008
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Fantasy",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Death the Kid",
+"Maka Albarn",
+"Soul Eater Evans",
+"Black Star",
+"Tsubaki Nakatsukasa",
+"Patty Thompson",
+"Liz Thompson"
+],
+"foto_diverse": [
+{
+"name": "Liz Thompson",
+"foto_id": 8444,
+"anilist_id": 8445,
+"anilist_name": "Elizabeth Thompson",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b8445-7BIqYhg3OKMn.png"
+}
+]
+},
+"a152": {
+"via": "titolo",
+"anilist": {
+"id": 154587,
+"titolo": "Frieren: Beyond Journey’s End",
+"formato": "TV",
+"anno": 2023
+},
+"genres": [
+"Adventure",
+"Drama",
+"Fantasy"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Frieren",
+"Fern",
+"Stark"
+],
+"foto_diverse": []
+},
+"a153": {
+"via": "titolo",
+"anilist": {
+"id": 513,
+"titolo": "Castle in the Sky",
+"formato": "MOVIE",
+"anno": 1986
+},
+"genres": [
+"Adventure",
+"Fantasy",
+"Sci-Fi"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Pazu",
+"Sheeta",
+"Dola",
+"Muska"
+],
+"foto_diverse": []
+},
+"a154": {
+"via": "titolo",
+"anilist": {
+"id": 101280,
+"titolo": "That Time I Got Reincarnated as a Slime",
+"formato": "TV",
+"anno": 2018
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Fantasy"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Rimuru Tempest"
+],
+"foto_diverse": []
+},
+"a155": {
+"via": "titolo",
+"anilist": {
+"id": 523,
+"titolo": "My Neighbor Totoro",
+"formato": "MOVIE",
+"anno": 1988
+},
+"genres": [
+"Adventure",
+"Fantasy",
+"Slice of Life",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Totoro",
+"Satsuki Kusakabe",
+"Mei Kusakabe"
+],
+"foto_diverse": []
+},
+"a156": {
+"via": "titolo",
+"anilist": {
+"id": 6,
+"titolo": "Trigun",
+"formato": "TV",
+"anno": 1998
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Drama",
+"Sci-Fi"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Vash the Stampede",
+"Nicholas D. Wolfwood",
+"Milly Thompson",
+"Meryl Stryfe"
+],
+"foto_diverse": []
+},
+"a157": {
+"via": "titolo",
+"anilist": {
+"id": 12431,
+"titolo": "Space Brothers",
+"formato": "TV",
+"anno": 2012
+},
+"genres": [
+"Comedy",
+"Sci-Fi",
+"Slice of Life"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Mutta Nanba",
+"Hibito Nanba"
+],
+"foto_diverse": []
+},
+"a158": {
+"via": "titolo",
+"anilist": {
+"id": 21827,
+"titolo": "Violet Evergarden",
+"formato": "TV",
+"anno": 2018
+},
+"genres": [
+"Drama",
+"Fantasy",
+"Slice of Life"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Violet Evergarden"
+],
+"foto_diverse": []
+},
+"a159": {
+"via": "titolo",
+"anilist": {
+"id": 128546,
+"titolo": "Vivy -Fluorite Eye's Song-",
+"formato": "TV",
+"anno": 2021
+},
+"genres": [
+"Action",
+"Drama",
+"Music",
+"Sci-Fi",
+"Thriller"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Vivy",
+"Matsumoto"
+],
+"foto_diverse": []
+},
+"a160": {
+"via": "titolo",
+"anilist": {
+"id": 99578,
+"titolo": "Wotakoi: Love is Hard for Otaku",
+"formato": "TV",
+"anno": 2018
+},
+"genres": [
+"Comedy",
+"Romance",
+"Slice of Life"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Hirotaka Nifuji",
+"Hanako Koyanagi",
+"Narumi Momose",
+"Tarou Kabakura"
+],
+"foto_diverse": []
+},
+"a161": {
+"via": "id MAL",
+"anilist": {
+"id": 14813,
+"titolo": "My Teen Romantic Comedy SNAFU",
+"formato": "TV",
+"anno": 2013
+},
+"genres": [
+"Comedy",
+"Drama",
+"Romance",
+"Slice of Life"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Hachiman Hikigaya",
+"Yukino Yukinoshita",
+"Yui Yuigahama"
+],
+"foto_diverse": [
+{
+"name": "Haruno Yukinoshita",
+"foto_id": 67067,
+"anilist_id": 79589,
+"anilist_name": "Haruno Yukinoshita",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b79589-4Rg565ditDez.png"
+}
+]
+},
+"a162": {
+"via": "titolo",
+"anilist": {
+"id": 392,
+"titolo": "Yu Yu Hakusho: Ghostfiles",
+"formato": "TV",
+"anno": 1992
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Yusuke Urameshi",
+"Hiei",
+"Kurama",
+"Kazuma Kuwabara"
+],
+"foto_diverse": []
+},
+"a163": {
+"via": "titolo",
+"anilist": {
+"id": 159831,
+"titolo": "Zom 100: Bucket List of the Dead",
+"formato": "TV",
+"anno": 2023
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Horror",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Shizuka Mikazuki",
+"Akira Tendou",
+"Beatrix Amerhauser",
+"Kencho Yamada"
+],
+"foto_diverse": []
+},
+"a164": {
+"via": "titolo",
+"anilist": {
+"id": 119675,
+"titolo": "SHAMAN KING (2021)",
+"formato": "TV",
+"anno": 2021
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Supernatural"
+],
+"mancanti": [
+{
+"name": "Anna Kyouyama",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b170-sQGhuNQ1g3HG.png"
+},
+{
+"name": "Chocolove McDonell",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/15349.jpg"
+}
+],
+"principali_nel_file": [
+"Yoh Asakura",
+"Hao Asakura",
+"Ren Tao",
+"Horohoro",
+"Amidamaru",
+"Faust VIII",
+"Ryu Umemiya",
+"Lyserg Diethel",
+"Manta Oyamada"
+],
+"foto_diverse": []
+},
+"a165": {
+"via": "titolo",
+"anilist": {
+"id": 33,
+"titolo": "Berserk",
+"formato": "TV",
+"anno": 1997
+},
+"genres": [
+"Action",
+"Adventure",
+"Drama",
+"Fantasy",
+"Horror",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Guts",
+"Griffith",
+"Casca"
+],
+"foto_diverse": []
+},
+"a166": {
+"via": "titolo",
+"anilist": {
+"id": 10162,
+"titolo": "Bunny Drop",
+"formato": "TV",
+"anno": 2011
+},
+"genres": [
+"Slice of Life"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Rin Kaga",
+"Daikichi Kawachi"
+],
+"foto_diverse": []
+},
+"a167": {
+"via": "titolo",
+"anilist": {
+"id": 164,
+"titolo": "Princess Mononoke",
+"formato": "MOVIE",
+"anno": 1997
+},
+"genres": [
+"Action",
+"Adventure",
+"Drama",
+"Fantasy"
+],
+"mancanti": [],
+"principali_nel_file": [
+"San",
+"Ashitaka"
+],
+"foto_diverse": []
+},
+"a168": {
+"via": "titolo",
+"anilist": {
+"id": 106286,
+"titolo": "Weathering With You",
+"formato": "MOVIE",
+"anno": 2019
+},
+"genres": [
+"Drama",
+"Romance",
+"Slice of Life",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Hina Amano",
+"Hodaka Morishima"
+],
+"foto_diverse": []
+},
+"a169": {
+"via": "titolo",
+"anilist": {
+"id": 181444,
+"titolo": "The Fragrant Flower Blooms With Dignity",
+"formato": "TV",
+"anno": 2025
+},
+"genres": [
+"Comedy",
+"Drama",
+"Romance"
+],
+"mancanti": [
+{
+"name": "Kaoruko Waguri",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b268676-aQmqvqj0DNoJ.png"
+},
+{
+"name": "Rintarou Tsumugi",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b268677-APMPGH67QqPr.jpg"
+}
+],
+"principali_nel_file": [],
+"foto_diverse": []
+},
+"a170": {
+"via": "titolo",
+"anilist": {
+"id": 147105,
+"titolo": "Witch Hat Atelier",
+"formato": "ONA",
+"anno": 2026
+},
+"genres": [
+"Adventure",
+"Drama",
+"Fantasy"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Qifrey",
+"Coco"
+],
+"foto_diverse": []
+},
+"a171": {
+"via": "titolo",
+"anilist": {
+"id": 177697,
+"titolo": "DEAD DEAD DEMONS DEDEDEDE DESTRUCTION",
+"formato": "ONA",
+"anno": 2024
+},
+"genres": [
+"Comedy",
+"Drama",
+"Sci-Fi",
+"Slice of Life"
+],
+"mancanti": [
+{
+"name": "Keita Ooba",
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b140043-0kMrP1oA5qn0.png"
+}
+],
+"principali_nel_file": [
+"Ouran Nakagawa",
+"Kadode Koyama"
+],
+"foto_diverse": []
+},
+"a172": {
+"via": "titolo",
+"anilist": {
+"id": 11757,
+"titolo": "Sword Art Online",
+"formato": "TV",
+"anno": 2012
+},
+"genres": [
+"Action",
+"Adventure",
+"Fantasy",
+"Romance"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Asuna Yuuki",
+"Kazuto Kirigaya",
+"Leafa"
+],
+"foto_diverse": []
+},
+"a173": {
+"via": "titolo",
+"anilist": {
+"id": 19603,
+"titolo": "Fate/stay night: Unlimited Blade Works",
+"formato": "TV",
+"anno": 2014
+},
+"genres": [
+"Action",
+"Fantasy",
+"Supernatural"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Rin Tohsaka",
+"Saber",
+"Shirou Emiya",
+"Archer"
+],
+"foto_diverse": []
+},
+"a175": {
+"via": "titolo",
+"anilist": {
+"id": 202269,
+"titolo": "Love Unseen Beneath the Clear Night Sky",
+"formato": "TV",
+"anno": 2026
+},
+"genres": [
+"Drama",
+"Romance"
+],
+"mancanti": [],
+"principali_nel_file": [
+"Koharu Fuyutsuki",
+"Kakeru Sorano"
+],
+"foto_diverse": []
+}
+},
+"manga": {
+"m1": {
+"via": "titolo",
+"anilist": {
+"id": 30051,
+"titolo": "Slam Dunk",
+"formato": "MANGA",
+"anno": 1990
+},
+"genres": [
+"Comedy",
+"Drama",
+"Sports"
+]
+},
+"m2": {
+"via": "titolo",
+"anilist": {
+"id": 105398,
+"titolo": "Solo Leveling",
+"formato": "MANGA",
+"anno": 2018
+},
+"genres": [
+"Action",
+"Adventure",
+"Fantasy"
+]
+},
+"m3": {
+"via": "titolo",
+"anilist": {
+"id": 47353,
+"titolo": "A Girl on the Shore",
+"formato": "MANGA",
+"anno": 2009
+},
+"genres": [
+"Drama",
+"Psychological",
+"Romance",
+"Slice of Life"
+]
+},
+"m4": {
+"via": "titolo",
+"anilist": {
+"id": 30003,
+"titolo": "20th Century Boys",
+"formato": "MANGA",
+"anno": 1999
+},
+"genres": [
+"Drama",
+"Mystery",
+"Psychological",
+"Sci-Fi",
+"Thriller"
+]
+},
+"m5": {
+"via": "titolo",
+"anilist": {
+"id": 30149,
+"titolo": "BLAME!",
+"formato": "MANGA",
+"anno": 1997
+},
+"genres": [
+"Action",
+"Drama",
+"Horror",
+"Psychological",
+"Sci-Fi"
+]
+},
+"m6": {
+"via": "titolo",
+"anilist": {
+"id": 106130,
+"titolo": "Blue Lock",
+"formato": "MANGA",
+"anno": 2018
+},
+"genres": [
+"Action",
+"Drama",
+"Sports"
+]
+},
+"m7": {
+"via": "titolo",
+"anilist": {
+"id": 106867,
+"titolo": "My Dearest Self With Malice Aforethought",
+"formato": "MANGA",
+"anno": 2018
+},
+"genres": [
+"Drama",
+"Horror",
+"Mystery",
+"Psychological",
+"Slice of Life",
+"Thriller"
+]
+},
+"m8": {
+"via": "titolo",
+"anilist": {
+"id": 45355,
+"titolo": "Before Dawn and the End of the World",
+"formato": "MANGA",
+"anno": 2008
+},
+"genres": [
+"Drama",
+"Slice of Life"
+]
+},
+"m9": {
+"via": "titolo",
+"anilist": {
+"id": 97553,
+"titolo": "Three Days of Happiness",
+"formato": "MANGA",
+"anno": 2016
+},
+"genres": [
+"Drama",
+"Psychological",
+"Romance",
+"Supernatural"
+]
+},
+"m10": {
+"via": "titolo",
+"anilist": {
+"id": 105778,
+"titolo": "Chainsaw Man",
+"formato": "MANGA",
+"anno": 2018
+},
+"genres": [
+"Action",
+"Comedy",
+"Drama",
+"Horror",
+"Supernatural"
+]
+},
+"m11": {
+"via": "titolo",
+"anilist": {
+"id": 98416,
+"titolo": "Dr. STONE",
+"formato": "MANGA",
+"anno": 2017
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Sci-Fi"
+]
+},
+"m12": {
+"via": "titolo",
+"anilist": {
+"id": 48511,
+"titolo": "All You Need is Kill",
+"formato": "NOVEL",
+"anno": 2004
+},
+"genres": [
+"Sci-Fi"
+]
+},
+"m13": {
+"via": "titolo",
+"anilist": {
+"id": 86551,
+"titolo": "Made in Abyss",
+"formato": "MANGA",
+"anno": 2012
+},
+"genres": [
+"Adventure",
+"Drama",
+"Fantasy",
+"Horror",
+"Sci-Fi"
+]
+},
+"m14": {
+"via": "titolo",
+"anilist": {
+"id": 30001,
+"titolo": "Monster",
+"formato": "MANGA",
+"anno": 1994
+},
+"genres": [
+"Drama",
+"Mystery",
+"Psychological",
+"Thriller"
+]
+},
+"m15": {
+"via": "titolo",
+"anilist": {
+"id": 30013,
+"titolo": "One Piece",
+"formato": "MANGA",
+"anno": 1997
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Fantasy"
+]
+},
+"m16": {
+"via": "titolo",
+"anilist": {
+"id": 85364,
+"titolo": "One Punch Man",
+"formato": "MANGA",
+"anno": 2009
+},
+"genres": [
+"Action",
+"Comedy",
+"Sci-Fi",
+"Supernatural"
+]
+},
+"m17": {
+"via": "titolo",
+"anilist": {
+"id": 30481,
+"titolo": "Planetes",
+"formato": "MANGA",
+"anno": 1999
+},
+"genres": [
+"Drama",
+"Psychological",
+"Sci-Fi",
+"Slice of Life"
+]
+},
+"m18": {
+"via": "titolo",
+"anilist": {
+"id": 30050,
+"titolo": "Shaman King",
+"formato": "MANGA",
+"anno": 1998
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Supernatural"
+]
+},
+"m19": {
+"via": "titolo",
+"anilist": {
+"id": 53390,
+"titolo": "Attack on Titan",
+"formato": "MANGA",
+"anno": 2009
+},
+"genres": [
+"Action",
+"Drama",
+"Fantasy",
+"Mystery"
+]
+},
+"m20": {
+"via": "titolo",
+"anilist": {
+"id": 87170,
+"titolo": "Fire Punch",
+"formato": "MANGA",
+"anno": 2016
+},
+"genres": [
+"Action",
+"Drama",
+"Mystery",
+"Psychological",
+"Supernatural",
+"Thriller"
+]
+},
+"m21": {
+"via": "titolo",
+"anilist": {
+"id": 102988,
+"titolo": "Tokyo Revengers",
+"formato": "MANGA",
+"anno": 2017
+},
+"genres": [
+"Action",
+"Drama",
+"Romance",
+"Supernatural"
+]
+},
+"m22": {
+"via": "titolo",
+"anilist": {
+"id": 30642,
+"titolo": "Vinland Saga",
+"formato": "MANGA",
+"anno": 2005
+},
+"genres": [
+"Action",
+"Adventure",
+"Drama"
+]
+},
+"m23": {
+"via": "titolo",
+"anilist": {
+"id": 30768,
+"titolo": "Battle Angel Alita",
+"formato": "MANGA",
+"anno": 1990
+},
+"genres": [
+"Action",
+"Sci-Fi"
+]
+},
+"m24": {
+"via": "titolo",
+"anilist": {
+"id": 30664,
+"titolo": "Akira",
+"formato": "MANGA",
+"anno": 1982
+},
+"genres": [
+"Action",
+"Horror",
+"Psychological",
+"Sci-Fi"
+]
+},
+"m25": {
+"via": "titolo",
+"anilist": {
+"id": 63031,
+"titolo": "Alice in Borderland",
+"formato": "MANGA",
+"anno": 2010
+},
+"genres": [
+"Action",
+"Drama",
+"Horror",
+"Psychological",
+"Supernatural",
+"Thriller"
+]
+},
+"m26": {
+"via": "titolo",
+"anilist": {
+"id": 30002,
+"titolo": "Berserk",
+"formato": "MANGA",
+"anno": 1989
+},
+"genres": [
+"Action",
+"Adventure",
+"Drama",
+"Fantasy",
+"Horror",
+"Psychological"
+]
+},
+"m27": {
+"via": "titolo",
+"anilist": {
+"id": 177806,
+"titolo": "Kaiju No. 8: Relax",
+"formato": "MANGA",
+"anno": 2024
+},
+"genres": [
+"Comedy",
+"Sci-Fi",
+"Slice of Life"
+]
+},
+"m28": {
+"via": "titolo",
+"anilist": {
+"id": 132029,
+"titolo": "Dandadan",
+"formato": "MANGA",
+"anno": 2021
+},
+"genres": [
+"Action",
+"Comedy",
+"Drama",
+"Romance",
+"Sci-Fi",
+"Supernatural"
+]
+},
+"m29": {
+"via": "titolo",
+"anilist": {
+"id": 85143,
+"titolo": "Tower of God",
+"formato": "MANGA",
+"anno": 2010
+},
+"genres": [
+"Action",
+"Adventure",
+"Drama",
+"Fantasy",
+"Mystery"
+]
+},
+"m30": {
+"via": "titolo",
+"anilist": {
+"id": 31303,
+"titolo": "Ashita no Joe: Fighting for Tomorrow",
+"formato": "MANGA",
+"anno": 1968
+},
+"genres": [
+"Drama",
+"Slice of Life",
+"Sports"
+]
+},
+"m31": {
+"via": "id MAL",
+"anilist": {
+"id": 107237,
+"titolo": "Blue Period",
+"formato": "MANGA",
+"anno": 2017
+},
+"genres": [
+"Drama",
+"Slice of Life"
+]
+},
+"m32": {
+"via": "titolo",
+"anilist": {
+"id": 30012,
+"titolo": "Bleach",
+"formato": "MANGA",
+"anno": 2001
+},
+"genres": [
+"Action",
+"Adventure",
+"Supernatural"
+]
+},
+"m33": {
+"via": "titolo",
+"anilist": {
+"id": 31133,
+"titolo": "Dorohedoro",
+"formato": "MANGA",
+"anno": 2000
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Fantasy",
+"Horror",
+"Mystery"
+]
+},
+"m34": {
+"via": "titolo",
+"anilist": {
+"id": 33986,
+"titolo": "Deadman Wonderland",
+"formato": "MANGA",
+"anno": 2007
+},
+"genres": [
+"Action",
+"Adventure",
+"Drama",
+"Sci-Fi",
+"Supernatural"
+]
+},
+"m35": {
+"via": "titolo",
+"anilist": {
+"id": 30021,
+"titolo": "Death Note",
+"formato": "MANGA",
+"anno": 2003
+},
+"genres": [
+"Drama",
+"Mystery",
+"Psychological",
+"Supernatural",
+"Thriller"
+]
+},
+"m36": {
+"via": "titolo",
+"anilist": {
+"id": 30025,
+"titolo": "Fullmetal Alchemist",
+"formato": "MANGA",
+"anno": 2001
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Drama",
+"Fantasy"
+]
+},
+"m37": {
+"via": "titolo",
+"anilist": {
+"id": 30336,
+"titolo": "GTO: Great Teacher Onizuka",
+"formato": "MANGA",
+"anno": 1997
+},
+"genres": [
+"Action",
+"Comedy",
+"Drama",
+"Ecchi"
+]
+},
+"m38": {
+"via": "titolo",
+"anilist": {
+"id": 30936,
+"titolo": "Homunculus",
+"formato": "MANGA",
+"anno": 2003
+},
+"genres": [
+"Drama",
+"Horror",
+"Mystery",
+"Psychological",
+"Supernatural"
+]
+},
+"m39": {
+"via": "titolo",
+"anilist": {
+"id": 34632,
+"titolo": "Goodnight Punpun",
+"formato": "MANGA",
+"anno": 2007
+},
+"genres": [
+"Drama",
+"Psychological",
+"Slice of Life"
+]
+},
+"m40": {
+"via": "titolo",
+"anilist": {
+"id": 74489,
+"titolo": "Land of the Lustrous",
+"formato": "MANGA",
+"anno": 2012
+},
+"genres": [
+"Action",
+"Drama",
+"Fantasy",
+"Mystery",
+"Psychological",
+"Sci-Fi"
+]
+},
+"m41": {
+"via": "titolo",
+"anilist": {
+"id": 44440,
+"titolo": "I Am a Hero",
+"formato": "MANGA",
+"anno": 2009
+},
+"genres": [
+"Action",
+"Horror",
+"Psychological"
+]
+},
+"m43": {
+"via": "titolo",
+"anilist": {
+"id": 45527,
+"titolo": "Jagan wa Gachirin ni Tobu",
+"formato": "MANGA",
+"anno": 2006
+},
+"genres": [
+"Action",
+"Psychological",
+"Supernatural"
+]
+},
+"m44": {
+"via": "titolo",
+"anilist": {
+"id": 33731,
+"titolo": "Solanin",
+"formato": "MANGA",
+"anno": 2005
+},
+"genres": [
+"Drama",
+"Music",
+"Slice of Life"
+]
+},
+"m45": {
+"via": "titolo",
+"anilist": {
+"id": 101517,
+"titolo": "Jujutsu Kaisen",
+"formato": "MANGA",
+"anno": 2018
+},
+"genres": [
+"Action",
+"Drama",
+"Supernatural"
+]
+},
+"m46": {
+"via": "titolo",
+"anilist": {
+"id": 116671,
+"titolo": "Juujika no Rokunin",
+"formato": "MANGA",
+"anno": 2020
+},
+"genres": [
+"Drama",
+"Psychological",
+"Thriller"
+]
+},
+"m47": {
+"via": "titolo",
+"anilist": {
+"id": 46765,
+"titolo": "Kingdom",
+"formato": "MANGA",
+"anno": 2006
+},
+"genres": [
+"Action",
+"Drama"
+]
+},
+"m48": {
+"via": "titolo",
+"anilist": {
+"id": 30418,
+"titolo": "Mushishi",
+"formato": "MANGA",
+"anno": 1999
+},
+"genres": [
+"Drama",
+"Fantasy",
+"Mystery",
+"Slice of Life",
+"Supernatural"
+]
+},
+"m49": {
+"via": "id MAL",
+"anilist": {
+"id": 30657,
+"titolo": "Real",
+"formato": "MANGA",
+"anno": 1999
+},
+"genres": [
+"Drama",
+"Psychological",
+"Sports"
+]
+},
+"m50": {
+"via": "titolo",
+"anilist": {
+"id": 96223,
+"titolo": "Sekai no Owari no Hajimari ni",
+"formato": "MANGA",
+"anno": 2014
+},
+"genres": [
+"Drama",
+"Horror"
+]
+},
+"m51": {
+"via": "titolo",
+"anilist": {
+"id": 107098,
+"titolo": "Record of Ragnarok",
+"formato": "MANGA",
+"anno": 2017
+},
+"genres": [
+"Action",
+"Drama",
+"Fantasy",
+"Supernatural"
+]
+},
+"m52": {
+"via": "titolo",
+"anilist": {
+"id": 108556,
+"titolo": "SPY x FAMILY",
+"formato": "MANGA",
+"anno": 2019
+},
+"genres": [
+"Action",
+"Comedy",
+"Slice of Life",
+"Supernatural"
+]
+},
+"m53": {
+"via": "titolo",
+"anilist": {
+"id": 38848,
+"titolo": "Sun-Ken Rock",
+"formato": "MANGA",
+"anno": 2006
+},
+"genres": [
+"Action",
+"Comedy",
+"Drama",
+"Ecchi"
+]
+},
+"m54": {
+"via": "titolo",
+"anilist": {
+"id": 31709,
+"titolo": "Tegami Bachi",
+"formato": "MANGA",
+"anno": 2006
+},
+"genres": [
+"Adventure",
+"Fantasy",
+"Mystery",
+"Slice of Life",
+"Supernatural"
+]
+},
+"m55": {
+"via": "titolo",
+"anilist": {
+"id": 100568,
+"titolo": "The Horizon",
+"formato": "MANGA",
+"anno": 2016
+},
+"genres": [
+"Adventure",
+"Drama",
+"Psychological"
+]
+},
+"m56": {
+"via": "titolo",
+"anilist": {
+"id": 87423,
+"titolo": "The Promised Neverland",
+"formato": "MANGA",
+"anno": 2016
+},
+"genres": [
+"Drama",
+"Fantasy",
+"Horror",
+"Mystery",
+"Psychological",
+"Thriller"
+]
+},
+"m57": {
+"via": "id MAL",
+"anilist": {
+"id": 85316,
+"titolo": "Dead Dead Demon's Dededede Destruction",
+"formato": "MANGA",
+"anno": 2014
+},
+"genres": [
+"Comedy",
+"Drama",
+"Sci-Fi",
+"Slice of Life"
+]
+},
+"m58": {
+"via": "titolo",
+"anilist": {
+"id": 98587,
+"titolo": "BEASTARS",
+"formato": "MANGA",
+"anno": 2016
+},
+"genres": [
+"Drama",
+"Mystery",
+"Psychological",
+"Romance",
+"Slice of Life"
+]
+},
+"m59": {
+"via": "titolo",
+"anilist": {
+"id": 30564,
+"titolo": "Gantz",
+"formato": "MANGA",
+"anno": 2000
+},
+"genres": [
+"Action",
+"Drama",
+"Ecchi",
+"Horror",
+"Psychological",
+"Sci-Fi",
+"Supernatural"
+]
+},
+"m60": {
+"via": "titolo",
+"anilist": {
+"id": 30583,
+"titolo": "Claymore",
+"formato": "MANGA",
+"anno": 2001
+},
+"genres": [
+"Action",
+"Adventure",
+"Fantasy",
+"Horror"
+]
+},
+"m61": {
+"via": "titolo",
+"anilist": {
+"id": 97830,
+"titolo": "To Your Eternity",
+"formato": "MANGA",
+"anno": 2016
+},
+"genres": [
+"Adventure",
+"Drama",
+"Fantasy",
+"Psychological",
+"Supernatural"
+]
+},
+"m62": {
+"via": "override MAL",
+"anilist": {
+"id": 98842,
+"titolo": "Toilet-Bound Hanako-kun",
+"formato": "MANGA",
+"anno": 2014
+},
+"genres": [
+"Action",
+"Comedy",
+"Drama",
+"Mystery",
+"Romance",
+"Supernatural"
+]
+},
+"m63": {
+"via": "titolo",
+"anilist": {
+"id": 100994,
+"titolo": "Hell’s Paradise: Jigokuraku",
+"formato": "MANGA",
+"anno": 2018
+},
+"genres": [
+"Action",
+"Adventure",
+"Mystery",
+"Supernatural"
+]
+},
+"m64": {
+"via": "titolo",
+"anilist": {
+"id": 39115,
+"titolo": "Spice & Wolf",
+"formato": "NOVEL",
+"anno": 2006
+},
+"genres": [
+"Adventure",
+"Drama",
+"Fantasy",
+"Romance",
+"Supernatural"
+]
+},
+"m65": {
+"via": "titolo",
+"anilist": {
+"id": 97852,
+"titolo": "Komi Can't Communicate",
+"formato": "MANGA",
+"anno": 2016
+},
+"genres": [
+"Comedy",
+"Romance",
+"Slice of Life"
+]
+},
+"m66": {
+"via": "titolo",
+"anilist": {
+"id": 43290,
+"titolo": "No Longer Human",
+"formato": "MANGA",
+"anno": 2009
+},
+"genres": [
+"Drama",
+"Psychological",
+"Slice of Life"
+]
+},
+"m67": {
+"via": "titolo",
+"anilist": {
+"id": 33031,
+"titolo": "Pandora Hearts",
+"formato": "MANGA",
+"anno": 2006
+},
+"genres": [
+"Action",
+"Adventure",
+"Drama",
+"Fantasy",
+"Mystery",
+"Psychological",
+"Supernatural"
+]
+},
+"m68": {
+"via": "titolo",
+"anilist": {
+"id": 30022,
+"titolo": "Rurouni Kenshin",
+"formato": "MANGA",
+"anno": 1994
+},
+"genres": [
+"Action",
+"Adventure",
+"Romance"
+]
+},
+"m69": {
+"via": "titolo",
+"anilist": {
+"id": 118586,
+"titolo": "Frieren: Beyond Journey’s End",
+"formato": "MANGA",
+"anno": 2020
+},
+"genres": [
+"Adventure",
+"Drama",
+"Fantasy"
+]
+},
+"m70": {
+"via": "titolo",
+"anilist": {
+"id": 30740,
+"titolo": "MPD Psycho",
+"formato": "MANGA",
+"anno": 1996
+},
+"genres": [
+"Mystery",
+"Psychological"
+]
+},
+"m71": {
+"via": "titolo",
+"anilist": {
+"id": 87395,
+"titolo": "Grand Blue Dreaming",
+"formato": "MANGA",
+"anno": 2014
+},
+"genres": [
+"Comedy",
+"Romance",
+"Slice of Life",
+"Sports"
+]
+},
+"m72": {
+"via": "titolo",
+"anilist": {
+"id": 85134,
+"titolo": "The Empty Box and Zeroth Maria",
+"formato": "NOVEL",
+"anno": 2009
+},
+"genres": [
+"Action",
+"Mystery",
+"Psychological",
+"Romance",
+"Supernatural",
+"Thriller"
+]
+},
+"m73": {
+"via": "titolo",
+"anilist": {
+"id": 94970,
+"titolo": "Classroom of the Elite",
+"formato": "NOVEL",
+"anno": 2015
+},
+"genres": [
+"Drama",
+"Psychological",
+"Slice of Life",
+"Thriller"
+]
+},
+"m74": {
+"via": "titolo",
+"anilist": {
+"id": 138366,
+"titolo": "Your Talent Is Mine",
+"formato": "MANGA",
+"anno": 2021
+},
+"genres": [
+"Action",
+"Fantasy"
+]
+},
+"m75": {
+"errore": "override search: nessun risultato"
+},
+"m76": {
+"via": "titolo",
+"anilist": {
+"id": 138222,
+"titolo": "Level Up with the Gods",
+"formato": "MANGA",
+"anno": 2021
+},
+"genres": [
+"Action",
+"Fantasy"
+]
+},
+"m77": {
+"via": "titolo",
+"anilist": {
+"id": 130566,
+"titolo": "Legend of an Asura - The Poison Dragon",
+"formato": "MANGA",
+"anno": 2021
+},
+"genres": [
+"Action",
+"Adventure",
+"Fantasy"
+]
+},
+"m78": {
+"via": "titolo",
+"anilist": {
+"id": 137304,
+"titolo": "Return of the Mad Demon",
+"formato": "MANGA",
+"anno": 2021
+},
+"genres": [
+"Action",
+"Fantasy"
+]
+},
+"m79": {
+"via": "titolo",
+"anilist": {
+"id": 141479,
+"titolo": "The Legendary Spearman Returns",
+"formato": "MANGA",
+"anno": 2021
+},
+"genres": [
+"Action",
+"Adventure",
+"Fantasy"
+]
+},
+"m80": {
+"via": "titolo",
+"anilist": {
+"id": 137280,
+"titolo": "I’m the Max-Level Newbie",
+"formato": "MANGA",
+"anno": 2021
+},
+"genres": [
+"Action",
+"Fantasy"
+]
+},
+"m81": {
+"via": "titolo",
+"anilist": {
+"id": 105393,
+"titolo": "A Returner's Magic Should Be Special",
+"formato": "MANGA",
+"anno": 2018
+},
+"genres": [
+"Action",
+"Adventure",
+"Fantasy"
+]
+},
+"m82": {
+"via": "titolo",
+"anilist": {
+"id": 118424,
+"titolo": "The Archmage Returns After 4000 Years",
+"formato": "MANGA",
+"anno": 2020
+},
+"genres": [
+"Action",
+"Adventure",
+"Fantasy"
+]
+},
+"m83": {
+"via": "titolo",
+"anilist": {
+"id": 120980,
+"titolo": "Nano Machine",
+"formato": "MANGA",
+"anno": 2020
+},
+"genres": [
+"Action",
+"Adventure",
+"Fantasy",
+"Sci-Fi"
+]
+},
+"m84": {
+"via": "titolo",
+"anilist": {
+"id": 119521,
+"titolo": "The Legend of the Northern Blade",
+"formato": "MANGA",
+"anno": 2019
+},
+"genres": [
+"Action",
+"Adventure",
+"Fantasy"
+]
+},
+"m85": {
+"via": "titolo",
+"anilist": {
+"id": 119257,
+"titolo": "Omniscient Reader",
+"formato": "MANGA",
+"anno": 2020
+},
+"genres": [
+"Action",
+"Adventure",
+"Fantasy"
+]
+},
+"m86": {
+"via": "titolo",
+"anilist": {
+"id": 126297,
+"titolo": "Teenage Mercenary",
+"formato": "MANGA",
+"anno": 2020
+},
+"genres": [
+"Action",
+"Drama"
+]
+},
+"m87": {
+"via": "titolo",
+"anilist": {
+"id": 94831,
+"titolo": "The God Game",
+"formato": "NOVEL",
+"anno": 2005
+},
+"genres": [
+"Action",
+"Drama",
+"Fantasy",
+"Romance",
+"Supernatural"
+]
+},
+"m88": {
+"via": "titolo",
+"anilist": {
+"id": 107720,
+"titolo": "Her Summon",
+"formato": "MANGA",
+"anno": 2018
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Fantasy",
+"Mystery"
+]
+},
+"m89": {
+"via": "titolo",
+"anilist": {
+"id": 108050,
+"titolo": "Reverend Insanity",
+"formato": "MANGA",
+"anno": 2018
+},
+"genres": [
+"Adventure",
+"Drama",
+"Fantasy",
+"Psychological",
+"Supernatural"
+]
+},
+"m90": {
+"via": "titolo",
+"anilist": {
+"id": 188249,
+"titolo": "Lord of Mysteries",
+"formato": "MANGA",
+"anno": 2025
+},
+"genres": [
+"Action",
+"Drama",
+"Fantasy",
+"Horror",
+"Mystery",
+"Thriller"
+]
+},
+"m91": {
+"errore": "override search: nessun risultato"
+},
+"m92": {
+"via": "override search",
+"anilist": {
+"id": 204097,
+"titolo": "Haunted House",
+"formato": "MANGA",
+"anno": 2020
+},
+"genres": [
+"Adventure",
+"Mystery"
+]
+},
+"m93": {
+"errore": "override search: nessun risultato"
+},
+"m94": {
+"via": "override search",
+"anilist": {
+"id": 104693,
+"titolo": "Intimate Days",
+"formato": "MANGA",
+"anno": 2018
+},
+"genres": [
+"Hentai",
+"Romance"
+]
+},
+"m98": {
+"errore": "override search: nessun risultato"
+},
+"m99": {
+"via": "titolo",
+"anilist": {
+"id": 179484,
+"titolo": "GALAXIAS",
+"formato": "MANGA",
+"anno": 2024
+},
+"genres": [
+"Action",
+"Adventure",
+"Fantasy"
+]
+},
+"m100": {
+"via": "titolo",
+"anilist": {
+"id": 144946,
+"titolo": "Gachiakuta",
+"formato": "MANGA",
+"anno": 2022
+},
+"genres": [
+"Action",
+"Drama",
+"Fantasy"
+]
+},
+"m101": {
+"via": "titolo",
+"anilist": {
+"id": 98354,
+"titolo": "APOSIMZ",
+"formato": "MANGA",
+"anno": 2017
+},
+"genres": [
+"Action",
+"Adventure",
+"Sci-Fi"
+]
+},
+"m102": {
+"via": "titolo",
+"anilist": {
+"id": 30142,
+"titolo": "Battle Royale",
+"formato": "MANGA",
+"anno": 2000
+},
+"genres": [
+"Action",
+"Drama",
+"Horror",
+"Mystery",
+"Psychological"
+]
+},
+"m103": {
+"via": "titolo",
+"anilist": {
+"id": 30908,
+"titolo": "Soul Eater",
+"formato": "MANGA",
+"anno": 2003
+},
+"genres": [
+"Action",
+"Adventure",
+"Comedy",
+"Fantasy",
+"Supernatural"
+]
+}
+}
+}
