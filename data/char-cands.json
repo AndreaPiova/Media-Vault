@@ -1,0 +1,508 @@
+{
+"a1": {
+"Historia Reiss": [
+{
+"id": 127570,
+"name": "Uri Reiss",
+"fav": 21,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/127570-b7zpa6DSq2iA.png"
+},
+{
+"id": 127624,
+"name": "Frieda Reiss",
+"fav": 92,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/n127624-mmQqGCYRW69r.jpg"
+},
+{
+"id": 127360,
+"name": "Rod Reiss",
+"fav": 9,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/127360-UgSpq6e0DAYz.jpg"
+},
+{
+"id": 310145,
+"name": "Abel Reiss",
+"fav": 3,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b310145-jzhLPSp1UlEd.png"
+},
+{
+"id": 205914,
+"name": "Karl Fritz",
+"fav": 9,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b205914-J9T4M6sXAqGg.png"
+}
+]
+},
+"a7": {
+"Ukyo Saionji": [
+{
+"id": 145064,
+"name": "Ukyou Saionji",
+"fav": 1052,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b145064-cbgNBAEY9q4R.png"
+}
+]
+},
+"a8": {
+"Gudrid": [],
+"Sverkel": [
+{
+"id": 255607,
+"name": "Sverkell",
+"fav": 111,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b255607-jXjRTKh9J8Q6.jpg"
+}
+]
+},
+"a12": {
+"Shinichi's madre": [
+{
+"id": 12323,
+"name": "Shinichi Izumi",
+"fav": 3819,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b12323-NAoqDYOn2RSo.png"
+}
+]
+},
+"a18": {
+"Nayuta": []
+},
+"a23": {
+"Killer Queen (Kira)": []
+},
+"a24": {
+"Nagisa Kaguya (madre)": [
+{
+"id": 378971,
+"name": "Kaguya",
+"fav": 1031,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b378971-JhnXkFViCMKl.png"
+},
+{
+"id": 89885,
+"name": "Kaguya-hime",
+"fav": 401,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/89885-ruLmoJQAQPsp.jpg"
+},
+{
+"id": 120649,
+"name": "Kaguya Shinomiya",
+"fav": 20300,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b120649-NPaWaIpWy60E.png"
+}
+]
+},
+"a25": {
+"Nagisa's madre": [
+{
+"id": 65645,
+"name": "Nagisa Shiota",
+"fav": 6863,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png"
+}
+]
+},
+"a26": {
+"Kaoruko Iikawa": []
+},
+"a27": {
+"Ryunosuke Ushijima": [],
+"Doi": []
+},
+"a32": {
+"Sung Jinwoo": [
+{
+"id": 129928,
+"name": "Jin-U Seong",
+"fav": 15011,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png"
+},
+{
+"id": 138791,
+"name": "Jin-A Seong",
+"fav": 474,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b138791-IngjgBQqGMWc.png"
+},
+{
+"id": 138790,
+"name": "Il-Hwan Seong",
+"fav": 310,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b138790-i3DFMscWID9D.jpg"
+}
+],
+"Woo Jinchul": [
+{
+"id": 136819,
+"name": "Jin-Cheol U",
+"fav": 378,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b136819-okbPuuFAefYX.png"
+},
+{
+"id": 129928,
+"name": "Jin-U Seong",
+"fav": 15011,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png"
+}
+],
+"Yoo Jinho": [
+{
+"id": 136076,
+"name": "Jin-Ho Yu",
+"fav": 461,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b136076-D7eiE3pA9U8g.jpg"
+}
+],
+"Baek Yoonho": [
+{
+"id": 136077,
+"name": "Yun-Ho Baek",
+"fav": 398,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b136077-IIMqRmMK5Fgs.png"
+}
+],
+"Christopher Reed": [],
+"Sung Jinah": [
+{
+"id": 138791,
+"name": "Jin-A Seong",
+"fav": 474,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b138791-IngjgBQqGMWc.png"
+},
+{
+"id": 129928,
+"name": "Jin-U Seong",
+"fav": 15011,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png"
+},
+{
+"id": 138790,
+"name": "Il-Hwan Seong",
+"fav": 310,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b138790-i3DFMscWID9D.jpg"
+}
+]
+},
+"a36": {
+"Tahomaru": []
+},
+"a37": {
+"Evankhell": []
+},
+"a38": {
+"Chidubem Michael Ichinose": [],
+"Reko Kirifuda": [
+{
+"id": 138897,
+"name": "Sumireko Sanshokuin",
+"fav": 1299,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b138897-rhOv1iU3ttl4.jpg"
+}
+]
+},
+"a39": {
+"Natsu Kiyomizu": []
+},
+"a43": {
+"Erina Yumizuru": []
+},
+"a54": {
+"Fara": []
+},
+"a56": {
+"Strega delle Lande": [
+{
+"id": 6167,
+"name": "Muten Roushi",
+"fav": 901,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b6167-aMPt1bHf5YbV.jpg"
+}
+],
+"Principe Justin": []
+},
+"a57": {
+"Fumihiko Hayabusa": [
+{
+"id": 135864,
+"name": "Shou Hayabusa",
+"fav": 68,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b135864-usux4l3BrBcC.png"
+}
+],
+"Souma Aoyama": []
+},
+"a58": {
+"Ichiro Inuyashiki": [
+{
+"id": 123583,
+"name": "Ichirou Inuyashiki",
+"fav": 687,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b123583-O5TgsLJBiN1k.jpg"
+},
+{
+"id": 123579,
+"name": "Mari Inuyashiki",
+"fav": 47,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b123579-R4nhPRtFt1O9.jpg"
+},
+{
+"id": 185882,
+"name": "Takeshi Inuyashiki",
+"fav": 2,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b185882-zNRbv9WEcxWy.png"
+},
+{
+"id": 185884,
+"name": "Marie Inuyashiki",
+"fav": 2,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b185884-V9Hgo87PRYzc.png"
+}
+]
+},
+"a59": {
+"Ryuji Takasu": [
+{
+"id": 12295,
+"name": "Ryuuji Takasu",
+"fav": 3256,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b12295-d45uTNeJHuus.png"
+},
+{
+"id": 12307,
+"name": "Yasuko Takasu",
+"fav": 473,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b12307-MfkPmovIGCm9.png"
+}
+],
+"Yusaku Kitamura": [
+{
+"id": 12306,
+"name": "Yuusaku Kitamura",
+"fav": 440,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b12306-Nb1orOh4UkpT.png"
+}
+]
+},
+"a61": {
+"Fuku": []
+},
+"a63": {
+"Jojiro Takajo": [
+{
+"id": 88952,
+"name": "Joujirou Takajou",
+"fav": 445,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b88952-0wmPqlWytiRx.png"
+}
+]
+},
+"a75": {
+"Kyoko Kubo": []
+},
+"a79": {
+"Gabriel Ichijo": [
+{
+"id": 162035,
+"name": "Hana Ichijou",
+"fav": 709,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b162035-goi3gRhYZErH.jpg"
+}
+]
+},
+"a81": {
+"Haruka Ninomiya": [
+{
+"id": 194203,
+"name": "Haruka Hashida",
+"fav": 775,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b194203-CDlUmFQLqHyi.png"
+}
+]
+},
+"a82": {
+"Jose Mendoza": [
+{
+"id": 46057,
+"name": "José Mendoza",
+"fav": 53,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b46057-Zz81SJG4cThl.jpg"
+},
+{
+"id": 59781,
+"name": "Chelsy Mendoza",
+"fav": 0,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/59781.jpg"
+}
+]
+},
+"a83": {
+"Czeslaw Meyer": [
+{
+"id": 3063,
+"name": "Czesław Meyer",
+"fav": 128,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b3063-zkwLabVw5Pi9.png"
+}
+]
+},
+"a89": {
+"Fyodor Dostoevsky": [
+{
+"id": 138067,
+"name": "Fyodor Dostoyevsky",
+"fav": 2081,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b138067-oHmQo5cOSZMN.png"
+}
+]
+},
+"a91": {
+"Fuiba": [],
+"Yosaf": [],
+"Nastazja": []
+},
+"a99": {
+"Shuya Kanamori": []
+},
+"a101": {
+"Cu Chulainn": [
+{
+"id": 499,
+"name": "Cú  Chulainn",
+"fav": 2250,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b499-gS5RAdupSKWQ.png"
+}
+]
+},
+"a103": {
+"Bon": [
+{
+"id": 138876,
+"name": "Bonchien Nicoli La Tasty Peach Uralis",
+"fav": 485,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b138876-8TsowRGCmx4V.jpg"
+}
+]
+},
+"a110": {
+"Endo": []
+},
+"a112": {
+"Kotaro Bokuto": [
+{
+"id": 88937,
+"name": "Koutarou Bokuto",
+"fav": 6973,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b88937-2GSqkX9TIzYy.png"
+}
+]
+},
+"a116": {
+"Kongo Sensei": [
+{
+"id": 123394,
+"name": "Kongou",
+"fav": 371,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b123394-RYb2wD26uHH2.png"
+}
+]
+},
+"a118": {
+"Judou Domon": [
+{
+"id": 29985,
+"name": "Asuka Domon",
+"fav": 16,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b29985-0HvvdALWPD0X.png"
+}
+]
+},
+"a126": {
+"Saito": []
+},
+"a131": {
+"Kyubey": []
+},
+"a138": {
+"Gorou": []
+},
+"a143": {
+"Ryuji Hyodo": []
+},
+"a147": {
+"Kamaji": [
+{
+"id": 8301,
+"name": "Kamajii",
+"fav": 328,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b8301-ASa313sbbcI3.png"
+}
+]
+},
+"a148": {
+"Kyouka Uto": [],
+"Bella Wilhelmina Nono": [],
+"Shiden Kunai": [],
+"Elru": []
+},
+"a154": {
+"Hakuro": [
+{
+"id": 131043,
+"name": "Hakurou",
+"fav": 414,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b131043-AyEdKg1Xkjrd.png"
+}
+]
+},
+"a155": {
+"Nekobus": []
+},
+"a163": {
+"Himeko Souya": []
+},
+"a165": {
+"Femto": []
+},
+"a169": {
+"Wako Uehara": [],
+"Kotaro Kanetsugu": [],
+"Rui Kishi": []
+},
+"a171": {
+"Kaname Furube": []
+},
+"a172": {
+"Heathcliff": [],
+"Alice Synthesis Thirty": [
+{
+"id": 75450,
+"name": "Alice Zuberg",
+"fav": 3401,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b75450-vDO1lQup1pe7.jpg"
+},
+{
+"id": 132281,
+"name": "Eldrie Woolsburg",
+"fav": 20,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b132281-SbNN2lfSqWEu.png"
+},
+{
+"id": 171679,
+"name": "Scheta",
+"fav": 94,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/b171679-YBgNp87TURZv.jpg"
+},
+{
+"id": 133839,
+"name": "Deusolbert",
+"fav": 27,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/n133839-ilDA69EJLanz.png"
+},
+{
+"id": 133841,
+"name": "Linel",
+"fav": 27,
+"url": "https://s4.anilist.co/file/anilistcdn/character/large/n133841-Vji8MY05E4kh.png"
+}
+]
+}
+}
