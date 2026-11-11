@@ -1,195 +1,127 @@
 {
- "chars": {
-  "5187": {
-   "nome": "Natsu Dragneel",
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png",
-   "media": [
-    "FAIRY TAIL",
-    "FAIRY TAIL OVA"
+ "Historia Reiss": [],
+ "Historia": [
+  {
+   "id": 160686,
+   "n": "Rhantolk   Ytri Historia",
+   "alt": [
+    "Rhan"
+   ],
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b160686-Pf4SZz11w7GU.png",
+   "m": [
+    "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?"
    ]
   },
-  "37720": {
-   "nome": "Zeref",
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/37720-WfpaYoeW2OkV.jpg",
-   "media": [
-    "FAIRY TAIL",
-    "FAIRY TAIL (2014)"
-   ]
-  },
-  "8444": {
-   "nome": "Patricia Thompson",
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8444-AbC3BxZA7gUY.png",
-   "media": [
-    "Soul Eater",
-    "Soul Eater Not!"
-   ]
-  },
-  "8445": {
-   "nome": "Elizabeth Thompson",
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8445-7BIqYhg3OKMn.png",
-   "media": [
-    "Soul Eater",
-    "Soul Eater Not!"
-   ]
-  },
-  "64857": {
-   "nome": "Kurihara",
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b64857-77lOiS9FSocO.png",
-   "media": [
-    "Prison School",
-    "Prison School"
-   ]
-  },
-  "64859": {
-   "nome": "Chiyo Kurihara",
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b64859-qke78aJelo9v.png",
-   "media": [
-    "Prison School",
-    "Prison School: Mad Wax"
-   ]
-  },
-  "48449": {
-   "nome": "Satan",
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b48449-LZibifWzcpoo.png",
-   "media": [
-    "Ao no Exorcist",
-    "Ao no Exorcist"
-   ]
-  },
-  "24482": {
-   "nome": "Rin Okumura",
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b24482-E6087V4uAVqL.jpg",
-   "media": [
-    "Ao no Exorcist",
-    "Ao no Exorcist: Ura Eku"
+  {
+   "id": 211743,
+   "n": "Menou Historia",
+   "alt": [],
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b211743-xMbHMoLIXkY5.png",
+   "m": [
+    "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+    "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II",
+    "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2"
    ]
   }
- },
- "manga": {
-  "Radiant": [
-   {
-    "id": 104693,
-    "mal": 118051,
-    "t": "MANGA",
-    "f": "MANGA",
-    "y": 2018,
-    "n": "Intimate Days",
-    "s": [
-     "Hakka",
-     "Kougou",
-     "Shiya"
-    ]
-   },
-   {
-    "id": 137453,
-    "mal": null,
-    "t": "MANGA",
-    "f": "ONE_SHOT",
-    "y": 2017,
-    "n": "Radiant",
-    "s": []
-   },
-   {
-    "id": 101024,
-    "mal": 37202,
-    "t": "ANIME",
-    "f": "TV",
-    "y": 2018,
-    "n": "RADIANT",
-    "s": []
-   },
-   {
-    "id": 187399,
-    "mal": 178206,
-    "t": "MANGA",
-    "f": "MANGA",
-    "y": 2024,
-    "n": "Radiant Rewind",
-    "s": [
-     "Good-Looking Whirlwind",
-     "Handsome Explosion",
-     "回档人生"
-    ]
-   },
-   {
-    "id": 108040,
-    "mal": 39355,
-    "t": "ANIME",
-    "f": "TV",
-    "y": 2019,
-    "n": "RADIANT Season 2",
-    "s": []
-   },
-   {
-    "id": 190741,
-    "mal": 185852,
-    "t": "MANGA",
-    "f": "MANGA",
-    "y": 2024,
-    "n": "Radiant Darkness",
-    "s": [
-     "The Brilliant Darkness"
-    ]
-   }
-  ],
-  "House of Horrors": [
-   {
-    "id": 204097,
-    "mal": null,
-    "t": "MANGA",
-    "f": "MANGA",
-    "y": 2020,
-    "n": "Haunted House",
-    "s": [
-     "House of Horrors",
-     "I Have an Adventure House",
-     "My House of Horrors"
-    ]
-   },
-   {
-    "id": 152119,
-    "mal": 175942,
-    "t": "MANGA",
-    "f": "MANGA",
-    "y": 1997,
-    "n": "Wonder House of Horrors",
-    "s": [
-     "Minikui Kao",
-     "Kaijin Barabara Shoujo",
-     "Dokuhaku"
-    ]
-   }
-  ],
-  "The Beginning After the End": [
-   {
-    "id": 183161,
-    "mal": 60146,
-    "t": "ANIME",
-    "f": "TV",
-    "y": 2025,
-    "n": "The Beginning After the End",
-    "s": [
-     "TBATE",
-     "終末起點",
-     "Начало после конца"
-    ]
-   },
-   {
-    "id": 194317,
-    "mal": 61831,
-    "t": "ANIME",
-    "f": "TV",
-    "y": 2026,
-    "n": "The Beginning After the End Season 2",
-    "s": [
-     "TBATE S2",
-     "Начало после конца 2"
-    ]
-   }
-  ],
-  "Age of Adepts": [],
-  "Warlock of the Magus World": [],
-  "Birth of the Demonic Sword": [],
-  "Tony Valente Radiant": []
- }
+ ],
+ "Krista Lenz": [
+  {
+   "id": 62481,
+   "n": "Krista Lenz",
+   "alt": [
+    "Christa",
+    "Cattle-Taming Goddess"
+   ],
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b62481-ZZDa7vn17lMU.png",
+   "m": [
+    "Shingeki no Kyojin",
+    "Shingeki no Kyojin OVA",
+    "Shingeki no Kyojin: Chimi Kyara Gekijou - Tondeke! Kunren Heidan"
+   ]
+  }
+ ],
+ "Griffith": [
+  {
+   "id": 424,
+   "n": "Griffith",
+   "alt": [
+    "The White Hawk",
+    "The Hawk of Light",
+    "Falcon of Darkness",
+    "The Absolute"
+   ],
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b424-Jfrsf8I7zBps.png",
+   "m": [
+    "Kenpuu Denki Berserk",
+    "Berserk: Ougon Jidai-hen I - Haou no Tamago",
+    "Berserk: Ougon Jidai-hen II - Doldrey Kouryaku"
+   ]
+  },
+  {
+   "id": 5753,
+   "n": "Hazuki Fujiwara",
+   "alt": [
+    "Reanne Griffith",
+    "Emilie Fujiwara"
+   ],
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/n5753-3Jd6m3FO2eC6.png",
+   "m": [
+    "Ojamajo Doremi",
+    "Ojamajo Doremi Sharp",
+    "Motto! Ojamajo Doremi"
+   ]
+  },
+  {
+   "id": 288009,
+   "n": "Elisa Griffith",
+   "alt": [],
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b288009-1DOMkf6QWl1X.png",
+   "m": [
+    "Hyouken no Majutsushi ga Sekai wo Suberu",
+    "Hyouken no Majutsushi ga Sekai wo Suberu II"
+   ]
+  },
+  {
+   "id": 3562,
+   "n": "James Griffith",
+   "alt": [
+    "Burn"
+   ],
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/3562.jpg",
+   "m": [
+    "Psychic Force"
+   ]
+  },
+  {
+   "id": 10215,
+   "n": "Griffith Lowran",
+   "alt": [],
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/10215.jpg",
+   "m": [
+    "Mahou Shoujo Lyrical Nanoha StrikerS"
+   ]
+  },
+  {
+   "id": 139428,
+   "n": "Griffith",
+   "alt": [],
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139428-ye1Y5sBxESqZ.jpg",
+   "m": [
+    "Mushikago no Cagaster"
+   ]
+  }
+ ],
+ "Akihiko Kayaba": [
+  {
+   "id": 36829,
+   "n": "Akihiko Kayaba",
+   "alt": [],
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36829-X5zITNEQ7xij.png",
+   "m": [
+    "Sword Art Online",
+    "Sword Art Offline",
+    "Sword Art Online: Extra Edition"
+   ]
+  }
+ ]
 }
