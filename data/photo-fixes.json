@@ -1,32 +1,195 @@
 {
- "a1|Levi Ackerman": {
-  "id": 45627,
-  "nome": "Levi",
-  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png"
+ "chars": {
+  "5187": {
+   "nome": "Natsu Dragneel",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b5187-y1OEdRu9sPN2.png",
+   "media": [
+    "FAIRY TAIL",
+    "FAIRY TAIL OVA"
+   ]
+  },
+  "37720": {
+   "nome": "Zeref",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/37720-WfpaYoeW2OkV.jpg",
+   "media": [
+    "FAIRY TAIL",
+    "FAIRY TAIL (2014)"
+   ]
+  },
+  "8444": {
+   "nome": "Patricia Thompson",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8444-AbC3BxZA7gUY.png",
+   "media": [
+    "Soul Eater",
+    "Soul Eater Not!"
+   ]
+  },
+  "8445": {
+   "nome": "Elizabeth Thompson",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8445-7BIqYhg3OKMn.png",
+   "media": [
+    "Soul Eater",
+    "Soul Eater Not!"
+   ]
+  },
+  "64857": {
+   "nome": "Kurihara",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b64857-77lOiS9FSocO.png",
+   "media": [
+    "Prison School",
+    "Prison School"
+   ]
+  },
+  "64859": {
+   "nome": "Chiyo Kurihara",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b64859-qke78aJelo9v.png",
+   "media": [
+    "Prison School",
+    "Prison School: Mad Wax"
+   ]
+  },
+  "48449": {
+   "nome": "Satan",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b48449-LZibifWzcpoo.png",
+   "media": [
+    "Ao no Exorcist",
+    "Ao no Exorcist"
+   ]
+  },
+  "24482": {
+   "nome": "Rin Okumura",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b24482-E6087V4uAVqL.jpg",
+   "media": [
+    "Ao no Exorcist",
+    "Ao no Exorcist: Ura Eku"
+   ]
+  }
  },
- "a17|Cornelia li Britannia": {
-  "id": 1114,
-  "nome": "Euphemia li Britannia",
-  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1114-rjYGsn8O6ZhE.png"
- },
- "a55|Chiyo Kurihara": {
-  "id": 64857,
-  "nome": "Kurihara",
-  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b64857-77lOiS9FSocO.png"
- },
- "a100|Zeref Dragneel": {
-  "id": 37720,
-  "nome": "Zeref",
-  "url": "https://s4.anilist.co/file/anilistcdn/character/large/37720-WfpaYoeW2OkV.jpg"
- },
- "a144|Wilhelm van Astrea": {
-  "id": 88577,
-  "nome": "Reinhard van Astrea",
-  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88577-nrwzPBVwqAfO.png"
- },
- "a161|Haruno Yukinoshita": {
-  "id": 79589,
-  "nome": "Haruno Yukinoshita",
-  "url": "https://s4.anilist.co/file/anilistcdn/character/large/b79589-4Rg565ditDez.png"
+ "manga": {
+  "Radiant": [
+   {
+    "id": 104693,
+    "mal": 118051,
+    "t": "MANGA",
+    "f": "MANGA",
+    "y": 2018,
+    "n": "Intimate Days",
+    "s": [
+     "Hakka",
+     "Kougou",
+     "Shiya"
+    ]
+   },
+   {
+    "id": 137453,
+    "mal": null,
+    "t": "MANGA",
+    "f": "ONE_SHOT",
+    "y": 2017,
+    "n": "Radiant",
+    "s": []
+   },
+   {
+    "id": 101024,
+    "mal": 37202,
+    "t": "ANIME",
+    "f": "TV",
+    "y": 2018,
+    "n": "RADIANT",
+    "s": []
+   },
+   {
+    "id": 187399,
+    "mal": 178206,
+    "t": "MANGA",
+    "f": "MANGA",
+    "y": 2024,
+    "n": "Radiant Rewind",
+    "s": [
+     "Good-Looking Whirlwind",
+     "Handsome Explosion",
+     "回档人生"
+    ]
+   },
+   {
+    "id": 108040,
+    "mal": 39355,
+    "t": "ANIME",
+    "f": "TV",
+    "y": 2019,
+    "n": "RADIANT Season 2",
+    "s": []
+   },
+   {
+    "id": 190741,
+    "mal": 185852,
+    "t": "MANGA",
+    "f": "MANGA",
+    "y": 2024,
+    "n": "Radiant Darkness",
+    "s": [
+     "The Brilliant Darkness"
+    ]
+   }
+  ],
+  "House of Horrors": [
+   {
+    "id": 204097,
+    "mal": null,
+    "t": "MANGA",
+    "f": "MANGA",
+    "y": 2020,
+    "n": "Haunted House",
+    "s": [
+     "House of Horrors",
+     "I Have an Adventure House",
+     "My House of Horrors"
+    ]
+   },
+   {
+    "id": 152119,
+    "mal": 175942,
+    "t": "MANGA",
+    "f": "MANGA",
+    "y": 1997,
+    "n": "Wonder House of Horrors",
+    "s": [
+     "Minikui Kao",
+     "Kaijin Barabara Shoujo",
+     "Dokuhaku"
+    ]
+   }
+  ],
+  "The Beginning After the End": [
+   {
+    "id": 183161,
+    "mal": 60146,
+    "t": "ANIME",
+    "f": "TV",
+    "y": 2025,
+    "n": "The Beginning After the End",
+    "s": [
+     "TBATE",
+     "終末起點",
+     "Начало после конца"
+    ]
+   },
+   {
+    "id": 194317,
+    "mal": 61831,
+    "t": "ANIME",
+    "f": "TV",
+    "y": 2026,
+    "n": "The Beginning After the End Season 2",
+    "s": [
+     "TBATE S2",
+     "Начало после конца 2"
+    ]
+   }
+  ],
+  "Age of Adepts": [],
+  "Warlock of the Magus World": [],
+  "Birth of the Demonic Sword": [],
+  "Tony Valente Radiant": []
  }
 }
