@@ -32,6 +32,6 @@ for it in inp:
             n = e["node"]; cur = pool.get(n["id"])
             if not cur or (e["role"] == "MAIN" and cur["role"] != "MAIN"):
                 pool[n["id"]] = {"id": n["id"], "name": n["name"]["full"], "alt": (n["name"].get("alternative") or [])[:6], "url": n["image"]["large"], "fav": n["favourites"], "role": e["role"]}
-    out[it["id"]] = sorted(pool.values(), key=lambda c: (c["role"] != "MAIN", -c["fav"]))[:40]
+    out[it["id"]] = sorted(pool.values(), key=lambda c: (c["role"] != "MAIN", -c["fav"]))[:30]
     print(it["id"], len(pool), file=sys.stderr)
-json.dump(out, open("data/char-pool.json", "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+json.dump(out, open("data/char-pool-all.json", "w", encoding="utf-8"), ensure_ascii=False, indent=0)
