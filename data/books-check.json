@@ -1,0 +1,607 @@
+{
+"b1": {
+"q": [
+"The Little Book of Common Sense Investing",
+"John C. Bogle"
+],
+"docs": [
+{
+"author_name": [
+"John C. Bogle"
+],
+"first_publish_year": 2007,
+"key": "/works/OL3928758W",
+"language": [
+"eng"
+],
+"number_of_pages_median": 228,
+"title": "The Little Book of Common Sense Investing"
+},
+{
+"author_name": [
+"John C. Bogle"
+],
+"first_publish_year": 2007,
+"key": "/works/OL19728229W",
+"language": [
+"eng"
+],
+"number_of_pages_median": 270,
+"title": "The little book of common sense investing"
+}
+]
+},
+"b2": {
+"q": [
+"The Black Swan",
+"Nassim Nicholas Taleb"
+],
+"docs": [
+{
+"author_name": [
+"Nassim Nicholas Taleb",
+"David Chandler"
+],
+"first_publish_year": 2005,
+"key": "/works/OL3295030W",
+"language": [
+"fre",
+"spa",
+"jpn",
+"heb",
+"kor",
+"ger",
+"eng",
+"por"
+],
+"number_of_pages_median": 421,
+"title": "The Black Swan"
+},
+{
+"author_name": [
+"Nassim Nicholas Taleb"
+],
+"key": "/works/OL8230846W",
+"number_of_pages_median": 256,
+"title": "The Black Swan and the Logic of Risk Bearing"
+}
+]
+},
+"b3": {
+"q": [
+"The Eye of the World",
+"Robert Jordan"
+],
+"docs": [
+{
+"author_name": [
+"Robert Jordan"
+],
+"first_publish_year": 1990,
+"key": "/works/OL7924103W",
+"language": [
+"ger",
+"chi",
+"spa",
+"tur",
+"fre",
+"por",
+"eng"
+],
+"number_of_pages_median": 782,
+"title": "The Eye of the World"
+},
+{
+"author_name": [
+"Robert Jordan"
+],
+"first_publish_year": 1993,
+"key": "/works/OL7924102W",
+"language": [
+"spa",
+"fin",
+"heb",
+"eng",
+"ger"
+],
+"number_of_pages_median": 384,
+"title": "The Eye of the World (part 1/2)"
+},
+{
+"author_name": [
+"Robert Jordan"
+],
+"first_publish_year": 1993,
+"key": "/works/OL7924104W",
+"language": [
+"ger",
+"fre"
+],
+"number_of_pages_median": 624,
+"title": "The Eye of the World (part 2/2)"
+},
+{
+"author_name": [
+"Robert Jordan"
+],
+"first_publish_year": 2000,
+"key": "/works/OL19914930W",
+"title": "The Wheel of Time: Eye of the World, the Great Hunt, Dragon Reborn, Shadow Rising, Fires of Heaven, Lord of Chaos, Crown of Swords, and Path of Daggers"
+}
+]
+},
+"b4": {
+"q": [
+"I 4 pilastri dell'indipendenza finanziaria",
+"Marco Casario"
+],
+"docs": [],
+"alt": []
+},
+"b5": {
+"q": [
+"Red Rising",
+"Pierce Brown"
+],
+"docs": [
+{
+"author_name": [
+"Pierce Brown"
+],
+"first_publish_year": 2014,
+"key": "/works/OL17076473W",
+"language": [
+"ger",
+"por",
+"fre",
+"eng"
+],
+"number_of_pages_median": 442,
+"title": "Red Rising"
+},
+{
+"author_name": [
+"Pierce Brown"
+],
+"first_publish_year": 2014,
+"key": "/works/OL26627585W",
+"language": [
+"eng"
+],
+"number_of_pages_median": 400,
+"title": "Red Rising"
+},
+{
+"author_name": [
+"Pierce Brown"
+],
+"first_publish_year": 2019,
+"key": "/works/OL26417126W",
+"language": [
+"eng"
+],
+"title": "The Red Rising Series Collection 5 Books Set By Pierce Brown"
+},
+{
+"author_name": [
+"Pierce Brown",
+"Rik Hoskin",
+"Eli Powell"
+],
+"first_publish_year": 2018,
+"key": "/works/OL19737868W",
+"language": [
+"eng"
+],
+"number_of_pages_median": 132,
+"title": "Red rising, sons of Ares"
+}
+]
+},
+"b6": {
+"q": [
+"Hyperion",
+"Dan Simmons"
+],
+"docs": [
+{
+"author_name": [
+"Dan Simmons"
+],
+"first_publish_year": 1989,
+"key": "/works/OL1963268W",
+"language": [
+"pol",
+"rus",
+"spa",
+"por",
+"fre",
+"ita",
+"eng"
+],
+"number_of_pages_median": 481,
+"title": "Hyperion"
+},
+{
+"author_name": [
+"Dan Simmons"
+],
+"first_publish_year": 1990,
+"key": "/works/OL1963251W",
+"language": [
+"pol",
+"spa",
+"por",
+"fre",
+"ita",
+"eng"
+],
+"number_of_pages_median": 561,
+"title": "The Fall of Hyperion"
+},
+{
+"author_name": [
+"Dan Simmons"
+],
+"first_publish_year": 1996,
+"key": "/works/OL1963254W",
+"language": [
+"ger"
+],
+"number_of_pages_median": 1193,
+"title": "Hyperion Cantos"
+},
+{
+"author_name": [
+"Dan Simmons"
+],
+"first_publish_year": 1990,
+"key": "/works/OL19325227W",
+"language": [
+"eng",
+"spa"
+],
+"number_of_pages_median": 857,
+"title": "Hyperion Cantos"
+}
+]
+},
+"b7": {
+"q": [
+"The Gunslinger",
+"Stephen King"
+],
+"docs": [
+{
+"author_name": [
+"Stephen King"
+],
+"first_publish_year": 1976,
+"key": "/works/OL81628W",
+"language": [
+"ger",
+"rum",
+"rus",
+"spa",
+"chi",
+"por",
+"kor",
+"fre",
+"ita",
+"dut",
+"swe",
+"eng"
+],
+"number_of_pages_median": 255,
+"title": "The Gunslinger"
+},
+{
+"author_name": [
+"Peter David",
+"Stephen King",
+"Robin Furth",
+"Jae Lee",
+"Richard Isanove"
+],
+"first_publish_year": 2007,
+"key": "/works/OL14917564W",
+"language": [
+"eng"
+],
+"number_of_pages_median": 208,
+"title": "The Gunslinger Born"
+},
+{
+"author_name": [
+"Stephen King"
+],
+"first_publish_year": 1992,
+"key": "/works/OL149174W",
+"language": [
+"eng",
+"rus",
+"fre"
+],
+"number_of_pages_median": 860,
+"title": "The Dark Tower (Gunslinger / Drawing of the Three / Waste Lands)"
+},
+{
+"author_name": [
+"Stephen King"
+],
+"first_publish_year": 2003,
+"key": "/works/OL14916876W",
+"language": [
+"eng"
+],
+"number_of_pages_median": 4,
+"title": "The Dark Tower (Gunslinger / Drawing of the Three / Waste Lands / Wizard and Glass)"
+}
+]
+},
+"b8": {
+"q": [
+"A Game of Thrones",
+"George R. R. Martin"
+],
+"docs": [
+{
+"author_name": [
+"George R. R. Martin"
+],
+"first_publish_year": 1996,
+"key": "/works/OL257943W",
+"language": [
+"ukr",
+"ger",
+"pol",
+"gle",
+"srp",
+"chi",
+"spa",
+"rus",
+"tur",
+"jpn",
+"por",
+"fre",
+"ita",
+"cat",
+"dan",
+"ind",
+"swe",
+"eng"
+],
+"number_of_pages_median": 801,
+"title": "A Game of Thrones"
+},
+{
+"author_name": [
+"George R. R. Martin"
+],
+"first_publish_year": 2012,
+"key": "/works/OL17489309W",
+"language": [
+"eng"
+],
+"number_of_pages_median": 93,
+"title": "A Song of Ice and Fire (A Game of Thrones / A Clash of Kings / A Storm of Swords / A Feast for Crows / A Dance with Dragons)"
+},
+{
+"author_name": [
+"George R. R. Martin"
+],
+"first_publish_year": 1998,
+"key": "/works/OL1955908W",
+"language": [
+"ger"
+],
+"number_of_pages_median": 543,
+"title": "A Game of Thrones"
+},
+{
+"author_name": [
+"George R. R. Martin"
+],
+"first_publish_year": 2015,
+"key": "/works/OL20229548W",
+"language": [
+"fre",
+"eng"
+],
+"number_of_pages_median": 96,
+"title": "The Official A Game of Thrones Colouring Book"
+}
+]
+},
+"b9": {
+"q": [
+"Rich Dad Poor Dad",
+"Robert Kiyosaki"
+],
+"docs": [
+{
+"author_name": [
+"Robert T. Kiyosaki"
+],
+"first_publish_year": 1990,
+"key": "/works/OL2010879W",
+"language": [
+"ger",
+"hin",
+"chi",
+"spa",
+"rus",
+"tur",
+"jpn",
+"por",
+"fre",
+"ita",
+"ind",
+"eng"
+],
+"number_of_pages_median": 241,
+"title": "Rich Dad, Poor Dad"
+},
+{
+"author_name": [
+"Robert T. Kiyosaki",
+"Sharon L. Lechter"
+],
+"first_publish_year": 2004,
+"key": "/works/OL2010893W",
+"language": [
+"spa",
+"rus",
+"eng"
+],
+"number_of_pages_median": 144,
+"title": "Rich Dad, Poor Dad for Teens"
+},
+{
+"author_name": [
+"Robert T. Kiyosaki",
+"Sharon L. Lechter"
+],
+"first_publish_year": 2000,
+"key": "/works/OL2010877W",
+"language": [
+"kor",
+"eng"
+],
+"number_of_pages_median": 320,
+"title": "Rich Dad, Poor Dad 2"
+},
+{
+"author_name": [
+"Robert T. Kiyosaki"
+],
+"first_publish_year": 2016,
+"key": "/works/OL20892522W",
+"number_of_pages_median": 128,
+"title": "Wisdom from Rich Dad, Poor Dad for Teens"
+}
+]
+},
+"b10": {
+"q": [
+"Aqualung",
+"Paliaga"
+],
+"docs": [],
+"alt": [
+{
+"author_name": [
+"Allan F. Moore"
+],
+"first_publish_year": 2004,
+"key": "/works/OL3242693W",
+"number_of_pages_median": 110,
+"title": "Aqualung (33 1/3)"
+},
+{
+"author_name": [
+"Aqualung"
+],
+"key": "/works/OL13750474W",
+"title": "Brighter Than Sunshine"
+},
+{
+"author_name": [
+"Allan Moore"
+],
+"first_publish_year": 2004,
+"key": "/works/OL39118830W",
+"number_of_pages_median": 128,
+"title": "Jethro Tull's Aqualung"
+},
+{
+"author_name": [
+"Jethro Tull"
+],
+"first_publish_year": 1999,
+"key": "/works/OL8239711W",
+"title": "Aqualung"
+}
+]
+},
+"b11": {
+"q": [
+"Orfani",
+"Recchioni"
+],
+"docs": [
+{
+"author_name": [
+"Roberto Recchioni"
+],
+"first_publish_year": 2014,
+"key": "/works/OL31825833W",
+"language": [
+"ita"
+],
+"number_of_pages_median": 199,
+"title": "Orfani"
+},
+{
+"author_name": [
+"Roberto Recchioni"
+],
+"first_publish_year": 2015,
+"key": "/works/OL26264578W",
+"number_of_pages_median": 96,
+"title": "Orfani 3 - Yetimler"
+},
+{
+"author_name": [
+"Kozan Demircan, Alessandro Bignamini, Roberto Recchioni, Hakan Aysal, Murat Sevgikuranlar"
+],
+"first_publish_year": 2015,
+"key": "/works/OL26264562W",
+"number_of_pages_median": 96,
+"title": "Orfani 2 - Yetimler"
+}
+]
+},
+"b12": {
+"q": [
+"Qwest",
+"Magalotti"
+],
+"docs": [],
+"alt": [
+{
+"author_name": [
+"Qwest"
+],
+"first_publish_year": 2002,
+"key": "/works/OL15767106W",
+"title": "makedonski jazik"
+},
+{
+"author_name": [
+"Qwest"
+],
+"key": "/works/OL10405161W",
+"title": "Eric's phone book"
+},
+{
+"author_name": [
+"ICON Group Ltd."
+],
+"first_publish_year": 2000,
+"key": "/works/OL8178460W",
+"number_of_pages_median": 22,
+"title": "QWEST COMMUNICATIONS INTERNATIONAL INC"
+},
+{
+"author_name": [
+"Rick Weston"
+],
+"first_publish_year": 2018,
+"key": "/works/OL20600126W",
+"number_of_pages_median": 142,
+"title": "Qwest for Truth...and Change"
+}
+]
+}
+}
