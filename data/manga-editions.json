@@ -112,10 +112,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-11T12:36:49.334Z",
+    "lastChecked": "2026-11-12T13:40:07.578Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m2": {
     "editions": [
@@ -156,7 +155,7 @@
         "last": "2026-10-28"
       }
     ],
-    "lastChecked": "2026-11-11T12:36:49.335Z",
+    "lastChecked": "2026-11-12T13:40:07.578Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -172,7 +171,7 @@
         "last": "2013-11-16"
       }
     ],
-    "lastChecked": "2026-11-11T12:36:49.335Z",
+    "lastChecked": "2026-11-12T13:40:07.578Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -206,7 +205,7 @@
         "last": "2023-12-21"
       }
     ],
-    "lastChecked": "2026-11-11T12:36:49.335Z",
+    "lastChecked": "2026-11-12T13:40:07.578Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -303,7 +302,7 @@
         "last": "2024-08-29"
       }
     ],
-    "lastChecked": "2026-11-11T12:36:49.335Z",
+    "lastChecked": "2026-11-12T13:40:07.578Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -364,7 +363,7 @@
         "last": "2025-06-05"
       }
     ],
-    "lastChecked": "2026-11-11T12:36:49.335Z",
+    "lastChecked": "2026-11-12T13:40:07.578Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -380,7 +379,7 @@
         "last": "2022-03-10"
       }
     ],
-    "lastChecked": "2026-11-11T12:36:49.335Z",
+    "lastChecked": "2026-11-12T13:40:07.578Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -396,7 +395,7 @@
         "last": "2011-02-13"
       }
     ],
-    "lastChecked": "2026-11-11T12:36:49.335Z",
+    "lastChecked": "2026-11-12T13:40:07.578Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -421,7 +420,7 @@
         "last": "2019-07-17"
       }
     ],
-    "lastChecked": "2026-11-11T12:36:49.335Z",
+    "lastChecked": "2026-11-12T13:40:07.578Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -500,7 +499,7 @@
         "last": "2022-10-27"
       }
     ],
-    "lastChecked": "2026-11-11T12:36:49.335Z",
+    "lastChecked": "2026-11-12T13:40:07.578Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -534,7 +533,7 @@
         "last": "2018-11-01"
       }
     ],
-    "lastChecked": "2026-11-11T12:36:49.335Z",
+    "lastChecked": "2026-11-12T13:40:07.578Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -559,14 +558,14 @@
         "last": "2020-02-27"
       }
     ],
-    "lastChecked": "2026-11-11T12:36:49.335Z",
+    "lastChecked": "2026-11-12T13:40:07.578Z",
     "status": 200,
     "via": "jina-html"
   },
   "m13": {
     "editions": [],
     "variants": [],
-    "lastChecked": "2026-11-11T12:32:37.492Z",
+    "lastChecked": "2026-11-12T13:36:33.109Z",
     "status": 200,
     "via": "jina-html",
     "error": "pagina letta ma nessuna edizione riconosciuta"
@@ -592,7 +591,7 @@
         "last": "2012-02-18"
       }
     ],
-    "lastChecked": "2026-11-11T12:36:49.335Z",
+    "lastChecked": "2026-11-12T13:40:07.578Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -770,7 +769,7 @@
         "last": "2021-10-29"
       }
     ],
-    "lastChecked": "2026-11-11T12:36:49.335Z",
+    "lastChecked": "2026-11-12T13:40:07.578Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -841,7 +840,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-11T12:37:19.481Z",
+    "lastChecked": "2026-11-12T13:40:10.862Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -875,7 +874,7 @@
         "last": "2019-07-11"
       }
     ],
-    "lastChecked": "2026-11-11T12:37:19.482Z",
+    "lastChecked": "2026-11-12T13:40:10.862Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -891,7 +890,7 @@
         "last": "2019-07-03"
       }
     ],
-    "lastChecked": "2026-11-11T12:37:19.482Z",
+    "lastChecked": "2026-11-12T13:40:10.862Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1132,7 +1131,7 @@
         "last": "2025-09-25"
       }
     ],
-    "lastChecked": "2026-11-11T12:37:19.482Z",
+    "lastChecked": "2026-11-12T13:40:10.862Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1166,7 +1165,7 @@
         "last": "2022-10-28"
       }
     ],
-    "lastChecked": "2026-11-11T12:37:19.482Z",
+    "lastChecked": "2026-11-12T13:40:10.862Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1255,7 +1254,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-11T12:37:34.473Z",
+    "lastChecked": "2026-11-12T13:40:12.222Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1307,7 +1306,7 @@
         "last": "2026-05-05"
       }
     ],
-    "lastChecked": "2026-11-11T12:37:34.473Z",
+    "lastChecked": "2026-11-12T13:40:12.222Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1377,7 +1376,7 @@
         "last": "2023-09-20"
       }
     ],
-    "lastChecked": "2026-11-11T12:37:34.473Z",
+    "lastChecked": "2026-11-12T13:40:12.222Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1465,7 +1464,7 @@
         "last": "2013-08-31"
       }
     ],
-    "lastChecked": "2026-11-11T12:37:34.473Z",
+    "lastChecked": "2026-11-12T13:40:12.222Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1500,7 +1499,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-11T12:37:49.479Z",
+    "lastChecked": "2026-11-12T13:40:13.583Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1717,10 +1716,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-11T12:33:11.554Z",
+    "lastChecked": "2026-11-12T13:37:09.094Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m27": {
     "editions": [
@@ -1785,10 +1783,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-11T12:33:19.955Z",
+    "lastChecked": "2026-11-12T13:37:17.632Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m28": {
     "editions": [
@@ -1863,10 +1860,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-11T12:33:28.309Z",
+    "lastChecked": "2026-11-12T13:37:26.206Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m30": {
     "editions": [
@@ -1902,10 +1898,9 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-11T12:33:51.837Z",
+    "lastChecked": "2026-11-12T13:37:36.509Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m29": {
     "editions": [
@@ -1929,7 +1924,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-11T12:38:34.531Z",
+    "lastChecked": "2026-11-12T13:40:17.657Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1972,7 +1967,7 @@
         "last": "2025-07-23"
       }
     ],
-    "lastChecked": "2026-11-11T12:38:34.531Z",
+    "lastChecked": "2026-11-12T13:40:17.657Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2078,7 +2073,7 @@
         "last": "2024-04-18"
       }
     ],
-    "lastChecked": "2026-11-11T12:38:34.531Z",
+    "lastChecked": "2026-11-12T13:40:17.657Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2095,7 +2090,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-11T12:38:49.513Z",
+    "lastChecked": "2026-11-12T13:40:19.009Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2112,10 +2107,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-11T12:34:00.456Z",
+    "lastChecked": "2026-11-12T13:37:44.802Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m35": {
     "editions": [
@@ -2230,10 +2224,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-11T12:34:08.817Z",
+    "lastChecked": "2026-11-12T13:37:53.610Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m36": {
     "editions": [
@@ -2368,10 +2361,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-11T12:34:17.348Z",
+    "lastChecked": "2026-11-12T13:38:02.671Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m37": {
     "editions": [
@@ -2457,10 +2449,9 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-11T12:34:41.400Z",
+    "lastChecked": "2026-11-12T13:38:12.971Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m38": {
     "editions": [
@@ -2475,10 +2466,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-11T12:34:50.000Z",
+    "lastChecked": "2026-11-12T13:38:21.796Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m39": {
     "editions": [
@@ -2503,10 +2493,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-11T12:34:58.759Z",
+    "lastChecked": "2026-11-12T13:38:30.136Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m40": {
     "editions": [
@@ -2531,10 +2520,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-11T12:35:07.546Z",
+    "lastChecked": "2026-11-12T13:38:38.457Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m41": {
     "editions": [
@@ -2589,10 +2577,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-11T12:35:16.236Z",
+    "lastChecked": "2026-11-12T13:38:47.043Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m44": {
     "editions": [
@@ -2617,10 +2604,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-11T12:35:24.656Z",
+    "lastChecked": "2026-11-12T13:38:55.750Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m43": {
     "editions": [
@@ -2645,10 +2631,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-11T12:35:33.050Z",
+    "lastChecked": "2026-11-12T13:39:04.349Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m45": {
     "editions": [
@@ -2803,10 +2788,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-11T12:35:41.575Z",
+    "lastChecked": "2026-11-12T13:39:13.050Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m46": {
     "editions": [
@@ -2821,10 +2805,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-11T12:35:50.417Z",
+    "lastChecked": "2026-11-12T13:39:22.467Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m47": {
     "editions": [
@@ -2835,10 +2818,10 @@
         "maxVol": 77,
         "count": 50,
         "first": "2016-09-14",
-        "last": "2026-11-30",
+        "last": "2026-12-31",
         "next": {
           "vol": 77,
-          "date": "2026-11-30",
+          "date": "2026-12-31",
           "price": "6,90 €"
         }
       },
@@ -2853,10 +2836,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-11T12:35:59.827Z",
+    "lastChecked": "2026-11-12T13:39:31.180Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m48": {
     "editions": [
@@ -2871,10 +2853,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-11T12:36:08.524Z",
+    "lastChecked": "2026-11-12T13:39:39.797Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m49": {
     "editions": [
@@ -2889,10 +2870,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-11T12:36:16.933Z",
+    "lastChecked": "2026-11-12T13:39:48.354Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m51": {
     "editions": [
@@ -2938,10 +2918,9 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-11T12:36:40.662Z",
+    "lastChecked": "2026-11-12T13:39:58.584Z",
     "status": 200,
-    "via": "jina-html",
-    "error": "pagina letta ma nessuna edizione riconosciuta"
+    "via": "jina-html"
   },
   "m52": {
     "editions": [
@@ -3019,7 +2998,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-11T12:37:04.455Z",
+    "lastChecked": "2026-11-12T13:40:09.503Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3053,7 +3032,7 @@
         "last": "2017-02-22"
       }
     ],
-    "lastChecked": "2026-11-11T12:37:04.455Z",
+    "lastChecked": "2026-11-12T13:40:09.503Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3069,7 +3048,7 @@
         "last": "2016-09-01"
       }
     ],
-    "lastChecked": "2026-11-11T12:37:04.455Z",
+    "lastChecked": "2026-11-12T13:40:09.503Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3094,7 +3073,7 @@
         "last": "2025-11-19"
       }
     ],
-    "lastChecked": "2026-11-11T12:37:04.455Z",
+    "lastChecked": "2026-11-12T13:40:09.503Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3164,7 +3143,7 @@
         "last": "2022-09-28"
       }
     ],
-    "lastChecked": "2026-11-11T12:37:49.479Z",
+    "lastChecked": "2026-11-12T13:40:13.583Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3180,7 +3159,7 @@
         "last": "2022-09-29"
       }
     ],
-    "lastChecked": "2026-11-11T12:37:49.479Z",
+    "lastChecked": "2026-11-12T13:40:13.583Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3205,7 +3184,7 @@
         "last": "2011-12-17"
       }
     ],
-    "lastChecked": "2026-11-11T12:37:49.479Z",
+    "lastChecked": "2026-11-12T13:40:13.583Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3258,7 +3237,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-11T12:38:04.491Z",
+    "lastChecked": "2026-11-12T13:40:14.944Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3283,7 +3262,7 @@
         "last": "2018-12-13"
       }
     ],
-    "lastChecked": "2026-11-11T12:38:04.492Z",
+    "lastChecked": "2026-11-12T13:40:14.944Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3308,13 +3287,13 @@
         "last": "2025-02-11"
       }
     ],
-    "lastChecked": "2026-11-11T12:38:04.492Z",
+    "lastChecked": "2026-11-12T13:40:14.944Z",
     "status": 200,
     "via": "jina-html"
   },
   "m61": {
     "editions": [],
-    "lastChecked": "2026-11-11T12:32:45.883Z",
+    "lastChecked": "2026-11-12T13:36:41.631Z",
     "status": 200,
     "via": "jina-html",
     "error": "pagina letta ma nessuna edizione riconosciuta"
@@ -3367,7 +3346,7 @@
         "last": "2022-10-12"
       }
     ],
-    "lastChecked": "2026-11-11T12:38:04.492Z",
+    "lastChecked": "2026-11-12T13:40:14.944Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3383,7 +3362,7 @@
         "last": "2021-11-24"
       }
     ],
-    "lastChecked": "2026-11-11T12:38:04.492Z",
+    "lastChecked": "2026-11-12T13:40:14.944Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3408,7 +3387,7 @@
         "last": "2022-03-31"
       }
     ],
-    "lastChecked": "2026-11-11T12:38:04.492Z",
+    "lastChecked": "2026-11-12T13:40:14.944Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3443,7 +3422,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-11T12:38:19.513Z",
+    "lastChecked": "2026-11-12T13:40:16.302Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3468,7 +3447,7 @@
         "last": "2020-07-23"
       }
     ],
-    "lastChecked": "2026-11-11T12:38:19.513Z",
+    "lastChecked": "2026-11-12T13:40:16.302Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3520,7 +3499,7 @@
         "last": "2016-12-01"
       }
     ],
-    "lastChecked": "2026-11-11T12:38:19.514Z",
+    "lastChecked": "2026-11-12T13:40:16.302Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3545,7 +3524,7 @@
         "last": "2025-11-04"
       }
     ],
-    "lastChecked": "2026-11-11T12:38:19.514Z",
+    "lastChecked": "2026-11-12T13:40:16.302Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3606,7 +3585,7 @@
         "last": "2026-03-31"
       }
     ],
-    "lastChecked": "2026-11-11T12:38:19.514Z",
+    "lastChecked": "2026-11-12T13:40:16.302Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3658,13 +3637,13 @@
         "last": "2023-03-30"
       }
     ],
-    "lastChecked": "2026-11-11T12:38:19.514Z",
+    "lastChecked": "2026-11-12T13:40:16.302Z",
     "status": 200,
     "via": "jina-html"
   },
   "m73": {
     "editions": [],
-    "lastChecked": "2026-11-11T12:32:54.561Z",
+    "lastChecked": "2026-11-12T13:36:50.198Z",
     "status": 200,
     "via": "jina-html",
     "error": "pagina letta ma nessuna edizione riconosciuta"
@@ -3717,82 +3696,82 @@
         "last": "2026-11-30"
       }
     ],
-    "lastChecked": "2026-11-11T12:38:19.514Z",
+    "lastChecked": "2026-11-12T13:40:16.302Z",
     "status": 200,
     "via": "jina-html"
   },
   "m99": {
     "editions": [],
-    "lastChecked": "2026-11-11T12:33:03.003Z",
+    "lastChecked": "2026-11-12T13:36:59.886Z",
     "status": 200,
     "via": "jina-html",
     "error": "pagina letta ma nessuna edizione riconosciuta"
   },
   "watch_m50": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.886Z"
   },
   "watch_m72": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.886Z"
   },
   "watch_m74": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.886Z"
   },
   "watch_m75": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.886Z"
   },
   "watch_m76": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.886Z"
   },
   "watch_m77": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.886Z"
   },
   "watch_m78": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.886Z"
   },
   "watch_m79": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.886Z"
   },
   "watch_m80": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.887Z"
   },
   "watch_m81": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.887Z"
   },
   "watch_m82": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.887Z"
   },
   "watch_m83": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.887Z"
   },
   "watch_m84": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.887Z"
   },
   "watch_m86": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.887Z"
   },
   "watch_m87": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.887Z"
   },
   "watch_m88": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.887Z"
   },
   "watch_m89": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.887Z"
   },
   "watch_m90": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.887Z"
   },
   "watch_m91": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.887Z"
   },
   "watch_m92": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.887Z"
   },
   "watch_m93": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.887Z"
   },
   "watch_m98": {
-    "lastChecked": "2026-11-11T12:33:03.004Z"
+    "lastChecked": "2026-11-12T13:36:59.887Z"
   },
   "m85": {
     "editions": [
@@ -3806,7 +3785,7 @@
         "last": "2026-11-30"
       }
     ],
-    "lastChecked": "2026-11-11T12:38:19.514Z",
+    "lastChecked": "2026-11-12T13:40:16.302Z",
     "status": 200,
     "via": "jina-html"
   }
