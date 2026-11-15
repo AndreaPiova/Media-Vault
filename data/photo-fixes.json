@@ -1,126 +1,48 @@
 {
- "Historia Reiss": [],
- "Historia": [
+ "Zeke Yeager": [],
+ "Obito Uchiha": [],
+ "Bond Forger": [],
+ "Rin Souma": [],
+ "Yi Wang": [
   {
-   "id": 160686,
-   "n": "Rhantolk   Ytri Historia",
-   "alt": [
-    "Rhan"
-   ],
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b160686-Pf4SZz11w7GU.png",
-   "m": [
-    "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?"
-   ]
+   "id": 257419,
+   "n": "Yi Wang",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b257419-jduSnTB2zAmY.png",
+   "m": []
   },
   {
-   "id": 211743,
-   "n": "Menou Historia",
-   "alt": [],
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b211743-xMbHMoLIXkY5.png",
+   "id": 232632,
+   "n": "Ziyi Wang",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
    "m": [
-    "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
-    "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II",
-    "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2"
+    "Dinghai Fusheng Lu"
    ]
   }
  ],
- "Krista Lenz": [
+ "Wang Yi": [
   {
-   "id": 62481,
-   "n": "Krista Lenz",
-   "alt": [
-    "Christa",
-    "Cattle-Taming Goddess"
-   ],
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b62481-ZZDa7vn17lMU.png",
+   "id": 257419,
+   "n": "Yi Wang",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b257419-jduSnTB2zAmY.png",
+   "m": []
+  },
+  {
+   "id": 320932,
+   "n": "Wang Yingren",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
    "m": [
-    "Shingeki no Kyojin",
-    "Shingeki no Kyojin OVA",
-    "Shingeki no Kyojin: Chimi Kyara Gekijou - Tondeke! Kunren Heidan"
+    "Raiyantsuuri no Uta"
    ]
   }
  ],
- "Griffith": [
+ "Yamai Ren": [
   {
-   "id": 424,
-   "n": "Griffith",
-   "alt": [
-    "The White Hawk",
-    "The Hawk of Light",
-    "Falcon of Darkness",
-    "The Absolute"
-   ],
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b424-Jfrsf8I7zBps.png",
+   "id": 130874,
+   "n": "Ren Yamai",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130874-Q77FIzvZcFz1.png",
    "m": [
-    "Kenpuu Denki Berserk",
-    "Berserk: Ougon Jidai-hen I - Haou no Tamago",
-    "Berserk: Ougon Jidai-hen II - Doldrey Kouryaku"
-   ]
-  },
-  {
-   "id": 5753,
-   "n": "Hazuki Fujiwara",
-   "alt": [
-    "Reanne Griffith",
-    "Emilie Fujiwara"
-   ],
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/n5753-3Jd6m3FO2eC6.png",
-   "m": [
-    "Ojamajo Doremi",
-    "Ojamajo Doremi Sharp",
-    "Motto! Ojamajo Doremi"
-   ]
-  },
-  {
-   "id": 288009,
-   "n": "Elisa Griffith",
-   "alt": [],
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b288009-1DOMkf6QWl1X.png",
-   "m": [
-    "Hyouken no Majutsushi ga Sekai wo Suberu",
-    "Hyouken no Majutsushi ga Sekai wo Suberu II"
-   ]
-  },
-  {
-   "id": 3562,
-   "n": "James Griffith",
-   "alt": [
-    "Burn"
-   ],
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/3562.jpg",
-   "m": [
-    "Psychic Force"
-   ]
-  },
-  {
-   "id": 10215,
-   "n": "Griffith Lowran",
-   "alt": [],
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/10215.jpg",
-   "m": [
-    "Mahou Shoujo Lyrical Nanoha StrikerS"
-   ]
-  },
-  {
-   "id": 139428,
-   "n": "Griffith",
-   "alt": [],
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139428-ye1Y5sBxESqZ.jpg",
-   "m": [
-    "Mushikago no Cagaster"
-   ]
-  }
- ],
- "Akihiko Kayaba": [
-  {
-   "id": 36829,
-   "n": "Akihiko Kayaba",
-   "alt": [],
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36829-X5zITNEQ7xij.png",
-   "m": [
-    "Sword Art Online",
-    "Sword Art Offline",
-    "Sword Art Online: Extra Edition"
+    "Komi-san wa, Komyushou desu.",
+    "Komi-san wa, Komyushou desu. 2"
    ]
   }
  ]
