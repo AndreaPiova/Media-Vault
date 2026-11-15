@@ -1,24 +1,164 @@
 {
- "Zeke Yeager": [],
- "Obito Uchiha": [],
- "Bond Forger": [],
- "Rin Souma": [],
- "Yi Wang": [
+ "Zeke Jaeger": [],
+ "Zeke": [
   {
-   "id": 257419,
-   "n": "Yi Wang",
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b257419-jduSnTB2zAmY.png",
+   "id": 125661,
+   "n": "Zeke",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125661-FiqFvAtNlL0v.png",
+   "m": [
+    "Shingeki no Kyojin Season 2",
+    "Shingeki no Kyojin Season 3"
+   ]
+  },
+  {
+   "id": 172,
+   "n": "Hao Asakura",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b172-AuF01ttTXRsW.jpg",
+   "m": [
+    "Shaman King",
+    "Shaman King Tokubetsu Soushuuhen"
+   ]
+  },
+  {
+   "id": 189210,
+   "n": "Zeke",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b189210-ejV2TTFJQ6wa.png",
+   "m": [
+    "Gakuen Mokushiroku: HIGHSCHOOL OF THE DEAD",
+    "Gakuen Mokushiroku: HIGHSCHOOL OF THE DEAD - Drifters of the Dead"
+   ]
+  },
+  {
+   "id": 243753,
+   "n": "Sieghard Parvis",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b243753-nC9c0eAj1LU5.png",
    "m": []
   },
   {
-   "id": 232632,
-   "n": "Ziyi Wang",
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+   "id": 339775,
+   "n": "Zeke",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b339775-Pqz0nQqeRESk.png",
    "m": [
-    "Dinghai Fusheng Lu"
+    "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu"
+   ]
+  },
+  {
+   "id": 126532,
+   "n": "Sieg",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126532-Rp7HZBL3PDtt.jpg",
+   "m": [
+    "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
+    "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season"
    ]
   }
  ],
+ "Obito Uchiha": [],
+ "Obito": [
+  {
+   "id": 188432,
+   "n": "Naobito Zenin",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b188432-WePQBJsEuSts.png",
+   "m": [
+    "Jujutsu Kaisen",
+    "Jujutsu Kaisen 2nd Season"
+   ]
+  },
+  {
+   "id": 181506,
+   "n": "Kobito",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b181506-sdueyGh2A7aD.png",
+   "m": [
+    "Tsuki no Sango"
+   ]
+  },
+  {
+   "id": 361402,
+   "n": "Hajime Obitoke",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b361402-YxPLj3gmIcc7.jpg",
+   "m": []
+  },
+  {
+   "id": 72221,
+   "n": "Obito",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/72221.jpg",
+   "m": []
+  },
+  {
+   "id": 285667,
+   "n": "Kobito",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b285667-zFG1QKSI07UO.png",
+   "m": [
+    "Hokuto no Ken"
+   ]
+  },
+  {
+   "id": 295085,
+   "n": "Fitobitan",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b295085-8zRgY14cwMhv.png",
+   "m": [
+    "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life"
+   ]
+  }
+ ],
+ "Bond Forger": [],
+ "Bond": [
+  {
+   "id": 122463,
+   "n": "Bondrewd",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122463-p4o7qOTJ2Lba.jpg",
+   "m": [
+    "Made in Abyss",
+    "Made in Abyss: Fukaki Tamashii no Reimei"
+   ]
+  },
+  {
+   "id": 169679,
+   "n": "Bond",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169679-EFPubVtZFYom.jpg",
+   "m": [
+    "SPY×FAMILY",
+    "SPY×FAMILY Part 2"
+   ]
+  },
+  {
+   "id": 274081,
+   "n": "Bondman",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274081-OQdVAPCoTuBI.png",
+   "m": [
+    "SPY×FAMILY",
+    "SPY×FAMILY Part 2"
+   ]
+  },
+  {
+   "id": 133029,
+   "n": "Natsunosuke Bonda",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133029-EM39KqzvzKe3.png",
+   "m": [
+    "Gurazeni",
+    "Gurazeni 2"
+   ]
+  },
+  {
+   "id": 208150,
+   "n": "Kojiro Bondo",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b208150-YjTVkA257Eva.jpg",
+   "m": [
+    "Boku no Hero Academia 2",
+    "Boku no Hero Academia 5"
+   ]
+  },
+  {
+   "id": 133556,
+   "n": "Rurou Arthur",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/n133556-bm09gNfS3WC3.jpg",
+   "m": [
+    "Hangyaku-sei Million Arthur",
+    "Hangyaku-sei Million Arthur 2"
+   ]
+  }
+ ],
+ "Rin Souma": [],
+ "Rin Sohma": [],
  "Wang Yi": [
   {
    "id": 257419,
@@ -35,14 +175,59 @@
    ]
   }
  ],
- "Yamai Ren": [
+ "Ouki": [
   {
-   "id": 130874,
-   "n": "Ren Yamai",
-   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130874-Q77FIzvZcFz1.png",
+   "id": 88240,
+   "n": "Kazuma",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88240-Q1aOkqfeFQpV.png",
    "m": [
-    "Komi-san wa, Komyushou desu.",
-    "Komi-san wa, Komyushou desu. 2"
+    "Noragami",
+    "Noragami OVA"
+   ]
+  },
+  {
+   "id": 210154,
+   "n": "Koukichi Muta",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210154-nIn9DX39GFKP.jpg",
+   "m": [
+    "Jujutsu Kaisen",
+    "Jujutsu Kaisen 0"
+   ]
+  },
+  {
+   "id": 65543,
+   "n": "Kiyotaka Ishimaru",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65543-eyfH7fv9FMw9.jpg",
+   "m": [
+    "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation",
+    "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen"
+   ]
+  },
+  {
+   "id": 35660,
+   "n": "Houki Shinonono",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35660-kHfdwJ4ZOubg.jpg",
+   "m": [
+    "IS: Infinite Stratos",
+    "IS: Infinite Stratos Encore - Koi ni Kogareru Sextet"
+   ]
+  },
+  {
+   "id": 186587,
+   "n": "Douki-chan",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b186587-3R4tV5tzo6kO.png",
+   "m": [
+    "Ganbare, Douki-chan",
+    "Ganbare, Douki-chan Special"
+   ]
+  },
+  {
+   "id": 82875,
+   "n": "Shoukichi Naruko",
+   "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82875-VQzo1xSmC6Ib.jpg",
+   "m": [
+    "Yowamushi Pedal: SPECIAL RIDE",
+    "Yowamushi Pedal"
    ]
   }
  ]
