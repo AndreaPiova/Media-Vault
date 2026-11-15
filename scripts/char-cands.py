@@ -47,4 +47,4 @@ for it in inp:
         sc.sort(key=lambda z: -z[0])
         out.setdefault(it["id"], {})[name] = {"pool": len(pool), "cands": [{"id": c["id"], "name": c["name"]["full"], "fav": c["favourites"], "score": round(s, 2), "url": c["image"]["large"]} for s, c in sc[:4]]}
     print(it["id"], len(pool), file=sys.stderr)
-json.dump(out, open("data/char-cands2.json", "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+json.dump(out, open("data/char-cands3.json", "w", encoding="utf-8"), ensure_ascii=False, indent=0)
