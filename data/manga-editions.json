@@ -112,10 +112,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-20T13:58:30.814Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:23:18.521Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m2": {
     "editions": [
@@ -156,7 +155,7 @@
         "last": "2026-10-28"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:30.814Z",
+    "lastChecked": "2026-11-21T13:23:18.521Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -172,7 +171,7 @@
         "last": "2013-11-16"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:30.814Z",
+    "lastChecked": "2026-11-21T13:23:18.521Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -206,7 +205,7 @@
         "last": "2023-12-21"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:30.814Z",
+    "lastChecked": "2026-11-21T13:23:18.521Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -303,7 +302,7 @@
         "last": "2024-08-29"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:30.814Z",
+    "lastChecked": "2026-11-21T13:23:18.521Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -364,7 +363,7 @@
         "last": "2025-06-05"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:30.814Z",
+    "lastChecked": "2026-11-21T13:23:18.521Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -380,7 +379,7 @@
         "last": "2022-03-10"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:30.814Z",
+    "lastChecked": "2026-11-21T13:23:18.521Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -396,7 +395,7 @@
         "last": "2011-02-13"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:30.814Z",
+    "lastChecked": "2026-11-21T13:23:18.521Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -421,7 +420,7 @@
         "last": "2019-07-17"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:30.814Z",
+    "lastChecked": "2026-11-21T13:23:18.521Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -500,7 +499,7 @@
         "last": "2022-10-27"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:30.814Z",
+    "lastChecked": "2026-11-21T13:23:18.521Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -534,7 +533,7 @@
         "last": "2018-11-01"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:30.814Z",
+    "lastChecked": "2026-11-21T13:23:18.521Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -559,17 +558,17 @@
         "last": "2020-02-27"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:30.814Z",
+    "lastChecked": "2026-11-21T13:23:18.521Z",
     "status": 200,
     "via": "jina-html"
   },
   "m13": {
     "editions": [],
     "variants": [],
-    "lastChecked": "2026-11-20T13:55:17.190Z",
-    "status": 401,
+    "lastChecked": "2026-11-21T13:19:04.860Z",
+    "status": 200,
     "via": "jina-html",
-    "error": "HTTP 401"
+    "error": "pagina letta ma nessuna edizione riconosciuta"
   },
   "m14": {
     "editions": [
@@ -592,7 +591,7 @@
         "last": "2012-02-18"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:30.814Z",
+    "lastChecked": "2026-11-21T13:23:18.521Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -770,7 +769,7 @@
         "last": "2021-10-29"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:30.814Z",
+    "lastChecked": "2026-11-21T13:23:18.521Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -841,7 +840,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-20T13:58:33.672Z",
+    "lastChecked": "2026-11-21T13:23:47.829Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -875,7 +874,7 @@
         "last": "2019-07-11"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:33.672Z",
+    "lastChecked": "2026-11-21T13:23:47.829Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -891,7 +890,7 @@
         "last": "2019-07-03"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:33.672Z",
+    "lastChecked": "2026-11-21T13:23:47.829Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1132,7 +1131,7 @@
         "last": "2025-09-25"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:33.672Z",
+    "lastChecked": "2026-11-21T13:23:47.829Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1166,7 +1165,7 @@
         "last": "2022-10-28"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:33.672Z",
+    "lastChecked": "2026-11-21T13:23:47.829Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1255,7 +1254,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-20T13:58:34.964Z",
+    "lastChecked": "2026-11-21T13:24:02.466Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1307,7 +1306,7 @@
         "last": "2026-05-05"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:34.964Z",
+    "lastChecked": "2026-11-21T13:24:02.466Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1377,7 +1376,7 @@
         "last": "2023-09-20"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:34.964Z",
+    "lastChecked": "2026-11-21T13:24:02.466Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1465,7 +1464,7 @@
         "last": "2013-08-31"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:34.964Z",
+    "lastChecked": "2026-11-21T13:24:02.466Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1500,7 +1499,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-20T13:58:36.255Z",
+    "lastChecked": "2026-11-21T13:24:17.119Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1717,10 +1716,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-20T13:55:48.671Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:19:38.919Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m27": {
     "editions": [
@@ -1785,10 +1783,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-20T13:55:56.457Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:19:47.466Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m28": {
     "editions": [
@@ -1863,10 +1860,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-20T13:56:04.355Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:19:56.242Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m30": {
     "editions": [
@@ -1902,10 +1898,9 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-20T13:56:13.711Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:20:19.611Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m29": {
     "editions": [
@@ -1929,7 +1924,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-20T13:58:40.129Z",
+    "lastChecked": "2026-11-21T13:25:01.074Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -1972,7 +1967,7 @@
         "last": "2025-07-23"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:40.129Z",
+    "lastChecked": "2026-11-21T13:25:01.074Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2078,7 +2073,7 @@
         "last": "2024-04-18"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:40.129Z",
+    "lastChecked": "2026-11-21T13:25:01.074Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2095,7 +2090,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-20T13:58:41.420Z",
+    "lastChecked": "2026-11-21T13:25:15.634Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -2112,10 +2107,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-20T13:56:21.600Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:20:28.268Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m35": {
     "editions": [
@@ -2230,10 +2224,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-20T13:56:29.491Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:20:36.953Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m36": {
     "editions": [
@@ -2368,10 +2361,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-20T13:56:37.290Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:20:46.067Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m37": {
     "editions": [
@@ -2457,10 +2449,9 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-20T13:56:46.651Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:21:09.944Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m38": {
     "editions": [
@@ -2475,10 +2466,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-20T13:56:54.432Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:21:18.878Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m39": {
     "editions": [
@@ -2503,10 +2493,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-20T13:57:02.310Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:21:27.676Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m40": {
     "editions": [
@@ -2531,10 +2520,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-20T13:57:10.196Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:21:36.349Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m41": {
     "editions": [
@@ -2589,10 +2577,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-20T13:57:18.090Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:21:45.028Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m44": {
     "editions": [
@@ -2617,10 +2604,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-20T13:57:25.914Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:21:53.703Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m43": {
     "editions": [
@@ -2645,10 +2631,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-20T13:57:33.951Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:22:02.458Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m45": {
     "editions": [
@@ -2803,10 +2788,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-20T13:57:41.833Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:22:11.253Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m46": {
     "editions": [
@@ -2821,10 +2805,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-20T13:57:49.627Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:22:19.766Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m47": {
     "editions": [
@@ -2853,10 +2836,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-20T13:57:57.529Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:22:28.568Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m48": {
     "editions": [
@@ -2871,10 +2853,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-20T13:58:05.417Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:22:37.025Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m49": {
     "editions": [
@@ -2889,10 +2870,9 @@
         "next": null
       }
     ],
-    "lastChecked": "2026-11-20T13:58:13.380Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:22:45.587Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m51": {
     "editions": [
@@ -2938,10 +2918,9 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-20T13:58:22.857Z",
-    "status": 401,
-    "via": "jina-html",
-    "error": "HTTP 401"
+    "lastChecked": "2026-11-21T13:23:08.773Z",
+    "status": 200,
+    "via": "jina-html"
   },
   "m52": {
     "editions": [
@@ -3019,7 +2998,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-20T13:58:32.381Z",
+    "lastChecked": "2026-11-21T13:23:33.150Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3053,7 +3032,7 @@
         "last": "2017-02-22"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:32.381Z",
+    "lastChecked": "2026-11-21T13:23:33.150Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3069,7 +3048,7 @@
         "last": "2016-09-01"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:32.381Z",
+    "lastChecked": "2026-11-21T13:23:33.150Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3094,7 +3073,7 @@
         "last": "2025-11-19"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:32.381Z",
+    "lastChecked": "2026-11-21T13:23:33.150Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3164,7 +3143,7 @@
         "last": "2022-09-28"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:36.255Z",
+    "lastChecked": "2026-11-21T13:24:17.120Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3180,7 +3159,7 @@
         "last": "2022-09-29"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:36.255Z",
+    "lastChecked": "2026-11-21T13:24:17.120Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3205,7 +3184,7 @@
         "last": "2011-12-17"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:36.255Z",
+    "lastChecked": "2026-11-21T13:24:17.120Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3258,7 +3237,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-20T13:58:37.546Z",
+    "lastChecked": "2026-11-21T13:24:31.798Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3283,7 +3262,7 @@
         "last": "2018-12-13"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:37.547Z",
+    "lastChecked": "2026-11-21T13:24:31.798Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3308,16 +3287,16 @@
         "last": "2025-02-11"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:37.547Z",
+    "lastChecked": "2026-11-21T13:24:31.798Z",
     "status": 200,
     "via": "jina-html"
   },
   "m61": {
     "editions": [],
-    "lastChecked": "2026-11-20T13:55:24.990Z",
-    "status": 401,
+    "lastChecked": "2026-11-21T13:19:12.931Z",
+    "status": 200,
     "via": "jina-html",
-    "error": "HTTP 401"
+    "error": "pagina letta ma nessuna edizione riconosciuta"
   },
   "m62": {
     "editions": [
@@ -3367,7 +3346,7 @@
         "last": "2022-10-12"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:37.547Z",
+    "lastChecked": "2026-11-21T13:24:31.798Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3383,7 +3362,7 @@
         "last": "2021-11-24"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:37.547Z",
+    "lastChecked": "2026-11-21T13:24:31.798Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3408,7 +3387,7 @@
         "last": "2022-03-31"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:37.547Z",
+    "lastChecked": "2026-11-21T13:24:31.798Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3443,7 +3422,7 @@
       }
     ],
     "variants": [],
-    "lastChecked": "2026-11-20T13:58:38.837Z",
+    "lastChecked": "2026-11-21T13:24:46.391Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3468,7 +3447,7 @@
         "last": "2020-07-23"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:38.837Z",
+    "lastChecked": "2026-11-21T13:24:46.391Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3520,7 +3499,7 @@
         "last": "2016-12-01"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:38.837Z",
+    "lastChecked": "2026-11-21T13:24:46.391Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3545,7 +3524,7 @@
         "last": "2025-11-04"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:38.837Z",
+    "lastChecked": "2026-11-21T13:24:46.391Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3606,7 +3585,7 @@
         "last": "2026-03-31"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:38.837Z",
+    "lastChecked": "2026-11-21T13:24:46.391Z",
     "status": 200,
     "via": "jina-html"
   },
@@ -3658,16 +3637,16 @@
         "last": "2023-03-30"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:38.837Z",
+    "lastChecked": "2026-11-21T13:24:46.391Z",
     "status": 200,
     "via": "jina-html"
   },
   "m73": {
     "editions": [],
-    "lastChecked": "2026-11-20T13:55:32.911Z",
-    "status": 401,
+    "lastChecked": "2026-11-21T13:19:21.180Z",
+    "status": 200,
     "via": "jina-html",
-    "error": "HTTP 401"
+    "error": "pagina letta ma nessuna edizione riconosciuta"
   },
   "m94": {
     "editions": [
@@ -3717,82 +3696,82 @@
         "last": "2026-11-30"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:38.837Z",
+    "lastChecked": "2026-11-21T13:24:46.391Z",
     "status": 200,
     "via": "jina-html"
   },
   "m99": {
     "editions": [],
-    "lastChecked": "2026-11-20T13:55:40.706Z",
-    "status": 401,
+    "lastChecked": "2026-11-21T13:19:29.499Z",
+    "status": 200,
     "via": "jina-html",
-    "error": "HTTP 401"
+    "error": "pagina letta ma nessuna edizione riconosciuta"
   },
   "watch_m50": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m72": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m74": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m75": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m76": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m77": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m78": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m79": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m80": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m81": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m82": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m83": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m84": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m86": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m87": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m88": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m89": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m90": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m91": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m92": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.499Z"
   },
   "watch_m93": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.500Z"
   },
   "watch_m98": {
-    "lastChecked": "2026-11-20T13:55:40.707Z"
+    "lastChecked": "2026-11-21T13:19:29.500Z"
   },
   "m85": {
     "editions": [
@@ -3806,7 +3785,7 @@
         "last": "2026-11-30"
       }
     ],
-    "lastChecked": "2026-11-20T13:58:38.837Z",
+    "lastChecked": "2026-11-21T13:24:46.391Z",
     "status": 200,
     "via": "jina-html"
   }
