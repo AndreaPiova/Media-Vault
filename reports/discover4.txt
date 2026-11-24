@@ -1,0 +1,19 @@
+
+## PANINI https://www.panini.it/shp_ita_it/catalogsearch/result/?q=jujutsu+kaisen+1 200 https://panini.queue-it.net/?c=panini&e=paniniitaly&ver=v3-php-3.7.4&cver=29&man=Panini%20Italy%20Action&t=https%3A%2F%2Fwww.panini.it%2Fshp_ita_it%2Fcatalogsearch%2Fresult%2F%3Fq%3Djujutsu%2Bkaisen%2B1&kupver=magento2_1.3.5 2333
+prodotti: []
+img catalog: []
+
+## PANINI https://www.panini.it/shp_ita_it/fumetti-e-manga.html 200 https://panini.queue-it.net/?c=panini&e=paniniitaly&ver=v3-php-3.7.4&cver=29&man=Panini%20Italy%20Action&t=https%3A%2F%2Fwww.panini.it%2Fshp_ita_it%2Ffumetti-e-manga.html&kupver=magento2_1.3.5 2289
+prodotti: []
+img catalog: []
+
+ISBN13 9788828754220 ISBN10 8828754222
+IMG openlibrary-L 404  0 non immagine
+IMG amazon-images-P 200 image/jpeg 40144 (329, 500)
+IMG amazon-media-P 200 image/jpeg 160734 (1000, 1520)
+IMG feltrinelli-0_0_536_0_75 503 text/html 14745 non immagine
+IMG feltrinelli-0_0_1200_0_75 503 text/html 14745 non immagine
+IMG feltrinelli-0_0_0_0_75 503 text/html 14745 non immagine
+IMG ibs-536 200 image/jpeg 77204 (536, 815)
+IMG ibs-1200 200 image/jpeg 184392 (1000, 1520)
+IMG libraccio-536 200 image/jpeg 77204 (536, 815)
