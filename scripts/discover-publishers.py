@@ -1,20 +1,26 @@
-import requests,re,os
+import requests,re,os,json
 UA={"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/124 Safari/537.36","Accept-Language":"it-IT,it;q=0.9"}
-URLS=["https://www.starcomics.com/","https://www.starcomics.com/search/node?keys=demon+slayer","https://www.starcomics.com/cerca?keys=demon+slayer",
-"https://www.j-pop.it/","https://www.j-pop.it/?s=dandadan","https://www.j-pop.it/search?q=dandadan",
-"https://www.panini.it/shp_ita_it/catalogsearch/result/?q=jujutsu+kaisen","https://www.edizionibd.it/"]
-os.makedirs("reports",exist_ok=True); out=open("reports/discover.txt","w",encoding="utf8")
-for u in URLS:
-    out.write("\n\n######## %s\n"%u)
-    try:
-        r=requests.get(u,headers=UA,timeout=25,allow_redirects=True)
-        t=r.text
-        out.write("final=%s status=%s ctype=%s len=%d\n"%(r.url,r.status_code,r.headers.get("content-type"),len(t)))
-        out.write("forms: %s\n"%re.findall(r'<form[^>]{0,200}',t)[:4])
-        imgs=re.findall(r'(?:src|data-src|content)="([^"]+\.(?:jpg|jpeg|png|webp)[^"]*)"',t)
-        out.write("img: %s\n"%imgs[:8])
-        links=[l for l in re.findall(r'href="([^"]+)"',t) if re.search(r'fumett|manga|volum|serie|catalog|prodott',l)]
-        out.write("links: %s\n"%links[:12])
-        out.write("html head: %s\n"%re.sub(r'\s+',' ',t[:700]))
-    except Exception as e: out.write("ERRORE %s\n"%e)
+os.makedirs("reports",exist_ok=True); out=open("reports/discover2.txt","w",encoding="utf8")
+def w(*a): out.write(" ".join(str(x) for x in a)+"\n")
+def get(u,**k):
+    try: return requests.get(u,headers=UA,timeout=30,**k)
+    except Exception as e: w("ERRORE",u,e); return None
+# --- Star Comics: pagina prodotto
+r=get("https://www.starcomics.com/fumetto/detective-conan-new-edition-75")
+if r:
+    t=r.text; w("STAR prodotto",r.status_code,len(t))
+    w("og:image:",re.findall(r'property="og:image"[^>]*',t)[:3])
+    w("img prodotto:",[i for i in re.findall(r'(?:src|data-src|href|content)="([^"]+\.(?:jpg|jpeg|png|webp)[^"]*)"',t) if "cover" in i.lower() or "copertin" in i.lower() or "fumett" in i.lower()][:10])
+    w("input ricerca:",re.findall(r'<input[^>]{0,160}',t)[:5])
+for u in ["https://www.starcomics.com/sitemap.xml","https://www.starcomics.com/robots.txt","https://www.starcomics.com/ricerca-fumetti?titolo=conan","https://www.starcomics.com/ricerca-fumetti?search=conan","https://www.starcomics.com/catalogo-fumetti"]:
+    r=get(u)
+    if r: w("\nSTAR",u,r.status_code,r.headers.get("content-type"),len(r.text)); w(re.sub(r'\s+',' ',r.text[:900])); w("links /fumetto/:",len(re.findall(r'href="/fumetto/',r.text)),"| paginazione:",re.findall(r'href="([^"]*(?:page|pagina|p)=\d+[^"]*)"',r.text)[:4])
+# --- J-POP Shopify
+r=get("https://j-pop.it/collections/manga/products.json?limit=2")
+if r:
+    w("\nJPOP products.json",r.status_code); w(r.text[:1800])
+r=get("https://j-pop.it/search/suggest.json?q=dandadan&resources[type]=product&resources[limit]=3")
+if r: w("\nJPOP suggest",r.status_code,r.text[:900])
+r=get("https://j-pop.it/sitemap.xml")
+if r: w("\nJPOP sitemap",r.status_code,r.text[:700])
 out.close()
