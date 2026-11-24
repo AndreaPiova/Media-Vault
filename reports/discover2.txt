@@ -1,0 +1,32 @@
+STAR prodotto 200 87369
+og:image: ['property="og:image" content="https://www.starcomics.com/files/immagini/fumetti-cover/detectiveconan-newedition-75-1200px" /']
+img prodotto: []
+input ricerca: ['<input type="text" id="q" name="q" class="form-control" placeholder="Cerca fumetti" autocomplete="off" data-source="/ricerca-fumetti/autocomplete"/', '<input type="hidden" id="q_shop" name="shop" value="0" /']
+
+STAR https://www.starcomics.com/ricerca-fumetti?search=conan 200 text/html;charset=UTF-8 171632
+<!DOCTYPE html> <html lang="it" class="h-100"> <head> <meta charset="utf-8"/> <meta http-equiv="X-UA-Compatible" content="IE=edge"/> <meta name="viewport" content="width=device-width, initial-scale=1"/> <title>Star Comics | Ricerca fumetti</title> <meta name="copyright" content="Starcomics"/> <meta name="format-detection" content="telephone=no"/> <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /> <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png" /> <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png" /> <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png" /> <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-icon-76x76.png" /> <link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-icon-114x114.png" /> <link rel="apple-touch-ic
+links /fumetto/: 0 | paginazione: []
+
+STAR https://www.starcomics.com/catalogo-fumetti 200 text/html;charset=UTF-8 416815
+<!DOCTYPE html> <html lang="it" class="h-100"> <head> <meta charset="utf-8"/> <meta http-equiv="X-UA-Compatible" content="IE=edge"/> <meta name="viewport" content="width=device-width, initial-scale=1"/> <title>Star Comics | Shop fumetti online</title> <meta name="copyright" content="Starcomics"/> <meta name="format-detection" content="telephone=no"/> <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /> <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png" /> <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png" /> <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png" /> <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-icon-76x76.png" /> <link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-icon-114x114.png" /> <link rel="apple-touc
+links /fumetto/: 0 | paginazione: []
+
+JPOP products.json 200
+{"products":[{"id":16656397599065,"title":"ADOLESCENZA ESPLOSIVA - SEISHUN BAKUSOU! 2","handle":"adolescenza-esplosiva-seishun-bakusou-2","body_html":"\u003cstrong\u003eDopo non essere riuscito a diventare l'anima della festa che lui stesso ha organizzato, Maruo si rende conto che le distanze tra lui e Tabe vanno accorciandosi sempre più. Rimasto da solo con lei nella lussuosa villa del fratello, si trova di fronte a un'occasione d'oro per la sua prima esperienza, che prende però una piega inquietante per via dei fetish decisamente particolari della ragazza... Come se non bastasse, la sparizione degli otto milioni di yen trovati in casa rischia di rovinare irrimediabilmente i rapporti tra i membri del club...\u003c\/strong\u003e","published_at":"2026-11-24T00:10:07+01:00","created_at":"2026-10-01T11:22:14+02:00","updated_at":"2026-11-24T11:31:23+01:00","vendor":"J-POP","product_type":"FUMETTI","tags":["FUMETTI","MANGA","uscita-recente"],"variants":[{"id":59653724635481,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"448779","requires_shipping":true,"taxable":false,"featured_image":null,"available":true,"price":"7.50","grams":0,"compare_at_price":"7.50","position":1,"product_id":16656397599065,"created_at":"2026-10-01T11:22:14+02:00","updated_at":"2026-11-24T11:31:23+01:00"}],"images":[{"id":94345723707737,"created_at":"2026-11-24T00:10:10+01:00","position":1,"updated_at":"2026-11-24T00:10:12+01:00","product_id":16656397599065,"variant_ids":[],"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1066\/5813\/6409\/files\/cover_04faee29-d704-4f38-accf-3346b9afd88a.jpg?v=1795475412","width":1496,"height":2126}],"options":[{"name":"Title","position":1,"values":["Default Title"]}]},{"id":16656396714329,"title":"GON - NUOVA EDIZIONE VOL.1","han
+
+JPOP suggest 200 {"resources":{"results":{"products":[{"available":true,"body":"\u003cstrong\u003eLO SHONEN CHE HA TRAVOLTO IL WEB, CONOLTRE 40 MILIONI DI VISUALIZZAZIONI SULLAPIATTAFORMA DI E-COMICS SHONEN JUMP+ Ken Takakura, uno studente di liceo che crede negli alieni ma non nei fantasmi, e Momo Ayase, sua compagna di scuola che la pensa in maniera opposta, stanno per dare corpo alla sfida più epica di sempre. Per determinare chi tra i due ci ha visto giusto, si accordano per visitare dei luoghi legati all'occulto e agli avvistamenti di UFO, certi di trovare prove sufficienti per smentire l'altro. Nelle loro mete, però, entrambi i ragazzi saranno attesi dalla stessa, sconvolgenterisposta: nessuno dei due, in realtà, aveva torto! Arriva in Italia l'originale shonen di formazione in chiave sovrannaturale che ha conquistato ilGiappone, tra azione, ironia e fan service.\u003c\/strong\u003e","compare_at_pr
+
+JPOP sitemap 200 <?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- This is the parent sitemap linking to additional sitemaps for products, collections and pages as shown below. The sitemap can not be edited manually, but is kept up to date in real time. -->
+  <sitemap>
+    <loc>https://j-pop.it/sitemap_agentic_discovery.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://j-pop.it/sitemap_products_1.xml?from=16468132397401&amp;to=16468302725465</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://j-pop.it/sitemap_products_2.xml?from=16468303479129&amp;to=16468470792537</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://j-pop.it/sitemap_products_3.xml?from
