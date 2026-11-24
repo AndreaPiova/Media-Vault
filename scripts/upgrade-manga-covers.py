@@ -1,0 +1,88 @@
+import os,re,io,json,csv,time,subprocess,sys,unicodedata,requests
+import numpy as np
+from PIL import Image,ImageOps
+UA={"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/124 Safari/537.36","Accept-Language":"it-IT,it;q=0.9"}
+START=int(os.environ.get("START","0")); COUNT=int(os.environ.get("COUNT","40")); MODE=os.environ.get("MODE","dry")
+ONLY=os.environ.get("ONLY","").strip()
+S=requests.Session(); S.headers.update(UA)
+def norm(s):
+    s=unicodedata.normalize("NFKD",s).encode("ascii","ignore").decode().lower().replace("'"," ")
+    return re.sub(r"[^a-z0-9]+"," ",s).split()
+STOP={"nuova","edizione","vol","volume","new","edition","il","la","lo","le","di","dei","del","della","n"}
+def sig(im):
+    a=np.asarray(ImageOps.grayscale(im).resize((24,36)),dtype=float); return (a-a.mean())/(a.std()+1e-6)
+def sim(a,b): return float((sig(a)*sig(b)).mean())
+def getimg(u):
+    r=S.get(u,timeout=60); r.raise_for_status()
+    return Image.open(io.BytesIO(r.content)).convert("RGB")
+# ---- catalogo J-POP (Shopify)
+jp=[]
+for col in ("manga","fumetti"):
+    for p in range(1,40):
+        try: d=S.get("https://j-pop.it/collections/%s/products.json?limit=250&page=%d"%(col,p),timeout=60).json().get("products",[])
+        except Exception: break
+        if not d: break
+        for x in d:
+            if x["images"]: jp.append(dict(title=x["title"],handle=x["handle"],img=x["images"][0]["src"],w=x["images"][0].get("width",0)))
+seen=set(); jp=[x for x in jp if not (x["handle"] in seen or seen.add(x["handle"]))]
+print("catalogo J-POP:",len(jp),flush=True)
+def volnum(t):
+    m=re.search(r"(?:vol\.?|volume|n\.?)\s*(\d+)",t,re.I) or re.search(r"(\d+)\s*$",t.strip()) 
+    return int(m.group(1)) if m else None
+for x in jp: x["tok"]=set(norm(x["title"]))-STOP; x["vol"]=volnum(x["title"])
+# ---- target
+files=sorted(f for f in os.listdir("covers/manga") if f.startswith("manga_") and f.endswith(".jpg"))
+tg=[]
+for f in files:
+    m=re.match(r"manga_(.+)_vol(\d+)\.jpg$",f)
+    if not m: continue
+    w=Image.open("covers/manga/"+f).size[0]
+    if w<800: tg.append((f,m.group(1),int(m.group(2)),w))
+if ONLY: tg=[t for t in tg if ONLY in t[0]]
+tg=tg[START:START+COUNT]; print("target di questo blocco:",len(tg),flush=True)
+def star_candidates(series,n):
+    q=" ".join(t for t in series.split("_") if len(t)>1)+" "+str(n)
+    try: html=S.get("https://www.starcomics.com/ricerca-fumetti",params={"q":q,"shop":0},timeout=60).text
+    except Exception: return []
+    slugs=list(dict.fromkeys(re.findall(r'/fumetto/([a-z0-9\-]+)',html)))
+    st=set(norm(series.replace("_"," ")))-STOP; out=[]
+    for s in slugs:
+        mm=re.match(r"(.+)-(\d+)$",s)
+        if not mm or int(mm.group(2))!=n: continue
+        tk=set(norm(mm.group(1).replace("-"," ")))-STOP
+        if st and len(st&tk)/len(st|tk)>=0.6: out.append(s)
+    return out[:3]
+def star_img(slug):
+    html=S.get("https://www.starcomics.com/fumetto/"+slug,timeout=60).text
+    m=re.search(r'property="og:image"[^>]*content="([^"]+)"',html)
+    return m.group(1) if m else None
+os.makedirs("reports/manga-upgrade",exist_ok=True)
+rep=[]; changed=0
+for f,series,n,cw in tg:
+    cur=Image.open("covers/manga/"+f).convert("RGB"); best=None; why="nessun candidato"
+    st=set(norm(series.replace("_"," ")))-STOP
+    cands=[("jpop",x["img"],x["title"]) for x in jp if x["vol"]==n and st and len(st&x["tok"])/len(st|x["tok"])>=0.6][:3]
+    try:
+        for slug in star_candidates(series,n):
+            u=star_img(slug)
+            if u: cands.append(("star",u,slug))
+    except Exception as e: why="errore star: %s"%e
+    for src,u,label in cands:
+        try:
+            im=getimg(u); s=sim(cur,im)
+        except Exception as e: why="errore download %s"%e; continue
+        if s<0.80: why="similarita bassa %.2f (%s)"%(s,label); continue
+        if im.size[0]<cw*1.15: why="non migliore (%dpx vs %dpx)"%(im.size[0],cw); continue
+        if not best or im.size[0]>best[0].size[0]: best=(im,src,u,s,label)
+    if best:
+        im,src,u,s,label=best; W,H=im.size
+        if W>2400: im=im.resize((2400,round(H*2400/W)),Image.LANCZOS); W,H=im.size
+        out=im.resize((W,round(W*1.5)),Image.LANCZOS)
+        rep.append([f,"MIGLIORATA",cw,"%dx%d"%(W,round(W*1.5)),src,label,round(s,2),u])
+        if MODE=="apply": out.save("covers/manga/"+f,"JPEG",quality=100,subsampling=0,optimize=True); changed+=1
+    else: rep.append([f,"SALTATA",cw,"","","",0,why])
+    print(rep[-1][:2],f,rep[-1][-1][:70],flush=True); time.sleep(0.4)
+name="reports/manga-upgrade/%s-%d-%d.csv"%(MODE,START,START+COUNT)
+with open(name,"w",newline="",encoding="utf8") as fh:
+    w=csv.writer(fh); w.writerow(["file","esito","largh_attuale","nuova_dimensione","fonte","titolo_o_slug","somiglianza","url_o_motivo"]); w.writerows(rep)
+print("migliorate:",sum(1 for r in rep if r[1]=="MIGLIORATA"),"su",len(rep))
