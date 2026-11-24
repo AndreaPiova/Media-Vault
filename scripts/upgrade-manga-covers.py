@@ -56,6 +56,22 @@ def star_img(slug):
     html=S.get("https://www.starcomics.com/fumetto/"+slug,timeout=60).text
     m=re.search(r'property="og:image"[^>]*content="([^"]+)"',html)
     return m.group(1) if m else None
+
+import html as _html
+def isbn10(i13):
+    d=[int(c) for c in i13[3:12]]; t=sum((10-k)*x for k,x in enumerate(d)); c=(11-t%11)%11; return "".join(map(str,d))+("X" if c==10 else str(c))
+def libraccio_isbns(series,n):
+    q=" ".join(t for t in series.split("_") if len(t)>1)+" "+str(n)
+    try: h=S.get("https://www.libraccio.it/src/",params={"FT":q},timeout=60).text
+    except Exception: return []
+    st=set(norm(series.replace("_"," ")))-STOP; out=[]
+    for path,isbn in re.findall(r'href="(/libro/(97[89]\d{10})[^"]*)"',h):
+        slug=_html.unescape(path.split("/",3)[-1]); tk=set(norm(slug))-STOP
+        m=re.search(r"vol\.?-?\s*(\d+)",slug) or re.search(r"[.\-](\d+)(?:\.html|\.\.|$)",slug)
+        if m and int(m.group(1))==n and st and len(st&tk)/len(st)>=0.8 and isbn not in [o[0] for o in out]: out.append((isbn,slug[:60]))
+    return out[:5]
+def retailer_urls(isbn):
+    return [("amazon","https://m.media-amazon.com/images/P/%s.01._SCRMZZZZZZ_.jpg"%isbn10(isbn)),("ibs","https://www.ibs.it/images/%s_0_0_1200_0_75.jpg"%isbn)]
 os.makedirs("reports/manga-upgrade",exist_ok=True)
 rep=[]; changed=0
 for f,series,n,cw in tg:
@@ -74,6 +90,15 @@ for f,series,n,cw in tg:
         if s<0.80: why="similarita bassa %.2f (%s)"%(s,label); continue
         if im.size[0]<cw*1.15: why="non migliore (%dpx vs %dpx)"%(im.size[0],cw); continue
         if not best or im.size[0]>best[0].size[0]: best=(im,src,u,s,label)
+    if (not best) or best[0].size[0]<1000:
+        for isbn,slug in libraccio_isbns(series,n):
+            for rsrc,u in retailer_urls(isbn):
+                try: im=getimg(u)
+                except Exception as e: continue
+                if im.size[0]<cw*1.15 or im.size[0]<400: continue          # misura la dimensione REALE del file scaricato
+                s=sim(cur,im)
+                if s<0.80: why="similarita bassa %.2f (libraccio %s)"%(s,slug); continue
+                if not best or im.size[0]>best[0].size[0]: best=(im,rsrc,u,s,"ISBN "+isbn+" "+slug)
     if best:
         im,src,u,s,label=best; W,H=im.size
         if W>2400: im=im.resize((2400,round(H*2400/W)),Image.LANCZOS); W,H=im.size
