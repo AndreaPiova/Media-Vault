@@ -45,6 +45,7 @@ def star_candidates(series,n):
     try: html=S.get("https://www.starcomics.com/ricerca-fumetti",params={"q":q,"shop":0},timeout=60).text
     except Exception: return []
     slugs=list(dict.fromkeys(re.findall(r'/fumetto/([a-z0-9\-]+)',html)))
+    if os.environ.get("DEBUG"): DBG.append("STAR q=%s len_html=%d slugs=%d primi: %s"%(q,len(html),len(slugs),slugs[:6]))
     st=set(norm(series.replace("_"," ")))-STOP; out=[]
     for s in slugs:
         mm=re.match(r"(.+)-(\d+)$",s)
@@ -65,6 +66,8 @@ def libraccio_isbns(series,n):
     try: h=S.get("https://www.libraccio.it/src/",params={"FT":q},timeout=60).text
     except Exception: return []
     st=set(norm(series.replace("_"," ")))-STOP; out=[]
+    _all=re.findall(r'href="(/libro/(97[89]\\d{10})[^"]*)"',h)
+    if os.environ.get("DEBUG"): DBG.append("LIBRACCIO q=%s status ok, risultati=%d, primi: %s"%(q,len(_all),[_html.unescape(p.split("/",3)[-1])[:55] for p,_ in _all[:6]]))
     for path,isbn in re.findall(r'href="(/libro/(97[89]\d{10})[^"]*)"',h):
         slug=_html.unescape(path.split("/",3)[-1]); tk=set(norm(slug))-STOP
         m=re.search(r"vol\.?-?\s*(\d+)",slug) or re.search(r"[.\-](\d+)(?:\.html|\.\.|$)",slug)
@@ -72,6 +75,7 @@ def libraccio_isbns(series,n):
     return out[:5]
 def retailer_urls(isbn):
     return [("amazon","https://m.media-amazon.com/images/P/%s.01._SCRMZZZZZZ_.jpg"%isbn10(isbn)),("ibs","https://www.ibs.it/images/%s_0_0_1200_0_75.jpg"%isbn)]
+DBG=[]
 os.makedirs("reports/manga-upgrade",exist_ok=True)
 rep=[]; changed=0
 for f,series,n,cw in tg:
@@ -110,4 +114,5 @@ for f,series,n,cw in tg:
 name="reports/manga-upgrade/%s-%d-%d.csv"%(MODE,START,START+COUNT)
 with open(name,"w",newline="",encoding="utf8") as fh:
     w=csv.writer(fh); w.writerow(["file","esito","largh_attuale","nuova_dimensione","fonte","titolo_o_slug","somiglianza","url_o_motivo"]); w.writerows(rep)
+open("reports/manga-upgrade/debug.txt","w",encoding="utf8").write("\n".join(DBG))
 print("migliorate:",sum(1 for r in rep if r[1]=="MIGLIORATA"),"su",len(rep))
