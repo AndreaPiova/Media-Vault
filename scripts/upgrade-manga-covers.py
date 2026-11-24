@@ -39,13 +39,26 @@ for f in files:
     w=Image.open("covers/manga/"+f).size[0]
     if w<800: tg.append((f,m.group(1),int(m.group(2)),w))
 if ONLY: tg=[t for t in tg if ONLY in t[0]]
+RF=os.environ.get("RETRY_FROM","").strip()
+if RF and os.path.exists(RF):
+    prev={r["file"]:r for r in csv.DictReader(open(RF,encoding="utf8"))}
+    tg=[t for t in tg if prev.get(t[0],{}).get("esito")=="SALTATA" and "nessun candidato" in prev[t[0]].get("url_o_motivo","")]
 tg=tg[START:START+COUNT]; print("target di questo blocco:",len(tg),flush=True)
+
+def fetch(url,params=None,minlen=2000):
+    for a in range(4):
+        try:
+            r=S.get(url,params=params,timeout=60)
+            if r.status_code in (403,429,503) or len(r.text)<minlen:
+                time.sleep(20*(a+1)); continue
+            return r.text
+        except Exception: time.sleep(10*(a+1))
+    return ""
 def star_candidates(series,n):
     q=" ".join(t for t in series.split("_") if len(t)>1)+" "+str(n)
-    try: html=S.get("https://www.starcomics.com/ricerca-fumetti",params={"q":q,"shop":0},timeout=60).text
-    except Exception: return []
+    html=fetch("https://www.starcomics.com/ricerca-fumetti",{"q":q,"shop":0})
+    if not html: return []
     slugs=list(dict.fromkeys(re.findall(r'/fumetto/([a-z0-9\-]+)',html)))
-    if os.environ.get("DEBUG"): DBG.append("STAR q=%s len_html=%d slugs=%d primi: %s"%(q,len(html),len(slugs),slugs[:6]))
     st=set(norm(series.replace("_"," ")))-STOP; out=[]
     for s in slugs:
         mm=re.match(r"(.+)-(\d+)$",s)
@@ -54,7 +67,7 @@ def star_candidates(series,n):
         if st and len(st&tk)/len(st|tk)>=0.6: out.append(s)
     return out[:3]
 def star_img(slug):
-    html=S.get("https://www.starcomics.com/fumetto/"+slug,timeout=60).text
+    html=fetch("https://www.starcomics.com/fumetto/"+slug)
     m=re.search(r'property="og:image"[^>]*content="([^"]+)"',html)
     return m.group(1) if m else None
 
@@ -63,11 +76,9 @@ def isbn10(i13):
     d=[int(c) for c in i13[3:12]]; t=sum((10-k)*x for k,x in enumerate(d)); c=(11-t%11)%11; return "".join(map(str,d))+("X" if c==10 else str(c))
 def libraccio_isbns(series,n):
     q=" ".join(t for t in series.split("_") if len(t)>1)+" "+str(n)
-    try: h=S.get("https://www.libraccio.it/src/",params={"FT":q},timeout=60).text
-    except Exception: return []
+    h=fetch("https://www.libraccio.it/src/",{"FT":q})
+    if not h: return []
     st=set(norm(series.replace("_"," ")))-STOP; out=[]
-    _all=re.findall(r'href="(/libro/(97[89]\\d{10})[^"]*)"',h)
-    if os.environ.get("DEBUG"): DBG.append("LIBRACCIO q=%s status ok, risultati=%d, primi: %s"%(q,len(_all),[_html.unescape(p.split("/",3)[-1])[:55] for p,_ in _all[:6]]))
     for path,isbn in re.findall(r'href="(/libro/(97[89]\d{10})[^"]*)"',h):
         slug=_html.unescape(path.split("/",3)[-1]); tk=set(norm(slug))-STOP
         m=re.search(r"vol\.?-?\s*(\d+)",slug) or re.search(r"[.\-](\d+)(?:\.html|\.\.|$)",slug)
@@ -110,8 +121,8 @@ for f,series,n,cw in tg:
         rep.append([f,"MIGLIORATA",cw,"%dx%d"%(W,round(W*1.5)),src,label,round(s,2),u])
         if MODE=="apply": out.save("covers/manga/"+f,"JPEG",quality=100,subsampling=0,optimize=True); changed+=1
     else: rep.append([f,"SALTATA",cw,"","","",0,why])
-    print(rep[-1][:2],f,rep[-1][-1][:70],flush=True); time.sleep(0.4)
-name="reports/manga-upgrade/%s-%d-%d.csv"%(MODE,START,START+COUNT)
+    print(rep[-1][:2],f,rep[-1][-1][:70],flush=True); time.sleep(1.3)
+name="reports/manga-upgrade/%s%s-%d-%d.csv"%(MODE,"-retry" if RF else "",START,START+COUNT)
 with open(name,"w",newline="",encoding="utf8") as fh:
     w=csv.writer(fh); w.writerow(["file","esito","largh_attuale","nuova_dimensione","fonte","titolo_o_slug","somiglianza","url_o_motivo"]); w.writerows(rep)
 open("reports/manga-upgrade/debug.txt","w",encoding="utf8").write("\n".join(DBG))
