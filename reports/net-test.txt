@@ -1,6 +1,0 @@
-== https://www.starcomics.com
-HTTP 200
-== https://www.j-pop.it
-HTTP 301
-== https://www.panini.it
-HTTP 301
